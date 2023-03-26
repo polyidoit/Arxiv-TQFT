@@ -283,8 +283,8 @@ def json_to_md(filename,md_filename,
         else:
             f.write("> Updated on " + DateNow + "\n")
 
-        TODO: add usage
-        f.write("> Usage instructions: [here](./README.md)\n\n")
+        #TODO: add usage
+        #f.write("> Usage instructions: [here](./README.md)\n\n")
 
         #Add: table of contents
         if use_tc == True:
@@ -329,10 +329,7 @@ def json_to_md(filename,md_filename,
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
             
-            if show_badge == False:
-            # we don't like long string, break it!
-            f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
+       
      
                 
     logging.info(f"{task} finished")        
