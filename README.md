@@ -1,6 +1,4 @@
 ## Updated on 2023.03.26
-> Usage instructions: [here](./docs/README.md#usage)
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
