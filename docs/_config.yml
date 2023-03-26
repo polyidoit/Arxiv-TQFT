@@ -10,7 +10,7 @@ github:
 remote_theme: jekyll/minima@v2.5.1
 
 # minima:
-skin: jekyll
+skin: dark
 social_links:
   twitter: ZhianJia
   github: polyidiot
