@@ -1,5 +1,5 @@
 title: TQFT Arxiv Daily
-description: Automatically Update TQFT Papers Daily using Github Actions (Update Every 8th hours)
+description: Automatically Update TQFT Papers Daily based on code by Vincentqyw
 show_downloads: true
 
 github:
