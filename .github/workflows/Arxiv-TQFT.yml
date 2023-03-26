@@ -52,7 +52,7 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update CV Arxiv Papers"
+          commit-message: "Github Action Automatic Update TQFT Arxiv Papers"
           files: README.md docs/Arxiv-TQFT.json docs/Arxiv-TQFT-web.json docs/index.md docs/Arxiv-TQFT-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
