@@ -8,6 +8,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-25**|**Computing entanglement entropy of interacting fermions with quantum Monte Carlo: Why we failed and how to get it right**|Gaopei Pan et.al.|[2303.14326](http://arxiv.org/abs/2303.14326)|null|
+|**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|null|
 |**2023-03-22**|**Classification and emergence of quantum spin liquids in chiral Rydberg models**|Poetri Sonya Tarabunga et.al.|[2303.12829](http://arxiv.org/abs/2303.12829)|null|
 |**2023-03-21**|**Dissipative preparation and stabilization of many-body quantum states in a superconducting qutrit array**|Yunzhao Wang et.al.|[2303.12111](http://arxiv.org/abs/2303.12111)|null|
 |**2023-03-26**|**Investigating Topological Order using Recurrent Neural Networks**|Mohamed Hibat-Allah et.al.|[2303.11207](http://arxiv.org/abs/2303.11207)|null|
@@ -19,14 +20,31 @@ layout: default
 |**2023-03-09**|**Quantum memory error correction computation based on Chamon model**|Jian Zhao et.al.|[2303.05267](http://arxiv.org/abs/2303.05267)|null|
 |**2023-03-25**|**Extracting higher central charge from a single wave function**|Ryohei Kobayashi et.al.|[2303.04822](http://arxiv.org/abs/2303.04822)|null|
 |**2023-03-14**|**A lattice model for condensation in Levin-Wen systems**|Jessica Christian et.al.|[2303.04711](http://arxiv.org/abs/2303.04711)|null|
+|**2023-03-07**|**Universal approach to p-wave triplet superconductivity in the Hubbard models**|Wanpeng Han et.al.|[2303.04004](http://arxiv.org/abs/2303.04004)|null|
 |**2023-03-07**|**Ordered Locales**|Chris Heunen et.al.|[2303.03813](http://arxiv.org/abs/2303.03813)|null|
+|**2023-03-04**|**Topological Quantum Gates in Homotopy Type Theory**|David Jaz Myers et.al.|[2303.02382](http://arxiv.org/abs/2303.02382)|null|
+|**2023-03-02**|**Concurrent Ferromagnetism and Superconductivity in Fe(Te,Se) van der Waals Josephson Junctions**|Gang Qiu et.al.|[2303.00966](http://arxiv.org/abs/2303.00966)|null|
+|**2023-02-22**|**Effect of Aberrations on 3D optical topologies**|Nazanin Dehghan et.al.|[2302.11531](http://arxiv.org/abs/2302.11531)|null|
+|**2023-02-20**|**Quantum computation at the edge of a disordered Kitaev honeycomb lattice**|Igor Timoshuk et.al.|[2302.10123](http://arxiv.org/abs/2302.10123)|null|
+|**2023-02-20**|**Quantum computations with topological edge states**|Igor Timoshuk et.al.|[2302.10101](http://arxiv.org/abs/2302.10101)|null|
+|**2023-02-20**|**Gate Defined Josephson Junctions in Monolayer $\mathrm{WTe_2}$**|Michael D. Randle et.al.|[2302.09776](http://arxiv.org/abs/2302.09776)|null|
+|**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
+|**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
 ## TQFT
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**Motion and teleportation of polar bubbles in ultra-thin ferroelectrics**|S. Prokhorenko et.al.|[2303.13883](http://arxiv.org/abs/2303.13883)|null|
+|**2023-03-23**|**Dynamics of active defects on the anisotropic surface of an ellipsoidal droplet**|Martina Clairand et.al.|[2303.13312](http://arxiv.org/abs/2303.13312)|null|
 |**2023-03-22**|**Fermionic Higher-form Symmetries**|Yi-Nan Wang et.al.|[2303.12633](http://arxiv.org/abs/2303.12633)|null|
 |**2023-03-21**|**A topological quantum field theory approach to graph coloring**|Scott Baldridge et.al.|[2303.12010](http://arxiv.org/abs/2303.12010)|null|
+|**2023-03-20**|**Mott-Slater Transition in a Textured Cuprate Antiferromagnet**|R. S. Markiewicz et.al.|[2303.11254](http://arxiv.org/abs/2303.11254)|null|
+|**2023-03-20**|**More on Dark Topological Defects**|Akifumi Chitose et.al.|[2303.10861](http://arxiv.org/abs/2303.10861)|null|
+|**2023-03-20**|**Machine learning topological defects in confluent tissues**|Andrew Killeen et.al.|[2303.08166](http://arxiv.org/abs/2303.08166)|**[link](https://github.com/killeena/ml_defectdetection)**|
+|**2023-03-13**|**Spontaneous flows and dynamics of full-integer topological defects in polar active matter**|Jonas Rønning et.al.|[2303.07063](http://arxiv.org/abs/2303.07063)|null|
+|**2023-03-10**|**Higher order theory of quasi-isodynamicity near the magnetic axis of stellarators**|Eduardo Rodriguez et.al.|[2303.06038](http://arxiv.org/abs/2303.06038)|null|
+|**2023-03-09**|**Phase Transitions in Abelian Lattice Gauge Theory: Production and Dissolution of Monopoles and Monopole-Antimonopole Pairs**|Loris Di Cairano et.al.|[2303.05306](http://arxiv.org/abs/2303.05306)|null|
 |**2023-03-05**|**This Week's Finds in Mathematical Physics (101-150)**|John C. Baez et.al.|[2303.02785](http://arxiv.org/abs/2303.02785)|null|
 |**2023-03-09**|**Dualisation of free fields**|V. A. Abakumova et.al.|[2303.02616](http://arxiv.org/abs/2303.02616)|null|
 |**2023-02-28**|**Categorical Symmetry of the Standard Model from Gravitational Anomaly**|Pavel Putrov et.al.|[2302.14862](http://arxiv.org/abs/2302.14862)|null|
