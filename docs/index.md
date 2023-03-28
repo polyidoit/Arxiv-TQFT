@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-25**|**Computing entanglement entropy of interacting fermions with quantum Monte Carlo: Why we failed and how to get it right**|Gaopei Pan et.al.|[2303.14326](http://arxiv.org/abs/2303.14326)|null|
 |**2023-03-22**|**Classification and emergence of quantum spin liquids in chiral Rydberg models**|Poetri Sonya Tarabunga et.al.|[2303.12829](http://arxiv.org/abs/2303.12829)|null|
 |**2023-03-21**|**Dissipative preparation and stabilization of many-body quantum states in a superconducting qutrit array**|Yunzhao Wang et.al.|[2303.12111](http://arxiv.org/abs/2303.12111)|null|
 |**2023-03-26**|**Investigating Topological Order using Recurrent Neural Networks**|Mohamed Hibat-Allah et.al.|[2303.11207](http://arxiv.org/abs/2303.11207)|null|
