@@ -23,8 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "TQFT":
-        filters: ["TQFT", "Topological Field Theory", "Topological Quantum Field Theory"，
-        "Topological defect"， "Homotopical quantum field theory", 
+        filters: ["TQFT", "Topological Field Theory", "Topological Quantum Field Theory",
+        "Topological defect", "Homotopical quantum field theory", 
         "Gravitational anomaly"
         "Chern-Simons theory"]
     "Topological order": 
