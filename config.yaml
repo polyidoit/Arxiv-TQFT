@@ -22,6 +22,11 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "TQFT":
+        filters: ["TQFT", "Topological Field Theory", "Topological Quantum Field Theory"，
+        "Topological defect"， "Homotopical quantum field theory", 
+        "Gravitational anomaly"
+        "Chern-Simons theory"]
     "Topological order": 
         filters: ["Topological Order", "Topological Entanglement Entropy", 
         "Toric Code", "Quantum Double Model", "Levin-Wen Model", "Walker-Wang Model",
@@ -29,8 +34,6 @@ keywords:
         "Symmetry-enriched topological Phase",
         "Fractional Statistics", 
         "String-net Model"]
-    "TQFT":
-        filters: ["TQFT", "Topological Field Theory", "Topological Quantum Field Theory"]
-    "Topological Quantum Computation":
+        "Topological Quantum Computation":
         filters: ["Topological Quantum Computation","Topological Code",
                   "Topological Quantum Error-Correction"]
