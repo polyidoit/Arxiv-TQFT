@@ -1,4 +1,4 @@
-## Updated on 2023.03.28
+## Updated on 2023.03.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -36,7 +36,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## TQFT
 
@@ -70,7 +70,7 @@
 |**2022-10-03**|**Parity and Spin CFT with boundaries and defects**|Ingo Runkel et.al.|[2210.01057](http://arxiv.org/abs/2210.01057)|null|
 |**2022-09-27**|**Generalized symmetries of topological field theories**|Ben Gripaios et.al.|[2209.13524](http://arxiv.org/abs/2209.13524)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
 ## Topological Quantum Computation
 
@@ -87,5 +87,5 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230329>back to top</a>)</p>
 
