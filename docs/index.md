@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-27**|**Topological superconductors from a materials perspective**|Manasi Mandal et.al.|[2303.15581](http://arxiv.org/abs/2303.15581)|null|
 |**2023-03-25**|**Computing entanglement entropy of interacting fermions with quantum Monte Carlo: Why we failed and how to get it right**|Gaopei Pan et.al.|[2303.14326](http://arxiv.org/abs/2303.14326)|null|
 |**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|null|
 |**2023-03-22**|**Classification and emergence of quantum spin liquids in chiral Rydberg models**|Poetri Sonya Tarabunga et.al.|[2303.12829](http://arxiv.org/abs/2303.12829)|null|
