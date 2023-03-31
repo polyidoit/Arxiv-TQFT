@@ -37,6 +37,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**Complete crystalline topological invariants from partial rotations in (2+1)D invertible fermionic states and Hofstadter's butterfly**|Yuxuan Zhang et.al.|[2303.16919](http://arxiv.org/abs/2303.16919)|null|
 |**2023-03-29**|**Communication protocols and quantum error-correcting codes from the perspective of topological quantum field theory**|Chris Fields et.al.|[2303.16461](http://arxiv.org/abs/2303.16461)|null|
 |**2023-03-29**|**Topological error correcting processes from fixed-point path integrals**|Andreas Bauer et.al.|[2303.16405](http://arxiv.org/abs/2303.16405)|null|
 |**2023-03-24**|**Motion and teleportation of polar bubbles in ultra-thin ferroelectrics**|S. Prokhorenko et.al.|[2303.13883](http://arxiv.org/abs/2303.13883)|null|
