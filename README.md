@@ -5,6 +5,7 @@
     <li><a href=#Topological-order>Topological order</a></li>
     <li><a href=#TQFT>TQFT</a></li>
     <li><a href=#Topological-Quantum-Computation>Topological Quantum Computation</a></li>
+    <li><a href=#Fracton>Fracton</a></li>
   </ol>
 </details>
 
@@ -12,8 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-30**|**Dynamical phase transition in the occupation fraction statistics for non-crossing Brownian particles**|Soheli Mukherjee et.al.|[2303.17250](http://arxiv.org/abs/2303.17250)|null|
+|**2023-03-29**|**Unfolding the Toric Code Model with Emergent Qubits**|Brijesh Kumar et.al.|[2303.17044](http://arxiv.org/abs/2303.17044)|null|
 |**2023-03-29**|**Highly-Anisotropic Even-Denominator Fractional Quantum Hall State in an Orbitally-Coupled Half-Filled Landau Level**|Chengyu Wang et.al.|[2303.16791](http://arxiv.org/abs/2303.16791)|null|
+|**2023-03-29**|**Topological error correcting processes from fixed-point path integrals**|Andreas Bauer et.al.|[2303.16405](http://arxiv.org/abs/2303.16405)|null|
+|**2023-03-28**|**The topological order in loop quantum gravity**|Jingbo Wang et.al.|[2303.15760](http://arxiv.org/abs/2303.15760)|null|
 |**2023-03-27**|**Topological superconductors from a materials perspective**|Manasi Mandal et.al.|[2303.15581](http://arxiv.org/abs/2303.15581)|null|
+|**2023-03-27**|**Randomized measurement protocols for lattice gauge theories**|Jacob Bringewatt et.al.|[2303.15519](http://arxiv.org/abs/2303.15519)|null|
 |**2023-03-25**|**Computing entanglement entropy of interacting fermions with quantum Monte Carlo: Why we failed and how to get it right**|Gaopei Pan et.al.|[2303.14326](http://arxiv.org/abs/2303.14326)|null|
 |**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|null|
 |**2023-03-22**|**Classification and emergence of quantum spin liquids in chiral Rydberg models**|Poetri Sonya Tarabunga et.al.|[2303.12829](http://arxiv.org/abs/2303.12829)|null|
@@ -81,6 +87,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**Highly-Anisotropic Even-Denominator Fractional Quantum Hall State in an Orbitally-Coupled Half-Filled Landau Level**|Chengyu Wang et.al.|[2303.16791](http://arxiv.org/abs/2303.16791)|null|
+|**2023-03-27**|**Topological superconductors from a materials perspective**|Manasi Mandal et.al.|[2303.15581](http://arxiv.org/abs/2303.15581)|null|
 |**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|null|
 |**2023-03-07**|**Universal approach to p-wave triplet superconductivity in the Hubbard models**|Wanpeng Han et.al.|[2303.04004](http://arxiv.org/abs/2303.04004)|null|
 |**2023-03-04**|**Topological Quantum Gates in Homotopy Type Theory**|David Jaz Myers et.al.|[2303.02382](http://arxiv.org/abs/2303.02382)|null|
@@ -91,6 +99,23 @@
 |**2023-02-20**|**Gate Defined Josephson Junctions in Monolayer $\mathrm{WTe_2}$**|Michael D. Randle et.al.|[2302.09776](http://arxiv.org/abs/2302.09776)|null|
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
+
+<p align=right>(<a href=#Updated-on-20230401>back to top</a>)</p>
+
+## Fracton
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-02-06**|**High threshold codes for neutral atom qubits with biased erasure errors**|Kaavya Sahay et.al.|[2302.03063](http://arxiv.org/abs/2302.03063)|null|
+|**2022-12-31**|**Renormalization of Ising cage-net model and generalized foliation**|Zongyuan Wang et.al.|[2301.00103](http://arxiv.org/abs/2301.00103)|null|
+|**2022-12-21**|**Biased Gottesman-Kitaev-Preskill repetition code**|Matthew P. Stafford et.al.|[2212.11397](http://arxiv.org/abs/2212.11397)|null|
+|**2022-11-28**|**Y-cube model and fractal structure of subdimensional particles on hyperbolic lattices**|Han Yan et.al.|[2211.15829](http://arxiv.org/abs/2211.15829)|null|
+|**2022-12-27**|**Hierarchy of Entanglement Renormalization and Long-Range Entangled States**|Meng-Yuan Li et.al.|[2211.14136](http://arxiv.org/abs/2211.14136)|null|
+|**2023-02-01**|**Ground state degeneracy of the Ising cage-net model**|Xiuqi Ma et.al.|[2211.09168](http://arxiv.org/abs/2211.09168)|null|
+|**2022-11-10**|**The X-Cube Floquet Code**|Zhehao Zhang et.al.|[2211.05784](http://arxiv.org/abs/2211.05784)|null|
+|**2022-11-03**|**Tailoring three-dimensional topological codes for biased noise**|Eric Huang et.al.|[2211.02116](http://arxiv.org/abs/2211.02116)|**[link](https://github.com/panqec/panqec)**|
+|**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
+|**2022-10-11**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
 <p align=right>(<a href=#Updated-on-20230401>back to top</a>)</p>
 
