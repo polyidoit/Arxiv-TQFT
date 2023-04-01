@@ -34,6 +34,8 @@ keywords:
         "Symmetry-enriched topological Phase",
         "Fractional Statistics", 
         "String-net Model"]
-        "Topological Quantum Computation":
+    "Topological Quantum Computation":
         filters: ["Topological Quantum Computation","Topological Code",
                   "Topological Quantum Error-Correction"]
+    "Fracton":
+        filters: ["X-cube model", "Haah cubic code", "XZZX surface code"]
