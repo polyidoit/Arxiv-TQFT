@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**Floquet codes and phases in twist-defect networks**|Joseph Sullivan et.al.|[2303.17664](http://arxiv.org/abs/2303.17664)|null|
+|**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Dynamical phase transition in the occupation fraction statistics for non-crossing Brownian particles**|Soheli Mukherjee et.al.|[2303.17250](http://arxiv.org/abs/2303.17250)|null|
 |**2023-03-29**|**Unfolding the Toric Code Model with Emergent Qubits**|Brijesh Kumar et.al.|[2303.17044](http://arxiv.org/abs/2303.17044)|null|
 |**2023-03-29**|**Highly-Anisotropic Even-Denominator Fractional Quantum Hall State in an Orbitally-Coupled Half-Filled Landau Level**|Chengyu Wang et.al.|[2303.16791](http://arxiv.org/abs/2303.16791)|null|
