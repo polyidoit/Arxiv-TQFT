@@ -1,4 +1,4 @@
-## Updated on 2023.04.02
+## Updated on 2023.04.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -44,7 +44,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## TQFT
 
@@ -81,7 +81,7 @@
 |**2022-10-03**|**Parity and Spin CFT with boundaries and defects**|Ingo Runkel et.al.|[2210.01057](http://arxiv.org/abs/2210.01057)|null|
 |**2022-09-27**|**Generalized symmetries of topological field theories**|Ben Gripaios et.al.|[2209.13524](http://arxiv.org/abs/2209.13524)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Topological Quantum Computation
 
@@ -93,14 +93,14 @@
 |**2023-03-07**|**Universal approach to p-wave triplet superconductivity in the Hubbard models**|Wanpeng Han et.al.|[2303.04004](http://arxiv.org/abs/2303.04004)|null|
 |**2023-03-04**|**Topological Quantum Gates in Homotopy Type Theory**|David Jaz Myers et.al.|[2303.02382](http://arxiv.org/abs/2303.02382)|null|
 |**2023-03-02**|**Concurrent Ferromagnetism and Superconductivity in Fe(Te,Se) van der Waals Josephson Junctions**|Gang Qiu et.al.|[2303.00966](http://arxiv.org/abs/2303.00966)|null|
-|**2023-02-22**|**Effect of Aberrations on 3D optical topologies**|Nazanin Dehghan et.al.|[2302.11531](http://arxiv.org/abs/2302.11531)|null|
+|**2023-03-31**|**Effect of Aberrations on 3D optical topologies**|Nazanin Dehghan et.al.|[2302.11531](http://arxiv.org/abs/2302.11531)|null|
 |**2023-02-20**|**Quantum computation at the edge of a disordered Kitaev honeycomb lattice**|Igor Timoshuk et.al.|[2302.10123](http://arxiv.org/abs/2302.10123)|null|
 |**2023-02-20**|**Quantum computations with topological edge states**|Igor Timoshuk et.al.|[2302.10101](http://arxiv.org/abs/2302.10101)|null|
 |**2023-02-20**|**Gate Defined Josephson Junctions in Monolayer $\mathrm{WTe_2}$**|Michael D. Randle et.al.|[2302.09776](http://arxiv.org/abs/2302.09776)|null|
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Fracton
 
@@ -117,5 +117,5 @@
 |**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
 |**2022-10-11**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
