@@ -1,4 +1,4 @@
-## Updated on 2023.04.03
+## Updated on 2023.04.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -22,7 +22,7 @@
 |**2023-03-28**|**The topological order in loop quantum gravity**|Jingbo Wang et.al.|[2303.15760](http://arxiv.org/abs/2303.15760)|null|
 |**2023-03-27**|**Topological superconductors from a materials perspective**|Manasi Mandal et.al.|[2303.15581](http://arxiv.org/abs/2303.15581)|null|
 |**2023-03-27**|**Randomized measurement protocols for lattice gauge theories**|Jacob Bringewatt et.al.|[2303.15519](http://arxiv.org/abs/2303.15519)|null|
-|**2023-03-25**|**Computing entanglement entropy of interacting fermions with quantum Monte Carlo: Why we failed and how to get it right**|Gaopei Pan et.al.|[2303.14326](http://arxiv.org/abs/2303.14326)|null|
+|**2023-04-02**|**Computing entanglement entropy of interacting fermions with quantum Monte Carlo: Why we failed and how to get it right**|Gaopei Pan et.al.|[2303.14326](http://arxiv.org/abs/2303.14326)|null|
 |**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|null|
 |**2023-03-22**|**Classification and emergence of quantum spin liquids in chiral Rydberg models**|Poetri Sonya Tarabunga et.al.|[2303.12829](http://arxiv.org/abs/2303.12829)|null|
 |**2023-03-21**|**Dissipative preparation and stabilization of many-body quantum states in a superconducting qutrit array**|Yunzhao Wang et.al.|[2303.12111](http://arxiv.org/abs/2303.12111)|null|
@@ -46,7 +46,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
 
 ## TQFT
 
@@ -83,7 +83,7 @@
 |**2022-10-03**|**Parity and Spin CFT with boundaries and defects**|Ingo Runkel et.al.|[2210.01057](http://arxiv.org/abs/2210.01057)|null|
 |**2022-09-27**|**Generalized symmetries of topological field theories**|Ben Gripaios et.al.|[2209.13524](http://arxiv.org/abs/2209.13524)|null|
 
-<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
 
 ## Topological Quantum Computation
 
@@ -102,7 +102,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
 
 ## Fracton
 
@@ -119,5 +119,5 @@
 |**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
 |**2022-10-11**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
-<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
 
