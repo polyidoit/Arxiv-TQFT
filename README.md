@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-31**|**Fracton Self-Statistics**|Hao Song et.al.|[2304.00028](http://arxiv.org/abs/2304.00028)|null|
 |**2023-03-30**|**Floquet codes and phases in twist-defect networks**|Joseph Sullivan et.al.|[2303.17664](http://arxiv.org/abs/2303.17664)|null|
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
 |**2023-03-30**|**Dynamical phase transition in the occupation fraction statistics for non-crossing Brownian particles**|Soheli Mukherjee et.al.|[2303.17250](http://arxiv.org/abs/2303.17250)|null|
@@ -52,6 +53,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Visualization of Alternating Triangular Domains of Charge Density Waves in 2H-NbSe $_2$ by Scanning Tunneling Microscopy**|Shunsuke Yoshizawa et.al.|[2304.00846](http://arxiv.org/abs/2304.00846)|null|
+|**2023-03-31**|**Subdiffusive Dynamics of Topological Vortex Strings of a Charge Density Wave**|Gal Orenstein et.al.|[2304.00168](http://arxiv.org/abs/2304.00168)|null|
+|**2023-03-31**|**A $G$ -equivariant String-Net Construction**|Adrien DeLazzer Meunier et.al.|[2304.00106](http://arxiv.org/abs/2304.00106)|null|
 |**2023-03-29**|**Complete crystalline topological invariants from partial rotations in (2+1)D invertible fermionic states and Hofstadter's butterfly**|Yuxuan Zhang et.al.|[2303.16919](http://arxiv.org/abs/2303.16919)|null|
 |**2023-03-29**|**Communication protocols and quantum error-correcting codes from the perspective of topological quantum field theory**|Chris Fields et.al.|[2303.16461](http://arxiv.org/abs/2303.16461)|null|
 |**2023-03-29**|**Topological error correcting processes from fixed-point path integrals**|Andreas Bauer et.al.|[2303.16405](http://arxiv.org/abs/2303.16405)|null|
@@ -89,6 +93,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Universal Braiding Quantum Gates**|David Lovitz et.al.|[2304.00710](http://arxiv.org/abs/2304.00710)|null|
 |**2023-03-29**|**Highly-Anisotropic Even-Denominator Fractional Quantum Hall State in an Orbitally-Coupled Half-Filled Landau Level**|Chengyu Wang et.al.|[2303.16791](http://arxiv.org/abs/2303.16791)|null|
 |**2023-03-27**|**Topological superconductors from a materials perspective**|Manasi Mandal et.al.|[2303.15581](http://arxiv.org/abs/2303.15581)|null|
 |**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|null|
