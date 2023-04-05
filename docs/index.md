@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**Anomalies of $(1+1)D$ categorical symmetries**|Carolyn Zhang et.al.|[2304.01262](http://arxiv.org/abs/2304.01262)|null|
 |**2023-03-31**|**Fracton Self-Statistics**|Hao Song et.al.|[2304.00028](http://arxiv.org/abs/2304.00028)|null|
 |**2023-03-30**|**Floquet codes and phases in twist-defect networks**|Joseph Sullivan et.al.|[2303.17664](http://arxiv.org/abs/2303.17664)|null|
 |**2023-03-30**|**Structured volume-law entanglement in an interacting, monitored Majorana spin liquid**|Guo-Yi Zhu et.al.|[2303.17627](http://arxiv.org/abs/2303.17627)|null|
@@ -83,6 +84,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**Measurement Quantum Cellular Automata and Anomalies in Floquet Codes**|David Aasen et.al.|[2304.01277](http://arxiv.org/abs/2304.01277)|null|
 |**2023-04-03**|**Universal Braiding Quantum Gates**|David Lovitz et.al.|[2304.00710](http://arxiv.org/abs/2304.00710)|null|
 |**2023-03-29**|**Highly-Anisotropic Even-Denominator Fractional Quantum Hall State in an Orbitally-Coupled Half-Filled Landau Level**|Chengyu Wang et.al.|[2303.16791](http://arxiv.org/abs/2303.16791)|null|
 |**2023-03-27**|**Topological superconductors from a materials perspective**|Manasi Mandal et.al.|[2303.15581](http://arxiv.org/abs/2303.15581)|null|
