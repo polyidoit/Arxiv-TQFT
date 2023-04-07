@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**Causal Discovery with Score Matching on Additive Models with Arbitrary Noise**|Francesco Montagna et.al.|[2304.03265](http://arxiv.org/abs/2304.03265)|null|
 |**2023-04-04**|**Structure Learning with Continuous Optimization: A Sober Look and Beyond**|Ignavier Ng et.al.|[2304.02146](http://arxiv.org/abs/2304.02146)|null|
 |**2023-04-03**|**Anomalies of $(1+1)D$ categorical symmetries**|Carolyn Zhang et.al.|[2304.01262](http://arxiv.org/abs/2304.01262)|null|
 |**2023-03-31**|**Fracton Self-Statistics**|Hao Song et.al.|[2304.00028](http://arxiv.org/abs/2304.00028)|null|
@@ -47,6 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**Electrically-excited Motion of Topological Defects in Multiferroic Materials**|Maxim Mostovoy et.al.|[2304.03111](http://arxiv.org/abs/2304.03111)|null|
 |**2023-04-05**|**Dynamical theory of topological defects I: the multivalued solution of the diffusion equation**|Jacopo Romano et.al.|[2304.02348](http://arxiv.org/abs/2304.02348)|null|
 |**2023-04-03**|**Visualization of Alternating Triangular Domains of Charge Density Waves in 2H-NbSe $_2$ by Scanning Tunneling Microscopy**|Shunsuke Yoshizawa et.al.|[2304.00846](http://arxiv.org/abs/2304.00846)|null|
 |**2023-03-31**|**Subdiffusive Dynamics of Topological Vortex Strings of a Charge Density Wave**|Gal Orenstein et.al.|[2304.00168](http://arxiv.org/abs/2304.00168)|null|
