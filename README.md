@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**Nonlinear response of the Kitaev honeycomb lattice model in a weak magnetic field**|M. Kazem Negahdari et.al.|[2304.03521](http://arxiv.org/abs/2304.03521)|null|
+|**2023-04-06**|**Scalable Causal Discovery with Score Matching**|Francesco Montagna et.al.|[2304.03382](http://arxiv.org/abs/2304.03382)|null|
 |**2023-04-06**|**Causal Discovery with Score Matching on Additive Models with Arbitrary Noise**|Francesco Montagna et.al.|[2304.03265](http://arxiv.org/abs/2304.03265)|null|
 |**2023-04-04**|**Structure Learning with Continuous Optimization: A Sober Look and Beyond**|Ignavier Ng et.al.|[2304.02146](http://arxiv.org/abs/2304.02146)|null|
 |**2023-04-03**|**Anomalies of $(1+1)D$ categorical symmetries**|Carolyn Zhang et.al.|[2304.01262](http://arxiv.org/abs/2304.01262)|null|
@@ -98,6 +100,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**Wiener-Hopf factorization approach to a bulk-boundary correspondence and stability conditions for topological zero-energy modes**|Abhijeet Alase et.al.|[2304.03524](http://arxiv.org/abs/2304.03524)|null|
 |**2023-04-03**|**Measurement Quantum Cellular Automata and Anomalies in Floquet Codes**|David Aasen et.al.|[2304.01277](http://arxiv.org/abs/2304.01277)|null|
 |**2023-04-03**|**Universal Braiding Quantum Gates**|David Lovitz et.al.|[2304.00710](http://arxiv.org/abs/2304.00710)|null|
 |**2023-03-29**|**Highly-Anisotropic Even-Denominator Fractional Quantum Hall State in an Orbitally-Coupled Half-Filled Landau Level**|Chengyu Wang et.al.|[2303.16791](http://arxiv.org/abs/2303.16791)|null|
