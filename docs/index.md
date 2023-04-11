@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.10
+## Updated on 2023.04.11
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -119,5 +119,5 @@ layout: default
 |**2022-11-10**|**The X-Cube Floquet Code**|Zhehao Zhang et.al.|[2211.05784](http://arxiv.org/abs/2211.05784)|null|
 |**2022-11-03**|**Tailoring three-dimensional topological codes for biased noise**|Eric Huang et.al.|[2211.02116](http://arxiv.org/abs/2211.02116)|**[link](https://github.com/panqec/panqec)**|
 |**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
-|**2022-10-11**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
+|**2023-04-10**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
