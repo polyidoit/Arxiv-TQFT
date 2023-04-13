@@ -58,6 +58,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**Thermodynamic topology of 4D Dyonic AdS black holes in different ensembles**|Naba Jyoti Gogoi et.al.|[2304.05695](http://arxiv.org/abs/2304.05695)|null|
 |**2023-04-11**|**Solving the domain wall problem with first-order phase transition**|Yang Li et.al.|[2304.05220](http://arxiv.org/abs/2304.05220)|null|
 |**2023-04-06**|**Electrically-excited Motion of Topological Defects in Multiferroic Materials**|Maxim Mostovoy et.al.|[2304.03111](http://arxiv.org/abs/2304.03111)|null|
 |**2023-04-05**|**Dynamical theory of topological defects I: the multivalued solution of the diffusion equation**|Jacopo Romano et.al.|[2304.02348](http://arxiv.org/abs/2304.02348)|null|
