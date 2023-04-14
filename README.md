@@ -102,6 +102,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Topological quantum gates and topological entangled states by braiding Majorana fermions**|Motohiko Ezawa et.al.|[2304.06260](http://arxiv.org/abs/2304.06260)|null|
 |**2023-04-07**|**Wiener-Hopf factorization approach to a bulk-boundary correspondence and stability conditions for topological zero-energy modes**|Abhijeet Alase et.al.|[2304.03524](http://arxiv.org/abs/2304.03524)|null|
 |**2023-04-03**|**Measurement Quantum Cellular Automata and Anomalies in Floquet Codes**|David Aasen et.al.|[2304.01277](http://arxiv.org/abs/2304.01277)|null|
 |**2023-04-03**|**Universal Braiding Quantum Gates**|David Lovitz et.al.|[2304.00710](http://arxiv.org/abs/2304.00710)|null|
