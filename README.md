@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**On Learning Time Series Summary DAGs: A Frequency Domain Approach**|Aramayis Dallakyan et.al.|[2304.08482](http://arxiv.org/abs/2304.08482)|null|
+|**2023-04-17**|**Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**|Yu Zhao et.al.|[2304.08475](http://arxiv.org/abs/2304.08475)|null|
+|**2023-04-14**|**The END: An Equivariant Neural Decoder for Quantum Error Correction**|Evgenii Egorov et.al.|[2304.07362](http://arxiv.org/abs/2304.07362)|null|
 |**2023-04-07**|**Nonlinear response of the Kitaev honeycomb lattice model in a weak magnetic field**|M. Kazem Negahdari et.al.|[2304.03521](http://arxiv.org/abs/2304.03521)|null|
 |**2023-04-06**|**Scalable Causal Discovery with Score Matching**|Francesco Montagna et.al.|[2304.03382](http://arxiv.org/abs/2304.03382)|null|
 |**2023-04-06**|**Causal Discovery with Score Matching on Additive Models with Arbitrary Noise**|Francesco Montagna et.al.|[2304.03265](http://arxiv.org/abs/2304.03265)|null|
@@ -58,6 +61,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**|Yu Zhao et.al.|[2304.08475](http://arxiv.org/abs/2304.08475)|null|
+|**2023-04-17**|**Pressure-control of non-ferroelastic ferroelectric domains in ErMnO3**|O. W. Sandvik et.al.|[2304.08423](http://arxiv.org/abs/2304.08423)|null|
+|**2023-04-17**|**Light-responsive nematic colloids and colloidal crystals**|Devika Venkuzhy Sudhakaran et.al.|[2304.07992](http://arxiv.org/abs/2304.07992)|null|
+|**2023-04-14**|**Internal kinematics of {\it GAIA} DR3 wide binaries: anomalous behaviour in the low acceleration regime**|X. Hernandez et.al.|[2304.07322](http://arxiv.org/abs/2304.07322)|null|
 |**2023-04-13**|**Active topological defect absorption by a curvature singularity**|Farzan Vafa et.al.|[2304.06739](http://arxiv.org/abs/2304.06739)|null|
 |**2023-04-12**|**Thermodynamic topology of 4D Dyonic AdS black holes in different ensembles**|Naba Jyoti Gogoi et.al.|[2304.05695](http://arxiv.org/abs/2304.05695)|null|
 |**2023-04-11**|**Solving the domain wall problem with first-order phase transition**|Yang Li et.al.|[2304.05220](http://arxiv.org/abs/2304.05220)|null|
@@ -103,6 +110,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**|Yu Zhao et.al.|[2304.08475](http://arxiv.org/abs/2304.08475)|null|
+|**2023-04-17**|**Signatures of Fractional Quantum Anomalous Hall States in Twisted MoTe2 Bilayer**|Jiaqi Cai et.al.|[2304.08470](http://arxiv.org/abs/2304.08470)|null|
+|**2023-04-17**|**One-dimensional topological superconductivity in a van der Waals heterostructure**|Jose Martinez-Castro et.al.|[2304.08142](http://arxiv.org/abs/2304.08142)|null|
 |**2023-04-13**|**Topological quantum gates and topological entangled states by braiding Majorana fermions**|Motohiko Ezawa et.al.|[2304.06260](http://arxiv.org/abs/2304.06260)|null|
 |**2023-04-07**|**Wiener-Hopf factorization approach to a bulk-boundary correspondence and stability conditions for topological zero-energy modes**|Abhijeet Alase et.al.|[2304.03524](http://arxiv.org/abs/2304.03524)|null|
 |**2023-04-03**|**Measurement Quantum Cellular Automata and Anomalies in Floquet Codes**|David Aasen et.al.|[2304.01277](http://arxiv.org/abs/2304.01277)|null|
