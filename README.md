@@ -61,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**Defects in Graphene : A Topological Description**|Amit Goft et.al.|[2304.08905](http://arxiv.org/abs/2304.08905)|null|
 |**2023-04-17**|**Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**|Yu Zhao et.al.|[2304.08475](http://arxiv.org/abs/2304.08475)|null|
 |**2023-04-17**|**Pressure-control of non-ferroelastic ferroelectric domains in ErMnO3**|O. W. Sandvik et.al.|[2304.08423](http://arxiv.org/abs/2304.08423)|null|
 |**2023-04-17**|**Light-responsive nematic colloids and colloidal crystals**|Devika Venkuzhy Sudhakaran et.al.|[2304.07992](http://arxiv.org/abs/2304.07992)|null|
