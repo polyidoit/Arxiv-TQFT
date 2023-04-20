@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -102,7 +102,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-17**|**Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**|Yu Zhao et.al.|[2304.08475](http://arxiv.org/abs/2304.08475)|null|
-|**2023-04-17**|**Signatures of Fractional Quantum Anomalous Hall States in Twisted MoTe2 Bilayer**|Jiaqi Cai et.al.|[2304.08470](http://arxiv.org/abs/2304.08470)|null|
+|**2023-04-18**|**Signatures of Fractional Quantum Anomalous Hall States in Twisted MoTe2 Bilayer**|Jiaqi Cai et.al.|[2304.08470](http://arxiv.org/abs/2304.08470)|null|
 |**2023-04-17**|**One-dimensional topological superconductivity in a van der Waals heterostructure**|Jose Martinez-Castro et.al.|[2304.08142](http://arxiv.org/abs/2304.08142)|null|
 |**2023-04-13**|**Topological quantum gates and topological entangled states by braiding Majorana fermions**|Motohiko Ezawa et.al.|[2304.06260](http://arxiv.org/abs/2304.06260)|null|
 |**2023-04-07**|**Wiener-Hopf factorization approach to a bulk-boundary correspondence and stability conditions for topological zero-energy modes**|Abhijeet Alase et.al.|[2304.03524](http://arxiv.org/abs/2304.03524)|null|
