@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Topological Guided Actor-Critic Modular Learning of Continuous Systems with Temporal Objectives**|Lening Li et.al.|[2304.10041](http://arxiv.org/abs/2304.10041)|null|
 |**2023-04-19**|**$Z_2\times Z_2$ symmetry and $Z_4$ Berry phase of bosonic ladder**|Yoshihito Kuno et.al.|[2304.09533](http://arxiv.org/abs/2304.09533)|null|
 |**2023-04-17**|**On Learning Time Series Summary DAGs: A Frequency Domain Approach**|Aramayis Dallakyan et.al.|[2304.08482](http://arxiv.org/abs/2304.08482)|null|
 |**2023-04-17**|**Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**|Yu Zhao et.al.|[2304.08475](http://arxiv.org/abs/2304.08475)|null|
