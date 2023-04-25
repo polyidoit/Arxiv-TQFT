@@ -55,6 +55,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Fracton-elasticity duality on curved manifolds**|Lazaros Tsaloukidis et.al.|[2304.12242](http://arxiv.org/abs/2304.12242)|null|
+|**2023-04-24**|**Unit inclusion in a (non-semisimple) braided tensor category and (non-compact) relative TQFTs**|Benjamin Haïoun et.al.|[2304.12167](http://arxiv.org/abs/2304.12167)|null|
 |**2023-04-18**|**Defects in Graphene : A Topological Description**|Amit Goft et.al.|[2304.08905](http://arxiv.org/abs/2304.08905)|null|
 |**2023-04-17**|**Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**|Yu Zhao et.al.|[2304.08475](http://arxiv.org/abs/2304.08475)|null|
 |**2023-04-17**|**Pressure-control of non-ferroelastic ferroelectric domains in ErMnO3**|O. W. Sandvik et.al.|[2304.08423](http://arxiv.org/abs/2304.08423)|null|
