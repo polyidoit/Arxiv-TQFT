@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Anyon Quantum Dimensions from an Arbitrary Ground State Wave Function**|Shang Liu et.al.|[2304.13235](http://arxiv.org/abs/2304.13235)|null|
+|**2023-04-25**|**Exotic Field Theories for (Hybrid) Fracton Phases from Imposing Constraints in Foliated Field Theory**|Ryan C. Spieler et.al.|[2304.13067](http://arxiv.org/abs/2304.13067)|null|
 |**2023-04-20**|**Topological Guided Actor-Critic Modular Learning of Continuous Systems with Temporal Objectives**|Lening Li et.al.|[2304.10041](http://arxiv.org/abs/2304.10041)|null|
 |**2023-04-19**|**$Z_2\times Z_2$ symmetry and $Z_4$ Berry phase of bosonic ladder**|Yoshihito Kuno et.al.|[2304.09533](http://arxiv.org/abs/2304.09533)|null|
 |**2023-04-17**|**On Learning Time Series Summary DAGs: A Frequency Domain Approach**|Aramayis Dallakyan et.al.|[2304.08482](http://arxiv.org/abs/2304.08482)|null|
@@ -63,6 +65,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**Solving 3d Gravity with Virasoro TQFT**|Scott Collier et.al.|[2304.13650](http://arxiv.org/abs/2304.13650)|null|
 |**2023-04-14**|**Fracton-elasticity duality on curved manifolds**|Lazaros Tsaloukidis et.al.|[2304.12242](http://arxiv.org/abs/2304.12242)|null|
 |**2023-04-24**|**Unit inclusion in a (non-semisimple) braided tensor category and (non-compact) relative TQFTs**|Benjamin Haïoun et.al.|[2304.12167](http://arxiv.org/abs/2304.12167)|null|
 |**2023-04-18**|**Defects in Graphene : A Topological Description**|Amit Goft et.al.|[2304.08905](http://arxiv.org/abs/2304.08905)|null|
