@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Integer and fractional Chern insulators in twisted bilayer MoTe2**|Yihang Zeng et.al.|[2305.00973](http://arxiv.org/abs/2305.00973)|null|
+|**2023-04-29**|**Evolution of medium-range order and its correlation with magnetic nanodomains in Fe-Dy-B-Nb bulk metallic glasses**|Jiacheng Ge et.al.|[2305.00274](http://arxiv.org/abs/2305.00274)|null|
+|**2023-04-29**|**Quantum Spatially-Coupled Codes**|Siyi Yang et.al.|[2305.00137](http://arxiv.org/abs/2305.00137)|null|
 |**2023-04-26**|**Entanglement Renormalization Circuits for Chiral Topological Order**|Su-Kuan Chu et.al.|[2304.13748](http://arxiv.org/abs/2304.13748)|null|
 |**2023-04-26**|**Anyon Quantum Dimensions from an Arbitrary Ground State Wave Function**|Shang Liu et.al.|[2304.13235](http://arxiv.org/abs/2304.13235)|null|
 |**2023-04-25**|**Exotic Field Theories for (Hybrid) Fracton Phases from Imposing Constraints in Foliated Field Theory**|Ryan C. Spieler et.al.|[2304.13067](http://arxiv.org/abs/2304.13067)|null|
@@ -66,6 +69,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-01**|**Feshbach-Villars oscillator (FVO) in Kaluza-Klein Theory (KKT)**|Abdelmalek Bouzenada et.al.|[2305.00793](http://arxiv.org/abs/2305.00793)|null|
 |**2023-04-28**|**High-resolution three-dimensional imaging of topological textures in single-diamond networks**|Dmitry Karpov et.al.|[2304.14819](http://arxiv.org/abs/2304.14819)|null|
 |**2023-04-27**|**Color confinement due to topological defects -- restoration of residual gauge symmetries**|Naoki Fukushima et.al.|[2304.14008](http://arxiv.org/abs/2304.14008)|null|
 |**2023-04-26**|**Solving 3d Gravity with Virasoro TQFT**|Scott Collier et.al.|[2304.13650](http://arxiv.org/abs/2304.13650)|null|
