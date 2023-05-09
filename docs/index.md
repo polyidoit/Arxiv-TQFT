@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**2-Drinfel'd double symmetry of the 4d Kitaev model**|Hank Chen et.al.|[2305.04729](http://arxiv.org/abs/2305.04729)|null|
+|**2023-05-05**|**Creation of Non-Abelian Topological Order and Anyons on a Trapped-Ion Processor**|Mohsin Iqbal et.al.|[2305.03766](http://arxiv.org/abs/2305.03766)|null|
 |**2023-05-03**|**Quantum phase transition between symmetry enriched topological phases in tensor-network states**|Lukas Haller et.al.|[2305.02432](http://arxiv.org/abs/2305.02432)|null|
 |**2023-05-03**|**Integer and fractional Chern insulators in twisted bilayer MoTe2**|Yihang Zeng et.al.|[2305.00973](http://arxiv.org/abs/2305.00973)|null|
 |**2023-04-29**|**Evolution of medium-range order and its correlation with magnetic nanodomains in Fe-Dy-B-Nb bulk metallic glasses**|Jiacheng Ge et.al.|[2305.00274](http://arxiv.org/abs/2305.00274)|null|
@@ -62,6 +64,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Equilibration of Topological Defects at the Deconfined Quantum Critical Point**|Yu-Rong Shu et.al.|[2305.04771](http://arxiv.org/abs/2305.04771)|null|
+|**2023-05-08**|**Gravitational anomaly in antiferromagnetic topological Weyl semimetal NdAlSi**|Pardeep Kumar Tanwar et.al.|[2305.04650](http://arxiv.org/abs/2305.04650)|null|
+|**2023-05-08**|**Breakdown of the Newton-Einstein Standard Gravity at Low Acceleration in Internal Dynamics of Wide Binary Stars**|Kyu-Hyun Chae et.al.|[2305.04613](http://arxiv.org/abs/2305.04613)|null|
+|**2023-05-08**|**Stability of interlinked neutron vortex and proton flux-tube arrays in a neutron star -- III. Proton feedback**|K. H. Thong et.al.|[2305.04482](http://arxiv.org/abs/2305.04482)|null|
+|**2023-05-06**|**Topological properties and shape of proliferative and non-proliferative cell monolayers**|Daria S. Roshal et.al.|[2305.03990](http://arxiv.org/abs/2305.03990)|null|
+|**2023-05-05**|**Exploring the viability of pseudo Nambu-Goldstone boson as ultralight dark matter in a mass range relevant for strong gravity applications**|António P. Morais et.al.|[2305.03776](http://arxiv.org/abs/2305.03776)|null|
 |**2023-05-04**|**Algebraic structures in two-dimensional conformal field theory**|Jürgen Fuchs et.al.|[2305.02773](http://arxiv.org/abs/2305.02773)|null|
 |**2023-05-04**|**Curvature from multipartite entanglement in quantum gravity states**|Simone Cepollaro et.al.|[2305.02670](http://arxiv.org/abs/2305.02670)|null|
 |**2023-05-04**|**What can a GNOME do? Search targets for the Global Network of Optical Magnetometers for Exotic physics searches**|S. Afach et.al.|[2305.01785](http://arxiv.org/abs/2305.01785)|null|
