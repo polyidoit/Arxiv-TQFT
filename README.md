@@ -72,6 +72,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Vortex Fluids on Closed Surfaces**|Yanqi Xiong et.al.|[2305.05373](http://arxiv.org/abs/2305.05373)|null|
 |**2023-05-08**|**Equilibration of Topological Defects at the Deconfined Quantum Critical Point**|Yu-Rong Shu et.al.|[2305.04771](http://arxiv.org/abs/2305.04771)|null|
 |**2023-05-08**|**Gravitational anomaly in antiferromagnetic topological Weyl semimetal NdAlSi**|Pardeep Kumar Tanwar et.al.|[2305.04650](http://arxiv.org/abs/2305.04650)|null|
 |**2023-05-08**|**Breakdown of the Newton-Einstein Standard Gravity at Low Acceleration in Internal Dynamics of Wide Binary Stars**|Kyu-Hyun Chae et.al.|[2305.04613](http://arxiv.org/abs/2305.04613)|null|
