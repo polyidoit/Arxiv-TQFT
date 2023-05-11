@@ -72,6 +72,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Active hydraulics laws from frustration principles**|Camille Jorge et.al.|[2305.06078](http://arxiv.org/abs/2305.06078)|null|
+|**2023-05-10**|**Revisit the entanglement entropy with gravitational anomaly**|Peng-Zhang He et.al.|[2305.05892](http://arxiv.org/abs/2305.05892)|null|
+|**2023-05-09**|**Non-invertible symmetries and RG flows in the two-dimensional $O(n)$ loop model**|Jesper Lykke Jacobsen et.al.|[2305.05746](http://arxiv.org/abs/2305.05746)|null|
 |**2023-05-05**|**Vortex Fluids on Closed Surfaces**|Yanqi Xiong et.al.|[2305.05373](http://arxiv.org/abs/2305.05373)|null|
 |**2023-05-08**|**Equilibration of Topological Defects at the Deconfined Quantum Critical Point**|Yu-Rong Shu et.al.|[2305.04771](http://arxiv.org/abs/2305.04771)|null|
 |**2023-05-08**|**Gravitational anomaly in antiferromagnetic topological Weyl semimetal NdAlSi**|Pardeep Kumar Tanwar et.al.|[2305.04650](http://arxiv.org/abs/2305.04650)|null|
