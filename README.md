@@ -1,4 +1,4 @@
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,7 +21,7 @@
 |**2023-04-29**|**Quantum Spatially-Coupled Codes**|Siyi Yang et.al.|[2305.00137](http://arxiv.org/abs/2305.00137)|null|
 |**2023-04-26**|**Entanglement Renormalization Circuits for Chiral Topological Order**|Su-Kuan Chu et.al.|[2304.13748](http://arxiv.org/abs/2304.13748)|null|
 |**2023-04-26**|**Anyon Quantum Dimensions from an Arbitrary Ground State Wave Function**|Shang Liu et.al.|[2304.13235](http://arxiv.org/abs/2304.13235)|null|
-|**2023-04-25**|**Exotic Field Theories for (Hybrid) Fracton Phases from Imposing Constraints in Foliated Field Theory**|Ryan C. Spieler et.al.|[2304.13067](http://arxiv.org/abs/2304.13067)|null|
+|**2023-05-10**|**Exotic Field Theories for (Hybrid) Fracton Phases from Imposing Constraints in Foliated Field Theory**|Ryan C. Spieler et.al.|[2304.13067](http://arxiv.org/abs/2304.13067)|null|
 |**2023-04-20**|**Topological Guided Actor-Critic Modular Learning of Continuous Systems with Temporal Objectives**|Lening Li et.al.|[2304.10041](http://arxiv.org/abs/2304.10041)|null|
 |**2023-04-19**|**$Z_2\times Z_2$ symmetry and $Z_4$ Berry phase of bosonic ladder**|Yoshihito Kuno et.al.|[2304.09533](http://arxiv.org/abs/2304.09533)|null|
 |**2023-04-17**|**On Learning Time Series Summary DAGs: A Frequency Domain Approach**|Aramayis Dallakyan et.al.|[2304.08482](http://arxiv.org/abs/2304.08482)|null|
@@ -66,7 +66,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
 ## TQFT
 
@@ -135,7 +135,7 @@
 |**2022-10-03**|**Parity and Spin CFT with boundaries and defects**|Ingo Runkel et.al.|[2210.01057](http://arxiv.org/abs/2210.01057)|null|
 |**2022-09-27**|**Generalized symmetries of topological field theories**|Ben Gripaios et.al.|[2209.13524](http://arxiv.org/abs/2209.13524)|null|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
 ## Topological Quantum Computation
 
@@ -162,7 +162,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
 ## Fracton
 
@@ -179,5 +179,5 @@
 |**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
 |**2023-04-10**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
