@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**2D Hamiltonians with exotic bipartite and topological entanglement**|Shankar Balasubramanian et.al.|[2305.07028](http://arxiv.org/abs/2305.07028)|null|
+|**2023-05-10**|**Phase diagram of the three-dimensional subsystem toric code**|Yaodong Li et.al.|[2305.06389](http://arxiv.org/abs/2305.06389)|null|
+|**2023-05-10**|**Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models**|Jacob C. Bridgeman et.al.|[2305.06365](http://arxiv.org/abs/2305.06365)|**[link](https://github.com/MikeVasmer/qudit-single-shot)**|
 |**2023-05-08**|**2-Drinfel'd double symmetry of the 4d Kitaev model**|Hank Chen et.al.|[2305.04729](http://arxiv.org/abs/2305.04729)|null|
 |**2023-05-05**|**Creation of Non-Abelian Topological Order and Anyons on a Trapped-Ion Processor**|Mohsin Iqbal et.al.|[2305.03766](http://arxiv.org/abs/2305.03766)|null|
 |**2023-05-03**|**Quantum phase transition between symmetry enriched topological phases in tensor-network states**|Lukas Haller et.al.|[2305.02432](http://arxiv.org/abs/2305.02432)|null|
@@ -131,6 +134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models**|Jacob C. Bridgeman et.al.|[2305.06365](http://arxiv.org/abs/2305.06365)|**[link](https://github.com/MikeVasmer/qudit-single-shot)**|
 |**2023-05-02**|**Evidence for chiral supercurrent in quantum Hall Josephson junctions**|Hadrien Vignaud et.al.|[2305.01766](http://arxiv.org/abs/2305.01766)|null|
 |**2023-04-17**|**Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**|Yu Zhao et.al.|[2304.08475](http://arxiv.org/abs/2304.08475)|null|
 |**2023-04-18**|**Signatures of Fractional Quantum Anomalous Hall States in Twisted MoTe2 Bilayer**|Jiaqi Cai et.al.|[2304.08470](http://arxiv.org/abs/2304.08470)|null|
