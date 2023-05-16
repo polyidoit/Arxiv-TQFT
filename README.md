@@ -146,6 +146,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Dissipation induced Liouville-Majorana modes in open quantum system**|Xing-Shuo Xu et.al.|[2305.08311](http://arxiv.org/abs/2305.08311)|null|
 |**2023-05-10**|**Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models**|Jacob C. Bridgeman et.al.|[2305.06365](http://arxiv.org/abs/2305.06365)|**[link](https://github.com/MikeVasmer/qudit-single-shot)**|
 |**2023-05-02**|**Evidence for chiral supercurrent in quantum Hall Josephson junctions**|Hadrien Vignaud et.al.|[2305.01766](http://arxiv.org/abs/2305.01766)|null|
 |**2023-04-17**|**Symmetry Fractionalized (Irrationalized) Fusion Rules and Two Domain-Wall Verlinde Formulae**|Yu Zhao et.al.|[2304.08475](http://arxiv.org/abs/2304.08475)|null|
