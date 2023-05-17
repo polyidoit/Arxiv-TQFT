@@ -77,6 +77,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Fluxbranes, Generalized Symmetries, and Verlinde's Metastable Monopole**|Mirjam Cvetič et.al.|[2305.09665](http://arxiv.org/abs/2305.09665)|null|
 |**2023-05-10**|**Active hydraulics laws from frustration principles**|Camille Jorge et.al.|[2305.06078](http://arxiv.org/abs/2305.06078)|null|
 |**2023-05-10**|**Revisit the entanglement entropy with gravitational anomaly**|Peng-Zhang He et.al.|[2305.05892](http://arxiv.org/abs/2305.05892)|null|
 |**2023-05-09**|**Non-invertible symmetries and RG flows in the two-dimensional $O(n)$ loop model**|Jesper Lykke Jacobsen et.al.|[2305.05746](http://arxiv.org/abs/2305.05746)|null|
