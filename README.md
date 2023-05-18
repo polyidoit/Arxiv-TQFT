@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Symmetry-enriched topological order from partially gauging symmetry-protected topologically ordered states assisted by measurements**|Yabo Li et.al.|[2305.09747](http://arxiv.org/abs/2305.09747)|null|
 |**2023-05-12**|**Ab-initio investigation of the physical properties of BaAgAs Dirac semimetal and its possible thermo-mechanical and optoelectronic applications**|A. S. M. Muhasin Reza et.al.|[2305.07427](http://arxiv.org/abs/2305.07427)|null|
 |**2023-05-11**|**Gaining insights on anyon condensation and 1-form symmetry breaking across a topological phase transition in a deformed toric code model**|Joe Huxford et.al.|[2305.07063](http://arxiv.org/abs/2305.07063)|null|
 |**2023-05-11**|**2D Hamiltonians with exotic bipartite and topological entanglement**|Shankar Balasubramanian et.al.|[2305.07028](http://arxiv.org/abs/2305.07028)|null|
@@ -77,6 +78,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Ice Rule Breakdown and frustrated antiferrotoroidicity in an artificial colloidal Cairo ice**|Carolina Rodríguez-Gallo et.al.|[2305.09769](http://arxiv.org/abs/2305.09769)|null|
+|**2023-05-16**|**SymTFTs and Duality Defects from 6d SCFTs on 4-manifolds**|Jin Chen et.al.|[2305.09734](http://arxiv.org/abs/2305.09734)|null|
 |**2023-05-16**|**Fluxbranes, Generalized Symmetries, and Verlinde's Metastable Monopole**|Mirjam Cvetič et.al.|[2305.09665](http://arxiv.org/abs/2305.09665)|null|
 |**2023-05-10**|**Active hydraulics laws from frustration principles**|Camille Jorge et.al.|[2305.06078](http://arxiv.org/abs/2305.06078)|null|
 |**2023-05-10**|**Revisit the entanglement entropy with gravitational anomaly**|Peng-Zhang He et.al.|[2305.05892](http://arxiv.org/abs/2305.05892)|null|
