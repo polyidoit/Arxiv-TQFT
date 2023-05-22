@@ -78,6 +78,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Universal defects statistics with strong long-range interactions**|Stefano Gherardini et.al.|[2305.11771](http://arxiv.org/abs/2305.11771)|null|
 |**2023-05-16**|**Ice Rule Breakdown and frustrated antiferrotoroidicity in an artificial colloidal Cairo ice**|Carolina Rodríguez-Gallo et.al.|[2305.09769](http://arxiv.org/abs/2305.09769)|null|
 |**2023-05-16**|**SymTFTs and Duality Defects from 6d SCFTs on 4-manifolds**|Jin Chen et.al.|[2305.09734](http://arxiv.org/abs/2305.09734)|null|
 |**2023-05-16**|**Fluxbranes, Generalized Symmetries, and Verlinde's Metastable Monopole**|Mirjam Cvetič et.al.|[2305.09665](http://arxiv.org/abs/2305.09665)|null|
