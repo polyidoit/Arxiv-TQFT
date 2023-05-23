@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Helical boundary modes from synthetic spin in a plasmonic lattice**|Sang Hyun Park et.al.|[2305.12609](http://arxiv.org/abs/2305.12609)|null|
 |**2023-05-16**|**Symmetry-enriched topological order from partially gauging symmetry-protected topologically ordered states assisted by measurements**|Yabo Li et.al.|[2305.09747](http://arxiv.org/abs/2305.09747)|null|
 |**2023-05-12**|**Ab-initio investigation of the physical properties of BaAgAs Dirac semimetal and its possible thermo-mechanical and optoelectronic applications**|A. S. M. Muhasin Reza et.al.|[2305.07427](http://arxiv.org/abs/2305.07427)|null|
 |**2023-05-11**|**Gaining insights on anyon condensation and 1-form symmetry breaking across a topological phase transition in a deformed toric code model**|Joe Huxford et.al.|[2305.07063](http://arxiv.org/abs/2305.07063)|null|
@@ -78,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-20**|**Healing of a Topological Scar: Coordination Defects in a Honeycomb Lattice**|Benjamin Katz et.al.|[2305.12246](http://arxiv.org/abs/2305.12246)|null|
 |**2023-05-19**|**Universal defects statistics with strong long-range interactions**|Stefano Gherardini et.al.|[2305.11771](http://arxiv.org/abs/2305.11771)|null|
 |**2023-05-16**|**Ice Rule Breakdown and frustrated antiferrotoroidicity in an artificial colloidal Cairo ice**|Carolina Rodríguez-Gallo et.al.|[2305.09769](http://arxiv.org/abs/2305.09769)|null|
 |**2023-05-16**|**SymTFTs and Duality Defects from 6d SCFTs on 4-manifolds**|Jin Chen et.al.|[2305.09734](http://arxiv.org/abs/2305.09734)|null|
