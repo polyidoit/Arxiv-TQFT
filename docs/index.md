@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Layer-by-layer disentangling two-dimensional topological quantum codes**|Mohammad Hossein Zarei et.al.|[2305.13827](http://arxiv.org/abs/2305.13827)|null|
 |**2023-05-22**|**Helical boundary modes from synthetic spin in a plasmonic lattice**|Sang Hyun Park et.al.|[2305.12609](http://arxiv.org/abs/2305.12609)|null|
 |**2023-05-16**|**Symmetry-enriched topological order from partially gauging symmetry-protected topologically ordered states assisted by measurements**|Yabo Li et.al.|[2305.09747](http://arxiv.org/abs/2305.09747)|null|
 |**2023-05-12**|**Ab-initio investigation of the physical properties of BaAgAs Dirac semimetal and its possible thermo-mechanical and optoelectronic applications**|A. S. M. Muhasin Reza et.al.|[2305.07427](http://arxiv.org/abs/2305.07427)|null|
@@ -71,6 +72,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Enriched string-net models and their excitations**|David Green et.al.|[2305.14068](http://arxiv.org/abs/2305.14068)|null|
+|**2023-05-23**|**Quantum Interference by Vortex Supercurrents**|G. P. Papari et.al.|[2305.13952](http://arxiv.org/abs/2305.13952)|null|
+|**2023-05-23**|**Current-driven motion of magnetic topological defects in ferromagnetic superconductors**|Se Kwon Kim et.al.|[2305.13564](http://arxiv.org/abs/2305.13564)|null|
 |**2023-05-20**|**Healing of a Topological Scar: Coordination Defects in a Honeycomb Lattice**|Benjamin Katz et.al.|[2305.12246](http://arxiv.org/abs/2305.12246)|null|
 |**2023-05-19**|**Universal defects statistics with strong long-range interactions**|Stefano Gherardini et.al.|[2305.11771](http://arxiv.org/abs/2305.11771)|null|
 |**2023-05-16**|**Ice Rule Breakdown and frustrated antiferrotoroidicity in an artificial colloidal Cairo ice**|Carolina Rodríguez-Gallo et.al.|[2305.09769](http://arxiv.org/abs/2305.09769)|null|
@@ -143,6 +147,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Layer-by-layer disentangling two-dimensional topological quantum codes**|Mohammad Hossein Zarei et.al.|[2305.13827](http://arxiv.org/abs/2305.13827)|null|
 |**2023-05-15**|**Dissipation induced Liouville-Majorana modes in open quantum system**|Xing-Shuo Xu et.al.|[2305.08311](http://arxiv.org/abs/2305.08311)|null|
 |**2023-05-10**|**Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models**|Jacob C. Bridgeman et.al.|[2305.06365](http://arxiv.org/abs/2305.06365)|**[link](https://github.com/MikeVasmer/qudit-single-shot)**|
 |**2023-05-02**|**Evidence for chiral supercurrent in quantum Hall Josephson junctions**|Hadrien Vignaud et.al.|[2305.01766](http://arxiv.org/abs/2305.01766)|null|
