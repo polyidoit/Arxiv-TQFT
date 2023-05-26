@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**|Yue Wu et.al.|[2305.15486](http://arxiv.org/abs/2305.15486)|null|
 |**2023-05-23**|**Layer-by-layer disentangling two-dimensional topological quantum codes**|Mohammad Hossein Zarei et.al.|[2305.13827](http://arxiv.org/abs/2305.13827)|null|
 |**2023-05-22**|**Helical boundary modes from synthetic spin in a plasmonic lattice**|Sang Hyun Park et.al.|[2305.12609](http://arxiv.org/abs/2305.12609)|null|
 |**2023-05-16**|**Symmetry-enriched topological order from partially gauging symmetry-protected topologically ordered states assisted by measurements**|Yabo Li et.al.|[2305.09747](http://arxiv.org/abs/2305.09747)|null|
@@ -80,6 +81,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Crystallization dynamics of magnetic skyrmions in a frustrated itinerant magnet**|Kotaro Shimizu et.al.|[2305.16182](http://arxiv.org/abs/2305.16182)|null|
+|**2023-05-25**|**Topology in thermodynamics of regular black strings with Kaluza-Klein reduction**|Tran N. Hung et.al.|[2305.15910](http://arxiv.org/abs/2305.15910)|null|
+|**2023-05-25**|**Stringy Running Vacuum Model and current Tensions in Cosmology**|Adrià Gómez-Valent et.al.|[2305.15774](http://arxiv.org/abs/2305.15774)|null|
 |**2023-05-24**|**Topological defects reveal the plasticity of glasses**|Matteo Baggioli et.al.|[2305.15226](http://arxiv.org/abs/2305.15226)|null|
 |**2023-05-24**|**Observation of vortex-string chiral modes in metamaterials**|Jingwen Ma et.al.|[2305.14960](http://arxiv.org/abs/2305.14960)|null|
 |**2023-05-23**|**Enriched string-net models and their excitations**|David Green et.al.|[2305.14068](http://arxiv.org/abs/2305.14068)|null|
