@@ -73,6 +73,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Modeling of experimentally observed topological defects inside bulk polycrystals**|Siddharth Singh et.al.|[2305.16454](http://arxiv.org/abs/2305.16454)|null|
 |**2023-05-25**|**Crystallization dynamics of magnetic skyrmions in a frustrated itinerant magnet**|Kotaro Shimizu et.al.|[2305.16182](http://arxiv.org/abs/2305.16182)|null|
 |**2023-05-25**|**Topology in thermodynamics of regular black strings with Kaluza-Klein reduction**|Tran N. Hung et.al.|[2305.15910](http://arxiv.org/abs/2305.15910)|null|
 |**2023-05-25**|**Stringy Running Vacuum Model and current Tensions in Cosmology**|Adrià Gómez-Valent et.al.|[2305.15774](http://arxiv.org/abs/2305.15774)|null|
