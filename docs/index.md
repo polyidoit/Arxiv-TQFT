@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**50 years of quantum spin liquids**|Steven A. Kivelson et.al.|[2305.18103](http://arxiv.org/abs/2305.18103)|null|
+|**2023-05-27**|**Partially topological phase in a quantum loop gas model with tension and pressure**|J. Abouie et.al.|[2305.17525](http://arxiv.org/abs/2305.17525)|null|
+|**2023-05-26**|**Optimizing NOTEARS Objectives via Topological Swaps**|Chang Deng et.al.|[2305.17277](http://arxiv.org/abs/2305.17277)|**[link](https://github.com/duntrain/topo)**|
 |**2023-05-24**|**SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning**|Yue Wu et.al.|[2305.15486](http://arxiv.org/abs/2305.15486)|null|
 |**2023-05-23**|**Layer-by-layer disentangling two-dimensional topological quantum codes**|Mohammad Hossein Zarei et.al.|[2305.13827](http://arxiv.org/abs/2305.13827)|null|
 |**2023-05-22**|**Helical boundary modes from synthetic spin in a plasmonic lattice**|Sang Hyun Park et.al.|[2305.12609](http://arxiv.org/abs/2305.12609)|null|
@@ -73,6 +76,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**ICTP Lectures on (Non-)Invertible Generalized Symmetries**|Sakura Schafer-Nameki et.al.|[2305.18296](http://arxiv.org/abs/2305.18296)|null|
+|**2023-05-29**|**Higher Structure of Chiral Symmetry**|Christian Copetti et.al.|[2305.18282](http://arxiv.org/abs/2305.18282)|null|
+|**2023-05-26**|**Generalized Charges, Part II: Non-Invertible Symmetries and the Symmetry TFT**|Lakshya Bhardwaj et.al.|[2305.17159](http://arxiv.org/abs/2305.17159)|null|
 |**2023-05-25**|**Modeling of experimentally observed topological defects inside bulk polycrystals**|Siddharth Singh et.al.|[2305.16454](http://arxiv.org/abs/2305.16454)|null|
 |**2023-05-25**|**Crystallization dynamics of magnetic skyrmions in a frustrated itinerant magnet**|Kotaro Shimizu et.al.|[2305.16182](http://arxiv.org/abs/2305.16182)|null|
 |**2023-05-25**|**Topology in thermodynamics of regular black strings with Kaluza-Klein reduction**|Tran N. Hung et.al.|[2305.15910](http://arxiv.org/abs/2305.15910)|null|
@@ -154,6 +160,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Deterministic topological quantum gates for Majorana qubits without ancillary modes**|Su-Qi Zhang et.al.|[2305.18190](http://arxiv.org/abs/2305.18190)|null|
+|**2023-05-27**|**Partially topological phase in a quantum loop gas model with tension and pressure**|J. Abouie et.al.|[2305.17525](http://arxiv.org/abs/2305.17525)|null|
 |**2023-05-23**|**Layer-by-layer disentangling two-dimensional topological quantum codes**|Mohammad Hossein Zarei et.al.|[2305.13827](http://arxiv.org/abs/2305.13827)|null|
 |**2023-05-15**|**Dissipation induced Liouville-Majorana modes in open quantum system**|Xing-Shuo Xu et.al.|[2305.08311](http://arxiv.org/abs/2305.08311)|null|
 |**2023-05-10**|**Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models**|Jacob C. Bridgeman et.al.|[2305.06365](http://arxiv.org/abs/2305.06365)|**[link](https://github.com/MikeVasmer/qudit-single-shot)**|
