@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Approximate inference of marginals using the IBIA framework**|Shivani Bathla et.al.|[2306.00335](http://arxiv.org/abs/2306.00335)|null|
+|**2023-05-31**|**Ground state stability, symmetry, and degeneracy in Mott insulators with long range interactions**|Dmitry Manning-Coe et.al.|[2306.00221](http://arxiv.org/abs/2306.00221)|null|
 |**2023-05-29**|**Categorical Symmetries and Fiber Functors from Multiple Condensing Homomorphisms from 6D SCFTs**|Veronica Pasquarella et.al.|[2305.18515](http://arxiv.org/abs/2305.18515)|null|
 |**2023-05-29**|**50 years of quantum spin liquids**|Steven A. Kivelson et.al.|[2305.18103](http://arxiv.org/abs/2305.18103)|null|
 |**2023-05-27**|**Partially topological phase in a quantum loop gas model with tension and pressure**|J. Abouie et.al.|[2305.17525](http://arxiv.org/abs/2305.17525)|null|
@@ -77,6 +79,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Hawking radiation from stationary black holes using gravitational anomaly**|Selim Sk et.al.|[2306.00496](http://arxiv.org/abs/2306.00496)|null|
 |**2023-05-29**|**The origin of the terrestrial planets**|Richard B. Firestone et.al.|[2305.18635](http://arxiv.org/abs/2305.18635)|null|
 |**2023-05-29**|**Categorical Symmetries and Fiber Functors from Multiple Condensing Homomorphisms from 6D SCFTs**|Veronica Pasquarella et.al.|[2305.18515](http://arxiv.org/abs/2305.18515)|null|
 |**2023-05-29**|**ICTP Lectures on (Non-)Invertible Generalized Symmetries**|Sakura Schafer-Nameki et.al.|[2305.18296](http://arxiv.org/abs/2305.18296)|null|
