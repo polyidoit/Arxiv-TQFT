@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Edge mode spectroscopy of fractional Chern insulators**|F. Binanti et.al.|[2306.01624](http://arxiv.org/abs/2306.01624)|null|
 |**2023-06-01**|**Approximate inference of marginals using the IBIA framework**|Shivani Bathla et.al.|[2306.00335](http://arxiv.org/abs/2306.00335)|null|
 |**2023-05-31**|**Ground state stability, symmetry, and degeneracy in Mott insulators with long range interactions**|Dmitry Manning-Coe et.al.|[2306.00221](http://arxiv.org/abs/2306.00221)|null|
 |**2023-05-29**|**Categorical Symmetries and Fiber Functors from Multiple Condensing Homomorphisms from 6D SCFTs**|Veronica Pasquarella et.al.|[2305.18515](http://arxiv.org/abs/2305.18515)|null|
@@ -79,6 +80,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Templated self-assembly of gold nanoparticles in smectic liquid crystals confined at 3D printed curved surfaces**|Mackenzie O'Keefe et.al.|[2306.01118](http://arxiv.org/abs/2306.01118)|null|
 |**2023-06-01**|**Hawking radiation from stationary black holes using gravitational anomaly**|Selim Sk et.al.|[2306.00496](http://arxiv.org/abs/2306.00496)|null|
 |**2023-05-29**|**The origin of the terrestrial planets**|Richard B. Firestone et.al.|[2305.18635](http://arxiv.org/abs/2305.18635)|null|
 |**2023-05-29**|**Categorical Symmetries and Fiber Functors from Multiple Condensing Homomorphisms from 6D SCFTs**|Veronica Pasquarella et.al.|[2305.18515](http://arxiv.org/abs/2305.18515)|null|
