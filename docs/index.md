@@ -83,6 +83,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals**|Fernando Caballero et.al.|[2306.04526](http://arxiv.org/abs/2306.04526)|null|
+|**2023-06-07**|**A topologically stabilized metastable fluid in a system of cylindrically confined hard spheres**|Mahdi Zarif et.al.|[2306.04134](http://arxiv.org/abs/2306.04134)|null|
 |**2023-06-06**|**Universal defect density scaling in an oscillating dynamic phase transition**|Wei-can Yang et.al.|[2306.03803](http://arxiv.org/abs/2306.03803)|null|
 |**2023-06-05**|**Strong/weak duality symmetries for Jacobi--Gordon field theory through elliptic functions**|R. Cartas-Fuentevilla et.al.|[2306.02538](http://arxiv.org/abs/2306.02538)|null|
 |**2023-06-01**|**Templated self-assembly of gold nanoparticles in smectic liquid crystals confined at 3D printed curved surfaces**|Mackenzie O'Keefe et.al.|[2306.01118](http://arxiv.org/abs/2306.01118)|null|
