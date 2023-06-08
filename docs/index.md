@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.07
+## Updated on 2023.06.08
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -13,7 +13,7 @@ layout: default
 |**2023-06-02**|**Edge mode spectroscopy of fractional Chern insulators**|F. Binanti et.al.|[2306.01624](http://arxiv.org/abs/2306.01624)|null|
 |**2023-06-01**|**Approximate inference of marginals using the IBIA framework**|Shivani Bathla et.al.|[2306.00335](http://arxiv.org/abs/2306.00335)|null|
 |**2023-05-31**|**Ground state stability, symmetry, and degeneracy in Mott insulators with long range interactions**|Dmitry Manning-Coe et.al.|[2306.00221](http://arxiv.org/abs/2306.00221)|null|
-|**2023-05-29**|**Categorical Symmetries and Fiber Functors from Multiple Condensing Homomorphisms from 6D SCFTs**|Veronica Pasquarella et.al.|[2305.18515](http://arxiv.org/abs/2305.18515)|null|
+|**2023-06-07**|**Categorical Symmetries and Fiber Functors from Multiple Condensing Homomorphisms from 6D ${\cal N}=(2,0)$ SCFTs**|Veronica Pasquarella et.al.|[2305.18515](http://arxiv.org/abs/2305.18515)|null|
 |**2023-05-29**|**50 years of quantum spin liquids**|Steven A. Kivelson et.al.|[2305.18103](http://arxiv.org/abs/2305.18103)|null|
 |**2023-05-27**|**Partially topological phase in a quantum loop gas model with tension and pressure**|J. Abouie et.al.|[2305.17525](http://arxiv.org/abs/2305.17525)|null|
 |**2023-05-26**|**Optimizing NOTEARS Objectives via Topological Swaps**|Chang Deng et.al.|[2305.17277](http://arxiv.org/abs/2305.17277)|**[link](https://github.com/duntrain/topo)**|
@@ -88,8 +88,8 @@ layout: default
 |**2023-06-01**|**Templated self-assembly of gold nanoparticles in smectic liquid crystals confined at 3D printed curved surfaces**|Mackenzie O'Keefe et.al.|[2306.01118](http://arxiv.org/abs/2306.01118)|null|
 |**2023-06-01**|**Hawking radiation from stationary black holes using gravitational anomaly**|Selim Sk et.al.|[2306.00496](http://arxiv.org/abs/2306.00496)|null|
 |**2023-05-29**|**The origin of the terrestrial planets**|Richard B. Firestone et.al.|[2305.18635](http://arxiv.org/abs/2305.18635)|null|
-|**2023-05-29**|**Categorical Symmetries and Fiber Functors from Multiple Condensing Homomorphisms from 6D SCFTs**|Veronica Pasquarella et.al.|[2305.18515](http://arxiv.org/abs/2305.18515)|null|
-|**2023-05-29**|**ICTP Lectures on (Non-)Invertible Generalized Symmetries**|Sakura Schafer-Nameki et.al.|[2305.18296](http://arxiv.org/abs/2305.18296)|null|
+|**2023-06-07**|**Categorical Symmetries and Fiber Functors from Multiple Condensing Homomorphisms from 6D ${\cal N}=(2,0)$ SCFTs**|Veronica Pasquarella et.al.|[2305.18515](http://arxiv.org/abs/2305.18515)|null|
+|**2023-06-07**|**ICTP Lectures on (Non-)Invertible Generalized Symmetries**|Sakura Schafer-Nameki et.al.|[2305.18296](http://arxiv.org/abs/2305.18296)|null|
 |**2023-05-29**|**Higher Structure of Chiral Symmetry**|Christian Copetti et.al.|[2305.18282](http://arxiv.org/abs/2305.18282)|null|
 |**2023-05-26**|**Generalized Charges, Part II: Non-Invertible Symmetries and the Symmetry TFT**|Lakshya Bhardwaj et.al.|[2305.17159](http://arxiv.org/abs/2305.17159)|null|
 |**2023-05-25**|**Modeling of experimentally observed topological defects inside bulk polycrystals**|Siddharth Singh et.al.|[2305.16454](http://arxiv.org/abs/2305.16454)|null|
