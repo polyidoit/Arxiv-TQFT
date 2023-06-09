@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-06**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
+|**2023-06-08**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
 |**2023-06-06**|**Interplay between multi-spin and chiral spin interactions on triangular lattice**|Li-Wei He et.al.|[2306.03478](http://arxiv.org/abs/2306.03478)|null|
 |**2023-06-05**|**Boundary criticality via gauging finite subgroups: a case study on the clock model**|Lei Su et.al.|[2306.02976](http://arxiv.org/abs/2306.02976)|null|
 |**2023-06-02**|**Edge mode spectroscopy of fractional Chern insulators**|F. Binanti et.al.|[2306.01624](http://arxiv.org/abs/2306.01624)|null|
@@ -175,7 +175,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-06**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
+|**2023-06-08**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
 |**2023-05-29**|**Deterministic topological quantum gates for Majorana qubits without ancillary modes**|Su-Qi Zhang et.al.|[2305.18190](http://arxiv.org/abs/2305.18190)|null|
 |**2023-05-27**|**Partially topological phase in a quantum loop gas model with tension and pressure**|J. Abouie et.al.|[2305.17525](http://arxiv.org/abs/2305.17525)|null|
 |**2023-05-23**|**Layer-by-layer disentangling two-dimensional topological quantum codes**|Mohammad Hossein Zarei et.al.|[2305.13827](http://arxiv.org/abs/2305.13827)|null|

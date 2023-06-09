@@ -1,4 +1,4 @@
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-06**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
+|**2023-06-08**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
 |**2023-06-06**|**Interplay between multi-spin and chiral spin interactions on triangular lattice**|Li-Wei He et.al.|[2306.03478](http://arxiv.org/abs/2306.03478)|null|
 |**2023-06-05**|**Boundary criticality via gauging finite subgroups: a case study on the clock model**|Lei Su et.al.|[2306.02976](http://arxiv.org/abs/2306.02976)|null|
 |**2023-06-02**|**Edge mode spectroscopy of fractional Chern insulators**|F. Binanti et.al.|[2306.01624](http://arxiv.org/abs/2306.01624)|null|
@@ -85,7 +85,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## TQFT
 
@@ -179,13 +179,13 @@
 |**2022-10-03**|**Parity and Spin CFT with boundaries and defects**|Ingo Runkel et.al.|[2210.01057](http://arxiv.org/abs/2210.01057)|null|
 |**2022-09-27**|**Generalized symmetries of topological field theories**|Ben Gripaios et.al.|[2209.13524](http://arxiv.org/abs/2209.13524)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## Topological Quantum Computation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-06**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
+|**2023-06-08**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
 |**2023-05-29**|**Deterministic topological quantum gates for Majorana qubits without ancillary modes**|Su-Qi Zhang et.al.|[2305.18190](http://arxiv.org/abs/2305.18190)|null|
 |**2023-05-27**|**Partially topological phase in a quantum loop gas model with tension and pressure**|J. Abouie et.al.|[2305.17525](http://arxiv.org/abs/2305.17525)|null|
 |**2023-05-23**|**Layer-by-layer disentangling two-dimensional topological quantum codes**|Mohammad Hossein Zarei et.al.|[2305.13827](http://arxiv.org/abs/2305.13827)|null|
@@ -212,7 +212,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
 ## Fracton
 
@@ -229,5 +229,5 @@
 |**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
 |**2023-04-10**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
-<p align=right>(<a href=#Updated-on-20230608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230609>back to top</a>)</p>
 
