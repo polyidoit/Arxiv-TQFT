@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Categorical generalisations of quantum double models**|Anna-Katharina Hirmer et.al.|[2306.05950](http://arxiv.org/abs/2306.05950)|null|
+|**2023-06-08**|**Robust Topological Orderings for Directed Graphs**|James Smith et.al.|[2306.05475](http://arxiv.org/abs/2306.05475)|null|
+|**2023-06-08**|**Bicolor loop models and their long range entanglement**|Zhao Zhang et.al.|[2306.05464](http://arxiv.org/abs/2306.05464)|null|
 |**2023-06-08**|**Multiplication of the orbital angular momentum of phonon polaritons via sublinear dispersion**|Andrea Mancini et.al.|[2306.05209](http://arxiv.org/abs/2306.05209)|null|
 |**2023-06-08**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
 |**2023-06-06**|**Interplay between multi-spin and chiral spin interactions on triangular lattice**|Li-Wei He et.al.|[2306.03478](http://arxiv.org/abs/2306.03478)|null|
@@ -92,6 +95,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Taxonomy of hybridly polarized Stokes vortex beams**|Gauri Arora et.al.|[2306.05974](http://arxiv.org/abs/2306.05974)|null|
+|**2023-06-09**|**Heat transport in a Coulomb ion crystal with a topological defect**|L. Timm et.al.|[2306.05845](http://arxiv.org/abs/2306.05845)|null|
 |**2023-06-07**|**Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals**|Fernando Caballero et.al.|[2306.04526](http://arxiv.org/abs/2306.04526)|null|
 |**2023-06-07**|**A topologically stabilized metastable fluid in a system of cylindrically confined hard spheres**|Mahdi Zarif et.al.|[2306.04134](http://arxiv.org/abs/2306.04134)|null|
 |**2023-06-06**|**Universal defect density scaling in an oscillating dynamic phase transition**|Wei-can Yang et.al.|[2306.03803](http://arxiv.org/abs/2306.03803)|null|
@@ -186,6 +191,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**Bicolor loop models and their long range entanglement**|Zhao Zhang et.al.|[2306.05464](http://arxiv.org/abs/2306.05464)|null|
 |**2023-06-08**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
 |**2023-05-29**|**Deterministic topological quantum gates for Majorana qubits without ancillary modes**|Su-Qi Zhang et.al.|[2305.18190](http://arxiv.org/abs/2305.18190)|null|
 |**2023-05-27**|**Partially topological phase in a quantum loop gas model with tension and pressure**|J. Abouie et.al.|[2305.17525](http://arxiv.org/abs/2305.17525)|null|
