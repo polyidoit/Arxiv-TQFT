@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**A Hydrodynamical Description of Bose Liquid with Fractional Exclusion Statistics**|Zhaoyu Fei et.al.|[2306.06853](http://arxiv.org/abs/2306.06853)|null|
+|**2023-06-09**|**Entanglement in BF theory I: Essential topological entanglement**|Jackson R. Fliss et.al.|[2306.06158](http://arxiv.org/abs/2306.06158)|null|
 |**2023-06-09**|**Categorical generalisations of quantum double models**|Anna-Katharina Hirmer et.al.|[2306.05950](http://arxiv.org/abs/2306.05950)|null|
 |**2023-06-08**|**Robust Topological Orderings for Directed Graphs**|James Smith et.al.|[2306.05475](http://arxiv.org/abs/2306.05475)|null|
 |**2023-06-08**|**Bicolor loop models and their long range entanglement**|Zhao Zhang et.al.|[2306.05464](http://arxiv.org/abs/2306.05464)|null|
@@ -95,6 +97,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Entanglement in BF theory I: Essential topological entanglement**|Jackson R. Fliss et.al.|[2306.06158](http://arxiv.org/abs/2306.06158)|null|
 |**2023-06-09**|**Taxonomy of hybridly polarized Stokes vortex beams**|Gauri Arora et.al.|[2306.05974](http://arxiv.org/abs/2306.05974)|null|
 |**2023-06-09**|**Heat transport in a Coulomb ion crystal with a topological defect**|L. Timm et.al.|[2306.05845](http://arxiv.org/abs/2306.05845)|null|
 |**2023-06-07**|**Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals**|Fernando Caballero et.al.|[2306.04526](http://arxiv.org/abs/2306.04526)|null|
