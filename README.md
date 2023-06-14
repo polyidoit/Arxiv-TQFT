@@ -97,6 +97,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**Monopoles, Scattering, and Generalized Symmetries**|Marieke van Beest et.al.|[2306.07318](http://arxiv.org/abs/2306.07318)|null|
 |**2023-06-09**|**Entanglement in BF theory I: Essential topological entanglement**|Jackson R. Fliss et.al.|[2306.06158](http://arxiv.org/abs/2306.06158)|null|
 |**2023-06-09**|**Taxonomy of hybridly polarized Stokes vortex beams**|Gauri Arora et.al.|[2306.05974](http://arxiv.org/abs/2306.05974)|null|
 |**2023-06-09**|**Heat transport in a Coulomb ion crystal with a topological defect**|L. Timm et.al.|[2306.05845](http://arxiv.org/abs/2306.05845)|null|
