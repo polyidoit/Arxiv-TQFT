@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Wegner's Ising gauge spins versus Kitaev's Majorana partons: Mapping and application to anisotropic confinement in spin-orbital liquids**|Urban F. P. Seifert et.al.|[2306.09405](http://arxiv.org/abs/2306.09405)|null|
 |**2023-06-16**|**Floquet codes with a twist**|Tyler D. Ellison et.al.|[2306.08027](http://arxiv.org/abs/2306.08027)|null|
 |**2023-06-12**|**A Hydrodynamical Description of Bose Liquid with Fractional Exclusion Statistics**|Zhaoyu Fei et.al.|[2306.06853](http://arxiv.org/abs/2306.06853)|null|
 |**2023-06-09**|**Entanglement in BF theory I: Essential topological entanglement**|Jackson R. Fliss et.al.|[2306.06158](http://arxiv.org/abs/2306.06158)|null|
@@ -98,6 +99,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Classical gravitational anomalies of Liouville theory**|Pavel Haman et.al.|[2306.09825](http://arxiv.org/abs/2306.09825)|null|
+|**2023-06-15**|**Visualizing the melting of the charge density wave in UTe2 by generation of pairs of topological defects with opposite winding**|Anuva Aishwarya et.al.|[2306.09423](http://arxiv.org/abs/2306.09423)|null|
 |**2023-06-14**|**Spontaneous symmetry breaking in the twisted $\mathcal{N} = 2$ super-Yang-Mills theory**|Octavio C. Junqueira et.al.|[2306.08688](http://arxiv.org/abs/2306.08688)|null|
 |**2023-06-14**|**Invariants of r-spin TQFTs and non-semisimplicity**|Nils Carqueville et.al.|[2306.08608](http://arxiv.org/abs/2306.08608)|null|
 |**2023-06-14**|**Non-reciprocal Phase Separations with Non-conserved Order Parameters**|Maoji Liu et.al.|[2306.08534](http://arxiv.org/abs/2306.08534)|null|
