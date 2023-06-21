@@ -91,6 +91,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-19**|**Abelian TQFTS and Schrödinger local systems**|Anna Beliakova et.al.|[2306.10725](http://arxiv.org/abs/2306.10725)|null|
+|**2023-06-16**|**A heterotic Kodaira--Spencer theory at one-loop**|Anthony Ashmore et.al.|[2306.10106](http://arxiv.org/abs/2306.10106)|null|
 |**2023-06-16**|**Classical gravitational anomalies of Liouville theory**|Pavel Haman et.al.|[2306.09825](http://arxiv.org/abs/2306.09825)|null|
 |**2023-06-15**|**Visualizing the melting of the charge density wave in UTe2 by generation of pairs of topological defects with opposite winding**|Anuva Aishwarya et.al.|[2306.09423](http://arxiv.org/abs/2306.09423)|null|
 |**2023-06-14**|**Spontaneous symmetry breaking in the twisted $\mathcal{N} = 2$ super-Yang-Mills theory**|Octavio C. Junqueira et.al.|[2306.08688](http://arxiv.org/abs/2306.08688)|null|
@@ -193,6 +195,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-19**|**Vison manipulation with local magnetic fields**|Haoran Wang et.al.|[2306.11092](http://arxiv.org/abs/2306.11092)|null|
 |**2023-06-08**|**Bicolor loop models and their long range entanglement**|Zhao Zhang et.al.|[2306.05464](http://arxiv.org/abs/2306.05464)|null|
 |**2023-06-08**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
 |**2023-05-29**|**Deterministic topological quantum gates for Majorana qubits without ancillary modes**|Su-Qi Zhang et.al.|[2305.18190](http://arxiv.org/abs/2305.18190)|null|
