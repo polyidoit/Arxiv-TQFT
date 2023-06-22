@@ -91,6 +91,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-21**|**Topological state transitions in electromagnetic topological defects**|Peng Shi et.al.|[2306.12024](http://arxiv.org/abs/2306.12024)|null|
 |**2023-06-19**|**Abelian TQFTS and Schrödinger local systems**|Anna Beliakova et.al.|[2306.10725](http://arxiv.org/abs/2306.10725)|null|
 |**2023-06-16**|**A heterotic Kodaira--Spencer theory at one-loop**|Anthony Ashmore et.al.|[2306.10106](http://arxiv.org/abs/2306.10106)|null|
 |**2023-06-16**|**Classical gravitational anomalies of Liouville theory**|Pavel Haman et.al.|[2306.09825](http://arxiv.org/abs/2306.09825)|null|
