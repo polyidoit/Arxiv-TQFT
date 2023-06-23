@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Stabilization of symmetry-protected long-range entanglement in stochastic quantum circuits**|Iosifina Angelidi et.al.|[2306.13008](http://arxiv.org/abs/2306.13008)|null|
+|**2023-06-21**|**Topologically Ordered Steady States in Open Quantum Systems**|Zijian Wang et.al.|[2306.12482](http://arxiv.org/abs/2306.12482)|null|
 |**2023-06-15**|**Wegner's Ising gauge spins versus Kitaev's Majorana partons: Mapping and application to anisotropic confinement in spin-orbital liquids**|Urban F. P. Seifert et.al.|[2306.09405](http://arxiv.org/abs/2306.09405)|null|
 |**2023-06-16**|**Floquet codes with a twist**|Tyler D. Ellison et.al.|[2306.08027](http://arxiv.org/abs/2306.08027)|null|
 |**2023-06-12**|**A Hydrodynamical Description of Bose Liquid with Fractional Exclusion Statistics**|Zhaoyu Fei et.al.|[2306.06853](http://arxiv.org/abs/2306.06853)|null|
@@ -99,6 +101,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Strain-induced frustrated helimagnetism and topological spin textures in LiCrTe $_{2}$**|Weiyi Pan et.al.|[2306.13035](http://arxiv.org/abs/2306.13035)|null|
+|**2023-06-22**|**Topological defects at smectic interfaces as a potential tool for the biosensing of living microorganisms**|Vajra S. Badha et.al.|[2306.12989](http://arxiv.org/abs/2306.12989)|null|
+|**2023-06-21**|**Non-Perturbative Explorations of Chiral Rings in 4d $\mathcal{N}=2$ SCFTs**|Anindya Banerjee et.al.|[2306.12521](http://arxiv.org/abs/2306.12521)|null|
+|**2023-06-21**|**Topologically Ordered Steady States in Open Quantum Systems**|Zijian Wang et.al.|[2306.12482](http://arxiv.org/abs/2306.12482)|null|
+|**2023-06-21**|**Drinfeld Centers from Magnetic Quivers**|Veronica Pasquarella et.al.|[2306.12471](http://arxiv.org/abs/2306.12471)|null|
 |**2023-06-21**|**Topological state transitions in electromagnetic topological defects**|Peng Shi et.al.|[2306.12024](http://arxiv.org/abs/2306.12024)|null|
 |**2023-06-19**|**Abelian TQFTS and Schrödinger local systems**|Anna Beliakova et.al.|[2306.10725](http://arxiv.org/abs/2306.10725)|null|
 |**2023-06-16**|**A heterotic Kodaira--Spencer theory at one-loop**|Anthony Ashmore et.al.|[2306.10106](http://arxiv.org/abs/2306.10106)|null|
