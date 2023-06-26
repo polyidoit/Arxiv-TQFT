@@ -72,7 +72,7 @@
 |**2023-03-27**|**Topological superconductors from a materials perspective**|Manasi Mandal et.al.|[2303.15581](http://arxiv.org/abs/2303.15581)|null|
 |**2023-03-27**|**Randomized measurement protocols for lattice gauge theories**|Jacob Bringewatt et.al.|[2303.15519](http://arxiv.org/abs/2303.15519)|null|
 |**2023-04-02**|**Computing entanglement entropy of interacting fermions with quantum Monte Carlo: Why we failed and how to get it right**|Gaopei Pan et.al.|[2303.14326](http://arxiv.org/abs/2303.14326)|null|
-|**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|null|
+|**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|**[link](https://github.com/peixinshen/MajoranaMagnonYSR)**|
 |**2023-03-22**|**Classification and emergence of quantum spin liquids in chiral Rydberg models**|Poetri Sonya Tarabunga et.al.|[2303.12829](http://arxiv.org/abs/2303.12829)|null|
 |**2023-03-21**|**Dissipative preparation and stabilization of many-body quantum states in a superconducting qutrit array**|Yunzhao Wang et.al.|[2303.12111](http://arxiv.org/abs/2303.12111)|null|
 |**2023-03-26**|**Investigating Topological Order using Recurrent Neural Networks**|Mohamed Hibat-Allah et.al.|[2303.11207](http://arxiv.org/abs/2303.11207)|null|
@@ -231,7 +231,7 @@
 |**2023-04-03**|**Universal Braiding Quantum Gates**|David Lovitz et.al.|[2304.00710](http://arxiv.org/abs/2304.00710)|null|
 |**2023-03-29**|**Highly-Anisotropic Even-Denominator Fractional Quantum Hall State in an Orbitally-Coupled Half-Filled Landau Level**|Chengyu Wang et.al.|[2303.16791](http://arxiv.org/abs/2303.16791)|null|
 |**2023-03-27**|**Topological superconductors from a materials perspective**|Manasi Mandal et.al.|[2303.15581](http://arxiv.org/abs/2303.15581)|null|
-|**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|null|
+|**2023-03-23**|**Majorana-Magnon Interactions in Topological Shiba Chains**|Pei-Xin Shen et.al.|[2303.13513](http://arxiv.org/abs/2303.13513)|**[link](https://github.com/peixinshen/MajoranaMagnonYSR)**|
 |**2023-03-07**|**Universal approach to p-wave triplet superconductivity in the Hubbard models**|Wanpeng Han et.al.|[2303.04004](http://arxiv.org/abs/2303.04004)|null|
 |**2023-03-04**|**Topological Quantum Gates in Homotopy Type Theory**|David Jaz Myers et.al.|[2303.02382](http://arxiv.org/abs/2303.02382)|null|
 |**2023-03-02**|**Concurrent Ferromagnetism and Superconductivity in Fe(Te,Se) van der Waals Josephson Junctions**|Gang Qiu et.al.|[2303.00966](http://arxiv.org/abs/2303.00966)|null|
