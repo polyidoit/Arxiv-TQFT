@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Fusion rules and shrinking rules of topological orders in five dimensions**|Yizhou Huang et.al.|[2306.14611](http://arxiv.org/abs/2306.14611)|null|
 |**2023-06-23**|**Fourier-transformed gauge theory models of three-dimensional topological orders with gapped boundaries**|Siyuan Wang et.al.|[2306.13530](http://arxiv.org/abs/2306.13530)|null|
 |**2023-06-22**|**A proposal to demonstrate non-abelian anyons on a NISQ device**|Jovan Jovanović et.al.|[2306.13129](http://arxiv.org/abs/2306.13129)|null|
 |**2023-06-22**|**Stabilization of symmetry-protected long-range entanglement in stochastic quantum circuits**|Iosifina Angelidi et.al.|[2306.13008](http://arxiv.org/abs/2306.13008)|null|
@@ -103,12 +104,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Fusion rules and shrinking rules of topological orders in five dimensions**|Yizhou Huang et.al.|[2306.14611](http://arxiv.org/abs/2306.14611)|null|
 |**2023-06-23**|**Fourier-transformed gauge theory models of three-dimensional topological orders with gapped boundaries**|Siyuan Wang et.al.|[2306.13530](http://arxiv.org/abs/2306.13530)|null|
 |**2023-06-22**|**Strain-induced frustrated helimagnetism and topological spin textures in LiCrTe $_{2}$**|Weiyi Pan et.al.|[2306.13035](http://arxiv.org/abs/2306.13035)|null|
 |**2023-06-22**|**Topological defects at smectic interfaces as a potential tool for the biosensing of living microorganisms**|Vajra S. Badha et.al.|[2306.12989](http://arxiv.org/abs/2306.12989)|null|
 |**2023-06-21**|**Non-Perturbative Explorations of Chiral Rings in 4d $\mathcal{N}=2$ SCFTs**|Anindya Banerjee et.al.|[2306.12521](http://arxiv.org/abs/2306.12521)|null|
 |**2023-06-21**|**Topologically Ordered Steady States in Open Quantum Systems**|Zijian Wang et.al.|[2306.12482](http://arxiv.org/abs/2306.12482)|null|
-|**2023-06-21**|**Drinfeld Centers from Magnetic Quivers**|Veronica Pasquarella et.al.|[2306.12471](http://arxiv.org/abs/2306.12471)|null|
+|**2023-06-26**|**Drinfeld Centers from Magnetic Quivers**|Veronica Pasquarella et.al.|[2306.12471](http://arxiv.org/abs/2306.12471)|null|
 |**2023-06-21**|**Topological state transitions in electromagnetic topological defects**|Peng Shi et.al.|[2306.12024](http://arxiv.org/abs/2306.12024)|null|
 |**2023-06-19**|**Abelian TQFTS and Schrödinger local systems**|Anna Beliakova et.al.|[2306.10725](http://arxiv.org/abs/2306.10725)|null|
 |**2023-06-16**|**A heterotic Kodaira--Spencer theory at one-loop**|Anthony Ashmore et.al.|[2306.10106](http://arxiv.org/abs/2306.10106)|null|
