@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -206,7 +206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-23**|**Multi-locational Majorana Zero Modes**|Yutaro Nagae et.al.|[2306.13291](http://arxiv.org/abs/2306.13291)|null|
+|**2023-06-26**|**Multi-locational Majorana Zero Modes**|Yutaro Nagae et.al.|[2306.13291](http://arxiv.org/abs/2306.13291)|null|
 |**2023-06-19**|**Vison manipulation with local magnetic fields**|Haoran Wang et.al.|[2306.11092](http://arxiv.org/abs/2306.11092)|null|
 |**2023-06-08**|**Bicolor loop models and their long range entanglement**|Zhao Zhang et.al.|[2306.05464](http://arxiv.org/abs/2306.05464)|null|
 |**2023-06-08**|**Topological correlation: anyonic states cannot be determined by local operations and classical communication**|Cheng-Qian Xu et.al.|[2306.03596](http://arxiv.org/abs/2306.03596)|null|
