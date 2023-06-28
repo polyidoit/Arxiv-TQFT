@@ -104,6 +104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**Charge-resolved entanglement in the presence of topological defects**|David X. Horvath et.al.|[2306.15532](http://arxiv.org/abs/2306.15532)|null|
 |**2023-06-26**|**Fusion rules and shrinking rules of topological orders in five dimensions**|Yizhou Huang et.al.|[2306.14611](http://arxiv.org/abs/2306.14611)|null|
 |**2023-06-23**|**Fourier-transformed gauge theory models of three-dimensional topological orders with gapped boundaries**|Siyuan Wang et.al.|[2306.13530](http://arxiv.org/abs/2306.13530)|null|
 |**2023-06-22**|**Strain-induced frustrated helimagnetism and topological spin textures in LiCrTe $_{2}$**|Weiyi Pan et.al.|[2306.13035](http://arxiv.org/abs/2306.13035)|null|
