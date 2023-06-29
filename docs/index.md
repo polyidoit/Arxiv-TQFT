@@ -96,6 +96,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Aspects of Categorical Symmetries from Branes: SymTFTs and Generalized Charges**|Fabio Apruzzi et.al.|[2306.16405](http://arxiv.org/abs/2306.16405)|null|
+|**2023-06-27**|**Kibble-Zurek mechanism of Ising domains**|Kai Du et.al.|[2306.15821](http://arxiv.org/abs/2306.15821)|null|
+|**2023-06-27**|**Non-Invertible Symmetries, Brane Dynamics, and Tachyon Condensation**|Ibrahima Bah et.al.|[2306.15783](http://arxiv.org/abs/2306.15783)|null|
 |**2023-06-27**|**Charge-resolved entanglement in the presence of topological defects**|David X. Horvath et.al.|[2306.15532](http://arxiv.org/abs/2306.15532)|null|
 |**2023-06-26**|**Fusion rules and shrinking rules of topological orders in five dimensions**|Yizhou Huang et.al.|[2306.14611](http://arxiv.org/abs/2306.14611)|null|
 |**2023-06-23**|**Fourier-transformed gauge theory models of three-dimensional topological orders with gapped boundaries**|Siyuan Wang et.al.|[2306.13530](http://arxiv.org/abs/2306.13530)|null|
@@ -209,6 +212,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Dyck Paths and Topological Quantum Computation**|Vivek Kumar Singh et.al.|[2306.16062](http://arxiv.org/abs/2306.16062)|null|
 |**2023-06-26**|**Multi-locational Majorana Zero Modes**|Yutaro Nagae et.al.|[2306.13291](http://arxiv.org/abs/2306.13291)|null|
 |**2023-06-19**|**Vison manipulation with local magnetic fields**|Haoran Wang et.al.|[2306.11092](http://arxiv.org/abs/2306.11092)|null|
 |**2023-06-08**|**Bicolor loop models and their long range entanglement**|Zhao Zhang et.al.|[2306.05464](http://arxiv.org/abs/2306.05464)|null|
