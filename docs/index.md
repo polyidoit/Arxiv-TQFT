@@ -96,6 +96,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Solitonic symmetry as non-invertible symmetry: cohomology theories with TQFT coefficients**|Shi Chen et.al.|[2307.00939](http://arxiv.org/abs/2307.00939)|null|
+|**2023-07-01**|**Hydrodynamics of $(1+1)$ dimensional fluid in the presence of gravitational anomaly from first order thermodynamics and its connection with Hawking effect**|Abhinove Nagarajan Seenivasan et.al.|[2307.00399](http://arxiv.org/abs/2307.00399)|null|
 |**2023-06-30**|**Domain wall interpretation of the PTA signal confronting black hole overproduction**|Yann Gouttenoire et.al.|[2306.17841](http://arxiv.org/abs/2306.17841)|null|
 |**2023-06-28**|**Topological Defect Lines in bosonized Parafermionic CFTs**|Babak Haghighat et.al.|[2306.16555](http://arxiv.org/abs/2306.16555)|null|
 |**2023-06-28**|**Aspects of Categorical Symmetries from Branes: SymTFTs and Generalized Charges**|Fabio Apruzzi et.al.|[2306.16405](http://arxiv.org/abs/2306.16405)|null|
@@ -249,6 +251,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
 |**2023-02-06**|**High threshold codes for neutral atom qubits with biased erasure errors**|Kaavya Sahay et.al.|[2302.03063](http://arxiv.org/abs/2302.03063)|null|
 |**2022-12-31**|**Renormalization of Ising cage-net model and generalized foliation**|Zongyuan Wang et.al.|[2301.00103](http://arxiv.org/abs/2301.00103)|null|
 |**2022-12-21**|**Biased Gottesman-Kitaev-Preskill repetition code**|Matthew P. Stafford et.al.|[2212.11397](http://arxiv.org/abs/2212.11397)|null|
