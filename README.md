@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Measurement-induced phase transitions in the toric code**|Amir-Reza Negari et.al.|[2307.02292](http://arxiv.org/abs/2307.02292)|null|
+|**2023-07-03**|**Symmetry fractionalization, mixed-anomalies and dualities in quantum spin models with generalized symmetries**|Heidar Moradi et.al.|[2307.01266](http://arxiv.org/abs/2307.01266)|null|
 |**2023-06-26**|**Fusion rules and shrinking rules of topological orders in five dimensions**|Yizhou Huang et.al.|[2306.14611](http://arxiv.org/abs/2306.14611)|null|
 |**2023-06-23**|**Fourier-transformed gauge theory models of three-dimensional topological orders with gapped boundaries**|Siyuan Wang et.al.|[2306.13530](http://arxiv.org/abs/2306.13530)|null|
 |**2023-06-22**|**A proposal to demonstrate non-abelian anyons on a NISQ device**|Jovan Jovanović et.al.|[2306.13129](http://arxiv.org/abs/2306.13129)|null|
@@ -104,6 +106,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Notes on Factorization Algebras and TQFTs**|Araminta Amabel et.al.|[2307.01306](http://arxiv.org/abs/2307.01306)|null|
 |**2023-07-03**|**Solitonic symmetry as non-invertible symmetry: cohomology theories with TQFT coefficients**|Shi Chen et.al.|[2307.00939](http://arxiv.org/abs/2307.00939)|null|
 |**2023-07-01**|**Hydrodynamics of $(1+1)$ dimensional fluid in the presence of gravitational anomaly from first order thermodynamics and its connection with Hawking effect**|Abhinove Nagarajan Seenivasan et.al.|[2307.00399](http://arxiv.org/abs/2307.00399)|null|
 |**2023-06-30**|**Domain wall interpretation of the PTA signal confronting black hole overproduction**|Yann Gouttenoire et.al.|[2306.17841](http://arxiv.org/abs/2306.17841)|null|
@@ -226,6 +229,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-04**|**Systematic Computation of Braid Generator Matrix in Topological Quantum Computing**|Abdellah Tounsi et.al.|[2307.01892](http://arxiv.org/abs/2307.01892)|null|
 |**2023-06-28**|**Dyck Paths and Topological Quantum Computation**|Vivek Kumar Singh et.al.|[2306.16062](http://arxiv.org/abs/2306.16062)|null|
 |**2023-06-26**|**Multi-locational Majorana Zero Modes**|Yutaro Nagae et.al.|[2306.13291](http://arxiv.org/abs/2306.13291)|null|
 |**2023-06-19**|**Vison manipulation with local magnetic fields**|Haoran Wang et.al.|[2306.11092](http://arxiv.org/abs/2306.11092)|null|
