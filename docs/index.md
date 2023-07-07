@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Biorthogonal dynamical quantum phase transitions in non-Hermitian systems**|Yecheng Jing et.al.|[2307.02993](http://arxiv.org/abs/2307.02993)|null|
+|**2023-07-05**|**The Kibble-Zurek Scenario and Coarsening Across Nonequilibrium Phase Transitions in Driven Vortices and Skyrmions**|C. Reichhardt et.al.|[2307.02685](http://arxiv.org/abs/2307.02685)|null|
 |**2023-07-05**|**Measurement-induced phase transitions in the toric code**|Amir-Reza Negari et.al.|[2307.02292](http://arxiv.org/abs/2307.02292)|null|
 |**2023-07-03**|**Symmetry fractionalization, mixed-anomalies and dualities in quantum spin models with generalized symmetries**|Heidar Moradi et.al.|[2307.01266](http://arxiv.org/abs/2307.01266)|null|
 |**2023-06-26**|**Fusion rules and shrinking rules of topological orders in five dimensions**|Yizhou Huang et.al.|[2306.14611](http://arxiv.org/abs/2306.14611)|null|
@@ -98,6 +100,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**The Kibble-Zurek Scenario and Coarsening Across Nonequilibrium Phase Transitions in Driven Vortices and Skyrmions**|C. Reichhardt et.al.|[2307.02685](http://arxiv.org/abs/2307.02685)|null|
+|**2023-07-05**|**Large Deviations Theory Beyond the Kibble-Zurek Mechanism**|Federico Balducci et.al.|[2307.02524](http://arxiv.org/abs/2307.02524)|null|
 |**2023-07-03**|**Notes on Factorization Algebras and TQFTs**|Araminta Amabel et.al.|[2307.01306](http://arxiv.org/abs/2307.01306)|null|
 |**2023-07-03**|**Solitonic symmetry as non-invertible symmetry: cohomology theories with TQFT coefficients**|Shi Chen et.al.|[2307.00939](http://arxiv.org/abs/2307.00939)|null|
 |**2023-07-01**|**Hydrodynamics of $(1+1)$ dimensional fluid in the presence of gravitational anomaly from first order thermodynamics and its connection with Hawking effect**|Abhinove Nagarajan Seenivasan et.al.|[2307.00399](http://arxiv.org/abs/2307.00399)|null|
