@@ -223,6 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Chiral odd Chern number lattice supersolidity with tunable unpaired Majorana fermions in a Rydberg-dressed Fermi gas**|Shuai Li et.al.|[2307.03375](http://arxiv.org/abs/2307.03375)|null|
 |**2023-07-04**|**Systematic Computation of Braid Generator Matrix in Topological Quantum Computing**|Abdellah Tounsi et.al.|[2307.01892](http://arxiv.org/abs/2307.01892)|null|
 |**2023-06-28**|**Dyck Paths and Topological Quantum Computation**|Vivek Kumar Singh et.al.|[2306.16062](http://arxiv.org/abs/2306.16062)|null|
 |**2023-06-26**|**Multi-locational Majorana Zero Modes**|Yutaro Nagae et.al.|[2306.13291](http://arxiv.org/abs/2306.13291)|null|
