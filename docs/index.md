@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Quantum error correction beyond the toric code: dynamical systems meet encoding**|Garima Rajpoot et.al.|[2307.04418](http://arxiv.org/abs/2307.04418)|null|
+|**2023-07-10**|**Phase Diagram and Crossover Phases of Topologically Ordered Graphene Zigzag Nanoribbons: Role of Localization Effects**|Hoang Anh Le et.al.|[2307.04352](http://arxiv.org/abs/2307.04352)|null|
 |**2023-07-06**|**Biorthogonal dynamical quantum phase transitions in non-Hermitian systems**|Yecheng Jing et.al.|[2307.02993](http://arxiv.org/abs/2307.02993)|null|
 |**2023-07-05**|**The Kibble-Zurek Scenario and Coarsening Across Nonequilibrium Phase Transitions in Driven Vortices and Skyrmions**|C. Reichhardt et.al.|[2307.02685](http://arxiv.org/abs/2307.02685)|null|
 |**2023-07-05**|**Measurement-induced phase transitions in the toric code**|Amir-Reza Negari et.al.|[2307.02292](http://arxiv.org/abs/2307.02292)|null|
@@ -100,6 +102,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Endotaxial Stabilization of 2D Charge Density Waves with Long-range Order**|Suk Hyun Sung et.al.|[2307.04587](http://arxiv.org/abs/2307.04587)|null|
 |**2023-07-05**|**The Kibble-Zurek Scenario and Coarsening Across Nonequilibrium Phase Transitions in Driven Vortices and Skyrmions**|C. Reichhardt et.al.|[2307.02685](http://arxiv.org/abs/2307.02685)|null|
 |**2023-07-05**|**Large Deviations Theory Beyond the Kibble-Zurek Mechanism**|Federico Balducci et.al.|[2307.02524](http://arxiv.org/abs/2307.02524)|null|
 |**2023-07-03**|**Notes on Factorization Algebras and TQFTs**|Araminta Amabel et.al.|[2307.01306](http://arxiv.org/abs/2307.01306)|null|
