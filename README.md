@@ -1,4 +1,4 @@
-## Updated on 2023.07.11
+## Updated on 2023.07.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -22,7 +22,7 @@
 |**2023-06-26**|**Fusion rules and shrinking rules of topological orders in five dimensions**|Yizhou Huang et.al.|[2306.14611](http://arxiv.org/abs/2306.14611)|null|
 |**2023-06-23**|**Fourier-transformed gauge theory models of three-dimensional topological orders with gapped boundaries**|Siyuan Wang et.al.|[2306.13530](http://arxiv.org/abs/2306.13530)|null|
 |**2023-06-22**|**A proposal to demonstrate non-abelian anyons on a NISQ device**|Jovan Jovanović et.al.|[2306.13129](http://arxiv.org/abs/2306.13129)|null|
-|**2023-06-22**|**Stabilization of symmetry-protected long-range entanglement in stochastic quantum circuits**|Iosifina Angelidi et.al.|[2306.13008](http://arxiv.org/abs/2306.13008)|null|
+|**2023-07-11**|**Stabilization of symmetry-protected long-range entanglement in stochastic quantum circuits**|Iosifina Angelidi et.al.|[2306.13008](http://arxiv.org/abs/2306.13008)|null|
 |**2023-06-21**|**Topologically Ordered Steady States in Open Quantum Systems**|Zijian Wang et.al.|[2306.12482](http://arxiv.org/abs/2306.12482)|null|
 |**2023-06-15**|**Wegner's Ising gauge spins versus Kitaev's Majorana partons: Mapping and application to anisotropic confinement in spin-orbital liquids**|Urban F. P. Seifert et.al.|[2306.09405](http://arxiv.org/abs/2306.09405)|null|
 |**2023-06-16**|**Floquet codes with a twist**|Tyler D. Ellison et.al.|[2306.08027](http://arxiv.org/abs/2306.08027)|null|
@@ -104,7 +104,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
 
 ## TQFT
 
@@ -230,7 +230,7 @@
 |**2022-10-03**|**Parity and Spin CFT with boundaries and defects**|Ingo Runkel et.al.|[2210.01057](http://arxiv.org/abs/2210.01057)|null|
 |**2022-09-27**|**Generalized symmetries of topological field theories**|Ben Gripaios et.al.|[2209.13524](http://arxiv.org/abs/2209.13524)|null|
 
-<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
 
 ## Topological Quantum Computation
 
@@ -269,7 +269,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
 
 ## Fracton
 
@@ -287,5 +287,5 @@
 |**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
 |**2023-04-10**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
-<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
 
