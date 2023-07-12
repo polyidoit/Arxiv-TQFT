@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Shot Noise as a Diagnostic in the Fractional Quantum Hall Edge Zoo**|Sourav Manna et.al.|[2307.05173](http://arxiv.org/abs/2307.05173)|null|
 |**2023-07-10**|**Quantum error correction beyond the toric code: dynamical systems meet encoding**|Garima Rajpoot et.al.|[2307.04418](http://arxiv.org/abs/2307.04418)|null|
 |**2023-07-10**|**Phase Diagram and Crossover Phases of Topologically Ordered Graphene Zigzag Nanoribbons: Role of Localization Effects**|Hoang Anh Le et.al.|[2307.04352](http://arxiv.org/abs/2307.04352)|null|
 |**2023-07-06**|**Biorthogonal dynamical quantum phase transitions in non-Hermitian systems**|Yecheng Jing et.al.|[2307.02993](http://arxiv.org/abs/2307.02993)|null|
@@ -110,6 +111,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Symmetric monoidal equivalences of quantum field theories in dimension two and Frobenius algebras**|Pablo S. Ocal et.al.|[2307.05309](http://arxiv.org/abs/2307.05309)|null|
+|**2023-07-10**|**Kibble-Zurek Mechanism for Nonequilibrium Generation of Magnetic Monopoles in Spin Ices**|Zhijie Fan et.al.|[2307.05267](http://arxiv.org/abs/2307.05267)|null|
+|**2023-07-11**|**Wavefronts Dislocations Measure Topology in Graphene with Defects**|Yuval Abulafia et.al.|[2307.05185](http://arxiv.org/abs/2307.05185)|null|
+|**2023-07-10**|**Fast emulation of anisotropies induced in the cosmic microwave background by cosmic strings**|Matthew A. Price et.al.|[2307.04798](http://arxiv.org/abs/2307.04798)|null|
 |**2023-07-10**|**Endotaxial Stabilization of 2D Charge Density Waves with Long-range Order**|Suk Hyun Sung et.al.|[2307.04587](http://arxiv.org/abs/2307.04587)|null|
 |**2023-07-05**|**The Kibble-Zurek Scenario and Coarsening Across Nonequilibrium Phase Transitions in Driven Vortices and Skyrmions**|C. Reichhardt et.al.|[2307.02685](http://arxiv.org/abs/2307.02685)|null|
 |**2023-07-05**|**Large Deviations Theory Beyond the Kibble-Zurek Mechanism**|Federico Balducci et.al.|[2307.02524](http://arxiv.org/abs/2307.02524)|null|
