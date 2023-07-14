@@ -112,6 +112,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Topological Unwinding in an Exciton-Polariton Condensate Array**|Guitao Lyu et.al.|[2307.06550](http://arxiv.org/abs/2307.06550)|null|
+|**2023-07-12**|**Orbifold completion of 3-categories**|Nils Carqueville et.al.|[2307.06485](http://arxiv.org/abs/2307.06485)|null|
 |**2023-07-11**|**The role of temperature on defect diffusion and nanoscale patterning in graphene**|Ondrej Dyck et.al.|[2307.05764](http://arxiv.org/abs/2307.05764)|null|
 |**2023-07-08**|**Hierarchical defect-induced condensation in active nematics**|Timo Krüger et.al.|[2307.05716](http://arxiv.org/abs/2307.05716)|null|
 |**2023-07-11**|**Symmetric monoidal equivalences of quantum field theories in dimension two and Frobenius algebras**|Pablo S. Ocal et.al.|[2307.05309](http://arxiv.org/abs/2307.05309)|null|
