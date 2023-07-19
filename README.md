@@ -1,4 +1,4 @@
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -19,7 +19,7 @@
 |**2023-07-11**|**Shot Noise as a Diagnostic in the Fractional Quantum Hall Edge Zoo**|Sourav Manna et.al.|[2307.05173](http://arxiv.org/abs/2307.05173)|null|
 |**2023-07-10**|**Quantum error correction beyond the toric code: dynamical systems meet encoding**|Garima Rajpoot et.al.|[2307.04418](http://arxiv.org/abs/2307.04418)|null|
 |**2023-07-10**|**Phase Diagram and Crossover Phases of Topologically Ordered Graphene Zigzag Nanoribbons: Role of Localization Effects**|Hoang Anh Le et.al.|[2307.04352](http://arxiv.org/abs/2307.04352)|null|
-|**2023-07-06**|**Biorthogonal dynamical quantum phase transitions in non-Hermitian systems**|Yecheng Jing et.al.|[2307.02993](http://arxiv.org/abs/2307.02993)|null|
+|**2023-07-17**|**Biorthogonal dynamical quantum phase transitions in non-Hermitian systems**|Yecheng Jing et.al.|[2307.02993](http://arxiv.org/abs/2307.02993)|null|
 |**2023-07-05**|**The Kibble-Zurek Scenario and Coarsening Across Nonequilibrium Phase Transitions in Driven Vortices and Skyrmions**|C. Reichhardt et.al.|[2307.02685](http://arxiv.org/abs/2307.02685)|null|
 |**2023-07-05**|**Measurement-induced phase transitions in the toric code**|Amir-Reza Negari et.al.|[2307.02292](http://arxiv.org/abs/2307.02292)|null|
 |**2023-07-03**|**Symmetry fractionalization, mixed-anomalies and dualities in quantum spin models with generalized symmetries**|Heidar Moradi et.al.|[2307.01266](http://arxiv.org/abs/2307.01266)|null|
@@ -108,7 +108,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## TQFT
 
@@ -245,7 +245,7 @@
 |**2022-10-03**|**Parity and Spin CFT with boundaries and defects**|Ingo Runkel et.al.|[2210.01057](http://arxiv.org/abs/2210.01057)|null|
 |**2022-09-27**|**Generalized symmetries of topological field theories**|Ben Gripaios et.al.|[2209.13524](http://arxiv.org/abs/2209.13524)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Topological Quantum Computation
 
@@ -284,7 +284,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Fracton
 
@@ -302,5 +302,5 @@
 |**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
 |**2023-04-10**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
