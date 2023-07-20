@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**|Zhi-Feng Zhang et.al.|[2307.09983](http://arxiv.org/abs/2307.09983)|null|
+|**2023-07-18**|**Dissipative phase transitions and passive error correction**|Yu-Jie Liu et.al.|[2307.09512](http://arxiv.org/abs/2307.09512)|null|
 |**2023-07-18**|**(2+1)D SU(2) Yang-Mills Lattice Gauge Theory at finite density via tensor networks**|Giovanni Cataldi et.al.|[2307.09396](http://arxiv.org/abs/2307.09396)|null|
 |**2023-07-16**|**Single-Shot Quantum Error Correction in Intertwined Toric Codes**|Charles Stahl et.al.|[2307.08118](http://arxiv.org/abs/2307.08118)|null|
 |**2023-07-14**|**Excitonic topological order in imbalanced electron-hole bilayers**|Rui Wang et.al.|[2307.07159](http://arxiv.org/abs/2307.07159)|null|
@@ -115,6 +117,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Symmetrically pulsating bubbles swim in an anisotropic fluid by nematodynamics**|Sung-Jo Kim et.al.|[2307.10121](http://arxiv.org/abs/2307.10121)|null|
+|**2023-07-13**|**Observation of Kekulé vortices induced in graphene by hydrogen adatoms**|Y. Guan et.al.|[2307.10024](http://arxiv.org/abs/2307.10024)|null|
+|**2023-07-19**|**Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**|Zhi-Feng Zhang et.al.|[2307.09983](http://arxiv.org/abs/2307.09983)|null|
+|**2023-07-18**|**Impurity screening by defects in (1+1) $d$ quantum critical systems**|Ying-Hai Wu et.al.|[2307.09519](http://arxiv.org/abs/2307.09519)|null|
 |**2023-07-17**|**Geodesics motion of test particles around Schwarzschild-Klinkhamer wormhole with topological defects and gravitational lensing**|Faizuddin Ahmed et.al.|[2307.08503](http://arxiv.org/abs/2307.08503)|null|
 |**2023-07-17**|**Fractional Skyrme lines in ferroelectric barium titanate**|Chris Halcrow et.al.|[2307.08443](http://arxiv.org/abs/2307.08443)|null|
 |**2023-07-14**|**Lectures on Generalized Symmetries**|Lakshya Bhardwaj et.al.|[2307.07547](http://arxiv.org/abs/2307.07547)|null|
