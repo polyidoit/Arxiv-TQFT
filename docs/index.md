@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -113,7 +113,7 @@ layout: default
 |**2023-07-13**|**Observation of Kekulé vortices induced in graphene by hydrogen adatoms**|Y. Guan et.al.|[2307.10024](http://arxiv.org/abs/2307.10024)|null|
 |**2023-07-19**|**Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**|Zhi-Feng Zhang et.al.|[2307.09983](http://arxiv.org/abs/2307.09983)|null|
 |**2023-07-18**|**Impurity screening by defects in (1+1) $d$ quantum critical systems**|Ying-Hai Wu et.al.|[2307.09519](http://arxiv.org/abs/2307.09519)|null|
-|**2023-07-17**|**Geodesics motion of test particles around Schwarzschild-Klinkhamer wormhole with topological defects and gravitational lensing**|Faizuddin Ahmed et.al.|[2307.08503](http://arxiv.org/abs/2307.08503)|null|
+|**2023-07-24**|**Geodesics motion of test particles around SK-wormhole with topological defects and gravitational lensing**|Faizuddin Ahmed et.al.|[2307.08503](http://arxiv.org/abs/2307.08503)|null|
 |**2023-07-17**|**Fractional Skyrme lines in ferroelectric barium titanate**|Chris Halcrow et.al.|[2307.08443](http://arxiv.org/abs/2307.08443)|null|
 |**2023-07-14**|**Lectures on Generalized Symmetries**|Lakshya Bhardwaj et.al.|[2307.07547](http://arxiv.org/abs/2307.07547)|null|
 |**2023-07-13**|**Topological Unwinding in an Exciton-Polariton Condensate Array**|Guitao Lyu et.al.|[2307.06550](http://arxiv.org/abs/2307.06550)|null|
