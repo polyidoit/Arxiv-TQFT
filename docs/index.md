@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Local topological order and boundary algebras**|Corey Jones et.al.|[2307.12552](http://arxiv.org/abs/2307.12552)|null|
+|**2023-07-24**|**Edge Theories for Anyon Condensation Phase Transitions**|David M. Long et.al.|[2307.12509](http://arxiv.org/abs/2307.12509)|null|
+|**2023-07-23**|**Green's Function Zeros in Fermi Surface Symmetric Mass Generation**|Da-Chuan Lu et.al.|[2307.12223](http://arxiv.org/abs/2307.12223)|null|
 |**2023-07-19**|**Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**|Zhi-Feng Zhang et.al.|[2307.09983](http://arxiv.org/abs/2307.09983)|null|
 |**2023-07-18**|**Dissipative phase transitions and passive error correction**|Yu-Jie Liu et.al.|[2307.09512](http://arxiv.org/abs/2307.09512)|null|
 |**2023-07-18**|**(2+1)D SU(2) Yang-Mills Lattice Gauge Theory at finite density via tensor networks**|Giovanni Cataldi et.al.|[2307.09396](http://arxiv.org/abs/2307.09396)|null|
@@ -109,6 +112,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Collective epithelial migration is mediated by the unbinding of hexatic defects**|Dimitrios Krommydas et.al.|[2307.12956](http://arxiv.org/abs/2307.12956)|null|
+|**2023-07-24**|**Quantum Duality in Electromagnetism and the Fine-Structure Constant**|Clay Cordova et.al.|[2307.12927](http://arxiv.org/abs/2307.12927)|null|
+|**2023-07-24**|**A proof of the Teichmüller TQFT volume conjecture for $7_3$ knot**|Soichiro Uemura et.al.|[2307.12848](http://arxiv.org/abs/2307.12848)|null|
+|**2023-07-23**|**Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction**|Shanlin Sun et.al.|[2307.12299](http://arxiv.org/abs/2307.12299)|null|
+|**2023-07-22**|**LCPOM: Precise Reconstruction of Polarized Optical Microscopy Images of Liquid Crystals**|Chuqiao Chen et.al.|[2307.11944](http://arxiv.org/abs/2307.11944)|null|
 |**2023-07-19**|**Symmetrically pulsating bubbles swim in an anisotropic fluid by nematodynamics**|Sung-Jo Kim et.al.|[2307.10121](http://arxiv.org/abs/2307.10121)|null|
 |**2023-07-13**|**Observation of Kekulé vortices induced in graphene by hydrogen adatoms**|Y. Guan et.al.|[2307.10024](http://arxiv.org/abs/2307.10024)|null|
 |**2023-07-19**|**Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**|Zhi-Feng Zhang et.al.|[2307.09983](http://arxiv.org/abs/2307.09983)|null|
