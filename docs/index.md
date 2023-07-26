@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.25
+## Updated on 2023.07.26
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -112,7 +112,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-24**|**Collective epithelial migration is mediated by the unbinding of hexatic defects**|Dimitrios Krommydas et.al.|[2307.12956](http://arxiv.org/abs/2307.12956)|null|
+|**2023-07-25**|**Collective epithelial migration is mediated by the unbinding of hexatic defects**|Dimitrios Krommydas et.al.|[2307.12956](http://arxiv.org/abs/2307.12956)|null|
 |**2023-07-24**|**Quantum Duality in Electromagnetism and the Fine-Structure Constant**|Clay Cordova et.al.|[2307.12927](http://arxiv.org/abs/2307.12927)|null|
 |**2023-07-24**|**A proof of the Teichmüller TQFT volume conjecture for $7_3$ knot**|Soichiro Uemura et.al.|[2307.12848](http://arxiv.org/abs/2307.12848)|null|
 |**2023-07-23**|**Hybrid-CSR: Coupling Explicit and Implicit Shape Representation for Cortical Surface Reconstruction**|Shanlin Sun et.al.|[2307.12299](http://arxiv.org/abs/2307.12299)|null|
