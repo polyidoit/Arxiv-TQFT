@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|null|
 |**2023-07-24**|**Local topological order and boundary algebras**|Corey Jones et.al.|[2307.12552](http://arxiv.org/abs/2307.12552)|null|
 |**2023-07-24**|**Edge Theories for Anyon Condensation Phase Transitions**|David M. Long et.al.|[2307.12509](http://arxiv.org/abs/2307.12509)|null|
 |**2023-07-23**|**Green's Function Zeros in Fermi Surface Symmetric Mass Generation**|Da-Chuan Lu et.al.|[2307.12223](http://arxiv.org/abs/2307.12223)|null|
@@ -112,6 +113,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**The fate of supersymmetry in topological quantum field theories**|Risto Raitio et.al.|[2307.13017](http://arxiv.org/abs/2307.13017)|null|
 |**2023-07-25**|**Collective epithelial migration is mediated by the unbinding of hexatic defects**|Dimitrios Krommydas et.al.|[2307.12956](http://arxiv.org/abs/2307.12956)|null|
 |**2023-07-24**|**Quantum Duality in Electromagnetism and the Fine-Structure Constant**|Clay Cordova et.al.|[2307.12927](http://arxiv.org/abs/2307.12927)|null|
 |**2023-07-24**|**A proof of the Teichmüller TQFT volume conjecture for $7_3$ knot**|Soichiro Uemura et.al.|[2307.12848](http://arxiv.org/abs/2307.12848)|null|
