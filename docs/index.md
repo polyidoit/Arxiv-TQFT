@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.27
+## Updated on 2023.07.28
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -300,7 +300,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
 |**2023-02-06**|**High threshold codes for neutral atom qubits with biased erasure errors**|Kaavya Sahay et.al.|[2302.03063](http://arxiv.org/abs/2302.03063)|null|
-|**2022-12-31**|**Renormalization of Ising cage-net model and generalized foliation**|Zongyuan Wang et.al.|[2301.00103](http://arxiv.org/abs/2301.00103)|null|
+|**2023-07-26**|**Renormalization of Ising cage-net model and generalized foliation**|Zongyuan Wang et.al.|[2301.00103](http://arxiv.org/abs/2301.00103)|null|
 |**2022-12-21**|**Biased Gottesman-Kitaev-Preskill repetition code**|Matthew P. Stafford et.al.|[2212.11397](http://arxiv.org/abs/2212.11397)|null|
 |**2022-11-28**|**Y-cube model and fractal structure of subdimensional particles on hyperbolic lattices**|Han Yan et.al.|[2211.15829](http://arxiv.org/abs/2211.15829)|null|
 |**2022-12-27**|**Hierarchy of Entanglement Renormalization and Long-Range Entangled States**|Meng-Yuan Li et.al.|[2211.14136](http://arxiv.org/abs/2211.14136)|null|
