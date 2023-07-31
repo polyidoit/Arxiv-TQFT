@@ -122,6 +122,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Density-polarity coupling in confined active polar films: asters, spirals, and biphasic orientational phases**|Mathieu Dedenon et.al.|[2307.15707](http://arxiv.org/abs/2307.15707)|null|
+|**2023-07-28**|**Thomson problem in the disk**|Paolo Amore et.al.|[2307.15683](http://arxiv.org/abs/2307.15683)|null|
+|**2023-07-28**|**Phase diagram of one-dimensional driven-dissipative exciton-polariton condensates**|Francesco Vercesi et.al.|[2307.15664](http://arxiv.org/abs/2307.15664)|null|
 |**2023-07-27**|**Real-space topological localizer index to fully characterize the dislocation skin effect**|Nisarg Chadha et.al.|[2307.14753](http://arxiv.org/abs/2307.14753)|null|
 |**2023-07-26**|**Diraxiogenesis**|Maximilian Berbig et.al.|[2307.14121](http://arxiv.org/abs/2307.14121)|null|
 |**2023-07-24**|**The fate of supersymmetry in topological quantum field theories**|Risto Raitio et.al.|[2307.13017](http://arxiv.org/abs/2307.13017)|null|
