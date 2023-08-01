@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-29**|**Easing the equilibration of spin systems with quenched disorder in Population Annealing by topological-defect-driven non-local updates**|David Cirauqui et.al.|[2307.16087](http://arxiv.org/abs/2307.16087)|null|
 |**2023-07-25**|**Intrinsic Mixed-state Topological Order Without Quantum Memory**|Zijian Wang et.al.|[2307.13758](http://arxiv.org/abs/2307.13758)|null|
 |**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
 |**2023-07-24**|**Local topological order and boundary algebras**|Corey Jones et.al.|[2307.12552](http://arxiv.org/abs/2307.12552)|null|
@@ -122,6 +123,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Orbifolds of topological quantum field theories**|Nils Carqueville et.al.|[2307.16674](http://arxiv.org/abs/2307.16674)|null|
+|**2023-07-31**|**R-parity Conserving Minimal SUSY U(1) $_{X}$ Model**|Satsuki Oda et.al.|[2307.16480](http://arxiv.org/abs/2307.16480)|null|
+|**2023-07-29**|**Easing the equilibration of spin systems with quenched disorder in Population Annealing by topological-defect-driven non-local updates**|David Cirauqui et.al.|[2307.16087](http://arxiv.org/abs/2307.16087)|null|
 |**2023-07-28**|**Density-polarity coupling in confined active polar films: asters, spirals, and biphasic orientational phases**|Mathieu Dedenon et.al.|[2307.15707](http://arxiv.org/abs/2307.15707)|null|
 |**2023-07-28**|**Thomson problem in the disk**|Paolo Amore et.al.|[2307.15683](http://arxiv.org/abs/2307.15683)|null|
 |**2023-07-28**|**Phase diagram of one-dimensional driven-dissipative exciton-polariton condensates**|Francesco Vercesi et.al.|[2307.15664](http://arxiv.org/abs/2307.15664)|null|
