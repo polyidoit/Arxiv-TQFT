@@ -1,4 +1,4 @@
-## Updated on 2023.08.01
+## Updated on 2023.08.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,7 +17,7 @@
 |**2023-07-25**|**Intrinsic Mixed-state Topological Order Without Quantum Memory**|Zijian Wang et.al.|[2307.13758](http://arxiv.org/abs/2307.13758)|null|
 |**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
 |**2023-07-24**|**Local topological order and boundary algebras**|Corey Jones et.al.|[2307.12552](http://arxiv.org/abs/2307.12552)|null|
-|**2023-07-24**|**Edge Theories for Anyon Condensation Phase Transitions**|David M. Long et.al.|[2307.12509](http://arxiv.org/abs/2307.12509)|null|
+|**2023-08-01**|**Edge Theories for Anyon Condensation Phase Transitions**|David M. Long et.al.|[2307.12509](http://arxiv.org/abs/2307.12509)|null|
 |**2023-07-23**|**Green's Function Zeros in Fermi Surface Symmetric Mass Generation**|Da-Chuan Lu et.al.|[2307.12223](http://arxiv.org/abs/2307.12223)|null|
 |**2023-07-19**|**Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**|Zhi-Feng Zhang et.al.|[2307.09983](http://arxiv.org/abs/2307.09983)|null|
 |**2023-07-18**|**Dissipative phase transitions and passive error correction**|Yu-Jie Liu et.al.|[2307.09512](http://arxiv.org/abs/2307.09512)|null|
@@ -117,7 +117,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
 
 ## TQFT
 
@@ -272,7 +272,7 @@
 |**2022-10-03**|**Parity and Spin CFT with boundaries and defects**|Ingo Runkel et.al.|[2210.01057](http://arxiv.org/abs/2210.01057)|null|
 |**2022-09-27**|**Generalized symmetries of topological field theories**|Ben Gripaios et.al.|[2209.13524](http://arxiv.org/abs/2209.13524)|null|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
 
 ## Topological Quantum Computation
 
@@ -312,7 +312,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
 
 ## Fracton
 
@@ -330,5 +330,5 @@
 |**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
 |**2023-04-10**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
-<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230802>back to top</a>)</p>
 
