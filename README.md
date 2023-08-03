@@ -280,6 +280,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Searching for Majorana quasiparticles at vortex cores in iron-based superconductors**|Tadashi Machida et.al.|[2308.00930](http://arxiv.org/abs/2308.00930)|null|
 |**2023-07-19**|**Vacancy spectroscopy of non-Abelian Kitaev spin liquids**|Wen-Han Kao et.al.|[2307.10376](http://arxiv.org/abs/2307.10376)|null|
 |**2023-07-07**|**Chiral odd Chern number lattice supersolidity with tunable unpaired Majorana fermions in a Rydberg-dressed Fermi gas**|Shuai Li et.al.|[2307.03375](http://arxiv.org/abs/2307.03375)|null|
 |**2023-07-04**|**Systematic Computation of Braid Generator Matrix in Topological Quantum Computing**|Abdellah Tounsi et.al.|[2307.01892](http://arxiv.org/abs/2307.01892)|null|
