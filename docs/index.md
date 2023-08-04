@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.03
+## Updated on 2023.08.04
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -15,7 +15,7 @@ layout: default
 |**2023-08-01**|**Edge Theories for Anyon Condensation Phase Transitions**|David M. Long et.al.|[2307.12509](http://arxiv.org/abs/2307.12509)|null|
 |**2023-07-23**|**Green's Function Zeros in Fermi Surface Symmetric Mass Generation**|Da-Chuan Lu et.al.|[2307.12223](http://arxiv.org/abs/2307.12223)|null|
 |**2023-07-19**|**Detecting the interplay between self-statistics and braiding statistics in 3D topologically ordered phases through topological quantum field theory**|Zhi-Feng Zhang et.al.|[2307.09983](http://arxiv.org/abs/2307.09983)|null|
-|**2023-07-18**|**Dissipative phase transitions and passive error correction**|Yu-Jie Liu et.al.|[2307.09512](http://arxiv.org/abs/2307.09512)|null|
+|**2023-08-03**|**Dissipative phase transitions and passive error correction**|Yu-Jie Liu et.al.|[2307.09512](http://arxiv.org/abs/2307.09512)|null|
 |**2023-07-18**|**(2+1)D SU(2) Yang-Mills Lattice Gauge Theory at finite density via tensor networks**|Giovanni Cataldi et.al.|[2307.09396](http://arxiv.org/abs/2307.09396)|null|
 |**2023-07-16**|**Single-Shot Quantum Error Correction in Intertwined Toric Codes**|Charles Stahl et.al.|[2307.08118](http://arxiv.org/abs/2307.08118)|null|
 |**2023-07-14**|**Excitonic topological order in imbalanced electron-hole bilayers**|Rui Wang et.al.|[2307.07159](http://arxiv.org/abs/2307.07159)|null|
