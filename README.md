@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Anyons in a highly-entangled toric xy model**|Milo Moses et.al.|[2308.01765](http://arxiv.org/abs/2308.01765)|null|
 |**2023-07-31**|**No Strings Attached: Boundaries and Defects in the Cubic Code**|Cory T. Aitchison et.al.|[2308.00138](http://arxiv.org/abs/2308.00138)|null|
 |**2023-07-29**|**Easing the equilibration of spin systems with quenched disorder in Population Annealing by topological-defect-driven non-local updates**|David Cirauqui et.al.|[2307.16087](http://arxiv.org/abs/2307.16087)|null|
 |**2023-07-25**|**Intrinsic Mixed-state Topological Order Without Quantum Memory**|Zijian Wang et.al.|[2307.13758](http://arxiv.org/abs/2307.13758)|null|
@@ -124,6 +125,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Narain CFTs from quantum codes and their $\mathbb{Z}_2$ gauging**|Kohki Kawabata et.al.|[2308.01579](http://arxiv.org/abs/2308.01579)|null|
+|**2023-08-02**|**Signatures of Primordial Energy Injection from Axion Strings**|Joshua N. Benabou et.al.|[2308.01334](http://arxiv.org/abs/2308.01334)|null|
 |**2023-08-01**|**Local polar order controls mechanical stress and triggers layer formation in developing Myxococcus xanthus colonies**|Endao Han et.al.|[2308.00368](http://arxiv.org/abs/2308.00368)|null|
 |**2023-07-31**|**Orbifolds of topological quantum field theories**|Nils Carqueville et.al.|[2307.16674](http://arxiv.org/abs/2307.16674)|null|
 |**2023-07-31**|**R-parity Conserving Minimal SUSY U(1) $_{X}$ Model**|Satsuki Oda et.al.|[2307.16480](http://arxiv.org/abs/2307.16480)|null|
@@ -321,6 +324,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Correcting biased noise using Gottesman-Kitaev-Preskill repetition code with noisy ancilla**|Zhifei Li et.al.|[2308.01549](http://arxiv.org/abs/2308.01549)|null|
 |**2023-07-31**|**No Strings Attached: Boundaries and Defects in the Cubic Code**|Cory T. Aitchison et.al.|[2308.00138](http://arxiv.org/abs/2308.00138)|null|
 |**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
 |**2023-02-06**|**High threshold codes for neutral atom qubits with biased erasure errors**|Kaavya Sahay et.al.|[2302.03063](http://arxiv.org/abs/2302.03063)|null|
