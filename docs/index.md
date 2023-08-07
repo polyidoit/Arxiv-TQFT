@@ -117,6 +117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-03**|**Narain CFTs from quantum codes and their $\mathbb{Z}_2$ gauging**|Kohki Kawabata et.al.|[2308.01579](http://arxiv.org/abs/2308.01579)|null|
 |**2023-08-02**|**Signatures of Primordial Energy Injection from Axion Strings**|Joshua N. Benabou et.al.|[2308.01334](http://arxiv.org/abs/2308.01334)|null|
 |**2023-08-01**|**Local polar order controls mechanical stress and triggers layer formation in developing Myxococcus xanthus colonies**|Endao Han et.al.|[2308.00368](http://arxiv.org/abs/2308.00368)|null|
