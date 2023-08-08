@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Detection of nontrivial topology driven by charge density wave in a semi-Dirac metal**|Rafiqul Alam# et.al.|[2308.03587](http://arxiv.org/abs/2308.03587)|null|
+|**2023-08-07**|**Abelian and non-Abelian quantum spin liquids in a three-component Bose gas on optical Kagome lattices**|Kaiye Shi et.al.|[2308.03509](http://arxiv.org/abs/2308.03509)|null|
 |**2023-08-03**|**Anyons in a highly-entangled toric xy model**|Milo Moses et.al.|[2308.01765](http://arxiv.org/abs/2308.01765)|null|
 |**2023-07-31**|**No Strings Attached: Boundaries and Defects in the Cubic Code**|Cory T. Aitchison et.al.|[2308.00138](http://arxiv.org/abs/2308.00138)|null|
 |**2023-07-29**|**Easing the equilibration of spin systems with quenched disorder in Population Annealing by topological-defect-driven non-local updates**|David Cirauqui et.al.|[2307.16087](http://arxiv.org/abs/2307.16087)|null|
@@ -125,6 +127,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**A state sum for the total face color polynomial**|Scott Baldridge et.al.|[2308.02732](http://arxiv.org/abs/2308.02732)|null|
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-03**|**Narain CFTs from quantum codes and their $\mathbb{Z}_2$ gauging**|Kohki Kawabata et.al.|[2308.01579](http://arxiv.org/abs/2308.01579)|null|
 |**2023-08-02**|**Signatures of Primordial Energy Injection from Axion Strings**|Joshua N. Benabou et.al.|[2308.01334](http://arxiv.org/abs/2308.01334)|null|
@@ -284,6 +287,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Abelian and non-Abelian quantum spin liquids in a three-component Bose gas on optical Kagome lattices**|Kaiye Shi et.al.|[2308.03509](http://arxiv.org/abs/2308.03509)|null|
 |**2023-08-02**|**Searching for Majorana quasiparticles at vortex cores in iron-based superconductors**|Tadashi Machida et.al.|[2308.00930](http://arxiv.org/abs/2308.00930)|null|
 |**2023-07-19**|**Vacancy spectroscopy of non-Abelian Kitaev spin liquids**|Wen-Han Kao et.al.|[2307.10376](http://arxiv.org/abs/2307.10376)|null|
 |**2023-07-07**|**Chiral odd Chern number lattice supersolidity with tunable unpaired Majorana fermions in a Rydberg-dressed Fermi gas**|Shuai Li et.al.|[2307.03375](http://arxiv.org/abs/2307.03375)|null|
