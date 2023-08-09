@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**Internal Reshetikhin-Turaev TQFT**|Mickael Lallouche et.al.|[2308.03942](http://arxiv.org/abs/2308.03942)|null|
 |**2023-08-04**|**A state sum for the total face color polynomial**|Scott Baldridge et.al.|[2308.02732](http://arxiv.org/abs/2308.02732)|null|
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-03**|**Narain CFTs from quantum codes and their $\mathbb{Z}_2$ gauging**|Kohki Kawabata et.al.|[2308.01579](http://arxiv.org/abs/2308.01579)|null|
