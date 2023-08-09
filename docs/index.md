@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-07**|**Detection of nontrivial topology driven by charge density wave in a semi-Dirac metal**|Rafiqul Alam# et.al.|[2308.03587](http://arxiv.org/abs/2308.03587)|null|
+|**2023-08-08**|**Detection of nontrivial topology driven by charge density wave in a semi-Dirac metal**|Rafiqul Alam et.al.|[2308.03587](http://arxiv.org/abs/2308.03587)|null|
 |**2023-08-07**|**Abelian and non-Abelian quantum spin liquids in a three-component Bose gas on optical Kagome lattices**|Kaiye Shi et.al.|[2308.03509](http://arxiv.org/abs/2308.03509)|null|
 |**2023-08-03**|**Anyons in a highly-entangled toric xy model**|Milo Moses et.al.|[2308.01765](http://arxiv.org/abs/2308.01765)|null|
 |**2023-07-31**|**No Strings Attached: Boundaries and Defects in the Cubic Code**|Cory T. Aitchison et.al.|[2308.00138](http://arxiv.org/abs/2308.00138)|null|
