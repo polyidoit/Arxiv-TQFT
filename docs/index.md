@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Gapped Interfaces in Fracton Models and Foliated Fields**|Po-Shen Hsin et.al.|[2308.04489](http://arxiv.org/abs/2308.04489)|null|
 |**2023-08-08**|**Detection of nontrivial topology driven by charge density wave in a semi-Dirac metal**|Rafiqul Alam et.al.|[2308.03587](http://arxiv.org/abs/2308.03587)|null|
 |**2023-08-07**|**Abelian and non-Abelian quantum spin liquids in a three-component Bose gas on optical Kagome lattices**|Kaiye Shi et.al.|[2308.03509](http://arxiv.org/abs/2308.03509)|null|
 |**2023-08-03**|**Anyons in a highly-entangled toric xy model**|Milo Moses et.al.|[2308.01765](http://arxiv.org/abs/2308.01765)|null|
@@ -318,6 +319,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Gapped Interfaces in Fracton Models and Foliated Fields**|Po-Shen Hsin et.al.|[2308.04489](http://arxiv.org/abs/2308.04489)|null|
 |**2023-08-03**|**Correcting biased noise using Gottesman-Kitaev-Preskill repetition code with noisy ancilla**|Zhifei Li et.al.|[2308.01549](http://arxiv.org/abs/2308.01549)|null|
 |**2023-07-31**|**No Strings Attached: Boundaries and Defects in the Cubic Code**|Cory T. Aitchison et.al.|[2308.00138](http://arxiv.org/abs/2308.00138)|null|
 |**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
