@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Emergent generalized symmetries in ordered phases**|Salvatore D. Pace et.al.|[2308.05730](http://arxiv.org/abs/2308.05730)|null|
 |**2023-08-08**|**Gapped Interfaces in Fracton Models and Foliated Fields**|Po-Shen Hsin et.al.|[2308.04489](http://arxiv.org/abs/2308.04489)|null|
 |**2023-08-08**|**Detection of nontrivial topology driven by charge density wave in a semi-Dirac metal**|Rafiqul Alam et.al.|[2308.03587](http://arxiv.org/abs/2308.03587)|null|
 |**2023-08-07**|**Abelian and non-Abelian quantum spin liquids in a three-component Bose gas on optical Kagome lattices**|Kaiye Shi et.al.|[2308.03509](http://arxiv.org/abs/2308.03509)|null|
@@ -128,6 +129,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Lieb-Schultz-Mattis anomalies as obstructions to gauging (non-on-site) symmetries**|Sahand Seifnashri et.al.|[2308.05151](http://arxiv.org/abs/2308.05151)|null|
 |**2023-08-07**|**Internal Reshetikhin-Turaev TQFT**|Mickael Lallouche et.al.|[2308.03942](http://arxiv.org/abs/2308.03942)|null|
 |**2023-08-04**|**A state sum for the total face color polynomial**|Scott Baldridge et.al.|[2308.02732](http://arxiv.org/abs/2308.02732)|null|
 |**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
