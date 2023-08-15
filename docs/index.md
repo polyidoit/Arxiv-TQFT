@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Superselection sectors in the 3d Toric Code**|Siddharth Vadnerkar et.al.|[2308.06883](http://arxiv.org/abs/2308.06883)|null|
+|**2023-08-13**|**Generalized Kitaev Spin Liquid model and Emergent Twist Defect**|Bowen Yan et.al.|[2308.06835](http://arxiv.org/abs/2308.06835)|null|
 |**2023-08-10**|**Emergent generalized symmetries in ordered phases**|Salvatore D. Pace et.al.|[2308.05730](http://arxiv.org/abs/2308.05730)|null|
 |**2023-08-08**|**Gapped Interfaces in Fracton Models and Foliated Fields**|Po-Shen Hsin et.al.|[2308.04489](http://arxiv.org/abs/2308.04489)|null|
 |**2023-08-08**|**Detection of nontrivial topology driven by charge density wave in a semi-Dirac metal**|Rafiqul Alam et.al.|[2308.03587](http://arxiv.org/abs/2308.03587)|null|
@@ -121,6 +123,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-13**|**Active nematics with deformable particles**|Ioannis Hadjifrangiskou et.al.|[2308.06860](http://arxiv.org/abs/2308.06860)|null|
+|**2023-08-13**|**Homological algebra and moduli spaces in topological field theories**|Kenji Fukaya et.al.|[2308.06799](http://arxiv.org/abs/2308.06799)|null|
 |**2023-08-09**|**Lieb-Schultz-Mattis anomalies as obstructions to gauging (non-on-site) symmetries**|Sahand Seifnashri et.al.|[2308.05151](http://arxiv.org/abs/2308.05151)|null|
 |**2023-08-07**|**Internal Reshetikhin-Turaev TQFT**|Mickael Lallouche et.al.|[2308.03942](http://arxiv.org/abs/2308.03942)|null|
 |**2023-08-04**|**A state sum for the total face color polynomial**|Scott Baldridge et.al.|[2308.02732](http://arxiv.org/abs/2308.02732)|null|
@@ -324,6 +328,7 @@ layout: default
 |**2023-08-08**|**Gapped Interfaces in Fracton Models and Foliated Fields**|Po-Shen Hsin et.al.|[2308.04489](http://arxiv.org/abs/2308.04489)|null|
 |**2023-08-03**|**Correcting biased noise using Gottesman-Kitaev-Preskill repetition code with noisy ancilla**|Zhifei Li et.al.|[2308.01549](http://arxiv.org/abs/2308.01549)|null|
 |**2023-07-31**|**No Strings Attached: Boundaries and Defects in the Cubic Code**|Cory T. Aitchison et.al.|[2308.00138](http://arxiv.org/abs/2308.00138)|null|
+|**2023-08-12**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
 |**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
 |**2023-02-06**|**High threshold codes for neutral atom qubits with biased erasure errors**|Kaavya Sahay et.al.|[2302.03063](http://arxiv.org/abs/2302.03063)|null|
 |**2023-07-26**|**Renormalization of Ising cage-net model and generalized foliation**|Zongyuan Wang et.al.|[2301.00103](http://arxiv.org/abs/2301.00103)|null|
