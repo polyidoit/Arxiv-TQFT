@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -15,7 +15,7 @@ layout: default
 |**2023-07-31**|**No Strings Attached: Boundaries and Defects in the Cubic Code**|Cory T. Aitchison et.al.|[2308.00138](http://arxiv.org/abs/2308.00138)|null|
 |**2023-07-29**|**Easing the equilibration of spin systems with quenched disorder in Population Annealing by topological-defect-driven non-local updates**|David Cirauqui et.al.|[2307.16087](http://arxiv.org/abs/2307.16087)|null|
 |**2023-07-25**|**Intrinsic Mixed-state Topological Order Without Quantum Memory**|Zijian Wang et.al.|[2307.13758](http://arxiv.org/abs/2307.13758)|null|
-|**2023-07-25**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
+|**2023-08-12**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
 |**2023-07-24**|**Local topological order and boundary algebras**|Corey Jones et.al.|[2307.12552](http://arxiv.org/abs/2307.12552)|null|
 |**2023-08-01**|**Edge Theories for Anyon Condensation Phase Transitions**|David M. Long et.al.|[2307.12509](http://arxiv.org/abs/2307.12509)|null|
 |**2023-07-23**|**Green's Function Zeros in Fermi Surface Symmetric Mass Generation**|Da-Chuan Lu et.al.|[2307.12223](http://arxiv.org/abs/2307.12223)|null|
