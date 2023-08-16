@@ -131,6 +131,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Topological Phases, Local Magnetic Moments, and Spin Polarization Triggered by C558-Line Defects in Graphene**|Ning-Jing Yang et.al.|[2308.07549](http://arxiv.org/abs/2308.07549)|null|
 |**2023-08-13**|**Active nematics with deformable particles**|Ioannis Hadjifrangiskou et.al.|[2308.06860](http://arxiv.org/abs/2308.06860)|null|
 |**2023-08-13**|**Homological algebra and moduli spaces in topological field theories**|Kenji Fukaya et.al.|[2308.06799](http://arxiv.org/abs/2308.06799)|null|
 |**2023-08-09**|**Lieb-Schultz-Mattis anomalies as obstructions to gauging (non-on-site) symmetries**|Sahand Seifnashri et.al.|[2308.05151](http://arxiv.org/abs/2308.05151)|null|
