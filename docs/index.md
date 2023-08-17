@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-16**|**Hierarchical Topological Ordering with Conditional Independence Test for Limited Time Series**|Anpeng Wu et.al.|[2308.08148](http://arxiv.org/abs/2308.08148)|null|
 |**2023-08-14**|**Superselection sectors in the 3d Toric Code**|Siddharth Vadnerkar et.al.|[2308.06883](http://arxiv.org/abs/2308.06883)|null|
 |**2023-08-13**|**Generalized Kitaev Spin Liquid model and Emergent Twist Defect**|Bowen Yan et.al.|[2308.06835](http://arxiv.org/abs/2308.06835)|null|
 |**2023-08-10**|**Emergent generalized symmetries in ordered phases**|Salvatore D. Pace et.al.|[2308.05730](http://arxiv.org/abs/2308.05730)|null|
@@ -123,6 +124,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-16**|**Vortex detection in atomic Bose-Einstein condensates using neural networks trained on synthetic images**|Myeonghyeon Kim et.al.|[2308.08405](http://arxiv.org/abs/2308.08405)|null|
 |**2023-08-15**|**Topological Phases, Local Magnetic Moments, and Spin Polarization Triggered by C558-Line Defects in Graphene**|Ning-Jing Yang et.al.|[2308.07549](http://arxiv.org/abs/2308.07549)|null|
 |**2023-08-13**|**Active nematics with deformable particles**|Ioannis Hadjifrangiskou et.al.|[2308.06860](http://arxiv.org/abs/2308.06860)|null|
 |**2023-08-13**|**Homological algebra and moduli spaces in topological field theories**|Kenji Fukaya et.al.|[2308.06799](http://arxiv.org/abs/2308.06799)|null|
