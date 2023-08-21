@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Susceptibility indicator for chiral topological orders emergent from correlated fermions**|Rui Wang et.al.|[2308.09241](http://arxiv.org/abs/2308.09241)|null|
+|**2023-08-17**|**Barrier and finite size effects on the extension of topological surface-states into magnetic insulators**|Eirik Holm Fyhn et.al.|[2308.09128](http://arxiv.org/abs/2308.09128)|null|
 |**2023-08-16**|**Hierarchical Topological Ordering with Conditional Independence Test for Limited Time Series**|Anpeng Wu et.al.|[2308.08148](http://arxiv.org/abs/2308.08148)|null|
 |**2023-08-14**|**Superselection sectors in the 3d Toric Code**|Siddharth Vadnerkar et.al.|[2308.06883](http://arxiv.org/abs/2308.06883)|null|
 |**2023-08-13**|**Generalized Kitaev Spin Liquid model and Emergent Twist Defect**|Bowen Yan et.al.|[2308.06835](http://arxiv.org/abs/2308.06835)|null|
