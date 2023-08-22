@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-20**|**Quantum Codes on Graphs**|M. B. Hastings et.al.|[2308.10264](http://arxiv.org/abs/2308.10264)|null|
 |**2023-08-18**|**Susceptibility indicator for chiral topological orders emergent from correlated fermions**|Rui Wang et.al.|[2308.09241](http://arxiv.org/abs/2308.09241)|null|
 |**2023-08-17**|**Barrier and finite size effects on the extension of topological surface-states into magnetic insulators**|Eirik Holm Fyhn et.al.|[2308.09128](http://arxiv.org/abs/2308.09128)|null|
 |**2023-08-16**|**Hierarchical Topological Ordering with Conditional Independence Test for Limited Time Series**|Anpeng Wu et.al.|[2308.08148](http://arxiv.org/abs/2308.08148)|null|
@@ -126,6 +127,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Stability of Non-Minimally Coupled Topological-Defect Boson Stars**|Gray D. Reid et.al.|[2308.09781](http://arxiv.org/abs/2308.09781)|null|
+|**2023-08-18**|**The Action of Geometric Entropy in Topologically Massive Gravity**|Molly Kaplan et.al.|[2308.09763](http://arxiv.org/abs/2308.09763)|null|
 |**2023-08-16**|**Vortex detection in atomic Bose-Einstein condensates using neural networks trained on synthetic images**|Myeonghyeon Kim et.al.|[2308.08405](http://arxiv.org/abs/2308.08405)|null|
 |**2023-08-15**|**Topological Phases, Local Magnetic Moments, and Spin Polarization Triggered by C558-Line Defects in Graphene**|Ning-Jing Yang et.al.|[2308.07549](http://arxiv.org/abs/2308.07549)|null|
 |**2023-08-13**|**Active nematics with deformable particles**|Ioannis Hadjifrangiskou et.al.|[2308.06860](http://arxiv.org/abs/2308.06860)|null|
