@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,7 +12,7 @@ layout: default
 |**2023-08-16**|**Hierarchical Topological Ordering with Conditional Independence Test for Limited Time Series**|Anpeng Wu et.al.|[2308.08148](http://arxiv.org/abs/2308.08148)|null|
 |**2023-08-14**|**Superselection sectors in the 3d Toric Code**|Siddharth Vadnerkar et.al.|[2308.06883](http://arxiv.org/abs/2308.06883)|null|
 |**2023-08-13**|**Generalized Kitaev Spin Liquid model and Emergent Twist Defect**|Bowen Yan et.al.|[2308.06835](http://arxiv.org/abs/2308.06835)|null|
-|**2023-08-10**|**Emergent generalized symmetries in ordered phases**|Salvatore D. Pace et.al.|[2308.05730](http://arxiv.org/abs/2308.05730)|null|
+|**2023-08-18**|**Emergent generalized symmetries in ordered phases**|Salvatore D. Pace et.al.|[2308.05730](http://arxiv.org/abs/2308.05730)|null|
 |**2023-08-08**|**Gapped Interfaces in Fracton Models and Foliated Fields**|Po-Shen Hsin et.al.|[2308.04489](http://arxiv.org/abs/2308.04489)|null|
 |**2023-08-08**|**Detection of nontrivial topology driven by charge density wave in a semi-Dirac metal**|Rafiqul Alam et.al.|[2308.03587](http://arxiv.org/abs/2308.03587)|null|
 |**2023-08-07**|**Abelian and non-Abelian quantum spin liquids in a three-component Bose gas on optical Kagome lattices**|Kaiye Shi et.al.|[2308.03509](http://arxiv.org/abs/2308.03509)|null|
@@ -133,7 +133,7 @@ layout: default
 |**2023-08-09**|**Lieb-Schultz-Mattis anomalies as obstructions to gauging (non-on-site) symmetries**|Sahand Seifnashri et.al.|[2308.05151](http://arxiv.org/abs/2308.05151)|null|
 |**2023-08-07**|**Internal Reshetikhin-Turaev TQFT**|Mickael Lallouche et.al.|[2308.03942](http://arxiv.org/abs/2308.03942)|null|
 |**2023-08-04**|**A state sum for the total face color polynomial**|Scott Baldridge et.al.|[2308.02732](http://arxiv.org/abs/2308.02732)|null|
-|**2023-08-04**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
+|**2023-08-18**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-03**|**Narain CFTs from quantum codes and their $\mathbb{Z}_2$ gauging**|Kohki Kawabata et.al.|[2308.01579](http://arxiv.org/abs/2308.01579)|null|
 |**2023-08-02**|**Signatures of Primordial Energy Injection from Axion Strings**|Joshua N. Benabou et.al.|[2308.01334](http://arxiv.org/abs/2308.01334)|null|
 |**2023-08-01**|**Local polar order controls mechanical stress and triggers layer formation in developing Myxococcus xanthus colonies**|Endao Han et.al.|[2308.00368](http://arxiv.org/abs/2308.00368)|null|
