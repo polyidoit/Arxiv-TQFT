@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Fractional quantum Hall edge polaritons**|Lucas Winter et.al.|[2308.12146](http://arxiv.org/abs/2308.12146)|null|
+|**2023-08-22**|**Anomalies of Non-Invertible Symmetries in (3+1)d**|Clay Cordova et.al.|[2308.11706](http://arxiv.org/abs/2308.11706)|null|
 |**2023-08-20**|**Quantum Codes on Graphs**|M. B. Hastings et.al.|[2308.10264](http://arxiv.org/abs/2308.10264)|null|
 |**2023-08-18**|**Susceptibility indicator for chiral topological orders emergent from correlated fermions**|Rui Wang et.al.|[2308.09241](http://arxiv.org/abs/2308.09241)|null|
 |**2023-08-17**|**Barrier and finite size effects on the extension of topological surface-states into magnetic insulators**|Eirik Holm Fyhn et.al.|[2308.09128](http://arxiv.org/abs/2308.09128)|null|
@@ -135,6 +137,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Anomalies of Non-Invertible Symmetries in (3+1)d**|Clay Cordova et.al.|[2308.11706](http://arxiv.org/abs/2308.11706)|null|
 |**2023-08-18**|**Stability of Non-Minimally Coupled Topological-Defect Boson Stars**|Gray D. Reid et.al.|[2308.09781](http://arxiv.org/abs/2308.09781)|null|
 |**2023-08-18**|**The Action of Geometric Entropy in Topologically Massive Gravity**|Molly Kaplan et.al.|[2308.09763](http://arxiv.org/abs/2308.09763)|null|
 |**2023-08-16**|**Vortex detection in atomic Bose-Einstein condensates using neural networks trained on synthetic images**|Myeonghyeon Kim et.al.|[2308.08405](http://arxiv.org/abs/2308.08405)|null|
@@ -303,6 +306,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-07**|**Abelian and non-Abelian quantum spin liquids in a three-component Bose gas on optical Kagome lattices**|Kaiye Shi et.al.|[2308.03509](http://arxiv.org/abs/2308.03509)|null|
 |**2023-08-02**|**Searching for Majorana quasiparticles at vortex cores in iron-based superconductors**|Tadashi Machida et.al.|[2308.00930](http://arxiv.org/abs/2308.00930)|null|
 |**2023-07-19**|**Vacancy spectroscopy of non-Abelian Kitaev spin liquids**|Wen-Han Kao et.al.|[2307.10376](http://arxiv.org/abs/2307.10376)|null|
