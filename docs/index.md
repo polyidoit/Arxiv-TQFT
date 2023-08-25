@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -137,7 +137,7 @@ layout: default
 |**2023-08-13**|**Active nematics with deformable particles**|Ioannis Hadjifrangiskou et.al.|[2308.06860](http://arxiv.org/abs/2308.06860)|null|
 |**2023-08-13**|**Homological algebra and moduli spaces in topological field theories**|Kenji Fukaya et.al.|[2308.06799](http://arxiv.org/abs/2308.06799)|null|
 |**2023-08-09**|**Lieb-Schultz-Mattis anomalies as obstructions to gauging (non-on-site) symmetries**|Sahand Seifnashri et.al.|[2308.05151](http://arxiv.org/abs/2308.05151)|null|
-|**2023-08-07**|**Internal Reshetikhin-Turaev TQFT**|Mickael Lallouche et.al.|[2308.03942](http://arxiv.org/abs/2308.03942)|null|
+|**2023-08-24**|**Internal Reshetikhin-Turaev TQFT**|Mickael Lallouche et.al.|[2308.03942](http://arxiv.org/abs/2308.03942)|null|
 |**2023-08-04**|**A state sum for the total face color polynomial**|Scott Baldridge et.al.|[2308.02732](http://arxiv.org/abs/2308.02732)|null|
 |**2023-08-18**|**Isolated Majorana mode in a quantum computer from a duality twist**|Sutapa Samanta et.al.|[2308.02387](http://arxiv.org/abs/2308.02387)|null|
 |**2023-08-03**|**Narain CFTs from quantum codes and their $\mathbb{Z}_2$ gauging**|Kohki Kawabata et.al.|[2308.01579](http://arxiv.org/abs/2308.01579)|null|
