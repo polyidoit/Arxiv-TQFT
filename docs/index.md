@@ -129,6 +129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Anomaly Enforced Gaplessness and Symmetry Fractionalization for $Spin_G$ Symmetries**|T. Daniel Brennan et.al.|[2308.12999](http://arxiv.org/abs/2308.12999)|null|
 |**2023-08-22**|**Anomalies of Non-Invertible Symmetries in (3+1)d**|Clay Cordova et.al.|[2308.11706](http://arxiv.org/abs/2308.11706)|null|
 |**2023-08-18**|**Stability of Non-Minimally Coupled Topological-Defect Boson Stars**|Gray D. Reid et.al.|[2308.09781](http://arxiv.org/abs/2308.09781)|null|
 |**2023-08-18**|**The Action of Geometric Entropy in Topologically Massive Gravity**|Molly Kaplan et.al.|[2308.09763](http://arxiv.org/abs/2308.09763)|null|
