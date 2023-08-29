@@ -297,6 +297,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-26**|**Topological superconductivity from first-principles I: Shiba band structure and topological edge states of artificial spin chains**|Bendegúz Nyári et.al.|[2308.13824](http://arxiv.org/abs/2308.13824)|null|
 |**2023-08-22**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-07**|**Abelian and non-Abelian quantum spin liquids in a three-component Bose gas on optical Kagome lattices**|Kaiye Shi et.al.|[2308.03509](http://arxiv.org/abs/2308.03509)|null|
 |**2023-08-02**|**Searching for Majorana quasiparticles at vortex cores in iron-based superconductors**|Tadashi Machida et.al.|[2308.00930](http://arxiv.org/abs/2308.00930)|null|
@@ -341,7 +342,7 @@ layout: default
 |**2023-08-08**|**Gapped Interfaces in Fracton Models and Foliated Fields**|Po-Shen Hsin et.al.|[2308.04489](http://arxiv.org/abs/2308.04489)|null|
 |**2023-08-03**|**Correcting biased noise using Gottesman-Kitaev-Preskill repetition code with noisy ancilla**|Zhifei Li et.al.|[2308.01549](http://arxiv.org/abs/2308.01549)|null|
 |**2023-07-31**|**No Strings Attached: Boundaries and Defects in the Cubic Code**|Cory T. Aitchison et.al.|[2308.00138](http://arxiv.org/abs/2308.00138)|null|
-|**2023-08-12**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
+|**2023-08-28**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
 |**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
 |**2023-02-06**|**High threshold codes for neutral atom qubits with biased erasure errors**|Kaavya Sahay et.al.|[2302.03063](http://arxiv.org/abs/2302.03063)|null|
 |**2023-07-26**|**Renormalization of Ising cage-net model and generalized foliation**|Zongyuan Wang et.al.|[2301.00103](http://arxiv.org/abs/2301.00103)|null|
