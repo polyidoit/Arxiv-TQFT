@@ -137,6 +137,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**United v.s. Divided, Deconfinement of Social Tension as a Topological Phase Transition**|Chen Huang et.al.|[2308.15767](http://arxiv.org/abs/2308.15767)|null|
+|**2023-08-29**|**Quantum black holes as classical space factories**|Alfredo Iorio et.al.|[2308.15519](http://arxiv.org/abs/2308.15519)|null|
 |**2023-08-29**|**ZundEig: The Structure of the Proton in Liquid Water From Unsupervised Learning**|Solana Di Pino et.al.|[2308.15319](http://arxiv.org/abs/2308.15319)|null|
 |**2023-08-28**|**Multiferroicity in plastically deformed SrTiO $_3$**|Xi Wang et.al.|[2308.14801](http://arxiv.org/abs/2308.14801)|null|
 |**2023-08-24**|**Anomaly Enforced Gaplessness and Symmetry Fractionalization for $Spin_G$ Symmetries**|T. Daniel Brennan et.al.|[2308.12999](http://arxiv.org/abs/2308.12999)|null|
@@ -309,6 +311,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Stripe charge order driven manipulation of Majorana bound states in 2M-WS2 topological superconductor**|Xuemin Fan et.al.|[2308.16101](http://arxiv.org/abs/2308.16101)|null|
 |**2023-08-26**|**Topological superconductivity from first-principles I: Shiba band structure and topological edge states of artificial spin chains**|Bendegúz Nyári et.al.|[2308.13824](http://arxiv.org/abs/2308.13824)|null|
 |**2023-08-22**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
 |**2023-08-07**|**Abelian and non-Abelian quantum spin liquids in a three-component Bose gas on optical Kagome lattices**|Kaiye Shi et.al.|[2308.03509](http://arxiv.org/abs/2308.03509)|null|
