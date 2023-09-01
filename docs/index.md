@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.31
+## Updated on 2023.09.01
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -131,7 +131,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-30**|**United v.s. Divided, Deconfinement of Social Tension as a Topological Phase Transition**|Chen Huang et.al.|[2308.15767](http://arxiv.org/abs/2308.15767)|null|
 |**2023-08-29**|**Quantum black holes as classical space factories**|Alfredo Iorio et.al.|[2308.15519](http://arxiv.org/abs/2308.15519)|null|
-|**2023-08-29**|**ZundEig: The Structure of the Proton in Liquid Water From Unsupervised Learning**|Solana Di Pino et.al.|[2308.15319](http://arxiv.org/abs/2308.15319)|null|
+|**2023-08-31**|**ZundEig: The Structure of the Proton in Liquid Water From Unsupervised Learning**|Solana Di Pino et.al.|[2308.15319](http://arxiv.org/abs/2308.15319)|null|
 |**2023-08-28**|**Multiferroicity in plastically deformed SrTiO $_3$**|Xi Wang et.al.|[2308.14801](http://arxiv.org/abs/2308.14801)|null|
 |**2023-08-24**|**Anomaly Enforced Gaplessness and Symmetry Fractionalization for $Spin_G$ Symmetries**|T. Daniel Brennan et.al.|[2308.12999](http://arxiv.org/abs/2308.12999)|null|
 |**2023-08-22**|**Anomalies of Non-Invertible Symmetries in (3+1)d**|Clay Cordova et.al.|[2308.11706](http://arxiv.org/abs/2308.11706)|null|
