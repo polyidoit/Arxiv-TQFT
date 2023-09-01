@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**Thermodynamics and fractal dynamics of nematic spin ice, a doubly frustrated pyrochlore Ising magnet**|Jonathan N. Hallén et.al.|[2308.16234](http://arxiv.org/abs/2308.16234)|null|
+|**2023-08-30**|**Bounds on Autonomous Quantum Error Correction**|Oles Shtanko et.al.|[2308.16233](http://arxiv.org/abs/2308.16233)|null|
 |**2023-08-23**|**Fractional quantum Hall edge polaritons**|Lucas Winter et.al.|[2308.12146](http://arxiv.org/abs/2308.12146)|null|
 |**2023-08-22**|**Anomalies of Non-Invertible Symmetries in (3+1)d**|Clay Cordova et.al.|[2308.11706](http://arxiv.org/abs/2308.11706)|null|
 |**2023-08-20**|**Quantum Codes on Graphs**|M. B. Hastings et.al.|[2308.10264](http://arxiv.org/abs/2308.10264)|null|
@@ -129,6 +131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Gravitational anomaly detection using a satellite constellation: Analysis and simulation**|Viktor T. Toth et.al.|[2308.16459](http://arxiv.org/abs/2308.16459)|null|
 |**2023-08-30**|**United v.s. Divided, Deconfinement of Social Tension as a Topological Phase Transition**|Chen Huang et.al.|[2308.15767](http://arxiv.org/abs/2308.15767)|null|
 |**2023-08-29**|**Quantum black holes as classical space factories**|Alfredo Iorio et.al.|[2308.15519](http://arxiv.org/abs/2308.15519)|null|
 |**2023-08-31**|**ZundEig: The Structure of the Proton in Liquid Water From Unsupervised Learning**|Solana Di Pino et.al.|[2308.15319](http://arxiv.org/abs/2308.15319)|null|
