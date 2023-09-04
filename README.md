@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Signatures of Majorana Zero-Modes in an isolated one-dimensional superconductor**|Rohith Sajith et.al.|[2309.00118](http://arxiv.org/abs/2309.00118)|null|
 |**2023-08-30**|**Thermodynamics and fractal dynamics of nematic spin ice, a doubly frustrated pyrochlore Ising magnet**|Jonathan N. Hallén et.al.|[2308.16234](http://arxiv.org/abs/2308.16234)|null|
 |**2023-08-30**|**Bounds on Autonomous Quantum Error Correction**|Oles Shtanko et.al.|[2308.16233](http://arxiv.org/abs/2308.16233)|null|
 |**2023-08-23**|**Fractional quantum Hall edge polaritons**|Lucas Winter et.al.|[2308.12146](http://arxiv.org/abs/2308.12146)|null|
