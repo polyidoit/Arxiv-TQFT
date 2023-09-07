@@ -320,6 +320,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Topological Quantum Computation on a Chiral Kondo Chain**|Tianhao Ren et.al.|[2309.03010](http://arxiv.org/abs/2309.03010)|null|
 |**2023-08-30**|**Stripe charge order driven manipulation of Majorana bound states in 2M-WS2 topological superconductor**|Xuemin Fan et.al.|[2308.16101](http://arxiv.org/abs/2308.16101)|null|
 |**2023-08-26**|**Topological superconductivity from first-principles I: Shiba band structure and topological edge states of artificial spin chains**|Bendegúz Nyári et.al.|[2308.13824](http://arxiv.org/abs/2308.13824)|null|
 |**2023-08-22**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
