@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-05**|**Hidden subsystem symmetry protected states in competing topological orders**|Shi Feng et.al.|[2309.02307](http://arxiv.org/abs/2309.02307)|null|
 |**2023-09-05**|**Para-fusion Category and Topological Defect Lines in $\mathbb Z_N$ -parafermionic CFTs**|Jin Chen et.al.|[2309.01914](http://arxiv.org/abs/2309.01914)|null|
-|**2023-09-04**|**Topological Ordering in Differentiable Bayesian Structure Learning with Guaranteed Acyclicity Constraint**|Quang-Duy Tran et.al.|[2309.01392](http://arxiv.org/abs/2309.01392)|null|
+|**2023-09-06**|**Differentiable Bayesian Structure Learning with Acyclicity Assurance**|Quang-Duy Tran et.al.|[2309.01392](http://arxiv.org/abs/2309.01392)|null|
 |**2023-09-01**|**Quantum phase transitions in quantum Hall and other topological systems: role of the Planckian time**|Andrey Rogachev et.al.|[2309.00750](http://arxiv.org/abs/2309.00750)|null|
 |**2023-08-31**|**Signatures of Majorana Zero-Modes in an isolated one-dimensional superconductor**|Rohith Sajith et.al.|[2309.00118](http://arxiv.org/abs/2309.00118)|null|
 |**2023-08-30**|**Thermodynamics and fractal dynamics of nematic spin ice, a doubly frustrated pyrochlore Ising magnet**|Jonathan N. Hallén et.al.|[2308.16234](http://arxiv.org/abs/2308.16234)|null|
