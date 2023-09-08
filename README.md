@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Detecting Hidden Order in Fractional Chern Insulators**|Fabian J. Pauw et.al.|[2309.03666](http://arxiv.org/abs/2309.03666)|null|
 |**2023-09-05**|**Hidden subsystem symmetry protected states in competing topological orders**|Shi Feng et.al.|[2309.02307](http://arxiv.org/abs/2309.02307)|null|
 |**2023-09-05**|**Para-fusion Category and Topological Defect Lines in $\mathbb Z_N$ -parafermionic CFTs**|Jin Chen et.al.|[2309.01914](http://arxiv.org/abs/2309.01914)|null|
 |**2023-09-06**|**Differentiable Bayesian Structure Learning with Acyclicity Assurance**|Quang-Duy Tran et.al.|[2309.01392](http://arxiv.org/abs/2309.01392)|null|
