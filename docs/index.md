@@ -137,6 +137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Sequences of dislocation reactions and helicity transformations in tubular crystals**|Andrei Zakharov et.al.|[2309.04417](http://arxiv.org/abs/2309.04417)|null|
 |**2023-09-05**|**Para-fusion Category and Topological Defect Lines in $\mathbb Z_N$ -parafermionic CFTs**|Jin Chen et.al.|[2309.01914](http://arxiv.org/abs/2309.01914)|null|
 |**2023-08-31**|**Gravitational anomaly detection using a satellite constellation: Analysis and simulation**|Viktor T. Toth et.al.|[2308.16459](http://arxiv.org/abs/2308.16459)|**[link](https://github.com/vttoth/tetra)**|
 |**2023-08-30**|**United v.s. Divided, Deconfinement of Social Tension as a Topological Phase Transition**|Chen Huang et.al.|[2308.15767](http://arxiv.org/abs/2308.15767)|null|
