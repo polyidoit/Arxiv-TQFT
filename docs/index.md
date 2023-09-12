@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-10**|**Commuting Local Hamiltonian Problem on 2D beyond qubits**|Sandy Irani et.al.|[2309.04910](http://arxiv.org/abs/2309.04910)|null|
 |**2023-09-07**|**Detecting Hidden Order in Fractional Chern Insulators**|Fabian J. Pauw et.al.|[2309.03666](http://arxiv.org/abs/2309.03666)|null|
 |**2023-09-05**|**Hidden subsystem symmetry protected states in competing topological orders**|Shi Feng et.al.|[2309.02307](http://arxiv.org/abs/2309.02307)|null|
 |**2023-09-05**|**Para-fusion Category and Topological Defect Lines in $\mathbb Z_N$ -parafermionic CFTs**|Jin Chen et.al.|[2309.01914](http://arxiv.org/abs/2309.01914)|null|
@@ -137,6 +138,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Exploring Accelerating Hairy Black Holes in $2+1$ Dimensions: The Asymptotically Locally Anti-de Sitter Class and its Holography**|Adolfo Cisterna et.al.|[2309.05559](http://arxiv.org/abs/2309.05559)|null|
+|**2023-09-08**|**Limits of economy and fidelity for programmable assembly of size-controlled triply-periodic polyhedra**|Carlos M. Duque et.al.|[2309.04632](http://arxiv.org/abs/2309.04632)|null|
+|**2023-09-06**|**Effective action approach to the dynamical map**|Marek Lewicki et.al.|[2309.04493](http://arxiv.org/abs/2309.04493)|null|
 |**2023-09-08**|**Sequences of dislocation reactions and helicity transformations in tubular crystals**|Andrei Zakharov et.al.|[2309.04417](http://arxiv.org/abs/2309.04417)|null|
 |**2023-09-05**|**Para-fusion Category and Topological Defect Lines in $\mathbb Z_N$ -parafermionic CFTs**|Jin Chen et.al.|[2309.01914](http://arxiv.org/abs/2309.01914)|null|
 |**2023-08-31**|**Gravitational anomaly detection using a satellite constellation: Analysis and simulation**|Viktor T. Toth et.al.|[2308.16459](http://arxiv.org/abs/2308.16459)|**[link](https://github.com/vttoth/tetra)**|
@@ -312,6 +316,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Generation of three-dimensional cluster entangled state**|Chan Roh et.al.|[2309.05437](http://arxiv.org/abs/2309.05437)|null|
+|**2023-09-11**|**Facilitating Practical Fault-tolerant Quantum Computing Based on Color Codes**|Jiaxuan Zhang et.al.|[2309.05222](http://arxiv.org/abs/2309.05222)|null|
+|**2023-09-09**|**Experimental topological quantum computing with electric circuits**|Deyuan Zou et.al.|[2309.04896](http://arxiv.org/abs/2309.04896)|null|
 |**2023-09-06**|**Topological Quantum Computation on a Chiral Kondo Chain**|Tianhao Ren et.al.|[2309.03010](http://arxiv.org/abs/2309.03010)|null|
 |**2023-08-30**|**Stripe charge order driven manipulation of Majorana bound states in 2M-WS2 topological superconductor**|Xuemin Fan et.al.|[2308.16101](http://arxiv.org/abs/2308.16101)|null|
 |**2023-08-26**|**Topological superconductivity from first-principles I: Shiba band structure and topological edge states of artificial spin chains**|Bendegúz Nyári et.al.|[2308.13824](http://arxiv.org/abs/2308.13824)|null|
