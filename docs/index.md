@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Topological protection of Majorana polaritons in a cavity**|Zeno Bacciconi et.al.|[2309.07278](http://arxiv.org/abs/2309.07278)|null|
 |**2023-09-10**|**Commuting Local Hamiltonian Problem on 2D beyond qubits**|Sandy Irani et.al.|[2309.04910](http://arxiv.org/abs/2309.04910)|null|
 |**2023-09-07**|**Detecting Hidden Order in Fractional Chern Insulators**|Fabian J. Pauw et.al.|[2309.03666](http://arxiv.org/abs/2309.03666)|null|
 |**2023-09-05**|**Hidden subsystem symmetry protected states in competing topological orders**|Shi Feng et.al.|[2309.02307](http://arxiv.org/abs/2309.02307)|null|
@@ -138,6 +139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Vortex Lattices in Active Nematics with Periodic Obstacle Arrays**|Cody D. Schimming et.al.|[2309.07886](http://arxiv.org/abs/2309.07886)|null|
 |**2023-09-12**|**Mass of quantum topological excitations and order parameter finite size dependence**|Gesualdo Delfino et.al.|[2309.06206](http://arxiv.org/abs/2309.06206)|null|
 |**2023-09-11**|**Exploring Accelerating Hairy Black Holes in $2+1$ Dimensions: The Asymptotically Locally Anti-de Sitter Class and its Holography**|Adolfo Cisterna et.al.|[2309.05559](http://arxiv.org/abs/2309.05559)|null|
 |**2023-09-08**|**Limits of economy and fidelity for programmable assembly of size-controlled triply-periodic polyhedra**|Carlos M. Duque et.al.|[2309.04632](http://arxiv.org/abs/2309.04632)|null|
