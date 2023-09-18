@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.17
+## Updated on 2023.09.18
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -322,7 +322,7 @@ layout: default
 |**2023-09-11**|**Generation of three-dimensional cluster entangled state**|Chan Roh et.al.|[2309.05437](http://arxiv.org/abs/2309.05437)|null|
 |**2023-09-11**|**Facilitating Practical Fault-tolerant Quantum Computing Based on Color Codes**|Jiaxuan Zhang et.al.|[2309.05222](http://arxiv.org/abs/2309.05222)|null|
 |**2023-09-09**|**Experimental topological quantum computing with electric circuits**|Deyuan Zou et.al.|[2309.04896](http://arxiv.org/abs/2309.04896)|null|
-|**2023-09-06**|**Topological Quantum Computation on a Chiral Kondo Chain**|Tianhao Ren et.al.|[2309.03010](http://arxiv.org/abs/2309.03010)|null|
+|**2023-09-14**|**Topological Quantum Computation on a Chiral Kondo Chain**|Tianhao Ren et.al.|[2309.03010](http://arxiv.org/abs/2309.03010)|null|
 |**2023-08-30**|**Stripe charge order driven manipulation of Majorana bound states in 2M-WS2 topological superconductor**|Xuemin Fan et.al.|[2308.16101](http://arxiv.org/abs/2308.16101)|null|
 |**2023-08-26**|**Topological superconductivity from first-principles I: Shiba band structure and topological edge states of artificial spin chains**|Bendegúz Nyári et.al.|[2308.13824](http://arxiv.org/abs/2308.13824)|null|
 |**2023-09-07**|**Magnetic Skyrmion: From Fundamental Physics to Pioneering Applications**|Kishan K. Mishra et.al.|[2308.11811](http://arxiv.org/abs/2308.11811)|null|
