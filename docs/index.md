@@ -320,6 +320,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-17**|**"Smoking gun" signatures of topological milestones in trivial materials by measurement fine-tuning and data postselection**|S. M. Frolov et.al.|[2309.09368](http://arxiv.org/abs/2309.09368)|null|
 |**2023-09-15**|**Differences between quantum and classical adiabatic evolution**|Cyrill Bösch et.al.|[2309.08510](http://arxiv.org/abs/2309.08510)|null|
 |**2023-09-11**|**Generation of three-dimensional cluster entangled state**|Chan Roh et.al.|[2309.05437](http://arxiv.org/abs/2309.05437)|null|
 |**2023-09-11**|**Facilitating Practical Fault-tolerant Quantum Computing Based on Color Codes**|Jiaxuan Zhang et.al.|[2309.05222](http://arxiv.org/abs/2309.05222)|null|
