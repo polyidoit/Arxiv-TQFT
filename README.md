@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**An index for quantum cellular automata on fusion spin chains**|Corey Jones et.al.|[2309.10961](http://arxiv.org/abs/2309.10961)|null|
 |**2023-09-18**|**A stabilizer code model with non-invertible symmetries: Strange fractons, confinement, and non-commutative and non-Abelian fusion rules**|Tanay Kibe et.al.|[2309.10037](http://arxiv.org/abs/2309.10037)|null|
 |**2023-09-13**|**Topological protection of Majorana polaritons in a cavity**|Zeno Bacciconi et.al.|[2309.07278](http://arxiv.org/abs/2309.07278)|null|
 |**2023-09-10**|**Commuting Local Hamiltonian Problem on 2D beyond qubits**|Sandy Irani et.al.|[2309.04910](http://arxiv.org/abs/2309.04910)|null|
@@ -148,6 +149,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Statistical analysis of the gravitational anomaly in {\it Gaia} wide binaries**|X. Hernandez et.al.|[2309.10995](http://arxiv.org/abs/2309.10995)|null|
 |**2023-09-20**|**Robust Evidence for the Breakdown of Standard Gravity at Low Acceleration from Statistically Pure Binaries Free of Hidden Companions**|Kyu-Hyun Chae et.al.|[2309.10404](http://arxiv.org/abs/2309.10404)|null|
 |**2023-09-15**|**Ensuring Toplogical Data-Structure Preservation under Autoencoder Compression due to Latent Space Regularization in Gauss--Legendre nodes**|Chethan Krishnamurthy Ramanaik et.al.|[2309.08228](http://arxiv.org/abs/2309.08228)|**[link](https://github.com/casus/autoencoder-regularisation)**|
 |**2023-09-14**|**Vortex Lattices in Active Nematics with Periodic Obstacle Arrays**|Cody D. Schimming et.al.|[2309.07886](http://arxiv.org/abs/2309.07886)|null|
@@ -332,6 +334,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Anomalous microwave response in the dissipative regime of topological superconducting devices based on Bi2Te2.3Se0.7**|Vasily Stolyarov et.al.|[2309.10897](http://arxiv.org/abs/2309.10897)|null|
 |**2023-09-18**|**Fault-tolerant hyperbolic Floquet quantum error correcting codes**|Ali Fahimniya et.al.|[2309.10033](http://arxiv.org/abs/2309.10033)|null|
 |**2023-09-17**|**"Smoking gun" signatures of topological milestones in trivial materials by measurement fine-tuning and data postselection**|S. M. Frolov et.al.|[2309.09368](http://arxiv.org/abs/2309.09368)|null|
 |**2023-09-15**|**Differences between quantum and classical adiabatic evolution**|Cyrill Bösch et.al.|[2309.08510](http://arxiv.org/abs/2309.08510)|null|
