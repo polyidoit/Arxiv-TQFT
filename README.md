@@ -1,4 +1,4 @@
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -143,7 +143,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## TQFT
 
@@ -151,7 +151,7 @@
 |---|---|---|---|---|
 |**2023-09-20**|**Statistical analysis of the gravitational anomaly in {\it Gaia} wide binaries**|X. Hernandez et.al.|[2309.10995](http://arxiv.org/abs/2309.10995)|null|
 |**2023-09-20**|**Robust Evidence for the Breakdown of Standard Gravity at Low Acceleration from Statistically Pure Binaries Free of Hidden Companions**|Kyu-Hyun Chae et.al.|[2309.10404](http://arxiv.org/abs/2309.10404)|null|
-|**2023-09-15**|**Ensuring Toplogical Data-Structure Preservation under Autoencoder Compression due to Latent Space Regularization in Gauss--Legendre nodes**|Chethan Krishnamurthy Ramanaik et.al.|[2309.08228](http://arxiv.org/abs/2309.08228)|**[link](https://github.com/casus/autoencoder-regularisation)**|
+|**2023-09-21**|**Ensuring Topological Data-Structure Preservation under Autoencoder Compression due to Latent Space Regularization in Gauss--Legendre nodes**|Chethan Krishnamurthy Ramanaik et.al.|[2309.08228](http://arxiv.org/abs/2309.08228)|**[link](https://github.com/casus/autoencoder-regularisation)**|
 |**2023-09-14**|**Vortex Lattices in Active Nematics with Periodic Obstacle Arrays**|Cody D. Schimming et.al.|[2309.07886](http://arxiv.org/abs/2309.07886)|null|
 |**2023-09-12**|**Mass of quantum topological excitations and order parameter finite size dependence**|Gesualdo Delfino et.al.|[2309.06206](http://arxiv.org/abs/2309.06206)|null|
 |**2023-09-11**|**Exploring Accelerating Hairy Black Holes in $2+1$ Dimensions: The Asymptotically Locally Anti-de Sitter Class and its Holography**|Adolfo Cisterna et.al.|[2309.05559](http://arxiv.org/abs/2309.05559)|null|
@@ -328,7 +328,7 @@
 |**2022-10-03**|**Parity and Spin CFT with boundaries and defects**|Ingo Runkel et.al.|[2210.01057](http://arxiv.org/abs/2210.01057)|null|
 |**2022-09-27**|**Generalized symmetries of topological field theories**|Ben Gripaios et.al.|[2209.13524](http://arxiv.org/abs/2209.13524)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## Topological Quantum Computation
 
@@ -381,7 +381,7 @@
 |**2023-02-10**|**Signatures of Chiral Superconductivity in Chiral Molecule Intercalated Tantalum Disulfide**|Zhong Wan et.al.|[2302.05078](http://arxiv.org/abs/2302.05078)|null|
 |**2023-02-09**|**Implementation of Topological Quantum Gates in Magnet-Superconductor Hybrid Structures**|Jasmin Bedow et.al.|[2302.04889](http://arxiv.org/abs/2302.04889)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## Fracton
 
@@ -403,5 +403,5 @@
 |**2022-12-31**|**Floquet codes without parent subsystem codes**|Margarita Davydova et.al.|[2210.02468](http://arxiv.org/abs/2210.02468)|null|
 |**2023-04-10**|**Concatenation of the Gottesman-Kitaev-Preskill code with the XZZX surface code**|Jiaxuan Zhang et.al.|[2207.04383](http://arxiv.org/abs/2207.04383)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
