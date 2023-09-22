@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**Analysis of the Error-Correcting Radius of a Renormalisation Decoder for Kitaev's Toric Code**|Wouter Rozendaal et.al.|[2309.12165](http://arxiv.org/abs/2309.12165)|null|
+|**2023-09-21**|**Separability transitions in topological states induced by local decoherence**|Yu-Hsueh Chen et.al.|[2309.11879](http://arxiv.org/abs/2309.11879)|null|
 |**2023-09-19**|**An index for quantum cellular automata on fusion spin chains**|Corey Jones et.al.|[2309.10961](http://arxiv.org/abs/2309.10961)|null|
 |**2023-09-18**|**A stabilizer code model with non-invertible symmetries: Strange fractons, confinement, and non-commutative and non-Abelian fusion rules**|Tanay Kibe et.al.|[2309.10037](http://arxiv.org/abs/2309.10037)|null|
 |**2023-09-13**|**Topological protection of Majorana polaritons in a cavity**|Zeno Bacciconi et.al.|[2309.07278](http://arxiv.org/abs/2309.07278)|null|
@@ -324,6 +326,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Superconducting triangular islands as a platform for manipulating Majorana zero modes**|Aidan Winblad et.al.|[2309.11607](http://arxiv.org/abs/2309.11607)|null|
 |**2023-09-19**|**Anomalous microwave response in the dissipative regime of topological superconducting devices based on Bi2Te2.3Se0.7**|Vasily Stolyarov et.al.|[2309.10897](http://arxiv.org/abs/2309.10897)|null|
 |**2023-09-18**|**Fault-tolerant hyperbolic Floquet quantum error correcting codes**|Ali Fahimniya et.al.|[2309.10033](http://arxiv.org/abs/2309.10033)|null|
 |**2023-09-17**|**"Smoking gun" signatures of topological milestones in trivial materials by measurement fine-tuning and data postselection**|S. M. Frolov et.al.|[2309.09368](http://arxiv.org/abs/2309.09368)|null|
