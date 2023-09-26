@@ -13,10 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-23**|**Boundary algebras of the Kitaev Quantum Double model**|Mario Tomba et.al.|[2309.13440](http://arxiv.org/abs/2309.13440)|null|
+|**2023-09-22**|**Topological dualities via tensor networks**|C. Wille et.al.|[2309.13118](http://arxiv.org/abs/2309.13118)|null|
 |**2023-09-21**|**Analysis of the Error-Correcting Radius of a Renormalisation Decoder for Kitaev's Toric Code**|Wouter Rozendaal et.al.|[2309.12165](http://arxiv.org/abs/2309.12165)|null|
 |**2023-09-21**|**Separability transitions in topological states induced by local decoherence**|Yu-Hsueh Chen et.al.|[2309.11879](http://arxiv.org/abs/2309.11879)|null|
 |**2023-09-19**|**An index for quantum cellular automata on fusion spin chains**|Corey Jones et.al.|[2309.10961](http://arxiv.org/abs/2309.10961)|null|
-|**2023-09-18**|**A stabilizer code model with non-invertible symmetries: Strange fractons, confinement, and non-commutative and non-Abelian fusion rules**|Tanay Kibe et.al.|[2309.10037](http://arxiv.org/abs/2309.10037)|null|
+|**2023-09-25**|**A stabilizer code model with non-invertible symmetries: Strange fractons, confinement, and non-commutative and non-Abelian fusion rules**|Tanay Kibe et.al.|[2309.10037](http://arxiv.org/abs/2309.10037)|null|
 |**2023-09-13**|**Topological protection of Majorana polaritons in a cavity**|Zeno Bacciconi et.al.|[2309.07278](http://arxiv.org/abs/2309.07278)|null|
 |**2023-09-10**|**Commuting Local Hamiltonian Problem on 2D beyond qubits**|Sandy Irani et.al.|[2309.04910](http://arxiv.org/abs/2309.04910)|null|
 |**2023-09-07**|**Detecting Hidden Order in Fractional Chern Insulators**|Fabian J. Pauw et.al.|[2309.03666](http://arxiv.org/abs/2309.03666)|null|
@@ -151,6 +153,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**A geometric formulation of Schaefer's theory of Cosserat solids**|Balázs Németh et.al.|[2309.14268](http://arxiv.org/abs/2309.14268)|null|
+|**2023-09-25**|**Confinement twists achiral liquid crystals and causes chiral liquid crystals to twist in the opposite direction**|Jungmyung Kim et.al.|[2309.14242](http://arxiv.org/abs/2309.14242)|null|
+|**2023-09-25**|**Lie Groupoids**|Henrique Bursztyn et.al.|[2309.14105](http://arxiv.org/abs/2309.14105)|null|
+|**2023-09-25**|**CFT correlators and mapping class group averages**|Iordanis Romaidis et.al.|[2309.14000](http://arxiv.org/abs/2309.14000)|null|
+|**2023-09-25**|**The hidden spin-momentum locking and topological defects in unpolarized light fields**|Peng Shi et.al.|[2309.13997](http://arxiv.org/abs/2309.13997)|null|
+|**2023-09-25**|**Fractional cosmic strings**|Sebastien Fumeron et.al.|[2309.13934](http://arxiv.org/abs/2309.13934)|null|
+|**2023-09-24**|**Predicting failure locations in model end-linked polymer networks**|Han Zhang et.al.|[2309.13723](http://arxiv.org/abs/2309.13723)|null|
 |**2023-09-21**|**Domain walls in the Two-Higgs-Doublet Model and their charge and CP-violating interactions with Standard Model fermions**|Mohamed Younes Sassi et.al.|[2309.12398](http://arxiv.org/abs/2309.12398)|null|
 |**2023-09-20**|**Statistical analysis of the gravitational anomaly in {\it Gaia} wide binaries**|X. Hernandez et.al.|[2309.10995](http://arxiv.org/abs/2309.10995)|null|
 |**2023-09-20**|**Robust Evidence for the Breakdown of Standard Gravity at Low Acceleration from Statistically Pure Binaries Free of Hidden Companions**|Kyu-Hyun Chae et.al.|[2309.10404](http://arxiv.org/abs/2309.10404)|null|
