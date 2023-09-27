@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Classification of symmetry-enriched topological quantum spin liquids**|Weicheng Ye et.al.|[2309.15118](http://arxiv.org/abs/2309.15118)|null|
+|**2023-09-25**|**Instanton confinement-deconfinement transitions: The stability of pseudogap phases and topological order**|Predrag Nikolić et.al.|[2309.14424](http://arxiv.org/abs/2309.14424)|null|
 |**2023-09-23**|**Boundary algebras of the Kitaev Quantum Double model**|Mario Tomba et.al.|[2309.13440](http://arxiv.org/abs/2309.13440)|null|
 |**2023-09-22**|**Topological dualities via tensor networks**|C. Wille et.al.|[2309.13118](http://arxiv.org/abs/2309.13118)|null|
 |**2023-09-21**|**Analysis of the Error-Correcting Radius of a Renormalisation Decoder for Kitaev's Toric Code**|Wouter Rozendaal et.al.|[2309.12165](http://arxiv.org/abs/2309.12165)|null|
@@ -145,6 +147,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Induced gravitational waves and baryon asymmetry fluctuations from primordial black hole formation**|Chiara Altavista et.al.|[2309.14993](http://arxiv.org/abs/2309.14993)|null|
+|**2023-09-25**|**Instanton confinement-deconfinement transitions: The stability of pseudogap phases and topological order**|Predrag Nikolić et.al.|[2309.14424](http://arxiv.org/abs/2309.14424)|null|
 |**2023-09-25**|**A geometric formulation of Schaefer's theory of Cosserat solids**|Balázs Németh et.al.|[2309.14268](http://arxiv.org/abs/2309.14268)|null|
 |**2023-09-25**|**Confinement twists achiral liquid crystals and causes chiral liquid crystals to twist in the opposite direction**|Jungmyung Kim et.al.|[2309.14242](http://arxiv.org/abs/2309.14242)|null|
 |**2023-09-25**|**Lie Groupoids**|Henrique Bursztyn et.al.|[2309.14105](http://arxiv.org/abs/2309.14105)|null|
