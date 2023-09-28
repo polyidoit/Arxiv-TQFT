@@ -155,6 +155,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Arithmetic-Geometric Correspondence of Character Stacks via Topological Quantum Field Theory**|Ángel González-Prieto et.al.|[2309.15331](http://arxiv.org/abs/2309.15331)|null|
+|**2023-09-26**|**Invertibility of Condensation Defects and Symmetries of 2 + 1d QFTs**|Matthew Buican et.al.|[2309.15181](http://arxiv.org/abs/2309.15181)|null|
 |**2023-09-26**|**Induced gravitational waves and baryon asymmetry fluctuations from primordial black hole formation**|Chiara Altavista et.al.|[2309.14993](http://arxiv.org/abs/2309.14993)|null|
 |**2023-09-25**|**Instanton confinement-deconfinement transitions: The stability of pseudogap phases and topological order**|Predrag Nikolić et.al.|[2309.14424](http://arxiv.org/abs/2309.14424)|null|
 |**2023-09-25**|**A geometric formulation of Schaefer's theory of Cosserat solids**|Balázs Németh et.al.|[2309.14268](http://arxiv.org/abs/2309.14268)|null|
