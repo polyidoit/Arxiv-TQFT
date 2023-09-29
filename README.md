@@ -155,6 +155,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
+|**2023-09-27**|**Symmetry-specific characterization of bond orientation order in DNA-assembled nanoparticle lattices**|Jack A. Logan et.al.|[2309.15939](http://arxiv.org/abs/2309.15939)|null|
+|**2023-09-27**|**$p$ -form electrodynamics as edge modes of a topological field theory**|Oscar Fuentealba et.al.|[2309.15923](http://arxiv.org/abs/2309.15923)|null|
 |**2023-09-27**|**Arithmetic-Geometric Correspondence of Character Stacks via Topological Quantum Field Theory**|Ángel González-Prieto et.al.|[2309.15331](http://arxiv.org/abs/2309.15331)|null|
 |**2023-09-26**|**Invertibility of Condensation Defects and Symmetries of 2 + 1d QFTs**|Matthew Buican et.al.|[2309.15181](http://arxiv.org/abs/2309.15181)|null|
 |**2023-09-26**|**Induced gravitational waves and baryon asymmetry fluctuations from primordial black hole formation**|Chiara Altavista et.al.|[2309.14993](http://arxiv.org/abs/2309.14993)|null|
@@ -352,6 +355,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
 |**2023-09-20**|**Superconducting triangular islands as a platform for manipulating Majorana zero modes**|Aidan Winblad et.al.|[2309.11607](http://arxiv.org/abs/2309.11607)|null|
 |**2023-09-19**|**Anomalous microwave response in the dissipative regime of topological superconducting devices based on Bi2Te2.3Se0.7**|Vasily Stolyarov et.al.|[2309.10897](http://arxiv.org/abs/2309.10897)|null|
 |**2023-09-22**|**Fault-tolerant hyperbolic Floquet quantum error correcting codes**|Ali Fahimniya et.al.|[2309.10033](http://arxiv.org/abs/2309.10033)|**[link](https://github.com/fahimniya/hyperbolicfloquetqecc)**|
