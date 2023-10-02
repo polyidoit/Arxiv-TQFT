@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Growing Extended Laughlin States in a Quantum Gas Microscope: A Patchwork Construction**|Felix A. Palm et.al.|[2309.17402](http://arxiv.org/abs/2309.17402)|null|
+|**2023-09-29**|**Immersed figure-8 annuli and a strong isomorphism conjecture**|Bowen Shi et.al.|[2309.17155](http://arxiv.org/abs/2309.17155)|null|
 |**2023-09-26**|**Classification of symmetry-enriched topological quantum spin liquids**|Weicheng Ye et.al.|[2309.15118](http://arxiv.org/abs/2309.15118)|null|
 |**2023-09-25**|**Instanton confinement-deconfinement transitions: The stability of pseudogap phases and topological order**|Predrag Nikolić et.al.|[2309.14424](http://arxiv.org/abs/2309.14424)|null|
 |**2023-09-23**|**Boundary algebras of the Kitaev Quantum Double model**|Mario Tomba et.al.|[2309.13440](http://arxiv.org/abs/2309.13440)|null|
@@ -155,6 +157,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Immersed figure-8 annuli and a strong isomorphism conjecture**|Bowen Shi et.al.|[2309.17155](http://arxiv.org/abs/2309.17155)|null|
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
 |**2023-09-27**|**Symmetry-specific characterization of bond orientation order in DNA-assembled nanoparticle lattices**|Jack A. Logan et.al.|[2309.15939](http://arxiv.org/abs/2309.15939)|**[link](https://github.com/jalogan/symbops_for_isotropic_particles)**|
 |**2023-09-27**|**$p$ -form electrodynamics as edge modes of a topological field theory**|Oscar Fuentealba et.al.|[2309.15923](http://arxiv.org/abs/2309.15923)|null|
@@ -355,6 +358,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-29**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436](http://arxiv.org/abs/2309.17436)|null|
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
 |**2023-09-20**|**Superconducting triangular islands as a platform for manipulating Majorana zero modes**|Aidan Winblad et.al.|[2309.11607](http://arxiv.org/abs/2309.11607)|null|
 |**2023-09-19**|**Anomalous microwave response in the dissipative regime of topological superconducting devices based on Bi2Te2.3Se0.7**|Vasily Stolyarov et.al.|[2309.10897](http://arxiv.org/abs/2309.10897)|null|
