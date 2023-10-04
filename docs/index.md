@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-02**|**Pseudogap phases, chiral anomaly and topological order with quantum loop entanglement**|Predrag Nikolić et.al.|[2310.01493](http://arxiv.org/abs/2310.01493)|null|
 |**2023-09-29**|**Growing Extended Laughlin States in a Quantum Gas Microscope: A Patchwork Construction**|Felix A. Palm et.al.|[2309.17402](http://arxiv.org/abs/2309.17402)|null|
 |**2023-09-29**|**Immersed figure-8 annuli and a strong isomorphism conjecture**|Bowen Shi et.al.|[2309.17155](http://arxiv.org/abs/2309.17155)|null|
 |**2023-09-26**|**Classification of symmetry-enriched topological quantum spin liquids**|Weicheng Ye et.al.|[2309.15118](http://arxiv.org/abs/2309.15118)|null|
@@ -149,6 +150,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Ordering and topological defects in social wasps' nests**|Shivani Krishna et.al.|[2310.02042](http://arxiv.org/abs/2310.02042)|null|
+|**2023-10-02**|**Pseudogap phases, chiral anomaly and topological order with quantum loop entanglement**|Predrag Nikolić et.al.|[2310.01493](http://arxiv.org/abs/2310.01493)|null|
+|**2023-10-02**|**Symmetry TFT for Subsystem Symmetry**|Weiguang Cao et.al.|[2310.01474](http://arxiv.org/abs/2310.01474)|null|
+|**2023-09-30**|**Prospects for Taiji to detect a gravitational-wave background from cosmic strings**|Zu-Cheng Chen et.al.|[2310.00411](http://arxiv.org/abs/2310.00411)|null|
+|**2023-09-30**|**Photosynthetically-powered phototactic active nematic fluids and gels**|Andrii Repula et.al.|[2310.00203](http://arxiv.org/abs/2310.00203)|null|
 |**2023-09-29**|**Immersed figure-8 annuli and a strong isomorphism conjecture**|Bowen Shi et.al.|[2309.17155](http://arxiv.org/abs/2309.17155)|null|
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
 |**2023-09-27**|**Symmetry-specific characterization of bond orientation order in DNA-assembled nanoparticle lattices**|Jack A. Logan et.al.|[2309.15939](http://arxiv.org/abs/2309.15939)|**[link](https://github.com/jalogan/symbops_for_isotropic_particles)**|
