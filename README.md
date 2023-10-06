@@ -158,6 +158,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Frobenius--Schur indicators for twisted Real representation theory and two dimensional unoriented topological field theory**|Levi Gagnon-Ririe et.al.|[2310.03566](http://arxiv.org/abs/2310.03566)|null|
 |**2023-10-03**|**Ordering and topological defects in social wasps' nests**|Shivani Krishna et.al.|[2310.02042](http://arxiv.org/abs/2310.02042)|null|
 |**2023-10-02**|**Pseudogap phases, chiral anomaly and topological order with quantum loop entanglement**|Predrag Nikolić et.al.|[2310.01493](http://arxiv.org/abs/2310.01493)|null|
 |**2023-10-02**|**Symmetry TFT for Subsystem Symmetry**|Weiguang Cao et.al.|[2310.01474](http://arxiv.org/abs/2310.01474)|null|
@@ -364,6 +365,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Biorthogonal Majorana zero modes, extended waves in continuum of bound states and non-Hermitian Toda soliton-fermion duality**|Harold Blas et.al.|[2310.03215](http://arxiv.org/abs/2310.03215)|null|
 |**2023-09-29**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436](http://arxiv.org/abs/2309.17436)|null|
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
 |**2023-09-20**|**Superconducting triangular islands as a platform for manipulating Majorana zero modes**|Aidan Winblad et.al.|[2309.11607](http://arxiv.org/abs/2309.11607)|null|
