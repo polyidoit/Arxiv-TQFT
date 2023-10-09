@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**ZrOsSi: A $Z_2$ topological metal with a superconducting ground state**|S. K. Ghosh et.al.|[2310.04105](http://arxiv.org/abs/2310.04105)|null|
 |**2023-10-02**|**Pseudogap phases, chiral anomaly and topological order with quantum loop entanglement**|Predrag Nikolić et.al.|[2310.01493](http://arxiv.org/abs/2310.01493)|null|
 |**2023-09-29**|**Growing Extended Laughlin States in a Quantum Gas Microscope: A Patchwork Construction**|Felix A. Palm et.al.|[2309.17402](http://arxiv.org/abs/2309.17402)|null|
 |**2023-09-29**|**Immersed figure-8 annuli and a strong isomorphism conjecture**|Bowen Shi et.al.|[2309.17155](http://arxiv.org/abs/2309.17155)|null|
@@ -158,6 +159,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Categorical Landau Paradigm for Gapped Phases**|Lakshya Bhardwaj et.al.|[2310.03786](http://arxiv.org/abs/2310.03786)|null|
+|**2023-10-05**|**Gapped Phases with Non-Invertible Symmetries: (1+1)d**|Lakshya Bhardwaj et.al.|[2310.03784](http://arxiv.org/abs/2310.03784)|null|
 |**2023-10-05**|**Frobenius--Schur indicators for twisted Real representation theory and two dimensional unoriented topological field theory**|Levi Gagnon-Ririe et.al.|[2310.03566](http://arxiv.org/abs/2310.03566)|null|
 |**2023-10-03**|**Ordering and topological defects in social wasps' nests**|Shivani Krishna et.al.|[2310.02042](http://arxiv.org/abs/2310.02042)|null|
 |**2023-10-02**|**Pseudogap phases, chiral anomaly and topological order with quantum loop entanglement**|Predrag Nikolić et.al.|[2310.01493](http://arxiv.org/abs/2310.01493)|null|
