@@ -161,6 +161,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials**|Haijie Ren et.al.|[2310.06406](http://arxiv.org/abs/2310.06406)|null|
 |**2023-10-09**|**Observation of universal Kibble-Zurek scaling in an atomic Fermi superfluid**|Kyuhwan Lee et.al.|[2310.05437](http://arxiv.org/abs/2310.05437)|null|
 |**2023-10-08**|**Shear-Induced Phase Behavior and Topological Defects in Two-Dimensional Crystals**|Federico Ghimenti et.al.|[2310.05094](http://arxiv.org/abs/2310.05094)|null|
 |**2023-10-05**|**Categorical Landau Paradigm for Gapped Phases**|Lakshya Bhardwaj et.al.|[2310.03786](http://arxiv.org/abs/2310.03786)|null|
@@ -373,7 +374,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-05**|**Biorthogonal Majorana zero modes, extended waves in continuum of bound states and non-Hermitian Toda soliton-fermion duality**|Harold Blas et.al.|[2310.03215](http://arxiv.org/abs/2310.03215)|null|
-|**2023-09-29**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436](http://arxiv.org/abs/2309.17436)|null|
+|**2023-10-10**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436](http://arxiv.org/abs/2309.17436)|null|
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
 |**2023-09-20**|**Superconducting triangular islands as a platform for manipulating Majorana zero modes**|Aidan Winblad et.al.|[2309.11607](http://arxiv.org/abs/2309.11607)|null|
 |**2023-09-19**|**Anomalous microwave response in the dissipative regime of topological superconducting devices based on Bi2Te2.3Se0.7**|Vasily Stolyarov et.al.|[2309.10897](http://arxiv.org/abs/2309.10897)|null|
