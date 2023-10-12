@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Fault-tolerant logical gates via constant depth circuits and emergent symmetries on non-orientable topological stabilizer and Floquet codes**|Ryohei Kobayashi et.al.|[2310.06917](http://arxiv.org/abs/2310.06917)|null|
 |**2023-10-09**|**2+1D symmetry-topological-order from local symmetric operators in 1+1D**|Kansei Inamura et.al.|[2310.05790](http://arxiv.org/abs/2310.05790)|null|
 |**2023-10-07**|**Complexity and order in approximate quantum error-correcting codes**|Jinmin Yi et.al.|[2310.04710](http://arxiv.org/abs/2310.04710)|null|
 |**2023-10-06**|**ZrOsSi: A $Z_2$ topological metal with a superconducting ground state**|S. K. Ghosh et.al.|[2310.04105](http://arxiv.org/abs/2310.04105)|null|
@@ -153,6 +154,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Manipulating Vortices with Domain Walls in Superconductor-Ferromagnet Heterostructures**|Sebastián A. Díaz et.al.|[2310.06866](http://arxiv.org/abs/2310.06866)|null|
 |**2023-10-10**|**Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials**|Haijie Ren et.al.|[2310.06406](http://arxiv.org/abs/2310.06406)|null|
 |**2023-10-09**|**Observation of universal Kibble-Zurek scaling in an atomic Fermi superfluid**|Kyuhwan Lee et.al.|[2310.05437](http://arxiv.org/abs/2310.05437)|null|
 |**2023-10-08**|**Shear-Induced Phase Behavior and Topological Defects in Two-Dimensional Crystals**|Federico Ghimenti et.al.|[2310.05094](http://arxiv.org/abs/2310.05094)|null|
@@ -363,6 +365,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**ChatGPT for Computational Topology**|Jian Liu et.al.|[2310.07570](http://arxiv.org/abs/2310.07570)|**[link](https://github.com/joybearliu/chatgpt-for-computational-topology)**|
 |**2023-10-05**|**Biorthogonal Majorana zero modes, extended waves in continuum of bound states and non-Hermitian Toda soliton-fermion duality**|Harold Blas et.al.|[2310.03215](http://arxiv.org/abs/2310.03215)|null|
 |**2023-10-10**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436](http://arxiv.org/abs/2309.17436)|null|
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
