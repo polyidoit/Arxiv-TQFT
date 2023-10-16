@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Mutual information and correlations across topological phase transitions in topologically ordered graphene zigzag nanoribbons**|In Hwan Lee et.al.|[2310.08970](http://arxiv.org/abs/2310.08970)|null|
+|**2023-10-12**|**Mixed-state Quantum Phases: Renormalization and Quantum Error Correction**|Shengqi Sang et.al.|[2310.08639](http://arxiv.org/abs/2310.08639)|null|
 |**2023-10-12**|**Light-Induced Nonthermal Phase Transition to the Topological Crystalline Insulator State in SnSe**|Stefano Mocatti et.al.|[2310.08341](http://arxiv.org/abs/2310.08341)|null|
 |**2023-10-12**|**Effective Brane Field Theory with Higher-form Symmetry**|Yoshimasa Hidaka et.al.|[2310.07993](http://arxiv.org/abs/2310.07993)|null|
 |**2023-10-10**|**Fault-tolerant logical gates via constant depth circuits and emergent symmetries on non-orientable topological stabilizer and Floquet codes**|Ryohei Kobayashi et.al.|[2310.06917](http://arxiv.org/abs/2310.06917)|null|
@@ -156,6 +158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Three-Dimensional Topological Field Theories and Non-Unitary Minimal Models**|Dongmin Gang et.al.|[2310.09080](http://arxiv.org/abs/2310.09080)|null|
 |**2023-10-12**|**Effective Brane Field Theory with Higher-form Symmetry**|Yoshimasa Hidaka et.al.|[2310.07993](http://arxiv.org/abs/2310.07993)|null|
 |**2023-10-05**|**Manipulating Vortices with Domain Walls in Superconductor-Ferromagnet Heterostructures**|Sebastián A. Díaz et.al.|[2310.06866](http://arxiv.org/abs/2310.06866)|null|
 |**2023-10-10**|**Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials**|Haijie Ren et.al.|[2310.06406](http://arxiv.org/abs/2310.06406)|null|
@@ -368,6 +371,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Chiral Majorana hinge modes on a curved surface with magnetic impurities**|Ilyoun Na et.al.|[2310.09258](http://arxiv.org/abs/2310.09258)|null|
+|**2023-10-13**|**Dirac-Fermion-Assisted Interfacial Superconductivity in Epitaxial Topological Insulator/Iron Chalcogenide Heterostructures**|Hemian Yi et.al.|[2310.09190](http://arxiv.org/abs/2310.09190)|null|
+|**2023-10-13**|**Enhancing the excitation gap of a quantum-dot-based Kitaev chain**|Chun-Xiao Liu et.al.|[2310.09106](http://arxiv.org/abs/2310.09106)|null|
 |**2023-10-11**|**ChatGPT for Computational Topology**|Jian Liu et.al.|[2310.07570](http://arxiv.org/abs/2310.07570)|**[link](https://github.com/joybearliu/chatgpt-for-computational-topology)**|
 |**2023-10-05**|**Biorthogonal Majorana zero modes, extended waves in continuum of bound states and non-Hermitian Toda soliton-fermion duality**|Harold Blas et.al.|[2310.03215](http://arxiv.org/abs/2310.03215)|null|
 |**2023-10-10**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436](http://arxiv.org/abs/2309.17436)|null|
