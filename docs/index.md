@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Symmetry protected topological order as a requirement for measurement-based quantum gate teleportation**|Zhuohao Liu et.al.|[2310.10561](http://arxiv.org/abs/2310.10561)|null|
+|**2023-10-14**|**Anyon Condensation Web and Multipartite Entanglement in 2D Fracton-like Theories**|Guilherme Delfino et.al.|[2310.09490](http://arxiv.org/abs/2310.09490)|null|
+|**2023-10-13**|**Unveiling UV/IR Mixing via Symmetry Defects: A View from Topological Entanglement Entropy**|Jintae Kim et.al.|[2310.09425](http://arxiv.org/abs/2310.09425)|null|
+|**2023-10-13**|**Edge modes and symmetry-protected topological states in open quantum systems**|Dawid Paszko et.al.|[2310.09406](http://arxiv.org/abs/2310.09406)|null|
 |**2023-10-13**|**Mutual information and correlations across topological phase transitions in topologically ordered graphene zigzag nanoribbons**|In Hwan Lee et.al.|[2310.08970](http://arxiv.org/abs/2310.08970)|null|
 |**2023-10-12**|**Mixed-state Quantum Phases: Renormalization and Quantum Error Correction**|Shengqi Sang et.al.|[2310.08639](http://arxiv.org/abs/2310.08639)|null|
 |**2023-10-12**|**Light-Induced Nonthermal Phase Transition to the Topological Crystalline Insulator State in SnSe**|Stefano Mocatti et.al.|[2310.08341](http://arxiv.org/abs/2310.08341)|null|
@@ -158,6 +162,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Manipulating Metastability: Quenched Control of Topological Defects in Multiferroics**|Nimish P. Nazirkar et.al.|[2310.10630](http://arxiv.org/abs/2310.10630)|null|
+|**2023-10-15**|**Thermodynamic Topological Classifications of Well-Known Black Holes**|Aqsa Mehmood et.al.|[2310.09907](http://arxiv.org/abs/2310.09907)|null|
 |**2023-10-13**|**Three-Dimensional Topological Field Theories and Non-Unitary Minimal Models**|Dongmin Gang et.al.|[2310.09080](http://arxiv.org/abs/2310.09080)|null|
 |**2023-10-12**|**Effective Brane Field Theory with Higher-form Symmetry**|Yoshimasa Hidaka et.al.|[2310.07993](http://arxiv.org/abs/2310.07993)|null|
 |**2023-10-05**|**Manipulating Vortices with Domain Walls in Superconductor-Ferromagnet Heterostructures**|Sebastián A. Díaz et.al.|[2310.06866](http://arxiv.org/abs/2310.06866)|null|
