@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Tensor Network Decoding Beyond 2D**|Christophe Piveteau et.al.|[2310.10722](http://arxiv.org/abs/2310.10722)|null|
+|**2023-10-16**|**$W$ state is not the unique ground state of any local Hamiltonian**|Lei Gioia et.al.|[2310.10716](http://arxiv.org/abs/2310.10716)|null|
 |**2023-10-16**|**Symmetry protected topological order as a requirement for measurement-based quantum gate teleportation**|Zhuohao Liu et.al.|[2310.10561](http://arxiv.org/abs/2310.10561)|null|
 |**2023-10-14**|**Anyon Condensation Web and Multipartite Entanglement in 2D Fracton-like Theories**|Guilherme Delfino et.al.|[2310.09490](http://arxiv.org/abs/2310.09490)|null|
 |**2023-10-13**|**Unveiling UV/IR Mixing via Symmetry Defects: A View from Topological Entanglement Entropy**|Jintae Kim et.al.|[2310.09425](http://arxiv.org/abs/2310.09425)|null|
@@ -162,6 +164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**On the Frozen F-theory Landscape**|David R. Morrison et.al.|[2310.11432](http://arxiv.org/abs/2310.11432)|null|
 |**2023-10-16**|**Manipulating Metastability: Quenched Control of Topological Defects in Multiferroics**|Nimish P. Nazirkar et.al.|[2310.10630](http://arxiv.org/abs/2310.10630)|null|
 |**2023-10-15**|**Thermodynamic Topological Classifications of Well-Known Black Holes**|Aqsa Mehmood et.al.|[2310.09907](http://arxiv.org/abs/2310.09907)|null|
 |**2023-10-13**|**Three-Dimensional Topological Field Theories and Non-Unitary Minimal Models**|Dongmin Gang et.al.|[2310.09080](http://arxiv.org/abs/2310.09080)|null|
@@ -441,7 +444,7 @@ layout: default
 |**2023-07-31**|**No Strings Attached: Boundaries and Defects in the Cubic Code**|Cory T. Aitchison et.al.|[2308.00138](http://arxiv.org/abs/2308.00138)|null|
 |**2023-08-28**|**Engineering Floquet codes by rewinding**|Arpit Dua et.al.|[2307.13668](http://arxiv.org/abs/2307.13668)|**[link](https://github.com/dua-arpit/floquetcodes)**|
 |**2023-06-30**|**The domain wall color code**|Konstantin Tiurev et.al.|[2307.00054](http://arxiv.org/abs/2307.00054)|null|
-|**2023-02-06**|**High threshold codes for neutral atom qubits with biased erasure errors**|Kaavya Sahay et.al.|[2302.03063](http://arxiv.org/abs/2302.03063)|null|
+|**2023-10-17**|**High threshold codes for neutral atom qubits with biased erasure errors**|Kaavya Sahay et.al.|[2302.03063](http://arxiv.org/abs/2302.03063)|null|
 |**2023-07-26**|**Renormalization of Ising cage-net model and generalized foliation**|Zongyuan Wang et.al.|[2301.00103](http://arxiv.org/abs/2301.00103)|null|
 |**2022-12-21**|**Biased Gottesman-Kitaev-Preskill repetition code**|Matthew P. Stafford et.al.|[2212.11397](http://arxiv.org/abs/2212.11397)|null|
 |**2022-11-28**|**Y-cube model and fractal structure of subdimensional particles on hyperbolic lattices**|Han Yan et.al.|[2211.15829](http://arxiv.org/abs/2211.15829)|null|
