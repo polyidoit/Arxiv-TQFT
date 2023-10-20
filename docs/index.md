@@ -7,7 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-16**|**Tensor Network Decoding Beyond 2D**|Christophe Piveteau et.al.|[2310.10722](http://arxiv.org/abs/2310.10722)|null|
+|**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
+|**2023-10-19**|**Correcting phenomenological quantum noise via belief propagation**|Kao-Yueh Kuo et.al.|[2310.12682](http://arxiv.org/abs/2310.12682)|null|
+|**2023-10-19**|**Anomalous dynamical response of non-Hermitian topological phases**|Ritu Nehra et.al.|[2310.12633](http://arxiv.org/abs/2310.12633)|null|
+|**2023-10-18**|**Quantum teleportation implies symmetry-protected topological order**|Yifan Hong et.al.|[2310.12227](http://arxiv.org/abs/2310.12227)|null|
+|**2023-10-16**|**Tensor Network Decoding Beyond 2D**|Christophe Piveteau et.al.|[2310.10722](http://arxiv.org/abs/2310.10722)|**[link](https://github.com/chripiv/tndecoder3d)**|
 |**2023-10-16**|**$W$ state is not the unique ground state of any local Hamiltonian**|Lei Gioia et.al.|[2310.10716](http://arxiv.org/abs/2310.10716)|null|
 |**2023-10-16**|**Symmetry protected topological order as a requirement for measurement-based quantum gate teleportation**|Zhuohao Liu et.al.|[2310.10561](http://arxiv.org/abs/2310.10561)|null|
 |**2023-10-14**|**Anyon Condensation Web and Multipartite Entanglement in 2D Fracton-like Theories**|Guilherme Delfino et.al.|[2310.09490](http://arxiv.org/abs/2310.09490)|null|
@@ -164,6 +168,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**SymTrees and Multi-Sector QFTs**|Florent Baume et.al.|[2310.12980](http://arxiv.org/abs/2310.12980)|null|
+|**2023-10-19**|**A Machine Learning Approach to Robustly Determine Orientation Fields and Analyze Defects in Active Nematics**|Yunrui Li et.al.|[2310.12449](http://arxiv.org/abs/2310.12449)|null|
 |**2023-10-17**|**On the Frozen F-theory Landscape**|David R. Morrison et.al.|[2310.11432](http://arxiv.org/abs/2310.11432)|null|
 |**2023-10-16**|**Manipulating Metastability: Quenched Control of Topological Defects in Multiferroics**|Nimish P. Nazirkar et.al.|[2310.10630](http://arxiv.org/abs/2310.10630)|null|
 |**2023-10-15**|**Thermodynamic Topological Classifications of Well-Known Black Holes**|Aqsa Mehmood et.al.|[2310.09907](http://arxiv.org/abs/2310.09907)|null|
