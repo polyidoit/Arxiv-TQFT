@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 ## Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -383,7 +383,7 @@ layout: default
 |**2023-10-13**|**Chiral Majorana hinge modes on a curved surface with magnetic impurities**|Ilyoun Na et.al.|[2310.09258](http://arxiv.org/abs/2310.09258)|null|
 |**2023-10-13**|**Dirac-Fermion-Assisted Interfacial Superconductivity in Epitaxial Topological Insulator/Iron Chalcogenide Heterostructures**|Hemian Yi et.al.|[2310.09190](http://arxiv.org/abs/2310.09190)|null|
 |**2023-10-13**|**Enhancing the excitation gap of a quantum-dot-based Kitaev chain**|Chun-Xiao Liu et.al.|[2310.09106](http://arxiv.org/abs/2310.09106)|null|
-|**2023-10-11**|**ChatGPT for Computational Topology**|Jian Liu et.al.|[2310.07570](http://arxiv.org/abs/2310.07570)|**[link](https://github.com/joybearliu/chatgpt-for-computational-topology)**|
+|**2023-10-19**|**ChatGPT for Computational Topology**|Jian Liu et.al.|[2310.07570](http://arxiv.org/abs/2310.07570)|**[link](https://github.com/joybearliu/chatgpt-for-computational-topology)**|
 |**2023-10-05**|**Biorthogonal Majorana zero modes, extended waves in continuum of bound states and non-Hermitian Toda soliton-fermion duality**|Harold Blas et.al.|[2310.03215](http://arxiv.org/abs/2310.03215)|null|
 |**2023-10-10**|**Fractional Quantum Anomalous Hall Effect in a Graphene Moire Superlattice**|Zhengguang Lu et.al.|[2309.17436](http://arxiv.org/abs/2309.17436)|null|
 |**2023-09-28**|**Layer Codes**|Dominic J. Williamson et.al.|[2309.16503](http://arxiv.org/abs/2309.16503)|null|
