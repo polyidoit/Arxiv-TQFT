@@ -168,6 +168,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Global Symmetries, Code Ensembles, and Sums Over Geometries**|Ahmed Barbar et.al.|[2310.13044](http://arxiv.org/abs/2310.13044)|null|
 |**2023-10-19**|**SymTrees and Multi-Sector QFTs**|Florent Baume et.al.|[2310.12980](http://arxiv.org/abs/2310.12980)|null|
 |**2023-10-19**|**A Machine Learning Approach to Robustly Determine Orientation Fields and Analyze Defects in Active Nematics**|Yunrui Li et.al.|[2310.12449](http://arxiv.org/abs/2310.12449)|null|
 |**2023-10-17**|**On the Frozen F-theory Landscape**|David R. Morrison et.al.|[2310.11432](http://arxiv.org/abs/2310.11432)|null|
@@ -386,6 +387,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
+|**2023-10-20**|**Visualization of skyrmion-superconducting vortex pairs in a chiral magnet-superconductor heterostructure**|Yongjie Xie et.al.|[2310.13363](http://arxiv.org/abs/2310.13363)|null|
 |**2023-10-13**|**Chiral Majorana hinge modes on a curved surface with magnetic impurities**|Ilyoun Na et.al.|[2310.09258](http://arxiv.org/abs/2310.09258)|null|
 |**2023-10-13**|**Dirac-Fermion-Assisted Interfacial Superconductivity in Epitaxial Topological Insulator/Iron Chalcogenide Heterostructures**|Hemian Yi et.al.|[2310.09190](http://arxiv.org/abs/2310.09190)|null|
 |**2023-10-13**|**Enhancing the excitation gap of a quantum-dot-based Kitaev chain**|Chun-Xiao Liu et.al.|[2310.09106](http://arxiv.org/abs/2310.09106)|null|
