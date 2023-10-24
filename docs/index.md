@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Causal Inference Using LLM-Guided Discovery**|Aniket Vashishtha et.al.|[2310.15117](http://arxiv.org/abs/2310.15117)|null|
+|**2023-10-23**|**Scalable digital quantum simulation of lattice fermion theories with local encoding**|Marco Ballarin et.al.|[2310.15091](http://arxiv.org/abs/2310.15091)|null|
+|**2023-10-23**|**Experimental signatures of quantum and topological states in frustrated magnetism**|J. Khatua et.al.|[2310.15071](http://arxiv.org/abs/2310.15071)|null|
 |**2023-10-19**|**Fractal Subsystem Symmetries, 't Hooft Anomalies, and UV/IR Mixing**|Heitor Casasola et.al.|[2310.12894](http://arxiv.org/abs/2310.12894)|null|
 |**2023-10-19**|**Correcting phenomenological quantum noise via belief propagation**|Kao-Yueh Kuo et.al.|[2310.12682](http://arxiv.org/abs/2310.12682)|null|
 |**2023-10-19**|**Anomalous dynamical response of non-Hermitian topological phases**|Ritu Nehra et.al.|[2310.12633](http://arxiv.org/abs/2310.12633)|null|
@@ -168,6 +171,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**A non-unitary bulk-boundary correspondence: Non-unitary Haagerup RCFTs from S-fold SCFTs**|Dongmin Gang et.al.|[2310.14877](http://arxiv.org/abs/2310.14877)|null|
+|**2023-10-22**|**Properties of an α-T3 Aharonov-Bohm quantum ring: Interplay of Rashba spin-orbit coupling and topological defect**|Mijanur Islam et.al.|[2310.14169](http://arxiv.org/abs/2310.14169)|null|
+|**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-19**|**Global Symmetries, Code Ensembles, and Sums Over Geometries**|Ahmed Barbar et.al.|[2310.13044](http://arxiv.org/abs/2310.13044)|null|
 |**2023-10-19**|**SymTrees and Multi-Sector QFTs**|Florent Baume et.al.|[2310.12980](http://arxiv.org/abs/2310.12980)|null|
 |**2023-10-19**|**A Machine Learning Approach to Robustly Determine Orientation Fields and Analyze Defects in Active Nematics**|Yunrui Li et.al.|[2310.12449](http://arxiv.org/abs/2310.12449)|null|
