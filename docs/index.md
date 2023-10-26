@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Baryons as Vortexes on the $η^{\prime}$ Domain Wall**|Fan Lin et.al.|[2310.16438](http://arxiv.org/abs/2310.16438)|null|
+|**2023-10-24**|**Single-shot error correction on toric codes with high-weight stabilizers**|Yingjia Lin et.al.|[2310.16160](http://arxiv.org/abs/2310.16160)|null|
+|**2023-10-24**|**Long-range entanglement and topological excitations**|Gianpaolo Torre et.al.|[2310.16091](http://arxiv.org/abs/2310.16091)|null|
 |**2023-10-24**|**Local Chern Marker for Periodic Systems**|Nicolas Baù et.al.|[2310.15783](http://arxiv.org/abs/2310.15783)|null|
 |**2023-10-24**|**Generalized Cardy conditions of topological defect lines**|Xia Gu et.al.|[2310.15487](http://arxiv.org/abs/2310.15487)|null|
 |**2023-10-23**|**Non-invertible Symmetries in 2D from Type IIB String Theory**|Xingyang Yu et.al.|[2310.15339](http://arxiv.org/abs/2310.15339)|null|
