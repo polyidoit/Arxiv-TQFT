@@ -7,6 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Steady-state topological order**|Xu-Dong Dai et.al.|[2310.17612](http://arxiv.org/abs/2310.17612)|null|
+|**2023-10-26**|**Large Quantum Anomalous Hall Effect in Spin-Orbit Proximitized Rhombohedral Graphene**|Tonghang Han et.al.|[2310.17483](http://arxiv.org/abs/2310.17483)|null|
+|**2023-10-26**|**fairret: a Framework for Differentiable Fairness Regularization Terms**|Maarten Buyl et.al.|[2310.17256](http://arxiv.org/abs/2310.17256)|null|
+|**2023-10-26**|**Topological phase transition in a narrow bandgap semiconductor nanolayer**|Zhi-Hai Liu et.al.|[2310.17243](http://arxiv.org/abs/2310.17243)|null|
+|**2023-10-26**|**Disorder induced topological phase transition in a driven Majorana chain**|Henry Ling et.al.|[2310.17088](http://arxiv.org/abs/2310.17088)|null|
+|**2023-10-25**|**Non-Clifford and parallelizable fault-tolerant logical gates on constant and almost-constant rate homological quantum LDPC codes via higher symmetries**|Guanyu Zhu et.al.|[2310.16982](http://arxiv.org/abs/2310.16982)|null|
+|**2023-10-25**|**Topological holography, quantum criticality, and boundary states**|Sheng-Jie Huang et.al.|[2310.16878](http://arxiv.org/abs/2310.16878)|null|
 |**2023-10-25**|**Baryons as Vortexes on the $η^{\prime}$ Domain Wall**|Fan Lin et.al.|[2310.16438](http://arxiv.org/abs/2310.16438)|null|
 |**2023-10-24**|**Single-shot error correction on toric codes with high-weight stabilizers**|Yingjia Lin et.al.|[2310.16160](http://arxiv.org/abs/2310.16160)|null|
 |**2023-10-24**|**Long-range entanglement and topological excitations**|Gianpaolo Torre et.al.|[2310.16091](http://arxiv.org/abs/2310.16091)|null|
