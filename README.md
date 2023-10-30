@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Quantum simulation of the tricritical Ising model in tunable Josephson junction ladders**|Lorenzo Maffi et.al.|[2310.18300](http://arxiv.org/abs/2310.18300)|null|
+|**2023-10-27**|**Gate-tunable topological superconductivity in a supramolecular electron spin lattice**|Jung-Ching Liu et.al.|[2310.18134](http://arxiv.org/abs/2310.18134)|null|
+|**2023-10-27**|**Theory of $d + id$ Second-Order Topological Superconductors**|Zi-Ming Wang et.al.|[2310.17992](http://arxiv.org/abs/2310.17992)|null|
+|**2023-10-26**|**Measuring Topological Field Theories: Lattice Models and Field-Theoretic Description**|Yabo Li et.al.|[2310.17740](http://arxiv.org/abs/2310.17740)|null|
 |**2023-10-26**|**Steady-state topological order**|Xu-Dong Dai et.al.|[2310.17612](http://arxiv.org/abs/2310.17612)|null|
 |**2023-10-26**|**Large Quantum Anomalous Hall Effect in Spin-Orbit Proximitized Rhombohedral Graphene**|Tonghang Han et.al.|[2310.17483](http://arxiv.org/abs/2310.17483)|null|
 |**2023-10-26**|**fairret: a Framework for Differentiable Fairness Regularization Terms**|Maarten Buyl et.al.|[2310.17256](http://arxiv.org/abs/2310.17256)|null|
