@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Machine learning detecting Majorana Zero Mode from Zero Bias Peak measurements**|Mouyang Cheng et.al.|[2310.18439](http://arxiv.org/abs/2310.18439)|null|
+|**2023-10-27**|**Entanglement in BF theory II: Edge-modes**|Jackson R. Fliss et.al.|[2310.18391](http://arxiv.org/abs/2310.18391)|null|
 |**2023-10-27**|**Quantum simulation of the tricritical Ising model in tunable Josephson junction ladders**|Lorenzo Maffi et.al.|[2310.18300](http://arxiv.org/abs/2310.18300)|null|
 |**2023-10-27**|**Gate-tunable topological superconductivity in a supramolecular electron spin lattice**|Jung-Ching Liu et.al.|[2310.18134](http://arxiv.org/abs/2310.18134)|null|
 |**2023-10-27**|**Theory of $d + id$ Second-Order Topological Superconductors**|Zi-Ming Wang et.al.|[2310.17992](http://arxiv.org/abs/2310.17992)|null|
