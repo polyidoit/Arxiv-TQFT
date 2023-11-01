@@ -7,6 +7,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Proximity effect induced intriguing superconductivity in van der Waals heterostructure of magnetic topological insulator and conventional superconductor**|Peng Dong et.al.|[2310.20576](http://arxiv.org/abs/2310.20576)|null|
+|**2023-10-31**|**Anomaly constraints for heterotic strings and supergravity in six dimensions**|Ivano Basile et.al.|[2310.20480](http://arxiv.org/abs/2310.20480)|null|
+|**2023-10-31**|**Intercellular Friction and Motility Drive Orientational Order in Cell Monolayers**|Michael Chiang et.al.|[2310.20465](http://arxiv.org/abs/2310.20465)|null|
+|**2023-10-31**|**Emergent topological ordered phase for the Ising-XY Model revealed by cluster-updating Monte-Carlo method**|Heyang Ma et.al.|[2310.20314](http://arxiv.org/abs/2310.20314)|null|
+|**2023-10-31**|**Spinfoams: Foundations**|Jonathan Engle et.al.|[2310.20147](http://arxiv.org/abs/2310.20147)|null|
+|**2023-10-30**|**Self-duality under gauging a non-invertible symmetry**|Yichul Choi et.al.|[2310.19867](http://arxiv.org/abs/2310.19867)|null|
+|**2023-10-30**|**Lattice Realizations of Topological Defects in the critical (1+1)-d Three-State Potts Model**|Madhav Sinha et.al.|[2310.19703](http://arxiv.org/abs/2310.19703)|null|
+|**2023-10-30**|**Classification of the anyon sectors of Kitaev's quantum double model**|Alex Bols et.al.|[2310.19661](http://arxiv.org/abs/2310.19661)|null|
+|**2023-10-30**|**Anomalous boundary correspondence of topological phases**|Jian-Hao Zhang et.al.|[2310.19266](http://arxiv.org/abs/2310.19266)|null|
 |**2023-10-27**|**Machine learning detecting Majorana Zero Mode from Zero Bias Peak measurements**|Mouyang Cheng et.al.|[2310.18439](http://arxiv.org/abs/2310.18439)|null|
 |**2023-10-27**|**Entanglement in BF theory II: Edge-modes**|Jackson R. Fliss et.al.|[2310.18391](http://arxiv.org/abs/2310.18391)|null|
 |**2023-10-27**|**Quantum simulation of the tricritical Ising model in tunable Josephson junction ladders**|Lorenzo Maffi et.al.|[2310.18300](http://arxiv.org/abs/2310.18300)|null|
