@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Crystalline topological defects within response theory**|Sami Hakani et.al.|[2311.00698](http://arxiv.org/abs/2311.00698)|null|
+|**2023-10-31**|**Topological quantum computation assisted by phase transitions**|Yuanjie Ren et.al.|[2311.00103](http://arxiv.org/abs/2311.00103)|null|
+|**2023-10-31**|**Classification of 1+1D gapless symmetry protected phases via topological holography**|Rui Wen et.al.|[2311.00050](http://arxiv.org/abs/2311.00050)|null|
 |**2023-10-31**|**Proximity effect induced intriguing superconductivity in van der Waals heterostructure of magnetic topological insulator and conventional superconductor**|Peng Dong et.al.|[2310.20576](http://arxiv.org/abs/2310.20576)|null|
 |**2023-10-31**|**Anomaly constraints for heterotic strings and supergravity in six dimensions**|Ivano Basile et.al.|[2310.20480](http://arxiv.org/abs/2310.20480)|null|
 |**2023-10-31**|**Intercellular Friction and Motility Drive Orientational Order in Cell Monolayers**|Michael Chiang et.al.|[2310.20465](http://arxiv.org/abs/2310.20465)|null|
