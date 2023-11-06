@@ -10,11 +10,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Majorana qubit codes that also correct odd-weight errors**|Sourav Kundu et.al.|[2311.01779](http://arxiv.org/abs/2311.01779)|null|
+|**2023-11-02**|**Projective symmetries of three-dimensional TQFTs**|Jackson Van Dyke et.al.|[2311.01637](http://arxiv.org/abs/2311.01637)|null|
 |**2023-11-02**|**Absence of barren plateaus in finite local-depth circuits with long-range entanglement**|Hao-Kai Zhang et.al.|[2311.01393](http://arxiv.org/abs/2311.01393)|null|
 |**2023-11-02**|**Gapped boundaries of fermionic topological orders and higher central charges**|Minyoung You et.al.|[2311.01096](http://arxiv.org/abs/2311.01096)|null|
 |**2023-11-01**|**Tropological Sigma Models**|Emil Albrychiewicz et.al.|[2311.00745](http://arxiv.org/abs/2311.00745)|null|
 |**2023-11-01**|**Crystalline topological defects within response theory**|Sami Hakani et.al.|[2311.00698](http://arxiv.org/abs/2311.00698)|null|
-|**2023-10-31**|**Topological quantum computation assisted by phase transitions**|Yuanjie Ren et.al.|[2311.00103](http://arxiv.org/abs/2311.00103)|null|
+|**2023-11-02**|**Topological quantum computation assisted by phase transitions**|Yuanjie Ren et.al.|[2311.00103](http://arxiv.org/abs/2311.00103)|null|
 |**2023-10-31**|**Classification of 1+1D gapless symmetry protected phases via topological holography**|Rui Wen et.al.|[2311.00050](http://arxiv.org/abs/2311.00050)|null|
 |**2023-10-31**|**Proximity effect induced intriguing superconductivity in van der Waals heterostructure of magnetic topological insulator and conventional superconductor**|Peng Dong et.al.|[2310.20576](http://arxiv.org/abs/2310.20576)|null|
 |**2023-10-31**|**Anomaly constraints for heterotic strings and supergravity in six dimensions**|Ivano Basile et.al.|[2310.20480](http://arxiv.org/abs/2310.20480)|null|
