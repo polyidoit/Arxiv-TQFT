@@ -25,7 +25,7 @@
 |**2023-10-30**|**Lattice Realizations of Topological Defects in the critical (1+1)-d Three-State Potts Model**|Madhav Sinha et.al.|[2310.19703](http://arxiv.org/abs/2310.19703)|null|
 |**2023-10-30**|**Classification of the anyon sectors of Kitaev's quantum double model**|Alex Bols et.al.|[2310.19661](http://arxiv.org/abs/2310.19661)|null|
 |**2023-10-30**|**Anomalous boundary correspondence of topological phases**|Jian-Hao Zhang et.al.|[2310.19266](http://arxiv.org/abs/2310.19266)|null|
-|**2023-10-27**|**Machine learning detecting Majorana Zero Mode from Zero Bias Peak measurements**|Mouyang Cheng et.al.|[2310.18439](http://arxiv.org/abs/2310.18439)|null|
+|**2023-10-27**|**Machine learning detecting Majorana Zero Mode from Zero Bias Peak measurements**|Mouyang Cheng et.al.|[2310.18439](http://arxiv.org/abs/2310.18439)|**[link](https://github.com/vipandyc/ml_majorana)**|
 |**2023-10-27**|**Entanglement in BF theory II: Edge-modes**|Jackson R. Fliss et.al.|[2310.18391](http://arxiv.org/abs/2310.18391)|null|
 |**2023-10-27**|**Quantum simulation of the tricritical Ising model in tunable Josephson junction ladders**|Lorenzo Maffi et.al.|[2310.18300](http://arxiv.org/abs/2310.18300)|null|
 |**2023-10-27**|**Gate-tunable topological superconductivity in a supramolecular electron spin lattice**|Jung-Ching Liu et.al.|[2310.18134](http://arxiv.org/abs/2310.18134)|null|
