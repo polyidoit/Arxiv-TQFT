@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Topological Orders Having no Topological Quantum Field Theory Description**|P. Vojta et.al.|[2311.03353](http://arxiv.org/abs/2311.03353)|null|
+|**2023-11-06**|**New anomaly free supergravities in six dimensions**|Katrin Becker et.al.|[2311.03337](http://arxiv.org/abs/2311.03337)|null|
+|**2023-11-06**|**Exposing nontrivial flat bands and superconducting pairing in infinite-layer nickelates**|Ruiqi Zhang et.al.|[2311.03302](http://arxiv.org/abs/2311.03302)|null|
+|**2023-11-04**|**Topological defects**|Nils Carqueville et.al.|[2311.02449](http://arxiv.org/abs/2311.02449)|null|
 |**2023-11-03**|**Majorana qubit codes that also correct odd-weight errors**|Sourav Kundu et.al.|[2311.01779](http://arxiv.org/abs/2311.01779)|null|
 |**2023-11-02**|**Projective symmetries of three-dimensional TQFTs**|Jackson Van Dyke et.al.|[2311.01637](http://arxiv.org/abs/2311.01637)|null|
 |**2023-11-02**|**Absence of barren plateaus in finite local-depth circuits with long-range entanglement**|Hao-Kai Zhang et.al.|[2311.01393](http://arxiv.org/abs/2311.01393)|null|
