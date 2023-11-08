@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Topological Interpretation Black Hole Phase Transition in Gauss-Bonnet Gravity**|C. Fairoos et.al.|[2311.04050](http://arxiv.org/abs/2311.04050)|null|
+|**2023-11-07**|**Topological entanglement entropy to identify topological order in quantum skyrmions**|Vipin Vijayan et.al.|[2311.03915](http://arxiv.org/abs/2311.03915)|null|
+|**2023-11-07**|**Active smectics on a sphere**|Michael Nestler et.al.|[2311.03836](http://arxiv.org/abs/2311.03836)|null|
 |**2023-11-06**|**Topological Orders Having no Topological Quantum Field Theory Description**|P. Vojta et.al.|[2311.03353](http://arxiv.org/abs/2311.03353)|null|
 |**2023-11-06**|**New anomaly free supergravities in six dimensions**|Katrin Becker et.al.|[2311.03337](http://arxiv.org/abs/2311.03337)|null|
 |**2023-11-06**|**Exposing nontrivial flat bands and superconducting pairing in infinite-layer nickelates**|Ruiqi Zhang et.al.|[2311.03302](http://arxiv.org/abs/2311.03302)|null|
