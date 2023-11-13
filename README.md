@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Topological and magnetic phase transitions in the bilayer Kitaev-Ising model**|Aayush Vijayvargia et.al.|[2311.06245](http://arxiv.org/abs/2311.06245)|null|
+|**2023-11-10**|**Nonreciprocal Spin Waves in Nanoscale Domain Walls Detected by Scanning X-ray Microscopy in Perpendicular Magnetic Anisotropic Fe/Gd Multilayers**|Ping Che et.al.|[2311.06186](http://arxiv.org/abs/2311.06186)|null|
+|**2023-11-09**|**Higher-group symmetry of (3+1)D fermionic $\mathbb{Z}_2$ gauge theory: logical CCZ, CS, and T gates from higher symmetry**|Maissam Barkeshli et.al.|[2311.05674](http://arxiv.org/abs/2311.05674)|null|
 |**2023-11-07**|**Topological Interpretation Black Hole Phase Transition in Gauss-Bonnet Gravity**|C. Fairoos et.al.|[2311.04050](http://arxiv.org/abs/2311.04050)|null|
 |**2023-11-07**|**Topological entanglement entropy to identify topological order in quantum skyrmions**|Vipin Vijayan et.al.|[2311.03915](http://arxiv.org/abs/2311.03915)|null|
 |**2023-11-07**|**Active smectics on a sphere**|Michael Nestler et.al.|[2311.03836](http://arxiv.org/abs/2311.03836)|null|
