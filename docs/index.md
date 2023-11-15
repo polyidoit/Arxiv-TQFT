@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Dynamical theory of topological defects II: Universal aspects of defect motion**|Jacopo Romano et.al.|[2311.07970](http://arxiv.org/abs/2311.07970)|null|
+|**2023-11-13**|**Primordial Black Holes and Wormholes from Domain Wall Networks**|Yann Gouttenoire et.al.|[2311.07670](http://arxiv.org/abs/2311.07670)|null|
 |**2023-11-13**|**Temperature effects in topological insulators of transition metal dichalcogenide monolayers**|Siyu Chen et.al.|[2311.07473](http://arxiv.org/abs/2311.07473)|null|
 |**2023-11-10**|**Topological and magnetic phase transitions in the bilayer Kitaev-Ising model**|Aayush Vijayvargia et.al.|[2311.06245](http://arxiv.org/abs/2311.06245)|null|
 |**2023-11-10**|**Nonreciprocal Spin Waves in Nanoscale Domain Walls Detected by Scanning X-ray Microscopy in Perpendicular Magnetic Anisotropic Fe/Gd Multilayers**|Ping Che et.al.|[2311.06186](http://arxiv.org/abs/2311.06186)|null|
