@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Qubit fractionalization and emergent Majorana liquid in the honeycomb Floquet code induced by coherent errors and weak measurements**|Guo-Yi Zhu et.al.|[2311.08450](http://arxiv.org/abs/2311.08450)|null|
 |**2023-11-14**|**Dynamical theory of topological defects II: Universal aspects of defect motion**|Jacopo Romano et.al.|[2311.07970](http://arxiv.org/abs/2311.07970)|null|
 |**2023-11-13**|**Primordial Black Holes and Wormholes from Domain Wall Networks**|Yann Gouttenoire et.al.|[2311.07670](http://arxiv.org/abs/2311.07670)|null|
 |**2023-11-13**|**Temperature effects in topological insulators of transition metal dichalcogenide monolayers**|Siyu Chen et.al.|[2311.07473](http://arxiv.org/abs/2311.07473)|null|
