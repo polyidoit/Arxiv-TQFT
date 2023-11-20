@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**Machine Learning Assisted Characterization of Labyrinthine Pattern Transitions**|Kotaro Shimizu et.al.|[2311.10558](http://arxiv.org/abs/2311.10558)|null|
 |**2023-11-16**|**Fermi surface symmetric mass generation: a quantum Monte-Carlo study**|Wei-Xuan Chang et.al.|[2311.09970](http://arxiv.org/abs/2311.09970)|null|
 |**2023-11-14**|**Qubit fractionalization and emergent Majorana liquid in the honeycomb Floquet code induced by coherent errors and weak measurements**|Guo-Yi Zhu et.al.|[2311.08450](http://arxiv.org/abs/2311.08450)|null|
 |**2023-11-14**|**Dynamical theory of topological defects II: Universal aspects of defect motion**|Jacopo Romano et.al.|[2311.07970](http://arxiv.org/abs/2311.07970)|null|
