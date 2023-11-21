@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-19**|**Symbolic Execution for Quantum Error Correction Programs**|Wang Fang et.al.|[2311.11313](http://arxiv.org/abs/2311.11313)|null|
 |**2023-11-17**|**Machine Learning Assisted Characterization of Labyrinthine Pattern Transitions**|Kotaro Shimizu et.al.|[2311.10558](http://arxiv.org/abs/2311.10558)|null|
 |**2023-11-16**|**Fermi surface symmetric mass generation: a quantum Monte-Carlo study**|Wei-Xuan Chang et.al.|[2311.09970](http://arxiv.org/abs/2311.09970)|null|
 |**2023-11-14**|**Qubit fractionalization and emergent Majorana liquid in the honeycomb Floquet code induced by coherent errors and weak measurements**|Guo-Yi Zhu et.al.|[2311.08450](http://arxiv.org/abs/2311.08450)|null|
