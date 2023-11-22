@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Spin-valley Hall effects and pseudospin-1 system in transition-metal dichalcogenides: three band model approach**|Phusit Nualpijit et.al.|[2311.12377](http://arxiv.org/abs/2311.12377)|null|
+|**2023-11-20**|**Simultaneous and independent topological control of identical microparticles in non-periodic energy landscapes**|N. C. X. Stuhlmüller et.al.|[2311.12165](http://arxiv.org/abs/2311.12165)|null|
 |**2023-11-19**|**Symbolic Execution for Quantum Error Correction Programs**|Wang Fang et.al.|[2311.11313](http://arxiv.org/abs/2311.11313)|null|
 |**2023-11-17**|**Machine Learning Assisted Characterization of Labyrinthine Pattern Transitions**|Kotaro Shimizu et.al.|[2311.10558](http://arxiv.org/abs/2311.10558)|null|
 |**2023-11-16**|**Fermi surface symmetric mass generation: a quantum Monte-Carlo study**|Wei-Xuan Chang et.al.|[2311.09970](http://arxiv.org/abs/2311.09970)|null|
