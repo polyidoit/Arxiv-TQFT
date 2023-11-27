@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Multiple superconducting phases driven by pressure in the topological insulator GeSb4Te7**|W. Zhou et.al.|[2311.14472](http://arxiv.org/abs/2311.14472)|null|
+|**2023-11-24**|**Effect of the depolarizing field on the domain structure of an improper ferroelectric**|Aaron Merlin Müller et.al.|[2311.14429](http://arxiv.org/abs/2311.14429)|null|
+|**2023-11-23**|**Cosmic string influence on a 2D hydrogen atom and its relationship with the Rytova-Keldysh logarithmic approximation in semiconductors**|Frankbelson dos S. Azevedo et.al.|[2311.14144](http://arxiv.org/abs/2311.14144)|null|
+|**2023-11-22**|**Fractional Quantum Hall State at Filling Factor $ν=1/4$ in Ultra-High-Quality GaAs 2D Hole Systems**|Chengyu Wang et.al.|[2311.13689](http://arxiv.org/abs/2311.13689)|null|
 |**2023-11-22**|**Non-equilibrium dynamics of topological defects in the 3d O(2) model**|Edgar López-Contreras et.al.|[2311.13074](http://arxiv.org/abs/2311.13074)|null|
 |**2023-11-21**|**Testing bumblebee gravity with global monopoles in a dark matter spike by EHT observations from M87 and Sgr A**|Salvatore Capozziello et.al.|[2311.12896](http://arxiv.org/abs/2311.12896)|null|
 |**2023-11-21**|**Spin-valley Hall effects and pseudospin-1 system in transition-metal dichalcogenides: three band model approach**|Phusit Nualpijit et.al.|[2311.12377](http://arxiv.org/abs/2311.12377)|null|
