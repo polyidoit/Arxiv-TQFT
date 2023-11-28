@@ -7,6 +7,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Is the Anti-Pfaffian a PH-Pfaffian Topological Order State?**|Jian Yang et.al.|[2311.16039](http://arxiv.org/abs/2311.16039)|null|
+|**2023-11-27**|**Signed Real Hurwitz numbers**|Thomas Guidoni et.al.|[2311.16032](http://arxiv.org/abs/2311.16032)|null|
+|**2023-11-27**|**Optically Induced Monopoles, Knots, and Skyrmions in Quantum Gases**|Toni Annala et.al.|[2311.15972](http://arxiv.org/abs/2311.15972)|null|
+|**2023-11-27**|**Topological Thermal Hall Conductance of Even Denominator Fractional States**|Arup Kumar Paul et.al.|[2311.15787](http://arxiv.org/abs/2311.15787)|null|
+|**2023-11-27**|**Topological skyrmion semimetals**|Shu-Wei Liu et.al.|[2311.15753](http://arxiv.org/abs/2311.15753)|null|
+|**2023-11-27**|**Operator-state correspondence in simple current extended conformal field theories: Toward a general understanding of chiral conformal field theories and topological orders**|Yoshiki Fukusumi et.al.|[2311.15621](http://arxiv.org/abs/2311.15621)|null|
+|**2023-11-27**|**Bayesian Approach to Linear Bayesian Networks**|Seyong Hwang et.al.|[2311.15610](http://arxiv.org/abs/2311.15610)|null|
+|**2023-11-26**|**Frobenius and commutative pseudomonoids in the bicategory of spans**|Ivan Contreras et.al.|[2311.15342](http://arxiv.org/abs/2311.15342)|null|
+|**2023-11-26**|**Ring Bose-Einstein condensate in a cavity: Chirality Detection and Rotation Sensing**|Nalinikanta Pradhan et.al.|[2311.15226](http://arxiv.org/abs/2311.15226)|null|
 |**2023-11-24**|**Multiple superconducting phases driven by pressure in the topological insulator GeSb4Te7**|W. Zhou et.al.|[2311.14472](http://arxiv.org/abs/2311.14472)|null|
 |**2023-11-24**|**Effect of the depolarizing field on the domain structure of an improper ferroelectric**|Aaron Merlin Müller et.al.|[2311.14429](http://arxiv.org/abs/2311.14429)|null|
 |**2023-11-23**|**Cosmic string influence on a 2D hydrogen atom and its relationship with the Rytova-Keldysh logarithmic approximation in semiconductors**|Frankbelson dos S. Azevedo et.al.|[2311.14144](http://arxiv.org/abs/2311.14144)|null|
