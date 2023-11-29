@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Gauging Non-Invertible Symmetries: Topological Interfaces and Generalized Orbifold Groupoid in 2d QFT**|Oleksandr Diatlyk et.al.|[2311.17044](http://arxiv.org/abs/2311.17044)|null|
+|**2023-11-28**|**Bulk-Measurement-Induced Boundary Phase Transition in Toric Code and Gauge-Higgs Model**|Yoshihito Kuno et.al.|[2311.16651](http://arxiv.org/abs/2311.16651)|null|
+|**2023-11-27**|**Entanglement of Gauge Theories: from the Toric Code to the $\mathbb{Z}_2$ Lattice Gauge Higgs Model**|Wen-Tao Xu et.al.|[2311.16235](http://arxiv.org/abs/2311.16235)|null|
+|**2023-11-27**|**Density wave halo around anyons in fractional quantum anomalous hall states**|Xue-Yang Song et.al.|[2311.16216](http://arxiv.org/abs/2311.16216)|null|
 |**2023-11-27**|**Is the Anti-Pfaffian a PH-Pfaffian Topological Order State?**|Jian Yang et.al.|[2311.16039](http://arxiv.org/abs/2311.16039)|null|
 |**2023-11-27**|**Signed Real Hurwitz numbers**|Thomas Guidoni et.al.|[2311.16032](http://arxiv.org/abs/2311.16032)|null|
 |**2023-11-27**|**Optically Induced Monopoles, Knots, and Skyrmions in Quantum Gases**|Toni Annala et.al.|[2311.15972](http://arxiv.org/abs/2311.15972)|null|
