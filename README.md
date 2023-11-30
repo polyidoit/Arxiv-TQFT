@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Exact and approximate solutions for elastic interactions in a nematic liquid crystal**|Thomas G. J. Chandler et.al.|[2311.17708](http://arxiv.org/abs/2311.17708)|null|
+|**2023-11-29**|**Topological entanglement entropy, boundary defects, and electric-magnetic duality**|Yingcheng Li et.al.|[2311.17569](http://arxiv.org/abs/2311.17569)|null|
 |**2023-11-28**|**Gauging Non-Invertible Symmetries: Topological Interfaces and Generalized Orbifold Groupoid in 2d QFT**|Oleksandr Diatlyk et.al.|[2311.17044](http://arxiv.org/abs/2311.17044)|null|
 |**2023-11-28**|**Bulk-Measurement-Induced Boundary Phase Transition in Toric Code and Gauge-Higgs Model**|Yoshihito Kuno et.al.|[2311.16651](http://arxiv.org/abs/2311.16651)|null|
 |**2023-11-27**|**Entanglement of Gauge Theories: from the Toric Code to the $\mathbb{Z}_2$ Lattice Gauge Higgs Model**|Wen-Tao Xu et.al.|[2311.16235](http://arxiv.org/abs/2311.16235)|null|
