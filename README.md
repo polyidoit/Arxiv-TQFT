@@ -10,10 +10,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Edge modes, extended TQFT, and measurement based quantum computation**|Gabriel Wong et.al.|[2312.00605](http://arxiv.org/abs/2312.00605)|null|
 |**2023-11-30**|**Duality and Stacking of Bosonic and Fermionic SPT Phases**|Alex Turzillo et.al.|[2311.18782](http://arxiv.org/abs/2311.18782)|null|
 |**2023-11-30**|**Efficient Preparation of Nonabelian Topological Orders in the Doubled Hilbert Space**|Shang Liu et.al.|[2311.18497](http://arxiv.org/abs/2311.18497)|null|
 |**2023-11-29**|**Exact and approximate solutions for elastic interactions in a nematic liquid crystal**|Thomas G. J. Chandler et.al.|[2311.17708](http://arxiv.org/abs/2311.17708)|null|
-|**2023-11-30**|**Topological entanglement entropy, boundary defects, and electric-magnetic duality**|Yingcheng Li et.al.|[2311.17569](http://arxiv.org/abs/2311.17569)|null|
+|**2023-12-01**|**Characterizing the ambiguity in topological entanglement entropy**|Yingcheng Li et.al.|[2311.17569](http://arxiv.org/abs/2311.17569)|null|
 |**2023-11-28**|**Gauging Non-Invertible Symmetries: Topological Interfaces and Generalized Orbifold Groupoid in 2d QFT**|Oleksandr Diatlyk et.al.|[2311.17044](http://arxiv.org/abs/2311.17044)|null|
 |**2023-11-28**|**Bulk-Measurement-Induced Boundary Phase Transition in Toric Code and Gauge-Higgs Model**|Yoshihito Kuno et.al.|[2311.16651](http://arxiv.org/abs/2311.16651)|null|
 |**2023-11-27**|**Entanglement of Gauge Theories: from the Toric Code to the $\mathbb{Z}_2$ Lattice Gauge Higgs Model**|Wen-Tao Xu et.al.|[2311.16235](http://arxiv.org/abs/2311.16235)|null|
