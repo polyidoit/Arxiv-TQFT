@@ -10,6 +10,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Swampland Constraints on the SymTFT of Supergravity**|Dewi S. W. Gould et.al.|[2312.02131](http://arxiv.org/abs/2312.02131)|null|
+|**2023-12-04**|**The evaluation of graphs on surfaces for state-sum models with defects**|Julian Farnsteiner et.al.|[2312.01946](http://arxiv.org/abs/2312.01946)|null|
+|**2023-12-04**|**Vacuum energy, temperature corrections and heat kernel coefficients in $(D + 1)$ -dimensional spacetimes with nontrivial topology**|Herondy Mota et.al.|[2312.01909](http://arxiv.org/abs/2312.01909)|null|
+|**2023-12-03**|**Topological defect formation in a phase transition with tunable order**|Fumika Suzuki et.al.|[2312.01259](http://arxiv.org/abs/2312.01259)|null|
+|**2023-12-02**|**Interplay of topology and antiferromagnetic order in two-dimensional van der Waals crystals of (NixFe1-x)2P2S6**|N. Khan et.al.|[2312.01098](http://arxiv.org/abs/2312.01098)|null|
+|**2023-12-01**|**Modular extension of topological orders from congruence representations**|Donghae Seo et.al.|[2312.00868](http://arxiv.org/abs/2312.00868)|null|
+|**2023-12-01**|**From Spin States to Socially Integrated Ising Models: Proposed Applications of Graph States, Stabilizer States, Toric States to Opinion Dynamics**|Yasuko Kawahata et.al.|[2312.00862](http://arxiv.org/abs/2312.00862)|null|
 |**2023-12-01**|**Edge modes, extended TQFT, and measurement based quantum computation**|Gabriel Wong et.al.|[2312.00605](http://arxiv.org/abs/2312.00605)|null|
 |**2023-11-30**|**Duality and Stacking of Bosonic and Fermionic SPT Phases**|Alex Turzillo et.al.|[2311.18782](http://arxiv.org/abs/2311.18782)|null|
 |**2023-11-30**|**Efficient Preparation of Nonabelian Topological Orders in the Doubled Hilbert Space**|Shang Liu et.al.|[2311.18497](http://arxiv.org/abs/2311.18497)|null|
