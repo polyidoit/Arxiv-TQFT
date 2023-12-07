@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**On the methodological shortcomings in the Wide Binary Gravity test of Banik et al. 2024**|X. Hernandez et.al.|[2312.03162](http://arxiv.org/abs/2312.03162)|null|
 |**2023-12-04**|**Engineering a High Spin Chern-Number Insulator in Epitaxial Sb Monolayer**|Jacob Cook et.al.|[2312.02316](http://arxiv.org/abs/2312.02316)|null|
 |**2023-12-04**|**Swampland Constraints on the SymTFT of Supergravity**|Dewi S. W. Gould et.al.|[2312.02131](http://arxiv.org/abs/2312.02131)|null|
 |**2023-12-04**|**The evaluation of graphs on surfaces for state-sum models with defects**|Julian Farnsteiner et.al.|[2312.01946](http://arxiv.org/abs/2312.01946)|null|
