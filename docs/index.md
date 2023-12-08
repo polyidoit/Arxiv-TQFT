@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Gauge symmetry of excited states in projected entangled-pair state simulations**|Yi Tan et.al.|[2312.04555](http://arxiv.org/abs/2312.04555)|null|
+|**2023-12-07**|**Interface-Induced Superconductivity in Magnetic Topological Insulator-Iron Chalcogenide Heterostructures**|Hemian Yi et.al.|[2312.04353](http://arxiv.org/abs/2312.04353)|null|
+|**2023-12-07**|**Elasticity tunes mechanical stress localization around active topological defects**|Lasse Bonn et.al.|[2312.04309](http://arxiv.org/abs/2312.04309)|null|
 |**2023-12-05**|**On the methodological shortcomings in the Wide Binary Gravity test of Banik et al. 2024**|X. Hernandez et.al.|[2312.03162](http://arxiv.org/abs/2312.03162)|null|
 |**2023-12-04**|**Engineering a High Spin Chern-Number Insulator in Epitaxial Sb Monolayer**|Jacob Cook et.al.|[2312.02316](http://arxiv.org/abs/2312.02316)|null|
 |**2023-12-04**|**Swampland Constraints on the SymTFT of Supergravity**|Dewi S. W. Gould et.al.|[2312.02131](http://arxiv.org/abs/2312.02131)|null|
