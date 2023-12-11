@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Manipulating Topological Properties in Bi $_2$Se$_3$ /BiSe/TMDC Heterostructures with Interface Charge Transfer**|Xuance Jiang et.al.|[2312.05112](http://arxiv.org/abs/2312.05112)|null|
+|**2023-12-08**|**Relative field theories via relative dualizability**|Claudia Scheimbauer et.al.|[2312.05051](http://arxiv.org/abs/2312.05051)|null|
+|**2023-12-08**|**Detecting defect dynamics in relativistic field theories far from equilibrium using topological data analysis**|Viktoria Noel et.al.|[2312.04959](http://arxiv.org/abs/2312.04959)|null|
+|**2023-12-07**|**Decoherence through Ancilla Anyon Reservoirs**|Nayan Myerson-Jain et.al.|[2312.04638](http://arxiv.org/abs/2312.04638)|null|
+|**2023-12-07**|**A holographic view of topological stabilizer codes**|Thomas Schuster et.al.|[2312.04617](http://arxiv.org/abs/2312.04617)|null|
 |**2023-12-07**|**Gauge symmetry of excited states in projected entangled-pair state simulations**|Yi Tan et.al.|[2312.04555](http://arxiv.org/abs/2312.04555)|null|
 |**2023-12-07**|**Interface-Induced Superconductivity in Magnetic Topological Insulator-Iron Chalcogenide Heterostructures**|Hemian Yi et.al.|[2312.04353](http://arxiv.org/abs/2312.04353)|null|
 |**2023-12-07**|**Elasticity tunes mechanical stress localization around active topological defects**|Lasse Bonn et.al.|[2312.04309](http://arxiv.org/abs/2312.04309)|null|
