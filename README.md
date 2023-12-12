@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Alterfold Topological Quantum Field Theory**|Zhengwei Liu et.al.|[2312.06477](http://arxiv.org/abs/2312.06477)|null|
+|**2023-12-11**|**Thermodynamic Topology of $D=4,5$ Horava Lifshitz Black Hole in Two Ensembles**|Bidyut Hazarika et.al.|[2312.06324](http://arxiv.org/abs/2312.06324)|null|
 |**2023-12-08**|**Manipulating Topological Properties in Bi $_2$Se$_3$ /BiSe/TMDC Heterostructures with Interface Charge Transfer**|Xuance Jiang et.al.|[2312.05112](http://arxiv.org/abs/2312.05112)|null|
 |**2023-12-08**|**Relative field theories via relative dualizability**|Claudia Scheimbauer et.al.|[2312.05051](http://arxiv.org/abs/2312.05051)|null|
 |**2023-12-08**|**Detecting defect dynamics in relativistic field theories far from equilibrium using topological data analysis**|Viktoria Noel et.al.|[2312.04959](http://arxiv.org/abs/2312.04959)|null|
