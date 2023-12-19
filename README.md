@@ -1,4 +1,4 @@
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Exposing the odd-parity superconductivity in CeRh $_2$As$_2$ with hydrostatic pressure**|Meike Pfeiffer et.al.|[2312.09729](http://arxiv.org/abs/2312.09729)|null|
+|**2023-12-14**|**Non-invertible symmetry-protected topological order in a group-based cluster state**|Christopher Fechisin et.al.|[2312.09272](http://arxiv.org/abs/2312.09272)|null|
 |**2023-12-14**|**Anomalies of Average Symmetries: Entanglement and Open Quantum Systems**|Po-Shen Hsin et.al.|[2312.09074](http://arxiv.org/abs/2312.09074)|null|
 |**2023-12-14**|**Melting of unidirectional charge density waves across twin domain boundaries in GdTe $_{3}$**|Sanghun Lee et.al.|[2312.08986](http://arxiv.org/abs/2312.08986)|null|
 |**2023-12-13**|**Majorana modes in striped two-dimensional inhomogeneous topological superconductors**|Pasquale Marra et.al.|[2312.08439](http://arxiv.org/abs/2312.08439)|null|
@@ -120,5 +122,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#Updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231219>back to top</a>)</p>
 
