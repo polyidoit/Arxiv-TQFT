@@ -10,7 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-15**|**Exposing the odd-parity superconductivity in CeRh $_2$As$_2$ with hydrostatic pressure**|Meike Pfeiffer et.al.|[2312.09729](http://arxiv.org/abs/2312.09729)|null|
+|**2023-12-17**|**Nernst Sign-Reversal in the Hexatic Vortex Phase of Weakly Disordered a-MoGe Thin Films**|Y. Wu et.al.|[2312.10805](http://arxiv.org/abs/2312.10805)|null|
+|**2023-12-18**|**Exposing the odd-parity superconductivity in CeRh $_2$As$_2$ with hydrostatic pressure**|Meike Pfeiffer et.al.|[2312.09729](http://arxiv.org/abs/2312.09729)|null|
 |**2023-12-14**|**Non-invertible symmetry-protected topological order in a group-based cluster state**|Christopher Fechisin et.al.|[2312.09272](http://arxiv.org/abs/2312.09272)|null|
 |**2023-12-14**|**Anomalies of Average Symmetries: Entanglement and Open Quantum Systems**|Po-Shen Hsin et.al.|[2312.09074](http://arxiv.org/abs/2312.09074)|null|
 |**2023-12-14**|**Melting of unidirectional charge density waves across twin domain boundaries in GdTe $_{3}$**|Sanghun Lee et.al.|[2312.08986](http://arxiv.org/abs/2312.08986)|null|
