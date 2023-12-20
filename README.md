@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**Universal structure of measurement-induced information in many-body ground states**|Zihan Cheng et.al.|[2312.11615](http://arxiv.org/abs/2312.11615)|null|
+|**2023-12-18**|**Extracting topological orders of generalized Pauli stabilizer codes in two dimensions**|Zijian Liang et.al.|[2312.11170](http://arxiv.org/abs/2312.11170)|null|
 |**2023-12-17**|**Nernst Sign-Reversal in the Hexatic Vortex Phase of Weakly Disordered a-MoGe Thin Films**|Y. Wu et.al.|[2312.10805](http://arxiv.org/abs/2312.10805)|null|
 |**2023-12-18**|**Exposing the odd-parity superconductivity in CeRh $_2$As$_2$ with hydrostatic pressure**|Meike Pfeiffer et.al.|[2312.09729](http://arxiv.org/abs/2312.09729)|null|
 |**2023-12-14**|**Non-invertible symmetry-protected topological order in a group-based cluster state**|Christopher Fechisin et.al.|[2312.09272](http://arxiv.org/abs/2312.09272)|null|
