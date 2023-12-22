@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Pseudo-spectral Landau-Lifshitz description of magnetization dynamics**|Kyle Rockwell et.al.|[2312.14068](http://arxiv.org/abs/2312.14068)|null|
+|**2023-12-21**|**Beyond Operator Systems**|Gemma De les Coves et.al.|[2312.13983](http://arxiv.org/abs/2312.13983)|null|
+|**2023-12-20**|**Ultraclean two-dimensional hole systems with mobilities exceeding 10 $^7$ cm$^2$ /Vs**|Adbhut Gupta et.al.|[2312.13491](http://arxiv.org/abs/2312.13491)|null|
+|**2023-12-20**|**Bosonization and Anomaly Indicators of (2+1)-D Fermionic Topological Orders**|Arun Debray et.al.|[2312.13341](http://arxiv.org/abs/2312.13341)|null|
 |**2023-12-18**|**Universal structure of measurement-induced information in many-body ground states**|Zihan Cheng et.al.|[2312.11615](http://arxiv.org/abs/2312.11615)|null|
 |**2023-12-18**|**Extracting topological orders of generalized Pauli stabilizer codes in two dimensions**|Zijian Liang et.al.|[2312.11170](http://arxiv.org/abs/2312.11170)|null|
 |**2023-12-17**|**Nernst Sign-Reversal in the Hexatic Vortex Phase of Weakly Disordered a-MoGe Thin Films**|Y. Wu et.al.|[2312.10805](http://arxiv.org/abs/2312.10805)|null|
