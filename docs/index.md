@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Family Puzzle, Framing Topology, $c_-=24$ and 3(E8)$_1$ Conformal Field Theories: 48/16 = 45/15 = 24/8 =3**|Juven Wang et.al.|[2312.14928](http://arxiv.org/abs/2312.14928)|null|
+|**2023-12-22**|**Line defects in nematic liquid crystals as charged superelastic rods with negative twist--stretch coupling**|Shengzhu Yi et.al.|[2312.14735](http://arxiv.org/abs/2312.14735)|null|
 |**2023-12-21**|**Pseudo-spectral Landau-Lifshitz description of magnetization dynamics**|Kyle Rockwell et.al.|[2312.14068](http://arxiv.org/abs/2312.14068)|null|
 |**2023-12-21**|**Beyond Operator Systems**|Gemma De les Coves et.al.|[2312.13983](http://arxiv.org/abs/2312.13983)|null|
 |**2023-12-20**|**Ultraclean two-dimensional hole systems with mobilities exceeding 10 $^7$ cm$^2$ /Vs**|Adbhut Gupta et.al.|[2312.13491](http://arxiv.org/abs/2312.13491)|null|
