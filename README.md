@@ -1,4 +1,4 @@
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -131,5 +131,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
