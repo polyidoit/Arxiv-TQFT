@@ -1,4 +1,4 @@
-## Updated on 2023.12.27
+## Updated on 2023.12.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -10,6 +10,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**Large composite fermion effective mass at filling factor 5/2**|M. Petrescu et.al.|[2312.16135](http://arxiv.org/abs/2312.16135)|null|
+|**2023-12-26**|**Collisions of Majorana Zero Modes**|Liang-Liang Wang et.al.|[2312.15878](http://arxiv.org/abs/2312.15878)|null|
+|**2023-12-24**|**Inverse Measurements in Active Nematics**|Aleix Boquet-Pujadas et.al.|[2312.15553](http://arxiv.org/abs/2312.15553)|null|
+|**2023-12-24**|**Bridging Rokhsar-Kivelson Type and Generic Quantum Phase Transitions via Thermofield Double States**|Wen-Tao Xu et.al.|[2312.15530](http://arxiv.org/abs/2312.15530)|null|
+|**2023-12-24**|**Quantum-criticality in twisted bi-layer graphene**|C. M. Varma et.al.|[2312.15410](http://arxiv.org/abs/2312.15410)|null|
 |**2023-12-22**|**Family Puzzle, Framing Topology, $c_-=24$ and 3(E8)$_1$ Conformal Field Theories: 48/16 = 45/15 = 24/8 =3**|Juven Wang et.al.|[2312.14928](http://arxiv.org/abs/2312.14928)|null|
 |**2023-12-22**|**Line defects in nematic liquid crystals as charged superelastic rods with negative twist--stretch coupling**|Shengzhu Yi et.al.|[2312.14735](http://arxiv.org/abs/2312.14735)|null|
 |**2023-12-21**|**Pseudo-spectral Landau-Lifshitz description of magnetization dynamics**|Kyle Rockwell et.al.|[2312.14068](http://arxiv.org/abs/2312.14068)|null|
@@ -131,5 +136,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#Updated-on-20231227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
 
