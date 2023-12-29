@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**Tunable even- and odd-denominator fractional quantum Hall states in trilayer graphene**|Yiwei Chen et.al.|[2312.17204](http://arxiv.org/abs/2312.17204)|null|
+|**2023-12-28**|**The emergence of Einstein gravity from topological supergravity in $3+1$ D**|Tianyao Fang et.al.|[2312.17196](http://arxiv.org/abs/2312.17196)|null|
+|**2023-12-28**|**SymTFT out of equilibrium: from time crystals to braided drives and Floquet codes**|Vedant Motamarri et.al.|[2312.17176](http://arxiv.org/abs/2312.17176)|null|
+|**2023-12-28**|**Magneto-Crystalline Composite Topological Defects and Half-Hopfions**|Sahal Kaushik et.al.|[2312.17083](http://arxiv.org/abs/2312.17083)|null|
+|**2023-12-28**|**Orientational order and topological defects in a dilute solutions of rodlike polymers at low Reynolds number**|Leonardo Puggioni et.al.|[2312.16873](http://arxiv.org/abs/2312.16873)|null|
+|**2023-12-27**|**Universal topological quantum computing via double-braiding in SU(2) Witten-Chern-Simons theory**|Adrian L. Kaufmann et.al.|[2312.16747](http://arxiv.org/abs/2312.16747)|null|
+|**2023-12-27**|**Connectomes as Holographic States**|Dmitry Melnikov et.al.|[2312.16683](http://arxiv.org/abs/2312.16683)|null|
+|**2023-12-27**|**Passive defect driven morphogenesis in nematic membranes**|D. J. G. Pearce et.al.|[2312.16654](http://arxiv.org/abs/2312.16654)|null|
+|**2023-12-27**|**Fractional-statistics-induced entanglement from Andreev-like tunneling**|Gu Zhang et.al.|[2312.16556](http://arxiv.org/abs/2312.16556)|null|
+|**2023-12-27**|**Dynamics of a Nonequilibrium Discontinuous Quantum Phase Transition in a Spinor Bose-Einstein Condensate**|Matthew T. Wheeler et.al.|[2312.16555](http://arxiv.org/abs/2312.16555)|null|
 |**2023-12-26**|**Large composite fermion effective mass at filling factor 5/2**|M. Petrescu et.al.|[2312.16135](http://arxiv.org/abs/2312.16135)|null|
 |**2023-12-26**|**Collisions of Majorana Zero Modes**|Liang-Liang Wang et.al.|[2312.15878](http://arxiv.org/abs/2312.15878)|null|
 |**2023-12-24**|**Inverse Measurements in Active Nematics**|Aleix Boquet-Pujadas et.al.|[2312.15553](http://arxiv.org/abs/2312.15553)|null|
