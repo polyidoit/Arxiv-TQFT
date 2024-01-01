@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Online minimum search for Brownian motion and the Cauchy process: Multiple approache**|Shannon Starr et.al.|[2312.17705](http://arxiv.org/abs/2312.17705)|null|
+|**2023-12-28**|**The Club Sandwich: Gapless Phases and Phase Transitions with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2312.17322](http://arxiv.org/abs/2312.17322)|null|
 |**2023-12-28**|**Tunable even- and odd-denominator fractional quantum Hall states in trilayer graphene**|Yiwei Chen et.al.|[2312.17204](http://arxiv.org/abs/2312.17204)|null|
 |**2023-12-28**|**The emergence of Einstein gravity from topological supergravity in $3+1$ D**|Tianyao Fang et.al.|[2312.17196](http://arxiv.org/abs/2312.17196)|null|
 |**2023-12-28**|**SymTFT out of equilibrium: from time crystals to braided drives and Floquet codes**|Vedant Motamarri et.al.|[2312.17176](http://arxiv.org/abs/2312.17176)|null|
