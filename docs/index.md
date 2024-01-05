@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**asimulation: Domain formation and impact on observables in resolved cosmological simulations of the (a)symmetron**|Øyvind Christiansen et.al.|[2401.02410](http://arxiv.org/abs/2401.02410)|null|
+|**2024-01-04**|**Gravitational waves from dark domain walls**|Øyvind Christiansen et.al.|[2401.02409](http://arxiv.org/abs/2401.02409)|null|
+|**2024-01-04**|**Tunning the number of chiral edge channels in a fixed quantum anomalous Hall system**|Peng Deng et.al.|[2401.02295](http://arxiv.org/abs/2401.02295)|null|
+|**2024-01-04**|**Robustness of topological order against disorder**|Lucas A. Oliveira et.al.|[2401.02270](http://arxiv.org/abs/2401.02270)|null|
 |**2024-01-03**|**Proposal of detecting topological transition of quantum braiding in three-fold degenerate eigen subspace**|Zhi-Wei Han et.al.|[2401.01703](http://arxiv.org/abs/2401.01703)|null|
 |**2024-01-02**|**Lattice realization of the axial $U(1)$ non-invertible symmetry**|Yamato Honda et.al.|[2401.01331](http://arxiv.org/abs/2401.01331)|null|
 |**2023-12-31**|**Fault-tolerant quantum computation by hybrid qubits with bosonic cat-code and single photons**|Jaehak Lee et.al.|[2401.00450](http://arxiv.org/abs/2401.00450)|null|
