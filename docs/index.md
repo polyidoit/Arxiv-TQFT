@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Exact results on finite size corrections for surface codes tailored to biased noise**|Yinzi Xiao et.al.|[2401.04008](http://arxiv.org/abs/2401.04008)|null|
+|**2024-01-08**|**A categorification for the partial-dual genus polynomial**|Zhiyun Cheng et.al.|[2401.03632](http://arxiv.org/abs/2401.03632)|null|
+|**2024-01-06**|**Cavity magnonics with domain walls in insulating ferromagnetic wires**|Mircea Trif et.al.|[2401.03164](http://arxiv.org/abs/2401.03164)|null|
 |**2024-01-05**|**A braided $(\infty,2)$ -category of Soergel bimodules**|Yu Leon Liu et.al.|[2401.02956](http://arxiv.org/abs/2401.02956)|null|
 |**2024-01-04**|**On topological order in higher composites**|Egor Babaev et.al.|[2401.02551](http://arxiv.org/abs/2401.02551)|null|
 |**2024-01-04**|**asimulation: Domain formation and impact on observables in resolved cosmological simulations of the (a)symmetron**|Øyvind Christiansen et.al.|[2401.02410](http://arxiv.org/abs/2401.02410)|**[link](https://github.com/oyvach/asevolution)**|
