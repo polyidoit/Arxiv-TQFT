@@ -7,11 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Discovery of a hybrid topological quantum state in an elemental solid**|Md Shafayat Hossain et.al.|[2401.04845](http://arxiv.org/abs/2401.04845)|null|
 |**2024-01-09**|**Disorder-induced topological superconductivity in a spherical quantum-Hall--superconductor hybrid**|Koji Kudo et.al.|[2401.04426](http://arxiv.org/abs/2401.04426)|null|
 |**2024-01-09**|**Controlling chaos: Periodic defect braiding in active nematics confined to a cardioid**|Fereshteh L. Memarian et.al.|[2401.04363](http://arxiv.org/abs/2401.04363)|null|
 |**2024-01-09**|**Long-lived topological time-crystalline order on a quantum processor**|Liang Xiang et.al.|[2401.04333](http://arxiv.org/abs/2401.04333)|null|
 |**2024-01-08**|**The Odd Fermion**|Daniel S. Freed et.al.|[2401.04223](http://arxiv.org/abs/2401.04223)|null|
-|**2024-01-08**|**Exact results on finite size corrections for surface codes tailored to biased noise**|Yinzi Xiao et.al.|[2401.04008](http://arxiv.org/abs/2401.04008)|null|
+|**2024-01-08**|**Exact results on finite size corrections for surface codes tailored to biased noise**|Yinzi Xiao et.al.|[2401.04008](http://arxiv.org/abs/2401.04008)|**[link](https://github.com/yinzi-xiao/finite-size-correction-for-surface-code)**|
 |**2024-01-08**|**A categorification for the partial-dual genus polynomial**|Zhiyun Cheng et.al.|[2401.03632](http://arxiv.org/abs/2401.03632)|null|
 |**2024-01-06**|**Cavity magnonics with domain walls in insulating ferromagnetic wires**|Mircea Trif et.al.|[2401.03164](http://arxiv.org/abs/2401.03164)|null|
 |**2024-01-05**|**A braided $(\infty,2)$ -category of Soergel bimodules**|Yu Leon Liu et.al.|[2401.02956](http://arxiv.org/abs/2401.02956)|null|
