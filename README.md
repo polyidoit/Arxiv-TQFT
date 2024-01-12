@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Topological defects in multi-layered swarming bacteria**|Victor Yashunsky et.al.|[2401.05560](http://arxiv.org/abs/2401.05560)|null|
+|**2024-01-10**|**Static and fluctuating zigzag order, and possible signatures of Kitaev physics, in torque measurements of $α$-RuCl${_3}$**|Shaun Froude-Powers et.al.|[2401.05546](http://arxiv.org/abs/2401.05546)|null|
 |**2024-01-09**|**Discovery of a hybrid topological quantum state in an elemental solid**|Md Shafayat Hossain et.al.|[2401.04845](http://arxiv.org/abs/2401.04845)|null|
 |**2024-01-09**|**Disorder-induced topological superconductivity in a spherical quantum-Hall--superconductor hybrid**|Koji Kudo et.al.|[2401.04426](http://arxiv.org/abs/2401.04426)|null|
 |**2024-01-09**|**Controlling chaos: Periodic defect braiding in active nematics confined to a cardioid**|Fereshteh L. Memarian et.al.|[2401.04363](http://arxiv.org/abs/2401.04363)|null|
