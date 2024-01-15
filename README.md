@@ -32,7 +32,7 @@
 |**2023-12-31**|**Geometric BV for twisted Courant sigma models and the BRST power finesse**|Athanasios Chatzistavrakidis et.al.|[2401.00425](http://arxiv.org/abs/2401.00425)|null|
 |**2023-12-31**|**From Fractional Quantum Anomalous Hall Smectics to Polar Smectic Metals: Nontrivial Interplay Between Electronic Liquid Crystal Order and Topological Order in Correlated Topological Flat Bands**|Hongyu Lu et.al.|[2401.00363](http://arxiv.org/abs/2401.00363)|null|
 |**2023-12-30**|**Coarsening of topological defects in 2D polar active matter**|Soumyadeep Mondal et.al.|[2401.00203](http://arxiv.org/abs/2401.00203)|null|
-|**2023-12-29**|**Online minimum search for Brownian motion and the Cauchy process: Multiple approache**|Shannon Starr et.al.|[2312.17705](http://arxiv.org/abs/2312.17705)|null|
+|**2023-12-29**|**Online minimum search for Brownian motion and the Cauchy process: Multiple approache**|Shannon Starr et.al.|[2312.17705](http://arxiv.org/abs/2312.17705)|**[link](https://github.com/erikwu1/onlinesearchmethods)**|
 |**2023-12-28**|**The Club Sandwich: Gapless Phases and Phase Transitions with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2312.17322](http://arxiv.org/abs/2312.17322)|null|
 |**2023-12-28**|**Tunable even- and odd-denominator fractional quantum Hall states in trilayer graphene**|Yiwei Chen et.al.|[2312.17204](http://arxiv.org/abs/2312.17204)|null|
 |**2023-12-28**|**The emergence of Einstein gravity from topological supergravity in $3+1$ D**|Tianyao Fang et.al.|[2312.17196](http://arxiv.org/abs/2312.17196)|null|
