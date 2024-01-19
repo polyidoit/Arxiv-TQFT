@@ -10,6 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**Interferometric Single-Shot Parity Measurement in an InAs-Al Hybrid Device**|Morteza Aghaee et.al.|[2401.09549](http://arxiv.org/abs/2401.09549)|null|
+|**2024-01-17**|**On the Holographic Dual of a Topological Symmetry Operator**|Jonathan J. Heckman et.al.|[2401.09538](http://arxiv.org/abs/2401.09538)|null|
+|**2024-01-17**|**Universal Vortex Statistics and Stochastic Geometry of Bose-Einstein Condensation**|Mithun Thudiyangal et.al.|[2401.09525](http://arxiv.org/abs/2401.09525)|null|
 |**2024-01-16**|**Floquet Flux Attachment in Cold Atomic Systems**|Helia Kamal et.al.|[2401.08754](http://arxiv.org/abs/2401.08754)|null|
 |**2024-01-15**|**Quantum state systems that count perfect matchings**|Scott Baldridge et.al.|[2401.07939](http://arxiv.org/abs/2401.07939)|null|
 |**2024-01-15**|**Chiral spin liquid and quantum phase diagram of spin- $1/2$ $J_1$-$J_2$-$J_χ$ model on the square lattice**|Xiao-Tian Zhang et.al.|[2401.07461](http://arxiv.org/abs/2401.07461)|null|
