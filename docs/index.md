@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Multipole and fracton topological order via gauging foliated SPT phases**|Hiromi Ebisu et.al.|[2401.10677](http://arxiv.org/abs/2401.10677)|null|
+|**2024-01-19**|**3d TQFTs and 3-manifold invariants**|Kursat Sozer et.al.|[2401.10587](http://arxiv.org/abs/2401.10587)|null|
 |**2024-01-17**|**Interferometric Single-Shot Parity Measurement in an InAs-Al Hybrid Device**|Morteza Aghaee et.al.|[2401.09549](http://arxiv.org/abs/2401.09549)|null|
 |**2024-01-17**|**On the Holographic Dual of a Topological Symmetry Operator**|Jonathan J. Heckman et.al.|[2401.09538](http://arxiv.org/abs/2401.09538)|null|
 |**2024-01-17**|**Universal Vortex Statistics and Stochastic Geometry of Bose-Einstein Condensation**|Mithun Thudiyangal et.al.|[2401.09525](http://arxiv.org/abs/2401.09525)|null|
