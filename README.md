@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Microscopic theory of field tuned topological transitions in the Kitaev honeycomb model**|Jagannath Das et.al.|[2401.12750](http://arxiv.org/abs/2401.12750)|null|
+|**2024-01-23**|**Non-Reciprocal Interactions Reshape Topological Defect Annihilation**|Ylann Rouzaire et.al.|[2401.12637](http://arxiv.org/abs/2401.12637)|null|
+|**2024-01-23**|**Dynamics of quantum discommensurations in the Frenkel-Kontorova chain**|Oksana Chelpanova et.al.|[2401.12614](http://arxiv.org/abs/2401.12614)|null|
+|**2024-01-22**|**Non-invertible symmetries and LSM-type constraints on a tensor product Hilbert space**|Nathan Seiberg et.al.|[2401.12281](http://arxiv.org/abs/2401.12281)|null|
 |**2024-01-21**|**Topological superconductors in trapped-ion system and their Floquet engineering**|Ming-Jian Gao et.al.|[2401.11510](http://arxiv.org/abs/2401.11510)|null|
 |**2024-01-20**|**Radiation of a short linear antenna above a topologically insulating half-space**|M. Ibarra-Meneses et.al.|[2401.11285](http://arxiv.org/abs/2401.11285)|null|
 |**2024-01-19**|**Mixed state topological order parameters for symmetry protected fermion matter**|Ze-Min Huang et.al.|[2401.10993](http://arxiv.org/abs/2401.10993)|null|
