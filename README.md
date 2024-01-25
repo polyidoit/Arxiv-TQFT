@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Kibble-Zurek mechanism and errors of gapped quantum phases**|Amit Jamadagni et.al.|[2401.13625](http://arxiv.org/abs/2401.13625)|null|
+|**2024-01-24**|**Metastable strings and grand unification**|Wilfried Buchmuller et.al.|[2401.13333](http://arxiv.org/abs/2401.13333)|null|
 |**2024-01-23**|**Microscopic theory of field tuned topological transitions in the Kitaev honeycomb model**|Jagannath Das et.al.|[2401.12750](http://arxiv.org/abs/2401.12750)|null|
 |**2024-01-23**|**Non-Reciprocal Interactions Reshape Topological Defect Annihilation**|Ylann Rouzaire et.al.|[2401.12637](http://arxiv.org/abs/2401.12637)|null|
 |**2024-01-23**|**Dynamics of quantum discommensurations in the Frenkel-Kontorova chain**|Oksana Chelpanova et.al.|[2401.12614](http://arxiv.org/abs/2401.12614)|null|
