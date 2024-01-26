@@ -10,10 +10,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Ribbon operators in the Semidual lattice code model**|Fred Soglohu et.al.|[2401.13774](http://arxiv.org/abs/2401.13774)|null|
+|**2024-01-24**|**Rainbow gravity effects on quantum dynamics of scalar and oscillator fields in a topological defect cosmological space-time**|Faizuddin Ahmed et.al.|[2401.13718](http://arxiv.org/abs/2401.13718)|null|
 |**2024-01-24**|**Kibble-Zurek mechanism and errors of gapped quantum phases**|Amit Jamadagni et.al.|[2401.13625](http://arxiv.org/abs/2401.13625)|null|
 |**2024-01-24**|**Metastable strings and grand unification**|Wilfried Buchmuller et.al.|[2401.13333](http://arxiv.org/abs/2401.13333)|null|
 |**2024-01-23**|**Microscopic theory of field tuned topological transitions in the Kitaev honeycomb model**|Jagannath Das et.al.|[2401.12750](http://arxiv.org/abs/2401.12750)|null|
-|**2024-01-23**|**Non-Reciprocal Interactions Reshape Topological Defect Annihilation**|Ylann Rouzaire et.al.|[2401.12637](http://arxiv.org/abs/2401.12637)|null|
+|**2024-01-23**|**Non-Reciprocal Interactions Reshape Topological Defect Annihilation**|Ylann Rouzaire et.al.|[2401.12637](http://arxiv.org/abs/2401.12637)|**[link](https://github.com/yrouzaire/nrxy-model)**|
 |**2024-01-23**|**Dynamics of quantum discommensurations in the Frenkel-Kontorova chain**|Oksana Chelpanova et.al.|[2401.12614](http://arxiv.org/abs/2401.12614)|null|
 |**2024-01-22**|**Non-invertible symmetries and LSM-type constraints on a tensor product Hilbert space**|Nathan Seiberg et.al.|[2401.12281](http://arxiv.org/abs/2401.12281)|null|
 |**2024-01-21**|**Topological superconductors in trapped-ion system and their Floquet engineering**|Ming-Jian Gao et.al.|[2401.11510](http://arxiv.org/abs/2401.11510)|null|
