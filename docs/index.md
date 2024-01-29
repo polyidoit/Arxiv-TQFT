@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Thermodynamics of vison crystals in an anisotropic quantum spin liquid**|Ritwika Majumder et.al.|[2401.14525](http://arxiv.org/abs/2401.14525)|null|
 |**2024-01-24**|**Ribbon operators in the Semidual lattice code model**|Fred Soglohu et.al.|[2401.13774](http://arxiv.org/abs/2401.13774)|null|
 |**2024-01-24**|**Rainbow gravity effects on quantum dynamics of scalar and oscillator fields in a topological defect cosmological space-time**|Faizuddin Ahmed et.al.|[2401.13718](http://arxiv.org/abs/2401.13718)|null|
 |**2024-01-24**|**Kibble-Zurek mechanism and errors of gapped quantum phases**|Amit Jamadagni et.al.|[2401.13625](http://arxiv.org/abs/2401.13625)|null|
