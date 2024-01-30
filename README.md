@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**B-twisted Gaiotto-Witten theory and topological quantum field theory**|Niklas Garner et.al.|[2401.16192](http://arxiv.org/abs/2401.16192)|null|
+|**2024-01-29**|**Energy Localization and Topological Defect in Spherical Non-Hermitian Topolectrical Circuits**|Xizhou Shen et.al.|[2401.15908](http://arxiv.org/abs/2401.15908)|null|
+|**2024-01-28**|**On the rate of convergence of continued fraction statistics of random rationals**|Ofir David et.al.|[2401.15586](http://arxiv.org/abs/2401.15586)|null|
+|**2024-01-27**|**Soft spots of net negative topological charge directly cause the plasticity of 3D glasses**|Arabinda Bera et.al.|[2401.15359](http://arxiv.org/abs/2401.15359)|null|
 |**2024-01-25**|**Thermodynamics of vison crystals in an anisotropic quantum spin liquid**|Ritwika Majumder et.al.|[2401.14525](http://arxiv.org/abs/2401.14525)|null|
 |**2024-01-24**|**Ribbon operators in the Semidual lattice code model**|Fred Soglohu et.al.|[2401.13774](http://arxiv.org/abs/2401.13774)|null|
 |**2024-01-24**|**Rainbow gravity effects on quantum dynamics of scalar and oscillator fields in a topological defect cosmological space-time**|Faizuddin Ahmed et.al.|[2401.13718](http://arxiv.org/abs/2401.13718)|null|
