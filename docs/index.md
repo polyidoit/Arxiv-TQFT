@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Realization of fractional quantum Hall state with interacting photons**|Can Wang et.al.|[2401.17022](http://arxiv.org/abs/2401.17022)|null|
+|**2024-01-30**|**Thermodynamic topology of black Holes in f(R) gravity**|Bidyut Hazarika et.al.|[2401.16756](http://arxiv.org/abs/2401.16756)|null|
+|**2024-01-29**|**Quantum motions of scalar particles under rainbow gravity effects in spherical symmetrical Gödel-type metric with topological defects**|Faizuddin Ahmed et.al.|[2401.16466](http://arxiv.org/abs/2401.16466)|null|
 |**2024-01-29**|**B-twisted Gaiotto-Witten theory and topological quantum field theory**|Niklas Garner et.al.|[2401.16192](http://arxiv.org/abs/2401.16192)|null|
 |**2024-01-29**|**Energy Localization and Topological Defect in Spherical Non-Hermitian Topolectrical Circuits**|Xizhou Shen et.al.|[2401.15908](http://arxiv.org/abs/2401.15908)|null|
 |**2024-01-28**|**On the rate of convergence of continued fraction statistics of random rationals**|Ofir David et.al.|[2401.15586](http://arxiv.org/abs/2401.15586)|null|
