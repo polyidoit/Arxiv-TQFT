@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Phase diagram of the interacting Haldane model with spin-dependent sublattice potentials**|Can Shao et.al.|[2401.17813](http://arxiv.org/abs/2401.17813)|null|
 |**2024-01-30**|**Realization of fractional quantum Hall state with interacting photons**|Can Wang et.al.|[2401.17022](http://arxiv.org/abs/2401.17022)|null|
 |**2024-01-30**|**Thermodynamic topology of black Holes in f(R) gravity**|Bidyut Hazarika et.al.|[2401.16756](http://arxiv.org/abs/2401.16756)|null|
 |**2024-01-29**|**Quantum motions of scalar particles under rainbow gravity effects in spherical symmetrical Gödel-type metric with topological defects**|Faizuddin Ahmed et.al.|[2401.16466](http://arxiv.org/abs/2401.16466)|null|
