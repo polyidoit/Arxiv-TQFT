@@ -10,9 +10,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Mott resistive switching initiated by topological defects**|Alessandra Milloch et.al.|[2402.00747](http://arxiv.org/abs/2402.00747)|null|
+|**2024-02-01**|**An electrically pumped topological polariton laser**|Philipp Gagel et.al.|[2402.00639](http://arxiv.org/abs/2402.00639)|null|
+|**2024-02-01**|**Topological Defects as Nucleation Points of the Nematic--Isotropic Phase Transition in Liquid Crystal Shells**|Yucen Han et.al.|[2402.00552](http://arxiv.org/abs/2402.00552)|null|
+|**2024-02-01**|**Large scale zigzag pattern emerging from circulating active shakers**|Gaspard Junot et.al.|[2402.00493](http://arxiv.org/abs/2402.00493)|null|
+|**2024-01-31**|**Critical behavior of the Fredenhagen-Marcu order parameter at topological phase transitions**|Wen-Tao Xu et.al.|[2402.00127](http://arxiv.org/abs/2402.00127)|null|
 |**2024-01-31**|**Phase diagram of the interacting Haldane model with spin-dependent sublattice potentials**|Can Shao et.al.|[2401.17813](http://arxiv.org/abs/2401.17813)|null|
 |**2024-01-30**|**Realization of fractional quantum Hall state with interacting photons**|Can Wang et.al.|[2401.17022](http://arxiv.org/abs/2401.17022)|null|
-|**2024-01-30**|**Thermodynamic topology of black Holes in f(R) gravity**|Bidyut Hazarika et.al.|[2401.16756](http://arxiv.org/abs/2401.16756)|null|
+|**2024-02-01**|**Thermodynamic topology of black Holes in f(R) gravity**|Bidyut Hazarika et.al.|[2401.16756](http://arxiv.org/abs/2401.16756)|null|
 |**2024-01-29**|**Quantum motions of scalar particles under rainbow gravity effects in spherical symmetrical Gödel-type metric with topological defects**|Faizuddin Ahmed et.al.|[2401.16466](http://arxiv.org/abs/2401.16466)|null|
 |**2024-01-29**|**B-twisted Gaiotto-Witten theory and topological quantum field theory**|Niklas Garner et.al.|[2401.16192](http://arxiv.org/abs/2401.16192)|null|
 |**2024-01-29**|**Energy Localization and Topological Defect in Spherical Non-Hermitian Topolectrical Circuits**|Xizhou Shen et.al.|[2401.15908](http://arxiv.org/abs/2401.15908)|null|
