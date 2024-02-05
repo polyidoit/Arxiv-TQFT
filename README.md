@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**In pursuit of deconfined quantum criticality in Ising gauge theory entangled with single-component fermions**|Umberto Borla et.al.|[2402.00933](http://arxiv.org/abs/2402.00933)|null|
 |**2024-02-01**|**Mott resistive switching initiated by topological defects**|Alessandra Milloch et.al.|[2402.00747](http://arxiv.org/abs/2402.00747)|null|
 |**2024-02-01**|**An electrically pumped topological polariton laser**|Philipp Gagel et.al.|[2402.00639](http://arxiv.org/abs/2402.00639)|null|
 |**2024-02-01**|**Topological Defects as Nucleation Points of the Nematic--Isotropic Phase Transition in Liquid Crystal Shells**|Yucen Han et.al.|[2402.00552](http://arxiv.org/abs/2402.00552)|null|
