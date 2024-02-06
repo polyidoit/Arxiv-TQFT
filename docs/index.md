@@ -7,13 +7,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Fluidization and anomalous density fluctuations in epithelial tissues with pulsating activity**|Zhu-Qin Li et.al.|[2402.02981](http://arxiv.org/abs/2402.02981)|null|
+|**2024-02-03**|**Fingerprints of anti-Pfaffian topological order in quantum point contact transport**|Jinhong Park et.al.|[2402.02157](http://arxiv.org/abs/2402.02157)|null|
 |**2024-02-01**|**In pursuit of deconfined quantum criticality in Ising gauge theory entangled with single-component fermions**|Umberto Borla et.al.|[2402.00933](http://arxiv.org/abs/2402.00933)|null|
 |**2024-02-01**|**Mott resistive switching initiated by topological defects**|Alessandra Milloch et.al.|[2402.00747](http://arxiv.org/abs/2402.00747)|null|
 |**2024-02-01**|**An electrically pumped topological polariton laser**|Philipp Gagel et.al.|[2402.00639](http://arxiv.org/abs/2402.00639)|null|
 |**2024-02-01**|**Topological Defects as Nucleation Points of the Nematic--Isotropic Phase Transition in Liquid Crystal Shells**|Yucen Han et.al.|[2402.00552](http://arxiv.org/abs/2402.00552)|null|
 |**2024-02-01**|**Large scale zigzag pattern emerging from circulating active shakers**|Gaspard Junot et.al.|[2402.00493](http://arxiv.org/abs/2402.00493)|null|
 |**2024-01-31**|**Critical behavior of the Fredenhagen-Marcu order parameter at topological phase transitions**|Wen-Tao Xu et.al.|[2402.00127](http://arxiv.org/abs/2402.00127)|null|
-|**2024-01-31**|**Phase diagram of the interacting Haldane model with spin-dependent sublattice potentials**|Can Shao et.al.|[2401.17813](http://arxiv.org/abs/2401.17813)|null|
+|**2024-02-03**|**Phase diagram of the interacting Haldane model with spin-dependent sublattice potentials**|Can Shao et.al.|[2401.17813](http://arxiv.org/abs/2401.17813)|null|
 |**2024-01-30**|**Realization of fractional quantum Hall state with interacting photons**|Can Wang et.al.|[2401.17022](http://arxiv.org/abs/2401.17022)|null|
 |**2024-02-01**|**Thermodynamic topology of black Holes in f(R) gravity**|Bidyut Hazarika et.al.|[2401.16756](http://arxiv.org/abs/2401.16756)|null|
 |**2024-01-29**|**Quantum motions of scalar particles under rainbow gravity effects in spherical symmetrical Gödel-type metric with topological defects**|Faizuddin Ahmed et.al.|[2401.16466](http://arxiv.org/abs/2401.16466)|null|
