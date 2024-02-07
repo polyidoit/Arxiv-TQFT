@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**Non-Abelian anyons in a periodically-driven Abelian model**|Francesco Petiziol et.al.|[2402.04131](http://arxiv.org/abs/2402.04131)|null|
+|**2024-02-05**|**Entanglement asymmetry in CFT and its relation to non-topological defects**|Michele Fossati et.al.|[2402.03446](http://arxiv.org/abs/2402.03446)|null|
 |**2024-02-05**|**Fluidization and anomalous density fluctuations in epithelial tissues with pulsating activity**|Zhu-Qin Li et.al.|[2402.02981](http://arxiv.org/abs/2402.02981)|null|
 |**2024-02-03**|**Fingerprints of anti-Pfaffian topological order in quantum point contact transport**|Jinhong Park et.al.|[2402.02157](http://arxiv.org/abs/2402.02157)|null|
 |**2024-02-01**|**In pursuit of deconfined quantum criticality in Ising gauge theory entangled with single-component fermions**|Umberto Borla et.al.|[2402.00933](http://arxiv.org/abs/2402.00933)|null|
