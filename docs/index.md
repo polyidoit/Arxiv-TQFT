@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**Combinatorial 2d higher topological quantum field theory from a local cyclic $A_\infty$ algebra**|Justin Beck et.al.|[2402.04468](http://arxiv.org/abs/2402.04468)|null|
 |**2024-02-06**|**Non-Abelian anyons in a periodically-driven Abelian model**|Francesco Petiziol et.al.|[2402.04131](http://arxiv.org/abs/2402.04131)|null|
 |**2024-02-05**|**Entanglement asymmetry in CFT and its relation to non-topological defects**|Michele Fossati et.al.|[2402.03446](http://arxiv.org/abs/2402.03446)|null|
 |**2024-02-05**|**Fluidization and anomalous density fluctuations in epithelial tissues with pulsating activity**|Zhu-Qin Li et.al.|[2402.02981](http://arxiv.org/abs/2402.02981)|null|
