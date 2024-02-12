@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Anomalous thermal relaxation and pump-probe spectroscopy of 2D topologically ordered systems**|Max McGinley et.al.|[2402.06484](http://arxiv.org/abs/2402.06484)|null|
 |**2024-02-08**|**Measurements of the Low-Acceleration Gravitational Anomaly from the Normalized Velocity Profile of Gaia Wide Binary Stars and Statistical Testing of Newtonian and Milgromian Theories**|Kyu-Hyun Chae et.al.|[2402.05720](http://arxiv.org/abs/2402.05720)|null|
 |**2024-02-06**|**Combinatorial 2d higher topological quantum field theory from a local cyclic $A_\infty$ algebra**|Justin Beck et.al.|[2402.04468](http://arxiv.org/abs/2402.04468)|null|
 |**2024-02-06**|**Non-Abelian anyons in a periodically-driven Abelian model**|Francesco Petiziol et.al.|[2402.04131](http://arxiv.org/abs/2402.04131)|null|
