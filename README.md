@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Quantum phases of XY model with three-spin terms: interplay of topology and entanglement**|Rakesh Kumar Malakar et.al.|[2402.07590](http://arxiv.org/abs/2402.07590)|null|
+|**2024-02-08**|**Volume-Dependent Field Theories**|Richard Wedeen et.al.|[2402.06691](http://arxiv.org/abs/2402.06691)|null|
 |**2024-02-07**|**Anomalous thermal relaxation and pump-probe spectroscopy of 2D topologically ordered systems**|Max McGinley et.al.|[2402.06484](http://arxiv.org/abs/2402.06484)|null|
 |**2024-02-08**|**Measurements of the Low-Acceleration Gravitational Anomaly from the Normalized Velocity Profile of Gaia Wide Binary Stars and Statistical Testing of Newtonian and Milgromian Theories**|Kyu-Hyun Chae et.al.|[2402.05720](http://arxiv.org/abs/2402.05720)|null|
 |**2024-02-06**|**Combinatorial 2d higher topological quantum field theory from a local cyclic $A_\infty$ algebra**|Justin Beck et.al.|[2402.04468](http://arxiv.org/abs/2402.04468)|null|
