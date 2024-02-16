@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Tomography of orbital vortex lines in a topological semimetal**|T. Figgemeier et.al.|[2402.10031](http://arxiv.org/abs/2402.10031)|null|
+|**2024-02-15**|**Three-dimensional active nematic turbulence: chirality, flow alignment and elastic anisotropy**|Nika Kralj et.al.|[2402.10020](http://arxiv.org/abs/2402.10020)|null|
+|**2024-02-14**|**Replica topological order in quantum mixed states and quantum error correction**|Zhuan Li et.al.|[2402.09516](http://arxiv.org/abs/2402.09516)|null|
 |**2024-02-13**|**Anomaly inflow, dualities, and quantum simulation of abelian lattice gauge theories induced by measurements**|Takuya Okuda et.al.|[2402.08720](http://arxiv.org/abs/2402.08720)|null|
 |**2024-02-13**|**Topological defects in K3 sigma models**|Roberta Angius et.al.|[2402.08719](http://arxiv.org/abs/2402.08719)|null|
 |**2024-02-13**|**Tracking topological defect motion and incommensurate charge order melting in a perovskite manganite**|Noah Schnitzer et.al.|[2402.08580](http://arxiv.org/abs/2402.08580)|null|
