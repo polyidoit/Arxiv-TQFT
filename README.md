@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**X-ray Linear Dichroic Tomography of Crystallographic and Topological Defects**|Andreas Apseros et.al.|[2402.10647](http://arxiv.org/abs/2402.10647)|null|
 |**2024-02-15**|**Tomography of orbital vortex lines in a topological semimetal**|T. Figgemeier et.al.|[2402.10031](http://arxiv.org/abs/2402.10031)|null|
 |**2024-02-15**|**Three-dimensional active nematic turbulence: chirality, flow alignment and elastic anisotropy**|Nika Kralj et.al.|[2402.10020](http://arxiv.org/abs/2402.10020)|null|
 |**2024-02-14**|**Replica topological order in quantum mixed states and quantum error correction**|Zhuan Li et.al.|[2402.09516](http://arxiv.org/abs/2402.09516)|null|
