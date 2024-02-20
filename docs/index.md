@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**SymTFTs for Continuous non-Abelian Symmetries**|Federico Bonetti et.al.|[2402.12347](http://arxiv.org/abs/2402.12347)|null|
+|**2024-02-18**|**Bulk and boundary entanglement transitions in the projective gauge-Higgs model**|Hiroki Sukeno et.al.|[2402.11738](http://arxiv.org/abs/2402.11738)|null|
+|**2024-02-16**|**Incremental Topological Ordering and Cycle Detection with Predictions**|Samuel McCauley et.al.|[2402.11028](http://arxiv.org/abs/2402.11028)|null|
 |**2024-02-16**|**X-ray Linear Dichroic Tomography of Crystallographic and Topological Defects**|Andreas Apseros et.al.|[2402.10647](http://arxiv.org/abs/2402.10647)|null|
 |**2024-02-15**|**Tomography of orbital vortex lines in a topological semimetal**|T. Figgemeier et.al.|[2402.10031](http://arxiv.org/abs/2402.10031)|null|
 |**2024-02-15**|**Three-dimensional active nematic turbulence: chirality, flow alignment and elastic anisotropy**|Nika Kralj et.al.|[2402.10020](http://arxiv.org/abs/2402.10020)|null|
