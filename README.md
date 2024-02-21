@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Density and unitarity of the Burau representation from a non-semisimple TQFT**|Nathan Geer et.al.|[2402.13242](http://arxiv.org/abs/2402.13242)|null|
+|**2024-02-20**|**Janus Bound States in the Continuum with Asymmetric Topological Charges and Intrinsic Chirality**|Meng Kang et.al.|[2402.12689](http://arxiv.org/abs/2402.12689)|null|
 |**2024-02-19**|**SymTFTs for Continuous non-Abelian Symmetries**|Federico Bonetti et.al.|[2402.12347](http://arxiv.org/abs/2402.12347)|null|
 |**2024-02-18**|**Bulk and boundary entanglement transitions in the projective gauge-Higgs model**|Hiroki Sukeno et.al.|[2402.11738](http://arxiv.org/abs/2402.11738)|null|
 |**2024-02-16**|**Incremental Topological Ordering and Cycle Detection with Predictions**|Samuel McCauley et.al.|[2402.11028](http://arxiv.org/abs/2402.11028)|null|
