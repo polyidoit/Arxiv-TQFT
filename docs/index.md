@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Tunable topological phases in nanographene-based spin-1/2 alternating-exchange Heisenberg chains**|Chenxiao Zhao et.al.|[2402.13590](http://arxiv.org/abs/2402.13590)|null|
 |**2024-02-20**|**Density and unitarity of the Burau representation from a non-semisimple TQFT**|Nathan Geer et.al.|[2402.13242](http://arxiv.org/abs/2402.13242)|null|
 |**2024-02-20**|**Janus Bound States in the Continuum with Asymmetric Topological Charges and Intrinsic Chirality**|Meng Kang et.al.|[2402.12689](http://arxiv.org/abs/2402.12689)|null|
 |**2024-02-19**|**SymTFTs for Continuous non-Abelian Symmetries**|Federico Bonetti et.al.|[2402.12347](http://arxiv.org/abs/2402.12347)|null|
