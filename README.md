@@ -10,12 +10,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**SymTh for non-finite symmetries**|Fabio Apruzzi et.al.|[2402.14813](http://arxiv.org/abs/2402.14813)|null|
+|**2024-02-22**|**Rao-Blackwellising Bayesian Causal Inference**|Christian Toth et.al.|[2402.14781](http://arxiv.org/abs/2402.14781)|null|
+|**2024-02-21**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
+|**2024-02-21**|**On dualities of paired quantum Hall bilayer states at $ν_T = \frac{1}{2} + \frac{1}{2}$**|Luca Rüegg et.al.|[2402.14088](http://arxiv.org/abs/2402.14088)|null|
 |**2024-02-21**|**Tunable topological phases in nanographene-based spin-1/2 alternating-exchange Heisenberg chains**|Chenxiao Zhao et.al.|[2402.13590](http://arxiv.org/abs/2402.13590)|null|
 |**2024-02-20**|**Density and unitarity of the Burau representation from a non-semisimple TQFT**|Nathan Geer et.al.|[2402.13242](http://arxiv.org/abs/2402.13242)|null|
 |**2024-02-20**|**Janus Bound States in the Continuum with Asymmetric Topological Charges and Intrinsic Chirality**|Meng Kang et.al.|[2402.12689](http://arxiv.org/abs/2402.12689)|null|
 |**2024-02-19**|**SymTFTs for Continuous non-Abelian Symmetries**|Federico Bonetti et.al.|[2402.12347](http://arxiv.org/abs/2402.12347)|null|
 |**2024-02-18**|**Bulk and boundary entanglement transitions in the projective gauge-Higgs model**|Hiroki Sukeno et.al.|[2402.11738](http://arxiv.org/abs/2402.11738)|null|
-|**2024-02-16**|**Incremental Topological Ordering and Cycle Detection with Predictions**|Samuel McCauley et.al.|[2402.11028](http://arxiv.org/abs/2402.11028)|null|
+|**2024-02-16**|**Incremental Topological Ordering and Cycle Detection with Predictions**|Samuel McCauley et.al.|[2402.11028](http://arxiv.org/abs/2402.11028)|**[link](https://github.com/aidinniaparast/learned-topological-order)**|
 |**2024-02-16**|**X-ray Linear Dichroic Tomography of Crystallographic and Topological Defects**|Andreas Apseros et.al.|[2402.10647](http://arxiv.org/abs/2402.10647)|null|
 |**2024-02-15**|**Tomography of orbital vortex lines in a topological semimetal**|T. Figgemeier et.al.|[2402.10031](http://arxiv.org/abs/2402.10031)|null|
 |**2024-02-15**|**Three-dimensional active nematic turbulence: chirality, flow alignment and elastic anisotropy**|Nika Kralj et.al.|[2402.10020](http://arxiv.org/abs/2402.10020)|null|
