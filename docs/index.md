@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**Order-detection, representation-detection, and applications to cable knots**|Adam Clay et.al.|[2402.15465](http://arxiv.org/abs/2402.15465)|null|
+|**2024-02-23**|**Quantum robustness of the toric code in a parallel field on the honeycomb and triangular lattice**|V. Kott et.al.|[2402.15389](http://arxiv.org/abs/2402.15389)|null|
 |**2024-02-22**|**SymTh for non-finite symmetries**|Fabio Apruzzi et.al.|[2402.14813](http://arxiv.org/abs/2402.14813)|null|
 |**2024-02-22**|**Rao-Blackwellising Bayesian Causal Inference**|Christian Toth et.al.|[2402.14781](http://arxiv.org/abs/2402.14781)|null|
 |**2024-02-21**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
