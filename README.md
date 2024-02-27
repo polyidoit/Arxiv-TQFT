@@ -10,11 +10,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Direct excitation of Kelvin waves on quantized vortices**|Yosuke Minowa et.al.|[2402.16411](http://arxiv.org/abs/2402.16411)|null|
+|**2024-02-25**|**Experimental identification of force, velocity, and nematic order relationships in active nematic cell monolayers**|Masahito Uwamichi et.al.|[2402.16151](http://arxiv.org/abs/2402.16151)|null|
+|**2024-02-24**|**Progressive-Proximity Bit-Flipping for Decoding Surface Codes**|Michele Pacenti et.al.|[2402.15924](http://arxiv.org/abs/2402.15924)|null|
+|**2024-02-24**|**Tunable incommensurability and spontaneous symmetry breaking in the reconstructed moiré-of-moiré lattices**|Daesung Park et.al.|[2402.15760](http://arxiv.org/abs/2402.15760)|null|
+|**2024-02-24**|**Relativistic and nonrelativistic Landau levels for the noncommutative quantum Hall effect with anomalous magnetic moment in a conical Gödel-type spacetime**|R. R. S. Oliveira et.al.|[2402.15720](http://arxiv.org/abs/2402.15720)|null|
 |**2024-02-23**|**Order-detection, representation-detection, and applications to cable knots**|Adam Clay et.al.|[2402.15465](http://arxiv.org/abs/2402.15465)|null|
 |**2024-02-23**|**Quantum robustness of the toric code in a parallel field on the honeycomb and triangular lattice**|V. Kott et.al.|[2402.15389](http://arxiv.org/abs/2402.15389)|null|
 |**2024-02-22**|**SymTh for non-finite symmetries**|Fabio Apruzzi et.al.|[2402.14813](http://arxiv.org/abs/2402.14813)|null|
 |**2024-02-22**|**Rao-Blackwellising Bayesian Causal Inference**|Christian Toth et.al.|[2402.14781](http://arxiv.org/abs/2402.14781)|null|
-|**2024-02-21**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
+|**2024-02-24**|**Quantum state preparation of topological chiral spin liquids via Floquet engineering**|Matthieu Mambrini et.al.|[2402.14141](http://arxiv.org/abs/2402.14141)|null|
 |**2024-02-21**|**On dualities of paired quantum Hall bilayer states at $ν_T = \frac{1}{2} + \frac{1}{2}$**|Luca Rüegg et.al.|[2402.14088](http://arxiv.org/abs/2402.14088)|null|
 |**2024-02-21**|**Tunable topological phases in nanographene-based spin-1/2 alternating-exchange Heisenberg chains**|Chenxiao Zhao et.al.|[2402.13590](http://arxiv.org/abs/2402.13590)|null|
 |**2024-02-20**|**Density and unitarity of the Burau representation from a non-semisimple TQFT**|Nathan Geer et.al.|[2402.13242](http://arxiv.org/abs/2402.13242)|null|
