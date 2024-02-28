@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Eigenstate switching of topologically ordered states using non-Hermitian perturbations**|Cheol Hun Yeom et.al.|[2402.17280](http://arxiv.org/abs/2402.17280)|null|
+|**2024-02-26**|**Probing anyonic statistics via Mach-Zehnder interferometry in quantum computers**|Shiyu Zhou et.al.|[2402.16944](http://arxiv.org/abs/2402.16944)|null|
+|**2024-02-26**|**Exact Calculations of Coherent Information for Toric Codes under Decoherence: Identifying the Fundamental Error Threshold**|Jong Yeon Lee et.al.|[2402.16937](http://arxiv.org/abs/2402.16937)|null|
+|**2024-02-26**|**The Physics of (good) LDPC Codes II. Product constructions**|Tibor Rakovszky et.al.|[2402.16831](http://arxiv.org/abs/2402.16831)|null|
 |**2024-02-26**|**Direct excitation of Kelvin waves on quantized vortices**|Yosuke Minowa et.al.|[2402.16411](http://arxiv.org/abs/2402.16411)|null|
 |**2024-02-25**|**Experimental identification of force, velocity, and nematic order relationships in active nematic cell monolayers**|Masahito Uwamichi et.al.|[2402.16151](http://arxiv.org/abs/2402.16151)|null|
 |**2024-02-24**|**Progressive-Proximity Bit-Flipping for Decoding Surface Codes**|Michele Pacenti et.al.|[2402.15924](http://arxiv.org/abs/2402.15924)|null|
