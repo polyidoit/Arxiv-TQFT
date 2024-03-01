@@ -10,6 +10,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Condensation Completion and Defects in 2+1D Topological Orders**|Gen Yue et.al.|[2402.19253](http://arxiv.org/abs/2402.19253)|null|
+|**2024-02-29**|**Exploring rare-earth Kitaev magnets by massive-scale computational analysis**|Seong-Hoon Jang et.al.|[2402.18837](http://arxiv.org/abs/2402.18837)|null|
 |**2024-02-27**|**Eigenstate switching of topologically ordered states using non-Hermitian perturbations**|Cheol Hun Yeom et.al.|[2402.17280](http://arxiv.org/abs/2402.17280)|null|
 |**2024-02-26**|**Probing anyonic statistics via Mach-Zehnder interferometry in quantum computers**|Shiyu Zhou et.al.|[2402.16944](http://arxiv.org/abs/2402.16944)|null|
 |**2024-02-26**|**Exact Calculations of Coherent Information for Toric Codes under Decoherence: Identifying the Fundamental Error Threshold**|Jong Yeon Lee et.al.|[2402.16937](http://arxiv.org/abs/2402.16937)|null|
