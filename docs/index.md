@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-01**|**Hasse Diagrams for Gapless SPT and SSB Phases with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2403.00905](http://arxiv.org/abs/2403.00905)|null|
+|**2024-03-01**|**Carbon-contaminated topological defects in hBN: a potential new class of single photon emitters**|Rohit Babar et.al.|[2403.00755](http://arxiv.org/abs/2403.00755)|null|
+|**2024-03-01**|**Chiral Spin Liquid on a Shastry-Sutherland Heisenberg Antiferromagnet**|Jian-Wei Yang et.al.|[2403.00597](http://arxiv.org/abs/2403.00597)|null|
+|**2024-02-29**|**The Odd 2D Bubbles, 4D Triangles, and Einstein and Weyl Anomalies in 2D Gravitational Fermionic amplitudes: The Role of Breaking Integration Linearity for Anomalies**|Luciana Ebani et.al.|[2403.00162](http://arxiv.org/abs/2403.00162)|null|
 |**2024-02-29**|**Condensation Completion and Defects in 2+1D Topological Orders**|Gen Yue et.al.|[2402.19253](http://arxiv.org/abs/2402.19253)|null|
 |**2024-02-29**|**Exploring rare-earth Kitaev magnets by massive-scale computational analysis**|Seong-Hoon Jang et.al.|[2402.18837](http://arxiv.org/abs/2402.18837)|null|
 |**2024-02-27**|**Eigenstate switching of topologically ordered states using non-Hermitian perturbations**|Cheol Hun Yeom et.al.|[2402.17280](http://arxiv.org/abs/2402.17280)|null|
