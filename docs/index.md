@@ -7,9 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Higher form symmetries and orbifolds of two-dimensional Yang-Mills theory**|Leonardo Santilli et.al.|[2403.03119](http://arxiv.org/abs/2403.03119)|null|
+|**2024-03-05**|**Towards Geometric-Photometric Joint Alignment for Facial Mesh Registration**|Xizhi Wang et.al.|[2403.02629](http://arxiv.org/abs/2403.02629)|null|
+|**2024-03-04**|**Characterizing Dynamic Majorana Hybridization for Universal Quantum Computing**|Themba Hodge et.al.|[2403.02481](http://arxiv.org/abs/2403.02481)|null|
+|**2024-03-04**|**The categorical spin-statistics theorem**|Luuk Stehouwer et.al.|[2403.02282](http://arxiv.org/abs/2403.02282)|null|
+|**2024-03-04**|**On Fractional Moment Estimation from Polynomial Chaos Expansion**|Lukáš Novák et.al.|[2403.01948](http://arxiv.org/abs/2403.01948)|null|
+|**2024-03-04**|**Dagger $n$ -categories**|Giovanni Ferrer et.al.|[2403.01651](http://arxiv.org/abs/2403.01651)|null|
+|**2024-03-03**|**Torus algebra and logical operators at low energy**|Ying Chan et.al.|[2403.01577](http://arxiv.org/abs/2403.01577)|null|
 |**2024-03-01**|**Hasse Diagrams for Gapless SPT and SSB Phases with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2403.00905](http://arxiv.org/abs/2403.00905)|null|
 |**2024-03-01**|**Carbon-contaminated topological defects in hBN: a potential new class of single photon emitters**|Rohit Babar et.al.|[2403.00755](http://arxiv.org/abs/2403.00755)|null|
-|**2024-03-01**|**Chiral Spin Liquid on a Shastry-Sutherland Heisenberg Antiferromagnet**|Jian-Wei Yang et.al.|[2403.00597](http://arxiv.org/abs/2403.00597)|null|
+|**2024-03-05**|**Chiral Spin Liquid on a Shastry-Sutherland Heisenberg Antiferromagnet**|Jian-Wei Yang et.al.|[2403.00597](http://arxiv.org/abs/2403.00597)|null|
 |**2024-02-29**|**The Odd 2D Bubbles, 4D Triangles, and Einstein and Weyl Anomalies in 2D Gravitational Fermionic amplitudes: The Role of Breaking Integration Linearity for Anomalies**|Luciana Ebani et.al.|[2403.00162](http://arxiv.org/abs/2403.00162)|null|
 |**2024-02-29**|**Condensation Completion and Defects in 2+1D Topological Orders**|Gen Yue et.al.|[2402.19253](http://arxiv.org/abs/2402.19253)|null|
 |**2024-02-29**|**Exploring rare-earth Kitaev magnets by massive-scale computational analysis**|Seong-Hoon Jang et.al.|[2402.18837](http://arxiv.org/abs/2402.18837)|null|
