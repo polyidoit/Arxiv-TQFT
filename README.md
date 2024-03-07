@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Understanding Stabilizer Codes Under Local Decoherence Through a General Statistical Mechanics Mapping**|Anasuya Lyons et.al.|[2403.03955](http://arxiv.org/abs/2403.03955)|null|
+|**2024-03-06**|**Backfiring Bosonisation**|Philip Boyle Smith et.al.|[2403.03953](http://arxiv.org/abs/2403.03953)|null|
+|**2024-03-05**|**Topologically protected negative entanglement**|Wen-Tan Xue et.al.|[2403.03259](http://arxiv.org/abs/2403.03259)|null|
+|**2024-03-05**|**Interaction-driven Roton Condensation in C = 2/3 Fractional Quantum Anomalous Hall State**|Hongyu Lu et.al.|[2403.03258](http://arxiv.org/abs/2403.03258)|null|
 |**2024-03-05**|**Higher form symmetries and orbifolds of two-dimensional Yang-Mills theory**|Leonardo Santilli et.al.|[2403.03119](http://arxiv.org/abs/2403.03119)|null|
 |**2024-03-05**|**Towards Geometric-Photometric Joint Alignment for Facial Mesh Registration**|Xizhi Wang et.al.|[2403.02629](http://arxiv.org/abs/2403.02629)|null|
 |**2024-03-04**|**Characterizing Dynamic Majorana Hybridization for Universal Quantum Computing**|Themba Hodge et.al.|[2403.02481](http://arxiv.org/abs/2403.02481)|null|
