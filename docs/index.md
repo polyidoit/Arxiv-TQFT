@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**On finite group global and gauged $q$ -form symmetries in TQFT**|Manuel Furlan et.al.|[2403.04677](http://arxiv.org/abs/2403.04677)|null|
+|**2024-03-06**|**MTC $[M_3, G]$ : 3d Topological Order Labeled by Seifert Manifolds**|Federico Bonetti et.al.|[2403.03973](http://arxiv.org/abs/2403.03973)|null|
 |**2024-03-06**|**Understanding Stabilizer Codes Under Local Decoherence Through a General Statistical Mechanics Mapping**|Anasuya Lyons et.al.|[2403.03955](http://arxiv.org/abs/2403.03955)|null|
 |**2024-03-06**|**Backfiring Bosonisation**|Philip Boyle Smith et.al.|[2403.03953](http://arxiv.org/abs/2403.03953)|null|
 |**2024-03-05**|**Topologically protected negative entanglement**|Wen-Tan Xue et.al.|[2403.03259](http://arxiv.org/abs/2403.03259)|null|
