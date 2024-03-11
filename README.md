@@ -10,6 +10,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Bound-extended mode transition in type-II synthetic photonic Weyl heterostructures**|Wange Song et.al.|[2403.05294](http://arxiv.org/abs/2403.05294)|null|
+|**2024-03-08**|**Role of tissue fluidization and topological defects in epithelial tubulogenesis**|Richard D. J. G. Ho et.al.|[2403.05276](http://arxiv.org/abs/2403.05276)|null|
+|**2024-03-08**|**Photonic simulation of Majorana-based Jones polynomials**|Jia-Kun Li et.al.|[2403.04980](http://arxiv.org/abs/2403.04980)|null|
+|**2024-03-07**|**Extreme anti-ohmic conductance enhancement in neutral diradical acene-like molecular junctions**|Brent Lawson et.al.|[2403.04906](http://arxiv.org/abs/2403.04906)|null|
+|**2024-03-07**|**Playing nonlocal games across a topological phase transition on a quantum computer**|Oliver Hart et.al.|[2403.04829](http://arxiv.org/abs/2403.04829)|null|
 |**2024-03-07**|**On finite group global and gauged $q$ -form symmetries in TQFT**|Manuel Furlan et.al.|[2403.04677](http://arxiv.org/abs/2403.04677)|null|
 |**2024-03-06**|**MTC $[M_3, G]$ : 3d Topological Order Labeled by Seifert Manifolds**|Federico Bonetti et.al.|[2403.03973](http://arxiv.org/abs/2403.03973)|null|
 |**2024-03-06**|**Understanding Stabilizer Codes Under Local Decoherence Through a General Statistical Mechanics Mapping**|Anasuya Lyons et.al.|[2403.03955](http://arxiv.org/abs/2403.03955)|null|
