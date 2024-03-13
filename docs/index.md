@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Robustness of a state with Ising topological order against local projective measurements**|Sanjeev Kumar et.al.|[2403.07866](http://arxiv.org/abs/2403.07866)|null|
+|**2024-03-12**|**Higher condensation theory**|Liang Kong et.al.|[2403.07813](http://arxiv.org/abs/2403.07813)|null|
+|**2024-03-12**|**Emergent (2+1)D topological orders from iterative (1+1)D gauging**|Jose Garre Rubio et.al.|[2403.07575](http://arxiv.org/abs/2403.07575)|null|
+|**2024-03-11**|**Minimal Fractional Topological Insulator in half-filled conjugate moiré Chern bands**|Chao-Ming Jian et.al.|[2403.07054](http://arxiv.org/abs/2403.07054)|null|
 |**2024-03-11**|**Unconventional topological mixed-state transition and critical phase induced by self-dual coherent errors**|Yu-Hsueh Chen et.al.|[2403.06553](http://arxiv.org/abs/2403.06553)|null|
 |**2024-03-11**|**Quantum double structure in cold atom superfluids**|E. Génetay Johansen et.al.|[2403.06451](http://arxiv.org/abs/2403.06451)|null|
 |**2024-03-10**|**Observation of in-gap states in a two-dimensional CrI2/NbSe2 heterostructure**|Peigen Li et.al.|[2403.06215](http://arxiv.org/abs/2403.06215)|null|
