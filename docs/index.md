@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Spinfoam Models for Quantum Gravity: Overview**|Etera R. Livine et.al.|[2403.09364](http://arxiv.org/abs/2403.09364)|null|
+|**2024-03-14**|**Spin-Orbit Coupled Insulators and Metals on the Verge of Kitaev Spin Liquids in Ilmenite Heterostructures**|Yi-Feng Zhao et.al.|[2403.09112](http://arxiv.org/abs/2403.09112)|null|
+|**2024-03-13**|**Condensate-Induced Inflation from Primordial Gravitational Waves in String-Inspired Chern-Simons Gravity**|Panagiotis Dorlis et.al.|[2403.09005](http://arxiv.org/abs/2403.09005)|null|
+|**2024-03-13**|**Morphological instability at topological defects in a three-dimensional vertex model for spherical epithelia**|Oliver M. Drozdowski et.al.|[2403.08954](http://arxiv.org/abs/2403.08954)|null|
 |**2024-03-13**|**Boundary geometry controls topological defect transitions that determine lumen nucleation in embryonic development**|Pamela C. Guruciaga et.al.|[2403.08710](http://arxiv.org/abs/2403.08710)|null|
 |**2024-03-13**|**Dipolar BF theory and dipolar braiding statistics**|Jung Hoon Han et.al.|[2403.08158](http://arxiv.org/abs/2403.08158)|null|
 |**2024-03-12**|**Robustness of a state with Ising topological order against local projective measurements**|Sanjeev Kumar et.al.|[2403.07866](http://arxiv.org/abs/2403.07866)|null|
