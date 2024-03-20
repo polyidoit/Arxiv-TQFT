@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Hydrodynamics, anomaly inflow and bosonic effective field theory**|Alexander G. Abanov et.al.|[2403.12360](http://arxiv.org/abs/2403.12360)|null|
+|**2024-03-18**|**Halperin States of Particles and Holes in Ideal Time Reversal Invariant Pairs of Chern Bands and The Fractional Quantum Spin Hall Effect in Moiré MoTe $_2$**|Inti Sodemann Villadiego et.al.|[2403.12185](http://arxiv.org/abs/2403.12185)|null|
+|**2024-03-18**|**Non-Abelian and Abelian descendants of vortex spin liquid: fractional quantum spin Hall effect in twisted MoTe $_2$**|Ya-Hui Zhang et.al.|[2403.12126](http://arxiv.org/abs/2403.12126)|null|
+|**2024-03-18**|**Low-overhead non-Clifford topological fault-tolerant circuits for all non-chiral abelian topological phases**|Andreas Bauer et.al.|[2403.12119](http://arxiv.org/abs/2403.12119)|null|
 |**2024-03-15**|**Quantum memory at nonzero temperature in a thermodynamically trivial system**|Yifan Hong et.al.|[2403.10599](http://arxiv.org/abs/2403.10599)|null|
 |**2024-03-14**|**Spinfoam Models for Quantum Gravity: Overview**|Etera R. Livine et.al.|[2403.09364](http://arxiv.org/abs/2403.09364)|null|
 |**2024-03-14**|**Spin-Orbit Coupled Insulators and Metals on the Verge of Kitaev Spin Liquids in Ilmenite Heterostructures**|Yi-Feng Zhao et.al.|[2403.09112](http://arxiv.org/abs/2403.09112)|null|
