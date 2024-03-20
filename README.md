@@ -1,4 +1,4 @@
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Quantum memory at nonzero temperature in a thermodynamically trivial system**|Yifan Hong et.al.|[2403.10599](http://arxiv.org/abs/2403.10599)|null|
 |**2024-03-14**|**Spinfoam Models for Quantum Gravity: Overview**|Etera R. Livine et.al.|[2403.09364](http://arxiv.org/abs/2403.09364)|null|
 |**2024-03-14**|**Spin-Orbit Coupled Insulators and Metals on the Verge of Kitaev Spin Liquids in Ilmenite Heterostructures**|Yi-Feng Zhao et.al.|[2403.09112](http://arxiv.org/abs/2403.09112)|null|
 |**2024-03-13**|**Condensate-Induced Inflation from Primordial Gravitational Waves in String-Inspired Chern-Simons Gravity**|Panagiotis Dorlis et.al.|[2403.09005](http://arxiv.org/abs/2403.09005)|null|
@@ -282,5 +283,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#Updated-on-20240319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240320>back to top</a>)</p>
 
