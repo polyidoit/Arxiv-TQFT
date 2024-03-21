@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Active Nematic Ratchet in Asymmetric Obstacle Arrays**|Cody D. Schimming et.al.|[2403.13733](http://arxiv.org/abs/2403.13733)|null|
+|**2024-03-20**|**A scaling law for a model of epitaxially strained elastic films with dislocations**|Lukas Abel et.al.|[2403.13646](http://arxiv.org/abs/2403.13646)|null|
+|**2024-03-20**|**Measurement-only dynamical phase transition of topological and boundary orders in toric code and gauge-Higgs models**|Takahiro Orito et.al.|[2403.13435](http://arxiv.org/abs/2403.13435)|null|
+|**2024-03-19**|**Escape into the Third Dimension in Cholesteric Liquid Crystals**|Joseph Pollard et.al.|[2403.13152](http://arxiv.org/abs/2403.13152)|null|
+|**2024-03-19**|**A relativistic position--dependent mass system of bosonic field in cosmic string space--time background**|Abbad Moussa et.al.|[2403.13095](http://arxiv.org/abs/2403.13095)|null|
 |**2024-03-19**|**Hydrodynamics, anomaly inflow and bosonic effective field theory**|Alexander G. Abanov et.al.|[2403.12360](http://arxiv.org/abs/2403.12360)|null|
 |**2024-03-18**|**Halperin States of Particles and Holes in Ideal Time Reversal Invariant Pairs of Chern Bands and The Fractional Quantum Spin Hall Effect in Moiré MoTe $_2$**|Inti Sodemann Villadiego et.al.|[2403.12185](http://arxiv.org/abs/2403.12185)|null|
 |**2024-03-18**|**Non-Abelian and Abelian descendants of vortex spin liquid: fractional quantum spin Hall effect in twisted MoTe $_2$**|Ya-Hui Zhang et.al.|[2403.12126](http://arxiv.org/abs/2403.12126)|null|
