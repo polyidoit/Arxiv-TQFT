@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Doped stabilizer states in many-body physics and where to find them**|Andi Gu et.al.|[2403.14912](http://arxiv.org/abs/2403.14912)|null|
 |**2024-03-21**|**Anomaly in open quantum systems and its implications on mixed-state quantum phases**|Zijian Wang et.al.|[2403.14533](http://arxiv.org/abs/2403.14533)|null|
 |**2024-03-21**|**Realizing topological quantum magnets with atomic spins on surfaces**|Hao Wang et.al.|[2403.14145](http://arxiv.org/abs/2403.14145)|null|
 |**2024-03-22**|**A Noisy Approach to Intrinsically Mixed-State Topological Order**|Ramanjit Sohal et.al.|[2403.13879](http://arxiv.org/abs/2403.13879)|null|
