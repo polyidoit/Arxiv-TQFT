@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Axial Anomalies of Maximally Supersymmetric Tensor Theories**|Piljin Yi et.al.|[2403.17393](http://arxiv.org/abs/2403.17393)|null|
+|**2024-03-25**|**Synthetic active liquid crystals powered by acoustic waves**|Andrey Sokolov et.al.|[2403.17268](http://arxiv.org/abs/2403.17268)|null|
+|**2024-03-25**|**Enhanced mobility of ternary InGaAs quantum wells through digital alloying**|Jason T. Dong et.al.|[2403.17166](http://arxiv.org/abs/2403.17166)|null|
+|**2024-03-25**|**Scaling tunnelling noise in the fractional quantum Hall effect tells about renormalization and breakdown of chiral Luttinger liquid**|Noam Schiller et.al.|[2403.17097](http://arxiv.org/abs/2403.17097)|**[link](https://zenodo.org/record/10840561)**|
 |**2024-03-25**|**Imaging quantum interference in a monolayer Kitaev quantum spin liquid candidate**|Y. Kohsaka et.al.|[2403.16553](http://arxiv.org/abs/2403.16553)|null|
 |**2024-03-24**|**Embarking on a skyrmion Odyssey**|Lei Shi et.al.|[2403.16123](http://arxiv.org/abs/2403.16123)|null|
 |**2024-03-24**|**Orders and Fibering**|Boris Okun et.al.|[2403.16102](http://arxiv.org/abs/2403.16102)|null|
