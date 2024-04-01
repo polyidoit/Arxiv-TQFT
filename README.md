@@ -10,6 +10,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Field tuning Kitaev systems for spin fractionalization and topological order**|Jagannath Das et.al.|[2403.20189](http://arxiv.org/abs/2403.20189)|null|
+|**2024-03-28**|**2-Morita Equivalent Condensable Algebras in Topological Orders**|Rongge Xu et.al.|[2403.19779](http://arxiv.org/abs/2403.19779)|null|
+|**2024-03-28**|**Corner modes in Non-Hermitian long-range model**|Arnob Kumar Ghosh et.al.|[2403.19765](http://arxiv.org/abs/2403.19765)|null|
+|**2024-03-28**|**Twists of superconformal algebras**|Chris Elliott et.al.|[2403.19753](http://arxiv.org/abs/2403.19753)|null|
 |**2024-03-26**|**Axial Anomalies of Maximally Supersymmetric Tensor Theories**|Piljin Yi et.al.|[2403.17393](http://arxiv.org/abs/2403.17393)|null|
 |**2024-03-25**|**Synthetic active liquid crystals powered by acoustic waves**|Andrey Sokolov et.al.|[2403.17268](http://arxiv.org/abs/2403.17268)|null|
 |**2024-03-25**|**Enhanced mobility of ternary InGaAs quantum wells through digital alloying**|Jason T. Dong et.al.|[2403.17166](http://arxiv.org/abs/2403.17166)|null|
