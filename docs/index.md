@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons**|Lachezar S. Georgiev et.al.|[2404.01779](http://arxiv.org/abs/2404.01779)|null|
+|**2024-04-01**|**Approach and rotation of reconnecting topological defect lines in liquid crystal**|Yohei Zushi et.al.|[2404.01480](http://arxiv.org/abs/2404.01480)|null|
+|**2024-04-01**|**The 2-character theory for finite 2-groups**|Mo Huang et.al.|[2404.01162](http://arxiv.org/abs/2404.01162)|null|
+|**2024-03-29**|**Non-Abelian braiding of Fibonacci anyons with a superconducting processor**|Shibo Xu et.al.|[2404.00091](http://arxiv.org/abs/2404.00091)|null|
 |**2024-03-29**|**Field tuning Kitaev systems for spin fractionalization and topological order**|Jagannath Das et.al.|[2403.20189](http://arxiv.org/abs/2403.20189)|null|
 |**2024-03-28**|**2-Morita Equivalent Condensable Algebras in Topological Orders**|Rongge Xu et.al.|[2403.19779](http://arxiv.org/abs/2403.19779)|null|
 |**2024-03-28**|**Corner modes in Non-Hermitian long-range model**|Arnob Kumar Ghosh et.al.|[2403.19765](http://arxiv.org/abs/2403.19765)|null|
