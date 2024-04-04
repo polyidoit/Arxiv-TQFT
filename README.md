@@ -10,7 +10,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-02**|**Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons**|Lachezar S. Georgiev et.al.|[2404.01779](http://arxiv.org/abs/2404.01779)|null|
+|**2024-04-03**|**Anyonic quantum multipartite maskers in the Kitaev model**|Yao Shen et.al.|[2404.02814](http://arxiv.org/abs/2404.02814)|null|
+|**2024-04-02**|**The edge code of hypergraphs**|Delio Jaramillo-Velez et.al.|[2404.02301](http://arxiv.org/abs/2404.02301)|null|
+|**2024-04-03**|**Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons**|Lachezar S. Georgiev et.al.|[2404.01779](http://arxiv.org/abs/2404.01779)|null|
 |**2024-04-01**|**Approach and rotation of reconnecting topological defect lines in liquid crystal**|Yohei Zushi et.al.|[2404.01480](http://arxiv.org/abs/2404.01480)|null|
 |**2024-04-01**|**The 2-character theory for finite 2-groups**|Mo Huang et.al.|[2404.01162](http://arxiv.org/abs/2404.01162)|null|
 |**2024-03-29**|**Non-Abelian braiding of Fibonacci anyons with a superconducting processor**|Shibo Xu et.al.|[2404.00091](http://arxiv.org/abs/2404.00091)|null|
