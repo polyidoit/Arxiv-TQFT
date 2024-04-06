@@ -56,6 +56,7 @@
 |**2024-03-11**|**Unconventional topological mixed-state transition and critical phase induced by self-dual coherent errors**|Yu-Hsueh Chen et.al.|[2403.06553](http://arxiv.org/abs/2403.06553)|null|
 |**2024-03-11**|**Quantum double structure in cold atom superfluids**|E. Génetay Johansen et.al.|[2403.06451](http://arxiv.org/abs/2403.06451)|null|
 |**2024-03-10**|**Observation of in-gap states in a two-dimensional CrI2/NbSe2 heterostructure**|Peigen Li et.al.|[2403.06215](http://arxiv.org/abs/2403.06215)|null|
+|**2024-03-08**|**Weak Hopf symmetry and tube algebra of the generalized multifusion string-net model**|Zhian Jia et.al.|[2403.04446](http://arxiv.org/abs/2403.04446)|null|
 |**2024-03-08**|**Attractive Haldane bilayers for trapping non-Abelian anyons**|Valentin Crépel et.al.|[2403.05622](http://arxiv.org/abs/2403.05622)|null|
 |**2024-03-08**|**Bound-extended mode transition in type-II synthetic photonic Weyl heterostructures**|Wange Song et.al.|[2403.05294](http://arxiv.org/abs/2403.05294)|null|
 |**2024-03-08**|**Role of tissue fluidization and topological defects in epithelial tubulogenesis**|Richard D. J. G. Ho et.al.|[2403.05276](http://arxiv.org/abs/2403.05276)|null|
