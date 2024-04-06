@@ -107,7 +107,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         code_url            = base_url + paper_id #TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
+        paper_first_author  = get_authors(result.authors,first_author = False)
         primary_category    = result.primary_category
         publish_time        = result.published.date()
         update_time         = result.updated.date()
