@@ -47,13 +47,25 @@ def load_config(config_file:str) -> dict:
         logging.info(f'config = {config}')
     return config 
 
-def get_authors(authors, first_author = False):
+
+#def get_authors(authors, first_author = False):
+ #   output = str()
+  #  if first_author == False:
+   #     output = ", ".join(str(author) for author in authors)
+    #else:
+     #   output = authors[0]
+    #return output
+
+
+def get_authors(authors, first_author = True):
     output = str()
-    if first_author == False:
+    if first_author == True:
         output = ", ".join(str(author) for author in authors)
     else:
-        output = authors
+        output = authors[0]
     return output
+
+
 def sort_papers(papers):
     output = dict()
     keys = list(papers.keys())
@@ -61,7 +73,6 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output    
-import requests
 
 def get_code_link(qword:str) -> str:
     """
@@ -84,7 +95,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="TQFT", max_results=2):
     """
     @param topic: str
     @param query: str
