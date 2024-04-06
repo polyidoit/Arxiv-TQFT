@@ -3,7 +3,7 @@ name: Run Arxiv Papers Daily
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0/12 *" # Run every 12 hours
+    - cron:  "0 0/12 * * *"  #'*/60 * * * *'
 
 env:
   GITHUB_USER_NAME: polyidiot
