@@ -47,13 +47,14 @@ def load_config(config_file:str) -> dict:
         logging.info(f'config = {config}')
     return config 
 
-def get_authors(authors, first_author = False):
-    output = str()
-    if first_author == False:
-        output = ", ".join(str(author) for author in authors)
+def get_authors(authors, first_author=True):
+    if not authors:  # Handle empty list of authors
+        return ""
+
+    if first_author:
+        return str(authors[0])
     else:
-        output = authors[0]
-    return output
+        return ", ".join(str(author) for author in authors)
     
 
 def sort_papers(papers):
