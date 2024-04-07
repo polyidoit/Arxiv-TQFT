@@ -1,8 +1,10 @@
-## Updated on 2024.04.06
+## Updated on 2024.04.07
+> Usage instructions: [here](./docs/README.md#usage)
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#TQFT-and-Topological-order>TQFT and Topological order</a></li>
+    <li><a href=#tqft-and-topological-order>TQFT and Topological order</a></li>
   </ol>
 </details>
 
@@ -10,16 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-03**|**Anyonic quantum multipartite maskers in the Kitaev model**|Yao Shen et.al.|[2404.02814](http://arxiv.org/abs/2404.02814)|null|
+|**2024-04-03**|**Anyonic quantum multipartite maskers in the Kitaev model**|Yao Shen, Wei-Min Shang, Chi-Chun Zhou, Fu-Lin Zhang et.al.|[2404.02814](http://arxiv.org/abs/2404.02814)|null|
 |**2024-04-02**|**The edge code of hypergraphs**|Delio Jaramillo-Velez et.al.|[2404.02301](http://arxiv.org/abs/2404.02301)|null|
-|**2024-04-03**|**Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons**|Lachezar S. Georgiev et.al.|[2404.01779](http://arxiv.org/abs/2404.01779)|null|
-|**2024-04-01**|**Approach and rotation of reconnecting topological defect lines in liquid crystal**|Yohei Zushi et.al.|[2404.01480](http://arxiv.org/abs/2404.01480)|null|
-|**2024-04-01**|**The 2-character theory for finite 2-groups**|Mo Huang et.al.|[2404.01162](http://arxiv.org/abs/2404.01162)|null|
-|**2024-03-29**|**Non-Abelian braiding of Fibonacci anyons with a superconducting processor**|Shibo Xu et.al.|[2404.00091](http://arxiv.org/abs/2404.00091)|null|
-|**2024-03-29**|**Field tuning Kitaev systems for spin fractionalization and topological order**|Jagannath Das et.al.|[2403.20189](http://arxiv.org/abs/2403.20189)|null|
-|**2024-03-28**|**2-Morita Equivalent Condensable Algebras in Topological Orders**|Rongge Xu et.al.|[2403.19779](http://arxiv.org/abs/2403.19779)|null|
-|**2024-03-28**|**Corner modes in Non-Hermitian long-range model**|Arnob Kumar Ghosh et.al.|[2403.19765](http://arxiv.org/abs/2403.19765)|null|
-|**2024-03-28**|**Twists of superconformal algebras**|Chris Elliott et.al.|[2403.19753](http://arxiv.org/abs/2403.19753)|null|
+|**2024-04-03**|**Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons**|Lachezar S. Georgiev, Ludmil Hadjiivanov, Grigori Matein et.al.|[2404.01779](http://arxiv.org/abs/2404.01779)|null|
+|**2024-04-01**|**Approach and rotation of reconnecting topological defect lines in liquid crystal**|Yohei Zushi, Cody D. Schimming, Kazumasa A. Takeuchi et.al.|[2404.01480](http://arxiv.org/abs/2404.01480)|null|
+|**2024-04-01**|**The 2-character theory for finite 2-groups**|Mo Huang, Hao Xu, Zhi-Hao Zhang et.al.|[2404.01162](http://arxiv.org/abs/2404.01162)|null|
+|**2024-03-29**|**Non-Abelian braiding of Fibonacci anyons with a superconducting processor**|Shibo Xu, Zheng-Zhi Sun, Ke Wang, Hekang Li, Zitian Zhu, Hang Dong, Jinfeng Deng, Xu Zhang, Jiachen Chen, Yaozu Wu, Chuanyu Zhang, Feitong Jin, Xuhao Zhu, Yu Gao, Aosai Zhang, Ning Wang, Yiren Zou, Ziqi Tan, Fanhao Shen, Jiarun Zhong, Zehang Bao, Weikang Li, Wenjie Jiang, Li-Wei Yu, Zixuan Song, Pengfei Zhang, Liang Xiang, Qiujiang Guo, Zhen Wang, Chao Song, H. Wang, Dong-Ling Deng et.al.|[2404.00091](http://arxiv.org/abs/2404.00091)|null|
+|**2024-03-29**|**Field tuning Kitaev systems for spin fractionalization and topological order**|Jagannath Das, Sarbajaya Kundu, Aman Kumar, Vikram Tripathi et.al.|[2403.20189](http://arxiv.org/abs/2403.20189)|null|
+|**2024-03-28**|**2-Morita Equivalent Condensable Algebras in Topological Orders**|Rongge Xu, Holiverse Yang et.al.|[2403.19779](http://arxiv.org/abs/2403.19779)|null|
+|**2024-03-28**|**Corner modes in Non-Hermitian long-range model**|Arnob Kumar Ghosh, Arijit Saha, Tanay Nag et.al.|[2403.19765](http://arxiv.org/abs/2403.19765)|null|
+|**2024-03-28**|**Twists of superconformal algebras**|Chris Elliott, Owen Gwilliam, Matteo Lotito et.al.|[2403.19753](http://arxiv.org/abs/2403.19753)|null|
 |**2024-03-26**|**Axial Anomalies of Maximally Supersymmetric Tensor Theories**|Piljin Yi et.al.|[2403.17393](http://arxiv.org/abs/2403.17393)|null|
 |**2024-03-25**|**Synthetic active liquid crystals powered by acoustic waves**|Andrey Sokolov et.al.|[2403.17268](http://arxiv.org/abs/2403.17268)|null|
 |**2024-03-29**|**Enhanced mobility of ternary InGaAs quantum wells through digital alloying**|Jason T. Dong et.al.|[2403.17166](http://arxiv.org/abs/2403.17166)|null|
@@ -56,7 +58,6 @@
 |**2024-03-11**|**Unconventional topological mixed-state transition and critical phase induced by self-dual coherent errors**|Yu-Hsueh Chen et.al.|[2403.06553](http://arxiv.org/abs/2403.06553)|null|
 |**2024-03-11**|**Quantum double structure in cold atom superfluids**|E. Génetay Johansen et.al.|[2403.06451](http://arxiv.org/abs/2403.06451)|null|
 |**2024-03-10**|**Observation of in-gap states in a two-dimensional CrI2/NbSe2 heterostructure**|Peigen Li et.al.|[2403.06215](http://arxiv.org/abs/2403.06215)|null|
-|**2024-03-08**|**Weak Hopf symmetry and tube algebra of the generalized multifusion string-net model**|Zhian Jia et.al.|[2403.04446](http://arxiv.org/abs/2403.04446)|null|
 |**2024-03-08**|**Attractive Haldane bilayers for trapping non-Abelian anyons**|Valentin Crépel et.al.|[2403.05622](http://arxiv.org/abs/2403.05622)|null|
 |**2024-03-08**|**Bound-extended mode transition in type-II synthetic photonic Weyl heterostructures**|Wange Song et.al.|[2403.05294](http://arxiv.org/abs/2403.05294)|null|
 |**2024-03-08**|**Role of tissue fluidization and topological defects in epithelial tubulogenesis**|Richard D. J. G. Ho et.al.|[2403.05276](http://arxiv.org/abs/2403.05276)|null|
@@ -316,5 +317,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#Updated-on-20240406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
 
