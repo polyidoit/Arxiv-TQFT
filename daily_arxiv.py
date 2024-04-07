@@ -136,8 +136,12 @@ def update_json_file(filename,data_dict):
         if not content:
             m = {}
         else:
-            m = json.loads(content)
-            
+            try:
+                m = json.loads(content)
+            except json.JSONDecodeError as e:
+                logging.error(f"JSONDecodeError: {e}. Resetting file content.")
+                m = {}
+
     json_data = m.copy() 
     
     # update papers in each keywords         
@@ -188,7 +192,11 @@ def json_to_md(filename,md_filename,
         if not content:
             data = {}
         else:
-            data = json.loads(content)
+            try:
+                data = json.loads(content)
+            except json.JSONDecodeError as e:
+                logging.error(f"JSONDecodeError: {e}. Resetting file content.")
+                data = {}
 
     with open(md_filename,"w+") as f:
         pass
