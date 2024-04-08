@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Learning to control non-equilibrium dynamics using local imperfect gradients**|Carlos Floyd, Aaron R. Dinner, Suriyanarayanan Vaikuntanathan|[2404.03798](http://arxiv.org/abs/2404.03798)|null|
 |**2024-04-03**|**Anyonic quantum multipartite maskers in the Kitaev model**|Yao Shen, Wei-Min Shang, Chi-Chun Zhou, Fu-Lin Zhang|[2404.02814](http://arxiv.org/abs/2404.02814)|null|
 |**2024-04-02**|**The edge code of hypergraphs**|Delio Jaramillo-Velez|[2404.02301](http://arxiv.org/abs/2404.02301)|null|
 |**2024-04-03**|**Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons**|Lachezar S. Georgiev, Ludmil Hadjiivanov, Grigori Matein|[2404.01779](http://arxiv.org/abs/2404.01779)|null|
