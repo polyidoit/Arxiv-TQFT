@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Generalized Criterion for Identifiability of Additive Noise Models Using Majorization**|Aramayis Dallakyan, Yang Ni|[2404.05148](http://arxiv.org/abs/2404.05148)|null|
+|**2024-04-07**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
+|**2024-04-06**|**SAT-DIFF: A Tree Diffing Framework Using SAT Solving**|Chuqin Geng, Haolin Ye, Yihan Zhang, Brigitte Pientka, Xujie Si|[2404.04731](http://arxiv.org/abs/2404.04731)|null|
 |**2024-04-04**|**Learning to control non-equilibrium dynamics using local imperfect gradients**|Carlos Floyd, Aaron R. Dinner, Suriyanarayanan Vaikuntanathan|[2404.03798](http://arxiv.org/abs/2404.03798)|null|
 |**2024-04-03**|**Anyonic quantum multipartite maskers in the Kitaev model**|Yao Shen, Wei-Min Shang, Chi-Chun Zhou, Fu-Lin Zhang|[2404.02814](http://arxiv.org/abs/2404.02814)|null|
 |**2024-04-02**|**The edge code of hypergraphs**|Delio Jaramillo-Velez|[2404.02301](http://arxiv.org/abs/2404.02301)|null|
