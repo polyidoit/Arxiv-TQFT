@@ -11,6 +11,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Disentangling transitions in topological order induced by boundary decoherence**|Tsung-Cheng Lu|[2404.06514](http://arxiv.org/abs/2404.06514)|null|
+|**2024-04-09**|**Bordered invariants from Khovanov homology**|Matthew Hogancamp, David E. V. Rose, Paul Wedrich|[2404.06301](http://arxiv.org/abs/2404.06301)|null|
+|**2024-04-09**|**The Gravitational Chiral Anomaly at Finite Temperature and Density**|Claudio Corianò, Mario Cretì, Stefano Lionetti, Riccardo Tommasi|[2404.06272](http://arxiv.org/abs/2404.06272)|null|
+|**2024-04-09**|**Higher order topological defects in a moiré lattice**|Eugenio Gambari, Sebastian Meyer, Sacha Guesne, Pascal David, Françcois Debontridder, Laurent Limot, Fabrice Scheurer, Christophe Brun, Bertrand Dupé, Tristan Cren, Marie Hervé|[2404.06176](http://arxiv.org/abs/2404.06176)|null|
+|**2024-04-09**|**Tailoring the energy landscape of a Bloch point singularity with curvature**|Sandra Ruiz-Gomez, Claas Abert, Pamela Morales-Fernández, Claudia Fernandez-Gonzalez, Sabri Koraltan, Lukas Danesi, Dieter Suess, Michael Foerster, Miguel Ángel Nino, Anna Mandziak, Dorota Wilgocka-Ślęzak, Pawel Nita, Markus Koenig, Sebastian Seifert, Aurelio Hierro Rodríguez, Amalio Fernández-Pacheco, Claire Donnelly|[2404.06042](http://arxiv.org/abs/2404.06042)|null|
+|**2024-04-08**|**Unvortex Lattice and Topological Defects in Rigidly Rotating Multicomponent Superfluids**|Roy Rabaglia, Ryan Barnett, Ari M. Turner|[2404.05857](http://arxiv.org/abs/2404.05857)|null|
+|**2024-04-08**|**Defect Fusion and Casimir Energy in Higher Dimensions**|Oleksandr Diatlyk, Himanshu Khanchandani, Fedor K. Popov, Yifan Wang|[2404.05815](http://arxiv.org/abs/2404.05815)|null|
+|**2024-04-08**|**Hybrid Tree Tensor Networks for quantum simulation**|Julian Schuhmacher, Marco Ballarin, Alberto Baiardi, Giuseppe Magnifico, Francesco Tacchino, Simone Montangero, Ivano Tavernelli|[2404.05784](http://arxiv.org/abs/2404.05784)|null|
 |**2024-04-08**|**Generalized Criterion for Identifiability of Additive Noise Models Using Majorization**|Aramayis Dallakyan, Yang Ni|[2404.05148](http://arxiv.org/abs/2404.05148)|null|
 |**2024-04-09**|**Magic Boundaries of 3D Color Codes**|Zijian Song, Guanyu Zhu|[2404.05033](http://arxiv.org/abs/2404.05033)|null|
 |**2024-04-06**|**SAT-DIFF: A Tree Diffing Framework Using SAT Solving**|Chuqin Geng, Haolin Ye, Yihan Zhang, Brigitte Pientka, Xujie Si|[2404.04731](http://arxiv.org/abs/2404.04731)|null|
