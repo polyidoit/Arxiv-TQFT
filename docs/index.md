@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Local probe of bulk and edge states in a fractional Chern insulator**|Zhurun Ji, Heonjoon Park, Mark E. Barber, Chaowei Hu, Kenji Watanabe, Takashi Taniguchi, Jiun-Haw Chu, Xiaodong Xu, Zhi-xun Shen|[2404.07157](http://arxiv.org/abs/2404.07157)|null|
+|**2024-04-10**|**FiP: a Fixed-Point Approach for Causal Generative Modeling**|Meyer Scetbon, Joel Jennings, Agrin Hilmkil, Cheng Zhang, Chao Ma|[2404.06969](http://arxiv.org/abs/2404.06969)|null|
+|**2024-04-10**|**SQUID oscillations in PbTe nanowire networks**|Yichun Gao, Wenyu Song, Zehao Yu, Shuai Yang, Yuhao Wang, Ruidong Li, Fangting Chen, Zuhan Geng, Lining Yang, Jiaye Xu, Zhaoyu Wang, Zonglin Li, Shan Zhang, Xiao Feng, Tiantian Wang, Yunyi Zang, Lin Li, Runan Shang, Qi-Kun Xue, Ke He, Hao Zhang|[2404.06899](http://arxiv.org/abs/2404.06899)|null|
+|**2024-04-10**|**Direct transition from a fractional quantum anomalous Hall state to a smectic state with the same Hall conductance**|Hongyu Lu, Han-Qing Wu, Bin-Bin Chen, Zi Yang Meng|[2404.06745](http://arxiv.org/abs/2404.06745)|null|
 |**2024-04-09**|**Disentangling transitions in topological order induced by boundary decoherence**|Tsung-Cheng Lu|[2404.06514](http://arxiv.org/abs/2404.06514)|null|
 |**2024-04-09**|**Bordered invariants from Khovanov homology**|Matthew Hogancamp, David E. V. Rose, Paul Wedrich|[2404.06301](http://arxiv.org/abs/2404.06301)|null|
 |**2024-04-09**|**The Gravitational Chiral Anomaly at Finite Temperature and Density**|Claudio Corianò, Mario Cretì, Stefano Lionetti, Riccardo Tommasi|[2404.06272](http://arxiv.org/abs/2404.06272)|null|
