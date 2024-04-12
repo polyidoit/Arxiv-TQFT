@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Large, defect-free FCC colloidal crystals under microgravity**|Qian Lei, Boris Khusid, Lou Kondic, Paul M. Chaikin, Andrew D. Hollingsworth, Alton J. Reich, Richard B. Rodgers, William V. Meyer|[2404.07291](http://arxiv.org/abs/2404.07291)|null|
+|**2024-04-10**|**Exact deconfined gauge structures in the higher-spin Yao-Lee model: a quantum spin-orbital liquid with spin fractionalization and non-Abelian anyons**|Zhengzhi Wu, Jing-yun Zhang, Hong Yao|[2404.07261](http://arxiv.org/abs/2404.07261)|null|
+|**2024-04-10**|**Stability of mixed-state quantum phases via finite Markov length**|Shengqi Sang, Timothy H. Hsieh|[2404.07251](http://arxiv.org/abs/2404.07251)|null|
 |**2024-04-10**|**Local probe of bulk and edge states in a fractional Chern insulator**|Zhurun Ji, Heonjoon Park, Mark E. Barber, Chaowei Hu, Kenji Watanabe, Takashi Taniguchi, Jiun-Haw Chu, Xiaodong Xu, Zhi-xun Shen|[2404.07157](http://arxiv.org/abs/2404.07157)|null|
 |**2024-04-10**|**FiP: a Fixed-Point Approach for Causal Generative Modeling**|Meyer Scetbon, Joel Jennings, Agrin Hilmkil, Cheng Zhang, Chao Ma|[2404.06969](http://arxiv.org/abs/2404.06969)|null|
 |**2024-04-10**|**SQUID oscillations in PbTe nanowire networks**|Yichun Gao, Wenyu Song, Zehao Yu, Shuai Yang, Yuhao Wang, Ruidong Li, Fangting Chen, Zuhan Geng, Lining Yang, Jiaye Xu, Zhaoyu Wang, Zonglin Li, Shan Zhang, Xiao Feng, Tiantian Wang, Yunyi Zang, Lin Li, Runan Shang, Qi-Kun Xue, Ke He, Hao Zhang|[2404.06899](http://arxiv.org/abs/2404.06899)|null|
