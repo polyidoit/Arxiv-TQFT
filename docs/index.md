@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Higher Hall conductivity from a single wave function: Obstructions to symmetry-preserving gapped edge of (2+1)D topological order**|Ryohei Kobayashi, Taige Wang, Tomohiro Soejima, Roger S. K. Mong, Shinsei Ryu|[2404.10814](http://arxiv.org/abs/2404.10814)|null|
 |**2024-04-14**|**Entangled nematic disclinations using multi-particle collision dynamics**|Louise C. Head, Yair A. G. Fosado, Davide Marenduzzo, Tyler N. Shendruk|[2404.09368](http://arxiv.org/abs/2404.09368)|null|
 |**2024-04-14**|**Coexistence of interacting charge density waves in a layered semiconductor**|B. Q. Lv, Alfred Zong, Dong Wu, Zhengwei Nie, Yifan Su, Dongsung Choi, Batyr Ilyas, Bryan T. Fichera, Jiarui Li, Edoardo Baldini, Masataka Mogi, Y. -B. Huang, Hoi Chun Po, Sheng Meng, Yao Wang, N. L. Wang, Nuh Gedik|[2404.09182](http://arxiv.org/abs/2404.09182)|null|
 |**2024-04-13**|**Frustrated Magnetism, Symmetries and $\mathbb{Z}_2$ -Equivariant Topology**|Shayan Zahedi|[2404.09023](http://arxiv.org/abs/2404.09023)|null|
