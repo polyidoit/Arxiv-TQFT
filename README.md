@@ -1,4 +1,4 @@
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 |**2024-04-16**|**Higher Hall conductivity from a single wave function: Obstructions to symmetry-preserving gapped edge of (2+1)D topological order**|Ryohei Kobayashi, Taige Wang, Tomohiro Soejima, Roger S. K. Mong, Shinsei Ryu|[2404.10814](http://arxiv.org/abs/2404.10814)|null|
 |**2024-04-14**|**Entangled nematic disclinations using multi-particle collision dynamics**|Louise C. Head, Yair A. G. Fosado, Davide Marenduzzo, Tyler N. Shendruk|[2404.09368](http://arxiv.org/abs/2404.09368)|null|
 |**2024-04-14**|**Coexistence of interacting charge density waves in a layered semiconductor**|B. Q. Lv, Alfred Zong, Dong Wu, Zhengwei Nie, Yifan Su, Dongsung Choi, Batyr Ilyas, Bryan T. Fichera, Jiarui Li, Edoardo Baldini, Masataka Mogi, Y. -B. Huang, Hoi Chun Po, Sheng Meng, Yao Wang, N. L. Wang, Nuh Gedik|[2404.09182](http://arxiv.org/abs/2404.09182)|null|
-|**2024-04-13**|**Frustrated Magnetism, Symmetries and $\mathbb{Z}_2$ -Equivariant Topology**|Shayan Zahedi|[2404.09023](http://arxiv.org/abs/2404.09023)|null|
+|**2024-04-20**|**Frustrated Magnetism, Symmetries and $\mathbb{Z}_2$ -Equivariant Topology**|Shayan Zahedi|[2404.09023](http://arxiv.org/abs/2404.09023)|null|
 |**2024-04-12**|**Thermodynamic topology of Phantom AdS Black Holes in Massive Gravity**|Hao Chen, Meng-Yao Zhang, Hassan Hassanabadi, Zheng-Wen Long|[2404.08243](http://arxiv.org/abs/2404.08243)|null|
 |**2024-04-10**|**Large, defect-free FCC colloidal crystals under microgravity**|Qian Lei, Boris Khusid, Lou Kondic, Paul M. Chaikin, Andrew D. Hollingsworth, Alton J. Reich, Richard B. Rodgers, William V. Meyer|[2404.07291](http://arxiv.org/abs/2404.07291)|null|
 |**2024-04-10**|**Exact deconfined gauge structures in the higher-spin Yao-Lee model: a quantum spin-orbital liquid with spin fractionalization and non-Abelian anyons**|Zhengzhi Wu, Jing-yun Zhang, Hong Yao|[2404.07261](http://arxiv.org/abs/2404.07261)|null|
@@ -343,5 +343,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
 
