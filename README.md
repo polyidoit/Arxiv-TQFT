@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Quasicrystalline chiral soliton lattices in a Fibonacci helimagnet**|Pablo S. Cornaglia, Leandro M. Chinellato, Cristian D. Batista|[2404.13810](http://arxiv.org/abs/2404.13810)|null|
+|**2024-04-19**|**Lattice Surgery for Dummies**|Avimita Chatterjee, Subrata Das, Swaroop Ghosh|[2404.13202](http://arxiv.org/abs/2404.13202)|null|
 |**2024-04-18**|**Symmetric Group Gauge Theories and Simple Gauge/String Dualities**|Lior Benizri, Jan Troost|[2404.12543](http://arxiv.org/abs/2404.12543)|null|
 |**2024-04-18**|**Ward Identities in a Two-Dimensional Gravitational Model: Anomalous Amplitude Revisited Using a Completely Regularization-Independent Mathematical Strategy**|G. Dallabona, P. G. de Oliveira, O. A. Battistel|[2404.12196](http://arxiv.org/abs/2404.12196)|null|
 |**2024-04-17**|**Self-organized dynamics of a viscous drop with interfacial nematic activity**|Mohammadhossein Firouznia, David Saintillan|[2404.11729](http://arxiv.org/abs/2404.11729)|null|
