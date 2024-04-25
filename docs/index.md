@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Fractional quantum Hall effect of partons and the nature of the 8/17 state in the zeroth Landau level of bilayer graphene**|Ajit C. Balram, Nicolas Regnault|[2404.15547](http://arxiv.org/abs/2404.15547)|null|
+|**2024-04-23**|**Supersymmetric Analysis of Spinning Cosmic String Spacetime Within External fields with Aharonov-Bohm interaction**|O. Yesiltas, B. B. Oner|[2404.15470](http://arxiv.org/abs/2404.15470)|null|
 |**2024-04-23**|**Initialization of Majorana qubits by parity-to-magnetism conversion**|Dan Crawford, Roland Wiesendanger, Stephan Rachel|[2404.14899](http://arxiv.org/abs/2404.14899)|null|
 |**2024-04-23**|**Numerical demonstration of Abelian fractional statistics of composite fermions in the spherical geometry**|Koyena Bose, Ajit C. Balram|[2404.14880](http://arxiv.org/abs/2404.14880)|null|
 |**2024-04-22**|**Quasicrystalline chiral soliton lattices in a Fibonacci helimagnet**|Pablo S. Cornaglia, Leandro M. Chinellato, Cristian D. Batista|[2404.13810](http://arxiv.org/abs/2404.13810)|null|
