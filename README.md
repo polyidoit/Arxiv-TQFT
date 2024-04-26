@@ -1,4 +1,4 @@
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 |**2024-04-23**|**Initialization of Majorana qubits by parity-to-magnetism conversion**|Dan Crawford, Roland Wiesendanger, Stephan Rachel|[2404.14899](http://arxiv.org/abs/2404.14899)|null|
 |**2024-04-23**|**Numerical demonstration of Abelian fractional statistics of composite fermions in the spherical geometry**|Koyena Bose, Ajit C. Balram|[2404.14880](http://arxiv.org/abs/2404.14880)|null|
 |**2024-04-22**|**Quasicrystalline chiral soliton lattices in a Fibonacci helimagnet**|Pablo S. Cornaglia, Leandro M. Chinellato, Cristian D. Batista|[2404.13810](http://arxiv.org/abs/2404.13810)|null|
-|**2024-04-19**|**Lattice Surgery for Dummies**|Avimita Chatterjee, Subrata Das, Swaroop Ghosh|[2404.13202](http://arxiv.org/abs/2404.13202)|null|
+|**2024-04-24**|**Lattice Surgery for Dummies**|Avimita Chatterjee, Subrata Das, Swaroop Ghosh|[2404.13202](http://arxiv.org/abs/2404.13202)|null|
 |**2024-04-18**|**Symmetric Group Gauge Theories and Simple Gauge/String Dualities**|Lior Benizri, Jan Troost|[2404.12543](http://arxiv.org/abs/2404.12543)|null|
 |**2024-04-18**|**Ward Identities in a Two-Dimensional Gravitational Model: Anomalous Amplitude Revisited Using a Completely Regularization-Independent Mathematical Strategy**|G. Dallabona, P. G. de Oliveira, O. A. Battistel|[2404.12196](http://arxiv.org/abs/2404.12196)|null|
 |**2024-04-17**|**Self-organized dynamics of a viscous drop with interfacial nematic activity**|Mohammadhossein Firouznia, David Saintillan|[2404.11729](http://arxiv.org/abs/2404.11729)|null|
@@ -349,5 +349,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240426>back to top</a>)</p>
 
