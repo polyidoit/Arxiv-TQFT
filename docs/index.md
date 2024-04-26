@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Counting $U(N)^{\otimes r}\otimes O(N)^{\otimes q}$ invariants and tensor model observables**|Remi Cocou Avohou, Joseph Ben Geloun, Reiko Toriumi|[2404.16404](http://arxiv.org/abs/2404.16404)|null|
+|**2024-04-25**|**Modular transformations of on-shell actions of (root-) $\text{T}\overline{\text{T}}$ deformed holographic CFTs**|Jia Tian, Tengzhou Lai, Farzad Omidi|[2404.16354](http://arxiv.org/abs/2404.16354)|null|
+|**2024-04-25**|**Germanium-based hybrid semiconductor-superconductor topological quantum computing platforms: Disorder effects**|Katharina Laubscher, Jay D. Sau, Sankar Das Sarma|[2404.16285](http://arxiv.org/abs/2404.16285)|null|
+|**2024-04-24**|**A complex geometric perspective on a,c anomalies**|Brian R Williams|[2404.16128](http://arxiv.org/abs/2404.16128)|null|
+|**2024-04-24**|**Manipulating Majorana zero modes in the spin-1/2 Kitaev ladder**|Haoting Xu, Hae-Young Kee|[2404.16099](http://arxiv.org/abs/2404.16099)|null|
+|**2024-04-24**|**Some aspects of symmetry descent**|Iñaki García Etxebarria, Saghar S. Hosseini|[2404.16028](http://arxiv.org/abs/2404.16028)|null|
+|**2024-04-24**|**Creating entangled logical qubits in the heavy-hex lattice with topological codes**|Bence Hetényi, James R. Wootton|[2404.15989](http://arxiv.org/abs/2404.15989)|null|
 |**2024-04-23**|**Fractional quantum Hall effect of partons and the nature of the 8/17 state in the zeroth Landau level of bilayer graphene**|Ajit C. Balram, Nicolas Regnault|[2404.15547](http://arxiv.org/abs/2404.15547)|null|
 |**2024-04-23**|**Supersymmetric Analysis of Spinning Cosmic String Spacetime Within External fields with Aharonov-Bohm interaction**|O. Yesiltas, B. B. Oner|[2404.15470](http://arxiv.org/abs/2404.15470)|null|
 |**2024-04-23**|**Initialization of Majorana qubits by parity-to-magnetism conversion**|Dan Crawford, Roland Wiesendanger, Stephan Rachel|[2404.14899](http://arxiv.org/abs/2404.14899)|null|
