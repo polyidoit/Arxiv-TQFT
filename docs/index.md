@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Multifold topological semimetals**|Iñigo Robredo, Niels Schröeter, Claudia Felser, Jennifer Cano, Barry Bradlyn, Maia G. Vergniory|[2404.17539](http://arxiv.org/abs/2404.17539)|null|
+|**2024-04-26**|**Rytov Approximation of Vectorial Waves by Modifying Scattering Matrixes: Precise Reconstruction of Dielectric Tensor Tomography**|ChulMin Oh, Herve Hugonnet, Juheon Lee, YongKeun Park|[2404.17206](http://arxiv.org/abs/2404.17206)|null|
+|**2024-04-25**|**Type-I two-Higgs-doublet model and gravitational waves from domain walls bounded by strings**|Bowen Fu, Anish Ghoshal, Stephen F. King, Moinul Hossain Rahat|[2404.16931](http://arxiv.org/abs/2404.16931)|null|
 |**2024-04-25**|**Counting $U(N)^{\otimes r}\otimes O(N)^{\otimes q}$ invariants and tensor model observables**|Remi Cocou Avohou, Joseph Ben Geloun, Reiko Toriumi|[2404.16404](http://arxiv.org/abs/2404.16404)|null|
 |**2024-04-25**|**Modular transformations of on-shell actions of (root-) $\text{T}\overline{\text{T}}$ deformed holographic CFTs**|Jia Tian, Tengzhou Lai, Farzad Omidi|[2404.16354](http://arxiv.org/abs/2404.16354)|null|
 |**2024-04-25**|**Germanium-based hybrid semiconductor-superconductor topological quantum computing platforms: Disorder effects**|Katharina Laubscher, Jay D. Sau, Sankar Das Sarma|[2404.16285](http://arxiv.org/abs/2404.16285)|null|
