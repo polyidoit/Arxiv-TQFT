@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Scheme for braiding Majorana zero modes in vortices using an STT-matrix**|Guangyao Huang, Xinfang Zhang, Xiapfeng Yi, Jibang Fu, Weichen Wang, Mingtang Deng|[2404.18578](http://arxiv.org/abs/2404.18578)|null|
+|**2024-04-29**|**Floquet Amorphous Topological Orders in a Rydberg Glass**|Peng He, Jing-Xin Liu, Hong Wu, Z. D. Wang|[2404.18512](http://arxiv.org/abs/2404.18512)|null|
+|**2024-04-27**|**Plastic instability of annular crystalline membrane in circular confinement**|Honghui Sun, Zhenwei Yao|[2404.17797](http://arxiv.org/abs/2404.17797)|null|
+|**2024-04-26**|**Generalized Symmetries of Non-Supersymmetric Orbifolds**|Noah Braeger, Vivek Chakrabhavi, Jonathan J. Heckman, Max Hubner|[2404.17639](http://arxiv.org/abs/2404.17639)|null|
 |**2024-04-26**|**Multifold topological semimetals**|Iñigo Robredo, Niels Schröeter, Claudia Felser, Jennifer Cano, Barry Bradlyn, Maia G. Vergniory|[2404.17539](http://arxiv.org/abs/2404.17539)|null|
 |**2024-04-26**|**Rytov Approximation of Vectorial Waves by Modifying Scattering Matrixes: Precise Reconstruction of Dielectric Tensor Tomography**|ChulMin Oh, Herve Hugonnet, Juheon Lee, YongKeun Park|[2404.17206](http://arxiv.org/abs/2404.17206)|null|
 |**2024-04-25**|**Type-I two-Higgs-doublet model and gravitational waves from domain walls bounded by strings**|Bowen Fu, Anish Ghoshal, Stephen F. King, Moinul Hossain Rahat|[2404.16931](http://arxiv.org/abs/2404.16931)|null|
