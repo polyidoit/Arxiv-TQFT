@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Generalized Symmetries in 2D from String Theory: SymTFTs, Intrinsic Relativeness, and Anomalies of Non-invertible Symmetries**|Sebastian Franco, Xingyang Yu|[2404.19761](http://arxiv.org/abs/2404.19761)|null|
+|**2024-04-30**|**On the inefficiency of fermion level-crossing under the parity-violating spin-2 gravitational field**|Kohei Kamada, Jun'ya Kume|[2404.19726](http://arxiv.org/abs/2404.19726)|null|
+|**2024-04-30**|**Non-semisimple Crane-Yetter theory varying over the character stack**|Patrick Kinnear|[2404.19667](http://arxiv.org/abs/2404.19667)|null|
+|**2024-04-29**|**Topological holography for fermions**|Rui Wen, Weicheng Ye, Andrew C. Potter|[2404.19004](http://arxiv.org/abs/2404.19004)|null|
 |**2024-04-30**|**Scheme for braiding Majorana zero modes in vortices using an STT-matrix**|Guangyao Huang, Xinfang Zhang, Xiaofeng Yi, Jibang Fu, Weichen Wang, Mingtang Deng|[2404.18578](http://arxiv.org/abs/2404.18578)|null|
 |**2024-04-29**|**Floquet Amorphous Topological Orders in a Rydberg Glass**|Peng He, Jing-Xin Liu, Hong Wu, Z. D. Wang|[2404.18512](http://arxiv.org/abs/2404.18512)|null|
 |**2024-04-27**|**Plastic instability of annular crystalline membrane in circular confinement**|Honghui Sun, Zhenwei Yao|[2404.17797](http://arxiv.org/abs/2404.17797)|null|
