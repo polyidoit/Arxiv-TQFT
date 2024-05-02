@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Transport of topological defects in a biphasic mixture of active and passive nematic fluids**|KVS Chaithanya, Aleksandra Ardaševa, Oliver J. Meacock, William M. Durham, Sumesh P. Thampi, Amin Doostmohammadi|[2405.00547](http://arxiv.org/abs/2405.00547)|null|
+|**2024-05-01**|**Fractional domain wall statistics in spin chains with anomalous symmetries**|Jose Garre Rubio, Norbert Schuch|[2405.00439](http://arxiv.org/abs/2405.00439)|null|
+|**2024-05-01**|**Entanglement and fidelity across quantum phase transitions in locally perturbed topological codes with open boundaries**|Harikrishnan K J, Amit Kumar Pal|[2405.00416](http://arxiv.org/abs/2405.00416)|null|
 |**2024-04-30**|**Generalized Symmetries in 2D from String Theory: SymTFTs, Intrinsic Relativeness, and Anomalies of Non-invertible Symmetries**|Sebastian Franco, Xingyang Yu|[2404.19761](http://arxiv.org/abs/2404.19761)|null|
 |**2024-04-30**|**On the inefficiency of fermion level-crossing under the parity-violating spin-2 gravitational field**|Kohei Kamada, Jun'ya Kume|[2404.19726](http://arxiv.org/abs/2404.19726)|null|
 |**2024-04-30**|**Non-semisimple Crane-Yetter theory varying over the character stack**|Patrick Kinnear|[2404.19667](http://arxiv.org/abs/2404.19667)|null|
