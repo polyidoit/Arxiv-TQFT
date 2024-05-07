@@ -11,6 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Strong-to-Weak Spontaneous Symmetry Breaking in Mixed Quantum States**|Leonardo A. Lessa, Ruochen Ma, Jian-Hao Zhang, Zhen Bi, Meng Cheng, Chong Wang|[2405.03639](http://arxiv.org/abs/2405.03639)|null|
+|**2024-05-06**|**Distance between two manifolds, topological phase transitions and scaling laws**|ZhaoXiang Fang, Ming Gong, Guang-Can Guo, Yongxu Fu, Long Xiong|[2405.03323](http://arxiv.org/abs/2405.03323)|null|
+|**2024-05-06**|**Using magnetic dynamics to measure the spin gap in a candidate Kitaev material**|Xinyi Jiang, Qingzheng Qiu, Cheng Peng, Hoyoung Jang, Wenjie Chen, Xianghong Jin, Li Yue, Byungjune Lee, Sang-Youn Park, Minseok Kim, Hyeong-Do Kim, Xinqiang Cai, Qizhi Li, Tao Dong, Nanlin Wang, Joshua J. Turner, Yuan Li, Yao Wang, Yingying Peng|[2405.03212](http://arxiv.org/abs/2405.03212)|null|
+|**2024-05-05**|**Topological symmetry-restored phase of gravity**|Guilherme Sadovski, Rodrigo F. Sobreiro|[2405.02884](http://arxiv.org/abs/2405.02884)|null|
+|**2024-05-03**|**Spontaneous Strong Symmetry Breaking in Open Systems: Purification Perspective**|Pablo Sala, Sarang Gopalakrishnan, Masaki Oshikawa, Yizhi You|[2405.02402](http://arxiv.org/abs/2405.02402)|null|
+|**2024-05-03**|**Towards a classification of mixed-state topological orders in two dimensions**|Tyler Ellison, Meng Cheng|[2405.02390](http://arxiv.org/abs/2405.02390)|null|
 |**2024-05-02**|**k-Fold Gaussian Random Matrix Ensembles I: Forcing Structure into Random Matrices**|Michael Brodskiy, Owen L. Howell|[2405.01727](http://arxiv.org/abs/2405.01727)|null|
 |**2024-05-01**|**Transport of topological defects in a biphasic mixture of active and passive nematic fluids**|KVS Chaithanya, Aleksandra Ardaševa, Oliver J. Meacock, William M. Durham, Sumesh P. Thampi, Amin Doostmohammadi|[2405.00547](http://arxiv.org/abs/2405.00547)|null|
 |**2024-05-01**|**Fractional domain wall statistics in spin chains with anomalous symmetries**|Jose Garre Rubio, Norbert Schuch|[2405.00439](http://arxiv.org/abs/2405.00439)|null|
