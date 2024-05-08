@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Memristive switching in the surface of a charge-density-wave topological semimetal**|Jianwen Ma, Xianghao Meng, Binhua Zhang, Yuxiang Wang, Yicheng Mou, Wenting Lin, Yannan Dai, Luqiu Chen, Haonan Wang, Haoqi Wu, Jiaming Gu, Jiayu Wang, Yuhan Du, Chunsen Liu, Wu Shi, Zhenzhong Yang, Bobo Tian, Lin Miao, Peng Zhou, Chun-Gang Duan, Changsong Xu, Xiang Yuan, Cheng Zhang|[2405.03966](http://arxiv.org/abs/2405.03966)|null|
+|**2024-05-07**|**MSene: A new large family of two-dimensional transition metal sulfide with MXene structure**|Shu-Xiang Qiao, Yu-Lin Han, Na Jiao, Meng-Meng Zheng, Hong-Yan Lu, Ping Zhang|[2405.03928](http://arxiv.org/abs/2405.03928)|null|
+|**2024-05-06**|**Identifying the topological order of quantized half-filled Landau levels through their daughter states**|Evgenii Zheltonozhskii, Ady Stern, Netanel Lindner|[2405.03780](http://arxiv.org/abs/2405.03780)|null|
+|**2024-05-06**|**Paired fermions in strong magnetic fields and daughters of even-denominator Hall plateaus**|Misha Yutushui, Maria Hermanns, David F. Mross|[2405.03753](http://arxiv.org/abs/2405.03753)|null|
 |**2024-05-06**|**Strong-to-Weak Spontaneous Symmetry Breaking in Mixed Quantum States**|Leonardo A. Lessa, Ruochen Ma, Jian-Hao Zhang, Zhen Bi, Meng Cheng, Chong Wang|[2405.03639](http://arxiv.org/abs/2405.03639)|null|
 |**2024-05-06**|**Distance between two manifolds, topological phase transitions and scaling laws**|ZhaoXiang Fang, Ming Gong, Guang-Can Guo, Yongxu Fu, Long Xiong|[2405.03323](http://arxiv.org/abs/2405.03323)|null|
 |**2024-05-06**|**Using magnetic dynamics to measure the spin gap in a candidate Kitaev material**|Xinyi Jiang, Qingzheng Qiu, Cheng Peng, Hoyoung Jang, Wenjie Chen, Xianghong Jin, Li Yue, Byungjune Lee, Sang-Youn Park, Minseok Kim, Hyeong-Do Kim, Xinqiang Cai, Qizhi Li, Tao Dong, Nanlin Wang, Joshua J. Turner, Yuan Li, Yao Wang, Yingying Peng|[2405.03212](http://arxiv.org/abs/2405.03212)|null|
