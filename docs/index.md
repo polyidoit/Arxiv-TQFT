@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**The Non-Invertible Axial Symmetry in QED Comes Full Circle**|Adrien Arbalestrier, Riccardo Argurio, Luigi Tizzano|[2405.06596](http://arxiv.org/abs/2405.06596)|null|
+|**2024-05-10**|**Experimental identification of topological defects in 2D colloidal glass**|Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim, Alessio Zaccone|[2405.06494](http://arxiv.org/abs/2405.06494)|null|
 |**2024-05-09**|**Quantum Communication and Mixed-State Order in Decohered Symmetry-Protected Topological States**|Zhehao Zhang, Utkarsh Agrawal, Sagar Vijay|[2405.05965](http://arxiv.org/abs/2405.05965)|null|
 |**2024-05-09**|**Lattice Models for Phases and Transitions with Non-Invertible Symmetries**|Lakshya Bhardwaj, Lea E. Bottini, Sakura Schafer-Nameki, Apoorv Tiwari|[2405.05964](http://arxiv.org/abs/2405.05964)|null|
 |**2024-05-08**|**Quantum Phases and Transitions in Spin Chains with Non-Invertible Symmetries**|Arkya Chatterjee, Ömer M. Aksoy, Xiao-Gang Wen|[2405.05331](http://arxiv.org/abs/2405.05331)|null|
