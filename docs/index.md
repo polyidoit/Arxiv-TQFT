@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Giving a $KO$ to 8D Gauge Anomalies**|Ethan Torres|[2405.08809](http://arxiv.org/abs/2405.08809)|null|
+|**2024-05-13**|**On the affine permutation group of certain decreasing Cartesian codes**|Eduardo Camps-Moreno, Hiram H. López, Eliseo Sarmiento, Ivan Soprunov|[2405.08112](http://arxiv.org/abs/2405.08112)|null|
+|**2024-05-13**|**The Fusion Categorical Diagonal**|Daniel Robbins, Thomas Vandermeulen|[2405.08058](http://arxiv.org/abs/2405.08058)|null|
 |**2024-05-13**|**Action of the axial $U(1)$ non-invertible symmetry on the 't~Hooft line operator: A simple argument**|Yamato Honda, Soma Onoda, Hiroshi Suzuki|[2405.07669](http://arxiv.org/abs/2405.07669)|null|
 |**2024-05-10**|**The Non-Invertible Axial Symmetry in QED Comes Full Circle**|Adrien Arbalestrier, Riccardo Argurio, Luigi Tizzano|[2405.06596](http://arxiv.org/abs/2405.06596)|null|
 |**2024-05-10**|**Experimental identification of topological defects in 2D colloidal glass**|Vinay Vaibhav, Arabinda Bera, Amelia C. Y. Liu, Matteo Baggioli, Peter Keim, Alessio Zaccone|[2405.06494](http://arxiv.org/abs/2405.06494)|null|
