@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 
 ## TQFT and Topological order
 
@@ -17,7 +17,7 @@ layout: default
 |**2024-05-09**|**Quantum Communication and Mixed-State Order in Decohered Symmetry-Protected Topological States**|Zhehao Zhang, Utkarsh Agrawal, Sagar Vijay|[2405.05965](http://arxiv.org/abs/2405.05965)|null|
 |**2024-05-09**|**Lattice Models for Phases and Transitions with Non-Invertible Symmetries**|Lakshya Bhardwaj, Lea E. Bottini, Sakura Schafer-Nameki, Apoorv Tiwari|[2405.05964](http://arxiv.org/abs/2405.05964)|null|
 |**2024-05-08**|**Quantum Phases and Transitions in Spin Chains with Non-Invertible Symmetries**|Arkya Chatterjee, Ömer M. Aksoy, Xiao-Gang Wen|[2405.05331](http://arxiv.org/abs/2405.05331)|null|
-|**2024-05-08**|**Fusion rule in conformal field theories and topological orders: A unified view of correspondence and (fractional) supersymmetry and their relation to topological holography**|Yoshiki Fukusumi|[2405.05178](http://arxiv.org/abs/2405.05178)|null|
+|**2024-05-15**|**Fusion rule in conformal field theories and topological orders: A unified view of correspondence and (fractional) supersymmetry and their relation to topological holography**|Yoshiki Fukusumi|[2405.05178](http://arxiv.org/abs/2405.05178)|null|
 |**2024-05-07**|**Memristive switching in the surface of a charge-density-wave topological semimetal**|Jianwen Ma, Xianghao Meng, Binhua Zhang, Yuxiang Wang, Yicheng Mou, Wenting Lin, Yannan Dai, Luqiu Chen, Haonan Wang, Haoqi Wu, Jiaming Gu, Jiayu Wang, Yuhan Du, Chunsen Liu, Wu Shi, Zhenzhong Yang, Bobo Tian, Lin Miao, Peng Zhou, Chun-Gang Duan, Changsong Xu, Xiang Yuan, Cheng Zhang|[2405.03966](http://arxiv.org/abs/2405.03966)|null|
 |**2024-05-09**|**MSene: A new large family of two-dimensional transition metal sulfide with MXene structure**|Shu-Xiang Qiao, Yu-Lin Han, Na Jiao, Meng-Meng Zheng, Hong-Yan Lu, Ping Zhang|[2405.03928](http://arxiv.org/abs/2405.03928)|null|
 |**2024-05-06**|**Identifying the topological order of quantized half-filled Landau levels through their daughter states**|Evgenii Zheltonozhskii, Ady Stern, Netanel Lindner|[2405.03780](http://arxiv.org/abs/2405.03780)|null|
