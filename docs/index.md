@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Photonic Landau levels in a high-dimensional frequency-degenerate cavity**|Jing Pan, Zhaoyang Wang, Yuan Meng, Xing Fu, Yijie Shen, Qiang Liu|[2405.09456](http://arxiv.org/abs/2405.09456)|null|
+|**2024-05-15**|**Logical coherence in 2D compass codes**|Balint Pato, Judd Will Staples Jr., Kenneth R. Brown|[2405.09287](http://arxiv.org/abs/2405.09287)|null|
+|**2024-05-15**|**Generalized cluster states from Hopf algebras: non-invertible symmetry and Hopf tensor network representation**|Zhian Jia|[2405.09277](http://arxiv.org/abs/2405.09277)|null|
 |**2024-05-14**|**Giving a $KO$ to 8D Gauge Anomalies**|Ethan Torres|[2405.08809](http://arxiv.org/abs/2405.08809)|null|
 |**2024-05-13**|**On the affine permutation group of certain decreasing Cartesian codes**|Eduardo Camps-Moreno, Hiram H. López, Eliseo Sarmiento, Ivan Soprunov|[2405.08112](http://arxiv.org/abs/2405.08112)|null|
 |**2024-05-13**|**The Fusion Categorical Diagonal**|Daniel Robbins, Thomas Vandermeulen|[2405.08058](http://arxiv.org/abs/2405.08058)|null|
