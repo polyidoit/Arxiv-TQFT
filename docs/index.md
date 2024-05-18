@@ -2,12 +2,18 @@
 layout: default
 ---
 
-## Updated on 2024.05.17
+## Updated on 2024.05.18
 
 ## TQFT and Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Hydrodynamic Edge Modes and Fragile Surface States of Symmetry Protected Integer Quantum Hall Effect of Bosons**|Dylan Reynolds, Gustavo M. Monteiro, Sriram Ganeshan|[2405.10309](http://arxiv.org/abs/2405.10309)|null|
+|**2024-05-16**|**On fusing matrices associated with conformal boundary conditions**|Anatoly Konechny, Vasileios Vergioglou|[2405.10189](http://arxiv.org/abs/2405.10189)|null|
+|**2024-05-16**|**Fermionic Non-Invertible Symmetries in (1+1)d: Gapped and Gapless Phases, Transitions, and Symmetry TFTs**|Lakshya Bhardwaj, Kansei Inamura, Apoorv Tiwari|[2405.09754](http://arxiv.org/abs/2405.09754)|null|
+|**2024-05-16**|**Gravitational Chern-Simons form and Chiral Gravitational Anomaly in Fluid Mechanics**|P. B. Wiegmann|[2405.09751](http://arxiv.org/abs/2405.09751)|null|
+|**2024-05-15**|**Characterizing MPS and PEPS Preparable via Measurement and Feedback**|Yifan Zhang, Sarang Gopalakrishnan, Georgios Styliaris|[2405.09615](http://arxiv.org/abs/2405.09615)|null|
+|**2024-05-15**|**Fermionic quantum criticality through the lens of topological holography**|Sheng-Jie Huang|[2405.09611](http://arxiv.org/abs/2405.09611)|null|
 |**2024-05-15**|**Photonic Landau levels in a high-dimensional frequency-degenerate cavity**|Jing Pan, Zhaoyang Wang, Yuan Meng, Xing Fu, Yijie Shen, Qiang Liu|[2405.09456](http://arxiv.org/abs/2405.09456)|null|
 |**2024-05-15**|**Logical coherence in 2D compass codes**|Balint Pato, Judd Will Staples Jr., Kenneth R. Brown|[2405.09287](http://arxiv.org/abs/2405.09287)|null|
 |**2024-05-15**|**Generalized cluster states from Hopf algebras: non-invertible symmetry and Hopf tensor network representation**|Zhian Jia|[2405.09277](http://arxiv.org/abs/2405.09277)|null|
