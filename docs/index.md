@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Non-Abelian Self-Correcting Quantum Memory**|Po-Shen Hsin, Ryohei Kobayashi, Guanyu Zhu|[2405.11719](http://arxiv.org/abs/2405.11719)|null|
+|**2024-05-19**|**Attention to Quantum Complexity**|Hyejin Kim, Yiqing Zhou, Yichen Xu, Kaarthik Varma, Amir H. Karamlou, Ilan T. Rosen, Jesse C. Hoke, Chao Wan, Jin Peng Zhou, William D. Oliver, Yuri D. Lensky, Kilian Q. Weinberger, Eun-Ah Kim|[2405.11632](http://arxiv.org/abs/2405.11632)|null|
 |**2024-05-16**|**Hydrodynamic Edge Modes and Fragile Surface States of Symmetry Protected Integer Quantum Hall Effect of Bosons**|Dylan Reynolds, Gustavo M. Monteiro, Sriram Ganeshan|[2405.10309](http://arxiv.org/abs/2405.10309)|null|
 |**2024-05-16**|**On fusing matrices associated with conformal boundary conditions**|Anatoly Konechny, Vasileios Vergioglou|[2405.10189](http://arxiv.org/abs/2405.10189)|null|
 |**2024-05-16**|**Fermionic Non-Invertible Symmetries in (1+1)d: Gapped and Gapless Phases, Transitions, and Symmetry TFTs**|Lakshya Bhardwaj, Kansei Inamura, Apoorv Tiwari|[2405.09754](http://arxiv.org/abs/2405.09754)|null|
