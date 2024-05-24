@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Embedded Majorana Islands**|Jin-Xing Hou, Alex Westström, Rui Wang, Wen-Li Yang, Jian Li|[2405.14160](http://arxiv.org/abs/2405.14160)|null|
+|**2024-05-22**|**Active nematodynamics on deformable surfaces**|Ingo Nitschke, Axel Voigt|[2405.13683](http://arxiv.org/abs/2405.13683)|null|
+|**2024-05-22**|**Spin Green's Function Approach to Understanding Localized Majorana Fermions in the Kitaev Model**|Hibiki Takegami, Takao Morinari|[2405.13309](http://arxiv.org/abs/2405.13309)|null|
+|**2024-05-21**|**Non-invertible and higher-form symmetries in 2+1d lattice gauge theories**|Yichul Choi, Yaman Sanghavi, Shu-Heng Shao, Yunqin Zheng|[2405.13105](http://arxiv.org/abs/2405.13105)|null|
 |**2024-05-20**|**Non-Abelian Self-Correcting Quantum Memory**|Po-Shen Hsin, Ryohei Kobayashi, Guanyu Zhu|[2405.11719](http://arxiv.org/abs/2405.11719)|null|
 |**2024-05-19**|**Attention to Quantum Complexity**|Hyejin Kim, Yiqing Zhou, Yichen Xu, Kaarthik Varma, Amir H. Karamlou, Ilan T. Rosen, Jesse C. Hoke, Chao Wan, Jin Peng Zhou, William D. Oliver, Yuri D. Lensky, Kilian Q. Weinberger, Eun-Ah Kim|[2405.11632](http://arxiv.org/abs/2405.11632)|null|
 |**2024-05-16**|**Hydrodynamic Edge Modes and Fragile Surface States of Symmetry Protected Integer Quantum Hall Effect of Bosons**|Dylan Reynolds, Gustavo M. Monteiro, Sriram Ganeshan|[2405.10309](http://arxiv.org/abs/2405.10309)|null|
