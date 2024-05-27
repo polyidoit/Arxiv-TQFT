@@ -1,4 +1,4 @@
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 |**2024-05-23**|**Embedded Majorana Islands**|Jin-Xing Hou, Alex Westström, Rui Wang, Wen-Li Yang, Jian Li|[2405.14160](http://arxiv.org/abs/2405.14160)|null|
 |**2024-05-22**|**Active nematodynamics on deformable surfaces**|Ingo Nitschke, Axel Voigt|[2405.13683](http://arxiv.org/abs/2405.13683)|null|
-|**2024-05-22**|**Spin Green's Function Approach to Understanding Localized Majorana Fermions in the Kitaev Model**|Hibiki Takegami, Takao Morinari|[2405.13309](http://arxiv.org/abs/2405.13309)|null|
+|**2024-05-24**|**Spin Green's Function Approach to Understanding Localized Majorana Fermions in the Kitaev Model**|Hibiki Takegami, Takao Morinari|[2405.13309](http://arxiv.org/abs/2405.13309)|null|
 |**2024-05-21**|**Non-invertible and higher-form symmetries in 2+1d lattice gauge theories**|Yichul Choi, Yaman Sanghavi, Shu-Heng Shao, Yunqin Zheng|[2405.13105](http://arxiv.org/abs/2405.13105)|null|
 |**2024-05-20**|**Non-Abelian Self-Correcting Quantum Memory**|Po-Shen Hsin, Ryohei Kobayashi, Guanyu Zhu|[2405.11719](http://arxiv.org/abs/2405.11719)|null|
 |**2024-05-19**|**Attention to Quantum Complexity**|Hyejin Kim, Yiqing Zhou, Yichen Xu, Kaarthik Varma, Amir H. Karamlou, Ilan T. Rosen, Jesse C. Hoke, Chao Wan, Jin Peng Zhou, William D. Oliver, Yuri D. Lensky, Kilian Q. Weinberger, Eun-Ah Kim|[2405.11632](http://arxiv.org/abs/2405.11632)|null|
@@ -406,5 +406,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#updated-on-20240526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240527>back to top</a>)</p>
 
