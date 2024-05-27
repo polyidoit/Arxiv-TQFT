@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Non-invertible symmetries in $S_N$ orbifold CFTs and holography**|Michael Gutperle, Yan-Yan Li, Dikshant Rathore, Konstantinos Roumpedakis|[2405.15693](http://arxiv.org/abs/2405.15693)|null|
+|**2024-05-24**|**The ABCDEFGJK of maximally strongly coupled $\mathcal{N}=2$ SCFTs**|Antonio Amariti, Simone Rota|[2405.15582](http://arxiv.org/abs/2405.15582)|null|
+|**2024-05-24**|**Differential geometry, a possible avenue for thermal ablation in oncology?**|Andy Manapany, Loriane Didier, Leïla Moueddene, Bertrand Berche, Sébastien Fumeron|[2405.15257](http://arxiv.org/abs/2405.15257)|null|
 |**2024-05-23**|**Embedded Majorana Islands**|Jin-Xing Hou, Alex Westström, Rui Wang, Wen-Li Yang, Jian Li|[2405.14160](http://arxiv.org/abs/2405.14160)|null|
 |**2024-05-22**|**Active nematodynamics on deformable surfaces**|Ingo Nitschke, Axel Voigt|[2405.13683](http://arxiv.org/abs/2405.13683)|null|
 |**2024-05-24**|**Spin Green's Function Approach to Understanding Localized Majorana Fermions in the Kitaev Model**|Hibiki Takegami, Takao Morinari|[2405.13309](http://arxiv.org/abs/2405.13309)|null|
