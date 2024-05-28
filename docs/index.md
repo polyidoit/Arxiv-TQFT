@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**Crystalline invariants of fractional Chern insulators**|Ryohei Kobayashi, Yuxuan Zhang, Naren Manjunath, Maissam Barkeshli|[2405.17431](http://arxiv.org/abs/2405.17431)|null|
+|**2024-05-27**|**Free energy formulas for confined nematic liquid crystals based on analogies with Kirchhoff-Routh theory in vortex dynamics**|Hiroyuki Miyoshi, Hiroki Miyazako, Takaaki Nara|[2405.16742](http://arxiv.org/abs/2405.16742)|null|
+|**2024-05-25**|**Non-hyperbolic 3-manifolds and 3D field theories for 2D Virasoro minimal models**|Dongmin Gang, Heesu Kang, Seongmin Kim|[2405.16377](http://arxiv.org/abs/2405.16377)|null|
+|**2024-05-24**|**A numerical method for designing topological superconductors induced by s-wave superconductivity**|Jingnan Hu, Aiyun Luo, Zhijun Wang, Quansheng Wu, Gang Xu|[2405.15981](http://arxiv.org/abs/2405.15981)|null|
+|**2024-05-24**|**Anomaly inflow for CSS and fractonic lattice models and dualities via cluster state measurement**|Takuya Okuda, Aswin Parayil Mana, Hiroki Sukeno|[2405.15853](http://arxiv.org/abs/2405.15853)|null|
 |**2024-05-24**|**Non-invertible symmetries in $S_N$ orbifold CFTs and holography**|Michael Gutperle, Yan-Yan Li, Dikshant Rathore, Konstantinos Roumpedakis|[2405.15693](http://arxiv.org/abs/2405.15693)|null|
 |**2024-05-24**|**The ABCDEFGJK of maximally strongly coupled $\mathcal{N}=2$ SCFTs**|Antonio Amariti, Simone Rota|[2405.15582](http://arxiv.org/abs/2405.15582)|null|
 |**2024-05-24**|**Differential geometry, a possible avenue for thermal ablation in oncology?**|Andy Manapany, Loriane Didier, Leïla Moueddene, Bertrand Berche, Sébastien Fumeron|[2405.15257](http://arxiv.org/abs/2405.15257)|null|
