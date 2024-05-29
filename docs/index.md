@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Continuous Transition between Bosonic Fractional Chern Insulator and Superfluid**|Hongyu Lu, Han-Qing Wu, Bin-Bin Chen, Zi Yang Meng|[2405.18269](http://arxiv.org/abs/2405.18269)|null|
+|**2024-05-27**|**Approximately-symmetric neural networks for quantum spin liquids**|Dominik S. Kufel, Jack Kemp, Simon M. Linsel, Chris R. Laumann, Norman Y. Yao|[2405.17541](http://arxiv.org/abs/2405.17541)|null|
 |**2024-05-27**|**Crystalline invariants of fractional Chern insulators**|Ryohei Kobayashi, Yuxuan Zhang, Naren Manjunath, Maissam Barkeshli|[2405.17431](http://arxiv.org/abs/2405.17431)|null|
 |**2024-05-27**|**Free energy formulas for confined nematic liquid crystals based on analogies with Kirchhoff-Routh theory in vortex dynamics**|Hiroyuki Miyoshi, Hiroki Miyazako, Takaaki Nara|[2405.16742](http://arxiv.org/abs/2405.16742)|null|
 |**2024-05-25**|**Non-hyperbolic 3-manifolds and 3D field theories for 2D Virasoro minimal models**|Dongmin Gang, Heesu Kang, Seongmin Kim|[2405.16377](http://arxiv.org/abs/2405.16377)|null|
