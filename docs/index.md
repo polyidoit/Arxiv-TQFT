@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**The $SL_2(\mathbb{R})$ duality and the non-invertible $U(1)$ symmetry of Maxwell theory**|Azeem Hasan, Shani Meynet, Daniele Migliorati|[2405.19218](http://arxiv.org/abs/2405.19218)|null|
+|**2024-05-29**|**Diagrammatic Representations of Higher-Dimensional Topological Orders**|Yizhou Huang, Zhi-Feng Zhang, Peng Ye|[2405.19077](http://arxiv.org/abs/2405.19077)|null|
+|**2024-05-28**|**Pristine and Pseudo-gapped Boundaries of the Deconfined Quantum Critical Points**|Nayan Myerson-Jain, Xiao-Chuan Wu, Cenke Xu|[2405.18481](http://arxiv.org/abs/2405.18481)|null|
 |**2024-05-28**|**Continuous Transition between Bosonic Fractional Chern Insulator and Superfluid**|Hongyu Lu, Han-Qing Wu, Bin-Bin Chen, Zi Yang Meng|[2405.18269](http://arxiv.org/abs/2405.18269)|null|
 |**2024-05-27**|**Approximately-symmetric neural networks for quantum spin liquids**|Dominik S. Kufel, Jack Kemp, Simon M. Linsel, Chris R. Laumann, Norman Y. Yao|[2405.17541](http://arxiv.org/abs/2405.17541)|null|
 |**2024-05-27**|**Crystalline invariants of fractional Chern insulators**|Ryohei Kobayashi, Yuxuan Zhang, Naren Manjunath, Maissam Barkeshli|[2405.17431](http://arxiv.org/abs/2405.17431)|null|
