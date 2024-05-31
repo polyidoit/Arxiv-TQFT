@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Fast Algorithm for Multiplication on the Skein Algebra of One-hole Torus**|Sike Wang, Helen Wong|[2405.20159](http://arxiv.org/abs/2405.20159)|null|
+|**2024-05-30**|**On Low-Rank Multiplicity-Free Fusion Categories**|Gert Vercleyen|[2405.20075](http://arxiv.org/abs/2405.20075)|null|
+|**2024-05-30**|**High topological charge lasing in quasicrystals**|Kristian Arjas, Jani M. Taskinen, Rebecca Heilmann, Grazia Salerno, Päivi Törmä|[2405.19980](http://arxiv.org/abs/2405.19980)|null|
+|**2024-05-30**|**Generic transverse stability of kink structures in atomic and optical nonlinear media with competing attractive and repulsive interactions**|S. I. Mistakidis, G. Bougas, G. C. Katsimiga, P. G. Kevrekidis|[2405.19607](http://arxiv.org/abs/2405.19607)|null|
+|**2024-05-29**|**Quarter- and half-filled quantum Hall states and their competing interactions in bilayer graphene**|Ravi Kumar, André Haug, Jehyun Kim, Misha Yutushui, Konstantin Khudiakov, Vishal Bhardwaj, Alexey Ilin, Kenji Watanabe, Takashi Taniguchi, David F. Mross, Yuval Ronen|[2405.19405](http://arxiv.org/abs/2405.19405)|null|
 |**2024-05-29**|**The $SL_2(\mathbb{R})$ duality and the non-invertible $U(1)$ symmetry of Maxwell theory**|Azeem Hasan, Shani Meynet, Daniele Migliorati|[2405.19218](http://arxiv.org/abs/2405.19218)|null|
 |**2024-05-29**|**Diagrammatic Representations of Higher-Dimensional Topological Orders**|Yizhou Huang, Zhi-Feng Zhang, Peng Ye|[2405.19077](http://arxiv.org/abs/2405.19077)|null|
 |**2024-05-28**|**Pristine and Pseudo-gapped Boundaries of the Deconfined Quantum Critical Points**|Nayan Myerson-Jain, Xiao-Chuan Wu, Cenke Xu|[2405.18481](http://arxiv.org/abs/2405.18481)|null|
