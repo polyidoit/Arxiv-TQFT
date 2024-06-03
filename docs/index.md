@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**The four-components link invariant in the framework of topological field theories**|M. Anda, E. Fuenmayor, L. Leal, E. Contreras|[2405.20437](http://arxiv.org/abs/2405.20437)|null|
+|**2024-05-30**|**Fractionalization of Coset Non-Invertible Symmetry and Exotic Hall Conductance**|Po-Shen Hsin, Ryohei Kobayashi, Carolyn Zhang|[2405.20401](http://arxiv.org/abs/2405.20401)|null|
 |**2024-05-30**|**Fast Algorithm for Multiplication on the Skein Algebra of One-hole Torus**|Sike Wang, Helen Wong|[2405.20159](http://arxiv.org/abs/2405.20159)|null|
 |**2024-05-30**|**On Low-Rank Multiplicity-Free Fusion Categories**|Gert Vercleyen|[2405.20075](http://arxiv.org/abs/2405.20075)|null|
 |**2024-05-30**|**High topological charge lasing in quasicrystals**|Kristian Arjas, Jani M. Taskinen, Rebecca Heilmann, Grazia Salerno, Päivi Törmä|[2405.19980](http://arxiv.org/abs/2405.19980)|null|
