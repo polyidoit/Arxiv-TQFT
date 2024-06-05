@@ -11,6 +11,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Hybrid inflation and gravitational waves from accidentally light scalars**|Felix Brümmer, Giacomo Ferrante, Michele Frigerio|[2406.02531](http://arxiv.org/abs/2406.02531)|null|
+|**2024-06-04**|**Toeplitz non-liquids and Toeplitz braiding**|Boxi Li, Yao Zhou, Peng Ye|[2406.02482](http://arxiv.org/abs/2406.02482)|null|
+|**2024-06-04**|**Primordial gravitational wave backgrounds from phase transitions with next generation ground based detectors**|Chiara Caprini, Oriol Pujolàs, Hippolyte Quelquejay-Leclere, Fabrizio Rompineve, Danièle A. Steer|[2406.02359](http://arxiv.org/abs/2406.02359)|null|
+|**2024-06-03**|**Intrinsic conformal order revealed in geometrically confined long-range repulsive particles**|Zhenwei Yao|[2406.01053](http://arxiv.org/abs/2406.01053)|null|
+|**2024-06-03**|**Half-integer Vortices Paired via String Micelles in Ferroelectric Liquid Crystals Facilitated by Ionic Polymer Doping**|Zhongjie Ma, Miao Jiang, Yaohao Song, Aile Sun, Shengzhu Yi, Chao Zhou, Xiang Huang, Mingjun Huang, Satoshi Aya, Qi-Huo Wei|[2406.00994](http://arxiv.org/abs/2406.00994)|null|
+|**2024-06-01**|**Creation and manipulation of surface code defects with quantum optimal control**|Omar Raii, Anirban Dey, Florian Mintert, Daniel Burgarth|[2406.00460](http://arxiv.org/abs/2406.00460)|null|
+|**2024-06-01**|**There are no good infinite families of toric codes**|Jason P. Bell, Sean Monahan, Matthew Satriano, Karen Situ, Zheng Xie|[2406.00243](http://arxiv.org/abs/2406.00243)|null|
+|**2024-06-04**|**Learning topological states from randomized measurements using variational tensor network tomography**|Yanting Teng, Rhine Samajdar, Katherine Van Kirk, Frederik Wilde, Subir Sachdev, Jens Eisert, Ryan Sweke, Khadijeh Najafi|[2406.00193](http://arxiv.org/abs/2406.00193)|null|
 |**2024-05-30**|**The four-components link invariant in the framework of topological field theories**|M. Anda, E. Fuenmayor, L. Leal, E. Contreras|[2405.20437](http://arxiv.org/abs/2405.20437)|null|
 |**2024-05-30**|**Fractionalization of Coset Non-Invertible Symmetry and Exotic Hall Conductance**|Po-Shen Hsin, Ryohei Kobayashi, Carolyn Zhang|[2405.20401](http://arxiv.org/abs/2405.20401)|null|
 |**2024-05-30**|**Fast Algorithm for Multiplication on the Skein Algebra of One-hole Torus**|Sike Wang, Helen Wong|[2405.20159](http://arxiv.org/abs/2405.20159)|null|
