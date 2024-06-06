@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Topological defects and tensionless holography**|Bob Knighton, Vit Sriprachyakul, Jakub Vošmera|[2406.03467](http://arxiv.org/abs/2406.03467)|null|
+|**2024-06-05**|**Circle packing on spherical caps**|Paolo Amore|[2406.02851](http://arxiv.org/abs/2406.02851)|null|
 |**2024-06-04**|**Hybrid inflation and gravitational waves from accidentally light scalars**|Felix Brümmer, Giacomo Ferrante, Michele Frigerio|[2406.02531](http://arxiv.org/abs/2406.02531)|null|
 |**2024-06-04**|**Toeplitz non-liquids and Toeplitz braiding**|Boxi Li, Yao Zhou, Peng Ye|[2406.02482](http://arxiv.org/abs/2406.02482)|null|
 |**2024-06-04**|**Primordial gravitational wave backgrounds from phase transitions with next generation ground based detectors**|Chiara Caprini, Oriol Pujolàs, Hippolyte Quelquejay-Leclere, Fabrizio Rompineve, Danièle A. Steer|[2406.02359](http://arxiv.org/abs/2406.02359)|null|
