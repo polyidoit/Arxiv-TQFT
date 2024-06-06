@@ -1,4 +1,4 @@
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 |**2024-06-03**|**Half-integer Vortices Paired via String Micelles in Ferroelectric Liquid Crystals Facilitated by Ionic Polymer Doping**|Zhongjie Ma, Miao Jiang, Yaohao Song, Aile Sun, Shengzhu Yi, Chao Zhou, Xiang Huang, Mingjun Huang, Satoshi Aya, Qi-Huo Wei|[2406.00994](http://arxiv.org/abs/2406.00994)|null|
 |**2024-06-01**|**Creation and manipulation of surface code defects with quantum optimal control**|Omar Raii, Anirban Dey, Florian Mintert, Daniel Burgarth|[2406.00460](http://arxiv.org/abs/2406.00460)|null|
 |**2024-06-01**|**There are no good infinite families of toric codes**|Jason P. Bell, Sean Monahan, Matthew Satriano, Karen Situ, Zheng Xie|[2406.00243](http://arxiv.org/abs/2406.00243)|null|
-|**2024-06-04**|**Learning topological states from randomized measurements using variational tensor network tomography**|Yanting Teng, Rhine Samajdar, Katherine Van Kirk, Frederik Wilde, Subir Sachdev, Jens Eisert, Ryan Sweke, Khadijeh Najafi|[2406.00193](http://arxiv.org/abs/2406.00193)|null|
+|**2024-06-04**|**Learning topological states from randomized measurements using variational tensor network tomography**|Yanting Teng, Rhine Samajdar, Katherine Van Kirk, Frederik Wilde, Subir Sachdev, Jens Eisert, Ryan Sweke, Khadijeh Najafi|[2406.00193](http://arxiv.org/abs/2406.00193)|**[link](https://github.com/teng10/tn-shadow-qst)**|
 |**2024-05-30**|**The four-components link invariant in the framework of topological field theories**|M. Anda, E. Fuenmayor, L. Leal, E. Contreras|[2405.20437](http://arxiv.org/abs/2405.20437)|null|
 |**2024-05-30**|**Fractionalization of Coset Non-Invertible Symmetry and Exotic Hall Conductance**|Po-Shen Hsin, Ryohei Kobayashi, Carolyn Zhang|[2405.20401](http://arxiv.org/abs/2405.20401)|null|
 |**2024-05-30**|**Fast Algorithm for Multiplication on the Skein Algebra of One-hole Torus**|Sike Wang, Helen Wong|[2405.20159](http://arxiv.org/abs/2405.20159)|null|
@@ -434,5 +434,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#updated-on-20240605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240606>back to top</a>)</p>
 
