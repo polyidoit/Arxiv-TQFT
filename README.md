@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Field Theory for Superconducting Branes and Generalized Particle-Vortex Duality**|Kiyoharu Kawana|[2406.03670](http://arxiv.org/abs/2406.03670)|null|
+|**2024-06-05**|**Entanglement Asymmetry in non-Abelian Anyonic Systems**|Nicetu Tibau Vidal, Ved Kunte, Lucia Vilchez-Estevez, Mohit Lal Bera, Manabendra Nath Bera|[2406.03546](http://arxiv.org/abs/2406.03546)|null|
+|**2024-06-05**|**Electronic structure of topological defects in the pair-density-wave superconductor**|Marcus Rosales, Eduardo Fradkin|[2406.03538](http://arxiv.org/abs/2406.03538)|null|
 |**2024-06-05**|**Topological defects and tensionless holography**|Bob Knighton, Vit Sriprachyakul, Jakub Vošmera|[2406.03467](http://arxiv.org/abs/2406.03467)|null|
 |**2024-06-05**|**Circle packing on spherical caps**|Paolo Amore|[2406.02851](http://arxiv.org/abs/2406.02851)|null|
 |**2024-06-04**|**Hybrid inflation and gravitational waves from accidentally light scalars**|Felix Brümmer, Giacomo Ferrante, Michele Frigerio|[2406.02531](http://arxiv.org/abs/2406.02531)|null|
