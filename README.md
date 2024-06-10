@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Quantifying the quantum nature of high spin YSR excitations in transverse magnetic field**|Niels P. E. van Mullekom, Benjamin Verlhac, Werner M. J. van Weerdenburg, Hermann Osterhage, Manuel Steinbrecher, Katharina J. Franke, A. A. Khajetoorians|[2406.04931](http://arxiv.org/abs/2406.04931)|null|
+|**2024-06-07**|**The 3d-index of the 3d-skein module via the quantum trace map**|Stavros Garoufalidis, Tao Yu|[2406.04918](http://arxiv.org/abs/2406.04918)|null|
 |**2024-06-06**|**Field Theory for Superconducting Branes and Generalized Particle-Vortex Duality**|Kiyoharu Kawana|[2406.03670](http://arxiv.org/abs/2406.03670)|null|
 |**2024-06-05**|**Entanglement Asymmetry in non-Abelian Anyonic Systems**|Nicetu Tibau Vidal, Ved Kunte, Lucia Vilchez-Estevez, Mohit Lal Bera, Manabendra Nath Bera|[2406.03546](http://arxiv.org/abs/2406.03546)|null|
 |**2024-06-05**|**Electronic structure of topological defects in the pair-density-wave superconductor**|Marcus Rosales, Eduardo Fradkin|[2406.03538](http://arxiv.org/abs/2406.03538)|null|
