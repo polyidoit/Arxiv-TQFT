@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Space-Time Hopfion Crystals**|Wenbo Lin, Nilo Mata-Cervera, Yasutomo Ota, Yijie Shen, Satoshi Iwamoto|[2406.06096](http://arxiv.org/abs/2406.06096)|null|
+|**2024-06-09**|**Janus graphene nanoribbons with a single ferromagnetic zigzag edge**|Shaotang Song, Yu Teng, Weichen Tang, Zhen Xu, Yuanyuan He, Jiawei Ruan, Takahiro Kojima, Wenping Hu, Franz J Giessibl, Hiroshi Sakaguchi, Steven G Louie, Jiong Lu|[2406.05608](http://arxiv.org/abs/2406.05608)|null|
+|**2024-06-08**|**Generating Lattice Non-invertible Symmetries**|Weiguang Cao, Linhao Li, Masahito Yamazaki|[2406.05454](http://arxiv.org/abs/2406.05454)|null|
+|**2024-06-08**|**Exact quantization of topological order parameter in SU( $N$) spin models, $N$ -ality transformation and ingappabilities**|Hang Su, Yuan Yao, Akira Furusaki|[2406.05407](http://arxiv.org/abs/2406.05407)|null|
 |**2024-06-07**|**Quantifying the quantum nature of high spin YSR excitations in transverse magnetic field**|Niels P. E. van Mullekom, Benjamin Verlhac, Werner M. J. van Weerdenburg, Hermann Osterhage, Manuel Steinbrecher, Katharina J. Franke, A. A. Khajetoorians|[2406.04931](http://arxiv.org/abs/2406.04931)|null|
 |**2024-06-07**|**The 3d-index of the 3d-skein module via the quantum trace map**|Stavros Garoufalidis, Tao Yu|[2406.04918](http://arxiv.org/abs/2406.04918)|null|
 |**2024-06-06**|**Field Theory for Superconducting Branes and Generalized Particle-Vortex Duality**|Kiyoharu Kawana|[2406.03670](http://arxiv.org/abs/2406.03670)|null|
