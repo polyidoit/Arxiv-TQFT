@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Non-Invertible Surface Defects in 2+1d QFTs from Half Spacetime Gauging**|Wei Cui, Babak Haghighat, Lorenzo Ruggeri|[2406.09261](http://arxiv.org/abs/2406.09261)|null|
 |**2024-06-12**|**Holographic Superfluid Ring with a Weak Link**|Zhi-Hong li, Huai-Fan Li|[2406.07988](http://arxiv.org/abs/2406.07988)|null|
 |**2024-06-11**|**Average-exact mixed anomalies and compatible phases**|Yichen Xu, Chao-Ming Jian|[2406.07417](http://arxiv.org/abs/2406.07417)|null|
 |**2024-06-11**|**Scaling Large-Language-Model-based Multi-Agent Collaboration**|Chen Qian, Zihao Xie, Yifei Wang, Wei Liu, Yufan Dang, Zhuoyun Du, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun|[2406.07155](http://arxiv.org/abs/2406.07155)|**[link](https://github.com/openbmb/chatdev)**|
