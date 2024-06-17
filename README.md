@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**Emergent Atomic Scale Polarization Vortices**|Boyang Zhao, Gwan Yeong Jung, Huandong Chen, Shantanu Singh, Zhengyu Du, Claire Wu, Guodong Ren, Qinai Zhao, Nicholas S. Settineri, Simon J. Teat, Haidan Wen, Rohan Mishra, Jayakanth Ravichandran|[2406.09530](http://arxiv.org/abs/2406.09530)|null|
+|**2024-06-13**|**A Novel Perspective on Ideal Chern Bands with Strong Short-Range Repulsion: Applications to Correlated Metals, Superconductivity, and Topological Order**|Patrick H. Wilhelm, Andreas M. Läuchli, Mathias S. Scheurer|[2406.09505](http://arxiv.org/abs/2406.09505)|null|
 |**2024-06-13**|**Non-Invertible Surface Defects in 2+1d QFTs from Half Spacetime Gauging**|Wei Cui, Babak Haghighat, Lorenzo Ruggeri|[2406.09261](http://arxiv.org/abs/2406.09261)|null|
 |**2024-06-12**|**Holographic Superfluid Ring with a Weak Link**|Zhi-Hong li, Huai-Fan Li|[2406.07988](http://arxiv.org/abs/2406.07988)|null|
 |**2024-06-11**|**Average-exact mixed anomalies and compatible phases**|Yichen Xu, Chao-Ming Jian|[2406.07417](http://arxiv.org/abs/2406.07417)|null|
