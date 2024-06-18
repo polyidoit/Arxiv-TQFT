@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Neural Quantum State Study of Fracton Models**|Marc Machaczek, Lode Pollet, Ke Liu|[2406.11677](http://arxiv.org/abs/2406.11677)|null|
+|**2024-06-17**|**Categorified Open Topological Field Theories**|Lukas Müller, Lukas Woike|[2406.11605](http://arxiv.org/abs/2406.11605)|null|
+|**2024-06-17**|**Integer defects, flow localization, and bistability on curved active surfaces**|Rushikesh Shinde, Raphaël Voituriez, Andrew Callan-Jones|[2406.11465](http://arxiv.org/abs/2406.11465)|null|
+|**2024-06-16**|**A note on entanglement entropy and topological defects in symmetric orbifold CFTs**|Michael Gutperle, Yan-Yan Li, Dikshant Rathore, Konstantinos Roumpedakis|[2406.10967](http://arxiv.org/abs/2406.10967)|null|
 |**2024-06-13**|**Emergent Atomic Scale Polarization Vortices**|Boyang Zhao, Gwan Yeong Jung, Huandong Chen, Shantanu Singh, Zhengyu Du, Claire Wu, Guodong Ren, Qinai Zhao, Nicholas S. Settineri, Simon J. Teat, Haidan Wen, Rohan Mishra, Jayakanth Ravichandran|[2406.09530](http://arxiv.org/abs/2406.09530)|null|
 |**2024-06-13**|**A Novel Perspective on Ideal Chern Bands with Strong Short-Range Repulsion: Applications to Correlated Metals, Superconductivity, and Topological Order**|Patrick H. Wilhelm, Andreas M. Läuchli, Mathias S. Scheurer|[2406.09505](http://arxiv.org/abs/2406.09505)|null|
 |**2024-06-13**|**Non-Invertible Surface Defects in 2+1d QFTs from Half Spacetime Gauging**|Wei Cui, Babak Haghighat, Lorenzo Ruggeri|[2406.09261](http://arxiv.org/abs/2406.09261)|null|
