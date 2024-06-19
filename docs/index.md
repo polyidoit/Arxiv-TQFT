@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Realizing string-net condensation: Fibonacci anyon braiding for universal gates and sampling chromatic polynomials**|Zlatko K. Minev, Khadijeh Najafi, Swarnadeep Majumder, Juven Wang, Ady Stern, Eun-Ah Kim, Chao-Ming Jian, Guanyu Zhu|[2406.12820](http://arxiv.org/abs/2406.12820)|null|
+|**2024-06-18**|**Cosmic Strings from Tribrid Inflation**|Stefan Antusch, Katarina Trailović|[2406.12521](http://arxiv.org/abs/2406.12521)|null|
+|**2024-06-18**|**Quantum $K$ -invariants via Quot schemes I**|Shubham Sinha, Ming Zhang|[2406.12191](http://arxiv.org/abs/2406.12191)|null|
+|**2024-06-17**|**Equivalence Classes of Quantum Error-Correcting Codes**|Andrey Boris Khesin, Alexander Li|[2406.12083](http://arxiv.org/abs/2406.12083)|null|
+|**2024-06-17**|**A study of the Berezinskii-Kosterlitz-Thouless transition in the XY model in a honeycomb lattice**|Felipe E. F. de Andrade, L. N. Jorge, Claudio J. DaSilva|[2406.12076](http://arxiv.org/abs/2406.12076)|null|
+|**2024-06-17**|**Hierarchy construction for non-abelian fractional quantum Hall states via anyon condensation**|Carolyn Zhang, Ashvin Vishwanath, Xiao-Gang Wen|[2406.12068](http://arxiv.org/abs/2406.12068)|null|
 |**2024-06-17**|**Neural Quantum State Study of Fracton Models**|Marc Machaczek, Lode Pollet, Ke Liu|[2406.11677](http://arxiv.org/abs/2406.11677)|null|
 |**2024-06-17**|**Categorified Open Topological Field Theories**|Lukas Müller, Lukas Woike|[2406.11605](http://arxiv.org/abs/2406.11605)|null|
 |**2024-06-17**|**Integer defects, flow localization, and bistability on curved active surfaces**|Rushikesh Shinde, Raphaël Voituriez, Andrew Callan-Jones|[2406.11465](http://arxiv.org/abs/2406.11465)|null|
