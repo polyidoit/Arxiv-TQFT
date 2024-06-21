@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Anyon condensation in mixed-state topological order**|Ken Kikuchi, Kah-Sen Kam, Fu-Hsiang Huang|[2406.14320](http://arxiv.org/abs/2406.14320)|null|
+|**2024-06-20**|**2024 roadmap on 2D topological insulators**|Bent Weber, Michael S Fuhrer, Xian-Lei Sheng, Shengyuan A Yang, Ronny Thomale, Saquib Shamim, Laurens W Molenkamp, David Cobden, Dmytro Pesin, Harold J W Zandvliet, Pantelis Bampoulis, Ralph Claessen, Fabian R Menges, Johannes Gooth, Claudia Felser, Chandra Shekhar, Anton Tadich, Mengting Zhao, Mark T Edmonds, Junxiang Jia, Maciej Bieniek, Jukka I Väyrynen, Dimitrie Culcer, Bhaskaran Muralidharan, Muhammad Nadeem|[2406.14209](http://arxiv.org/abs/2406.14209)|null|
+|**2024-06-19**|**Scalar sector of the Myers and Pospelov model: thermal and size effects**|L. H. A. R. Ferreira, A. F. Santos, Carlos M. Reyes|[2406.13574](http://arxiv.org/abs/2406.13574)|null|
+|**2024-06-19**|**Quasiperiodic potential induced corner states in a quadrupolar insulator**|Srijata Lahiri, Saurabh Basu|[2406.13535](http://arxiv.org/abs/2406.13535)|null|
 |**2024-06-18**|**Realizing string-net condensation: Fibonacci anyon braiding for universal gates and sampling chromatic polynomials**|Zlatko K. Minev, Khadijeh Najafi, Swarnadeep Majumder, Juven Wang, Ady Stern, Eun-Ah Kim, Chao-Ming Jian, Guanyu Zhu|[2406.12820](http://arxiv.org/abs/2406.12820)|null|
 |**2024-06-18**|**Cosmic Strings from Tribrid Inflation**|Stefan Antusch, Katarina Trailović|[2406.12521](http://arxiv.org/abs/2406.12521)|null|
 |**2024-06-18**|**Quantum $K$ -invariants via Quot schemes I**|Shubham Sinha, Ming Zhang|[2406.12191](http://arxiv.org/abs/2406.12191)|null|
