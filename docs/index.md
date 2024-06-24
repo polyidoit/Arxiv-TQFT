@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Exact discovery is polynomial for sparse causal Bayesian networks**|Felix L. Rios, Giusi Moffa, Jack Kuipers|[2406.15012](http://arxiv.org/abs/2406.15012)|**[link](https://github.com/felixleopoldo/dncdagger)**|
+|**2024-06-21**|**A blindness property of the Min-Sum decoding for the toric code**|Julien du Crest, Mehdi Mhalla, Valentin Savin|[2406.14968](http://arxiv.org/abs/2406.14968)|null|
+|**2024-06-20**|**Frustrated ferroelectricity from interlocked topological defects**|Ludovica Falsi, Pablo Villegas, Tommaso Gili, Aharon J. Agranat, Eugenio DelRe|[2406.14646](http://arxiv.org/abs/2406.14646)|null|
+|**2024-06-20**|**Non-Abelian spin Hall insulator**|Ahmed Abouelkomsan, Liang Fu|[2406.14617](http://arxiv.org/abs/2406.14617)|null|
 |**2024-06-20**|**Anyon condensation in mixed-state topological order**|Ken Kikuchi, Kah-Sen Kam, Fu-Hsiang Huang|[2406.14320](http://arxiv.org/abs/2406.14320)|null|
 |**2024-06-20**|**2024 roadmap on 2D topological insulators**|Bent Weber, Michael S Fuhrer, Xian-Lei Sheng, Shengyuan A Yang, Ronny Thomale, Saquib Shamim, Laurens W Molenkamp, David Cobden, Dmytro Pesin, Harold J W Zandvliet, Pantelis Bampoulis, Ralph Claessen, Fabian R Menges, Johannes Gooth, Claudia Felser, Chandra Shekhar, Anton Tadich, Mengting Zhao, Mark T Edmonds, Junxiang Jia, Maciej Bieniek, Jukka I Väyrynen, Dimitrie Culcer, Bhaskaran Muralidharan, Muhammad Nadeem|[2406.14209](http://arxiv.org/abs/2406.14209)|null|
 |**2024-06-19**|**Scalar sector of the Myers and Pospelov model: thermal and size effects**|L. H. A. R. Ferreira, A. F. Santos, Carlos M. Reyes|[2406.13574](http://arxiv.org/abs/2406.13574)|null|
