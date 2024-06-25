@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Anomalies in mirror symmetry enriched topological orders**|Zhaoyang Ding, Yang Qi|[2406.16700](http://arxiv.org/abs/2406.16700)|null|
+|**2024-06-22**|**Perturbative stability and error correction thresholds of quantum codes**|Yaodong Li, Nicholas O'Dea, Vedika Khemani|[2406.15757](http://arxiv.org/abs/2406.15757)|null|
+|**2024-06-21**|**Graphical copula GARCH modeling with dynamic conditional dependence**|Lupe Shun Hin Chan, Amanda Man Ying Chu, Mike Ka Pui So|[2406.15582](http://arxiv.org/abs/2406.15582)|null|
 |**2024-06-21**|**Exact discovery is polynomial for sparse causal Bayesian networks**|Felix L. Rios, Giusi Moffa, Jack Kuipers|[2406.15012](http://arxiv.org/abs/2406.15012)|**[link](https://github.com/felixleopoldo/dncdagger)**|
 |**2024-06-21**|**A blindness property of the Min-Sum decoding for the toric code**|Julien du Crest, Mehdi Mhalla, Valentin Savin|[2406.14968](http://arxiv.org/abs/2406.14968)|null|
 |**2024-06-20**|**Frustrated ferroelectricity from interlocked topological defects**|Ludovica Falsi, Pablo Villegas, Tommaso Gili, Aharon J. Agranat, Eugenio DelRe|[2406.14646](http://arxiv.org/abs/2406.14646)|null|
