@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Counting of surfaces and computational complexity in column sums of symmetric group character tables**|Joseph Ben Geloun, Sanjaye Ramgoolam|[2406.17613](http://arxiv.org/abs/2406.17613)|null|
+|**2024-06-25**|**Perspective on Majorana bound-states in hybrid superconductor-semiconductor nanowires**|Leo Kouwenhoven|[2406.17568](http://arxiv.org/abs/2406.17568)|null|
 |**2024-06-24**|**Anomalies in mirror symmetry enriched topological orders**|Zhaoyang Ding, Yang Qi|[2406.16700](http://arxiv.org/abs/2406.16700)|null|
 |**2024-06-22**|**Perturbative stability and error correction thresholds of quantum codes**|Yaodong Li, Nicholas O'Dea, Vedika Khemani|[2406.15757](http://arxiv.org/abs/2406.15757)|null|
 |**2024-06-21**|**Graphical copula GARCH modeling with dynamic conditional dependence**|Lupe Shun Hin Chan, Amanda Man Ying Chu, Mike Ka Pui So|[2406.15582](http://arxiv.org/abs/2406.15582)|null|
