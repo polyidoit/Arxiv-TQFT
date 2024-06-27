@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Hint to Supersymmetry from GR Vacuum**|Gia Dvali, Archil Kobakhidze, Otari Sakhelashvili|[2406.18402](http://arxiv.org/abs/2406.18402)|null|
+|**2024-06-26**|**Universal scaling of quantum state transport in one-dimensional topological chain under nonadiabatic dynamics**|Lingzi Huang, Menghua Deng, Chen Sun, Fuxiang Li|[2406.18016](http://arxiv.org/abs/2406.18016)|null|
 |**2024-06-25**|**Counting of surfaces and computational complexity in column sums of symmetric group character tables**|Joseph Ben Geloun, Sanjaye Ramgoolam|[2406.17613](http://arxiv.org/abs/2406.17613)|null|
 |**2024-06-25**|**Perspective on Majorana bound-states in hybrid superconductor-semiconductor nanowires**|Leo Kouwenhoven|[2406.17568](http://arxiv.org/abs/2406.17568)|null|
 |**2024-06-24**|**Anomalies in mirror symmetry enriched topological orders**|Zhaoyang Ding, Yang Qi|[2406.16700](http://arxiv.org/abs/2406.16700)|null|
