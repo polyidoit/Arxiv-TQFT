@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Topological defects of 2+1D systems from line excitations in 3+1D bulk**|Wenjie Ji, Xie Chen|[2407.02488](http://arxiv.org/abs/2407.02488)|null|
+|**2024-07-01**|**Representing Arbitrary Ground States of Toric Code by Restricted Boltzmann Machine**|Penghua Chen, Bowen Yan, Shawn X. Cui|[2407.01451](http://arxiv.org/abs/2407.01451)|null|
+|**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen, Woojoo Lee, Jianchen Dang, Tongyao Wu, Gabriele Berruto, Chenhui Yan, Chi Ian Jess Ip, Haoran Lin, Qiang Gao, Seng Huat Lee, Binghai Yan, Chaoxing Liu, Zhiqiang Mao, Xiao-Xiao Zhang, Shuolong Yang|[2407.00281](http://arxiv.org/abs/2407.00281)|null|
 |**2024-06-28**|**Predicting Topological Entanglement Entropy in a Rydberg analog simulator**|Linda Mauron, Zakari Denis, Jannes Nys, Giuseppe Carleo|[2406.19872](http://arxiv.org/abs/2406.19872)|null|
 |**2024-06-28**|**Cohomology of character stacks via TQFTs**|Jesse Vogel|[2406.19857](http://arxiv.org/abs/2406.19857)|null|
 |**2024-06-27**|**Fractal Subsystem Symmetries, Anomalies, Boundaries, and Effective Field Theory**|Heitor Casasola, Guilherme Delfino, Yizhi You, Paula F. Bienzobaz, Pedro R. S. Gomes|[2406.19275](http://arxiv.org/abs/2406.19275)|null|
