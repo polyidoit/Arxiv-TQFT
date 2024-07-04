@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Hawking radiation in quantum Hall system with an expanding edge: application of anomaly method**|Riku Yoshimoto, Yasusada Nambu|[2407.02796](http://arxiv.org/abs/2407.02796)|null|
+|**2024-07-02**|**Coherent information for CSS codes under decoherence**|Ryotaro Niwa, Jong Yeon Lee|[2407.02564](http://arxiv.org/abs/2407.02564)|null|
 |**2024-07-02**|**Topological defects of 2+1D systems from line excitations in 3+1D bulk**|Wenjie Ji, Xie Chen|[2407.02488](http://arxiv.org/abs/2407.02488)|null|
 |**2024-07-01**|**Representing Arbitrary Ground States of Toric Code by Restricted Boltzmann Machine**|Penghua Chen, Bowen Yan, Shawn X. Cui|[2407.01451](http://arxiv.org/abs/2407.01451)|null|
 |**2024-06-29**|**Distinguishing Surface and Bulk Electromagnetism via Their Dynamics in an Intrinsic Magnetic Topological Insulator**|Khanh Duy Nguyen, Woojoo Lee, Jianchen Dang, Tongyao Wu, Gabriele Berruto, Chenhui Yan, Chi Ian Jess Ip, Haoran Lin, Qiang Gao, Seng Huat Lee, Binghai Yan, Chaoxing Liu, Zhiqiang Mao, Xiao-Xiao Zhang, Shuolong Yang|[2407.00281](http://arxiv.org/abs/2407.00281)|null|
