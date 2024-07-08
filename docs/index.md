@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Protocol for scaling up a sign-ordered Kitaev chain without magnetic flux control**|Chun-Xiao Liu, Sebastian Miles, Alberto Bordin, Sebastiaan L. D. ten Haaf, A. Mert Bozkurt, Michael Wimmer|[2407.04630](http://arxiv.org/abs/2407.04630)|null|
+|**2024-07-05**|**High-throughput magnetic co-doping and design of exchange interactions in a topological insulator**|Rubel Mozumder, Johannes Wasmer, David Antognini Silva, Stefan Blügel, Philipp Rüßmann|[2407.04413](http://arxiv.org/abs/2407.04413)|null|
+|**2024-07-04**|**Quantum Convolutional Neural Network for Phase Recognition in Two Dimensions**|Leon C. Sander, Nathan A. McMahon, Petr Zapletal, Michael J. Hartmann|[2407.04114](http://arxiv.org/abs/2407.04114)|null|
+|**2024-07-04**|**Logical Operators and Fold-Transversal Gates of Bivariate Bicycle Codes**|Jens Niklas Eberhardt, Vincent Steffan|[2407.03973](http://arxiv.org/abs/2407.03973)|null|
 |**2024-07-03**|**Hawking radiation in quantum Hall system with an expanding edge: application of anomaly method**|Riku Yoshimoto, Yasusada Nambu|[2407.02796](http://arxiv.org/abs/2407.02796)|null|
 |**2024-07-02**|**Coherent information for CSS codes under decoherence**|Ryotaro Niwa, Jong Yeon Lee|[2407.02564](http://arxiv.org/abs/2407.02564)|null|
 |**2024-07-02**|**Topological defects of 2+1D systems from line excitations in 3+1D bulk**|Wenjie Ji, Xie Chen|[2407.02488](http://arxiv.org/abs/2407.02488)|null|
