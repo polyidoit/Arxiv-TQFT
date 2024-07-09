@@ -11,6 +11,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Five-stage ordering to a topological-defect-mediated ground state in a buckyball artificial spin ice**|Gavin M. Macauley, Luca Berchialla, Peter M. Derlet, Laura J. Heyderman|[2407.05907](http://arxiv.org/abs/2407.05907)|null|
+|**2024-07-08**|**Quantized heat flow in graphene quantum Hall phases: Probing the topological order**|Saurabh Kumar Srivastav, Anindya Das|[2407.05903](http://arxiv.org/abs/2407.05903)|null|
+|**2024-07-08**|**Clustering of conditional mutual information and quantum Markov structure at arbitrary temperatures**|Tomotaka Kuwahara|[2407.05835](http://arxiv.org/abs/2407.05835)|null|
+|**2024-07-08**|**Visualization of Unconventional Rashba Band and Vortex Zero Mode in Topopogical Superconductor Candidate AuSn $_{4}$**|Yuhan Ye, Rui Song, Hongqin Xiao, Guoyu Xian, Hui Guo, Haitao Yang, Hui Chen, Hong-Jun Gao|[2407.05798](http://arxiv.org/abs/2407.05798)|null|
+|**2024-07-06**|**Scalable Variational Causal Discovery Unconstrained by Acyclicity**|Nu Hoang, Bao Duong, Thin Nguyen|[2407.04992](http://arxiv.org/abs/2407.04992)|null|
+|**2024-07-05**|**The mechanism of electrical conduction in glassy semiconductors**|Arkady Kurnosov, Vassiliy Lubchenko|[2407.04829](http://arxiv.org/abs/2407.04829)|null|
+|**2024-07-05**|**Interaction-induced topological phase transition at finite temperature**|Ze-Min Huang, Sebastian Diehl|[2407.04779](http://arxiv.org/abs/2407.04779)|null|
 |**2024-07-05**|**Protocol for scaling up a sign-ordered Kitaev chain without magnetic flux control**|Chun-Xiao Liu, Sebastian Miles, Alberto Bordin, Sebastiaan L. D. ten Haaf, A. Mert Bozkurt, Michael Wimmer|[2407.04630](http://arxiv.org/abs/2407.04630)|null|
 |**2024-07-05**|**High-throughput magnetic co-doping and design of exchange interactions in a topological insulator**|Rubel Mozumder, Johannes Wasmer, David Antognini Silva, Stefan Blügel, Philipp Rüßmann|[2407.04413](http://arxiv.org/abs/2407.04413)|null|
 |**2024-07-04**|**Quantum Convolutional Neural Network for Phase Recognition in Two Dimensions**|Leon C. Sander, Nathan A. McMahon, Petr Zapletal, Michael J. Hartmann|[2407.04114](http://arxiv.org/abs/2407.04114)|null|
