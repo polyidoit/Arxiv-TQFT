@@ -1,4 +1,4 @@
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -14,7 +14,7 @@
 |**2024-07-08**|**Five-stage ordering to a topological-defect-mediated ground state in a buckyball artificial spin ice**|Gavin M. Macauley, Luca Berchialla, Peter M. Derlet, Laura J. Heyderman|[2407.05907](http://arxiv.org/abs/2407.05907)|null|
 |**2024-07-08**|**Quantized heat flow in graphene quantum Hall phases: Probing the topological order**|Saurabh Kumar Srivastav, Anindya Das|[2407.05903](http://arxiv.org/abs/2407.05903)|null|
 |**2024-07-08**|**Clustering of conditional mutual information and quantum Markov structure at arbitrary temperatures**|Tomotaka Kuwahara|[2407.05835](http://arxiv.org/abs/2407.05835)|null|
-|**2024-07-08**|**Visualization of Unconventional Rashba Band and Vortex Zero Mode in Topopogical Superconductor Candidate AuSn $_{4}$**|Yuhan Ye, Rui Song, Hongqin Xiao, Guoyu Xian, Hui Guo, Haitao Yang, Hui Chen, Hong-Jun Gao|[2407.05798](http://arxiv.org/abs/2407.05798)|null|
+|**2024-07-09**|**Visualization of Unconventional Rashba Band and Vortex Zero Mode in Topopogical Superconductor Candidate AuSn $_{4}$**|Yuhan Ye, Rui Song, Hongqin Xiao, Guoyu Xian, Hui Guo, Haitao Yang, Hui Chen, Hong-Jun Gao|[2407.05798](http://arxiv.org/abs/2407.05798)|null|
 |**2024-07-06**|**Scalable Variational Causal Discovery Unconstrained by Acyclicity**|Nu Hoang, Bao Duong, Thin Nguyen|[2407.04992](http://arxiv.org/abs/2407.04992)|null|
 |**2024-07-05**|**The mechanism of electrical conduction in glassy semiconductors**|Arkady Kurnosov, Vassiliy Lubchenko|[2407.04829](http://arxiv.org/abs/2407.04829)|null|
 |**2024-07-05**|**Interaction-induced topological phase transition at finite temperature**|Ze-Min Huang, Sebastian Diehl|[2407.04779](http://arxiv.org/abs/2407.04779)|null|
@@ -497,5 +497,5 @@
 |**2023-10-20**|**On quantum melting of superfluid vortex crystals: from Lifshitz scalar to dual gravity**|Dung Xuan Nguyen et.al.|[2310.13741](http://arxiv.org/abs/2310.13741)|null|
 |**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
