@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Random unitaries in extremely low depth**|Thomas Schuster, Jonas Haferkamp, Hsin-Yuan Huang|[2407.07754](http://arxiv.org/abs/2407.07754)|null|
 |**2024-07-09**|**Manipulation and trapping of magnetic skyrmions with domain walls in chiral magnetic thin films**|Paul Leask|[2407.06959](http://arxiv.org/abs/2407.06959)|null|
 |**2024-07-08**|**Bound state-continuum resonance transition in a shallow quantum well**|Yi Huang, Sankar Das Sarma|[2407.06256](http://arxiv.org/abs/2407.06256)|null|
 |**2024-07-08**|**Five-stage ordering to a topological-defect-mediated ground state in a buckyball artificial spin ice**|Gavin M. Macauley, Luca Berchialla, Peter M. Derlet, Laura J. Heyderman|[2407.05907](http://arxiv.org/abs/2407.05907)|null|
