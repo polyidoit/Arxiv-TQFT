@@ -2,12 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 
 ## TQFT and Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Factorization algebras from topological-holomorphic field theories**|Minghao Wang, Brian R. Williams|[2407.08667](http://arxiv.org/abs/2407.08667)|null|
+|**2024-07-11**|**Necklace-like pattern of vortex bound states**|Zhiyong Hou, Kailun Chen, Wenshan Hong, Da Wang, Wen Duan, Huan Yang, Shiliang Li, Huiqian Luo, Qiang-Hua Wang, Tao Xiang, Hai-Hu Wen|[2407.08547](http://arxiv.org/abs/2407.08547)|null|
+|**2024-07-10**|**Non-invertible symmetries in finite group gauge theory**|Clay Cordova, Davi B. Costa, Po-Shen Hsin|[2407.07964](http://arxiv.org/abs/2407.07964)|null|
 |**2024-07-10**|**Random unitaries in extremely low depth**|Thomas Schuster, Jonas Haferkamp, Hsin-Yuan Huang|[2407.07754](http://arxiv.org/abs/2407.07754)|null|
 |**2024-07-09**|**Manipulation and trapping of magnetic skyrmions with domain walls in chiral magnetic thin films**|Paul Leask|[2407.06959](http://arxiv.org/abs/2407.06959)|null|
 |**2024-07-08**|**Bound state-continuum resonance transition in a shallow quantum well**|Yi Huang, Sankar Das Sarma|[2407.06256](http://arxiv.org/abs/2407.06256)|null|
