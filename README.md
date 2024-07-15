@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**SSIP: automated surgery with quantum LDPC codes**|Alexander Cowtan|[2407.09423](http://arxiv.org/abs/2407.09423)|null|
 |**2024-07-11**|**Factorization algebras from topological-holomorphic field theories**|Minghao Wang, Brian R. Williams|[2407.08667](http://arxiv.org/abs/2407.08667)|null|
 |**2024-07-11**|**Necklace-like pattern of vortex bound states**|Zhiyong Hou, Kailun Chen, Wenshan Hong, Da Wang, Wen Duan, Huan Yang, Shiliang Li, Huiqian Luo, Qiang-Hua Wang, Tao Xiang, Hai-Hu Wen|[2407.08547](http://arxiv.org/abs/2407.08547)|null|
 |**2024-07-10**|**Non-invertible symmetries in finite group gauge theory**|Clay Cordova, Davi B. Costa, Po-Shen Hsin|[2407.07964](http://arxiv.org/abs/2407.07964)|null|
