@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Dissipationless topological quantum computation for Majorana objects in sparse-dense mixed encoding process**|Ye-Min Zhan, Guan-Dong Mao, Yu-Ge Chen, Yue Yu, Xi Luo|[2407.11544](http://arxiv.org/abs/2407.11544)|null|
+|**2024-07-16**|**Improved Belief Propagation Decoding on Surface Codes with High Accuracy and Low Latency**|Jiahan Chen, Zhipeng Liang, Zhengzhong Yi, Xuan Wang|[2407.11523](http://arxiv.org/abs/2407.11523)|null|
+|**2024-07-16**|**Helicity modulus in the bilayer XY model by worm algorithm**|A. Masini, A. Cuccoli, A. Rettori, A. Trombettoni, F. Cinti|[2407.11507](http://arxiv.org/abs/2407.11507)|null|
 |**2024-07-15**|**From bordisms of three-manifolds to domain walls between topological orders**|Yu Leon Liu, Dalton A R Sakthivadivel|[2407.10677](http://arxiv.org/abs/2407.10677)|null|
 |**2024-07-15**|**The geometry of the Hermitian matrix space and the Schrieffer--Wolff transformation**|Gergő Pintér, György Frank, Dániel Varjas, András Pályi|[2407.10478](http://arxiv.org/abs/2407.10478)|null|
 |**2024-07-12**|**SSIP: automated surgery with quantum LDPC codes**|Alexander Cowtan|[2407.09423](http://arxiv.org/abs/2407.09423)|null|
