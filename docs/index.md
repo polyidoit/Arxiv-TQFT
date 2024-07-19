@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**The Ergodic Vacuum**|Chris Scott|[2407.13065](http://arxiv.org/abs/2407.13065)|null|
 |**2024-07-17**|**Inderdigitation, double twist, and topological defects in a system of hard lollipops**|Piotr Kubala, Michał Cieśla|[2407.12747](http://arxiv.org/abs/2407.12747)|null|
 |**2024-07-16**|**Non-semisimple topological field theory and $\widehat{Z}$-invariants from $\mathfrak{osp}(1 \vert 2)$**|Francesco Costantino, Matthew Harper, Adam Robertson, Matthew B. Young|[2407.12181](http://arxiv.org/abs/2407.12181)|null|
 |**2024-07-16**|**Dissipationless topological quantum computation for Majorana objects in sparse-dense mixed encoding process**|Ye-Min Zhan, Guan-Dong Mao, Yu-Ge Chen, Yue Yu, Xi Luo|[2407.11544](http://arxiv.org/abs/2407.11544)|null|
