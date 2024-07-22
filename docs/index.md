@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Electroweak Symmetry Restoration in the N2HDM via Domain Walls**|Mohamed Younes Sassi, Gudrid Moortgat-Pick|[2407.14468](http://arxiv.org/abs/2407.14468)|null|
+|**2024-07-19**|**Fate of transient order parameter domain walls in ultrafast experiments**|Lingxian Kong, Ryuichi Shindou, Zhiyuan Sun|[2407.14250](http://arxiv.org/abs/2407.14250)|null|
 |**2024-07-18**|**The Ergodic Vacuum**|Chris Scott|[2407.13065](http://arxiv.org/abs/2407.13065)|null|
 |**2024-07-17**|**Inderdigitation, double twist, and topological defects in a system of hard lollipops**|Piotr Kubala, Michał Cieśla|[2407.12747](http://arxiv.org/abs/2407.12747)|null|
 |**2024-07-16**|**Non-semisimple topological field theory and $\widehat{Z}$-invariants from $\mathfrak{osp}(1 \vert 2)$**|Francesco Costantino, Matthew Harper, Adam Robertson, Matthew B. Young|[2407.12181](http://arxiv.org/abs/2407.12181)|null|
