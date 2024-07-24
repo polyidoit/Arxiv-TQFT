@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Defect interactions in the non-reciprocal Cahn-Hilliard model**|Navdeep Rana, Ramin Golestanian|[2407.16547](http://arxiv.org/abs/2407.16547)|null|
+|**2024-07-23**|**Microwave Signatures of Topological Superconductivity in Planar Josephson Junctions**|Barış Pekerten, David Brandão, Bassel Heiba Elfeky, Tong Zhou, Jong E. Han, Javad Shabani, Igor Žutić|[2407.16535](http://arxiv.org/abs/2407.16535)|null|
 |**2024-07-21**|**Dynamical arrest in active nematic turbulence**|Ido Lavi, Ricard Alert, Jean-François Joanny, Jaume Casademunt|[2407.15149](http://arxiv.org/abs/2407.15149)|null|
 |**2024-07-19**|**Electroweak Symmetry Restoration in the N2HDM via Domain Walls**|Mohamed Younes Sassi, Gudrid Moortgat-Pick|[2407.14468](http://arxiv.org/abs/2407.14468)|null|
 |**2024-07-19**|**Fate of transient order parameter domain walls in ultrafast experiments**|Lingxian Kong, Ryuichi Shindou, Zhiyuan Sun|[2407.14250](http://arxiv.org/abs/2407.14250)|null|
