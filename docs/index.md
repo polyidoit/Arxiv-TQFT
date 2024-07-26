@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 
 ## TQFT and Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-23**|**Defect interactions in the non-reciprocal Cahn-Hilliard model**|Navdeep Rana, Ramin Golestanian|[2407.16547](http://arxiv.org/abs/2407.16547)|null|
-|**2024-07-24**|**Microwave Signatures of Topological Superconductivity in Planar Josephson Junctions**|Barış Pekerten, David Brandão, Bassel Heiba Elfeky, Tong Zhou, Jong E. Han, Javad Shabani, Igor Žutić|[2407.16535](http://arxiv.org/abs/2407.16535)|null|
+|**2024-07-25**|**Microwave Signatures of Topological Superconductivity in Planar Josephson Junctions**|Barış Pekerten, David Brandão, Bassel Heiba Elfeky, Tong Zhou, Jong E. Han, Javad Shabani, Igor Žutić|[2407.16535](http://arxiv.org/abs/2407.16535)|null|
 |**2024-07-21**|**Dynamical arrest in active nematic turbulence**|Ido Lavi, Ricard Alert, Jean-François Joanny, Jaume Casademunt|[2407.15149](http://arxiv.org/abs/2407.15149)|null|
 |**2024-07-19**|**Electroweak Symmetry Restoration in the N2HDM via Domain Walls**|Mohamed Younes Sassi, Gudrid Moortgat-Pick|[2407.14468](http://arxiv.org/abs/2407.14468)|null|
 |**2024-07-19**|**Fate of transient order parameter domain walls in ultrafast experiments**|Lingxian Kong, Ryuichi Shindou, Zhiyuan Sun|[2407.14250](http://arxiv.org/abs/2407.14250)|null|
 |**2024-07-18**|**The Ergodic Vacuum**|Chris Scott|[2407.13065](http://arxiv.org/abs/2407.13065)|null|
-|**2024-07-17**|**Inderdigitation, double twist, and topological defects in a system of hard lollipops**|Piotr Kubala, Michał Cieśla|[2407.12747](http://arxiv.org/abs/2407.12747)|null|
+|**2024-07-17**|**Inderdigitation, double twist, and topological defects in a system of hard lollipops**|Piotr Kubala, Michał Cieśla|[2407.12747](http://arxiv.org/abs/2407.12747)|**[link](https://github.com/pkua007/rampack)**|
 |**2024-07-16**|**Non-semisimple topological field theory and $\widehat{Z}$-invariants from $\mathfrak{osp}(1 \vert 2)$**|Francesco Costantino, Matthew Harper, Adam Robertson, Matthew B. Young|[2407.12181](http://arxiv.org/abs/2407.12181)|null|
 |**2024-07-16**|**Dissipationless topological quantum computation for Majorana objects in sparse-dense mixed encoding process**|Ye-Min Zhan, Guan-Dong Mao, Yu-Ge Chen, Yue Yu, Xi Luo|[2407.11544](http://arxiv.org/abs/2407.11544)|null|
 |**2024-07-16**|**Improved Belief Propagation Decoding on Surface Codes with High Accuracy and Low Latency**|Jiahan Chen, Zhipeng Liang, Zhengzhong Yi, Xuan Wang|[2407.11523](http://arxiv.org/abs/2407.11523)|null|
