@@ -8,9 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Algebras over not too little discs**|Damien Calaque, Victor Carmona|[2407.18192](http://arxiv.org/abs/2407.18192)|null|
+|**2024-07-25**|**Superconformal anomalies for string defects in six-dimensional $\mathcal{N} = (1,0)$ SCFTs**|Fabio Apruzzi, Noppadol Mekareeya, Brandon Robinson, Alessandro Tomasiello|[2407.18049](http://arxiv.org/abs/2407.18049)|null|
+|**2024-07-25**|**Braiding Induced by Finite-Size Effect in One-Dimensional Topological Superconductors**|Hongfa Pan, Zhengtian Li, Jinxiong Jia, Zhenhua Qiao|[2407.17988](http://arxiv.org/abs/2407.17988)|null|
+|**2024-07-22**|**Crescendo Beyond the Horizon: More Gravitational Waves from Domain Walls Bounded by Inflated Cosmic Strings**|Yunjia Bao, Keisuke Harigaya, Lian-Tao Wang|[2407.17525](http://arxiv.org/abs/2407.17525)|null|
 |**2024-07-23**|**Defect interactions in the non-reciprocal Cahn-Hilliard model**|Navdeep Rana, Ramin Golestanian|[2407.16547](http://arxiv.org/abs/2407.16547)|null|
 |**2024-07-25**|**Microwave Signatures of Topological Superconductivity in Planar Josephson Junctions**|Barış Pekerten, David Brandão, Bassel Heiba Elfeky, Tong Zhou, Jong E. Han, Javad Shabani, Igor Žutić|[2407.16535](http://arxiv.org/abs/2407.16535)|null|
-|**2024-07-21**|**Dynamical arrest in active nematic turbulence**|Ido Lavi, Ricard Alert, Jean-François Joanny, Jaume Casademunt|[2407.15149](http://arxiv.org/abs/2407.15149)|null|
+|**2024-07-25**|**Dynamical arrest in active nematic turbulence**|Ido Lavi, Ricard Alert, Jean-François Joanny, Jaume Casademunt|[2407.15149](http://arxiv.org/abs/2407.15149)|null|
 |**2024-07-19**|**Electroweak Symmetry Restoration in the N2HDM via Domain Walls**|Mohamed Younes Sassi, Gudrid Moortgat-Pick|[2407.14468](http://arxiv.org/abs/2407.14468)|null|
 |**2024-07-19**|**Fate of transient order parameter domain walls in ultrafast experiments**|Lingxian Kong, Ryuichi Shindou, Zhiyuan Sun|[2407.14250](http://arxiv.org/abs/2407.14250)|null|
 |**2024-07-18**|**The Ergodic Vacuum**|Chris Scott|[2407.13065](http://arxiv.org/abs/2407.13065)|null|
