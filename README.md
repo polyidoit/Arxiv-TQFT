@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Absence of gapless Majorana edge modes in few-leg bosonic flux ladders**|Felix A. Palm, Cécile Repellin, Nathan Goldman, Fabian Grusdt|[2407.18873](http://arxiv.org/abs/2407.18873)|null|
+|**2024-07-26**|**Direct observation of quantum vortex fractionalization in multiband superconductors**|Yu Zheng, Quanxin Hu, Haijiao Ji, Igor Timoshuk, Hanxiang Xu, Zhijun Wang, Yongwei Li, Ye Gao, Xin Yu, Rui Wu, Xingye Lu, Kunihiro Kihou, Vadim Grinenko, Egor Babaev, Noah F. Q. Yuan, Baiqing Lv, Chi-Ming Yim, Hong Ding|[2407.18610](http://arxiv.org/abs/2407.18610)|null|
+|**2024-07-25**|**Vortex to Rotons Transition in Dipolar Bose-Einstein Condensates**|Alberto Villois, Miguel Onorato, Davide Proment|[2407.18412](http://arxiv.org/abs/2407.18412)|null|
 |**2024-07-25**|**Algebras over not too little discs**|Damien Calaque, Victor Carmona|[2407.18192](http://arxiv.org/abs/2407.18192)|null|
 |**2024-07-25**|**Superconformal anomalies for string defects in six-dimensional $\mathcal{N} = (1,0)$ SCFTs**|Fabio Apruzzi, Noppadol Mekareeya, Brandon Robinson, Alessandro Tomasiello|[2407.18049](http://arxiv.org/abs/2407.18049)|null|
 |**2024-07-25**|**Braiding Induced by Finite-Size Effect in One-Dimensional Topological Superconductors**|Hongfa Pan, Zhengtian Li, Jinxiong Jia, Zhenhua Qiao|[2407.17988](http://arxiv.org/abs/2407.17988)|null|
