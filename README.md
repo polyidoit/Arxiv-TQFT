@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Dynamics and Fusion of Majorana Zero Modes in Quantum-dot based Interacting Kitaev Chains**|Bradraj Pandey, Elbio Dagotto|[2407.20783](http://arxiv.org/abs/2407.20783)|null|
+|**2024-07-30**|**Hedgehog topological defects in 3D amorphous solids**|Arabinda Bera, Alessio Zaccone, Matteo Baggioli|[2407.20631](http://arxiv.org/abs/2407.20631)|null|
+|**2024-07-30**|**Variational Monte Carlo Study of the 1/9 Magnetization Plateau in Kagome Antiferromagnets**|Li-Wei He, Shun-Li Yu, Jian-Xin Li|[2407.20629](http://arxiv.org/abs/2407.20629)|null|
+|**2024-07-30**|**Spinon quantum spin Hall state in the kagome antiferromagnet with a Dzyaloshinskii-Moriya interaction**|Li-Wei He, Jian-Xin Li|[2407.20533](http://arxiv.org/abs/2407.20533)|null|
+|**2024-07-30**|**An analog of topological entanglement entropy for mixed states**|Ting-Tung Wang, Menghan Song, Zi Yang Meng, Tarun Grover|[2407.20500](http://arxiv.org/abs/2407.20500)|null|
 |**2024-07-29**|**Hamiltonian Lattice Formulation of Compact Maxwell-Chern-Simons Theory**|Changnan Peng, Maria Cristina Diamantini, Lena Funcke, Syed Muhammad Ali Hassan, Karl Jansen, Stefan Kühn, Di Luo, Pranay Naredi|[2407.20225](http://arxiv.org/abs/2407.20225)|null|
 |**2024-07-29**|**Stability and topological nature of charged Gauss-Bonnet AdS black holes in five dimensions**|Imtak Jeon, Bum-Hoon Lee, Wonwoo Lee, Madhu Mishra|[2407.20016](http://arxiv.org/abs/2407.20016)|null|
 |**2024-07-29**|**Foams and KZ-equations in Rozansky-Witten theories**|Sergei Gukov, Babak Haghighat, Nicolai Reshetikhin|[2407.19757](http://arxiv.org/abs/2407.19757)|null|
