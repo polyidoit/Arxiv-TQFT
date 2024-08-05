@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 
 ## TQFT and Topological order
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-31**|**Minimal Quantum Circuits for Simulating Fibonacci Anyons**|Sary Bseiso, Joel Pommerening, Richard R. Allen, Steven H. Simon, Layla Hormozi|[2407.21761](http://arxiv.org/abs/2407.21761)|null|
+|**2024-08-02**|**Minimal Quantum Circuits for Simulating Fibonacci Anyons**|Sary Bseiso, Joel Pommerening, Richard R. Allen, Steven H. Simon, Layla Hormozi|[2407.21761](http://arxiv.org/abs/2407.21761)|null|
 |**2024-07-30**|**Dynamics and Fusion of Majorana Zero Modes in Quantum-dot based Interacting Kitaev Chains**|Bradraj Pandey, Elbio Dagotto|[2407.20783](http://arxiv.org/abs/2407.20783)|null|
 |**2024-07-30**|**Hedgehog topological defects in 3D amorphous solids**|Arabinda Bera, Alessio Zaccone, Matteo Baggioli|[2407.20631](http://arxiv.org/abs/2407.20631)|null|
 |**2024-07-30**|**Variational Monte Carlo Study of the 1/9 Magnetization Plateau in Kagome Antiferromagnets**|Li-Wei He, Shun-Li Yu, Jian-Xin Li|[2407.20629](http://arxiv.org/abs/2407.20629)|null|
