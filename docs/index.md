@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Holographic duals of symmetry broken phases**|Andrea Antinucci, Francesco Benini, Giovanni Rizi|[2408.01418](http://arxiv.org/abs/2408.01418)|null|
+|**2024-08-02**|**Efficient conversion from fermionic Gaussian states to matrix product states**|Tong Liu, Ying-Hai Wu, Hong-Hao Tu, Tao Xiang|[2408.01155](http://arxiv.org/abs/2408.01155)|null|
+|**2024-08-01**|**Proposal for unambiguous measurement of braid statistics in fractional quantum Hall effect**|Mytraya Gattu, G. J. Sreejith, J. K. Jain|[2408.00919](http://arxiv.org/abs/2408.00919)|null|
+|**2024-08-01**|**Petz map recovery for long-range entangled quantum many-body states**|Yangrui Hu, Yijian Zou|[2408.00857](http://arxiv.org/abs/2408.00857)|null|
 |**2024-08-02**|**Minimal Quantum Circuits for Simulating Fibonacci Anyons**|Sary Bseiso, Joel Pommerening, Richard R. Allen, Steven H. Simon, Layla Hormozi|[2407.21761](http://arxiv.org/abs/2407.21761)|null|
 |**2024-07-30**|**Dynamics and Fusion of Majorana Zero Modes in Quantum-dot based Interacting Kitaev Chains**|Bradraj Pandey, Elbio Dagotto|[2407.20783](http://arxiv.org/abs/2407.20783)|null|
 |**2024-07-30**|**Hedgehog topological defects in 3D amorphous solids**|Arabinda Bera, Alessio Zaccone, Matteo Baggioli|[2407.20631](http://arxiv.org/abs/2407.20631)|null|
