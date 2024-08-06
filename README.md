@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Noninvertible Gauge Symmetry in (2+1)d Topological Orders: A String-Net Model Realization**|Yu Zhao, Yidun Wan|[2408.02664](http://arxiv.org/abs/2408.02664)|null|
+|**2024-08-04**|**Chiral spin liquid in a generalized Kitaev honeycomb model with $\mathbb{Z}_4$ 1-form symmetry**|Yu-Xin Yang, Meng Cheng, Ji-Yao Chen|[2408.02046](http://arxiv.org/abs/2408.02046)|null|
+|**2024-08-02**|**Operator space fragmentation in perturbed Floquet-Clifford circuits**|Marcell D. Kovács, Christopher J. Turner, Lluis Masanes, Arijeet Pal|[2408.01545](http://arxiv.org/abs/2408.01545)|null|
 |**2024-08-02**|**Holographic duals of symmetry broken phases**|Andrea Antinucci, Francesco Benini, Giovanni Rizi|[2408.01418](http://arxiv.org/abs/2408.01418)|null|
 |**2024-08-02**|**Efficient conversion from fermionic Gaussian states to matrix product states**|Tong Liu, Ying-Hai Wu, Hong-Hao Tu, Tao Xiang|[2408.01155](http://arxiv.org/abs/2408.01155)|null|
 |**2024-08-01**|**Proposal for unambiguous measurement of braid statistics in fractional quantum Hall effect**|Mytraya Gattu, G. J. Sreejith, J. K. Jain|[2408.00919](http://arxiv.org/abs/2408.00919)|null|
