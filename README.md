@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**A New Framework for Quantum Phases in Open Systems: Steady State of Imaginary-Time Lindbladian Evolution**|Yuchen Guo, Ke Ding, Shuo Yang|[2408.03239](http://arxiv.org/abs/2408.03239)|null|
+|**2024-08-06**|**High-dimensional quantum XYZ product codes for biased noise**|Zhipeng Liang, Zhengzhong Yi, Fusheng Yang, Jiahan Chen, Zicheng Wang, Xuan Wang|[2408.03123](http://arxiv.org/abs/2408.03123)|null|
+|**2024-08-06**|**Thermal, topological, and scattering effects of an AdS charged black hole with an antisymmetric tensor background**|H. Chen, M. Y. Zhang, A. A. Araújo Filho, F. Hosseinifar, H. Hassanabadi|[2408.03090](http://arxiv.org/abs/2408.03090)|null|
 |**2024-08-05**|**Noninvertible Gauge Symmetry in (2+1)d Topological Orders: A String-Net Model Realization**|Yu Zhao, Yidun Wan|[2408.02664](http://arxiv.org/abs/2408.02664)|null|
 |**2024-08-04**|**Chiral spin liquid in a generalized Kitaev honeycomb model with $\mathbb{Z}_4$ 1-form symmetry**|Yu-Xin Yang, Meng Cheng, Ji-Yao Chen|[2408.02046](http://arxiv.org/abs/2408.02046)|null|
 |**2024-08-02**|**Operator space fragmentation in perturbed Floquet-Clifford circuits**|Marcell D. Kovács, Christopher J. Turner, Lluis Masanes, Arijeet Pal|[2408.01545](http://arxiv.org/abs/2408.01545)|null|
