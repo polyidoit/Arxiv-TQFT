@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**A physical proof of the topological entanglement entropy inequality**|Michael Levin|[2408.04592](http://arxiv.org/abs/2408.04592)|null|
+|**2024-08-08**|**Frustrated charge density wave and quasi-long-range bond-orientational order in the magnetic kagome FeGe**|D. Subires, A. Kar, A. Korshunov, C. A. Fuller, Y. Jiang, H. Hu, Dumitru Călugăru, C. McMonagle, C. Yi, S. Roychowdhury, C. Shekhar, J. Strempfer, A. Jana, I. Vobornik, J. Dai, M. Tallarida, D. Chernyshov, A. Bosak, C. Felser, B. Andrei Bernevig, S. Blanco-Canosa|[2408.04452](http://arxiv.org/abs/2408.04452)|null|
+|**2024-08-08**|**Edge modes of topologically ordered systems as emergent integrable flows: Robustness of algebraic structures in nonlinear quantum fluid dynamics**|Yoshiki Fukusumi|[2408.04451](http://arxiv.org/abs/2408.04451)|null|
+|**2024-08-08**|**Strong-to-weak symmetry breaking states in stochastic dephasing stabilizer circuits**|Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose|[2408.04241](http://arxiv.org/abs/2408.04241)|null|
+|**2024-08-07**|**Generalizations of Kitaev's honeycomb model from braided fusion categories**|Luisa Eck, Paul Fendley|[2408.04006](http://arxiv.org/abs/2408.04006)|null|
+|**2024-08-07**|**Fractionalization as an alternate to charge ordering in electronic insulators**|Seth Musser, Meng Cheng, T. Senthil|[2408.03984](http://arxiv.org/abs/2408.03984)|null|
 |**2024-08-06**|**Demonstrating anyonic non-Abelian statistics with a minimal $d = 6$ qudit lattice**|Lucy Byles, Ewan Forbes, Jiannis K. Pachos|[2408.03377](http://arxiv.org/abs/2408.03377)|null|
 |**2024-08-06**|**Spin-charge separation and resonant valence bond spin liquid in a frustrated doped Mott insulator**|Cecilie Glittum, Antonio Štrkalj, Dharmalingam Prabhakaran, Paul A. Goddard, Cristian D. Batista, Claudio Castelnovo|[2408.03372](http://arxiv.org/abs/2408.03372)|null|
 |**2024-08-06**|**A New Framework for Quantum Phases in Open Systems: Steady State of Imaginary-Time Lindbladian Evolution**|Yuchen Guo, Ke Ding, Shuo Yang|[2408.03239](http://arxiv.org/abs/2408.03239)|null|
