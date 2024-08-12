@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Learning symmetry-protected topological order from trapped-ion experiments**|Nicolas Sadoune, Ivan Pogorelov, Claire L. Edmunds, Giuliano Giudici, Giacomo Giudice, Christian D. Marciniak, Martin Ringbauer, Thomas Monz, Lode Pollet|[2408.05017](http://arxiv.org/abs/2408.05017)|null|
+|**2024-08-08**|**Analytical model for the motion and interaction of two-dimensional active nematic defects**|Cody D. Schimming, C. J. O. Reichhardt, C. Reichhardt|[2408.04706](http://arxiv.org/abs/2408.04706)|null|
 |**2024-08-08**|**A physical proof of the topological entanglement entropy inequality**|Michael Levin|[2408.04592](http://arxiv.org/abs/2408.04592)|null|
 |**2024-08-08**|**Frustrated charge density wave and quasi-long-range bond-orientational order in the magnetic kagome FeGe**|D. Subires, A. Kar, A. Korshunov, C. A. Fuller, Y. Jiang, H. Hu, Dumitru Călugăru, C. McMonagle, C. Yi, S. Roychowdhury, C. Shekhar, J. Strempfer, A. Jana, I. Vobornik, J. Dai, M. Tallarida, D. Chernyshov, A. Bosak, C. Felser, B. Andrei Bernevig, S. Blanco-Canosa|[2408.04452](http://arxiv.org/abs/2408.04452)|null|
 |**2024-08-08**|**Edge modes of topologically ordered systems as emergent integrable flows: Robustness of algebraic structures in nonlinear quantum fluid dynamics**|Yoshiki Fukusumi|[2408.04451](http://arxiv.org/abs/2408.04451)|null|
