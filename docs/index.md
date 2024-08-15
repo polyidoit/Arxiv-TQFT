@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**The x+y Floquet code: A simple example for topological quantum computation in the path integral approach**|Andreas Bauer|[2408.07265](http://arxiv.org/abs/2408.07265)|null|
+|**2024-08-13**|**Equivalence Relations on Vertex Operator Algebras, I: Genus**|Sven Möller, Brandon C. Rayhaun|[2408.07117](http://arxiv.org/abs/2408.07117)|null|
 |**2024-08-12**|**Overcoming the Zero-Rate Hashing Bound with Holographic Quantum Error Correction**|Junyu Fan, Matthew Steinberg, Alexander Jahn, Charles Cao, Sebastian Feld|[2408.06232](http://arxiv.org/abs/2408.06232)|null|
 |**2024-08-12**|**Emergent superconductivity and pair density wave at antiphase boundaries of charge density wave order in kagome metals**|Xianghe Han, Hui Chen, Hengxin Tan, Zhongyi Cao, Zihao Huang, Yuhan Ye, Zhen Zhao, Chengmin Shen, Haitao Yang, Binghai Yan, Ziqiang Wang, Hong-Jun Gao|[2408.06174](http://arxiv.org/abs/2408.06174)|null|
 |**2024-08-12**|**Symmetry topological field theory and non-abelian Kramers-Wannier dualities of generalised Ising models**|Clement Delcamp, Nafiz Ishtiaque|[2408.06074](http://arxiv.org/abs/2408.06074)|null|
