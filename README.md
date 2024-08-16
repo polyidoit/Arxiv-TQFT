@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Integrable RG Flows on Topological Defect Lines in 2D Conformal Field Theories**|Thiago Silva Tavares, Madhav Sinha, Linnea Grans-Samuelsson, Ananda Roy, Hubert Saleur|[2408.08241](http://arxiv.org/abs/2408.08241)|null|
 |**2024-08-14**|**The x+y Floquet code: A simple example for topological quantum computation in the path integral approach**|Andreas Bauer|[2408.07265](http://arxiv.org/abs/2408.07265)|null|
 |**2024-08-13**|**Equivalence Relations on Vertex Operator Algebras, I: Genus**|Sven Möller, Brandon C. Rayhaun|[2408.07117](http://arxiv.org/abs/2408.07117)|null|
 |**2024-08-12**|**Overcoming the Zero-Rate Hashing Bound with Holographic Quantum Error Correction**|Junyu Fan, Matthew Steinberg, Alexander Jahn, Charles Cao, Sebastian Feld|[2408.06232](http://arxiv.org/abs/2408.06232)|null|
