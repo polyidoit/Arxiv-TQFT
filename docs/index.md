@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 
 ## TQFT and Topological order
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-08-12**|**Overcoming the Zero-Rate Hashing Bound with Holographic Quantum Error Correction**|Junyu Fan, Matthew Steinberg, Alexander Jahn, Charles Cao, Sebastian Feld|[2408.06232](http://arxiv.org/abs/2408.06232)|null|
 |**2024-08-12**|**Emergent superconductivity and pair density wave at antiphase boundaries of charge density wave order in kagome metals**|Xianghe Han, Hui Chen, Hengxin Tan, Zhongyi Cao, Zihao Huang, Yuhan Ye, Zhen Zhao, Chengmin Shen, Haitao Yang, Binghai Yan, Ziqiang Wang, Hong-Jun Gao|[2408.06174](http://arxiv.org/abs/2408.06174)|null|
 |**2024-08-12**|**Symmetry topological field theory and non-abelian Kramers-Wannier dualities of generalised Ising models**|Clement Delcamp, Nafiz Ishtiaque|[2408.06074](http://arxiv.org/abs/2408.06074)|null|
-|**2024-08-11**|**String condensation and topological holography for 2+1D gapless SPT**|Rui Wen|[2408.05801](http://arxiv.org/abs/2408.05801)|null|
+|**2024-08-15**|**String condensation and topological holography for 2+1D gapless SPT**|Rui Wen|[2408.05801](http://arxiv.org/abs/2408.05801)|null|
 |**2024-08-10**|**SymTFT for (3+1)d Gapless SPTs and Obstructions to Confinement**|Andrea Antinucci, Christian Copetti, Sakura Schafer-Nameki|[2408.05585](http://arxiv.org/abs/2408.05585)|null|
 |**2024-08-10**|**Flatness of $α$ -induced bi-unitary connections and commutativity of Frobenius algebras**|Yasuyuki Kawahigashi|[2408.05501](http://arxiv.org/abs/2408.05501)|null|
 |**2024-08-09**|**Gapped Phases in (2+1)d with Non-Invertible Symmetries: Part I**|Lakshya Bhardwaj, Daniel Pajer, Sakura Schafer-Nameki, Apoorv Tiwari, Alison Warman, Jingxiang Wu|[2408.05266](http://arxiv.org/abs/2408.05266)|null|
