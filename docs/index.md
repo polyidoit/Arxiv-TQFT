@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Diverse Impacts of Spin-Orbit Coupling on Superconductivity in Rhombohedral Graphene**|Jixiang Yang, Xiaoyan Shi, Shenyong Ye, Chiho Yoon, Zhengguang Lu, Vivek Kakani, Tonghang Han, Junseok Seo, Lihan Shi, Kenji Watanabe, Takashi Taniguchi, Fan Zhang, Long Ju|[2408.09906](http://arxiv.org/abs/2408.09906)|null|
+|**2024-08-18**|**Enhancing Quantum Memory Lifetime with Measurement-Free Local Error Correction and Reinforcement Learning**|Mincheol Park, Nishad Maskara, Marcin Kalinowski, Mikhail D. Lukin|[2408.09524](http://arxiv.org/abs/2408.09524)|null|
 |**2024-08-15**|**Integrable RG Flows on Topological Defect Lines in 2D Conformal Field Theories**|Thiago Silva Tavares, Madhav Sinha, Linnea Grans-Samuelsson, Ananda Roy, Hubert Saleur|[2408.08241](http://arxiv.org/abs/2408.08241)|null|
 |**2024-08-14**|**The x+y Floquet code: A simple example for topological quantum computation in the path integral approach**|Andreas Bauer|[2408.07265](http://arxiv.org/abs/2408.07265)|null|
 |**2024-08-13**|**Equivalence Relations on Vertex Operator Algebras, I: Genus**|Sven Möller, Brandon C. Rayhaun|[2408.07117](http://arxiv.org/abs/2408.07117)|null|
