@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Boundary symmetries of (2+1)D topological orders**|Kylan Schatz|[2408.10832](http://arxiv.org/abs/2408.10832)|null|
+|**2024-08-20**|**Parafermionic representation of Potts-based cluster chain**|Tigran Hakobyan, Raffi Varosyan|[2408.10705](http://arxiv.org/abs/2408.10705)|null|
+|**2024-08-20**|**Neutrino Mass Origin and Flavored-QCD axion in an Extra-Dimension**|Y. H. Ahn|[2408.10632](http://arxiv.org/abs/2408.10632)|null|
 |**2024-08-19**|**Diverse Impacts of Spin-Orbit Coupling on Superconductivity in Rhombohedral Graphene**|Jixiang Yang, Xiaoyan Shi, Shenyong Ye, Chiho Yoon, Zhengguang Lu, Vivek Kakani, Tonghang Han, Junseok Seo, Lihan Shi, Kenji Watanabe, Takashi Taniguchi, Fan Zhang, Long Ju|[2408.09906](http://arxiv.org/abs/2408.09906)|null|
 |**2024-08-18**|**Enhancing Quantum Memory Lifetime with Measurement-Free Local Error Correction and Reinforcement Learning**|Mincheol Park, Nishad Maskara, Marcin Kalinowski, Mikhail D. Lukin|[2408.09524](http://arxiv.org/abs/2408.09524)|null|
 |**2024-08-15**|**Integrable RG Flows on Topological Defect Lines in 2D Conformal Field Theories**|Thiago Silva Tavares, Madhav Sinha, Linnea Grans-Samuelsson, Ananda Roy, Hubert Saleur|[2408.08241](http://arxiv.org/abs/2408.08241)|null|
