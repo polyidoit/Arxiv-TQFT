@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Beyond skyrmion spin texture from quantum Kelvin-Helmholtz instability**|SeungJung Huh, Wooyoung Yun, Gabin Yun, Samgyu Hwang, Kiryang Kwon, Junhyeok Hur, Seungho Lee, Hiromitsu Takeuchi, Se Kwon Kim, Jae-yoon Choi|[2408.11217](http://arxiv.org/abs/2408.11217)|null|
+|**2024-08-20**|**Topological Defects in Semiconducting Carbon Nanotubes as Triplet Exciton Traps and Single-Photon Emitters**|Timur Biktagirov, Uwe Gerstmann, Wolf Gero Schmidt|[2408.11134](http://arxiv.org/abs/2408.11134)|null|
+|**2024-08-20**|**Surface Tension of a Topological Phase**|Saikat Mondal, Adhip Agarwala|[2408.11102](http://arxiv.org/abs/2408.11102)|null|
 |**2024-08-20**|**Boundary symmetries of (2+1)D topological orders**|Kylan Schatz|[2408.10832](http://arxiv.org/abs/2408.10832)|null|
 |**2024-08-20**|**Parafermionic representation of Potts-based cluster chain**|Tigran Hakobyan, Raffi Varosyan|[2408.10705](http://arxiv.org/abs/2408.10705)|null|
 |**2024-08-20**|**Neutrino Mass Origin and Flavored-QCD axion in an Extra-Dimension**|Y. H. Ahn|[2408.10632](http://arxiv.org/abs/2408.10632)|null|
