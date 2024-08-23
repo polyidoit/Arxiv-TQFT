@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Cornering Relative Symmetry Theories**|Mirjam Cvetič, Ron Donagi, Jonathan J. Heckman, Max Hübner, Ethan Torres|[2408.12600](http://arxiv.org/abs/2408.12600)|null|
+|**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi, Ysun Choi, Marco Valentini, Caitlin L. Patterson, Ludwig F. W. Holleis, Owen I. Sheekey, Hari Stoyanov, Xiang Cheng, Takashi Taniguchi, Kenji Watanabe, Andrea F. Young|[2408.12584](http://arxiv.org/abs/2408.12584)|null|
 |**2024-08-20**|**Beyond skyrmion spin texture from quantum Kelvin-Helmholtz instability**|SeungJung Huh, Wooyoung Yun, Gabin Yun, Samgyu Hwang, Kiryang Kwon, Junhyeok Hur, Seungho Lee, Hiromitsu Takeuchi, Se Kwon Kim, Jae-yoon Choi|[2408.11217](http://arxiv.org/abs/2408.11217)|null|
 |**2024-08-20**|**Topological Defects in Semiconducting Carbon Nanotubes as Triplet Exciton Traps and Single-Photon Emitters**|Timur Biktagirov, Uwe Gerstmann, Wolf Gero Schmidt|[2408.11134](http://arxiv.org/abs/2408.11134)|null|
 |**2024-08-20**|**Surface Tension of a Topological Phase**|Saikat Mondal, Adhip Agarwala|[2408.11102](http://arxiv.org/abs/2408.11102)|null|
