@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
+|**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
+|**2024-08-22**|**Probing topological entanglement on large scales**|Robert Ott, Torsten V. Zache, Nishad Maskara, Mikhail D. Lukin, Peter Zoller, Hannes Pichler|[2408.12645](http://arxiv.org/abs/2408.12645)|null|
 |**2024-08-22**|**Cornering Relative Symmetry Theories**|Mirjam Cvetič, Ron Donagi, Jonathan J. Heckman, Max Hübner, Ethan Torres|[2408.12600](http://arxiv.org/abs/2408.12600)|null|
 |**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi, Ysun Choi, Marco Valentini, Caitlin L. Patterson, Ludwig F. W. Holleis, Owen I. Sheekey, Hari Stoyanov, Xiang Cheng, Takashi Taniguchi, Kenji Watanabe, Andrea F. Young|[2408.12584](http://arxiv.org/abs/2408.12584)|null|
 |**2024-08-20**|**Beyond skyrmion spin texture from quantum Kelvin-Helmholtz instability**|SeungJung Huh, Wooyoung Yun, Gabin Yun, Samgyu Hwang, Kiryang Kwon, Junhyeok Hur, Seungho Lee, Hiromitsu Takeuchi, Se Kwon Kim, Jae-yoon Choi|[2408.11217](http://arxiv.org/abs/2408.11217)|null|
