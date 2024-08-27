@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Measuring Chern-Simons level $k$ by braiding $SU(2)_k$ anyons**|Artem Belov, Andrey Morozov|[2408.14188](http://arxiv.org/abs/2408.14188)|null|
+|**2024-08-25**|**Towards All Categorical Symmetries in 2+1 Dimensions**|Mathew Bullimore, Jamie J. Pearson|[2408.13931](http://arxiv.org/abs/2408.13931)|null|
+|**2024-08-23**|**Fusion 3-Categories for Duality Defects**|Lakshya Bhardwaj, Thibault Décoppet, Sakura Schafer-Nameki, Matthew Yu|[2408.13302](http://arxiv.org/abs/2408.13302)|null|
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 |**2024-08-22**|**Probing topological entanglement on large scales**|Robert Ott, Torsten V. Zache, Nishad Maskara, Mikhail D. Lukin, Peter Zoller, Hannes Pichler|[2408.12645](http://arxiv.org/abs/2408.12645)|null|
