@@ -310,7 +310,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=False, show_badge=show_badge, use_tc=True, use_b2t=True)
+        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=False, show_badge=show_badge, use_tc=False, use_b2t=False)
 
     if publish_wechat:
         json_file = config['json_wechat_path']
