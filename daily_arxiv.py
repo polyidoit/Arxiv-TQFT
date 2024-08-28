@@ -156,7 +156,7 @@ def update_json_file(filename,data_dict):
 def json_to_md(filename,md_filename,
                task = '',
                to_web = True, 
-               use_title = False, 
+               use_title = True, 
                use_tc = True,
                show_badge = False,
                use_b2t = True):
@@ -205,9 +205,9 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
                 
         if use_title == True:
-            f.write("## Updated on " + DateNow + "\n")
+            f.write("> Automatically updated on " + DateNow + "\n")
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            f.write("> Automatically updated on " + DateNow + "\n")
 
         f.write("\n")
 
@@ -310,7 +310,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, show_badge=show_badge, use_tc=False, use_b2t=False)
+        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=True, show_badge=show_badge, use_tc=True, use_b2t=True)
 
     if publish_wechat:
         json_file = config['json_wechat_path']

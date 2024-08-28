@@ -22,7 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "TQFT and Topological order": 
+    "TQFT, Topological order, generalized symmetry": 
         filters: ["TQFT", "Topological Field Theory", "Topological Quantum Field Theory",
         "Topological defect", "Homotopical quantum field theory", "Tube algebra", "Honeycomb Floquet code", "SymTFT",
         "Gravitational anomaly", "Multifusion String-net", "Tutaev-Viro TQFT", "Reshetikhin-Turaev TQFT",
