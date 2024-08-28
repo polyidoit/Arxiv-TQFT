@@ -155,7 +155,7 @@ def update_json_file(filename,data_dict):
     
 def json_to_md(filename,md_filename,
                task = '',
-               to_web = False, 
+               to_web = True, 
                use_title = True, 
                use_tc = True,
                show_badge = True,
