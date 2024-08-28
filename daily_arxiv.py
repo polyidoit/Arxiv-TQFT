@@ -156,8 +156,9 @@ def update_json_file(filename,data_dict):
 def json_to_md(filename,md_filename,
                task = '',
                to_web = True, 
-               use_title = False, 
-               use_tc = False,
+               use_title = True, 
+               use_tc = True,
+               show_badge = False,
                use_b2t = True):
     """
     @param filename: str
@@ -309,7 +310,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=True, show_badge=show_badge, use_tc=True, use_b2t=True)
+        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=False, show_badge=show_badge, use_tc=True, use_b2t=True)
 
     if publish_wechat:
         json_file = config['json_wechat_path']
