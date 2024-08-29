@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**1+1d SPT phases with fusion category symmetry: interface modes and non-abelian Thouless pump**|Kansei Inamura, Shuhei Ohyama|[2408.15960](http://arxiv.org/abs/2408.15960)|null|
+|**2024-08-28**|**Ultrafast symmetry control in photoexcited quantum dots**|Burak Guzelturk, Joshua Portner, Justin Ondry, Samira Ghanbarzadeh, Mia Tarantola, Ahhyun Jeong, Thomas Field, Alicia M. Chandler, Eliza Wieman, Thomas R. Hopper, Nicolas E. Watkins, Jin Yue, Xinxin Cheng, Ming-Fu Lin, Duan Luo, Patrick L. Kramer, Xiaozhe Shen, Alexander H. Reid, Olaf Borkiewicz, Uta Ruett, Xiaoyi Zhang, Aaron M. Lindenberg, Jihong Ma, Richard Schaller, Dmitri V. Talapin, Benjamin L. Cotts|[2408.15464](http://arxiv.org/abs/2408.15464)|null|
+|**2024-08-27**|**Integer Topological Defects Reveal Effective Forces in Active Nematics**|Zihui Zhao, Yisong Yao, He Li, Yongfeng Zhao, Yujia Wang, Hepeng Zhang, Hugues Chat'e, Masaki Sano|[2408.15431](http://arxiv.org/abs/2408.15431)|null|
 |**2024-08-27**|**Signatures of Chiral Superconductivity in Rhombohedral Graphene**|Tonghang Han, Zhengguang Lu, Yuxuan Yao, Lihan Shi, Jixiang Yang, Junseok Seo, Shenyong Ye, Zhenghan Wu, Muyang Zhou, Haoyang Liu, Gang Shi, Zhenqi Hua, Kenji Watanabe, Takashi Taniguchi, Peng Xiong, Liang Fu, Long Ju|[2408.15233](http://arxiv.org/abs/2408.15233)|null|
 |**2024-08-27**|**Stability of the Einstein Static Universe in Zero-Point Length Cosmology with Topological Defects**|Kalyan Bhuyan, Mrinnoy M. Gohain|[2408.14943](http://arxiv.org/abs/2408.14943)|null|
 |**2024-08-26**|**Non-invertible defects on the worldsheet**|Sriram Bharadwaj, Pierluigi Niro, Konstantinos Roumpedakis|[2408.14556](http://arxiv.org/abs/2408.14556)|null|
