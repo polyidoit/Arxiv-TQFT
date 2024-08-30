@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Future targets for light gauge bosons from cosmic strings**|Hanyu Cheng, Luca Visinelli|[2408.16334](http://arxiv.org/abs/2408.16334)|null|
+|**2024-08-29**|**Non-Abelian fractional quantum Hall states at filling factor 3/4**|Kai-Wen Huang, Ying-Hai Wu|[2408.16275](http://arxiv.org/abs/2408.16275)|null|
+|**2024-08-29**|**Modular invariance groups and defect McKay-Thompson series**|Harry Fosbinder-Elkins, Jeffrey A. Harvey|[2408.16263](http://arxiv.org/abs/2408.16263)|null|
 |**2024-08-28**|**1+1d SPT phases with fusion category symmetry: interface modes and non-abelian Thouless pump**|Kansei Inamura, Shuhei Ohyama|[2408.15960](http://arxiv.org/abs/2408.15960)|null|
 |**2024-08-28**|**Ultrafast symmetry control in photoexcited quantum dots**|Burak Guzelturk, Joshua Portner, Justin Ondry, Samira Ghanbarzadeh, Mia Tarantola, Ahhyun Jeong, Thomas Field, Alicia M. Chandler, Eliza Wieman, Thomas R. Hopper, Nicolas E. Watkins, Jin Yue, Xinxin Cheng, Ming-Fu Lin, Duan Luo, Patrick L. Kramer, Xiaozhe Shen, Alexander H. Reid, Olaf Borkiewicz, Uta Ruett, Xiaoyi Zhang, Aaron M. Lindenberg, Jihong Ma, Richard Schaller, Dmitri V. Talapin, Benjamin L. Cotts|[2408.15464](http://arxiv.org/abs/2408.15464)|null|
 |**2024-08-27**|**Integer Topological Defects Reveal Effective Forces in Active Nematics**|Zihui Zhao, Yisong Yao, He Li, Yongfeng Zhao, Yujia Wang, Hepeng Zhang, Hugues Chat'e, Masaki Sano|[2408.15431](http://arxiv.org/abs/2408.15431)|null|
