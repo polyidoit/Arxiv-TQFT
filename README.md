@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**A Non-Invertible Symmetry-Resolved Affleck-Ludwig-Cardy Formula and Entanglement Entropy from the Boundary Tube Algebra**|Yichul Choi, Brandon C. Rayhaun, Yunqin Zheng|[2409.02806](http://arxiv.org/abs/2409.02806)|null|
+|**2024-09-04**|**Multifractaility, topology and anomalous Hall conductivity on a 30 degrees twisted bilayer honeycomb lattice**|Grigory Bednik|[2409.02373](http://arxiv.org/abs/2409.02373)|null|
+|**2024-09-03**|**Revisiting the symmetry-resolved entanglement for non-invertible symmetries in $1{+}1$ d conformal field theories**|Jared Heymann, Thomas Quella|[2409.02315](http://arxiv.org/abs/2409.02315)|null|
+|**2024-09-03**|**Boundary SymTFT**|Lakshya Bhardwaj, Christian Copetti, Daniel Pajer, Sakura Schafer-Nameki|[2409.02166](http://arxiv.org/abs/2409.02166)|null|
+|**2024-09-03**|**Generalized Symmetry Resolution of Entanglement in CFT for Twisted and Anyonic sectors**|Arpit Das, Javier Molina-Vilaplana, Pablo Saura-Bastida|[2409.02162](http://arxiv.org/abs/2409.02162)|null|
+|**2024-09-03**|**Generalized Tube Algebras, Symmetry-Resolved Partition Functions, and Twisted Boundary States**|Yichul Choi, Brandon C. Rayhaun, Yunqin Zheng|[2409.02159](http://arxiv.org/abs/2409.02159)|null|
+|**2024-09-02**|**Quantum Holonomies in Graphene Wormholes**|Everton Cavalcante|[2409.01257](http://arxiv.org/abs/2409.01257)|null|
 |**2024-08-29**|**Future targets for light gauge bosons from cosmic strings**|Hanyu Cheng, Luca Visinelli|[2408.16334](http://arxiv.org/abs/2408.16334)|null|
 |**2024-08-29**|**Non-Abelian fractional quantum Hall states at filling factor 3/4**|Kai-Wen Huang, Ying-Hai Wu|[2408.16275](http://arxiv.org/abs/2408.16275)|null|
 |**2024-08-29**|**Modular invariance groups and defect McKay-Thompson series**|Harry Fosbinder-Elkins, Jeffrey A. Harvey|[2408.16263](http://arxiv.org/abs/2408.16263)|null|
