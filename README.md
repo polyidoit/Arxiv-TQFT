@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**The Moore-Tachikawa conjecture via shifted symplectic geometry**|Peter Crooks, Maxence Mayrand|[2409.03532](http://arxiv.org/abs/2409.03532)|null|
+|**2024-09-05**|**Non-Uniform Noise Rates and Griffiths Phases in Topological Quantum Error Correction**|Adithya Sriram, Nicholas O'Dea, Yaodong Li, Tibor Rakovszky, Vedika Khemani|[2409.03325](http://arxiv.org/abs/2409.03325)|null|
 |**2024-09-04**|**A Non-Invertible Symmetry-Resolved Affleck-Ludwig-Cardy Formula and Entanglement Entropy from the Boundary Tube Algebra**|Yichul Choi, Brandon C. Rayhaun, Yunqin Zheng|[2409.02806](http://arxiv.org/abs/2409.02806)|null|
 |**2024-09-04**|**Multifractaility, topology and anomalous Hall conductivity on a 30 degrees twisted bilayer honeycomb lattice**|Grigory Bednik|[2409.02373](http://arxiv.org/abs/2409.02373)|null|
 |**2024-09-03**|**Revisiting the symmetry-resolved entanglement for non-invertible symmetries in $1{+}1$ d conformal field theories**|Jared Heymann, Thomas Quella|[2409.02315](http://arxiv.org/abs/2409.02315)|null|
