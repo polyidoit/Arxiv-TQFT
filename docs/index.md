@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-09-06**|**Equivariant Machine Learning Decoder for 3D Toric Codes**|Oliver Weissl|[2409.04300](http://arxiv.org/abs/2409.04300)|null|
 |**2024-09-05**|**The Moore-Tachikawa conjecture via shifted symplectic geometry**|Peter Crooks, Maxence Mayrand|[2409.03532](http://arxiv.org/abs/2409.03532)|null|
 |**2024-09-05**|**Non-Uniform Noise Rates and Griffiths Phases in Topological Quantum Error Correction**|Adithya Sriram, Nicholas O'Dea, Yaodong Li, Tibor Rakovszky, Vedika Khemani|[2409.03325](http://arxiv.org/abs/2409.03325)|null|
 |**2024-09-04**|**A Non-Invertible Symmetry-Resolved Affleck-Ludwig-Cardy Formula and Entanglement Entropy from the Boundary Tube Algebra**|Yichul Choi, Brandon C. Rayhaun, Yunqin Zheng|[2409.02806](http://arxiv.org/abs/2409.02806)|null|
