@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Nonabelian Anyon Condenstion in 2+1d topological orders: A String-Net Model Realization**|Yu Zhao, Yidun Wan|[2409.05852](http://arxiv.org/abs/2409.05852)|null|
+|**2024-09-07**|**Floquet dynamical chiral spin liquid at finite frequency**|Didier Poilblanc, Matthieu Mambrini, Nathan Goldman|[2409.04892](http://arxiv.org/abs/2409.04892)|null|
 |**2024-09-06**|**Equivariant Machine Learning Decoder for 3D Toric Codes**|Oliver Weissl|[2409.04300](http://arxiv.org/abs/2409.04300)|null|
 |**2024-09-05**|**The Moore-Tachikawa conjecture via shifted symplectic geometry**|Peter Crooks, Maxence Mayrand|[2409.03532](http://arxiv.org/abs/2409.03532)|null|
 |**2024-09-05**|**Non-Uniform Noise Rates and Griffiths Phases in Topological Quantum Error Correction**|Adithya Sriram, Nicholas O'Dea, Yaodong Li, Tibor Rakovszky, Vedika Khemani|[2409.03325](http://arxiv.org/abs/2409.03325)|null|
