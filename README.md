@@ -15,11 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Variational LOCC-assisted quantum circuits for long-range entangled states**|Yuxuan Yan, Muzhou Ma, You Zhou, Xiongfeng Ma|[2409.07281](http://arxiv.org/abs/2409.07281)|null|
+|**2024-09-11**|**Fidelity-optimized quantum surface code via GAN decoder and application to quantum teleportation**|Jiaxin Li, Zhimin Wang, Alberto Ferrara, Yongjian Gu, Rosario Lo Franco|[2409.06984](http://arxiv.org/abs/2409.06984)|null|
 |**2024-09-10**|**Les Houches lecture notes on topological recursion**|Vincent Bouchard|[2409.06657](http://arxiv.org/abs/2409.06657)|null|
 |**2024-09-10**|**Duality via Sequential Quantum Circuit in the Topological Holography Formalism**|Robijn Vanhove, Vibhu Ravindran, David T. Stephen, Xiao-Gang Wen, Xie Chen|[2409.06647](http://arxiv.org/abs/2409.06647)|null|
 |**2024-09-10**|**Deterministic generation of a 20-qubit two-dimensional photonic cluster state**|James O'Sullivan, Kevin Reuer, Aleksandr Grigorev, Xi Dai, Alonso Hernández-Antón, Manuel H. Muñoz-Arias, Christoph Hellings, Alexander Flasby, Dante Colao Zanuz, Jean-Claude Besse, Alexandre Blais, Daniel Malz, Christopher Eichler, Andreas Wallraff|[2409.06623](http://arxiv.org/abs/2409.06623)|null|
 |**2024-09-10**|**Ocneanu Algebra of Seams: Critical Unitary $E_6$ RSOS Lattice Model**|Paul A. Pearce, Jorgen Rasmussen|[2409.06236](http://arxiv.org/abs/2409.06236)|null|
-|**2024-09-09**|**Nonabelian Anyon Condenstion in 2+1d topological orders: A String-Net Model Realization**|Yu Zhao, Yidun Wan|[2409.05852](http://arxiv.org/abs/2409.05852)|null|
+|**2024-09-11**|**Nonabelian Anyon Condensation in 2+1d topological orders: A String-Net Model Realization**|Yu Zhao, Yidun Wan|[2409.05852](http://arxiv.org/abs/2409.05852)|null|
 |**2024-09-07**|**Floquet dynamical chiral spin liquid at finite frequency**|Didier Poilblanc, Matthieu Mambrini, Nathan Goldman|[2409.04892](http://arxiv.org/abs/2409.04892)|null|
 |**2024-09-06**|**Equivariant Machine Learning Decoder for 3D Toric Codes**|Oliver Weissl|[2409.04300](http://arxiv.org/abs/2409.04300)|null|
 |**2024-09-05**|**The Moore-Tachikawa conjecture via shifted symplectic geometry**|Peter Crooks, Maxence Mayrand|[2409.03532](http://arxiv.org/abs/2409.03532)|null|
