@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-09-11**|**Fusion of Low-Entanglement Excitations in 2D Toric Code**|Jing-Yu Zhao, Xie Chen|[2409.07544](http://arxiv.org/abs/2409.07544)|null|
 |**2024-09-11**|**Variational LOCC-assisted quantum circuits for long-range entangled states**|Yuxuan Yan, Muzhou Ma, You Zhou, Xiongfeng Ma|[2409.07281](http://arxiv.org/abs/2409.07281)|null|
 |**2024-09-11**|**Fidelity-optimized quantum surface code via GAN decoder and application to quantum teleportation**|Jiaxin Li, Zhimin Wang, Alberto Ferrara, Yongjian Gu, Rosario Lo Franco|[2409.06984](http://arxiv.org/abs/2409.06984)|null|
 |**2024-09-10**|**Les Houches lecture notes on topological recursion**|Vincent Bouchard|[2409.06657](http://arxiv.org/abs/2409.06657)|null|
