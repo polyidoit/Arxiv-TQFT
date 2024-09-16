@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-09-13**|**Inverse Spin Hall Effect in Nonequilibrium Dirac Systems Induced by Anomalous Flow Imbalance**|Hung-Hsuan Teh, Tokiro Numasawa, Shun Okumura, Takashi Oka|[2409.09025](http://arxiv.org/abs/2409.09025)|null|
+|**2024-09-13**|**Polarization Pinning at an Antiphase Boundary in Multiferroic YbFeO $_3$**|Guodong Ren, Pravan Omprakash, Xin Li, Yu Yun, Arashdeep S. Thind, Xiaoshan Xu, Rohan Mishra|[2409.08902](http://arxiv.org/abs/2409.08902)|null|
 |**2024-09-11**|**Fusion of Low-Entanglement Excitations in 2D Toric Code**|Jing-Yu Zhao, Xie Chen|[2409.07544](http://arxiv.org/abs/2409.07544)|null|
 |**2024-09-11**|**Variational LOCC-assisted quantum circuits for long-range entangled states**|Yuxuan Yan, Muzhou Ma, You Zhou, Xiongfeng Ma|[2409.07281](http://arxiv.org/abs/2409.07281)|null|
 |**2024-09-11**|**Fidelity-optimized quantum surface code via GAN decoder and application to quantum teleportation**|Jiaxin Li, Zhimin Wang, Alberto Ferrara, Yongjian Gu, Rosario Lo Franco|[2409.06984](http://arxiv.org/abs/2409.06984)|null|
