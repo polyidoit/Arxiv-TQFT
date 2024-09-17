@@ -2,6 +2,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-09-16**|**Primordial black hole from domain wall fluctuations**|Bo-Qiang Lu, Cheng-Wei Chiang, Tianjun Li|[2409.09986](http://arxiv.org/abs/2409.09986)|null|
+|**2024-09-16**|**Bloch oscillations of Fibonacci anyons**|Xiaoqi Zhou, Weixuan Zhang, Hao Yuan, Xiangdong Zhang|[2409.09922](http://arxiv.org/abs/2409.09922)|null|
+|**2024-09-16**|**Engineering topological states and quantum-inspired information processing using classical circuits**|Tian Chen, Weixuan Zhang, Deyuan Zou, Yifan Sun, Xiangdong Zhang|[2409.09919](http://arxiv.org/abs/2409.09919)|null|
+|**2024-09-15**|**More is Different: Multi-Axion Dynamics Changes Topological Defect Evolution**|Junseok Lee, Kai Murai, Fuminobu Takahashi, Wen Yin|[2409.09749](http://arxiv.org/abs/2409.09749)|null|
+|**2024-09-15**|**Many-body Keldysh Crossover in the DC-driven Haldane Spin Chain**|Koichi Okazaki, Shun Okumura, Shintaro Takayoshi, Takashi Oka|[2409.09578](http://arxiv.org/abs/2409.09578)|null|
+|**2024-09-14**|**Universal topological classifications of black hole thermodynamics**|Shao-Wen Wei, Yu-Xiao Liu, Robert B. Mann|[2409.09333](http://arxiv.org/abs/2409.09333)|null|
+|**2024-09-13**|**The quantum Newman-Moore model in a longitudinal field**|Konstantinos Sfairopoulos, Juan P. Garrahan|[2409.09235](http://arxiv.org/abs/2409.09235)|null|
 |**2024-09-13**|**Inverse Spin Hall Effect in Nonequilibrium Dirac Systems Induced by Anomalous Flow Imbalance**|Hung-Hsuan Teh, Tokiro Numasawa, Shun Okumura, Takashi Oka|[2409.09025](http://arxiv.org/abs/2409.09025)|null|
 |**2024-09-13**|**Polarization Pinning at an Antiphase Boundary in Multiferroic YbFeO $_3$**|Guodong Ren, Pravan Omprakash, Xin Li, Yu Yun, Arashdeep S. Thind, Xiaoshan Xu, Rohan Mishra|[2409.08902](http://arxiv.org/abs/2409.08902)|null|
 |**2024-09-11**|**Fusion of Low-Entanglement Excitations in 2D Toric Code**|Jing-Yu Zhao, Xie Chen|[2409.07544](http://arxiv.org/abs/2409.07544)|null|
