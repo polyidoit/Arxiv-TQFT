@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Bootstrapping the Quantum Hall problem**|Qiang Gao, Ryan A. Lanzetta, Patrick Ledwith, Jie Wang, Eslam Khalaf|[2409.10619](http://arxiv.org/abs/2409.10619)|null|
+|**2024-09-16**|**Duality-preserving deformation of 3+1d lattice $\mathbb Z_2$ gauge theory with exact gapped ground states**|Pranay Gorantla, Tzu-Chen Huang|[2409.10612](http://arxiv.org/abs/2409.10612)|null|
 |**2024-09-16**|**Primordial black hole from domain wall fluctuations**|Bo-Qiang Lu, Cheng-Wei Chiang, Tianjun Li|[2409.09986](http://arxiv.org/abs/2409.09986)|null|
 |**2024-09-16**|**Bloch oscillations of Fibonacci anyons**|Xiaoqi Zhou, Weixuan Zhang, Hao Yuan, Xiangdong Zhang|[2409.09922](http://arxiv.org/abs/2409.09922)|null|
 |**2024-09-16**|**Engineering topological states and quantum-inspired information processing using classical circuits**|Tian Chen, Weixuan Zhang, Deyuan Zou, Yifan Sun, Xiangdong Zhang|[2409.09919](http://arxiv.org/abs/2409.09919)|null|
