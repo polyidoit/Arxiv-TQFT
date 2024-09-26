@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Functional Integral Construction of Topological Quantum Field Theory**|Zhengwei Liu|[2409.17103](http://arxiv.org/abs/2409.17103)|null|
+|**2024-09-25**|**Interface engineering of van der Waals heterostructures towards energy-efficient quantum devices operating at room temperature**|Manh-Ha Doan, Peter Bøggild|[2409.16752](http://arxiv.org/abs/2409.16752)|null|
+|**2024-09-24**|**Topological order in spin nematics from the quantum melting of a disclination lattice**|Predrag Nikolić|[2409.16352](http://arxiv.org/abs/2409.16352)|null|
+|**2024-09-24**|**Gapped and gapless quantum spin liquids on the ruby lattice**|Atanu Maity, Rhine Samajdar, Yasir Iqbal|[2409.16344](http://arxiv.org/abs/2409.16344)|null|
+|**2024-09-24**|**1/2 Z Topological Invariants and the Half Quantized Hall Effect**|Bo Fu, Shun-Qing Shen|[2409.15655](http://arxiv.org/abs/2409.15655)|null|
+|**2024-09-19**|**Decoherence and wavefunction deformation of $D_4$ non-Abelian topological order**|Pablo Sala, Jason Alicea, Ruben Verresen|[2409.12948](http://arxiv.org/abs/2409.12948)|null|
+|**2024-09-19**|**Universal thermodynamic topological classes of rotating black holes**|Xiao-Dan Zhu, Wentao Liu, Di Wu|[2409.12747](http://arxiv.org/abs/2409.12747)|null|
+|**2024-09-19**|**Efficient computation of topological order**|Louis Fraatz, Amit Jamadagni, Hendrik Weimer|[2409.12704](http://arxiv.org/abs/2409.12704)|null|
+|**2024-09-18**|**Stability and Loop Models from Decohering Non-Abelian Topological Order**|Pablo Sala, Ruben Verresen|[2409.12230](http://arxiv.org/abs/2409.12230)|null|
 |**2024-09-16**|**Bootstrapping the Quantum Hall problem**|Qiang Gao, Ryan A. Lanzetta, Patrick Ledwith, Jie Wang, Eslam Khalaf|[2409.10619](http://arxiv.org/abs/2409.10619)|null|
 |**2024-09-16**|**Duality-preserving deformation of 3+1d lattice $\mathbb Z_2$ gauge theory with exact gapped ground states**|Pranay Gorantla, Tzu-Chen Huang|[2409.10612](http://arxiv.org/abs/2409.10612)|null|
 |**2024-09-16**|**Primordial black hole from domain wall fluctuations**|Bo-Qiang Lu, Cheng-Wei Chiang, Tianjun Li|[2409.09986](http://arxiv.org/abs/2409.09986)|null|
