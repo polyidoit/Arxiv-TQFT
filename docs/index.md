@@ -1,7 +1,14 @@
-> Automatically updated on 2024.09.27
+> Automatically updated on 2024.09.28
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali, Mykola Dedushenko, Dongmin Gang, Mikhail Litvinov|[2409.18130](http://arxiv.org/abs/2409.18130)|null|
+|**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace, Ho Tat Lam, Ömer M. Aksoy|[2409.18113](http://arxiv.org/abs/2409.18113)|null|
+|**2024-09-26**|**Topological chiral superconductivity**|Minho Kim, Abigail Timmel, Long Ju, Xiao-Gang Wen|[2409.18067](http://arxiv.org/abs/2409.18067)|null|
+|**2024-09-26**|**Conformal Backreaction, Chiral and Conformal Anomalies in the Early Universe**|Claudio Corianò, Stefano Lionetti, Dario Melle, Riccardo Tommasi, Leonardo Torcellini|[2409.18004](http://arxiv.org/abs/2409.18004)|null|
+|**2024-09-26**|**Spin-Dependent Signatures of Majorana Vortex Fusion within Planar Josephson Junctions**|Krishnan Ganesh, Derek K. K. Lee, Jiannis K. Pachos|[2409.17813](http://arxiv.org/abs/2409.17813)|null|
+|**2024-09-26**|**Strong-to-weak spontaneous breaking of 1-form symmetry and intrinsically mixed topological order**|Carolyn Zhang, Yichen Xu, Jian-Hao Zhang, Cenke Xu, Zhen Bi, Zhu-Xi Luo|[2409.17530](http://arxiv.org/abs/2409.17530)|null|
+|**2024-09-25**|**Fermionic parton theory of Rydberg $\mathbb{Z}_2$ quantum spin liquids**|Atanu Maity, Yasir Iqbal, Rhine Samajdar|[2409.17219](http://arxiv.org/abs/2409.17219)|null|
 |**2024-09-25**|**Functional Integral Construction of Topological Quantum Field Theory**|Zhengwei Liu|[2409.17103](http://arxiv.org/abs/2409.17103)|null|
 |**2024-09-25**|**Interface engineering of van der Waals heterostructures towards energy-efficient quantum devices operating at room temperature**|Manh-Ha Doan, Peter Bøggild|[2409.16752](http://arxiv.org/abs/2409.16752)|null|
 |**2024-09-24**|**Topological order in spin nematics from the quantum melting of a disclination lattice**|Predrag Nikolić|[2409.16352](http://arxiv.org/abs/2409.16352)|null|
