@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-09-27**|**Fault-Tolerant Belief Propagation for Practical Quantum Memory**|Kao-Yueh Kuo, Ching-Yi Lai|[2409.18689](http://arxiv.org/abs/2409.18689)|null|
+|**2024-09-26**|**Entanglement renormalization of fractonic anisotropic $\mathbb{Z}_N$ Laplacian models**|Yuan Xue, Pranay Gorantla, Zhu-Xi Luo|[2409.18206](http://arxiv.org/abs/2409.18206)|null|
 |**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali, Mykola Dedushenko, Dongmin Gang, Mikhail Litvinov|[2409.18130](http://arxiv.org/abs/2409.18130)|null|
 |**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace, Ho Tat Lam, Ömer M. Aksoy|[2409.18113](http://arxiv.org/abs/2409.18113)|null|
 |**2024-09-26**|**Topological chiral superconductivity**|Minho Kim, Abigail Timmel, Long Ju, Xiao-Gang Wen|[2409.18067](http://arxiv.org/abs/2409.18067)|null|
