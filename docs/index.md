@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-09-30**|**Doping a fractional quantum anomalous Hall insulator**|Zhengyan Darius Shi, T. Senthil|[2409.20567](http://arxiv.org/abs/2409.20567)|null|
+|**2024-09-30**|**Learning thermodynamics and topological order of the 2D XY model with generative real-valued restricted Boltzmann machines**|Kai Zhang|[2409.20377](http://arxiv.org/abs/2409.20377)|null|
 |**2024-09-27**|**Fault-Tolerant Belief Propagation for Practical Quantum Memory**|Kao-Yueh Kuo, Ching-Yi Lai|[2409.18689](http://arxiv.org/abs/2409.18689)|null|
 |**2024-09-26**|**Entanglement renormalization of fractonic anisotropic $\mathbb{Z}_N$ Laplacian models**|Yuan Xue, Pranay Gorantla, Zhu-Xi Luo|[2409.18206](http://arxiv.org/abs/2409.18206)|null|
 |**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali, Mykola Dedushenko, Dongmin Gang, Mikhail Litvinov|[2409.18130](http://arxiv.org/abs/2409.18130)|null|
