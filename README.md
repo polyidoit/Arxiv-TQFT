@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2024.10.02
+> Automatically updated on 2024.10.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@ layout: default
 |**2024-09-26**|**Entanglement renormalization of fractonic anisotropic $\mathbb{Z}_N$ Laplacian models**|Yuan Xue, Pranay Gorantla, Zhu-Xi Luo|[2409.18206](http://arxiv.org/abs/2409.18206)|null|
 |**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali, Mykola Dedushenko, Dongmin Gang, Mikhail Litvinov|[2409.18130](http://arxiv.org/abs/2409.18130)|null|
 |**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace, Ho Tat Lam, Ömer M. Aksoy|[2409.18113](http://arxiv.org/abs/2409.18113)|null|
-|**2024-09-26**|**Topological chiral superconductivity**|Minho Kim, Abigail Timmel, Long Ju, Xiao-Gang Wen|[2409.18067](http://arxiv.org/abs/2409.18067)|null|
+|**2024-10-02**|**Topological chiral superconductivity beyond paring in Fermi-liquid**|Minho Kim, Abigail Timmel, Long Ju, Xiao-Gang Wen|[2409.18067](http://arxiv.org/abs/2409.18067)|null|
 |**2024-09-26**|**Conformal Backreaction, Chiral and Conformal Anomalies in the Early Universe**|Claudio Corianò, Stefano Lionetti, Dario Melle, Riccardo Tommasi, Leonardo Torcellini|[2409.18004](http://arxiv.org/abs/2409.18004)|null|
 |**2024-09-26**|**Spin-Dependent Signatures of Majorana Vortex Fusion within Planar Josephson Junctions**|Krishnan Ganesh, Derek K. K. Lee, Jiannis K. Pachos|[2409.17813](http://arxiv.org/abs/2409.17813)|null|
 |**2024-09-26**|**Strong-to-weak spontaneous breaking of 1-form symmetry and intrinsically mixed topological order**|Carolyn Zhang, Yichen Xu, Jian-Hao Zhang, Cenke Xu, Zhen Bi, Zhu-Xi Luo|[2409.17530](http://arxiv.org/abs/2409.17530)|null|
@@ -82,5 +82,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
