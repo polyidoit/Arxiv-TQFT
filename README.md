@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Topological ground state degeneracy of the two-channel Kondo lattice**|Aleksandar Ljepoja, Yashar Komijani|[2410.01759](http://arxiv.org/abs/2410.01759)|null|
+|**2024-10-02**|**Polynomial-Time Preparation of Low-Temperature Gibbs States for 2D Toric Code**|Zhiyan Ding, Bowen Li, Lin Lin, Ruizhe Zhang|[2410.01206](http://arxiv.org/abs/2410.01206)|null|
+|**2024-10-01**|**Topological orders with classical Lie group symmetries from coupling electron wires**|Pak Kau Lim, Michael Mulligan, Jeffrey C. Y. Teo|[2410.01094](http://arxiv.org/abs/2410.01094)|null|
+|**2024-10-01**|**The quantum trajectory sensing problem and its solution**|Zachary E. Chin, Isaac L. Chuang|[2410.00893](http://arxiv.org/abs/2410.00893)|null|
+|**2024-10-01**|**Topology of black hole phase transition in JT gravity**|Hemant Rathi, Dibakar Roychowdhury|[2410.00744](http://arxiv.org/abs/2410.00744)|null|
+|**2024-10-01**|**Coloring Trivalent Graphs: A Defect TFT Approach**|Amit Kumar|[2410.00378](http://arxiv.org/abs/2410.00378)|null|
+|**2024-09-30**|**Anyonic phase transitions in the 1D extended Hubbard model with fractional statistics**|Martin Bonkhoff, Kevin Jägering, Shijie Hu, Axel Pelster, Sebastian Eggert, Imke Schneider|[2410.00089](http://arxiv.org/abs/2410.00089)|null|
 |**2024-09-30**|**Doping a fractional quantum anomalous Hall insulator**|Zhengyan Darius Shi, T. Senthil|[2409.20567](http://arxiv.org/abs/2409.20567)|null|
 |**2024-09-30**|**Learning thermodynamics and topological order of the 2D XY model with generative real-valued restricted Boltzmann machines**|Kai Zhang|[2409.20377](http://arxiv.org/abs/2409.20377)|null|
 |**2024-09-27**|**Fault-Tolerant Belief Propagation for Practical Quantum Memory**|Kao-Yueh Kuo, Ching-Yi Lai|[2409.18689](http://arxiv.org/abs/2409.18689)|null|
