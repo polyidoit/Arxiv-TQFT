@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Duality between string and computational order in symmetry-enriched topological phases**|Paul Herringer, Vir B. Bulchandani, Younes Javanmard, David T. Stephen, Robert Raussendorf|[2410.02716](http://arxiv.org/abs/2410.02716)|null|
+|**2024-10-03**|**Competing automorphisms and disordered Floquet codes**|Cory T. Aitchison, Benjamin Béri|[2410.02398](http://arxiv.org/abs/2410.02398)|null|
+|**2024-10-02**|**Electroweak Symmetry Restoration in Extended Higgs Sectors via Domain Walls**|Mohamed Younes Sassi, Gudrid Moortgat-Pick|[2410.01889](http://arxiv.org/abs/2410.01889)|null|
 |**2024-10-02**|**Topological ground state degeneracy of the two-channel Kondo lattice**|Aleksandar Ljepoja, Yashar Komijani|[2410.01759](http://arxiv.org/abs/2410.01759)|null|
 |**2024-10-02**|**Polynomial-Time Preparation of Low-Temperature Gibbs States for 2D Toric Code**|Zhiyan Ding, Bowen Li, Lin Lin, Ruizhe Zhang|[2410.01206](http://arxiv.org/abs/2410.01206)|null|
 |**2024-10-01**|**Topological orders with classical Lie group symmetries from coupling electron wires**|Pak Kau Lim, Michael Mulligan, Jeffrey C. Y. Teo|[2410.01094](http://arxiv.org/abs/2410.01094)|null|
