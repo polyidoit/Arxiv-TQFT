@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Universal adapters between quantum LDPC codes**|Esha Swaroop, Tomas Jochym-O'Connor, Theodore J. Yoder|[2410.03628](http://arxiv.org/abs/2410.03628)|null|
 |**2024-10-03**|**Duality between string and computational order in symmetry-enriched topological phases**|Paul Herringer, Vir B. Bulchandani, Younes Javanmard, David T. Stephen, Robert Raussendorf|[2410.02716](http://arxiv.org/abs/2410.02716)|null|
 |**2024-10-03**|**Competing automorphisms and disordered Floquet codes**|Cory T. Aitchison, Benjamin Béri|[2410.02398](http://arxiv.org/abs/2410.02398)|null|
 |**2024-10-02**|**Electroweak Symmetry Restoration in Extended Higgs Sectors via Domain Walls**|Mohamed Younes Sassi, Gudrid Moortgat-Pick|[2410.01889](http://arxiv.org/abs/2410.01889)|null|
