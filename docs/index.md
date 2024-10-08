@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-10-07**|**Anomalous continuous symmetries and quantum topology of Goldstone modes**|Naren Manjunath, Dominic V. Else|[2410.05268](http://arxiv.org/abs/2410.05268)|null|
+|**2024-10-07**|**Sarma-Bogomol'nyi equations in superconductivity**|Mia Kyler, Eugene B. Kolomeisky|[2410.05179](http://arxiv.org/abs/2410.05179)|null|
+|**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong|[2410.05171](http://arxiv.org/abs/2410.05171)|null|
+|**2024-10-07**|**Gibbs state preparation for commuting Hamiltonian: Mapping to classical Gibbs sampling**|Yeongwoo Hwang, Jiaqing Jiang|[2410.04909](http://arxiv.org/abs/2410.04909)|null|
+|**2024-10-07**|**Spotting structural defects in crystals from the topology of vibrational modes**|Long-Zhou Huang, Yun-Jiang Wang, Matteo Baggioli|[2410.04720](http://arxiv.org/abs/2410.04720)|null|
 |**2024-10-04**|**Universal adapters between quantum LDPC codes**|Esha Swaroop, Tomas Jochym-O'Connor, Theodore J. Yoder|[2410.03628](http://arxiv.org/abs/2410.03628)|null|
 |**2024-10-03**|**Duality between string and computational order in symmetry-enriched topological phases**|Paul Herringer, Vir B. Bulchandani, Younes Javanmard, David T. Stephen, Robert Raussendorf|[2410.02716](http://arxiv.org/abs/2410.02716)|null|
 |**2024-10-03**|**Competing automorphisms and disordered Floquet codes**|Cory T. Aitchison, Benjamin Béri|[2410.02398](http://arxiv.org/abs/2410.02398)|null|
