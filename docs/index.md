@@ -2,10 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-10-09**|**Enhanced Fault-tolerance in Photonic Quantum Computing: Floquet Code Outperforms Surface Code in Tailored Architecture**|Paul Hilaire, Théo Dessertaine, Boris Bourdoncle, Aurélie Denys, Grégoire de Gliniasty, Gerard Valentí-Rojas, Shane Mansfield|[2410.07065](http://arxiv.org/abs/2410.07065)|null|
+|**2024-10-08**|**Statistics of topological defects across a phase transition in a superconducting quantum processor**|Daniil Teplitskiy, Oriel Kiss, Michele Grossi, Antonio Mandarino|[2410.06250](http://arxiv.org/abs/2410.06250)|null|
+|**2024-10-08**|**Creation, annihilation and transport of nonmagnetic antiskyrmions within Ginzburg-Landau-Devonshire model**|V. Stepkova, J. Hlinka|[2410.05906](http://arxiv.org/abs/2410.05906)|null|
+|**2024-10-08**|**Ordering-Based Causal Discovery for Linear and Nonlinear Relations**|Zhuopeng Xu, Yujie Li, Cheng Liu, Ning Gui|[2410.05890](http://arxiv.org/abs/2410.05890)|**[link](https://github.com/e2real/caps)**|
+|**2024-10-07**|**Slow Equilibrium Relaxation in a Chiral Magnet Mediated by Topological Defects**|Chenhao Zhang, Yang Wu, Jingyi Chen, Haonan Jin, Jinghui Wang, Raymond Fan, Paul Steadman, Gerrit van der Laan, Thorsten Hesjedal, Shilei Zhang|[2410.05485](http://arxiv.org/abs/2410.05485)|null|
+|**2024-10-07**|**Error-Correcting Codes in TQFT on Multispheres**|Rafael Chaves, Dmitry Melnikov, Marcos Neves, Luigy Pinto, Davide Poderini|[2410.05404](http://arxiv.org/abs/2410.05404)|null|
 |**2024-10-07**|**Anomalous continuous symmetries and quantum topology of Goldstone modes**|Naren Manjunath, Dominic V. Else|[2410.05268](http://arxiv.org/abs/2410.05268)|null|
 |**2024-10-07**|**Sarma-Bogomol'nyi equations in superconductivity**|Mia Kyler, Eugene B. Kolomeisky|[2410.05179](http://arxiv.org/abs/2410.05179)|null|
 |**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong|[2410.05171](http://arxiv.org/abs/2410.05171)|null|
-|**2024-10-07**|**Gibbs state preparation for commuting Hamiltonian: Mapping to classical Gibbs sampling**|Yeongwoo Hwang, Jiaqing Jiang|[2410.04909](http://arxiv.org/abs/2410.04909)|null|
+|**2024-10-08**|**Gibbs state preparation for commuting Hamiltonian: Mapping to classical Gibbs sampling**|Yeongwoo Hwang, Jiaqing Jiang|[2410.04909](http://arxiv.org/abs/2410.04909)|null|
 |**2024-10-07**|**Spotting structural defects in crystals from the topology of vibrational modes**|Long-Zhou Huang, Yun-Jiang Wang, Matteo Baggioli|[2410.04720](http://arxiv.org/abs/2410.04720)|null|
 |**2024-10-04**|**Universal adapters between quantum LDPC codes**|Esha Swaroop, Tomas Jochym-O'Connor, Theodore J. Yoder|[2410.03628](http://arxiv.org/abs/2410.03628)|null|
 |**2024-10-03**|**Duality between string and computational order in symmetry-enriched topological phases**|Paul Herringer, Vir B. Bulchandani, Younes Javanmard, David T. Stephen, Robert Raussendorf|[2410.02716](http://arxiv.org/abs/2410.02716)|null|
