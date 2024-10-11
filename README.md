@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Formation of defects associated with both spontaneous and explicit symmetry breaking**|Kohei Fujikura, Mairi Sakellariadou, Michiru Uwabo-Niibo, Masahide Yamaguchi|[2410.07565](http://arxiv.org/abs/2410.07565)|null|
+|**2024-10-09**|**Single-particle spectral function of fractional quantum anomalous Hall states**|Fabian Pichler, Wilhelm Kadow, Clemens Kuhlenkamp, Michael Knap|[2410.07319](http://arxiv.org/abs/2410.07319)|null|
+|**2024-10-09**|**Frozen Generalized Symmetries**|Mirjam Cvetič, Markus Dierigl, Ling Lin, Ethan Torres, Hao Y. Zhang|[2410.07318](http://arxiv.org/abs/2410.07318)|null|
 |**2024-10-09**|**Enhanced Fault-tolerance in Photonic Quantum Computing: Floquet Code Outperforms Surface Code in Tailored Architecture**|Paul Hilaire, Théo Dessertaine, Boris Bourdoncle, Aurélie Denys, Grégoire de Gliniasty, Gerard Valentí-Rojas, Shane Mansfield|[2410.07065](http://arxiv.org/abs/2410.07065)|null|
 |**2024-10-08**|**Statistics of topological defects across a phase transition in a superconducting quantum processor**|Daniil Teplitskiy, Oriel Kiss, Michele Grossi, Antonio Mandarino|[2410.06250](http://arxiv.org/abs/2410.06250)|null|
 |**2024-10-08**|**Creation, annihilation and transport of nonmagnetic antiskyrmions within Ginzburg-Landau-Devonshire model**|V. Stepkova, J. Hlinka|[2410.05906](http://arxiv.org/abs/2410.05906)|null|
