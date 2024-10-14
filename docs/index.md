@@ -1,4 +1,4 @@
-> Automatically updated on 2024.10.13
+> Automatically updated on 2024.10.14
 
 ## TQFT, Topological order, Generalized symmetry
 
@@ -9,7 +9,7 @@
 |**2024-10-08**|**Statistics of topological defects across a phase transition in a superconducting quantum processor**|Daniil Teplitskiy, Oriel Kiss, Michele Grossi, Antonio Mandarino|[2410.06250](http://arxiv.org/abs/2410.06250)|null|
 |**2024-10-08**|**Creation, annihilation and transport of nonmagnetic antiskyrmions within Ginzburg-Landau-Devonshire model**|V. Stepkova, J. Hlinka|[2410.05906](http://arxiv.org/abs/2410.05906)|null|
 |**2024-10-08**|**Ordering-Based Causal Discovery for Linear and Nonlinear Relations**|Zhuopeng Xu, Yujie Li, Cheng Liu, Ning Gui|[2410.05890](http://arxiv.org/abs/2410.05890)|**[link](https://github.com/e2real/caps)**|
-|**2024-10-07**|**Slow Equilibrium Relaxation in a Chiral Magnet Mediated by Topological Defects**|Chenhao Zhang, Yang Wu, Jingyi Chen, Haonan Jin, Jinghui Wang, Raymond Fan, Paul Steadman, Gerrit van der Laan, Thorsten Hesjedal, Shilei Zhang|[2410.05485](http://arxiv.org/abs/2410.05485)|null|
+|**2024-10-11**|**Slow Equilibrium Relaxation in a Chiral Magnet Mediated by Topological Defects**|Chenhao Zhang, Yang Wu, Jingyi Chen, Haonan Jin, Jinghui Wang, Raymond Fan, Paul Steadman, Gerrit van der Laan, Thorsten Hesjedal, Shilei Zhang|[2410.05485](http://arxiv.org/abs/2410.05485)|null|
 |**2024-10-07**|**Error-Correcting Codes in TQFT on Multispheres**|Rafael Chaves, Dmitry Melnikov, Marcos Neves, Luigy Pinto, Davide Poderini|[2410.05404](http://arxiv.org/abs/2410.05404)|null|
 |**2024-10-07**|**Anomalous continuous symmetries and quantum topology of Goldstone modes**|Naren Manjunath, Dominic V. Else|[2410.05268](http://arxiv.org/abs/2410.05268)|null|
 |**2024-10-07**|**Sarma-Bogomol'nyi equations in superconductivity**|Mia Kyler, Eugene B. Kolomeisky|[2410.05179](http://arxiv.org/abs/2410.05179)|null|
