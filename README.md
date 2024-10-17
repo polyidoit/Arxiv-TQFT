@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2024.10.14
+> Automatically updated on 2024.10.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Preparing topological states with finite depth simultaneous commuting gates**|Yarden Sheffer, Erez Berg, Ady Stern|[2410.11602](http://arxiv.org/abs/2410.11602)|null|
+|**2024-10-14**|**Lattice Chern-Simons-Maxwell Theory and its Chirality**|Ze-An Xu, Jing-Yuan Chen|[2410.11034](http://arxiv.org/abs/2410.11034)|null|
+|**2024-10-14**|**Fractionalized Altermagnets: from neighboring and altermagnetic spin-liquids to fractionalized spin-orbit coupling**|João Augusto Sobral, Subrata Mandal, Mathias S. Scheurer|[2410.10949](http://arxiv.org/abs/2410.10949)|null|
+|**2024-10-14**|**Scattering of sine-Gordon kinks with internal structure in an extended nonlinear $O(3)$ sigma model**|Adalto R. Gomes, Fabiano C. Simas|[2410.10445](http://arxiv.org/abs/2410.10445)|null|
+|**2024-10-13**|**Web of Four-Dimensional Dualities and Symmetry Topological Field Theories**|Zhihao Duan, Qiang Jia, Sungjay Lee|[2410.10036](http://arxiv.org/abs/2410.10036)|null|
+|**2024-10-12**|**Impurities and polarons in bosonic quantum gases: a review on recent progress**|F. Grusdt, N. Mostaan, E. Demler, Luis A. Peña Ardila|[2410.09413](http://arxiv.org/abs/2410.09413)|null|
+|**2024-10-11**|**Chiral, Topological, and Knotted Colloids in Liquid Crystals**|Ye Yuan, Ivan I. Smalyukh|[2410.08636](http://arxiv.org/abs/2410.08636)|null|
+|**2024-10-11**|**Classical Continuum Limit of the String Field Theory Dual to Lattice Gauge Theory**|Kiyoharu Kawana|[2410.08552](http://arxiv.org/abs/2410.08552)|null|
+|**2024-10-10**|**Towards absolutely stable ergodicity breaking in two and three dimensions**|Charles Stahl, Oliver Hart, Rahul Nandkishore|[2410.08264](http://arxiv.org/abs/2410.08264)|null|
 |**2024-10-10**|**Formation of defects associated with both spontaneous and explicit symmetry breaking**|Kohei Fujikura, Mairi Sakellariadou, Michiru Uwabo-Niibo, Masahide Yamaguchi|[2410.07565](http://arxiv.org/abs/2410.07565)|null|
 |**2024-10-09**|**Single-particle spectral function of fractional quantum anomalous Hall states**|Fabian Pichler, Wilhelm Kadow, Clemens Kuhlenkamp, Michael Knap|[2410.07319](http://arxiv.org/abs/2410.07319)|null|
 |**2024-10-09**|**Frozen Generalized Symmetries**|Mirjam Cvetič, Markus Dierigl, Ling Lin, Ethan Torres, Hao Y. Zhang|[2410.07318](http://arxiv.org/abs/2410.07318)|null|
@@ -107,5 +116,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
 
