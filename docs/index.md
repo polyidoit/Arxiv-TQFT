@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-10-16**|**Cnoidal wave supersolidity in nonequilibrium states is dynamically unstable at finite temperature**|Peng Yang, Yu Tian, Matteo Baggioli|[2410.12437](http://arxiv.org/abs/2410.12437)|null|
+|**2024-10-16**|**Active Screws: Emergent Active Chiral Nematics of Spinning Self-Propelled Rods**|Debarghya Banerjee, Ricard Alert|[2410.12263](http://arxiv.org/abs/2410.12263)|null|
+|**2024-10-15**|**Operator algebra and algorithmic construction of boundaries and defects in (2+1)D topological Pauli stabilizer codes**|Zijian Liang, Bowen Yang, Joseph T. Iosue, Yu-An Chen|[2410.11942](http://arxiv.org/abs/2410.11942)|null|
 |**2024-10-15**|**Preparing topological states with finite depth simultaneous commuting gates**|Yarden Sheffer, Erez Berg, Ady Stern|[2410.11602](http://arxiv.org/abs/2410.11602)|null|
 |**2024-10-14**|**Lattice Chern-Simons-Maxwell Theory and its Chirality**|Ze-An Xu, Jing-Yuan Chen|[2410.11034](http://arxiv.org/abs/2410.11034)|null|
 |**2024-10-14**|**Fractionalized Altermagnets: from neighboring and altermagnetic spin-liquids to fractionalized spin-orbit coupling**|João Augusto Sobral, Subrata Mandal, Mathias S. Scheurer|[2410.10949](http://arxiv.org/abs/2410.10949)|null|
