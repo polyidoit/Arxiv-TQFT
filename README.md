@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Post-measurement Quantum Monte Carlo**|Kriti Baweja, David J. Luitz, Samuel J. Garratt|[2410.13844](http://arxiv.org/abs/2410.13844)|null|
+|**2024-10-17**|**Strong-to-weak spontaneous symmetry breaking meets average symmetry-protected topological order**|Yuchen Guo, Shuo Yang|[2410.13734](http://arxiv.org/abs/2410.13734)|null|
+|**2024-10-17**|**Topological quantum computing**|Fabian Hassler|[2410.13547](http://arxiv.org/abs/2410.13547)|null|
+|**2024-10-16**|**Single-shot and measurement-based quantum error correction via fault complexes**|Timo Hillmann, Guillaume Dauphinais, Ilan Tzitrin, Michael Vasmer|[2410.12963](http://arxiv.org/abs/2410.12963)|null|
+|**2024-10-16**|**Instability of steady-state mixed-state symmetry-protected topological order to strong-to-weak spontaneous symmetry breaking**|Jeet Shah, Christopher Fechisin, Yu-Xin Wang, Joseph T. Iosue, James D. Watson, Yan-Qi Wang, Brayden Ware, Alexey V. Gorshkov, Cheng-Ju Lin|[2410.12900](http://arxiv.org/abs/2410.12900)|null|
 |**2024-10-16**|**Cnoidal wave supersolidity in nonequilibrium states is dynamically unstable at finite temperature**|Peng Yang, Yu Tian, Matteo Baggioli|[2410.12437](http://arxiv.org/abs/2410.12437)|null|
 |**2024-10-16**|**Active Screws: Emergent Active Chiral Nematics of Spinning Self-Propelled Rods**|Debarghya Banerjee, Ricard Alert|[2410.12263](http://arxiv.org/abs/2410.12263)|null|
 |**2024-10-15**|**Operator algebra and algorithmic construction of boundaries and defects in (2+1)D topological Pauli stabilizer codes**|Zijian Liang, Bowen Yang, Joseph T. Iosue, Yu-An Chen|[2410.11942](http://arxiv.org/abs/2410.11942)|null|
