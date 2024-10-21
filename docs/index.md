@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-10-18**|**Intrinsic mixed state topological order in a stabilizer system under stochastic decoherence**|Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose|[2410.14258](http://arxiv.org/abs/2410.14258)|null|
 |**2024-10-17**|**Post-measurement Quantum Monte Carlo**|Kriti Baweja, David J. Luitz, Samuel J. Garratt|[2410.13844](http://arxiv.org/abs/2410.13844)|null|
 |**2024-10-17**|**Strong-to-weak spontaneous symmetry breaking meets average symmetry-protected topological order**|Yuchen Guo, Shuo Yang|[2410.13734](http://arxiv.org/abs/2410.13734)|null|
 |**2024-10-17**|**Topological quantum computing**|Fabian Hassler|[2410.13547](http://arxiv.org/abs/2410.13547)|null|
