@@ -1,4 +1,4 @@
-> Automatically updated on 2024.10.23
+> Automatically updated on 2024.10.24
 
 ## TQFT, Topological order, Generalized symmetry
 
@@ -6,7 +6,7 @@
 |**2024-10-22**|**Quantifying the non-Abelian property of Andreev bound states in inhomogeneous Majorana nanowires**|Yu Zhang, Yijia Wu, Jie Liu, X. C. Xie|[2410.17014](http://arxiv.org/abs/2410.17014)|null|
 |**2024-10-22**|**Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories**|Khyathi Komalan|[2410.16993](http://arxiv.org/abs/2410.16993)|null|
 |**2024-10-20**|**Observation of quantum superposition of topological defects in a trapped ion quantum simulator**|Zhijie Cheng, Yukai Wu, Shijiao Li, Quanxin Mei, Bowen Li, Gangxi Wang, Yue Jiang, Binxiang Qi, Zichao Zhou, Panyu Hou, Luming Duan|[2410.15389](http://arxiv.org/abs/2410.15389)|null|
-|**2024-10-20**|**Convolutional Neural Network analysis of optical texture patterns in liquid-crystal skyrmions**|J. Terro, M. Tasinkevych, C. S. Dias|[2410.15246](http://arxiv.org/abs/2410.15246)|null|
+|**2024-10-23**|**Convolutional Neural Network analysis of optical texture patterns in liquid-crystal skyrmions**|J. Terroa, M. Tasinkevych, C. S. Dias|[2410.15246](http://arxiv.org/abs/2410.15246)|null|
 |**2024-10-19**|**2D Basement Relief Inversion using Sparse Regularization**|Francisco Márcio Barboza, Arthur Anthony da Cunha Romão E Silva, Bruno Motta de Carvalho|[2410.14942](http://arxiv.org/abs/2410.14942)|null|
 |**2024-10-18**|**Universal quantum computation using Ising anyons from a non-semisimple Topological Quantum Field Theory**|Filippo Iulianelli, Sung Kim, Joshua Sussan, Aaron D. Lauda|[2410.14860](http://arxiv.org/abs/2410.14860)|null|
 |**2024-10-18**|**Intrinsic mixed state topological order in a stabilizer system under stochastic decoherence**|Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose|[2410.14258](http://arxiv.org/abs/2410.14258)|null|
