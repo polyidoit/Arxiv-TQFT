@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-10-23**|**A geometrical description of untwisted Dijkgraaf-Witten TQFT with defects**|João Faría Martins, Catherine Meusburger|[2410.18049](http://arxiv.org/abs/2410.18049)|null|
+|**2024-10-23**|**Parallel quench and dynamic geometrical order parameter**|Jia-Chen Tang, Xu-Yang Hou, Hao Guo|[2410.17940](http://arxiv.org/abs/2410.17940)|null|
+|**2024-10-23**|**Topological field theories associated with Calabi-Yau categories**|Tristan Bozec, Damien Calaque, Sarah Scherotzke|[2410.17726](http://arxiv.org/abs/2410.17726)|null|
+|**2024-10-22**|**Duality defect in a deformed transverse-field Ising model**|Fei Yan, Robert Konik, Aditi Mitra|[2410.17317](http://arxiv.org/abs/2410.17317)|null|
 |**2024-10-22**|**A recent confirmation of the wide binary gravitational anomaly**|X. Hernandez, Pavel Kroupa|[2410.17178](http://arxiv.org/abs/2410.17178)|null|
 |**2024-10-22**|**Quantifying the non-Abelian property of Andreev bound states in inhomogeneous Majorana nanowires**|Yu Zhang, Yijia Wu, Jie Liu, X. C. Xie|[2410.17014](http://arxiv.org/abs/2410.17014)|null|
 |**2024-10-22**|**Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories**|Khyathi Komalan|[2410.16993](http://arxiv.org/abs/2410.16993)|null|
