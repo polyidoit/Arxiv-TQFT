@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-10-24**|**Topological Order in the Spectral Riemann Surfaces of Non-Hermitian Systems**|Anton Montag, Alexander Felski, Flore K. Kunst|[2410.18616](http://arxiv.org/abs/2410.18616)|null|
+|**2024-10-23**|**Floquet Codes from Coupled Spin Chains**|Bowen Yan, Penghua Chen, Shawn X. Cui|[2410.18265](http://arxiv.org/abs/2410.18265)|null|
+|**2024-10-23**|**On extended Frobenius structures**|Agustina Czenky, Jacob Kesten, Abiel Quinonez, Chelsea Walton|[2410.18232](http://arxiv.org/abs/2410.18232)|null|
+|**2024-10-23**|**Equivalence Relations on Vertex Operator Algebras, II: Witt Equivalence and Orbifolds**|Sven Möller, Brandon C. Rayhaun|[2410.18166](http://arxiv.org/abs/2410.18166)|null|
 |**2024-10-23**|**A geometrical description of untwisted Dijkgraaf-Witten TQFT with defects**|João Faría Martins, Catherine Meusburger|[2410.18049](http://arxiv.org/abs/2410.18049)|null|
 |**2024-10-23**|**Parallel quench and dynamic geometrical order parameter**|Jia-Chen Tang, Xu-Yang Hou, Hao Guo|[2410.17940](http://arxiv.org/abs/2410.17940)|null|
 |**2024-10-23**|**Topological field theories associated with Calabi-Yau categories**|Tristan Bozec, Damien Calaque, Sarah Scherotzke|[2410.17726](http://arxiv.org/abs/2410.17726)|null|
