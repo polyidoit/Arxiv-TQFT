@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Superconductive coupling and Josephson diode effect in selectively-grown topological insulator based three-terminal junctions**|Gerrit Behner, Abdur Rehman Jalil, Alina Rupp, Hans Lüth, Detlev Grützmacher, Thomas Schäpers|[2410.19311](http://arxiv.org/abs/2410.19311)|null|
+|**2024-10-24**|**Exactly solvable models for fermionic symmetry-enriched topological phases and fermionic 't Hooft anomaly**|Jing-Ren Zhou, Zheng-Cheng Gu|[2410.19126](http://arxiv.org/abs/2410.19126)|null|
+|**2024-10-24**|**A Gapless Phase with Haagerup Symmetry**|Lea E. Bottini, Sakura Schafer-Nameki|[2410.19040](http://arxiv.org/abs/2410.19040)|null|
 |**2024-10-24**|**Topological Order in the Spectral Riemann Surfaces of Non-Hermitian Systems**|Anton Montag, Alexander Felski, Flore K. Kunst|[2410.18616](http://arxiv.org/abs/2410.18616)|null|
 |**2024-10-23**|**Floquet Codes from Coupled Spin Chains**|Bowen Yan, Penghua Chen, Shawn X. Cui|[2410.18265](http://arxiv.org/abs/2410.18265)|null|
 |**2024-10-23**|**On extended Frobenius structures**|Agustina Czenky, Jacob Kesten, Abiel Quinonez, Chelsea Walton|[2410.18232](http://arxiv.org/abs/2410.18232)|null|
