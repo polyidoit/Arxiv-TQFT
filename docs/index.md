@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-10-28**|**Manipulation of Quantum Strings by Edge Defect in Kagome Rydberg Atom Array**|Wei Xu, Xue-Feng Zhang|[2410.21135](http://arxiv.org/abs/2410.21135)|null|
 |**2024-10-25**|**Superconductive coupling and Josephson diode effect in selectively-grown topological insulator based three-terminal junctions**|Gerrit Behner, Abdur Rehman Jalil, Alina Rupp, Hans Lüth, Detlev Grützmacher, Thomas Schäpers|[2410.19311](http://arxiv.org/abs/2410.19311)|null|
 |**2024-10-24**|**Exactly solvable models for fermionic symmetry-enriched topological phases and fermionic 't Hooft anomaly**|Jing-Ren Zhou, Zheng-Cheng Gu|[2410.19126](http://arxiv.org/abs/2410.19126)|null|
 |**2024-10-24**|**A Gapless Phase with Haagerup Symmetry**|Lea E. Bottini, Sakura Schafer-Nameki|[2410.19040](http://arxiv.org/abs/2410.19040)|null|
