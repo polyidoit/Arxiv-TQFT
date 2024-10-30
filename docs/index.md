@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-10-29**|**Probing chiral symmetry with a topological domain wall sensor**|Glenn Wagner, Titus Neupert, Ronny Thomale, Andrzej Szczerbakow, Jedrzej Korczak, Tomasz Story, Matthias Bode, Artem Odobesko|[2410.22088](http://arxiv.org/abs/2410.22088)|null|
+|**2024-10-29**|**Magnetization-Induced Phase Transitions on the surface of 3D Topological Insulators**|Yu-Hao Wan, Qing-Feng Sun|[2410.21684](http://arxiv.org/abs/2410.21684)|null|
+|**2024-10-29**|**Boson-anyon-fermion mapping in one dimension: Constructing anyonic molecule and superfluidity in a spin- $1/2$ Fermi gas**|Haitian Wang, Yu Chen, Xiaoling Cui|[2410.21632](http://arxiv.org/abs/2410.21632)|null|
+|**2024-10-28**|**Stabilizing Non-Abelian Topological Order against Heralded Noise via Local Lindbladian Dynamics**|Sanket Chirame, Abhinav Prem, Sarang Gopalakrishnan, Fiona J. Burnell|[2410.21402](http://arxiv.org/abs/2410.21402)|null|
 |**2024-10-28**|**Manipulation of Quantum Strings by Edge Defect in Kagome Rydberg Atom Array**|Wei Xu, Xue-Feng Zhang|[2410.21135](http://arxiv.org/abs/2410.21135)|null|
 |**2024-10-25**|**Superconductive coupling and Josephson diode effect in selectively-grown topological insulator based three-terminal junctions**|Gerrit Behner, Abdur Rehman Jalil, Alina Rupp, Hans Lüth, Detlev Grützmacher, Thomas Schäpers|[2410.19311](http://arxiv.org/abs/2410.19311)|null|
 |**2024-10-24**|**Exactly solvable models for fermionic symmetry-enriched topological phases and fermionic 't Hooft anomaly**|Jing-Ren Zhou, Zheng-Cheng Gu|[2410.19126](http://arxiv.org/abs/2410.19126)|null|
