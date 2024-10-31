@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**A Tale of Bulk and Branes: Symmetry TFT of 6D SCFTs from IIB/F-theory**|Jiahua Tian, Yi-Nan Wang|[2410.23076](http://arxiv.org/abs/2410.23076)|null|
+|**2024-10-30**|**LEGO_HQEC: A Software Tool for Analyzing Holographic Quantum Codes**|Junyu Fan, Matthew Steinberg, Alexander Jahn, Chunjun Cao, Aritra Sarkar, Sebastian Feld|[2410.22861](http://arxiv.org/abs/2410.22861)|null|
+|**2024-10-29**|**Morphogenesis of Spin Cycloids in a Non-collinear Antiferromagnet**|Shashank Kumar Ojha, Pratap Pal, Sergei Prokhorenko, Sajid Husain, Maya Ramesh, Peter Meisenheimer, Darrell G. Schlom, Paul Stevenson, Lucas Caretta, Yousra Nahas, Lane W. Martin, Laurent Bellaiche, Chang-Beom Eom, Ramamoorthy Ramesh|[2410.22463](http://arxiv.org/abs/2410.22463)|null|
 |**2024-10-29**|**Probing chiral symmetry with a topological domain wall sensor**|Glenn Wagner, Titus Neupert, Ronny Thomale, Andrzej Szczerbakow, Jedrzej Korczak, Tomasz Story, Matthias Bode, Artem Odobesko|[2410.22088](http://arxiv.org/abs/2410.22088)|null|
 |**2024-10-29**|**Magnetization-Induced Phase Transitions on the surface of 3D Topological Insulators**|Yu-Hao Wan, Qing-Feng Sun|[2410.21684](http://arxiv.org/abs/2410.21684)|null|
 |**2024-10-29**|**Boson-anyon-fermion mapping in one dimension: Constructing anyonic molecule and superfluidity in a spin- $1/2$ Fermi gas**|Haitian Wang, Yu Chen, Xiaoling Cui|[2410.21632](http://arxiv.org/abs/2410.21632)|null|
