@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2024.11.01
+> Automatically updated on 2024.11.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@ layout: default
 |**2024-10-31**|**Diagnosing electronic phases of matter using photonic correlation functions**|Gautam Nambiar, Andrey Grankin, Mohammad Hafezi|[2410.24215](http://arxiv.org/abs/2410.24215)|null|
 |**2024-10-31**|**Global String Instantons**|Jose J. Blanco-Pillado, Georgios Fanaras, Alexander Vilenkin|[2410.24149](http://arxiv.org/abs/2410.24149)|null|
 |**2024-10-31**|**Non-equilibrium and equilibrium thermodynamic foundations of the 2D toric code within the SEAQT framework**|Cesar Damian, Adriana Saldana-Robles, Michael von Spakovsky|[2410.24033](http://arxiv.org/abs/2410.24033)|null|
-|**2024-10-31**|**Failure Modes of LLMs for Causal Reasoning on Narratives**|Khurram Yamin, Shantanu Gupta, Gaurav R. Ghosal, Zachary C. Lipton, Bryan Wilder|[2410.23884](http://arxiv.org/abs/2410.23884)|null|
+|**2024-10-31**|**Failure Modes of LLMs for Causal Reasoning on Narratives**|Khurram Yamin, Shantanu Gupta, Gaurav R. Ghosal, Zachary C. Lipton, Bryan Wilder|[2410.23884](http://arxiv.org/abs/2410.23884)|**[link](https://github.com/shantanu95/llm_causal_reasoning)**|
 |**2024-10-31**|**Topological 4D gravity and gravitational defects**|Y. Boujakhrout, R. Sammani, E. H Saidi|[2410.23604](http://arxiv.org/abs/2410.23604)|null|
 |**2024-10-31**|**Learning State Preparation Circuits for Quantum Phases of Matter**|Hyun-Soo Kim, Isaac H. Kim, Daniel Ranard|[2410.23544](http://arxiv.org/abs/2410.23544)|null|
 |**2024-10-30**|**Many-body quantum catalysts for transforming between phases of matter**|David T. Stephen, Rahul Nandkishore, Jian-Hao Zhang|[2410.23354](http://arxiv.org/abs/2410.23354)|null|
@@ -158,5 +158,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
