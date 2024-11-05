@@ -2,12 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-11-04**|**LDPC stabilizer codes as gapped quantum phases: stability under graph-local perturbations**|Wojciech De Roeck, Vedika Khemani, Yaodong Li, Nicholas O'Dea, Tibor Rakovszky|[2411.02384](http://arxiv.org/abs/2411.02384)|null|
+|**2024-11-01**|**Low-density parity-check codes as stable phases of quantum matter**|Chao Yin, Andrew Lucas|[2411.01002](http://arxiv.org/abs/2411.01002)|null|
 |**2024-10-31**|**Diagnosing electronic phases of matter using photonic correlation functions**|Gautam Nambiar, Andrey Grankin, Mohammad Hafezi|[2410.24215](http://arxiv.org/abs/2410.24215)|null|
 |**2024-10-31**|**Global String Instantons**|Jose J. Blanco-Pillado, Georgios Fanaras, Alexander Vilenkin|[2410.24149](http://arxiv.org/abs/2410.24149)|null|
 |**2024-10-31**|**Non-equilibrium and equilibrium thermodynamic foundations of the 2D toric code within the SEAQT framework**|Cesar Damian, Adriana Saldana-Robles, Michael von Spakovsky|[2410.24033](http://arxiv.org/abs/2410.24033)|null|
 |**2024-10-31**|**Failure Modes of LLMs for Causal Reasoning on Narratives**|Khurram Yamin, Shantanu Gupta, Gaurav R. Ghosal, Zachary C. Lipton, Bryan Wilder|[2410.23884](http://arxiv.org/abs/2410.23884)|**[link](https://github.com/shantanu95/llm_causal_reasoning)**|
 |**2024-10-31**|**Topological 4D gravity and gravitational defects**|Y. Boujakhrout, R. Sammani, E. H Saidi|[2410.23604](http://arxiv.org/abs/2410.23604)|null|
-|**2024-10-31**|**Learning State Preparation Circuits for Quantum Phases of Matter**|Hyun-Soo Kim, Isaac H. Kim, Daniel Ranard|[2410.23544](http://arxiv.org/abs/2410.23544)|null|
+|**2024-11-04**|**Learning State Preparation Circuits for Quantum Phases of Matter**|Hyun-Soo Kim, Isaac H. Kim, Daniel Ranard|[2410.23544](http://arxiv.org/abs/2410.23544)|null|
 |**2024-10-30**|**Many-body quantum catalysts for transforming between phases of matter**|David T. Stephen, Rahul Nandkishore, Jian-Hao Zhang|[2410.23354](http://arxiv.org/abs/2410.23354)|null|
 |**2024-10-30**|**A Tale of Bulk and Branes: Symmetry TFT of 6D SCFTs from IIB/F-theory**|Jiahua Tian, Yi-Nan Wang|[2410.23076](http://arxiv.org/abs/2410.23076)|null|
 |**2024-10-30**|**LEGO_HQEC: A Software Tool for Analyzing Holographic Quantum Codes**|Junyu Fan, Matthew Steinberg, Alexander Jahn, Chunjun Cao, Aritra Sarkar, Sebastian Feld|[2410.22861](http://arxiv.org/abs/2410.22861)|null|
