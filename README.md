@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Low-Overhead Entangling Gates from Generalised Dehn Twists**|Ryan Tiew, Nikolas P. Breuckmann|[2411.03302](http://arxiv.org/abs/2411.03302)|null|
+|**2024-11-04**|**One-step synthesis of graphene containing topological defects**|Benedikt P. Klein, Matthew A. Stoodley, Joel Deyerling, Luke A. Rochford, Dylan B. Morgan, David Hopkinson, Sam Sullivan-Allsop, Fulden Eratam, Lars Sattler, Sebastian M. Weber, Gerhard Hilt, Alexander Generalov, Alexei Preobrajenski, Thomas Liddy, Leon B. S. Williams, Tien-Lin Lee, Alex Saywell, Roman Gorbachev, Sarah J. Haigh, Christopher Allen, Willi Auwärter, Reinhard J. Maurer, David A. Duncan|[2411.02676](http://arxiv.org/abs/2411.02676)|null|
 |**2024-11-04**|**LDPC stabilizer codes as gapped quantum phases: stability under graph-local perturbations**|Wojciech De Roeck, Vedika Khemani, Yaodong Li, Nicholas O'Dea, Tibor Rakovszky|[2411.02384](http://arxiv.org/abs/2411.02384)|null|
 |**2024-11-01**|**Low-density parity-check codes as stable phases of quantum matter**|Chao Yin, Andrew Lucas|[2411.01002](http://arxiv.org/abs/2411.01002)|null|
 |**2024-10-31**|**Diagnosing electronic phases of matter using photonic correlation functions**|Gautam Nambiar, Andrey Grankin, Mohammad Hafezi|[2410.24215](http://arxiv.org/abs/2410.24215)|null|
