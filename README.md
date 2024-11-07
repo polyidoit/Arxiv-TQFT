@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Evidence for valence-bond pairing in a low-dimensional two-orbital system**|M. Mierzejewski, E. Dagotto, J. Herbrych|[2411.03771](http://arxiv.org/abs/2411.03771)|null|
+|**2024-11-05**|**Mixed-State Topological Order under Coherent Noises**|Seunghun Lee, Eun-Gook Moon|[2411.03441](http://arxiv.org/abs/2411.03441)|null|
+|**2024-11-05**|**Young Researchers School 2024 Maynooth: Lectures on CFT, BCFT and DCFT**|Christian Northe|[2411.03381](http://arxiv.org/abs/2411.03381)|null|
 |**2024-11-05**|**Low-Overhead Entangling Gates from Generalised Dehn Twists**|Ryan Tiew, Nikolas P. Breuckmann|[2411.03302](http://arxiv.org/abs/2411.03302)|null|
 |**2024-11-04**|**One-step synthesis of graphene containing topological defects**|Benedikt P. Klein, Matthew A. Stoodley, Joel Deyerling, Luke A. Rochford, Dylan B. Morgan, David Hopkinson, Sam Sullivan-Allsop, Fulden Eratam, Lars Sattler, Sebastian M. Weber, Gerhard Hilt, Alexander Generalov, Alexei Preobrajenski, Thomas Liddy, Leon B. S. Williams, Tien-Lin Lee, Alex Saywell, Roman Gorbachev, Sarah J. Haigh, Christopher Allen, Willi Auwärter, Reinhard J. Maurer, David A. Duncan|[2411.02676](http://arxiv.org/abs/2411.02676)|null|
 |**2024-11-04**|**LDPC stabilizer codes as gapped quantum phases: stability under graph-local perturbations**|Wojciech De Roeck, Vedika Khemani, Yaodong Li, Nicholas O'Dea, Tibor Rakovszky|[2411.02384](http://arxiv.org/abs/2411.02384)|null|
