@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**Topological stabilizer models on continuous variables**|Julio C. Magdalena de la Fuente, Tyler D. Ellison, Meng Cheng, Dominic J. Williamson|[2411.04993](http://arxiv.org/abs/2411.04993)|null|
+|**2024-11-07**|**Decoding Quasi-Cyclic Quantum LDPC Codes**|Louis Golowich, Venkatesan Guruswami|[2411.04464](http://arxiv.org/abs/2411.04464)|null|
+|**2024-11-07**|**Benchmarking Single-Qubit Gates on a Noise-Biased Qubit Beyond the Fault-Tolerant Threshold**|Bingcheng Qing, Ahmed Hajr, Ke Wang, Gerwin Koolstra, Long B. Nguyen, Jordan Hines, Irwin Huang, Bibek Bhandari, Zahra Padramrazi, Larry Chen, Ziqi Kang, Christian Jünger, Noah Goss, Nikitha Jain, Hyunseong Kim, Kan-Heng Lee, Akel Hashim, Nicholas E. Frattini, Justin Dressel, Andrew N. Jordan, David I. Santiago, Irfan Siddiqi|[2411.04442](http://arxiv.org/abs/2411.04442)|null|
+|**2024-11-07**|**Gauge theory and mixed state criticality**|Takamasa Ando, Shinsei Ryu, Masataka Watanabe|[2411.04360](http://arxiv.org/abs/2411.04360)|null|
+|**2024-11-06**|**Tannakian QFT: from spark algebras to quantum groups**|Tudor Dimofte, Wenjun Niu|[2411.04194](http://arxiv.org/abs/2411.04194)|null|
+|**2024-11-06**|**Qutrit Toric Code and Parafermions in Trapped Ions**|Mohsin Iqbal, Anasuya Lyons, Chiu Fan Bowen Lo, Nathanan Tantivasadakarn, Joan Dreiling, Cameron Foltz, Thomas M. Gatterman, Dan Gresh, Nathan Hewitt, Craig A. Holliman, Jacob Johansen, Brian Neyenhuis, Yohei Matsuoka, Michael Mills, Steven A. Moses, Peter Siegfried, Ashvin Vishwanath, Ruben Verresen, Henrik Dreyer|[2411.04185](http://arxiv.org/abs/2411.04185)|null|
+|**2024-11-06**|**Non-invertible duality and symmetry topological order of one-dimensional lattice models with spatially modulated symmetry**|Donghae Seo, Gil Young Cho, Robert-Jan Slager|[2411.04182](http://arxiv.org/abs/2411.04182)|null|
+|**2024-11-06**|**Protocols for Creating Anyons and Defects via Gauging**|Anasuya Lyons, Chiu Fan Bowen Lo, Nathanan Tantivasadakarn, Ashvin Vishwanath, Ruben Verresen|[2411.04181](http://arxiv.org/abs/2411.04181)|null|
+|**2024-11-06**|**Fractionally Quantized Electric Polarization and Discrete Shift of Crystalline Fractional Chern Insulators**|Yuxuan Zhang, Maissam Barkeshli|[2411.04171](http://arxiv.org/abs/2411.04171)|null|
 |**2024-11-06**|**Evidence for valence-bond pairing in a low-dimensional two-orbital system**|M. Mierzejewski, E. Dagotto, J. Herbrych|[2411.03771](http://arxiv.org/abs/2411.03771)|null|
 |**2024-11-05**|**Mixed-State Topological Order under Coherent Noises**|Seunghun Lee, Eun-Gook Moon|[2411.03441](http://arxiv.org/abs/2411.03441)|null|
 |**2024-11-05**|**Young Researchers School 2024 Maynooth: Lectures on CFT, BCFT and DCFT**|Christian Northe|[2411.03381](http://arxiv.org/abs/2411.03381)|null|
