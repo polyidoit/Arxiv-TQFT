@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**(3+1)d boundary topological order of (4+1)d fermionic SPT state**|Meng Cheng, Juven Wang, Xinping Yang|[2411.05786](http://arxiv.org/abs/2411.05786)|null|
+|**2024-11-08**|**Electromagnetic symmetry dislocations**|Alex J. Vernon, Sebastian Golat, Francisco J. Rodríguez-Fortuño|[2411.05741](http://arxiv.org/abs/2411.05741)|null|
+|**2024-11-08**|**On-chip Moiré Optical Skyrmion Clusters with Nanoscale Dynamics**|Lan Zhang, Liang Hou, Lipeng Wan, Weimin Deng, Qiushun Zou, Tongbiao Wang, Daomu Zhao, Tianbao Yu|[2411.05576](http://arxiv.org/abs/2411.05576)|null|
+|**2024-11-08**|**Color codes with domino twists: Construction, logical measurements, and computation**|Manoj G. Gowda|[2411.05402](http://arxiv.org/abs/2411.05402)|null|
+|**2024-11-07**|**Intrinsic Topological Entanglement Entropy and the Strong Subadditivity**|Chih-Yu Lo, Po-Yao Chang|[2411.05077](http://arxiv.org/abs/2411.05077)|null|
 |**2024-11-07**|**Topological stabilizer models on continuous variables**|Julio C. Magdalena de la Fuente, Tyler D. Ellison, Meng Cheng, Dominic J. Williamson|[2411.04993](http://arxiv.org/abs/2411.04993)|null|
 |**2024-11-07**|**Decoding Quasi-Cyclic Quantum LDPC Codes**|Louis Golowich, Venkatesan Guruswami|[2411.04464](http://arxiv.org/abs/2411.04464)|null|
 |**2024-11-07**|**Benchmarking Single-Qubit Gates on a Noise-Biased Qubit Beyond the Fault-Tolerant Threshold**|Bingcheng Qing, Ahmed Hajr, Ke Wang, Gerwin Koolstra, Long B. Nguyen, Jordan Hines, Irwin Huang, Bibek Bhandari, Zahra Padramrazi, Larry Chen, Ziqi Kang, Christian Jünger, Noah Goss, Nikitha Jain, Hyunseong Kim, Kan-Heng Lee, Akel Hashim, Nicholas E. Frattini, Justin Dressel, Andrew N. Jordan, David I. Santiago, Irfan Siddiqi|[2411.04442](http://arxiv.org/abs/2411.04442)|null|
