@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Fractionalized superconductivity from Majorana glue in the Kitaev-Kondo lattice**|Matthew Bunney, Urban F. P. Seifert, Stephan Rachel, Matthias Vojta|[2411.07201](http://arxiv.org/abs/2411.07201)|null|
+|**2024-11-11**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu, Penghao Zhu, Yuan-Ming Lu|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
+|**2024-11-11**|**Cell bulging and extrusion in a three-dimensional bubbly vertex model for curved epithelial sheets**|Oliver M. Drozdowski, Ulrich S. Schwarz|[2411.07141](http://arxiv.org/abs/2411.07141)|null|
+|**2024-11-11**|**Analytically Exact Quantum Simulation of N-Body Interactions via Untunable Decentralized Hamiltonians for Implementing the Toric Code and Its Modifications**|Haochen Zhao, Florian Mintert|[2411.07117](http://arxiv.org/abs/2411.07117)|null|
+|**2024-11-11**|**Re-entrant topological order in strongly correlated nanowire due to Rashba spin-orbit coupling**|Kaushal Kumar Kesharpu, Evgenii A. Kochetov, Alvaro Ferraz|[2411.06820](http://arxiv.org/abs/2411.06820)|null|
+|**2024-11-11**|**Edge supercurrent in Josephson junctions based on topological materials**|Junjie Qi, Chui-Zhen Chen, Juntao Song, Jie Liu, Ke He, Qing-Feng Sun, X. C. Xie|[2411.06758](http://arxiv.org/abs/2411.06758)|null|
+|**2024-11-10**|**Tetratic Phase in 2D Crystals of Squares**|Robert Löffler, Lukas Siedentop, Peter Keim|[2411.06464](http://arxiv.org/abs/2411.06464)|null|
+|**2024-11-09**|**Three Dimensional Topological Field Theories and Nahm Sum Formulas**|Dongmin Gang, Heeyeon Kim, Byoungyoon Park, Spencer Stubbs|[2411.06081](http://arxiv.org/abs/2411.06081)|null|
 |**2024-11-08**|**(3+1)d boundary topological order of (4+1)d fermionic SPT state**|Meng Cheng, Juven Wang, Xinping Yang|[2411.05786](http://arxiv.org/abs/2411.05786)|null|
 |**2024-11-08**|**Electromagnetic symmetry dislocations**|Alex J. Vernon, Sebastian Golat, Francisco J. Rodríguez-Fortuño|[2411.05741](http://arxiv.org/abs/2411.05741)|null|
 |**2024-11-08**|**On-chip Moiré Optical Skyrmion Clusters with Nanoscale Dynamics**|Lan Zhang, Liang Hou, Lipeng Wan, Weimin Deng, Qiushun Zou, Tongbiao Wang, Daomu Zhao, Tianbao Yu|[2411.05576](http://arxiv.org/abs/2411.05576)|null|
