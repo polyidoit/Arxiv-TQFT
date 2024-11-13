@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Composite fermions and parton wavefunctions in twisted graphene on hexagonal boron nitride**|J. Salvador-Sánchez, A. Pérez-Rodriguez, V. Clericò, O. Zheliuk, U. Zeitler, K. Watanabe, T. Taniguchi, E. Diez, M. Amado, V. Bellani|[2411.07958](http://arxiv.org/abs/2411.07958)|null|
 |**2024-11-11**|**Fractionalized superconductivity from Majorana glue in the Kitaev-Kondo lattice**|Matthew Bunney, Urban F. P. Seifert, Stephan Rachel, Matthias Vojta|[2411.07201](http://arxiv.org/abs/2411.07201)|null|
 |**2024-11-11**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu, Penghao Zhu, Yuan-Ming Lu|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
 |**2024-11-11**|**Cell bulging and extrusion in a three-dimensional bubbly vertex model for curved epithelial sheets**|Oliver M. Drozdowski, Ulrich S. Schwarz|[2411.07141](http://arxiv.org/abs/2411.07141)|null|
