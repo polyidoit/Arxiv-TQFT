@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Fractional Chern mosaic in supermoiré graphene**|Yves H. Kwan, Tixuan Tan, Trithep Devakul|[2411.08880](http://arxiv.org/abs/2411.08880)|null|
+|**2024-11-13**|**Effects of Nontrivial Topology on Neutron Star Rotation and its Potential Observational Implications**|Debojoti Kuzur|[2411.08820](http://arxiv.org/abs/2411.08820)|null|
+|**2024-11-13**|**Twisted Kitaev quantum double model as local topological order**|Shawn X. Cui, César Galindo, Diego Romero|[2411.08675](http://arxiv.org/abs/2411.08675)|null|
+|**2024-11-12**|**Cavity-Vacuum-Induced Chiral Spin Liquids in Kagome Lattices: Tuning and Probing Topological Quantum Phases via Cavity Quantum Electrodynamics**|Chenan Wei, Liu Yang, Qing-Dong Jiang|[2411.08121](http://arxiv.org/abs/2411.08121)|null|
+|**2024-11-12**|**Spin-liquid-based topological qubits**|Kai Klocke, Yue Liu, Gábor B. Halász, Jason Alicea|[2411.08093](http://arxiv.org/abs/2411.08093)|null|
 |**2024-11-12**|**Composite fermions and parton wavefunctions in twisted graphene on hexagonal boron nitride**|J. Salvador-Sánchez, A. Pérez-Rodriguez, V. Clericò, O. Zheliuk, U. Zeitler, K. Watanabe, T. Taniguchi, E. Diez, M. Amado, V. Bellani|[2411.07958](http://arxiv.org/abs/2411.07958)|null|
 |**2024-11-11**|**Fractionalized superconductivity from Majorana glue in the Kitaev-Kondo lattice**|Matthew Bunney, Urban F. P. Seifert, Stephan Rachel, Matthias Vojta|[2411.07201](http://arxiv.org/abs/2411.07201)|null|
 |**2024-11-11**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu, Penghao Zhu, Yuan-Ming Lu|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
