@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**A Universal Circuit Set Using the $S_3$ Quantum Double**|Liyuan Chen, Yuanjie Ren, Ruihua Fan, Arthur Jaffe|[2411.09697](http://arxiv.org/abs/2411.09697)|null|
+|**2024-11-14**|**The Higher Structure of Symmetries of Axion-Maxwell Theory**|Michele Del Zotto, Matteo Dell'Acqua, Elias Riedel Gårding|[2411.09685](http://arxiv.org/abs/2411.09685)|null|
+|**2024-11-14**|**Non-Invertible Symmetries in 6d from Green-Schwarz Automorphisms**|Fabio Apruzzi, Sakura Schafer-Nameki, Alison Warman|[2411.09674](http://arxiv.org/abs/2411.09674)|null|
 |**2024-11-13**|**Fractional Chern mosaic in supermoiré graphene**|Yves H. Kwan, Tixuan Tan, Trithep Devakul|[2411.08880](http://arxiv.org/abs/2411.08880)|null|
 |**2024-11-13**|**Effects of Nontrivial Topology on Neutron Star Rotation and its Potential Observational Implications**|Debojoti Kuzur|[2411.08820](http://arxiv.org/abs/2411.08820)|null|
 |**2024-11-13**|**Twisted Kitaev quantum double model as local topological order**|Shawn X. Cui, César Galindo, Diego Romero|[2411.08675](http://arxiv.org/abs/2411.08675)|null|
