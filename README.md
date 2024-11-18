@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Topological geometric frustration in a cube-surface artificial spin ice**|Zixiong Yuan, Wen-Cheng Yue, Peiyuan Huang, Yang-Yang Lyu, Sining Dong, Ying Dong, Huabing Wang, Peiheng Wu, Yong-Lei Wang|[2411.10264](http://arxiv.org/abs/2411.10264)|null|
+|**2024-11-15**|**Novel Topological Classes in Black Hole Thermodynamics**|Di Wu, Wentao Liu, Shuang-Qing Wu, Robert B. Mann|[2411.10102](http://arxiv.org/abs/2411.10102)|null|
+|**2024-11-15**|**The Magnetic Dislocation in Photonics**|Danying Yu, Kun Ding, Xianfeng Chen, Luqi Yuan|[2411.10039](http://arxiv.org/abs/2411.10039)|null|
 |**2024-11-14**|**A Universal Circuit Set Using the $S_3$ Quantum Double**|Liyuan Chen, Yuanjie Ren, Ruihua Fan, Arthur Jaffe|[2411.09697](http://arxiv.org/abs/2411.09697)|null|
 |**2024-11-14**|**The Higher Structure of Symmetries of Axion-Maxwell Theory**|Michele Del Zotto, Matteo Dell'Acqua, Elias Riedel Gårding|[2411.09685](http://arxiv.org/abs/2411.09685)|null|
 |**2024-11-14**|**Non-Invertible Symmetries in 6d from Green-Schwarz Automorphisms**|Fabio Apruzzi, Sakura Schafer-Nameki, Alison Warman|[2411.09674](http://arxiv.org/abs/2411.09674)|null|
