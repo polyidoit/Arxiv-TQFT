@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-11-18**|**Coherent States in Gauge Theories: Topological Defects and Other Classical Configurations**|Lasha Berezhiani, Gia Dvali, Otari Sakhelashvili|[2411.11657](http://arxiv.org/abs/2411.11657)|null|
 |**2024-11-15**|**Topological geometric frustration in a cube-surface artificial spin ice**|Zixiong Yuan, Wen-Cheng Yue, Peiyuan Huang, Yang-Yang Lyu, Sining Dong, Ying Dong, Huabing Wang, Peiheng Wu, Yong-Lei Wang|[2411.10264](http://arxiv.org/abs/2411.10264)|null|
 |**2024-11-15**|**Novel Topological Classes in Black Hole Thermodynamics**|Di Wu, Wentao Liu, Shuang-Qing Wu, Robert B. Mann|[2411.10102](http://arxiv.org/abs/2411.10102)|null|
 |**2024-11-15**|**The Magnetic Dislocation in Photonics**|Danying Yu, Kun Ding, Xianfeng Chen, Luqi Yuan|[2411.10039](http://arxiv.org/abs/2411.10039)|null|
