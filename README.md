@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Double Splay Nematic Order in Confined Polar Fluids**|Zhongjie Ma, Miao Jiang, Aile Sun, Shengzhu Yi, Jidan Yang, Mingjun Huang, Satoshi Aya, Qi-Huo Wei|[2411.12336](http://arxiv.org/abs/2411.12336)|null|
+|**2024-11-18**|**Domain walls from SPT-sewing**|Yabo Li, Zijian Song, Aleksander Kubica, Isaac H. Kim|[2411.11967](http://arxiv.org/abs/2411.11967)|null|
 |**2024-11-18**|**Coherent States in Gauge Theories: Topological Defects and Other Classical Configurations**|Lasha Berezhiani, Gia Dvali, Otari Sakhelashvili|[2411.11657](http://arxiv.org/abs/2411.11657)|null|
 |**2024-11-15**|**Topological geometric frustration in a cube-surface artificial spin ice**|Zixiong Yuan, Wen-Cheng Yue, Peiyuan Huang, Yang-Yang Lyu, Sining Dong, Ying Dong, Huabing Wang, Peiheng Wu, Yong-Lei Wang|[2411.10264](http://arxiv.org/abs/2411.10264)|null|
 |**2024-11-15**|**Novel Topological Classes in Black Hole Thermodynamics**|Di Wu, Wentao Liu, Shuang-Qing Wu, Robert B. Mann|[2411.10102](http://arxiv.org/abs/2411.10102)|null|
