@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-11-20**|**Degenerate quantum erasure decoding**|Kao-Yueh Kuo, Yingkai Ouyang|[2411.13509](http://arxiv.org/abs/2411.13509)|null|
+|**2024-11-20**|**Symmetry breaking in two dimensions on ultra-fast time scales**|Robert Löffler, Lukas Siedentop, Peter Keim|[2411.13433](http://arxiv.org/abs/2411.13433)|null|
+|**2024-11-19**|**Discussing a transition from bounded to unbounded energy in a time-dependent billiard**|Anne Kétri P. da Fonseca, Felipe Augusto O. Silveira, Célia M. Kuwana, Diego F. M. Oliveira, Edson D. Leonel|[2411.12928](http://arxiv.org/abs/2411.12928)|null|
 |**2024-11-19**|**Double Splay Nematic Order in Confined Polar Fluids**|Zhongjie Ma, Miao Jiang, Aile Sun, Shengzhu Yi, Jidan Yang, Mingjun Huang, Satoshi Aya, Qi-Huo Wei|[2411.12336](http://arxiv.org/abs/2411.12336)|null|
 |**2024-11-18**|**Domain walls from SPT-sewing**|Yabo Li, Zijian Song, Aleksander Kubica, Isaac H. Kim|[2411.11967](http://arxiv.org/abs/2411.11967)|null|
 |**2024-11-18**|**Coherent States in Gauge Theories: Topological Defects and Other Classical Configurations**|Lasha Berezhiani, Gia Dvali, Otari Sakhelashvili|[2411.11657](http://arxiv.org/abs/2411.11657)|null|
