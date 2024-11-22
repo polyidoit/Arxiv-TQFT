@@ -2,8 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-11-21**|**Bootstrapping the Chiral-Gravitational Anomaly**|Zi-Yu Dong, Teng Ma, Alex Pomarol, Francesco Sciotti|[2411.14422](http://arxiv.org/abs/2411.14422)|null|
+|**2024-11-21**|**Construction of Lie algebra weight system kernel via Vogel algebra**|Dmitry Khudoteplov, Elena Lanina, Alexey Sleptsov|[2411.14417](http://arxiv.org/abs/2411.14417)|null|
+|**2024-11-21**|**On the geometry of Kähler--Frobenius manifolds and their classification**|Noemie. C. Combe|[2411.14362](http://arxiv.org/abs/2411.14362)|null|
+|**2024-11-21**|**On braid statistics versus parastatistics**|Francesco Toppan|[2411.14261](http://arxiv.org/abs/2411.14261)|null|
+|**2024-11-21**|**Dirac and chiral spin liquids on spin-1/2 square-lattice Heisenberg antiferromagnet**|Hui-Ke Jin, Hong-Hao Tu, Ya-Hui Zhang|[2411.14114](http://arxiv.org/abs/2411.14114)|null|
+|**2024-11-21**|**On the geometry of topological defects in glasses**|Zhen Wei Wu, Jean-Louis Barrat, Walter Kob|[2411.13853](http://arxiv.org/abs/2411.13853)|null|
 |**2024-11-20**|**Degenerate quantum erasure decoding**|Kao-Yueh Kuo, Yingkai Ouyang|[2411.13509](http://arxiv.org/abs/2411.13509)|null|
-|**2024-11-20**|**Symmetry breaking in two dimensions on ultra-fast time scales**|Robert Löffler, Lukas Siedentop, Peter Keim|[2411.13433](http://arxiv.org/abs/2411.13433)|null|
+|**2024-11-21**|**Symmetry breaking in two dimensions on ultra-fast time scales**|Alireza Valizadeh, Patrick Dillmann, Peter Keim|[2411.13433](http://arxiv.org/abs/2411.13433)|null|
 |**2024-11-19**|**Discussing a transition from bounded to unbounded energy in a time-dependent billiard**|Anne Kétri P. da Fonseca, Felipe Augusto O. Silveira, Célia M. Kuwana, Diego F. M. Oliveira, Edson D. Leonel|[2411.12928](http://arxiv.org/abs/2411.12928)|null|
 |**2024-11-19**|**Double Splay Nematic Order in Confined Polar Fluids**|Zhongjie Ma, Miao Jiang, Aile Sun, Shengzhu Yi, Jidan Yang, Mingjun Huang, Satoshi Aya, Qi-Huo Wei|[2411.12336](http://arxiv.org/abs/2411.12336)|null|
 |**2024-11-18**|**Domain walls from SPT-sewing**|Yabo Li, Zijian Song, Aleksander Kubica, Isaac H. Kim|[2411.11967](http://arxiv.org/abs/2411.11967)|null|
