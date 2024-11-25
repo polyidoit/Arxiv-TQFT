@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-11-22**|**Gauging in Parameter Space: A Top-Down Perspective**|Xingyang Yu|[2411.14997](http://arxiv.org/abs/2411.14997)|null|
 |**2024-11-21**|**Bootstrapping the Chiral-Gravitational Anomaly**|Zi-Yu Dong, Teng Ma, Alex Pomarol, Francesco Sciotti|[2411.14422](http://arxiv.org/abs/2411.14422)|null|
 |**2024-11-21**|**Construction of Lie algebra weight system kernel via Vogel algebra**|Dmitry Khudoteplov, Elena Lanina, Alexey Sleptsov|[2411.14417](http://arxiv.org/abs/2411.14417)|null|
 |**2024-11-21**|**On the geometry of Kähler--Frobenius manifolds and their classification**|Noemie. C. Combe|[2411.14362](http://arxiv.org/abs/2411.14362)|null|
