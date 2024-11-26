@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-11-25**|**Observation of quantized vortex in an atomic Bose-Einstein condensate at Dirac point**|Yunda Li, Wei Han, Zengming Meng, Wenxin Yang, Cheng Chin, Jing Zhang|[2411.16287](http://arxiv.org/abs/2411.16287)|null|
+|**2024-11-22**|**Thermal Hall response of an abelian chiral spin liquid at finite temperatures**|Avijit Maity, Haoyu Guo, Subir Sachdev, Vikram Tripathi|[2411.15304](http://arxiv.org/abs/2411.15304)|null|
+|**2024-11-22**|**Regularizing 3D conformal field theories via anyons on the fuzzy sphere**|Cristian Voinea, Ruihua Fan, Nicolas Regnault, Zlatko Papić|[2411.15299](http://arxiv.org/abs/2411.15299)|null|
 |**2024-11-22**|**Gauging in Parameter Space: A Top-Down Perspective**|Xingyang Yu|[2411.14997](http://arxiv.org/abs/2411.14997)|null|
 |**2024-11-21**|**Bootstrapping the Chiral-Gravitational Anomaly**|Zi-Yu Dong, Teng Ma, Alex Pomarol, Francesco Sciotti|[2411.14422](http://arxiv.org/abs/2411.14422)|null|
 |**2024-11-21**|**Construction of Lie algebra weight system kernel via Vogel algebra**|Dmitry Khudoteplov, Elena Lanina, Alexey Sleptsov|[2411.14417](http://arxiv.org/abs/2411.14417)|null|
