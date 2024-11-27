@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-11-26**|**Targeted Clifford logical gates for hypergraph product codes**|Adway Patra, Alexander Barg|[2411.17050](http://arxiv.org/abs/2411.17050)|null|
+|**2024-11-25**|**Anyons on M5-Probes of Seifert 3-Orbifolds via Flux Quantization**|Hisham Sati, Urs Schreiber|[2411.16852](http://arxiv.org/abs/2411.16852)|null|
 |**2024-11-25**|**Observation of quantized vortex in an atomic Bose-Einstein condensate at Dirac point**|Yunda Li, Wei Han, Zengming Meng, Wenxin Yang, Cheng Chin, Jing Zhang|[2411.16287](http://arxiv.org/abs/2411.16287)|null|
 |**2024-11-22**|**Thermal Hall response of an abelian chiral spin liquid at finite temperatures**|Avijit Maity, Haoyu Guo, Subir Sachdev, Vikram Tripathi|[2411.15304](http://arxiv.org/abs/2411.15304)|null|
 |**2024-11-22**|**Regularizing 3D conformal field theories via anyons on the fuzzy sphere**|Cristian Voinea, Ruihua Fan, Nicolas Regnault, Zlatko Papić|[2411.15299](http://arxiv.org/abs/2411.15299)|null|
