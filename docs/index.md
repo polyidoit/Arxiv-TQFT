@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-11-27**|**Fault-Tolerant Constant-Depth Clifford Gates on Toric Codes**|Alexandre Guernut, Christophe Vuillot|[2411.18287](http://arxiv.org/abs/2411.18287)|null|
+|**2024-11-27**|**Topological defects lead to energy transfer in active nematics**|Daniel J. G. Pearce, Berta Martínez-Prat, Jordi Ignés-Mullol, Francesc Sagués|[2411.18214](http://arxiv.org/abs/2411.18214)|null|
+|**2024-11-27**|**Realization of a one-dimensional topological insulator in ultrathin germanene nanoribbons**|Dennis J. Klaassen, Lumen A. G. Eek, Alexander N. Rudenko, Esra D. van`t Westende, Carolien Castenmiller, Zhiguo Zhang, Paul de Boeij, Arie van Houselt, Motohiko Ezawa, Harold J. W. Zandvliet, Cristiane Morais Smith, Pantelis Bampoulis|[2411.18156](http://arxiv.org/abs/2411.18156)|null|
+|**2024-11-27**|**Probing topological degeneracy on a torus using superconducting altermagnets**|Tsz Fung Heung, Marcel Franz|[2411.17964](http://arxiv.org/abs/2411.17964)|null|
+|**2024-11-26**|**The Inverse Laplacian: Traces in Infinite Dimensions**|Bryce Morrow|[2411.17890](http://arxiv.org/abs/2411.17890)|null|
 |**2024-11-26**|**Targeted Clifford logical gates for hypergraph product codes**|Adway Patra, Alexander Barg|[2411.17050](http://arxiv.org/abs/2411.17050)|null|
 |**2024-11-25**|**Anyons on M5-Probes of Seifert 3-Orbifolds via Flux Quantization**|Hisham Sati, Urs Schreiber|[2411.16852](http://arxiv.org/abs/2411.16852)|null|
 |**2024-11-25**|**Observation of quantized vortex in an atomic Bose-Einstein condensate at Dirac point**|Yunda Li, Wei Han, Zengming Meng, Wenxin Yang, Cheng Chin, Jing Zhang|[2411.16287](http://arxiv.org/abs/2411.16287)|null|
