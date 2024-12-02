@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**(-1)-form symmetries from M-theory and SymTFTs**|Marwan Najjar, Leonardo Santilli, Yi-Nan Wang|[2411.19683](http://arxiv.org/abs/2411.19683)|null|
+|**2024-11-28**|**Genus 2 Superstring Chiral Measure From The 3-Dimensional Gelca-Hamilton TQFT**|Saki Koizumi|[2411.19342](http://arxiv.org/abs/2411.19342)|null|
+|**2024-11-28**|**Cosmic Topological Defects from Holography**|Francesco Bigazzi, Aldo L. Cotrone, Andrea Olzi|[2411.19302](http://arxiv.org/abs/2411.19302)|null|
+|**2024-11-28**|**Quantum Cellular Automata on Symmetric Subalgebras**|Ruochen Ma, Yabo Li, Meng Cheng|[2411.19280](http://arxiv.org/abs/2411.19280)|null|
+|**2024-11-28**|**Fracton and topological order in the XY checkerboard toric code**|M. Vieweg, K. P. Schmidt|[2411.19051](http://arxiv.org/abs/2411.19051)|null|
+|**2024-11-27**|**Generating non-Clifford gate operations through exact mapping between Majorana fermions and $\mathbb{Z}_4$ parafermions**|A. H. Safwan, R. W. Bomantara|[2411.18736](http://arxiv.org/abs/2411.18736)|null|
 |**2024-11-27**|**Fault-Tolerant Constant-Depth Clifford Gates on Toric Codes**|Alexandre Guernut, Christophe Vuillot|[2411.18287](http://arxiv.org/abs/2411.18287)|null|
 |**2024-11-27**|**Topological defects lead to energy transfer in active nematics**|Daniel J. G. Pearce, Berta Martínez-Prat, Jordi Ignés-Mullol, Francesc Sagués|[2411.18214](http://arxiv.org/abs/2411.18214)|null|
 |**2024-11-27**|**Realization of a one-dimensional topological insulator in ultrathin germanene nanoribbons**|Dennis J. Klaassen, Lumen A. G. Eek, Alexander N. Rudenko, Esra D. van`t Westende, Carolien Castenmiller, Zhiguo Zhang, Paul de Boeij, Arie van Houselt, Motohiko Ezawa, Harold J. W. Zandvliet, Cristiane Morais Smith, Pantelis Bampoulis|[2411.18156](http://arxiv.org/abs/2411.18156)|null|
