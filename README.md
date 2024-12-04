@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Quantum phase diagram and non-abelian Moore-Read state in double twisted bilayer graphene**|Sen Niu, Yang Peng, D. N. Sheng|[2412.02128](http://arxiv.org/abs/2412.02128)|null|
+|**2024-12-02**|**Ab initio study of Proximity-Induced Superconductivity in PbTe/Pb heterostructures**|R. Reho, A. R. Botello-Méndez, Zeila Zanolli|[2412.01749](http://arxiv.org/abs/2412.01749)|null|
+|**2024-12-02**|**Phase transitions and remnants of fractionalization at finite temperature in the triangular lattice quantum loop model**|Xiaoxue Ran, Sylvain Capponi, Junchen Rong, Fabien Alet, Zi Yang Meng|[2412.01503](http://arxiv.org/abs/2412.01503)|null|
+|**2024-11-30**|**Solving and visualizing fractional quantum Hall wavefunctions with neural network**|Yi Teng, David D. Dai, Liang Fu|[2412.00618](http://arxiv.org/abs/2412.00618)|null|
+|**2024-11-29**|**Renyi entropy of single-character CFTs on the torus**|Luis Alberto Leon Andonayre, Rahul Poddar|[2412.00192](http://arxiv.org/abs/2412.00192)|null|
+|**2024-11-29**|**String theory and the SymTFT of 3d orthosymplectic Chern-Simons theory**|Oren Bergman, Francesco Mignosa|[2412.00184](http://arxiv.org/abs/2412.00184)|null|
 |**2024-11-29**|**(-1)-form symmetries from M-theory and SymTFTs**|Marwan Najjar, Leonardo Santilli, Yi-Nan Wang|[2411.19683](http://arxiv.org/abs/2411.19683)|null|
 |**2024-11-28**|**Genus 2 Superstring Chiral Measure From The 3-Dimensional Gelca-Hamilton TQFT**|Saki Koizumi|[2411.19342](http://arxiv.org/abs/2411.19342)|null|
 |**2024-11-28**|**Cosmic Topological Defects from Holography**|Francesco Bigazzi, Aldo L. Cotrone, Andrea Olzi|[2411.19302](http://arxiv.org/abs/2411.19302)|null|
