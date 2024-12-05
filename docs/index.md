@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-12-04**|**Kibble-Zurek Dynamics & Statistics of Topological Defects in Chiral Superfluid $^3$ He Films**|Noble Gluscevich, J. A. Sauls|[2412.03544](http://arxiv.org/abs/2412.03544)|null|
+|**2024-12-04**|**Liquid Crystal Ground States on Cones with Anti-Twist Boundary Conditions**|Cheng Long, David R. Nelson|[2412.03377](http://arxiv.org/abs/2412.03377)|null|
+|**2024-12-03**|**Intertwined order of generalized global symmetries**|Benjamin Moy, Eduardo Fradkin|[2412.02748](http://arxiv.org/abs/2412.02748)|null|
 |**2024-12-03**|**Quantum phase diagram and non-abelian Moore-Read state in double twisted bilayer graphene**|Sen Niu, Yang Peng, D. N. Sheng|[2412.02128](http://arxiv.org/abs/2412.02128)|null|
 |**2024-12-02**|**Ab initio study of Proximity-Induced Superconductivity in PbTe/Pb heterostructures**|R. Reho, A. R. Botello-Méndez, Zeila Zanolli|[2412.01749](http://arxiv.org/abs/2412.01749)|null|
 |**2024-12-02**|**Phase transitions and remnants of fractionalization at finite temperature in the triangular lattice quantum loop model**|Xiaoxue Ran, Sylvain Capponi, Junchen Rong, Fabien Alet, Zi Yang Meng|[2412.01503](http://arxiv.org/abs/2412.01503)|null|
