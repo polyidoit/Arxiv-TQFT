@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-12-05**|**Learning on hexagonal structures and Monge-Ampère operators**|Noémie C. Combe|[2412.04407](http://arxiv.org/abs/2412.04407)|null|
+|**2024-12-05**|**Clifford-Deformed Compass Codes**|Julie A. Campos, Kenneth R. Brown|[2412.03808](http://arxiv.org/abs/2412.03808)|null|
 |**2024-12-04**|**Kibble-Zurek Dynamics & Statistics of Topological Defects in Chiral Superfluid $^3$ He Films**|Noble Gluscevich, J. A. Sauls|[2412.03544](http://arxiv.org/abs/2412.03544)|null|
 |**2024-12-04**|**Liquid Crystal Ground States on Cones with Anti-Twist Boundary Conditions**|Cheng Long, David R. Nelson|[2412.03377](http://arxiv.org/abs/2412.03377)|null|
 |**2024-12-03**|**Intertwined order of generalized global symmetries**|Benjamin Moy, Eduardo Fradkin|[2412.02748](http://arxiv.org/abs/2412.02748)|null|
