@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**Real-space chirality from crystalline topological defects in the Kitaev spin liquid**|Fay Borhani, Arnab Seth, Itamar Kimchi|[2412.05272](http://arxiv.org/abs/2412.05272)|null|
+|**2024-12-06**|**Thermal Stability and Topological Charge Fragmentation in Antiskyrmions of Rhombohedral Barium Titanate**|Florian Mayer, Jiří Hlinka|[2412.04869](http://arxiv.org/abs/2412.04869)|null|
 |**2024-12-05**|**Learning on hexagonal structures and Monge-Ampère operators**|Noémie C. Combe|[2412.04407](http://arxiv.org/abs/2412.04407)|null|
 |**2024-12-05**|**Clifford-Deformed Compass Codes**|Julie A. Campos, Kenneth R. Brown|[2412.03808](http://arxiv.org/abs/2412.03808)|null|
 |**2024-12-04**|**Kibble-Zurek Dynamics & Statistics of Topological Defects in Chiral Superfluid $^3$ He Films**|Noble Gluscevich, J. A. Sauls|[2412.03544](http://arxiv.org/abs/2412.03544)|null|
