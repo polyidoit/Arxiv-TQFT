@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Scalar-induced gravitational wave from domain wall perturbation**|Bo-Qiang Lu|[2412.07677](http://arxiv.org/abs/2412.07677)|null|
+|**2024-12-10**|**Vacuum polarization around cosmic strings in de Sitter spacetime**|A. A. Saharian|[2412.07329](http://arxiv.org/abs/2412.07329)|null|
+|**2024-12-10**|**Tube Category, Tensor Renormalization and Topological Holography**|Tian Lan|[2412.07198](http://arxiv.org/abs/2412.07198)|null|
+|**2024-12-09**|**Do we owe our existence to a Gravitational Anomaly?**|Nick E. Mavromatos|[2412.06969](http://arxiv.org/abs/2412.06969)|null|
 |**2024-12-09**|**Vision transformer based Deep Learning of Topological indicators in Majorana Nanowires**|Jacob R. Taylor, Sankar Das Sarma|[2412.06768](http://arxiv.org/abs/2412.06768)|null|
 |**2024-12-09**|**The Ising dual-reflection interface: $\mathbb{Z}_4$ symmetry, Majorana strong zero modes and SPT phases**|Juliane Graf, Federica Maria Surace, Marcus Berg, Sergej Moroz|[2412.06377](http://arxiv.org/abs/2412.06377)|null|
 |**2024-12-09**|**Moving Protocol of Majorana Corner Modes in a Superconducting 2D Weyl Semimetal Heterostructure**|Ching-Kai Chiu, Yueh-Ting Yao, Tay-Rong Chang, Guang Bian|[2412.06150](http://arxiv.org/abs/2412.06150)|null|
