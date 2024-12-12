@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-12-11**|**Simplex tensor network renormalization group for boundary theory of 3+1D symTFT**|Kaixin Ji, Lin Chen, Li-Ping Yang, Ling-Yan Hung|[2412.08374](http://arxiv.org/abs/2412.08374)|null|
+|**2024-12-11**|**Topological columnar nano-SQUID based on a 3D topological insulator**|Ella Nikodem, Jakob Schluck, Henry F. Legg, Max Geier, Michal Papaj, Mahasweta Bagchi, Liang Fu, Yoichi Ando|[2412.07993](http://arxiv.org/abs/2412.07993)|null|
 |**2024-12-10**|**Scalar-induced gravitational wave from domain wall perturbation**|Bo-Qiang Lu|[2412.07677](http://arxiv.org/abs/2412.07677)|null|
 |**2024-12-10**|**Vacuum polarization around cosmic strings in de Sitter spacetime**|A. A. Saharian|[2412.07329](http://arxiv.org/abs/2412.07329)|null|
 |**2024-12-10**|**Tube Category, Tensor Renormalization and Topological Holography**|Tian Lan|[2412.07198](http://arxiv.org/abs/2412.07198)|null|
