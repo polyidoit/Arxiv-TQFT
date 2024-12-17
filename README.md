@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**On topological defects in Chern-Simons theory**|Alex S. Arvanitakis, Lewis T. Cole, Saskia Demulder, Daniel C. Thompson|[2412.11718](http://arxiv.org/abs/2412.11718)|null|
 |**2024-12-11**|**Topologically-Protected Remnant Vortices in Confined Superfluid $^3$ He**|Alexander J. Shook, Daksh Malhotra, Aymar Muhikira, Vaisakh Vadakkumbatt, John P. Davis|[2412.08765](http://arxiv.org/abs/2412.08765)|null|
 |**2024-12-11**|**Simplex tensor network renormalization group for boundary theory of 3+1D symTFT**|Kaixin Ji, Lin Chen, Li-Ping Yang, Ling-Yan Hung|[2412.08374](http://arxiv.org/abs/2412.08374)|null|
 |**2024-12-11**|**Topological columnar nano-SQUID based on a 3D topological insulator**|Ella Nikodem, Jakob Schluck, Henry F. Legg, Max Geier, Michal Papaj, Mahasweta Bagchi, Liang Fu, Yoichi Ando|[2412.07993](http://arxiv.org/abs/2412.07993)|null|
