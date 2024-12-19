@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-12-17**|**Analogy of space-time as an elastic medium, estimation creep coefficient of space from MOND theory, gravitational lensing and via time data from the GPS effect, discussion of the results for dark matter and Einstein's field equation**|David Izabel|[2412.13277](http://arxiv.org/abs/2412.13277)|null|
+|**2024-12-17**|**Topological Quantum Spin Glass Order and its realization in qLDPC codes**|Benedikt Placke, Tibor Rakovszky, Nikolas P. Breuckmann, Vedika Khemani|[2412.13248](http://arxiv.org/abs/2412.13248)|null|
 |**2024-12-17**|**Alterfold Theory and Topological Modular Invariance**|Zhengwei Liu, Shuang Ming, Yilong Wang, Jinsong Wu|[2412.12702](http://arxiv.org/abs/2412.12702)|null|
 |**2024-12-16**|**Coherent information as a mixed-state topological order parameter of fermions**|Ze-Min Huang, Luis Colmenarez, Markus Müller, Sebastian Diehl|[2412.12279](http://arxiv.org/abs/2412.12279)|null|
 |**2024-12-13**|**Emergent electrostatics in planar XY spin models: the bridge connecting topological order/nonergodicity with broken $U(1)$ symmetry**|Michael F. Faulkner|[2412.12186](http://arxiv.org/abs/2412.12186)|null|
