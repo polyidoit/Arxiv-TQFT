@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-12-19**|**Fractionalization of flux tubes in 3d and screening by emergent electric charges in 2d**|Mendel Nguyen, Mithat Ünsal|[2412.14532](http://arxiv.org/abs/2412.14532)|null|
+|**2024-12-18**|**Planon-modular fracton orders**|Evan Wickenden, Marvin Qi, Arpit Dua, Michael Hermele|[2412.14320](http://arxiv.org/abs/2412.14320)|null|
+|**2024-12-18**|**Braiding for the win: Harnessing braiding statistics in topological states to win quantum games**|Oliver Hart, David T. Stephen, Dominic J. Williamson, Rahul Nandkishore|[2412.14288](http://arxiv.org/abs/2412.14288)|null|
 |**2024-12-17**|**Analogy of space-time as an elastic medium, estimation creep coefficient of space from MOND theory, gravitational lensing and via time data from the GPS effect, discussion of the results for dark matter and Einstein's field equation**|David Izabel|[2412.13277](http://arxiv.org/abs/2412.13277)|null|
 |**2024-12-17**|**Topological Quantum Spin Glass Order and its realization in qLDPC codes**|Benedikt Placke, Tibor Rakovszky, Nikolas P. Breuckmann, Vedika Khemani|[2412.13248](http://arxiv.org/abs/2412.13248)|null|
 |**2024-12-17**|**Alterfold Theory and Topological Modular Invariance**|Zhengwei Liu, Shuang Ming, Yilong Wang, Jinsong Wu|[2412.12702](http://arxiv.org/abs/2412.12702)|null|
