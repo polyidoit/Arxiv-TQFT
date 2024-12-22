@@ -1,4 +1,4 @@
-> Automatically updated on 2024.12.21
+> Automatically updated on 2024.12.22
 
 ## TQFT, Topological order, Generalized symmetry
 
@@ -9,7 +9,7 @@
 |**2024-12-17**|**Topological Quantum Spin Glass Order and its realization in qLDPC codes**|Benedikt Placke, Tibor Rakovszky, Nikolas P. Breuckmann, Vedika Khemani|[2412.13248](http://arxiv.org/abs/2412.13248)|null|
 |**2024-12-17**|**Alterfold Theory and Topological Modular Invariance**|Zhengwei Liu, Shuang Ming, Yilong Wang, Jinsong Wu|[2412.12702](http://arxiv.org/abs/2412.12702)|null|
 |**2024-12-16**|**Coherent information as a mixed-state topological order parameter of fermions**|Ze-Min Huang, Luis Colmenarez, Markus Müller, Sebastian Diehl|[2412.12279](http://arxiv.org/abs/2412.12279)|null|
-|**2024-12-13**|**Emergent electrostatics in planar XY spin models: the bridge connecting topological order/nonergodicity with broken $U(1)$ symmetry**|Michael F. Faulkner|[2412.12186](http://arxiv.org/abs/2412.12186)|null|
+|**2024-12-13**|**Emergent electrostatics in planar XY spin models: the bridge connecting topological order/nonergodicity with broken $U(1)$ symmetry**|Michael F. Faulkner|[2412.12186](http://arxiv.org/abs/2412.12186)|**[link](https://github.com/michaelfaulkner/super-alby)**|
 |**2024-12-16**|**On topological defects in Chern-Simons theory**|Alex S. Arvanitakis, Lewis T. Cole, Saskia Demulder, Daniel C. Thompson|[2412.11718](http://arxiv.org/abs/2412.11718)|null|
 |**2024-12-11**|**Topologically-Protected Remnant Vortices in Confined Superfluid $^3$ He**|Alexander J. Shook, Daksh Malhotra, Aymar Muhikira, Vaisakh Vadakkumbatt, John P. Davis|[2412.08765](http://arxiv.org/abs/2412.08765)|null|
 |**2024-12-11**|**Simplex tensor network renormalization group for boundary theory of 3+1D symTFT**|Kaixin Ji, Lin Chen, Li-Ping Yang, Ling-Yan Hung|[2412.08374](http://arxiv.org/abs/2412.08374)|null|
