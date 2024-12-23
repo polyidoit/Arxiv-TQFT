@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**On the relation between fractional charge and statistics**|T. H. Hansson, Rodrigo Arouca, Thomas Klein Kvorning|[2412.15857](http://arxiv.org/abs/2412.15857)|null|
+|**2024-12-20**|**Dynamics of the order parameter in symmetry breaking phase transitions**|Fumika Suzuki, Wojciech H. Zurek|[2412.15568](http://arxiv.org/abs/2412.15568)|null|
+|**2024-12-19**|**The density profile of a Coulomb plasma on a cylinder: boundary oscillations**|Gabriel Cardoso, Jean-Marie Stéphan, Alexander G. Abanov|[2412.15345](http://arxiv.org/abs/2412.15345)|null|
+|**2024-12-19**|**Weak Hopf non-invertible symmetry-protected topological spin liquid and lattice realization of (1+1)D symmetry topological field theory**|Zhian Jia|[2412.15336](http://arxiv.org/abs/2412.15336)|null|
 |**2024-12-19**|**Fractionalization of flux tubes in 3d and screening by emergent electric charges in 2d**|Mendel Nguyen, Mithat Ünsal|[2412.14532](http://arxiv.org/abs/2412.14532)|null|
 |**2024-12-18**|**Planon-modular fracton orders**|Evan Wickenden, Marvin Qi, Arpit Dua, Michael Hermele|[2412.14320](http://arxiv.org/abs/2412.14320)|null|
 |**2024-12-18**|**Braiding for the win: Harnessing braiding statistics in topological states to win quantum games**|Oliver Hart, David T. Stephen, Dominic J. Williamson, Rahul Nandkishore|[2412.14288](http://arxiv.org/abs/2412.14288)|null|
