@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**A tensor network formulation of Lattice Gauge Theories based only on symmetric tensors**|Manu Canals, Natalia Chepiga, Luca Tagliacozzo|[2412.16961](http://arxiv.org/abs/2412.16961)|null|
 |**2024-12-20**|**On the relation between fractional charge and statistics**|T. H. Hansson, Rodrigo Arouca, Thomas Klein Kvorning|[2412.15857](http://arxiv.org/abs/2412.15857)|null|
 |**2024-12-20**|**Dynamics of the order parameter in symmetry breaking phase transitions**|Fumika Suzuki, Wojciech H. Zurek|[2412.15568](http://arxiv.org/abs/2412.15568)|null|
 |**2024-12-19**|**The density profile of a Coulomb plasma on a cylinder: boundary oscillations**|Gabriel Cardoso, Jean-Marie Stéphan, Alexander G. Abanov|[2412.15345](http://arxiv.org/abs/2412.15345)|null|
