@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2024-12-24**|**A new way to prove configuration reducibility using gauge theory**|Scott Baldridge, Ben McCarty|[2412.18558](http://arxiv.org/abs/2412.18558)|null|
+|**2024-12-24**|**Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection**|Jango Zhang|[2412.18225](http://arxiv.org/abs/2412.18225)|null|
+|**2024-12-24**|**Emergence of topological defects and spin liquid in a two-orbital spin-fermion model on the honeycomb lattice**|Kaidi Xu, Shan-Shan Wang, Rong Yu, Shuai Dong|[2412.18057](http://arxiv.org/abs/2412.18057)|null|
+|**2024-12-23**|**Exotic phase transitions in spin ladders with discrete symmetries that emulate spin-1/2 bosons in two dimensions**|Bo Han, David F. Mross|[2412.17911](http://arxiv.org/abs/2412.17911)|null|
 |**2024-12-22**|**A tensor network formulation of Lattice Gauge Theories based only on symmetric tensors**|Manu Canals, Natalia Chepiga, Luca Tagliacozzo|[2412.16961](http://arxiv.org/abs/2412.16961)|null|
 |**2024-12-20**|**On the relation between fractional charge and statistics**|T. H. Hansson, Rodrigo Arouca, Thomas Klein Kvorning|[2412.15857](http://arxiv.org/abs/2412.15857)|null|
 |**2024-12-20**|**Dynamics of the order parameter in symmetry breaking phase transitions**|Fumika Suzuki, Wojciech H. Zurek|[2412.15568](http://arxiv.org/abs/2412.15568)|null|
