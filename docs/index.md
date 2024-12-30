@@ -1,7 +1,7 @@
 > Automatically updated on 2024.12.30
 
 ## TQFT, Topological order, Generalized symmetry
-
+|**2024-12-27**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia|[2412.19657](http://arxiv.org/abs/2412.19657)|null|
 |**2024-12-24**|**A new way to prove configuration reducibility using gauge theory**|Scott Baldridge, Ben McCarty|[2412.18558](http://arxiv.org/abs/2412.18558)|null|
 |**2024-12-24**|**Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection**|Jango Zhang|[2412.18225](http://arxiv.org/abs/2412.18225)|null|
 |**2024-12-24**|**Emergence of topological defects and spin liquid in a two-orbital spin-fermion model on the honeycomb lattice**|Kaidi Xu, Shan-Shan Wang, Rong Yu, Shuai Dong|[2412.18057](http://arxiv.org/abs/2412.18057)|null|
