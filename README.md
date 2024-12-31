@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Particle-Soliton Degeneracy in 2D Quantum Chromodynamics**|Clay Cordova, Diego García-Sepúlveda, Nicholas Holfester|[2412.21153](http://arxiv.org/abs/2412.21153)|null|
+|**2024-12-30**|**Vertex algebras, topological defects, and Moonshine**|Roberto Volpato|[2412.21141](http://arxiv.org/abs/2412.21141)|null|
+|**2024-12-30**|**Anyonization of bosons**|Sudipta Dhar, Botao Wang, Milena Horvath, Amit Vashisht, Yi Zeng, Mikhail B. Zvonarev, Nathan Goldman, Yanliang Guo, Manuele Landini, Hanns-Christoph Nägerl|[2412.21131](http://arxiv.org/abs/2412.21131)|null|
+|**2024-12-30**|**Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction**|Ching-Feng Kung, Kao-Yueh Kuo, Ching-Yi Lai|[2412.21118](http://arxiv.org/abs/2412.21118)|null|
+|**2024-12-30**|**Z $_2$ topological orders in kagomé dipolar systems: Feedback from Rydberg quantum simulator**|Pengwei Zhao, Gang v. Chen|[2412.21112](http://arxiv.org/abs/2412.21112)|null|
+|**2024-12-30**|**3d $\mathcal{N}=4$ Mirror Symmetry, TQFTs, and 't Hooft Anomaly Matching**|Mahesh K. N. Balasubramanian, Anindya Banerjee, Matthew Buican, Zhihao Duan, Andrea E. V. Ferrari, Hongliang Jiang|[2412.21066](http://arxiv.org/abs/2412.21066)|null|
+|**2024-12-30**|**The 3BF theory as a TQFT**|Tijana Radenkovic, Marko Vojinovic|[2412.21032](http://arxiv.org/abs/2412.21032)|null|
+|**2024-12-30**|**Dimensional Resonance Theory: An Evolutionary Approach to Universal Rest**|Andre Carnevali da Silva|[2412.20961](http://arxiv.org/abs/2412.20961)|null|
+|**2024-12-30**|**Entangling gates from cabling of knots**|Sergey Mironov, Andrey Morozov|[2412.20931](http://arxiv.org/abs/2412.20931)|null|
+|**2024-12-29**|**Non-invertible SPTs: an on-site realization of (1+1)d anomaly-free fusion category symmetry**|Chenqi Meng, Xinping Yang, Tian Lan, Zhengcheng Gu|[2412.20546](http://arxiv.org/abs/2412.20546)|null|
 |**2024-12-27**|**A local automaton for the 2D toric code**|Shankar Balasubramanian, Margarita Davydova, Ethan Lake|[2412.19803](http://arxiv.org/abs/2412.19803)|null|
 |**2024-12-27**|**Non-Scaling Topological Defects and Gravitational Waves in Higgs Portal**|Wen Yin|[2412.19798](http://arxiv.org/abs/2412.19798)|null|
 |**2024-12-27**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia|[2412.19657](http://arxiv.org/abs/2412.19657)|null|
