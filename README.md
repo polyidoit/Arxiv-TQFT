@@ -16,7 +16,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**Particle-Soliton Degeneracy in 2D Quantum Chromodynamics**|Clay Cordova, Diego García-Sepúlveda, Nicholas Holfester|[2412.21153](http://arxiv.org/abs/2412.21153)|null|
-|**2024-12-30**|**Vertex algebras, topological defects, and Moonshine**|Roberto Volpato|[2412.21141](http://arxiv.org/abs/2412.21141)|null|
+|**2025-01-02**|**Vertex algebras, topological defects, and Moonshine**|Roberto Volpato|[2412.21141](http://arxiv.org/abs/2412.21141)|null|
 |**2024-12-30**|**Anyonization of bosons**|Sudipta Dhar, Botao Wang, Milena Horvath, Amit Vashisht, Yi Zeng, Mikhail B. Zvonarev, Nathan Goldman, Yanliang Guo, Manuele Landini, Hanns-Christoph Nägerl|[2412.21131](http://arxiv.org/abs/2412.21131)|null|
 |**2024-12-30**|**Efficient Approximate Degenerate Ordered Statistics Decoding for Quantum Codes via Reliable Subset Reduction**|Ching-Feng Kung, Kao-Yueh Kuo, Ching-Yi Lai|[2412.21118](http://arxiv.org/abs/2412.21118)|null|
 |**2024-12-30**|**Z $_2$ topological orders in kagomé dipolar systems: Feedback from Rydberg quantum simulator**|Pengwei Zhao, Gang v. Chen|[2412.21112](http://arxiv.org/abs/2412.21112)|null|
