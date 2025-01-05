@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Is there Kibble-Zurek scaling of topological defects in first-order phase transitions?**|Fan Zhong|[2501.01064](http://arxiv.org/abs/2501.01064)|null|
+|**2024-12-31**|**Topological Leptogenesis**|Juven Wang|[2501.00607](http://arxiv.org/abs/2501.00607)|null|
+|**2024-12-31**|**Angle-resolved photoemission of topological materials**|Jaime Sánchez-Barriga, Oliver J. Clark, Oliver Rader|[2501.00497](http://arxiv.org/abs/2501.00497)|null|
+|**2024-12-31**|**Time-reversal invariant TQFTs from self-mirror symmetric SCFTs**|Hongliang Jiang|[2501.00460](http://arxiv.org/abs/2501.00460)|null|
+|**2024-12-31**|**Topic Review: Hatsugai-Kohmoto models: Exactly solvable playground for Mottness and Non-Fermi Liquid**|Miaomiao Zhao, Wei-Wei Yang, Yin Zhong|[2501.00388](http://arxiv.org/abs/2501.00388)|null|
 |**2024-12-30**|**Particle-Soliton Degeneracy in 2D Quantum Chromodynamics**|Clay Cordova, Diego García-Sepúlveda, Nicholas Holfester|[2412.21153](http://arxiv.org/abs/2412.21153)|null|
 |**2025-01-02**|**Vertex algebras, topological defects, and Moonshine**|Roberto Volpato|[2412.21141](http://arxiv.org/abs/2412.21141)|null|
 |**2024-12-30**|**Anyonization of bosons**|Sudipta Dhar, Botao Wang, Milena Horvath, Amit Vashisht, Yi Zeng, Mikhail B. Zvonarev, Nathan Goldman, Yanliang Guo, Manuele Landini, Hanns-Christoph Nägerl|[2412.21131](http://arxiv.org/abs/2412.21131)|null|
