@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Genetic algorithm enhanced Solovay-Kitaev algorithm for quantum compiling**|Jiangwei Long, Xuyang Huang, Jianxin Zhong, Lijun Meng|[2501.01746](http://arxiv.org/abs/2501.01746)|null|
+|**2025-01-03**|**Topological quantum compilation of metaplectic anyons**|Jiangwei Long, Jianxin Zhong, Lijun Meng|[2501.01745](http://arxiv.org/abs/2501.01745)|null|
 |**2025-01-02**|**Is there Kibble-Zurek scaling of topological defects in first-order phase transitions?**|Fan Zhong|[2501.01064](http://arxiv.org/abs/2501.01064)|null|
 |**2024-12-31**|**Topological Leptogenesis**|Juven Wang|[2501.00607](http://arxiv.org/abs/2501.00607)|null|
 |**2024-12-31**|**Angle-resolved photoemission of topological materials**|Jaime Sánchez-Barriga, Oliver J. Clark, Oliver Rader|[2501.00497](http://arxiv.org/abs/2501.00497)|null|
