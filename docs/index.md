@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-01-06**|**Soft symmetries of topological orders**|Ryohei Kobayashi, Maissam Barkeshli|[2501.03314](http://arxiv.org/abs/2501.03314)|null|
 |**2025-01-04**|**Mixed state topological order: operator algebraic approach**|Yoshiko Ogata|[2501.02398](http://arxiv.org/abs/2501.02398)|null|
 |**2025-01-03**|**Genetic algorithm enhanced Solovay-Kitaev algorithm for quantum compiling**|Jiangwei Long, Xuyang Huang, Jianxin Zhong, Lijun Meng|[2501.01746](http://arxiv.org/abs/2501.01746)|null|
 |**2025-01-03**|**Topological quantum compilation of metaplectic anyons**|Jiangwei Long, Jianxin Zhong, Lijun Meng|[2501.01745](http://arxiv.org/abs/2501.01745)|null|
