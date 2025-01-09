@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-01-08**|**The importance of being discrete -- An agent-based model for active nematics and more**|Mathieu Dedenon, Carles Blanch-Mercader, Karsten Kruse, Jens Elgeti|[2501.04559](http://arxiv.org/abs/2501.04559)|null|
+|**2025-01-08**|**An exceptional surface and its topology**|Shou-Bang Yang, Pei-Rong Han, Wen Ning, Fan Wu, Zhen-Biao Yang, Shi-Biao Zheng|[2501.04317](http://arxiv.org/abs/2501.04317)|null|
 |**2025-01-06**|**Soft symmetries of topological orders**|Ryohei Kobayashi, Maissam Barkeshli|[2501.03314](http://arxiv.org/abs/2501.03314)|null|
 |**2025-01-04**|**Mixed state topological order: operator algebraic approach**|Yoshiko Ogata|[2501.02398](http://arxiv.org/abs/2501.02398)|null|
 |**2025-01-03**|**Genetic algorithm enhanced Solovay-Kitaev algorithm for quantum compiling**|Jiangwei Long, Xuyang Huang, Jianxin Zhong, Lijun Meng|[2501.01746](http://arxiv.org/abs/2501.01746)|null|
