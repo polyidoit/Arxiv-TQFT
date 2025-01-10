@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-01-09**|**Double Majorana Vortex Flat Bands in the Topological Dirac Superconductor**|Zhongyi Zhang, Zixi Fang, Shengshan Qin, Peng Zhang, Hoi Chun Po, Xianxin Wu|[2501.05317](http://arxiv.org/abs/2501.05317)|null|
+|**2025-01-09**|**Unidirectional motion of topological defects mediating continuous rotation processes**|Marisel Di Pietro Martínez, Luke Alexander Turnbull, Jeffrey Neethirajan, Max Birch, Simone Finizio, Jörg Raabe, Edouard Lesne, Anastasios Markou, María Vélez, Aurelio Hierro-Rodríguez, Marco Salvalaglio, Claire Donnelly|[2501.05112](http://arxiv.org/abs/2501.05112)|null|
+|**2025-01-08**|**Energy Dynamics Powered by Traction and Stress Control Formation and Motion of +1/2 Topological Defects in Epithelial Cell Monolayers**|Pradip K. Bera, Molly McCord, Jun Zhang, Jacob Notbohm|[2501.04827](http://arxiv.org/abs/2501.04827)|null|
+|**2025-01-08**|**Phase diagram, confining strings, and a new universality class in nematopolar matter**|Farzan Vafa, Amin Doostmohammadi|[2501.04769](http://arxiv.org/abs/2501.04769)|null|
 |**2025-01-08**|**The importance of being discrete -- An agent-based model for active nematics and more**|Mathieu Dedenon, Carles Blanch-Mercader, Karsten Kruse, Jens Elgeti|[2501.04559](http://arxiv.org/abs/2501.04559)|null|
 |**2025-01-08**|**An exceptional surface and its topology**|Shou-Bang Yang, Pei-Rong Han, Wen Ning, Fan Wu, Zhen-Biao Yang, Shi-Biao Zheng|[2501.04317](http://arxiv.org/abs/2501.04317)|null|
 |**2025-01-06**|**Soft symmetries of topological orders**|Ryohei Kobayashi, Maissam Barkeshli|[2501.03314](http://arxiv.org/abs/2501.03314)|null|
