@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-01-10**|**Cellular dynamics emerging from turbulent flows steered by active filaments**|Mehrana R. Nejad, Julia M. Yeomans, Sumesh P Thampi|[2501.05971](http://arxiv.org/abs/2501.05971)|null|
+|**2025-01-10**|**Skein Construction of Balanced Tensor Products**|Manuel Araújo, Jin-Cheng Guu, Skyler Hudson|[2501.05747](http://arxiv.org/abs/2501.05747)|null|
+|**2025-01-09**|**Kitaev Quantum Spin Liquids**|Yuji Matsuda, Takasada Shibauchi, Hae-Young Kee|[2501.05608](http://arxiv.org/abs/2501.05608)|null|
 |**2025-01-09**|**Double Majorana Vortex Flat Bands in the Topological Dirac Superconductor**|Zhongyi Zhang, Zixi Fang, Shengshan Qin, Peng Zhang, Hoi Chun Po, Xianxin Wu|[2501.05317](http://arxiv.org/abs/2501.05317)|null|
 |**2025-01-09**|**Unidirectional motion of topological defects mediating continuous rotation processes**|Marisel Di Pietro Martínez, Luke Alexander Turnbull, Jeffrey Neethirajan, Max Birch, Simone Finizio, Jörg Raabe, Edouard Lesne, Anastasios Markou, María Vélez, Aurelio Hierro-Rodríguez, Marco Salvalaglio, Claire Donnelly|[2501.05112](http://arxiv.org/abs/2501.05112)|null|
 |**2025-01-08**|**Energy Dynamics Powered by Traction and Stress Control Formation and Motion of +1/2 Topological Defects in Epithelial Cell Monolayers**|Pradip K. Bera, Molly McCord, Jun Zhang, Jacob Notbohm|[2501.04827](http://arxiv.org/abs/2501.04827)|null|
