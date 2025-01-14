@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Epitaxial thin films of pyrochlore iridates: a forward looking approach**|Araceli Gutiérrez-Llorente|[2501.07190](http://arxiv.org/abs/2501.07190)|null|
+|**2025-01-11**|**A graph-based approach to entanglement entropy of quantum error correcting codes**|Wuxu Zhao, Menglong Fang, Daiqin Su|[2501.06407](http://arxiv.org/abs/2501.06407)|null|
 |**2025-01-10**|**Cellular dynamics emerging from turbulent flows steered by active filaments**|Mehrana R. Nejad, Julia M. Yeomans, Sumesh P Thampi|[2501.05971](http://arxiv.org/abs/2501.05971)|null|
 |**2025-01-10**|**Skein Construction of Balanced Tensor Products**|Manuel Araújo, Jin-Cheng Guu, Skyler Hudson|[2501.05747](http://arxiv.org/abs/2501.05747)|null|
 |**2025-01-09**|**Kitaev Quantum Spin Liquids**|Yuji Matsuda, Takasada Shibauchi, Hae-Young Kee|[2501.05608](http://arxiv.org/abs/2501.05608)|null|
