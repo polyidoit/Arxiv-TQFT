@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**2D HQFTs and Frobenius $(\mathcal{G},\mathcal{V})$ -categories**|Paul Großkopf|[2501.10113](http://arxiv.org/abs/2501.10113)|null|
+|**2025-01-17**|**Black hole with global monopole charge in self-interacting Kalb-Ramond field**|Mohsen Fathi, Ali Övgün|[2501.09899](http://arxiv.org/abs/2501.09899)|null|
 |**2025-01-13**|**Epitaxial thin films of pyrochlore iridates: a forward looking approach**|Araceli Gutiérrez-Llorente|[2501.07190](http://arxiv.org/abs/2501.07190)|null|
 |**2025-01-11**|**A graph-based approach to entanglement entropy of quantum error correcting codes**|Wuxu Zhao, Menglong Fang, Daiqin Su|[2501.06407](http://arxiv.org/abs/2501.06407)|null|
 |**2025-01-10**|**Cellular dynamics emerging from turbulent flows steered by active filaments**|Mehrana R. Nejad, Julia M. Yeomans, Sumesh P Thampi|[2501.05971](http://arxiv.org/abs/2501.05971)|null|
