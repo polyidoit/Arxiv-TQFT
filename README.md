@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Stochastic Calculus and Hochschild Homology**|Si Li, Zichang Wang, Peng Yang|[2501.12360](http://arxiv.org/abs/2501.12360)|null|
+|**2025-01-21**|**Symmetry and Critical Dynamics in Supercooled Liquid Crystals: Insights into the Glass Transition**|Szymon Starzonek, Aleš Iglič, Aleksandra Drozd-Rzoska, Sylwester J. Rzoska|[2501.12201](http://arxiv.org/abs/2501.12201)|null|
+|**2025-01-20**|**Band representations in Strongly Correlated Settings: The Kitaev Honeycomb Model**|Axel Fünfhaus, Mikel García-Díez, M. G. Vergniory, Thilo Kopp, Stephen M. Winter, Roser Valentí|[2501.11396](http://arxiv.org/abs/2501.11396)|null|
+|**2025-01-18**|**Dispersive and Strichartz estimates for Dirac equation in a cosmic string spacetime**|Piero D'Ancona, Zhiqing Yin, Junyong Zhang|[2501.10850](http://arxiv.org/abs/2501.10850)|null|
 |**2025-01-17**|**2D HQFTs and Frobenius $(\mathcal{G},\mathcal{V})$ -categories**|Paul Großkopf|[2501.10113](http://arxiv.org/abs/2501.10113)|null|
 |**2025-01-17**|**Black hole with global monopole charge in self-interacting Kalb-Ramond field**|Mohsen Fathi, Ali Övgün|[2501.09899](http://arxiv.org/abs/2501.09899)|null|
 |**2025-01-13**|**Epitaxial thin films of pyrochlore iridates: a forward looking approach**|Araceli Gutiérrez-Llorente|[2501.07190](http://arxiv.org/abs/2501.07190)|null|
