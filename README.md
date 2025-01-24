@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**High-intensity wave vortices around subwavelength holes: from ocean tides to nanooptics**|Kateryna Domina, Pablo Alonso-González, Andrei Bylinkin, María Barra-Burillo, Ana I. F. Tresguerres-Mata, Francisco Javier Alfaro-Mozaz, Saül Vélez, Fèlix Casanova, Luis E. Hueso, Rainer Hillenbrand, Konstantin Y. Bliokh, Alexey Y. Nikitin|[2501.13860](http://arxiv.org/abs/2501.13860)|null|
+|**2025-01-23**|**Read out the fermion parity of a potential artificial Kitaev chain utilizing a transmon qubit**|Enna Zhuo, Xiaozhou Yang, Yuyang Huang, Zhaozheng Lyu, Ang Li, Bing Li, Yunxiao Zhang, Xiang Wang, Duolin Wang, Yukun Shi, Anqi Wang, E. P. A. M. Bakkers, Xiaodong Han, Xiaohui Song, Peiling Li, Bingbing Tong, Ziwei Dou, Guangtong Liu, Fanming Qu, Jie Shen, Li Lu|[2501.13367](http://arxiv.org/abs/2501.13367)|null|
+|**2025-01-22**|**Using Principal Component Analysis to Distinguish Different Dynamic Phases in Superconducting Vortex Matter**|C. J. O. Reichhardt, D. McDermott, C. Reichhardt|[2501.13269](http://arxiv.org/abs/2501.13269)|null|
+|**2025-01-22**|**Imaging Topological Defect Dynamics Mediating 2D Skyrmion Lattice Melting**|Raphael Gruber, Jan Rothörl, Simon M. Fröhlich, Maarten A. Brems, Fabian Kammerbauer, Maria-Andromachi Syskaki, Elizabeth M. Jefremovas, Sachin Krishnia, Asle Sudbø, Peter Virnau, Mathias Kläui|[2501.13151](http://arxiv.org/abs/2501.13151)|null|
 |**2025-01-21**|**Stochastic Calculus and Hochschild Homology**|Si Li, Zichang Wang, Peng Yang|[2501.12360](http://arxiv.org/abs/2501.12360)|null|
 |**2025-01-21**|**Symmetry and Critical Dynamics in Supercooled Liquid Crystals: Insights into the Glass Transition**|Szymon Starzonek, Aleš Iglič, Aleksandra Drozd-Rzoska, Sylwester J. Rzoska|[2501.12201](http://arxiv.org/abs/2501.12201)|null|
 |**2025-01-20**|**Band representations in Strongly Correlated Settings: The Kitaev Honeycomb Model**|Axel Fünfhaus, Mikel García-Díez, M. G. Vergniory, Thilo Kopp, Stephen M. Winter, Roser Valentí|[2501.11396](http://arxiv.org/abs/2501.11396)|null|
