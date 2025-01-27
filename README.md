@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Dualities between 2+1d fusion surface models from braided fusion categories**|Luisa Eck|[2501.14722](http://arxiv.org/abs/2501.14722)|null|
+|**2025-01-24**|**Investigating topological in-gap states in non-Hermitian quasicrystal with unconventional $p$ -wave pairing**|Shaina Gandhi, Jayendra N. Bandyopadhyay|[2501.14481](http://arxiv.org/abs/2501.14481)|null|
+|**2025-01-24**|**Non-Invertible $SO(2)$ Symmetry of 4d Maxwell from Continuous Gaugings**|Elise Paznokas|[2501.14419](http://arxiv.org/abs/2501.14419)|null|
 |**2025-01-23**|**High-intensity wave vortices around subwavelength holes: from ocean tides to nanooptics**|Kateryna Domina, Pablo Alonso-González, Andrei Bylinkin, María Barra-Burillo, Ana I. F. Tresguerres-Mata, Francisco Javier Alfaro-Mozaz, Saül Vélez, Fèlix Casanova, Luis E. Hueso, Rainer Hillenbrand, Konstantin Y. Bliokh, Alexey Y. Nikitin|[2501.13860](http://arxiv.org/abs/2501.13860)|null|
 |**2025-01-23**|**Read out the fermion parity of a potential artificial Kitaev chain utilizing a transmon qubit**|Enna Zhuo, Xiaozhou Yang, Yuyang Huang, Zhaozheng Lyu, Ang Li, Bing Li, Yunxiao Zhang, Xiang Wang, Duolin Wang, Yukun Shi, Anqi Wang, E. P. A. M. Bakkers, Xiaodong Han, Xiaohui Song, Peiling Li, Bingbing Tong, Ziwei Dou, Guangtong Liu, Fanming Qu, Jie Shen, Li Lu|[2501.13367](http://arxiv.org/abs/2501.13367)|null|
 |**2025-01-22**|**Using Principal Component Analysis to Distinguish Different Dynamic Phases in Superconducting Vortex Matter**|C. J. O. Reichhardt, D. McDermott, C. Reichhardt|[2501.13269](http://arxiv.org/abs/2501.13269)|null|
