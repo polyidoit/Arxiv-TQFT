@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Quantum XYZ cyclic codes for biased noise**|Zhipeng Liang, Fusheng Yang, Zhengzhong Yi, Xuan Wang|[2501.16827](http://arxiv.org/abs/2501.16827)|null|
 |**2025-01-24**|**Dualities between 2+1d fusion surface models from braided fusion categories**|Luisa Eck|[2501.14722](http://arxiv.org/abs/2501.14722)|null|
 |**2025-01-24**|**Investigating topological in-gap states in non-Hermitian quasicrystal with unconventional $p$ -wave pairing**|Shaina Gandhi, Jayendra N. Bandyopadhyay|[2501.14481](http://arxiv.org/abs/2501.14481)|null|
 |**2025-01-24**|**Non-Invertible $SO(2)$ Symmetry of 4d Maxwell from Continuous Gaugings**|Elise Paznokas|[2501.14419](http://arxiv.org/abs/2501.14419)|null|
