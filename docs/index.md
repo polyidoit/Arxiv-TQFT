@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-01-30**|**Probing Non-Equilibrium Topological Order on a Quantum Processor**|M. Will, T. A. Cochran, E. Rosenberg, B. Jobst, N. M Eassa, P. Roushan, M. Knap, A. Gammon-Smith, F. Pollmann|[2501.18461](http://arxiv.org/abs/2501.18461)|null|
+|**2025-01-30**|**Global Structure in the Presence of a Topological Defect**|Arun Debray, Weicheng Ye, Matthew Yu|[2501.18399](http://arxiv.org/abs/2501.18399)|null|
+|**2025-01-30**|**Baryon construction with $η^\prime$ meson field**|Fan Lin, Yong-Liang Ma|[2501.18159](http://arxiv.org/abs/2501.18159)|null|
+|**2025-01-30**|**There is Room at the Top: Fundamental Quantum Limits for Detecting Ultra-high Frequency Gravitational Waves**|Xinyao Guo, Haixing Miao, Zhi-Wei Wang, Huan Yang, Ye-Ling Zhou|[2501.18146](http://arxiv.org/abs/2501.18146)|null|
+|**2025-01-29**|**Engineering of Anyons on M5-Probes via Flux Quantization**|Hisham Sati, Urs Schreiber|[2501.17927](http://arxiv.org/abs/2501.17927)|null|
 |**2025-01-28**|**Quantum XYZ cyclic codes for biased noise**|Zhipeng Liang, Fusheng Yang, Zhengzhong Yi, Xuan Wang|[2501.16827](http://arxiv.org/abs/2501.16827)|null|
 |**2025-01-24**|**Dualities between 2+1d fusion surface models from braided fusion categories**|Luisa Eck|[2501.14722](http://arxiv.org/abs/2501.14722)|null|
 |**2025-01-24**|**Investigating topological in-gap states in non-Hermitian quasicrystal with unconventional $p$ -wave pairing**|Shaina Gandhi, Jayendra N. Bandyopadhyay|[2501.14481](http://arxiv.org/abs/2501.14481)|null|
