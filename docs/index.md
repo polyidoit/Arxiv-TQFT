@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-01-31**|**A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier**|Guanyu Zhu|[2501.19375](http://arxiv.org/abs/2501.19375)|null|
+|**2025-01-31**|**Signatures of Non-Abelian Kitaev quantum spin liquids in noise magnetormetry**|Xiao Xiao, Masahiro O. Takahashi, Paul Stevenson, Satoshi Fujimoto, Arun Bansil|[2501.19165](http://arxiv.org/abs/2501.19165)|null|
+|**2025-01-31**|**Fractons from covariant higher-rank 3D BF theory**|Erica Bertolini, Alberto Blasi, Matteo Carrega, Nicola Maggiore, Daniel Sacco Shaikh|[2501.19154](http://arxiv.org/abs/2501.19154)|null|
+|**2025-01-30**|**Quantum Phase Transitions between Symmetry-Enriched Fracton Phases**|Julian Boesl, Yu-Jie Liu, Wen-Tao Xu, Frank Pollmann, Michael Knap|[2501.18688](http://arxiv.org/abs/2501.18688)|null|
 |**2025-01-30**|**Probing Non-Equilibrium Topological Order on a Quantum Processor**|M. Will, T. A. Cochran, E. Rosenberg, B. Jobst, N. M Eassa, P. Roushan, M. Knap, A. Gammon-Smith, F. Pollmann|[2501.18461](http://arxiv.org/abs/2501.18461)|null|
 |**2025-01-30**|**Global Structure in the Presence of a Topological Defect**|Arun Debray, Weicheng Ye, Matthew Yu|[2501.18399](http://arxiv.org/abs/2501.18399)|null|
 |**2025-01-30**|**Baryon construction with $η^\prime$ meson field**|Fan Lin, Yong-Liang Ma|[2501.18159](http://arxiv.org/abs/2501.18159)|null|
