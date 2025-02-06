@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-02-05**|**Topological Sum Rules and Spectral Flows of Chiral and Gravitational Axion-like Interactions**|Claudio Corianò, Stefano Lionetti, Dario Melle|[2502.03182](http://arxiv.org/abs/2502.03182)|null|
 |**2025-02-04**|**Unlocking the power of global quantum gates with machine learning**|Vinit Singh, Bin Yan|[2502.02405](http://arxiv.org/abs/2502.02405)|null|
 |**2025-02-04**|**The Spectrum of Global Axion Strings**|Mathieu Kaltschmidt, Javier Redondo, Ken'ichi Saikawa, Alejandro Vaquero|[2502.02398](http://arxiv.org/abs/2502.02398)|null|
 |**2025-02-03**|**Extended string-net models with all anyons at finite temperature**|André O. Soares, Anna Ritz-Zwilling, Jean-Noël Fuchs|[2502.01454](http://arxiv.org/abs/2502.01454)|null|
