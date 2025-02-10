@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Phase Transitions with Coupled Lasers Array, PhD Research Summary**|Simon Mahler|[2502.04768](http://arxiv.org/abs/2502.04768)|null|
+|**2025-02-07**|**Laser-driven Ultrafast Dynamics of a Fractional Quantum Hall System**|Ammar Kirmani, Benedikt Fauseweh, Jian-Xin Zhu|[2502.04622](http://arxiv.org/abs/2502.04622)|null|
+|**2025-02-06**|**Heterogeneous Swarms: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems**|Shangbin Feng, Zifeng Wang, Palash Goyal, Yike Wang, Weijia Shi, Huang Xia, Hamid Palangi, Luke Zettlemoyer, Yulia Tsvetkov, Chen-Yu Lee, Tomas Pfister|[2502.04510](http://arxiv.org/abs/2502.04510)|null|
+|**2025-02-06**|**Two-dimensional topological quantum field theories of rank two over Dedekind domains**|Fabian Espinoza, Mee Seong Im, Mikhail Khovanov|[2502.04502](http://arxiv.org/abs/2502.04502)|null|
+|**2025-02-06**|**Unitary Categorical Symmetries**|Thomas Bartsch|[2502.04440](http://arxiv.org/abs/2502.04440)|null|
 |**2025-02-05**|**Topological Sum Rules and Spectral Flows of Chiral and Gravitational Axion-like Interactions**|Claudio Corianò, Stefano Lionetti, Dario Melle|[2502.03182](http://arxiv.org/abs/2502.03182)|null|
 |**2025-02-04**|**Unlocking the power of global quantum gates with machine learning**|Vinit Singh, Bin Yan|[2502.02405](http://arxiv.org/abs/2502.02405)|null|
 |**2025-02-04**|**The Spectrum of Global Axion Strings**|Mathieu Kaltschmidt, Javier Redondo, Ken'ichi Saikawa, Alejandro Vaquero|[2502.02398](http://arxiv.org/abs/2502.02398)|null|
