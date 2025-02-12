@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Next-to-minimal weight of toric codes defined over hypersimplices**|Cícero Carvalho, Nupur Patanker|[2502.07718](http://arxiv.org/abs/2502.07718)|null|
+|**2025-02-11**|**Classification of Gapped Domain Walls of Topological Orders in 2+1 dimensions: A Levin-Wen Model Realization**|Yanyan Chen, Siyuan Wang, Yu Zhao, Yuting Hu, Yidun Wan|[2502.07664](http://arxiv.org/abs/2502.07664)|null|
+|**2025-02-11**|**Magnetic Bloch States at Integer Flux Quanta Induced by Super-moiré Potential in Graphene Aligned with Twisted Boron Nitride**|Yaqi Ma, Meizhen Huang, Xu Zhang, Weixiong Hu, Zishu Zhou, Kai Feng, Wenhui Li, Yong Chen, Chenxuan Lou, Weikang Zhang, Haoxi Ji, Yibo Wang, Zefei Wu, Xiaodong Cui, Wang Yao, Shichao Yan, Zi Yang Meng, Ning Wang|[2502.07283](http://arxiv.org/abs/2502.07283)|null|
+|**2025-02-10**|**Detection of chiral spin fluctuations driven by frustration in Mott insulators**|Kuan H. Hsu, Chunjing Jia, Emily Z. Zhang, Daniel Jost, Brian Moritz, Rudi Hackl, Thomas P. Devereaux|[2502.07108](http://arxiv.org/abs/2502.07108)|null|
+|**2025-02-10**|**Does Entanglement Correlation in Ground State Guarantee Quantum Energy Teleportation?**|Taisanul Haque|[2502.07097](http://arxiv.org/abs/2502.07097)|null|
+|**2025-02-10**|**Majorana quasiparticles in atomic spin chains on superconductors**|Stephan Rachel, Roland Wiesendanger|[2502.07089](http://arxiv.org/abs/2502.07089)|null|
+|**2025-02-10**|**Advancements in Functorial Homological Mirror Symmetry**|Veronica Pasquarella|[2502.06951](http://arxiv.org/abs/2502.06951)|null|
 |**2025-02-07**|**Anomalous suppression of large-scale density fluctuations in classical and quantum spin liquids**|Duyu Chen, Rhine Samajdar, Yang Jiao, Salvatore Torquato|[2502.05313](http://arxiv.org/abs/2502.05313)|null|
 |**2025-02-07**|**Phase Transitions with Coupled Lasers Array, PhD Research Summary**|Simon Mahler|[2502.04768](http://arxiv.org/abs/2502.04768)|null|
 |**2025-02-07**|**Laser-driven Ultrafast Dynamics of a Fractional Quantum Hall System**|Ammar Kirmani, Benedikt Fauseweh, Jian-Xin Zhu|[2502.04622](http://arxiv.org/abs/2502.04622)|null|
