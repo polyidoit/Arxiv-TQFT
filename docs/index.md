@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-02-13**|**Low-Acceleration Gravitational Anomaly from Bayesian 3D Modeling of Wide Binary Orbits: Methodology and Results with Gaia DR3**|Kyu-Hyun Chae|[2502.09373](http://arxiv.org/abs/2502.09373)|null|
+|**2025-02-13**|**Quantify the stability of Majorana qubits through Rabi beat**|Yu Zhang, Jiayi Chen, Jie Liu, X. C. Xie|[2502.09062](http://arxiv.org/abs/2502.09062)|null|
 |**2025-02-12**|**Emergent dimer-model topological order and quasi-particle excitations in liquid crystals: combinatorial vortex lattices**|Cuiling Meng, Jin-Sheng Wu, Žiga Kos, Jörn Dunkel, Cristiano Nisoli, Ivan I. Smalyukh|[2502.08314](http://arxiv.org/abs/2502.08314)|null|
 |**2025-02-12**|**Fermionic CFTs from topological boundaries in abelian Chern-Simons theories**|Kohki Kawabata, Tatsuma Nishioka, Takuya Okuda, Shinichiro Yahagi|[2502.08084](http://arxiv.org/abs/2502.08084)|null|
 |**2025-02-11**|**Next-to-minimal weight of toric codes defined over hypersimplices**|Cícero Carvalho, Nupur Patanker|[2502.07718](http://arxiv.org/abs/2502.07718)|null|
