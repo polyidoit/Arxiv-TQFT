@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-02-17**|**Identification of Polytypism and Their Dislocations in Bilayer MoS2 Using Correlative Transmission Electron Microscopy and Raman Spectroscopy**|Xin Zhou, Tobias Dierke, Mingjian Wu, Shengbo You, Klaus Götz, Tobias Unruh, Philipp Pelz, Johannes Will, Janina Maultzsch, Erdmann Spiecker|[2502.11977](http://arxiv.org/abs/2502.11977)|null|
+|**2025-02-16**|**Active Solids: Defect Self-Propulsion Without Flow**|Fridtjof Brauns, Myles O'Leary, Arthur Hernandez, Mark J. Bowick, M. Cristina Marchetti|[2502.11296](http://arxiv.org/abs/2502.11296)|null|
+|**2025-02-16**|**Exploring information geometry: Recent Advances and Connections to Topological Field Theory**|Noémie C. Combe, Philippe G. Combe, Hanna K. Nencka|[2502.11188](http://arxiv.org/abs/2502.11188)|null|
+|**2025-02-16**|**Point-group symmetry enriched topological orders**|Zhaoyang Ding, Yang Qi|[2502.11106](http://arxiv.org/abs/2502.11106)|null|
+|**2025-02-15**|**Instabilities, thermal fluctuations, defects and dislocations in the crystal- $R_I$-$R_{II}$ rotator phase transitions of n-alkanes**|Soumya Kanti Ganguly, Prabir K. Mukherjee|[2502.10692](http://arxiv.org/abs/2502.10692)|null|
 |**2025-02-14**|**Stretching theory of Hookean metashells**|Luca Giomi|[2502.10345](http://arxiv.org/abs/2502.10345)|null|
 |**2025-02-13**|**Low-Acceleration Gravitational Anomaly from Bayesian 3D Modeling of Wide Binary Orbits: Methodology and Results with Gaia DR3**|Kyu-Hyun Chae|[2502.09373](http://arxiv.org/abs/2502.09373)|null|
 |**2025-02-13**|**Quantify the stability of Majorana qubits through Rabi beat**|Yu Zhang, Jiayi Chen, Jie Liu, X. C. Xie|[2502.09062](http://arxiv.org/abs/2502.09062)|null|
