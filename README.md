@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**On dimensions of (2+1)D abelian bosonic topological systems on unoriented manifolds**|Ippo Orii|[2502.13532](http://arxiv.org/abs/2502.13532)|null|
 |**2025-02-17**|**Extracting the topological spins from bulk multipartite entanglement**|Yarden Sheffer, Ady Stern, Erez Berg|[2502.12259](http://arxiv.org/abs/2502.12259)|null|
 |**2025-02-17**|**Increasing the distance of topological codes with time vortex defects**|Gilad Kishony, Erez Berg|[2502.12236](http://arxiv.org/abs/2502.12236)|null|
 |**2025-02-17**|**Identification of Polytypism and Their Dislocations in Bilayer MoS2 Using Correlative Transmission Electron Microscopy and Raman Spectroscopy**|Xin Zhou, Tobias Dierke, Mingjian Wu, Shengbo You, Klaus Götz, Tobias Unruh, Philipp Pelz, Johannes Will, Janina Maultzsch, Erdmann Spiecker|[2502.11977](http://arxiv.org/abs/2502.11977)|null|
