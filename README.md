@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Discovery of transient topological crystalline order in optically driven SnSe**|Masataka Mogi, Dongsung Choi, Kyoung Hun Oh, Diana Golovanova, Yufei Zhao, Yifan Su, Zongqi Shen, Doron Azoury, Haoyu Xia, Batyr Ilyas, Tianchuang Luo, Noriaki Kida, Taito Osaka, Tadashi Togashi, Binghai Yan, Nuh Gedik|[2502.14800](http://arxiv.org/abs/2502.14800)|null|
+|**2025-02-19**|**Decoherence-induced self-dual criticality in topological states of matter**|Qingyuan Wang, Romain Vasseur, Simon Trebst, Andreas W. W. Ludwig, Guo-Yi Zhu|[2502.14034](http://arxiv.org/abs/2502.14034)|null|
+|**2025-02-19**|**Critical theories connecting gapped phases with $\mathbb{Z}_2\times\mathbb{Z}_2$ symmetry from the duality web**|Andreas Karch, Ryan C. Spieler|[2502.14032](http://arxiv.org/abs/2502.14032)|null|
 |**2025-02-19**|**On dimensions of (2+1)D abelian bosonic topological systems on unoriented manifolds**|Ippo Orii|[2502.13532](http://arxiv.org/abs/2502.13532)|null|
 |**2025-02-17**|**Extracting the topological spins from bulk multipartite entanglement**|Yarden Sheffer, Ady Stern, Erez Berg|[2502.12259](http://arxiv.org/abs/2502.12259)|null|
 |**2025-02-17**|**Increasing the distance of topological codes with time vortex defects**|Gilad Kishony, Erez Berg|[2502.12236](http://arxiv.org/abs/2502.12236)|null|
