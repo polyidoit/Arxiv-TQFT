@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**String Formation and Arrested Ordering Kinetics in Nematics Induced by Polar Particles**|Pawan Kumar Mishra, Partha Sarathi Mondal, Pratikshya Jena, Shradha Mishra|[2502.15477](http://arxiv.org/abs/2502.15477)|null|
+|**2025-02-21**|**A New Type of MPd5 Kagome Superconductors**|Dan Li, Zhengxuan Wang, Panshi Jing, Mehrdad Shiri, Kun Wang, Chunlan Ma, Shijing Gong, Chuanxi Zhao, Tianxing Wang, Xiao Dong, Lin Zhuang, Wuming Liu, Yipeng An|[2502.15445](http://arxiv.org/abs/2502.15445)|null|
+|**2025-02-21**|**From BPS Spectra of Argyres-Douglas Theories to Families of 3d TFTs**|Byeonggi Go, Qiang Jia, Heeyeon Kim, Sungjoon Kim|[2502.15133](http://arxiv.org/abs/2502.15133)|null|
+|**2025-02-20**|**Digitized counterdiabatic quantum critical dynamics**|Anne-Maria Visuri, Alejandro Gomez Cadavid, Balaganchi A. Bhargava, Sebastián V. Romero, András Grabarits, Pranav Chandarana, Enrique Solano, Adolfo del Campo, Narendra N. Hegade|[2502.15100](http://arxiv.org/abs/2502.15100)|null|
+|**2025-02-20**|**Universal Quantum Computation with the $S_3$ Quantum Double: A Pedagogical Exposition**|Chiu Fan Bowen Lo, Anasuya Lyons, Ruben Verresen, Ashvin Vishwanath, Nathanan Tantivasadakarn|[2502.14974](http://arxiv.org/abs/2502.14974)|null|
 |**2025-02-20**|**Discovery of transient topological crystalline order in optically driven SnSe**|Masataka Mogi, Dongsung Choi, Kyoung Hun Oh, Diana Golovanova, Yufei Zhao, Yifan Su, Zongqi Shen, Doron Azoury, Haoyu Xia, Batyr Ilyas, Tianchuang Luo, Noriaki Kida, Taito Osaka, Tadashi Togashi, Binghai Yan, Nuh Gedik|[2502.14800](http://arxiv.org/abs/2502.14800)|null|
 |**2025-02-19**|**Decoherence-induced self-dual criticality in topological states of matter**|Qingyuan Wang, Romain Vasseur, Simon Trebst, Andreas W. W. Ludwig, Guo-Yi Zhu|[2502.14034](http://arxiv.org/abs/2502.14034)|null|
 |**2025-02-19**|**Critical theories connecting gapped phases with $\mathbb{Z}_2\times\mathbb{Z}_2$ symmetry from the duality web**|Andreas Karch, Ryan C. Spieler|[2502.14032](http://arxiv.org/abs/2502.14032)|null|
