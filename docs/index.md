@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-02-21**|**Topological Computation by non-Abelian Braiding in Classical Metamaterials**|Liyuan Chen, Matthew Fuertes, Bolei Deng|[2502.16006](http://arxiv.org/abs/2502.16006)|null|
 |**2025-02-21**|**String Formation and Arrested Ordering Kinetics in Nematics Induced by Polar Particles**|Pawan Kumar Mishra, Partha Sarathi Mondal, Pratikshya Jena, Shradha Mishra|[2502.15477](http://arxiv.org/abs/2502.15477)|null|
 |**2025-02-21**|**A New Type of MPd5 Kagome Superconductors**|Dan Li, Zhengxuan Wang, Panshi Jing, Mehrdad Shiri, Kun Wang, Chunlan Ma, Shijing Gong, Chuanxi Zhao, Tianxing Wang, Xiao Dong, Lin Zhuang, Wuming Liu, Yipeng An|[2502.15445](http://arxiv.org/abs/2502.15445)|null|
 |**2025-02-21**|**From BPS Spectra of Argyres-Douglas Theories to Families of 3d TFTs**|Byeonggi Go, Qiang Jia, Heeyeon Kim, Sungjoon Kim|[2502.15133](http://arxiv.org/abs/2502.15133)|null|
