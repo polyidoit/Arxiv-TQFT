@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-02-26**|**Cylindrical and Möbius Quantum Codes for Asymmetric Pauli Errors**|Lorenzo Valentini, Diego Forlivesi, Marco Chiani|[2502.19089](http://arxiv.org/abs/2502.19089)|null|
+|**2025-02-26**|**Nested Shadows of Anyons:A Framework for Identifying Topological Phases**|Yun-Tak Oh, Hyun-Yong Lee|[2502.18811](http://arxiv.org/abs/2502.18811)|null|
 |**2025-02-25**|**On the number of minimal and next-to-minimal weight codewords of toric codes over hypersimplices**|Cícero Carvalho, Nupur Patanker|[2502.18084](http://arxiv.org/abs/2502.18084)|null|
 |**2025-02-25**|**Orbital Fulde-Ferrell State versus Orbital Larkin-Ovchinnikov State**|Noah F. Q. Yuan|[2502.18075](http://arxiv.org/abs/2502.18075)|null|
 |**2025-02-24**|**Detecting emergent 1-form symmetries with quantum error correction**|Yu-Jie Liu, Wen-Tao Xu, Frank Pollmann, Michael Knap|[2502.17572](http://arxiv.org/abs/2502.17572)|null|
