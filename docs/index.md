@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-02-27**|**Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions**|Matthew Tamayo-Rios, Alexander Schell, Rima Alaifari|[2502.20392](http://arxiv.org/abs/2502.20392)|null|
+|**2025-02-27**|**Digital Simulation of Non-Abelian Parafermions in Superconducting Circuits**|Hong-Yu Wang, Xiong-Jun Liu|[2502.20254](http://arxiv.org/abs/2502.20254)|null|
+|**2025-02-26**|**Codimension one defects in free scalar field theory**|Seolhwa Kim, Per Kraus, Zhengdi Sun|[2502.19547](http://arxiv.org/abs/2502.19547)|null|
 |**2025-02-26**|**Cylindrical and Möbius Quantum Codes for Asymmetric Pauli Errors**|Lorenzo Valentini, Diego Forlivesi, Marco Chiani|[2502.19089](http://arxiv.org/abs/2502.19089)|null|
 |**2025-02-26**|**Nested Shadows of Anyons:A Framework for Identifying Topological Phases**|Yun-Tak Oh, Hyun-Yong Lee|[2502.18811](http://arxiv.org/abs/2502.18811)|null|
 |**2025-02-25**|**On the number of minimal and next-to-minimal weight codewords of toric codes over hypersimplices**|Cícero Carvalho, Nupur Patanker|[2502.18084](http://arxiv.org/abs/2502.18084)|null|
