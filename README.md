@@ -15,7 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions**|Matthew Tamayo-Rios, Alexander Schell, Rima Alaifari|[2502.20392](http://arxiv.org/abs/2502.20392)|null|
+|**2025-02-28**|**Topological Quantum Dark Matter via Global Anomaly Cancellation**|Juven Wang|[2502.21319](http://arxiv.org/abs/2502.21319)|null|
+|**2025-02-28**|**Self Consistent Field Theory of isotropic-nematic interfaces and disclinations in a semiflexible molecule nematic**|Longyu Qing, Jorge Viñals|[2502.21218](http://arxiv.org/abs/2502.21218)|null|
+|**2025-02-28**|**Melting of non reciprocal solids: how dislocations propel and fission in flowing crystals**|Stéphane Guillet, Alexis Poncet, Marine Le Blay, William. T. M Irvine, Vincenzo Vitelli, Denis Bartolo|[2502.21007](http://arxiv.org/abs/2502.21007)|null|
+|**2025-02-27**|**Universal Anyon Tunneling in a Chiral Luttinger Liquid**|Ramon Guerrero-Suarez, Adithya Suresh, Tanmay Maiti, Shuang Liang, James Nakamura, Geoffrey Gardner, Claudio Chamon, Michael Manfra|[2502.20551](http://arxiv.org/abs/2502.20551)|null|
+|**2025-02-27**|**Gapped Phases in (2+1)d with Non-Invertible Symmetries: Part II**|Lakshya Bhardwaj, Sakura Schafer-Nameki, Apoorv Tiwari, Alison Warman|[2502.20440](http://arxiv.org/abs/2502.20440)|null|
+|**2025-02-27**|**Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions**|Matthew Tamayo-Rios, Alexander Schell, Rima Alaifari|[2502.20392](http://arxiv.org/abs/2502.20392)|**[link](https://github.com/geekbeast/powersig)**|
 |**2025-02-27**|**Digital Simulation of Non-Abelian Parafermions in Superconducting Circuits**|Hong-Yu Wang, Xiong-Jun Liu|[2502.20254](http://arxiv.org/abs/2502.20254)|null|
 |**2025-02-26**|**Codimension one defects in free scalar field theory**|Seolhwa Kim, Per Kraus, Zhengdi Sun|[2502.19547](http://arxiv.org/abs/2502.19547)|null|
 |**2025-02-26**|**Cylindrical and Möbius Quantum Codes for Asymmetric Pauli Errors**|Lorenzo Valentini, Diego Forlivesi, Marco Chiani|[2502.19089](http://arxiv.org/abs/2502.19089)|null|
