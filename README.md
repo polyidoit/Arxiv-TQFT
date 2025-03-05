@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Hardness of computation of quantum invariants on 3-manifolds with restricted topology**|Henrique Ennes, Clément Maria|[2503.02814](http://arxiv.org/abs/2503.02814)|null|
+|**2025-03-04**|**Row and column detection complexities of character tables**|Adrian Padellaro, Sanjaye Ramgoolam, Rak-Kyeong Seong|[2503.02543](http://arxiv.org/abs/2503.02543)|null|
+|**2025-03-04**|**Light Control of Triplet Pairing in Correlated Electrons with Mixed-Sign Interactions**|Zecheng Shen, Chendi Xie, Wei-Chih Chen, Yao Wang|[2503.02294](http://arxiv.org/abs/2503.02294)|null|
+|**2025-03-03**|**Enforced Gaplessness from States with Exponentially Decaying Correlations**|Rahul Sahay, Curt von Keyserlingk, Ruben Verresen, Carolyn Zhang|[2503.01977](http://arxiv.org/abs/2503.01977)|null|
+|**2025-03-03**|**Kelvin waves in nonequilibrium universal dynamics of relativistic scalar field theories**|Viktoria Noel, Thomas Gasenzer, Kirill Boguslavski|[2503.01771](http://arxiv.org/abs/2503.01771)|null|
+|**2025-03-03**|**Haldane Fractional Statistics for 1D Heisenberg Spin XXX Chain**|Wei-Jia Liu, Jia-Jia Luo, Xi-Wen Guan|[2503.01356](http://arxiv.org/abs/2503.01356)|null|
+|**2025-03-02**|**Nonadiabatic braiding of Majorana modes**|Fei Yu, P. Z. Zhao, Jiangbin Gong|[2503.00953](http://arxiv.org/abs/2503.00953)|null|
+|**2025-03-01**|**Correlated hopping induced topological order in an atomic mixture**|Ashirbad Padhan, Luca Barbiero, Tapan Mishra|[2503.00589](http://arxiv.org/abs/2503.00589)|null|
 |**2025-02-28**|**Topological Quantum Dark Matter via Global Anomaly Cancellation**|Juven Wang|[2502.21319](http://arxiv.org/abs/2502.21319)|null|
 |**2025-02-28**|**Self Consistent Field Theory of isotropic-nematic interfaces and disclinations in a semiflexible molecule nematic**|Longyu Qing, Jorge Viñals|[2502.21218](http://arxiv.org/abs/2502.21218)|null|
 |**2025-02-28**|**Melting of non reciprocal solids: how dislocations propel and fission in flowing crystals**|Stéphane Guillet, Alexis Poncet, Marine Le Blay, William. T. M Irvine, Vincenzo Vitelli, Denis Bartolo|[2502.21007](http://arxiv.org/abs/2502.21007)|null|
