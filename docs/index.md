@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-05**|**Anti Kibble-Zurek behavior in the quantum XY spin-1/2 chain driven by correlated noisy magnetic field and anisotropy**|S. Sadeghizade, R. Jafari, A. Langari|[2503.03409](http://arxiv.org/abs/2503.03409)|null|
+|**2025-03-05**|**Periodic Cosmic String Formation and Dynamics**|Michael A. Fedderke, Junwu Huang, Nils Siemonsen|[2503.03116](http://arxiv.org/abs/2503.03116)|null|
+|**2025-03-04**|**Finite-temperature quantum topological order in three dimensions**|Shu-Tong Zhou, Meng Cheng, Tibor Rakovszky, Curt von Keyserlingk, Tyler D. Ellison|[2503.02928](http://arxiv.org/abs/2503.02928)|null|
 |**2025-03-04**|**Hardness of computation of quantum invariants on 3-manifolds with restricted topology**|Henrique Ennes, Clément Maria|[2503.02814](http://arxiv.org/abs/2503.02814)|null|
 |**2025-03-04**|**Row and column detection complexities of character tables**|Adrian Padellaro, Sanjaye Ramgoolam, Rak-Kyeong Seong|[2503.02543](http://arxiv.org/abs/2503.02543)|null|
 |**2025-03-04**|**Light Control of Triplet Pairing in Correlated Electrons with Mixed-Sign Interactions**|Zecheng Shen, Chendi Xie, Wei-Chih Chen, Yao Wang|[2503.02294](http://arxiv.org/abs/2503.02294)|null|
