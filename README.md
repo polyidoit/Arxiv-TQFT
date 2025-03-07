@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes**|Keyang Chen, Yuanting Liu, Yiming Zhang, Zijian Liang, Yu-An Chen, Ke Liu, Hao Song|[2503.04699](http://arxiv.org/abs/2503.04699)|null|
+|**2025-03-06**|**Long-range nonstabilizerness from topology and correlation**|Fuchuan Wei, Zi-Wen Liu|[2503.04566](http://arxiv.org/abs/2503.04566)|null|
+|**2025-03-06**|**Symmetry Topological Field Theory for Flavor Symmetry**|Qiang Jia, Ran Luo, Jiahua Tian, Yi-Nan Wang, Yi Zhang|[2503.04546](http://arxiv.org/abs/2503.04546)|null|
+|**2025-03-05**|**Generalized toric codes on twisted tori for quantum error correction**|Zijian Liang, Ke Liu, Hao Song, Yu-An Chen|[2503.03827](http://arxiv.org/abs/2503.03827)|null|
 |**2025-03-05**|**Anti Kibble-Zurek behavior in the quantum XY spin-1/2 chain driven by correlated noisy magnetic field and anisotropy**|S. Sadeghizade, R. Jafari, A. Langari|[2503.03409](http://arxiv.org/abs/2503.03409)|null|
 |**2025-03-05**|**Periodic Cosmic String Formation and Dynamics**|Michael A. Fedderke, Junwu Huang, Nils Siemonsen|[2503.03116](http://arxiv.org/abs/2503.03116)|null|
 |**2025-03-04**|**Finite-temperature quantum topological order in three dimensions**|Shu-Tong Zhou, Meng Cheng, Tibor Rakovszky, Curt von Keyserlingk, Tyler D. Ellison|[2503.02928](http://arxiv.org/abs/2503.02928)|null|
