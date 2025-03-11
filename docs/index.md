@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-09**|**On the Representation Categories of Weak Hopf Algebras Arising from Levin-Wen Models**|Ansi Bai, Zhi-Hao Zhang|[2503.06731](http://arxiv.org/abs/2503.06731)|null|
+|**2025-03-09**|**Don't look back: Ordering and defect cloaking in non-reciprocal lattice XY models**|Pankaj Popli, Ananyo Maitra, Sriram Ramaswamy|[2503.06480](http://arxiv.org/abs/2503.06480)|null|
+|**2025-03-08**|**$\mathbb{Z}_2$ Vortex Crystals and Topological Magnons in a Tetrahedral Antiferromagnet**|Tomoki Hirosawa, Alexander Mook, Maria Azhar|[2503.06008](http://arxiv.org/abs/2503.06008)|null|
 |**2025-03-07**|**Preparing Tetra-Digit Long-Range Entangled States via Unified Sequential Quantum Circuit**|Yu-Tao Hu, Meng-Yuan Li, Peng Ye|[2503.05374](http://arxiv.org/abs/2503.05374)|null|
 |**2025-03-06**|**Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes**|Keyang Chen, Yuanting Liu, Yiming Zhang, Zijian Liang, Yu-An Chen, Ke Liu, Hao Song|[2503.04699](http://arxiv.org/abs/2503.04699)|null|
 |**2025-03-06**|**Long-range nonstabilizerness from topology and correlation**|Fuchuan Wei, Zi-Wen Liu|[2503.04566](http://arxiv.org/abs/2503.04566)|null|
