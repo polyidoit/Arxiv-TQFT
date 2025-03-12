@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Contribution of Geometry and Non-Abelian Gauge Fields to Aharonov-Bohm Scattering of Massless Fermions in Graphene with Disclinations**|M. J. Bueno, G. Q. Garcia, A. M. de M. Carvalho, C. Furtado|[2503.08414](http://arxiv.org/abs/2503.08414)|null|
+|**2025-03-10**|**Majorana polarization in disordered heterostructures**|Shubhanshu Karoliya, Sumanta Tewari, Gargee Sharma|[2503.07721](http://arxiv.org/abs/2503.07721)|null|
+|**2025-03-10**|**Robustness of Vacancy-Bound Non-Abelian Anyons in the Kitaev Model in a Magnetic Field**|Bo Xiao, Gonzalo Alvarez, Gábor Halász|[2503.07716](http://arxiv.org/abs/2503.07716)|null|
 |**2025-03-09**|**On the Representation Categories of Weak Hopf Algebras Arising from Levin-Wen Models**|Ansi Bai, Zhi-Hao Zhang|[2503.06731](http://arxiv.org/abs/2503.06731)|null|
 |**2025-03-09**|**Don't look back: Ordering and defect cloaking in non-reciprocal lattice XY models**|Pankaj Popli, Ananyo Maitra, Sriram Ramaswamy|[2503.06480](http://arxiv.org/abs/2503.06480)|null|
 |**2025-03-08**|**$\mathbb{Z}_2$ Vortex Crystals and Topological Magnons in a Tetrahedral Antiferromagnet**|Tomoki Hirosawa, Alexander Mook, Maria Azhar|[2503.06008](http://arxiv.org/abs/2503.06008)|null|
