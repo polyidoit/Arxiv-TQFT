@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**A Tutorial on Knots and Quantum Mechanics**|Dmitry Melnikov|[2503.08846](http://arxiv.org/abs/2503.08846)|null|
+|**2025-03-11**|**Are dark matter and dark energy omnipresent?**|Richard Lieu|[2503.08733](http://arxiv.org/abs/2503.08733)|null|
 |**2025-03-11**|**Contribution of Geometry and Non-Abelian Gauge Fields to Aharonov-Bohm Scattering of Massless Fermions in Graphene with Disclinations**|M. J. Bueno, G. Q. Garcia, A. M. de M. Carvalho, C. Furtado|[2503.08414](http://arxiv.org/abs/2503.08414)|null|
 |**2025-03-10**|**Majorana polarization in disordered heterostructures**|Shubhanshu Karoliya, Sumanta Tewari, Gargee Sharma|[2503.07721](http://arxiv.org/abs/2503.07721)|null|
 |**2025-03-10**|**Robustness of Vacancy-Bound Non-Abelian Anyons in the Kitaev Model in a Magnetic Field**|Bo Xiao, Gonzalo Alvarez, Gábor Halász|[2503.07716](http://arxiv.org/abs/2503.07716)|null|
