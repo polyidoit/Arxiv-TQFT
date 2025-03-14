@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-13**|**Strong-to-weak spontaneous symmetry breaking and average symmetry protected topological order in the doubled Hilbert space**|Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose|[2503.10311](http://arxiv.org/abs/2503.10311)|null|
+|**2025-03-12**|**Altermagnets with topological order in Kitaev bilayers**|Aayush Vijayvargia, Ezra Day-Roberts, Antia S. Botana, Onur Erten|[2503.09705](http://arxiv.org/abs/2503.09705)|null|
 |**2025-03-11**|**A Tutorial on Knots and Quantum Mechanics**|Dmitry Melnikov|[2503.08846](http://arxiv.org/abs/2503.08846)|null|
 |**2025-03-11**|**Are dark matter and dark energy omnipresent?**|Richard Lieu|[2503.08733](http://arxiv.org/abs/2503.08733)|null|
 |**2025-03-11**|**Contribution of Geometry and Non-Abelian Gauge Fields to Aharonov-Bohm Scattering of Massless Fermions in Graphene with Disclinations**|M. J. Bueno, G. Q. Garcia, A. M. de M. Carvalho, C. Furtado|[2503.08414](http://arxiv.org/abs/2503.08414)|null|
