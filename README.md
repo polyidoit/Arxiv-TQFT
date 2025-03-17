@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.03.16
+> Automatically updated on 2025.03.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-13**|**Strong-to-weak spontaneous symmetry breaking and average symmetry protected topological order in the doubled Hilbert space**|Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose|[2503.10311](http://arxiv.org/abs/2503.10311)|null|
 |**2025-03-12**|**Altermagnets with topological order in Kitaev bilayers**|Aayush Vijayvargia, Ezra Day-Roberts, Antia S. Botana, Onur Erten|[2503.09705](http://arxiv.org/abs/2503.09705)|null|
-|**2025-03-12**|**Impact of the Center of Mass Fluctuations on the Ground State Properties of Nuclei**|Matthew Kafker, Aurel Bulgac|[2503.09470](http://arxiv.org/abs/2503.09470)|null|
+|**2025-03-13**|**Impact of the Center of Mass Fluctuations on the Ground State Properties of Nuclei**|Matthew Kafker, Aurel Bulgac|[2503.09470](http://arxiv.org/abs/2503.09470)|null|
 |**2025-03-11**|**A Tutorial on Knots and Quantum Mechanics**|Dmitry Melnikov|[2503.08846](http://arxiv.org/abs/2503.08846)|null|
 |**2025-03-11**|**Are dark matter and dark energy omnipresent?**|Richard Lieu|[2503.08733](http://arxiv.org/abs/2503.08733)|null|
 |**2025-03-11**|**Contribution of Geometry and Non-Abelian Gauge Fields to Aharonov-Bohm Scattering of Massless Fermions in Graphene with Disclinations**|M. J. Bueno, G. Q. Garcia, A. M. de M. Carvalho, C. Furtado|[2503.08414](http://arxiv.org/abs/2503.08414)|null|
@@ -413,5 +413,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
