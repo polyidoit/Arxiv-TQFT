@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-14**|**Complex Magnetic Ordering in Candidate Topological Superconductors**|Purnima P. Balakrishnan, Hemian Yi, Zi-Jie Yan, Wei Yuan, Andreas Suter, Christopher J. Jensen, Pascal Manuel, Fabio Orlandi, Takayasu Hanashima, Christy J. Kinane, Andrew J. Caruana, Brian B. Maranville, Zaher Salman, Thomas Prokscha, Cui-Zu Chang, Alexander J. Grutter|[2503.11502](http://arxiv.org/abs/2503.11502)|null|
+|**2025-03-13**|**Finding Hidden Numbers with Majorana-based Topological Quantum Algorithms: Simulation of the Bernstein-Vazirani Algorithm**|Jasmin Bedow, Dirk K. Morr|[2503.10770](http://arxiv.org/abs/2503.10770)|null|
 |**2025-03-13**|**Strong-to-weak spontaneous symmetry breaking and average symmetry protected topological order in the doubled Hilbert space**|Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose|[2503.10311](http://arxiv.org/abs/2503.10311)|null|
 |**2025-03-12**|**Altermagnets with topological order in Kitaev bilayers**|Aayush Vijayvargia, Ezra Day-Roberts, Antia S. Botana, Onur Erten|[2503.09705](http://arxiv.org/abs/2503.09705)|null|
 |**2025-03-13**|**Impact of the Center of Mass Fluctuations on the Ground State Properties of Nuclei**|Matthew Kafker, Aurel Bulgac|[2503.09470](http://arxiv.org/abs/2503.09470)|null|
