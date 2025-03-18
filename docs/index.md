@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen, Mao Lin, Cedric Yen-Yu Lin, Di Xiao, Ting Cao|[2503.13294](http://arxiv.org/abs/2503.13294)|null|
+|**2025-03-17**|**Higher-form anomaly and long-range entanglement of mixed states**|Leonardo A. Lessa, Shengqi Sang, Tsung-Cheng Lu, Timothy H. Hsieh, Chong Wang|[2503.12792](http://arxiv.org/abs/2503.12792)|null|
+|**2025-03-16**|**Gapless Phases in (2+1)d with Non-Invertible Symmetries**|Lakshya Bhardwaj, Yuhan Gai, Sheng-Jie Huang, Kansei Inamura, Sakura Schafer-Nameki, Apoorv Tiwari, Alison Warman|[2503.12699](http://arxiv.org/abs/2503.12699)|null|
+|**2025-03-16**|**Stability of Majorana modes in Coulomb-disordered topological insulator nanowires**|Leonard Kaufhold, Achim Rosch|[2503.12671](http://arxiv.org/abs/2503.12671)|null|
+|**2025-03-16**|**Spiral spin liquid in a frustrated honeycomb antiferromagnet: A single-crystal study of GdZnPO**|Zongtang Wan, Yuqian Zhao, Xun Chen, Zhaohua Ma, Zikang Li, Zhongwen Ouyang, Yuesheng Li|[2503.12396](http://arxiv.org/abs/2503.12396)|null|
+|**2025-03-14**|**Perturbations in pseudo-Nambu-Goldstone Higgs Inflation**|Stephon Alexander, Humberto Gilmer, Cooper Niu|[2503.11755](http://arxiv.org/abs/2503.11755)|null|
 |**2025-03-14**|**Complex Magnetic Ordering in Candidate Topological Superconductors**|Purnima P. Balakrishnan, Hemian Yi, Zi-Jie Yan, Wei Yuan, Andreas Suter, Christopher J. Jensen, Pascal Manuel, Fabio Orlandi, Takayasu Hanashima, Christy J. Kinane, Andrew J. Caruana, Brian B. Maranville, Zaher Salman, Thomas Prokscha, Cui-Zu Chang, Alexander J. Grutter|[2503.11502](http://arxiv.org/abs/2503.11502)|null|
 |**2025-03-13**|**Finding Hidden Numbers with Majorana-based Topological Quantum Algorithms: Simulation of the Bernstein-Vazirani Algorithm**|Jasmin Bedow, Dirk K. Morr|[2503.10770](http://arxiv.org/abs/2503.10770)|null|
 |**2025-03-13**|**Strong-to-weak spontaneous symmetry breaking and average symmetry protected topological order in the doubled Hilbert space**|Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose|[2503.10311](http://arxiv.org/abs/2503.10311)|null|
