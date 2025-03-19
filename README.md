@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Inescapable anisotropy of non-reciprocal XY models**|Dawid Dopierala, Hugues Chaté, Xia-qing Shi, Alexandre Solon|[2503.14466](http://arxiv.org/abs/2503.14466)|null|
+|**2025-03-17**|**Topological Holography for 2+1-D Gapped and Gapless Phases with Generalized Symmetries**|Rui Wen|[2503.13685](http://arxiv.org/abs/2503.13685)|null|
+|**2025-03-17**|**On the Explicit Asymptotic Symmetry Breaking of sl(3,R) Jackiw-Teitelboim Gravity**|H. T. Özer, Aytül Filiz|[2503.13680](http://arxiv.org/abs/2503.13680)|null|
+|**2025-03-17**|**Doubly-polylog-time-overhead fault-tolerant quantum computation by a polylog-time parallel minimum-weight perfect matching decoder**|Yugo Takada, Hayata Yamasaki|[2503.13601](http://arxiv.org/abs/2503.13601)|null|
 |**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen, Mao Lin, Cedric Yen-Yu Lin, Di Xiao, Ting Cao|[2503.13294](http://arxiv.org/abs/2503.13294)|null|
 |**2025-03-17**|**Higher-form anomaly and long-range entanglement of mixed states**|Leonardo A. Lessa, Shengqi Sang, Tsung-Cheng Lu, Timothy H. Hsieh, Chong Wang|[2503.12792](http://arxiv.org/abs/2503.12792)|null|
 |**2025-03-16**|**Gapless Phases in (2+1)d with Non-Invertible Symmetries**|Lakshya Bhardwaj, Yuhan Gai, Sheng-Jie Huang, Kansei Inamura, Sakura Schafer-Nameki, Apoorv Tiwari, Alison Warman|[2503.12699](http://arxiv.org/abs/2503.12699)|null|
