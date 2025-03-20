@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali, Henry Shackleton, Zhu-Xi Luo, Michael Lawler|[2503.15483](http://arxiv.org/abs/2503.15483)|null|
+|**2025-03-19**|**Quasi- $Φ_0$ -periodic supercurrent at quantum Hall transitions**|Ivan Villani, Matteo Carrega, Alessandro Crippa, Elia Strambini, Francesco Giazotto, Vaidotas Miseikis, Camilla Coletti, Fabio Beltram, Kenji Watanabe, Takashi Taniguchi, Stefan Heun, Sergio Pezzini|[2503.15384](http://arxiv.org/abs/2503.15384)|null|
+|**2025-03-19**|**Phases and propagation of closed p-brane**|Kiyoharu Kawana|[2503.14902](http://arxiv.org/abs/2503.14902)|null|
 |**2025-03-18**|**Inescapable anisotropy of non-reciprocal XY models**|Dawid Dopierala, Hugues Chaté, Xia-qing Shi, Alexandre Solon|[2503.14466](http://arxiv.org/abs/2503.14466)|null|
 |**2025-03-17**|**Topological Holography for 2+1-D Gapped and Gapless Phases with Generalized Symmetries**|Rui Wen|[2503.13685](http://arxiv.org/abs/2503.13685)|null|
 |**2025-03-17**|**On the Explicit Asymptotic Symmetry Breaking of sl(3,R) Jackiw-Teitelboim Gravity**|H. T. Özer, Aytül Filiz|[2503.13680](http://arxiv.org/abs/2503.13680)|null|
