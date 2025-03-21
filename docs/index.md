@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-20**|**Anisotropic Topological Field Theory**|Emil Albrychiewicz, Andrés Franco Valiente|[2503.15856](http://arxiv.org/abs/2503.15856)|null|
+|**2025-03-20**|**From Paramagnet to Dipolar Topological Order via Duality and Dipolar SPT**|Jintae Kim, Jong Yeon Lee, Jung Hoon Han|[2503.15834](http://arxiv.org/abs/2503.15834)|null|
+|**2025-03-19**|**Universal fault tolerant quantum computation in 2D without getting tied in knots**|Margarita Davydova, Andreas Bauer, Julio C. Magdalena de la Fuente, Mark Webster, Dominic J. Williamson, Benjamin J. Brown|[2503.15751](http://arxiv.org/abs/2503.15751)|null|
+|**2025-03-19**|**The category of anyon sectors for non-abelian quantum double models**|Alex Bols, Mahdie Hamdan, Pieter Naaijkens, Siddharth Vadnerkar|[2503.15611](http://arxiv.org/abs/2503.15611)|null|
 |**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali, Henry Shackleton, Zhu-Xi Luo, Michael Lawler|[2503.15483](http://arxiv.org/abs/2503.15483)|null|
 |**2025-03-19**|**Quasi- $Φ_0$ -periodic supercurrent at quantum Hall transitions**|Ivan Villani, Matteo Carrega, Alessandro Crippa, Elia Strambini, Francesco Giazotto, Vaidotas Miseikis, Camilla Coletti, Fabio Beltram, Kenji Watanabe, Takashi Taniguchi, Stefan Heun, Sergio Pezzini|[2503.15384](http://arxiv.org/abs/2503.15384)|null|
 |**2025-03-19**|**Phases and propagation of closed p-brane**|Kiyoharu Kawana|[2503.14902](http://arxiv.org/abs/2503.14902)|null|
