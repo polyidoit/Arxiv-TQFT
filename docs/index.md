@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-21**|**Topological order in symmetric blockade structures**|Tobias F. Maier, Hans Peter Büchler, Nicolai Lang|[2503.17123](http://arxiv.org/abs/2503.17123)|null|
+|**2025-03-21**|**Modified instanton sum and 4-group structure in 4d $\mathcal{N}=1$ $SU(M)$ SYM from holography**|Marwan Najjar|[2503.17108](http://arxiv.org/abs/2503.17108)|null|
+|**2025-03-21**|**Anyon braiding on the single edge of a fractional quantum Hall state**|Flavio Ronetti, Noé Demazure, Jérôme Rech, Thibaut Jonckheere, Benôit Grémaud, Laurent Raymond, Masayuki Hashisaka, Takeo Kato, Thierry Martin|[2503.17008](http://arxiv.org/abs/2503.17008)|null|
+|**2025-03-20**|**High-quality Peccei-Quinn symmetry from the interplay of vertical and horizontal gauge symmetries**|Luca Di Luzio, Giacomo Landini, Federico Mescia, Vasja Susič|[2503.16648](http://arxiv.org/abs/2503.16648)|null|
 |**2025-03-20**|**Anisotropic Topological Field Theory**|Emil Albrychiewicz, Andrés Franco Valiente|[2503.15856](http://arxiv.org/abs/2503.15856)|null|
 |**2025-03-20**|**From Paramagnet to Dipolar Topological Order via Duality and Dipolar SPT**|Jintae Kim, Jong Yeon Lee, Jung Hoon Han|[2503.15834](http://arxiv.org/abs/2503.15834)|null|
 |**2025-03-19**|**Universal fault tolerant quantum computation in 2D without getting tied in knots**|Margarita Davydova, Andreas Bauer, Julio C. Magdalena de la Fuente, Mark Webster, Dominic J. Williamson, Benjamin J. Brown|[2503.15751](http://arxiv.org/abs/2503.15751)|null|
