@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-24**|**A Promising Method for Strongly Correlated Electrons in Two Dimensions: Gutzwiller-Guided Density Matrix Renormalization Group**|Hui-Ke Jin, Rong-Yang Sun, Hong-Hao Tu, Yi Zhou|[2503.18374](http://arxiv.org/abs/2503.18374)|null|
+|**2025-03-24**|**Magnetic Monopoles and Exotic States in $SU(4)_c \times SU(2)_L \times SU(2)_R$**|Thomas W. Kephart, Qaisar Shafi|[2503.18321](http://arxiv.org/abs/2503.18321)|null|
+|**2025-03-24**|**Restoration of residual gauge symmetries due to topological defects and color confinement in the Lorenz gauge**|Naoki Fukushima, Kei-Ichi Kondo|[2503.18252](http://arxiv.org/abs/2503.18252)|null|
+|**2025-03-23**|**On the Topological Nature of the Butterfly Effect**|Igor V. Ovchinnikov|[2503.18124](http://arxiv.org/abs/2503.18124)|null|
 |**2025-03-21**|**Topological order in symmetric blockade structures**|Tobias F. Maier, Hans Peter Büchler, Nicolai Lang|[2503.17123](http://arxiv.org/abs/2503.17123)|null|
 |**2025-03-21**|**Modified instanton sum and 4-group structure in 4d $\mathcal{N}=1$ $SU(M)$ SYM from holography**|Marwan Najjar|[2503.17108](http://arxiv.org/abs/2503.17108)|null|
 |**2025-03-21**|**Anyon braiding on the single edge of a fractional quantum Hall state**|Flavio Ronetti, Noé Demazure, Jérôme Rech, Thibaut Jonckheere, Benôit Grémaud, Laurent Raymond, Masayuki Hashisaka, Takeo Kato, Thierry Martin|[2503.17008](http://arxiv.org/abs/2503.17008)|null|
