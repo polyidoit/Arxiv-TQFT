@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-25**|**Topological kicks enhance colloidal diffusivity in topological turbulence**|Timofey Kozhukhov, Benjamin Loewe, Kristian Thijssen, Tyler N. Shendruk|[2503.19664](http://arxiv.org/abs/2503.19664)|null|
+|**2025-03-24**|**Theory for Lattice Relaxation in Marginal Twist Moirés**|Christophe De Beule, Gayani N. Pallewela, Mohammed M. Al Ezzi, Liangtao Peng, E. J. Mele, Shaffique Adam|[2503.19162](http://arxiv.org/abs/2503.19162)|null|
+|**2025-03-24**|**Symmetries Beyond Branes: Geometric Engineering and Isometries**|Mario De Marco, Shani Nadir Meynet|[2503.19022](http://arxiv.org/abs/2503.19022)|null|
 |**2025-03-24**|**A Promising Method for Strongly Correlated Electrons in Two Dimensions: Gutzwiller-Guided Density Matrix Renormalization Group**|Hui-Ke Jin, Rong-Yang Sun, Hong-Hao Tu, Yi Zhou|[2503.18374](http://arxiv.org/abs/2503.18374)|null|
 |**2025-03-24**|**Magnetic Monopoles and Exotic States in $SU(4)_c \times SU(2)_L \times SU(2)_R$**|Thomas W. Kephart, Qaisar Shafi|[2503.18321](http://arxiv.org/abs/2503.18321)|null|
 |**2025-03-24**|**Restoration of residual gauge symmetries due to topological defects and color confinement in the Lorenz gauge**|Naoki Fukushima, Kei-Ichi Kondo|[2503.18252](http://arxiv.org/abs/2503.18252)|null|
