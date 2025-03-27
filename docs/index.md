@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-26**|**Topological Degeneracy Induced Flat Bands in two-Dimensional Holed Systems**|Yuge Chen, Hui Yu, Yun-Peng Huang, Zhen-Yu Zheng, Jiangping Hu|[2503.20389](http://arxiv.org/abs/2503.20389)|null|
+|**2025-03-26**|**Packaged Quantum States and Symmetry: A Group-Theoretic Framework for Gauge-Invariant Packaged Entanglements**|Rongchao Ma|[2503.20295](http://arxiv.org/abs/2503.20295)|null|
 |**2025-03-25**|**Topological kicks enhance colloidal diffusivity in topological turbulence**|Timofey Kozhukhov, Benjamin Loewe, Kristian Thijssen, Tyler N. Shendruk|[2503.19664](http://arxiv.org/abs/2503.19664)|null|
 |**2025-03-24**|**Theory for Lattice Relaxation in Marginal Twist Moirés**|Christophe De Beule, Gayani N. Pallewela, Mohammed M. Al Ezzi, Liangtao Peng, E. J. Mele, Shaffique Adam|[2503.19162](http://arxiv.org/abs/2503.19162)|null|
 |**2025-03-24**|**Symmetries Beyond Branes: Geometric Engineering and Isometries**|Mario De Marco, Shani Nadir Meynet|[2503.19022](http://arxiv.org/abs/2503.19022)|null|
