@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-27**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy, Xiao-Gang Wen|[2503.21764](http://arxiv.org/abs/2503.21764)|null|
+|**2025-03-27**|**Four-twist effects on excitations in symmetric orbifold CFTs**|Bin Guo, Shaun D. Hampton|[2503.21644](http://arxiv.org/abs/2503.21644)|null|
+|**2025-03-27**|**Discrete inclusions from Cuntz-Pimsner algebras**|Roberto Hernández Palomares|[2503.21515](http://arxiv.org/abs/2503.21515)|null|
+|**2025-03-27**|**A $B-$anomaly motivated $Z^\prime$ boson at the energy and precision frontiers**|Ben Allanach, Christoph Englert, Wrishik Naskar|[2503.21319](http://arxiv.org/abs/2503.21319)|null|
+|**2025-03-27**|**Lepton collider imprints of Inelastic dark matter model**|Wei Liu, Jin Sun|[2503.21083](http://arxiv.org/abs/2503.21083)|null|
+|**2025-03-26**|**Non-invertible symmetries of two-dimensional Non-Linear Sigma Models**|Guillermo Arias-Tamargo, Chris Hull, Maxwell L. Velásquez Cotini Hutt|[2503.20865](http://arxiv.org/abs/2503.20865)|null|
 |**2025-03-26**|**Topological Degeneracy Induced Flat Bands in two-Dimensional Holed Systems**|Yuge Chen, Hui Yu, Yun-Peng Huang, Zhen-Yu Zheng, Jiangping Hu|[2503.20389](http://arxiv.org/abs/2503.20389)|null|
 |**2025-03-26**|**Packaged Quantum States and Symmetry: A Group-Theoretic Framework for Gauge-Invariant Packaged Entanglements**|Rongchao Ma|[2503.20295](http://arxiv.org/abs/2503.20295)|null|
 |**2025-03-25**|**Topological kicks enhance colloidal diffusivity in topological turbulence**|Timofey Kozhukhov, Benjamin Loewe, Kristian Thijssen, Tyler N. Shendruk|[2503.19664](http://arxiv.org/abs/2503.19664)|null|
