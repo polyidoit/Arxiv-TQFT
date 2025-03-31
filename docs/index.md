@@ -1,8 +1,8 @@
-> Automatically updated on 2025.03.30
+> Automatically updated on 2025.03.31
 
 ## TQFT, Topological order, Generalized symmetry
 
-|**2025-03-27**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy, Xiao-Gang Wen|[2503.21764](http://arxiv.org/abs/2503.21764)|null|
+|**2025-03-28**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy, Xiao-Gang Wen|[2503.21764](http://arxiv.org/abs/2503.21764)|null|
 |**2025-03-27**|**Four-twist effects on excitations in symmetric orbifold CFTs**|Bin Guo, Shaun D. Hampton|[2503.21644](http://arxiv.org/abs/2503.21644)|null|
 |**2025-03-27**|**Discrete inclusions from Cuntz-Pimsner algebras**|Roberto Hernández Palomares|[2503.21515](http://arxiv.org/abs/2503.21515)|null|
 |**2025-03-27**|**A $B-$anomaly motivated $Z^\prime$ boson at the energy and precision frontiers**|Ben Allanach, Christoph Englert, Wrishik Naskar|[2503.21319](http://arxiv.org/abs/2503.21319)|null|
