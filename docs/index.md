@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-28**|**Zero-homogeneous and $O(2)$ -equivariant critical points of the Oseen-Frank energy with multiple Frank constants**|Luc Nguyen|[2503.22599](http://arxiv.org/abs/2503.22599)|null|
+|**2025-03-27**|**Shape instabilities driven by topological defects in nematic polymer networks**|Silvia Paparini, Giulio G. Giusteri, L. Angela Mihai|[2503.21941](http://arxiv.org/abs/2503.21941)|null|
+|**2025-03-27**|**Most topological orders forbid sign-problem-free quantum Monte Carlo: Nonpositive Gauss sum as an indicator**|Donghae Seo, Minyoung You, Hee-Cheol Kim, Gil Young Cho|[2503.21925](http://arxiv.org/abs/2503.21925)|null|
+|**2025-03-27**|**Decomposition and (Non-Invertible) (-1)-Form Symmetries from the Symmetry Topological Field Theory**|Ling Lin, Daniel Robbins, Subham Roy|[2503.21862](http://arxiv.org/abs/2503.21862)|null|
 |**2025-03-28**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy, Xiao-Gang Wen|[2503.21764](http://arxiv.org/abs/2503.21764)|null|
 |**2025-03-27**|**Four-twist effects on excitations in symmetric orbifold CFTs**|Bin Guo, Shaun D. Hampton|[2503.21644](http://arxiv.org/abs/2503.21644)|null|
 |**2025-03-27**|**Discrete inclusions from Cuntz-Pimsner algebras**|Roberto Hernández Palomares|[2503.21515](http://arxiv.org/abs/2503.21515)|null|
