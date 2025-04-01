@@ -2,6 +2,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-03-31**|**Tunable macroscopic defect patterns induced by a low-frequency AC electric field in ferroelectric nematic liquid crystals**|Natalia Podoliak, Lubor Lejcek, Martin Cigl, Vladimira Novotna|[2503.24176](http://arxiv.org/abs/2503.24176)|null|
+|**2025-03-31**|**Classification of Modular Symmetries in Non-Supersymmetric Heterotic String theories**|Shuta Funakoshi, Yuichi Koga, Hajime Otsuka|[2503.23741](http://arxiv.org/abs/2503.23741)|null|
+|**2025-03-30**|**Representations of knot groups in $\textrm{AGL}_{1}(\mathbb{C})$ and Alexander invariants**|Ángel González-Prieto, Javier Martínez, Vicente Muñoz|[2503.23364](http://arxiv.org/abs/2503.23364)|null|
+|**2025-03-29**|**Fluctuations and Correlations of Local Topological Order Parameters in Disordered Two-dimensional Topological Insulators**|Roberta Favata, Nicolas Baù, Antimo Marrazzo|[2503.23188](http://arxiv.org/abs/2503.23188)|null|
+|**2025-03-28**|**A Topological Superconductor Tuned by Electronic Correlations**|Haoran Lin, Christopher L. Jacobs, Chenhui Yan, Gillian M. Nolan, Gabriele Berruto, Patrick Singleton, Khanh Duy Nguyen, Yunhe Bai, Qiang Gao, Xianxin Wu, Chao-Xing Liu, Gangbin Yan, Suin Choi, Chong Liu, Nathan P. Guisinger, Pinshane Y. Huang, Subhasish Mandal, Shuolong Yang|[2503.22888](http://arxiv.org/abs/2503.22888)|null|
+|**2025-03-28**|**Detection of anyon braiding through pump-probe spectroscopy**|Xu Yang, Ryan Buechele, Nandini Trivedi|[2503.22792](http://arxiv.org/abs/2503.22792)|null|
+|**2025-03-28**|**Entropic Order**|Yiqiu Han, Xiaoyang Huang, Zohar Komargodski, Andrew Lucas, Fedor K. Popov|[2503.22789](http://arxiv.org/abs/2503.22789)|null|
 |**2025-03-28**|**Zero-homogeneous and $O(2)$ -equivariant critical points of the Oseen-Frank energy with multiple Frank constants**|Luc Nguyen|[2503.22599](http://arxiv.org/abs/2503.22599)|null|
 |**2025-03-27**|**Shape instabilities driven by topological defects in nematic polymer networks**|Silvia Paparini, Giulio G. Giusteri, L. Angela Mihai|[2503.21941](http://arxiv.org/abs/2503.21941)|null|
 |**2025-03-27**|**Most topological orders forbid sign-problem-free quantum Monte Carlo: Nonpositive Gauss sum as an indicator**|Donghae Seo, Minyoung You, Hee-Cheol Kim, Gil Young Cho|[2503.21925](http://arxiv.org/abs/2503.21925)|null|
