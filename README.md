@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.03.31
+> Automatically updated on 2025.04.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,7 +20,7 @@ layout: default
 |**2025-03-27**|**Most topological orders forbid sign-problem-free quantum Monte Carlo: Nonpositive Gauss sum as an indicator**|Donghae Seo, Minyoung You, Hee-Cheol Kim, Gil Young Cho|[2503.21925](http://arxiv.org/abs/2503.21925)|null|
 |**2025-03-27**|**Decomposition and (Non-Invertible) (-1)-Form Symmetries from the Symmetry Topological Field Theory**|Ling Lin, Daniel Robbins, Subham Roy|[2503.21862](http://arxiv.org/abs/2503.21862)|null|
 |**2025-03-28**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy, Xiao-Gang Wen|[2503.21764](http://arxiv.org/abs/2503.21764)|null|
-|**2025-03-27**|**Four-twist effects on excitations in symmetric orbifold CFTs**|Bin Guo, Shaun D. Hampton|[2503.21644](http://arxiv.org/abs/2503.21644)|null|
+|**2025-03-30**|**Four-twist effects on excitations in symmetric orbifold CFTs**|Bin Guo, Shaun D. Hampton|[2503.21644](http://arxiv.org/abs/2503.21644)|null|
 |**2025-03-27**|**Discrete inclusions from Cuntz-Pimsner algebras**|Roberto Hernández Palomares|[2503.21515](http://arxiv.org/abs/2503.21515)|null|
 |**2025-03-27**|**A $B-$anomaly motivated $Z^\prime$ boson at the energy and precision frontiers**|Ben Allanach, Christoph Englert, Wrishik Naskar|[2503.21319](http://arxiv.org/abs/2503.21319)|null|
 |**2025-03-27**|**Lepton collider imprints of Inelastic dark matter model**|Wei Liu, Jin Sun|[2503.21083](http://arxiv.org/abs/2503.21083)|null|
@@ -455,5 +455,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
