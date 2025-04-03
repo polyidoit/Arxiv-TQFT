@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-04-02**|**A Dilaton Sum Rule for the Conformal Anomaly Form Factor in QCD at Order $α_s$**|Claudio Corianò, Stefano Lionetti, Dario Melle, Leonardo Torcellini|[2504.01904](http://arxiv.org/abs/2504.01904)|null|
+|**2025-04-02**|**Bubble Clustering Decoder for Quantum Topological Codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2504.01654](http://arxiv.org/abs/2504.01654)|null|
+|**2025-04-01**|**Chiral vortex-line liquid of three-dimensional interacting Bose systems with moat dispersion**|Bahar Jafari-Zadeh, Chenan Wei, Tigran A. Sedrakyan|[2504.01080](http://arxiv.org/abs/2504.01080)|null|
+|**2025-04-01**|**Loschmidt echo zeros and dynamical quantum phase transitions in finite-size quantum systems with linear quench**|Zhen-Yu Zheng, Xudong Liu, Siyan Lin, Yu Zhang, Shu Chen|[2504.00483](http://arxiv.org/abs/2504.00483)|null|
+|**2025-03-31**|**Topological Symmetry Breaking in Antagonistic Dynamics**|Giulio Iannelli, Pablo Villegas, Tommaso Gili, Andrea Gabrielli|[2504.00144](http://arxiv.org/abs/2504.00144)|null|
 |**2025-03-31**|**Tunable macroscopic defect patterns induced by a low-frequency AC electric field in ferroelectric nematic liquid crystals**|Natalia Podoliak, Lubor Lejcek, Martin Cigl, Vladimira Novotna|[2503.24176](http://arxiv.org/abs/2503.24176)|null|
 |**2025-04-01**|**Classification of Modular Symmetries in Non-Supersymmetric Heterotic String theories**|Shuta Funakoshi, Yuichi Koga, Hajime Otsuka|[2503.23741](http://arxiv.org/abs/2503.23741)|null|
 |**2025-03-30**|**Representations of knot groups in $\textrm{AGL}_{1}(\mathbb{C})$ and Alexander invariants**|Ángel González-Prieto, Javier Martínez, Vicente Muñoz|[2503.23364](http://arxiv.org/abs/2503.23364)|null|
