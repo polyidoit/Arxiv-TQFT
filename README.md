@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Parity violation as enforced symmetry breaking in 3D fermionic topological order**|Shang-Qiang Ning, Yang Qi, Chenjie Wang, Zheng-Cheng Gu|[2504.02736](http://arxiv.org/abs/2504.02736)|null|
+|**2025-04-03**|**QUITS: A modular Qldpc code circUIT Simulator**|Mingyu Kang, Yingjia Lin, Hanwen Yao, Mert Gökduman, Arianna Meinking, Kenneth R. Brown|[2504.02673](http://arxiv.org/abs/2504.02673)|null|
+|**2025-04-03**|**Topological signatures of collective dynamics and turbulent-like energy cascades in active granular matter**|Zihan Zheng, Cunyuan Jiang, Yangrui Chen, Matteo Baggioli, Jie Zhang|[2504.02588](http://arxiv.org/abs/2504.02588)|null|
+|**2025-04-02**|**Topological Phase Transition in the Two-Leg Hubbard Model: Emergence of the Haldane Phase via Diagonal Hopping and Strong Interactions**|João Pedro Gama D'Elia, Thereza Paiva|[2504.02157](http://arxiv.org/abs/2504.02157)|null|
+|**2025-04-02**|**Braided Majorana qubits as a minimal setting for Topological Quantum Computation?**|Francesco Toppan|[2504.02125](http://arxiv.org/abs/2504.02125)|null|
+|**2025-04-02**|**Noninvertible symmetries in the B model TFT**|A. Caldararu, T. Pantev, E. Sharpe, B. Sung, X. Yu|[2504.02023](http://arxiv.org/abs/2504.02023)|null|
 |**2025-04-02**|**A Dilaton Sum Rule for the Conformal Anomaly Form Factor in QCD at Order $α_s$**|Claudio Corianò, Stefano Lionetti, Dario Melle, Leonardo Torcellini|[2504.01904](http://arxiv.org/abs/2504.01904)|null|
 |**2025-04-02**|**Bubble Clustering Decoder for Quantum Topological Codes**|Diego Forlivesi, Lorenzo Valentini, Marco Chiani|[2504.01654](http://arxiv.org/abs/2504.01654)|null|
 |**2025-04-01**|**Chiral vortex-line liquid of three-dimensional interacting Bose systems with moat dispersion**|Bahar Jafari-Zadeh, Chenan Wei, Tigran A. Sedrakyan|[2504.01080](http://arxiv.org/abs/2504.01080)|null|
