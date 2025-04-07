@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-04-04**|**Higgsing Transitions from Topological Field Theory & Non-Invertible Symmetry in Chern-Simons Matter Theories**|Clay Cordova, Diego García-Sepúlveda, Kantaro Ohmori|[2504.03614](http://arxiv.org/abs/2504.03614)|null|
+|**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel, Lode Pollet, Fabian Grusdt|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
+|**2025-04-04**|**Probing Gauged $U(1)$ Sub-GeV Dark Matter via Cosmic Ray Cooling in Active Galactic Nuclei**|Arvind Kumar Mishra, Ning Liu, Chih-Ting Lu|[2504.03409](http://arxiv.org/abs/2504.03409)|null|
+|**2025-04-04**|**Topological defects in polar active matter**|Luiza Angheluta, Anna Lång, Emma Lång, Stig Ove Bøe|[2504.03284](http://arxiv.org/abs/2504.03284)|null|
+|**2025-04-04**|**SpinHex: A low-crosstalk, spin-qubit architecture based on multi-electron couplers**|Rubén M. Otxoa, Josu Etxezarreta Martinez, Paul Schnabl, Normann Mertig, Charles Smith, Frederico Martins|[2504.03149](http://arxiv.org/abs/2504.03149)|null|
 |**2025-04-03**|**Parity violation as enforced symmetry breaking in 3D fermionic topological order**|Shang-Qiang Ning, Yang Qi, Chenjie Wang, Zheng-Cheng Gu|[2504.02736](http://arxiv.org/abs/2504.02736)|null|
 |**2025-04-03**|**QUITS: A modular Qldpc code circUIT Simulator**|Mingyu Kang, Yingjia Lin, Hanwen Yao, Mert Gökduman, Arianna Meinking, Kenneth R. Brown|[2504.02673](http://arxiv.org/abs/2504.02673)|null|
 |**2025-04-03**|**Topological signatures of collective dynamics and turbulent-like energy cascades in active granular matter**|Zihan Zheng, Cunyuan Jiang, Yangrui Chen, Matteo Baggioli, Jie Zhang|[2504.02588](http://arxiv.org/abs/2504.02588)|null|
