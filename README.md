@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Quartet-metric gravity and scalar graviton dark holes: supplements**|Yu. F. Pirogov, O. V. Zenin|[2504.05011](http://arxiv.org/abs/2504.05011)|null|
+|**2025-04-07**|**Dark energy under a gauge symmetry: A review of gauged quintessence and its implications**|Kunio Kaneta, Hye-Sung Lee, Jiheon Lee, Jaeok Yi|[2504.04820](http://arxiv.org/abs/2504.04820)|null|
+|**2025-04-06**|**Observation of Dislocation Non-Hermitian Skin Effect**|Wenquan Wu, Qicheng Zhang, Liangjun Qi, Kun Zhang, Shuaishuai Tong, Chunyin Qiu|[2504.04431](http://arxiv.org/abs/2504.04431)|null|
+|**2025-04-06**|**Non-equilibrium Dynamics and Universality of 4D Quantum Vortices and Turbulence**|Wei-can Yang|[2504.04409](http://arxiv.org/abs/2504.04409)|null|
+|**2025-04-05**|**Symmetrizing the Constraints -- Density Matrix Renormalization Group for Constrained Lattice Models**|Ting-Tung Wang, Xiaoxue Ran, Zi Yang Meng|[2504.04035](http://arxiv.org/abs/2504.04035)|null|
 |**2025-04-04**|**Higgsing Transitions from Topological Field Theory & Non-Invertible Symmetry in Chern-Simons Matter Theories**|Clay Cordova, Diego García-Sepúlveda, Kantaro Ohmori|[2504.03614](http://arxiv.org/abs/2504.03614)|null|
 |**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel, Lode Pollet, Fabian Grusdt|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
 |**2025-04-04**|**Probing Gauged $U(1)$ Sub-GeV Dark Matter via Cosmic Ray Cooling in Active Galactic Nuclei**|Arvind Kumar Mishra, Ning Liu, Chih-Ting Lu|[2504.03409](http://arxiv.org/abs/2504.03409)|null|
