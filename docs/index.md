@@ -2,6 +2,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-04-08**|**Signatures of Candidate States of $ν=12/5$ in Shot Noise**|Goutham Vinjamuri, Ankur Das|[2504.06226](http://arxiv.org/abs/2504.06226)|null|
+|**2025-04-08**|**Noncommutative resolutions and CICY quotients from a non-abelian GLSM**|Johanna Knapp, Joseph McGovern|[2504.06147](http://arxiv.org/abs/2504.06147)|null|
+|**2025-04-08**|**On the structure of DHR bimodules of abstract spin chains**|Lucas Hataishi, David Jaklitsch, Corey Jones, Makoto Yamashita|[2504.06094](http://arxiv.org/abs/2504.06094)|null|
+|**2025-04-08**|**Coding with the transverse intersection algebra**|Ofir Aharoni, Daniel An, Alice Kwon, Ruth Lawrence, Dennis Sullivan|[2504.06047](http://arxiv.org/abs/2504.06047)|null|
+|**2025-04-08**|**Inverse Design of Parameter-Controlled Disclination Paths**|Yehonatan Tsubery, Hillel Aharoni|[2504.05870](http://arxiv.org/abs/2504.05870)|null|
+|**2025-04-08**|**Scalar-assisted magnetogenesis during the radiation-dominated epoch**|Alexandar Ganz, Chunshan Lin, Mian Zhu|[2504.05835](http://arxiv.org/abs/2504.05835)|null|
+|**2025-04-07**|**Flux attachment theory of fractional excitonic insulators**|Steven Gassner, Ady Stern, C. L. Kane|[2504.05427](http://arxiv.org/abs/2504.05427)|null|
 |**2025-04-07**|**Quartet-metric gravity and scalar graviton dark holes: supplements**|Yu. F. Pirogov, O. V. Zenin|[2504.05011](http://arxiv.org/abs/2504.05011)|null|
 |**2025-04-07**|**Dark energy under a gauge symmetry: A review of gauged quintessence and its implications**|Kunio Kaneta, Hye-Sung Lee, Jiheon Lee, Jaeok Yi|[2504.04820](http://arxiv.org/abs/2504.04820)|null|
 |**2025-04-06**|**Observation of Dislocation Non-Hermitian Skin Effect**|Wenquan Wu, Qicheng Zhang, Liangjun Qi, Kun Zhang, Shuaishuai Tong, Chunyin Qiu|[2504.04431](http://arxiv.org/abs/2504.04431)|null|
