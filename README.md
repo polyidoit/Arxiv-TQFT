@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Bound and Scattering States in a Spacetime with Dual Topological Defects: Cosmic String and Global Monopole**|L. G. Barbosa, L. C. N. Santos, J. V. Zamperlini, F. M. da Silva|[2504.07075](http://arxiv.org/abs/2504.07075)|null|
 |**2025-04-08**|**Signatures of Candidate States of $ν=12/5$ in Shot Noise**|Goutham Vinjamuri, Ankur Das|[2504.06226](http://arxiv.org/abs/2504.06226)|null|
 |**2025-04-08**|**Noncommutative resolutions and CICY quotients from a non-abelian GLSM**|Johanna Knapp, Joseph McGovern|[2504.06147](http://arxiv.org/abs/2504.06147)|null|
 |**2025-04-08**|**On the structure of DHR bimodules of abstract spin chains**|Lucas Hataishi, David Jaklitsch, Corey Jones, Makoto Yamashita|[2504.06094](http://arxiv.org/abs/2504.06094)|null|
