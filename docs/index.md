@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-04-10**|**Quantum error correction via multi-particle discrete-time quantum walk**|Ryo Asaka, Ryusei Minamikawa|[2504.07941](http://arxiv.org/abs/2504.07941)|null|
+|**2025-04-10**|**SKK groups of manifolds and non-unitary invertible TQFTs**|Renee S. Hoekzema, Luuk Stehouwer, Simona Veselá|[2504.07917](http://arxiv.org/abs/2504.07917)|null|
+|**2025-04-10**|**Antiferromagnetic Chiral Bobber Formation and Topological Proximity Effect in MnBi2Te4**|Y. Xu, D. Kurebayashi, D. Zhang, P. Schoenherr, L. Li, Z. Yue, W. J. Ren, M. -G. Han, Y. Zhu, Z. Cheng, X. Wang, Oleg A. Tretiakov, J. Seidel|[2504.07747](http://arxiv.org/abs/2504.07747)|null|
+|**2025-04-10**|**Coexistence of topologically trivial and non-trivial Yu-Shiba-Rusinov bands in magnetic atomic chains on a superconductor**|Bendegúz Nyári, Philip Beck, András Lászlóffy, Lucas Schneider, Krisztián Palotás, László Szunyogh, Roland Wiesendanger, Jens Wiebe, Balázs Újfalussy, Levente Rózsa|[2504.07509](http://arxiv.org/abs/2504.07509)|null|
+|**2025-04-09**|**Strongly coupled inert scalar sector with radiative neutrino masses**|A. E. Cárcamo Hernández, Jeremy Echeverria Puentes, R. Pasechnik, Daniel Salinas-Arizmendi|[2504.07193](http://arxiv.org/abs/2504.07193)|null|
+|**2025-04-09**|**Cornell and Coulomb potentials in the double defect spacetime**|L. G. Barbosa, L. C. N. Santos, J. V. Zamperlini, F. M da Silva|[2504.07191](http://arxiv.org/abs/2504.07191)|null|
 |**2025-04-09**|**Bound and Scattering States in a Spacetime with Dual Topological Defects: Cosmic String and Global Monopole**|L. G. Barbosa, L. C. N. Santos, J. V. Zamperlini, F. M. da Silva|[2504.07075](http://arxiv.org/abs/2504.07075)|null|
 |**2025-04-08**|**Signatures of Candidate States of $ν=12/5$ in Shot Noise**|Goutham Vinjamuri, Ankur Das|[2504.06226](http://arxiv.org/abs/2504.06226)|null|
 |**2025-04-08**|**Noncommutative resolutions and CICY quotients from a non-abelian GLSM**|Johanna Knapp, Joseph McGovern|[2504.06147](http://arxiv.org/abs/2504.06147)|null|
