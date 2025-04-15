@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.04.14
+> Automatically updated on 2025.04.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Quantized Axial Charge in the Hamiltonian Approach to Wilson Fermions**|Tatsuya Yamaoka|[2504.10263](http://arxiv.org/abs/2504.10263)|null|
+|**2025-04-14**|**Cohomology ring of unitary $N=(2,2)$ full vertex algebra and mirror symmetry**|Yuto Moriwaki|[2504.09919](http://arxiv.org/abs/2504.09919)|null|
+|**2025-04-14**|**$\mathbb{Z}_N$ generalizations of three-dimensional stabilizer codes**|Chanbeen Lee, Yaozong Hu, Gil Young Cho, Haruki Watanabe|[2504.09847](http://arxiv.org/abs/2504.09847)|null|
+|**2025-04-13**|**Multicomponent Dark Matter with Collider Implications**|Laura Covi, Shyamashish Dey, Sarif Khan, Santosh Kumar Rai|[2504.09632](http://arxiv.org/abs/2504.09632)|null|
+|**2025-04-12**|**Analogue of Chern-Simons invariant in non-metricity gravity and axion cosmology**|Shin'ichi Nojiri, Sergei D. Odintsov|[2504.09218](http://arxiv.org/abs/2504.09218)|null|
+|**2025-04-11**|**How quantum fluctuations freeze a classical liquid and then melt it into a topological one**|Hao Chen, Dan Mao, Andrea Kouta Dagnino, Glenn Wagner, Mark H. Fischer, Juraj Hasik, Eun-Ah Kim, Titus Neupert|[2504.08895](http://arxiv.org/abs/2504.08895)|null|
+|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang, Antoine Simoulin, Xin Qian, Xiaoyi Liu, Yuwei Cao, Zhaopu Teng, Grey Yang|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
+|**2025-04-11**|**Faster shortest-path algorithms using the acyclic-connected tree**|Elis Stefansson, Oliver Biggar, Karl H. Johansson|[2504.08667](http://arxiv.org/abs/2504.08667)|null|
+|**2025-04-11**|**Localized plasmonic meron-antimeron pairs in doubly degenerate orbitals**|Jie Yang, Xinmin Fu, Jiafu Wang, Yifan Li, Jingxian Zhang, Fangyuan Qi, Yajuan Han, Yuxiang Jia, Guy A E Vandenbosch, Tie Jun Cui, Xuezhi Zheng|[2504.08558](http://arxiv.org/abs/2504.08558)|null|
+|**2025-04-11**|**Clifford algebras and liquid crystalline fermions**|N. Johnson, L. C. Head, O. D. Lavrentovich, A. N. Morozov, G. Negro, E. Orlandini, C. A. Smith, G. M. Vasil, D. Marenduzzo|[2504.08519](http://arxiv.org/abs/2504.08519)|null|
 |**2025-04-10**|**Quantum error correction via multi-particle discrete-time quantum walk**|Ryo Asaka, Ryusei Minamikawa|[2504.07941](http://arxiv.org/abs/2504.07941)|null|
 |**2025-04-10**|**SKK groups of manifolds and non-unitary invertible TQFTs**|Renee S. Hoekzema, Luuk Stehouwer, Simona Veselá|[2504.07917](http://arxiv.org/abs/2504.07917)|null|
 |**2025-04-10**|**Antiferromagnetic Chiral Bobber Formation and Topological Proximity Effect in MnBi2Te4**|Y. Xu, D. Kurebayashi, D. Zhang, P. Schoenherr, L. Li, Z. Yue, W. J. Ren, M. -G. Han, Y. Zhu, Z. Cheng, X. Wang, Oleg A. Tretiakov, J. Seidel|[2504.07747](http://arxiv.org/abs/2504.07747)|null|
@@ -497,5 +507,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
