@@ -2,6 +2,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-04-15**|**SymTFT construction of gapless exotic-foliated dual models**|Fabio Apruzzi, Francesco Bedogna, Salvo Mancani|[2504.11449](http://arxiv.org/abs/2504.11449)|null|
+|**2025-04-15**|**Constraints from muon $g-2$ on a gauged non-universal $U(1)_{X}$ model with inverse see-saw neutrinos**|J. S. Alvarado, R. Martinez, Cristian Sierra|[2504.11332](http://arxiv.org/abs/2504.11332)|null|
+|**2025-04-15**|**Domain wall evolution beyond quartic potentials: The Sine-Gordon and Christ-Lee potentials**|R. Heilemann, M. C. Rosa, J. R. C. C. C. Correia, C. J. A. P. Martins|[2504.11323](http://arxiv.org/abs/2504.11323)|null|
+|**2025-04-15**|**Modeling dislocations in quasicrystals through amplitude equations**|Marcello De Donno, Luiza Angheluta, Marco Salvalaglio|[2504.11039](http://arxiv.org/abs/2504.11039)|null|
+|**2025-04-15**|**Symmetry-protected topological order identified via Gutzwiller-guided density-matrix-renormalization-group: $\mathrm{SO}(n)$ spin chains**|Pei-Yuan Cai, Hui-Ke Jin, Yi Zhou|[2504.10919](http://arxiv.org/abs/2504.10919)|null|
+|**2025-04-15**|**Gapless Foliated-Exotic Duality**|Kantaro Ohmori, Shutaro Shimamura|[2504.10835](http://arxiv.org/abs/2504.10835)|null|
+|**2025-04-14**|**Shuttling Majorana zero modes in disordered and noisy topological superconductors**|Bill P. Truong, Kartiek Agarwal, T. Pereg-Barnea|[2504.10749](http://arxiv.org/abs/2504.10749)|null|
+|**2025-04-14**|**Lattice Surgery Compilation Beyond the Surface Code**|Laura S. Herzog, Lucas Berent, Aleksander Kubica, Robert Wille|[2504.10591](http://arxiv.org/abs/2504.10591)|null|
+|**2025-04-14**|**Higher-Form Anomalies Imply Intrinsic Long-Range Entanglement**|Po-Shen Hsin, Ryohei Kobayashi, Abhinav Prem|[2504.10569](http://arxiv.org/abs/2504.10569)|null|
 |**2025-04-14**|**Quantized Axial Charge in the Hamiltonian Approach to Wilson Fermions**|Tatsuya Yamaoka|[2504.10263](http://arxiv.org/abs/2504.10263)|null|
 |**2025-04-14**|**Cohomology ring of unitary $N=(2,2)$ full vertex algebra and mirror symmetry**|Yuto Moriwaki|[2504.09919](http://arxiv.org/abs/2504.09919)|null|
 |**2025-04-14**|**$\mathbb{Z}_N$ generalizations of three-dimensional stabilizer codes**|Chanbeen Lee, Yaozong Hu, Gil Young Cho, Haruki Watanabe|[2504.09847](http://arxiv.org/abs/2504.09847)|null|
