@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Projectively implemented altermagnetism in an exactly solvable quantum spin liquid**|Avedis Neehus, Achim Rosch, Johannes Knolle, Urban F. P. Seifert|[2504.12298](http://arxiv.org/abs/2504.12298)|null|
+|**2025-04-16**|**Non-orientable Exceptional Points in Twisted Boundary Systems**|Jung-Wan Ryu, Jae-Ho Han, Moon Jip Park, Hee Chul Park, Chang-Hwan Yi|[2504.11983](http://arxiv.org/abs/2504.11983)|null|
+|**2025-04-16**|**Self-induced topological edge states in a lattice with onsite nonlinearity**|Rujiang Li, Wencai Wang, Xiangyu Kong, Ce Shang, Yongtao Jia, Gui-Geng Liu, Ying Liu, Baile Zhang|[2504.11964](http://arxiv.org/abs/2504.11964)|null|
+|**2025-04-15**|**Probing Quantum Anomalous Hall States in Twisted Bilayer WSe2 via Attractive Polaron Spectroscopy**|Beini Gao, Mahdi Ghafariasl, Mahmoud Jalali Mehrabad, Tsung-Sheng Huang, Lifu Zhang, Deric Session, Pranshoo Upadhyay, Rundong Ma, Ghadah Alshalan, Daniel Gustavo Suárez Forero, Supratik Sarkar, Suji Park, Houk Jang, Kenji Watanabe, Takashi Taniguchi, Ming Xie, You Zhou, Mohammad Hafezi|[2504.11530](http://arxiv.org/abs/2504.11530)|null|
 |**2025-04-15**|**SymTFT construction of gapless exotic-foliated dual models**|Fabio Apruzzi, Francesco Bedogna, Salvo Mancani|[2504.11449](http://arxiv.org/abs/2504.11449)|null|
 |**2025-04-15**|**Constraints from muon $g-2$ on a gauged non-universal $U(1)_{X}$ model with inverse see-saw neutrinos**|J. S. Alvarado, R. Martinez, Cristian Sierra|[2504.11332](http://arxiv.org/abs/2504.11332)|null|
 |**2025-04-15**|**Domain wall evolution beyond quartic potentials: The Sine-Gordon and Christ-Lee potentials**|R. Heilemann, M. C. Rosa, J. R. C. C. C. Correia, C. J. A. P. Martins|[2504.11323](http://arxiv.org/abs/2504.11323)|null|
