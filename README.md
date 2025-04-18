@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Probing CP-Violating Neutral Triple Gauge Couplings at Electron-Positron Colliders**|John Ellis, Hong-Jian He, Rui-Qing Xiao|[2504.13135](http://arxiv.org/abs/2504.13135)|null|
+|**2025-04-17**|**Supersymmetric Poisson and Poisson-supersymmetric sigma models**|Thomas Basile, Athanasios Chatzistavrakidis, Sylvain Lavau|[2504.13114](http://arxiv.org/abs/2504.13114)|null|
+|**2025-04-17**|**Perturbed symmetric-product orbifold: first-order mixing and puzzles for integrability**|Matheus Fabri, Alessandro Sfondrini, Torben Skrzypek|[2504.13091](http://arxiv.org/abs/2504.13091)|null|
+|**2025-04-17**|**Topological defect engineering enables size and shape control in self-assembly**|Lara Koehler, Markus Eder, Christoph Karfusehr, Vincent Ouazan-Reboul, Pierre Ronceray, Friedrich C. Simmel, Martin Lenz|[2504.13073](http://arxiv.org/abs/2504.13073)|null|
+|**2025-04-17**|**Hodge Dual Gauge Symmetry in Minimal Einstein-Aether Theory**|Kamal Hajian|[2504.12641](http://arxiv.org/abs/2504.12641)|null|
+|**2025-04-16**|**Learning transitions in classical Ising models and deformed toric codes**|Malte Pütz, Samuel J. Garratt, Hidetoshi Nishimori, Simon Trebst, Guo-Yi Zhu|[2504.12385](http://arxiv.org/abs/2504.12385)|null|
 |**2025-04-16**|**Projectively implemented altermagnetism in an exactly solvable quantum spin liquid**|Avedis Neehus, Achim Rosch, Johannes Knolle, Urban F. P. Seifert|[2504.12298](http://arxiv.org/abs/2504.12298)|null|
 |**2025-04-16**|**Non-orientable Exceptional Points in Twisted Boundary Systems**|Jung-Wan Ryu, Jae-Ho Han, Moon Jip Park, Hee Chul Park, Chang-Hwan Yi|[2504.11983](http://arxiv.org/abs/2504.11983)|null|
 |**2025-04-16**|**Self-induced topological edge states in a lattice with onsite nonlinearity**|Rujiang Li, Wencai Wang, Xiangyu Kong, Ce Shang, Yongtao Jia, Gui-Geng Liu, Ying Liu, Baile Zhang|[2504.11964](http://arxiv.org/abs/2504.11964)|null|
