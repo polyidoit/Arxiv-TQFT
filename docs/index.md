@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-04-17**|**Geometric and Thermodynamic Properties of Frolov Black Holes with Topological Defects**|Faizuddin Ahmed, Ahmad Al-Badawi, İzzet Sakallı|[2504.13357](http://arxiv.org/abs/2504.13357)|null|
+|**2025-04-17**|**Particle physics: a personal view**|Goran Senjanović|[2504.13338](http://arxiv.org/abs/2504.13338)|null|
 |**2025-04-17**|**Probing CP-Violating Neutral Triple Gauge Couplings at Electron-Positron Colliders**|John Ellis, Hong-Jian He, Rui-Qing Xiao|[2504.13135](http://arxiv.org/abs/2504.13135)|null|
 |**2025-04-17**|**Supersymmetric Poisson and Poisson-supersymmetric sigma models**|Thomas Basile, Athanasios Chatzistavrakidis, Sylvain Lavau|[2504.13114](http://arxiv.org/abs/2504.13114)|null|
 |**2025-04-17**|**Perturbed symmetric-product orbifold: first-order mixing and puzzles for integrability**|Matheus Fabri, Alessandro Sfondrini, Torben Skrzypek|[2504.13091](http://arxiv.org/abs/2504.13091)|null|
