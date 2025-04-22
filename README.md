@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Supersymmetric Hybrid Inflation in light of Atacama Cosmology Telescope Data Release 6, Planck 2018 and LB-BK18**|Mansoor Ur Rehman, Qaisar Shafi|[2504.14831](http://arxiv.org/abs/2504.14831)|null|
+|**2025-04-20**|**Persistent Homology-Based Descriptor of Topological Ordering in Two-Dimensional Quasi-Particle Systems with Application to Skyrmion Lattices**|Michiki Taniwaki, Thomas Brian Winkler, Jan Rothörl, Raphael Gruber, Chiharu Mitsumata, Masato Kotsugi, Mathias Kläui|[2504.14688](http://arxiv.org/abs/2504.14688)|null|
+|**2025-04-20**|**Topological linear and nonlinear gap modes in defected dimer lattice with fourth-order diffraction**|Xiaoyang Wang, Qidong Fu, Changming Huang|[2504.14639](http://arxiv.org/abs/2504.14639)|null|
+|**2025-04-20**|**A Review on the Applications of Density Functional Theory to the FQH System**|Yi Yang, Yayun Hu, Zi-Xiang Hu|[2504.14558](http://arxiv.org/abs/2504.14558)|null|
 |**2025-04-17**|**Geometric and Thermodynamic Properties of Frolov Black Holes with Topological Defects**|Faizuddin Ahmed, Ahmad Al-Badawi, İzzet Sakallı|[2504.13357](http://arxiv.org/abs/2504.13357)|null|
 |**2025-04-17**|**Particle physics: a personal view**|Goran Senjanović|[2504.13338](http://arxiv.org/abs/2504.13338)|null|
 |**2025-04-17**|**Probing CP-Violating Neutral Triple Gauge Couplings at Electron-Positron Colliders**|John Ellis, Hong-Jian He, Rui-Qing Xiao|[2504.13135](http://arxiv.org/abs/2504.13135)|null|
