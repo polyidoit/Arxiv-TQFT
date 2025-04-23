@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Linking the KM3-230213A Neutrino Event to Dark Matter Decay and Gravitational Waves Signals**|Sarif Khan, Jongkuk Kim, Pyungwon Ko|[2504.16040](http://arxiv.org/abs/2504.16040)|null|
 |**2025-04-21**|**Supersymmetric Hybrid Inflation in light of Atacama Cosmology Telescope Data Release 6, Planck 2018 and LB-BK18**|Mansoor Ur Rehman, Qaisar Shafi|[2504.14831](http://arxiv.org/abs/2504.14831)|null|
 |**2025-04-20**|**Persistent Homology-Based Descriptor of Topological Ordering in Two-Dimensional Quasi-Particle Systems with Application to Skyrmion Lattices**|Michiki Taniwaki, Thomas Brian Winkler, Jan Rothörl, Raphael Gruber, Chiharu Mitsumata, Masato Kotsugi, Mathias Kläui|[2504.14688](http://arxiv.org/abs/2504.14688)|null|
 |**2025-04-20**|**Topological linear and nonlinear gap modes in defected dimer lattice with fourth-order diffraction**|Xiaoyang Wang, Qidong Fu, Changming Huang|[2504.14639](http://arxiv.org/abs/2504.14639)|null|
