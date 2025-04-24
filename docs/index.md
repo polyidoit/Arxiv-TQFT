@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-04-23**|**Boundary Witten effect in multi-axion insulators**|Giandomenico Palumbo|[2504.16919](http://arxiv.org/abs/2504.16919)|null|
+|**2025-04-23**|**Self-interacting dark matter with observable $ΔN_{\rm eff}$**|Debasish Borah, Satyabrata Mahapatra, Narendra Sahu, Vicky Singh Thounaojam|[2504.16910](http://arxiv.org/abs/2504.16910)|null|
+|**2025-04-23**|**Braiding of Majorana Zero Modes in Vortex Cores**|Maxwell Buss, Jasmin Bedow, Prashant Gupta, Dirk K. Morr|[2504.16841](http://arxiv.org/abs/2504.16841)|null|
+|**2025-04-23**|**Potentiometric detection of spin polarization expected at the surface of FeTe0.6Se0.4 in the effective p-wave superconducting state**|K. Ohnishi, R. Ohshima, T. Nishijima, S. Kawabata, S. Kasahara, Y. Kasahara, Y. Ando, Y. Yanase, Y. Matsuda, M. Shiraishi|[2504.16341](http://arxiv.org/abs/2504.16341)|null|
+|**2025-04-22**|**Robust Mixed-State Cluster States and Spurious Topological Entanglement Negativity**|Seunghun Lee, Eun-Gook Moon|[2504.16165](http://arxiv.org/abs/2504.16165)|null|
 |**2025-04-22**|**Linking the KM3-230213A Neutrino Event to Dark Matter Decay and Gravitational Waves Signals**|Sarif Khan, Jongkuk Kim, Pyungwon Ko|[2504.16040](http://arxiv.org/abs/2504.16040)|null|
 |**2025-04-21**|**Supersymmetric Hybrid Inflation in light of Atacama Cosmology Telescope Data Release 6, Planck 2018 and LB-BK18**|Mansoor Ur Rehman, Qaisar Shafi|[2504.14831](http://arxiv.org/abs/2504.14831)|null|
 |**2025-04-20**|**Persistent Homology-Based Descriptor of Topological Ordering in Two-Dimensional Quasi-Particle Systems with Application to Skyrmion Lattices**|Michiki Taniwaki, Thomas Brian Winkler, Jan Rothörl, Raphael Gruber, Chiharu Mitsumata, Masato Kotsugi, Mathias Kläui|[2504.14688](http://arxiv.org/abs/2504.14688)|null|
