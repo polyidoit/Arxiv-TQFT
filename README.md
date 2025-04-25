@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Flexoelectric polarization in chiral liquid crystals: electrostatic self-interactions of topological defects**|Paul Leask|[2504.17778](http://arxiv.org/abs/2504.17778)|null|
+|**2025-04-24**|**Orbifolds, higher dagger structures, and idempotents**|Nils Carqueville, Tim Lüders|[2504.17764](http://arxiv.org/abs/2504.17764)|null|
+|**2025-04-24**|**Global Gauge Symmetry Breaking in the Abelian Higgs Mechanism**|Silvester Borsboom, Sebastian De Haro|[2504.17483](http://arxiv.org/abs/2504.17483)|null|
 |**2025-04-23**|**Boundary Witten effect in multi-axion insulators**|Giandomenico Palumbo|[2504.16919](http://arxiv.org/abs/2504.16919)|null|
 |**2025-04-23**|**Self-interacting dark matter with observable $ΔN_{\rm eff}$**|Debasish Borah, Satyabrata Mahapatra, Narendra Sahu, Vicky Singh Thounaojam|[2504.16910](http://arxiv.org/abs/2504.16910)|null|
 |**2025-04-23**|**Braiding of Majorana Zero Modes in Vortex Cores**|Maxwell Buss, Jasmin Bedow, Prashant Gupta, Dirk K. Morr|[2504.16841](http://arxiv.org/abs/2504.16841)|null|
