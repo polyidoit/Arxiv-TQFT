@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-04-25**|**Nature of the 1/3 Magnetization Plateau in Spin-1/2 Kagome Antiferromagnets**|Li-Wei He, Xinzhe Wang, Shun-Li Yu, Jian-Xin Li|[2504.18480](http://arxiv.org/abs/2504.18480)|null|
+|**2025-04-25**|**Coupled-wire Construction of a Non-crystalline Fractional Quantum Hall Effect**|Justin Schirmann, Peru d'Ornellas, Adolfo G. Grushin|[2504.18337](http://arxiv.org/abs/2504.18337)|null|
 |**2025-04-24**|**Flexoelectric polarization in chiral liquid crystals: electrostatic self-interactions of topological defects**|Paul Leask|[2504.17778](http://arxiv.org/abs/2504.17778)|null|
 |**2025-04-24**|**Orbifolds, higher dagger structures, and idempotents**|Nils Carqueville, Tim Lüders|[2504.17764](http://arxiv.org/abs/2504.17764)|null|
 |**2025-04-24**|**Global Gauge Symmetry Breaking in the Abelian Higgs Mechanism**|Silvester Borsboom, Sebastian De Haro|[2504.17483](http://arxiv.org/abs/2504.17483)|null|
