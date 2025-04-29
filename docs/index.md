@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-04-28**|**Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions**|Richang Huang, Yongliang Hu, Xianzhang Chen, Peng Yu, Igor Zutic, Tong Zhou|[2504.20031](http://arxiv.org/abs/2504.20031)|null|
+|**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
+|**2025-04-28**|**Pseudo-Nambu-Goldstone-boson Dark Matter from Three Complex Scalars**|Riasat Sheikh, Takashi Toma, Koji Tsumura|[2504.19886](http://arxiv.org/abs/2504.19886)|null|
+|**2025-04-28**|**Cosmic strings in the complex symmetron model**|Ali Nezhadsafavi, Levon Pogosian|[2504.19830](http://arxiv.org/abs/2504.19830)|null|
+|**2025-04-28**|**Timelike entanglement entropy with gravitational anomalies**|Chong-Sun Chu, Himanshu Parihar|[2504.19694](http://arxiv.org/abs/2504.19694)|null|
+|**2025-04-28**|**Eppur si muove: Shape of topological defects -- in active nematics**|Giacomo Marco La Montagna, Sumeja Burekovic, Ananyo Maitra, Cesare Nardini|[2504.19665](http://arxiv.org/abs/2504.19665)|null|
+|**2025-04-28**|**Gapped Boundaries of Kitaev's Quantum Double Models: A Lattice Realization of Anyon Condensation from Lagrangian Algebras**|Mu Li, Xiaohan Yang, Xiao-Yu Dong|[2504.19512](http://arxiv.org/abs/2504.19512)|null|
+|**2025-04-28**|**A topological quantum field theory for $\mathrm{Spin}(7)$ -instantons**|Rafael Herrera, Sergio A. Holguin Cardona, Alexander Quintero Velez|[2504.19403](http://arxiv.org/abs/2504.19403)|null|
+|**2025-04-27**|**Arithmetic field theory via pro-p duality groups**|Nadav Gropper, Oren Ben-Bassat|[2504.19078](http://arxiv.org/abs/2504.19078)|null|
+|**2025-04-26**|**Phases of Floquet code under local decoherence**|Yuchen Tang, Yimu Bao|[2504.19041](http://arxiv.org/abs/2504.19041)|null|
 |**2025-04-25**|**Nature of the 1/3 Magnetization Plateau in Spin-1/2 Kagome Antiferromagnets**|Li-Wei He, Xinzhe Wang, Shun-Li Yu, Jian-Xin Li|[2504.18480](http://arxiv.org/abs/2504.18480)|null|
 |**2025-04-25**|**Coupled-wire Construction of a Non-crystalline Fractional Quantum Hall Effect**|Justin Schirmann, Peru d'Ornellas, Adolfo G. Grushin|[2504.18337](http://arxiv.org/abs/2504.18337)|null|
 |**2025-04-24**|**Flexoelectric polarization in chiral liquid crystals: electrostatic self-interactions of topological defects**|Paul Leask|[2504.17778](http://arxiv.org/abs/2504.17778)|null|
