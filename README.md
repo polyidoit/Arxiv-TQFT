@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**There is no boundary problem**|J. François, L. Ravera|[2504.20945](http://arxiv.org/abs/2504.20945)|null|
+|**2025-04-28**|**On the CFT dual of superstring on AdS $_3$**|Zhe-fei Yu|[2504.20227](http://arxiv.org/abs/2504.20227)|null|
 |**2025-04-28**|**Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions**|Richang Huang, Yongliang Hu, Xianzhang Chen, Peng Yu, Igor Zutic, Tong Zhou|[2504.20031](http://arxiv.org/abs/2504.20031)|null|
 |**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
 |**2025-04-28**|**Pseudo-Nambu-Goldstone-boson Dark Matter from Three Complex Scalars**|Riasat Sheikh, Takashi Toma, Koji Tsumura|[2504.19886](http://arxiv.org/abs/2504.19886)|null|
