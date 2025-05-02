@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Strange correlator and string order parameter for non-invertible symmetry protected topological phases in 1+1d**|Da-Chuan Lu, Fu Xu, Yi-Zhuang You|[2505.00673](http://arxiv.org/abs/2505.00673)|null|
+|**2025-05-01**|**Minimal Factorization of Chern-Simons Theory - Gravitational Anyonic Edge Modes**|Thomas G. Mertens, Qi-Feng Wu|[2505.00501](http://arxiv.org/abs/2505.00501)|null|
 |**2025-04-30**|**Quantization of Anisotropic Topological Yang Mills Theory**|Emil Albrychiewicz, Andrés Franco Valiente, Viola Zixin Zhao|[2504.21295](http://arxiv.org/abs/2504.21295)|null|
 |**2025-04-29**|**There is no boundary problem**|J. François, L. Ravera|[2504.20945](http://arxiv.org/abs/2504.20945)|null|
 |**2025-04-28**|**On the CFT dual of superstring on AdS $_3$**|Zhe-fei Yu|[2504.20227](http://arxiv.org/abs/2504.20227)|null|
