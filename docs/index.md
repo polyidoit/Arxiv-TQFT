@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-02**|**Chirality-selective proximity effect between chiral $p$ -wave superconductors and quantum Hall insulators**|Ryota Nakai, Koji Kudo, Hiroki Isobe, Kentaro Nomura|[2505.00994](http://arxiv.org/abs/2505.00994)|null|
+|**2025-05-01**|**Hubble-induced phase transitions in the Standard Model and beyond**|Javier Rubio, Giorgio Laverda|[2505.00900](http://arxiv.org/abs/2505.00900)|null|
+|**2025-05-01**|**What is a photon in de Sitter spacetime?**|Manuel Loparco, Joao Penedones, Yannis Ulrich|[2505.00761](http://arxiv.org/abs/2505.00761)|null|
 |**2025-05-01**|**Strange correlator and string order parameter for non-invertible symmetry protected topological phases in 1+1d**|Da-Chuan Lu, Fu Xu, Yi-Zhuang You|[2505.00673](http://arxiv.org/abs/2505.00673)|null|
 |**2025-05-01**|**Minimal Factorization of Chern-Simons Theory - Gravitational Anyonic Edge Modes**|Thomas G. Mertens, Qi-Feng Wu|[2505.00501](http://arxiv.org/abs/2505.00501)|null|
 |**2025-04-30**|**Quantization of Anisotropic Topological Yang Mills Theory**|Emil Albrychiewicz, Andrés Franco Valiente, Viola Zixin Zhao|[2504.21295](http://arxiv.org/abs/2504.21295)|null|
