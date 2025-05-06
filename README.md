@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Stabilizing dark matter with quantum scale symmetry**|Abhishek Chikkaballi, Kamila Kowalska, Rafael R. Lino dos Santos, Enrico Maria Sessolo|[2505.02803](http://arxiv.org/abs/2505.02803)|null|
+|**2025-05-05**|**Partons from stabilizer codes**|Rafael A. Macedo, Carlo C. Bellinati, Weslei B. Fontana, Eric C. Andrade, Rodrigo G. Pereira|[2505.02683](http://arxiv.org/abs/2505.02683)|null|
+|**2025-05-03**|**Chiral anomaly from (anomalous) spin hydrodynamics**|Jay Armas, Giorgos Batzios|[2505.01843](http://arxiv.org/abs/2505.01843)|null|
+|**2025-05-03**|**The construction of a universal quantum gate set for the SU(2)k anyon models via a numerical method**|Jiangwei Long, Jianxin Zhong, Lijun Meng|[2505.01774](http://arxiv.org/abs/2505.01774)|null|
+|**2025-05-03**|**Ferroelectrically Switchable Chirality in Topological Superconductivity: Bilayer-MnBi2Te4/Fe(Se,Te) Heterostructure**|Kai-Zhi Bai, Bo Fu, Shun-Qing Shen|[2505.01759](http://arxiv.org/abs/2505.01759)|null|
+|**2025-05-03**|**Topological Quantum Statistical Mechanics and Topological Quantum Field Theories**|Zhidong Zhang|[2505.01653](http://arxiv.org/abs/2505.01653)|null|
+|**2025-05-02**|**Inflation from Anomalies**|Nick E. Mavromatos, Panagiotis Dorlis, Sotirios-Neilos Vlachos|[2505.01565](http://arxiv.org/abs/2505.01565)|null|
+|**2025-05-02**|**Order-detection and non-left-orderable surgeries on links**|Adam Clay, Junyu Lu|[2505.01564](http://arxiv.org/abs/2505.01564)|null|
+|**2025-05-02**|**Revisiting Quantization of Gauge Field Theories: Sandwich Quantization Scheme**|M. M. Sheikh-Jabbari|[2505.01540](http://arxiv.org/abs/2505.01540)|null|
+|**2025-05-02**|**On the new way of symmetry breaking in scalar QED and the one-loop renormalization**|Lucas Ducastelo de C. C. Lima, Ilya L. Shapiro|[2505.01483](http://arxiv.org/abs/2505.01483)|null|
 |**2025-05-02**|**Chirality-selective proximity effect between chiral $p$ -wave superconductors and quantum Hall insulators**|Ryota Nakai, Koji Kudo, Hiroki Isobe, Kentaro Nomura|[2505.00994](http://arxiv.org/abs/2505.00994)|null|
 |**2025-05-01**|**Hubble-induced phase transitions in the Standard Model and beyond**|Javier Rubio, Giorgio Laverda|[2505.00900](http://arxiv.org/abs/2505.00900)|null|
 |**2025-05-01**|**What is a photon in de Sitter spacetime?**|Manuel Loparco, Joao Penedones, Yannis Ulrich|[2505.00761](http://arxiv.org/abs/2505.00761)|null|
