@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-06**|**Topological Manipulations On $\mathbb{R}$ Symmetries Of Abelian Gauge Theory**|Burak Oğuz|[2505.03700](http://arxiv.org/abs/2505.03700)|null|
+|**2025-05-06**|**O(5) multicriticality in the 3D two flavor SU(2) lattice gauge Higgs model**|Claudio Bonati, Ivan Soler Calero|[2505.03446](http://arxiv.org/abs/2505.03446)|null|
+|**2025-05-05**|**Multi-channel second-order topological states in 3D Dirac semimetal Bi $_{0.97}$Sb$_{0.03}$**|Biplab Bhattacharyya, Stijn R. de Wit, Zhen Wu, Yingkai Huang, Mark S. Golden, Alexander Brinkman, Chuan Li|[2505.02995](http://arxiv.org/abs/2505.02995)|null|
+|**2025-05-05**|**Pre-geometric Einstein-Cartan Field Equations and Emergent Cosmology**|Giuseppe Meluccio|[2505.02925](http://arxiv.org/abs/2505.02925)|null|
+|**2025-05-05**|**Fermion-to-qubit encodings with arbitrary code distance**|Manuel G. Algaba, Miha Papič, Inés de Vega, Alessio Calzona, Fedor Šimkovic IV|[2505.02916](http://arxiv.org/abs/2505.02916)|null|
+|**2025-05-05**|**Doping lattice non-abelian quantum Hall states**|Zhengyan Darius Shi, Carolyn Zhang, T. Senthil|[2505.02893](http://arxiv.org/abs/2505.02893)|null|
 |**2025-05-05**|**Stabilizing dark matter with quantum scale symmetry**|Abhishek Chikkaballi, Kamila Kowalska, Rafael R. Lino dos Santos, Enrico Maria Sessolo|[2505.02803](http://arxiv.org/abs/2505.02803)|null|
 |**2025-05-05**|**Partons from stabilizer codes**|Rafael A. Macedo, Carlo C. Bellinati, Weslei B. Fontana, Eric C. Andrade, Rodrigo G. Pereira|[2505.02683](http://arxiv.org/abs/2505.02683)|null|
 |**2025-05-03**|**Chiral anomaly from (anomalous) spin hydrodynamics**|Jay Armas, Giorgos Batzios|[2505.01843](http://arxiv.org/abs/2505.01843)|null|
