@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**On local fields invariant under the action of topological defects**|Anatoly Konechny, Vasileios Vergioglou|[2505.04316](http://arxiv.org/abs/2505.04316)|null|
+|**2025-05-07**|**A Large Language Model for Feasible and Diverse Population Synthesis**|Sung Yoo Lim, Hyunsoo Yun, Prateek Bansal, Dong-Kyu Kim, Eui-Jin Kim|[2505.04196](http://arxiv.org/abs/2505.04196)|null|
+|**2025-05-07**|**Instantons and Rarefaction Pulses as Pathways to Global Phase Coherence in Gain-Based Optical Networks**|Richard Zhipeng Wang, Natalia G. Berloff|[2505.04031](http://arxiv.org/abs/2505.04031)|null|
+|**2025-05-06**|**Anomalous grain dynamics and grain locomotion of odd crystals**|Zhi-Feng Huang, Michael te Vrugt, Raphael Wittkowski, Hartmut Löwen|[2505.03957](http://arxiv.org/abs/2505.03957)|null|
 |**2025-05-06**|**Topological Manipulations On $\mathbb{R}$ Symmetries Of Abelian Gauge Theory**|Burak Oğuz|[2505.03700](http://arxiv.org/abs/2505.03700)|null|
 |**2025-05-06**|**O(5) multicriticality in the 3D two flavor SU(2) lattice gauge Higgs model**|Claudio Bonati, Ivan Soler Calero|[2505.03446](http://arxiv.org/abs/2505.03446)|null|
 |**2025-05-05**|**Multi-channel second-order topological states in 3D Dirac semimetal Bi $_{0.97}$Sb$_{0.03}$**|Biplab Bhattacharyya, Stijn R. de Wit, Zhen Wu, Yingkai Huang, Mark S. Golden, Alexander Brinkman, Chuan Li|[2505.02995](http://arxiv.org/abs/2505.02995)|null|
