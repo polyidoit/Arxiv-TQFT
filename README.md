@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Topological phase transition to a hidden charge density wave liquid**|Joshua S. H. Lee, Thomas M. Sutter, Goran Karapetrov, Pietro Musumeci, Anshul Kogar|[2505.04867](http://arxiv.org/abs/2505.04867)|null|
+|**2025-05-07**|**On the Higher Categorical Structure of Topological Defects in Quantum Field Theories**|Lukas Müller|[2505.04761](http://arxiv.org/abs/2505.04761)|null|
+|**2025-05-07**|**Disorder-Free Localization and Fragmentation in a Non-Abelian Lattice Gauge Theory**|Giovanni Cataldi, Giuseppe Calajó, Pietro Silvi, Simone Montangero, Jad C. Halimeh|[2505.04704](http://arxiv.org/abs/2505.04704)|null|
+|**2025-05-07**|**Electromagnetic response and emergent topological orders in transition metal dichalcogenide MoTe $_2$ bilayers**|Tianhong Lu, Yi-Ming Wu, Luiz H. Santos|[2505.04685](http://arxiv.org/abs/2505.04685)|null|
 |**2025-05-07**|**On local fields invariant under the action of topological defects**|Anatoly Konechny, Vasileios Vergioglou|[2505.04316](http://arxiv.org/abs/2505.04316)|null|
 |**2025-05-07**|**A Large Language Model for Feasible and Diverse Population Synthesis**|Sung Yoo Lim, Hyunsoo Yun, Prateek Bansal, Dong-Kyu Kim, Eui-Jin Kim|[2505.04196](http://arxiv.org/abs/2505.04196)|null|
 |**2025-05-07**|**Instantons and Rarefaction Pulses as Pathways to Global Phase Coherence in Gain-Based Optical Networks**|Richard Zhipeng Wang, Natalia G. Berloff|[2505.04031](http://arxiv.org/abs/2505.04031)|null|
