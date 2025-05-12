@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-09**|**Engineering inter-band coupling in a two-band superconductor by topological defects**|Thomas Gozlinski, Qili Li, Rolf Heid, Oleg Kurnosikov, Alexander Haas, Ryohei Nemoto, Toyo Kazu Yamada, Joerg Schmalian, Wulf Wulfhekel|[2505.06072](http://arxiv.org/abs/2505.06072)|null|
+|**2025-05-09**|**A note on quantum Hamiltonian reduction and anomalies**|Boris M. Elfimov, Alexey A. Sharapov|[2505.05779](http://arxiv.org/abs/2505.05779)|null|
+|**2025-05-08**|**From oversimplified to overlooked: the case for exploring Rich Dark Sectors**|Asli Abdullahi, Francesco Costa, Andrea Giovanni De Marchi, Alessandro Granelli, Jaime Hoefken-Zink, Matheus Hostert, Michele Lucente, Elina Merkel, Jacopo Nava, Silvia Pascoli, Salvador Rosauro-Alcaraz, Filippo Sala|[2505.05663](http://arxiv.org/abs/2505.05663)|null|
+|**2025-05-08**|**Fractional Statistics and Electron Transfer at Topological Defects**|Eric R. Bittner|[2505.05617](http://arxiv.org/abs/2505.05617)|null|
 |**2025-05-08**|**Topological phase transition to a hidden charge density wave liquid**|Joshua S. H. Lee, Thomas M. Sutter, Goran Karapetrov, Pietro Musumeci, Anshul Kogar|[2505.04867](http://arxiv.org/abs/2505.04867)|null|
 |**2025-05-07**|**On the Higher Categorical Structure of Topological Defects in Quantum Field Theories**|Lukas Müller|[2505.04761](http://arxiv.org/abs/2505.04761)|null|
 |**2025-05-07**|**Disorder-Free Localization and Fragmentation in a Non-Abelian Lattice Gauge Theory**|Giovanni Cataldi, Giuseppe Calajó, Pietro Silvi, Simone Montangero, Jad C. Halimeh|[2505.04704](http://arxiv.org/abs/2505.04704)|null|
