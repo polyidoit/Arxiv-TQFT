@@ -15,7 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-09**|**Engineering inter-band coupling in a two-band superconductor by topological defects**|Thomas Gozlinski, Qili Li, Rolf Heid, Oleg Kurnosikov, Alexander Haas, Ryohei Nemoto, Toyo Kazu Yamada, Joerg Schmalian, Wulf Wulfhekel|[2505.06072](http://arxiv.org/abs/2505.06072)|null|
+|**2025-05-12**|**Classical symmetry enriched topological orders and distinct monopole charges for dipole-octupole spin ices**|Pengwei Zhao, Gang v. Chen|[2505.07805](http://arxiv.org/abs/2505.07805)|null|
+|**2025-05-12**|**Quon Classical Simulation: Unifying Clifford, Matchgates and Entanglement**|Zixuan Feng, Zhengwei Liu, Fan Lu, Ningfeng Wang|[2505.07804](http://arxiv.org/abs/2505.07804)|null|
+|**2025-05-12**|**Melting of Charge Density Waves in Low Dimensions**|Jeremy M. Shen, Alex Stangel, Suk Hyun Sung, Ismail El Baggari, Kai Sun, Robert Hovden|[2505.07569](http://arxiv.org/abs/2505.07569)|null|
+|**2025-05-12**|**Large-area topological wireless power transfer**|Luyao Wan, Han Zhang, Yunhui Li, Yaping Yang, Hong Chen, Zhiwei Guo|[2505.07462](http://arxiv.org/abs/2505.07462)|null|
+|**2025-05-12**|**Heterotic String Sigma Models: Discrete Light Cone Quantization and Its Current-Current Deformation**|Eric A. Bergshoeff, Kevin T. Grosvenor, Luca Romano, Ziqi Yan|[2505.07458](http://arxiv.org/abs/2505.07458)|null|
+|**2025-05-12**|**Gravitational lensing of the wormhole in the Eddington-inspired Born-Infeld spacetime with a cosmic string**|Xin-Fei Li, Lei-Hua Liu, Yan-Zhi Meng, Shu-Qing Zhong, Li-Juan Zhou|[2505.07420](http://arxiv.org/abs/2505.07420)|null|
+|**2025-05-10**|**Interface-Bound States and Majorana Zero Modes in Lateral Heterostructures of Bi $_2$Se$_3$ and Sb$_2$Te$_3$ with Proximity-Induced Superconductivity**|Yoonkang Kim|[2505.06644](http://arxiv.org/abs/2505.06644)|null|
+|**2025-05-09**|**Defects in vibrated monolayers of equilateral triangular prisms**|Jorge Vega, Enrique Velasco, Yuri Martinez-Raton|[2505.06376](http://arxiv.org/abs/2505.06376)|null|
+|**2025-05-09**|**Manipulating the topological spin of Majoranas**|Stijn R. de Wit, Emre Duman, A. Mert Bozkurt, Alexander Brinkman, Inanc Adagideli|[2505.06334](http://arxiv.org/abs/2505.06334)|null|
+|**2025-05-12**|**Engineering inter-band coupling in a two-band superconductor by topological defects**|Thomas Gozlinski, Qili Li, Rolf Heid, Oleg Kurnosikov, Alexander Haas, Ryohei Nemoto, Toyo Kazu Yamada, Joerg Schmalian, Wulf Wulfhekel|[2505.06072](http://arxiv.org/abs/2505.06072)|null|
 |**2025-05-09**|**A note on quantum Hamiltonian reduction and anomalies**|Boris M. Elfimov, Alexey A. Sharapov|[2505.05779](http://arxiv.org/abs/2505.05779)|null|
 |**2025-05-08**|**From oversimplified to overlooked: the case for exploring Rich Dark Sectors**|Asli Abdullahi, Francesco Costa, Andrea Giovanni De Marchi, Alessandro Granelli, Jaime Hoefken-Zink, Matheus Hostert, Michele Lucente, Elina Merkel, Jacopo Nava, Silvia Pascoli, Salvador Rosauro-Alcaraz, Filippo Sala|[2505.05663](http://arxiv.org/abs/2505.05663)|null|
 |**2025-05-08**|**Fractional Statistics and Electron Transfer at Topological Defects**|Eric R. Bittner|[2505.05617](http://arxiv.org/abs/2505.05617)|null|
