@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-13**|**Electroweak hierarchy from conformal and custodial symmetry -- "Custodial Naturalness"**|Andreas Trautner|[2505.08776](http://arxiv.org/abs/2505.08776)|null|
+|**2025-05-13**|**The CMB cold spot under the lens II: Lensing on polarization and cosmic textures footprints**|Pedro da Silveira Ferreira, Stephen Owusu|[2505.08761](http://arxiv.org/abs/2505.08761)|null|
+|**2025-05-13**|**Controllable creation of topological boundary states in topological-insulator-based Josephson corner junctions**|Xiang Wang, Duolin Wang, Yunxiao Zhang, Xiaozhou Yang, Yukun Shi, Bing Li, Enna Zhuo, Yuyang Huang, Anqi Wang, Zhaozheng Lyu, Xiaohui Song, Peiling Li, Bingbing Tong, Ziwei Dou, Jie Shen, Guangtong Liu, Fanming Qu, Li Lu|[2505.08290](http://arxiv.org/abs/2505.08290)|null|
+|**2025-05-12**|**$C^\ast$ -categorical prefactorization algebras for superselection sectors and topological order**|Marco Benini, Victor Carmona, Pieter Naaijkens, Alexander Schenkel|[2505.07960](http://arxiv.org/abs/2505.07960)|null|
 |**2025-05-12**|**Classical symmetry enriched topological orders and distinct monopole charges for dipole-octupole spin ices**|Pengwei Zhao, Gang v. Chen|[2505.07805](http://arxiv.org/abs/2505.07805)|null|
 |**2025-05-12**|**Quon Classical Simulation: Unifying Clifford, Matchgates and Entanglement**|Zixuan Feng, Zhengwei Liu, Fan Lu, Ningfeng Wang|[2505.07804](http://arxiv.org/abs/2505.07804)|null|
 |**2025-05-12**|**Melting of Charge Density Waves in Low Dimensions**|Jeremy M. Shen, Alex Stangel, Suk Hyun Sung, Ismail El Baggari, Kai Sun, Robert Hovden|[2505.07569](http://arxiv.org/abs/2505.07569)|null|
