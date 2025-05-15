@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Vortex and fractional quantum Hall phases in a rotating anisotropic Bose gas**|Umut Tanyeri, Ahmed Kallushi, Rıfat Onur Umucalılar, Ahmet Keleş|[2505.09452](http://arxiv.org/abs/2505.09452)|null|
+|**2025-05-14**|**Automated SAR ADC Sizing Using Analytical Equations**|Zhongyi Li, Zhuofu Tao, Yanze Zhou, Yichen Shi, Zhiping Yu, Ting-Jung Lin, Lei He|[2505.09172](http://arxiv.org/abs/2505.09172)|null|
+|**2025-05-13**|**Spectral Gap Bounds for Quantum Markov Semigroups via Correlation Decay**|Angelo Lucia, David Pérez-García, Antonio Pérez-Hernández|[2505.08991](http://arxiv.org/abs/2505.08991)|null|
+|**2025-05-13**|**Majorana Edge Modes as Quantum Memory for Topological Quantum Computing**|Jasmin Bedow, Dirk K. Morr|[2505.08888](http://arxiv.org/abs/2505.08888)|null|
 |**2025-05-13**|**Electroweak hierarchy from conformal and custodial symmetry -- "Custodial Naturalness"**|Andreas Trautner|[2505.08776](http://arxiv.org/abs/2505.08776)|null|
 |**2025-05-13**|**The CMB cold spot under the lens II: Lensing on polarization and cosmic textures footprints**|Pedro da Silveira Ferreira, Stephen Owusu|[2505.08761](http://arxiv.org/abs/2505.08761)|null|
 |**2025-05-13**|**Controllable creation of topological boundary states in topological-insulator-based Josephson corner junctions**|Xiang Wang, Duolin Wang, Yunxiao Zhang, Xiaozhou Yang, Yukun Shi, Bing Li, Enna Zhuo, Yuyang Huang, Anqi Wang, Zhaozheng Lyu, Xiaohui Song, Peiling Li, Bingbing Tong, Ziwei Dou, Jie Shen, Guangtong Liu, Fanming Qu, Li Lu|[2505.08290](http://arxiv.org/abs/2505.08290)|null|
