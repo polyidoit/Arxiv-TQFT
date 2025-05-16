@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Geometrically Enhanced Topological Quantum Codes**|David Aasen, Jeongwan Haah, Matthew B. Hastings, Zhenghan Wang|[2505.10403](http://arxiv.org/abs/2505.10403)|null|
+|**2025-05-15**|**Quest for a phenomenologically consistent low cutoff theory**|Sudhakantha Girmohanta, Yu-Cheng Qiu|[2505.10233](http://arxiv.org/abs/2505.10233)|null|
+|**2025-05-15**|**The Schur product of evaluation codes and its application to CSS-T quantum codes and private information retrieval**|Şeyma Bodur, Fernando Hernando, Edgar Martínez-Moro, Diego Ruano|[2505.10068](http://arxiv.org/abs/2505.10068)|null|
 |**2025-05-14**|**Vortex and fractional quantum Hall phases in a rotating anisotropic Bose gas**|Umut Tanyeri, Ahmed Kallushi, Rıfat Onur Umucalılar, Ahmet Keleş|[2505.09452](http://arxiv.org/abs/2505.09452)|null|
 |**2025-05-14**|**Automated SAR ADC Sizing Using Analytical Equations**|Zhongyi Li, Zhuofu Tao, Yanze Zhou, Yichen Shi, Zhiping Yu, Ting-Jung Lin, Lei He|[2505.09172](http://arxiv.org/abs/2505.09172)|null|
 |**2025-05-13**|**Spectral Gap Bounds for Quantum Markov Semigroups via Correlation Decay**|Angelo Lucia, David Pérez-García, Antonio Pérez-Hernández|[2505.08991](http://arxiv.org/abs/2505.08991)|null|
