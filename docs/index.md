@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-16**|**Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems**|Lucas Sá, Benjamin Béri|[2505.11501](http://arxiv.org/abs/2505.11501)|null|
+|**2025-05-16**|**Gauged $τ$-lepton chiral currents and $B \to K^{(*)} E_{\rm miss}$**|Luca Di Luzio, Marco Nardecchia, Claudio Toni|[2505.11499](http://arxiv.org/abs/2505.11499)|null|
+|**2025-05-16**|**Lattice models with subsystem/weak non-invertible symmetry-protected topological order**|Yuki Furukawa|[2505.11419](http://arxiv.org/abs/2505.11419)|null|
 |**2025-05-15**|**Geometrically Enhanced Topological Quantum Codes**|David Aasen, Jeongwan Haah, Matthew B. Hastings, Zhenghan Wang|[2505.10403](http://arxiv.org/abs/2505.10403)|null|
 |**2025-05-15**|**Quest for a phenomenologically consistent low cutoff theory**|Sudhakantha Girmohanta, Yu-Cheng Qiu|[2505.10233](http://arxiv.org/abs/2505.10233)|null|
 |**2025-05-15**|**The Schur product of evaluation codes and its application to CSS-T quantum codes and private information retrieval**|Şeyma Bodur, Fernando Hernando, Edgar Martínez-Moro, Diego Ruano|[2505.10068](http://arxiv.org/abs/2505.10068)|null|
