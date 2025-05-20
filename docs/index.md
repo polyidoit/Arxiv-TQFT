@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-19**|**Experimental Particle Physics Priorities 2025: A String Phenomenology Perspective**|Jonathan DeMont, Alon E. Faraggi, Mark Goodsell, Marco Guzzi|[2505.12965](http://arxiv.org/abs/2505.12965)|null|
+|**2025-05-19**|**Hydrogen Bond Topology Reveals Layering of LDL-like and HDL-like Water at its Liquid/Vapor Interface**|Pal Jedlovszky, Christoph Dellago, Marcello Sega|[2505.12953](http://arxiv.org/abs/2505.12953)|null|
 |**2025-05-16**|**Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems**|Lucas Sá, Benjamin Béri|[2505.11501](http://arxiv.org/abs/2505.11501)|null|
 |**2025-05-16**|**Gauged $τ$-lepton chiral currents and $B \to K^{(*)} E_{\rm miss}$**|Luca Di Luzio, Marco Nardecchia, Claudio Toni|[2505.11499](http://arxiv.org/abs/2505.11499)|null|
 |**2025-05-16**|**Lattice models with subsystem/weak non-invertible symmetry-protected topological order**|Yuki Furukawa|[2505.11419](http://arxiv.org/abs/2505.11419)|null|
