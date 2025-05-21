@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Light deflection in unified gravity and measurable deviation from general relativity**|Mikko Partanen, Jukka Tulkki|[2505.14446](http://arxiv.org/abs/2505.14446)|null|
+|**2025-05-20**|**Substrate Effect on Electronic Band Structure and Topological Property in Monolayer V2O3 Magnetic Topological Insulator**|Zheng Wang, Kaixuan Chen, Shu-Shen Lyu|[2505.13795](http://arxiv.org/abs/2505.13795)|null|
+|**2025-05-19**|**String-Membrane-Nets from Higher-Form Gauging: An Alternate Route to $p$ -String Condensation**|Pranay Gorantla, Abhinav Prem, Nathanan Tantivasadakarn, Dominic J. Williamson|[2505.13604](http://arxiv.org/abs/2505.13604)|null|
 |**2025-05-19**|**Experimental Particle Physics Priorities 2025: A String Phenomenology Perspective**|Jonathan DeMont, Alon E. Faraggi, Mark Goodsell, Marco Guzzi|[2505.12965](http://arxiv.org/abs/2505.12965)|null|
 |**2025-05-19**|**Hydrogen Bond Topology Reveals Layering of LDL-like and HDL-like Water at its Liquid/Vapor Interface**|Pal Jedlovszky, Christoph Dellago, Marcello Sega|[2505.12953](http://arxiv.org/abs/2505.12953)|null|
 |**2025-05-16**|**Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems**|Lucas Sá, Benjamin Béri|[2505.11501](http://arxiv.org/abs/2505.11501)|null|
