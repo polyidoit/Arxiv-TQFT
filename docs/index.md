@@ -1,7 +1,14 @@
-> Automatically updated on 2025.05.21
+> Automatically updated on 2025.05.22
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-21**|**Flavour hierarchies, extended groups and composites**|Javier M. Lizana|[2505.15787](http://arxiv.org/abs/2505.15787)|null|
+|**2025-05-21**|**A partition function framework for estimating logical error curves in stabilizer codes**|Leon Wichette, Hans Hohenfeld, Elie Mounzer, Linnea Grans-Samuelsson|[2505.15758](http://arxiv.org/abs/2505.15758)|null|
+|**2025-05-21**|**Procedure of tuning up a three-site artificial Kitaev chain based on transmon measurements**|Xiaozhou Yang, Zhaozheng Lyu, Xiang Wang, Enna Zhuo, Yunxiao Zhang, Duolin Wang, Yukun Shi, Yuyang Huang, Bing Li, Xiaohui Song, Peiling Li, Bingbing Tong, Ziwei Dou, Jie Shen, Guangtong Liu, Fanming Qu, Li Lu|[2505.15317](http://arxiv.org/abs/2505.15317)|null|
+|**2025-05-21**|**More on 8d non-supersymmetric branes and heterotic strings**|Yuta Hamada, Arata Ishige, Yuichi Koga|[2505.15144](http://arxiv.org/abs/2505.15144)|null|
+|**2025-05-21**|**Pure-quartic domain-wall solitons as topological bits for data transmission**|Pengfei Li, Jun Ruan, Shilong Liu, Dumitru Mihalache, Boris A. Malomed|[2505.14995](http://arxiv.org/abs/2505.14995)|null|
+|**2025-05-20**|**(-1)-Form Symmetries and Anomaly Shifting from SymTFT**|Daniel Robbins, Subham Roy|[2505.14807](http://arxiv.org/abs/2505.14807)|null|
+|**2025-05-20**|**Ordering the topological order in the fractional quantum Hall effect**|Meng Cheng, Seth Musser, Amir Raz, Nathan Seiberg, T. Senthil|[2505.14767](http://arxiv.org/abs/2505.14767)|null|
 |**2025-05-20**|**Light deflection in unified gravity and measurable deviation from general relativity**|Mikko Partanen, Jukka Tulkki|[2505.14446](http://arxiv.org/abs/2505.14446)|null|
 |**2025-05-20**|**Substrate Effect on Electronic Band Structure and Topological Property in Monolayer V2O3 Magnetic Topological Insulator**|Zheng Wang, Kaixuan Chen, Shu-Shen Lyu|[2505.13795](http://arxiv.org/abs/2505.13795)|null|
 |**2025-05-19**|**String-Membrane-Nets from Higher-Form Gauging: An Alternate Route to $p$ -String Condensation**|Pranay Gorantla, Abhinav Prem, Nathanan Tantivasadakarn, Dominic J. Williamson|[2505.13604](http://arxiv.org/abs/2505.13604)|null|
