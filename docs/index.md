@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi, Salvatore Capozziello, Jinglong Liu, Antonino Marciano, Giuseppe Meluccio, Xuan-Lin Su|[2505.17014](http://arxiv.org/abs/2505.17014)|null|
+|**2025-05-22**|**Braid Group Representations and Defect Operators in AdS/CFT Correspondence**|Tzu-Miao Chou|[2505.16817](http://arxiv.org/abs/2505.16817)|null|
+|**2025-05-22**|**AdS/CFT Duality and Anyons in $SU(N)_k$ Chern-Simons Theory**|Tzu-Miao Chou|[2505.16760](http://arxiv.org/abs/2505.16760)|null|
+|**2025-05-22**|**Fast and high-fidelity transfer of edge states via dynamical control of topological phases and effects of dissipation**|Yuuki Kanda, Yusuke Fujisawa, Kousuke Yakubo, Norio Kawakami, Hideaki Obuse|[2505.16606](http://arxiv.org/abs/2505.16606)|null|
+|**2025-05-22**|**Major issues in theory of Bose-Einstein condensation**|V. I. Yukalov|[2505.16600](http://arxiv.org/abs/2505.16600)|null|
+|**2025-05-21**|**Strong Hilbert space fragmentation and fractons from subsystem and higher-form symmetries**|Charles Stahl, Oliver Hart, Alexey Khudorozhkov, Rahul Nandkishore|[2505.15889](http://arxiv.org/abs/2505.15889)|null|
 |**2025-05-21**|**Flavour hierarchies, extended groups and composites**|Javier M. Lizana|[2505.15787](http://arxiv.org/abs/2505.15787)|null|
 |**2025-05-21**|**A partition function framework for estimating logical error curves in stabilizer codes**|Leon Wichette, Hans Hohenfeld, Elie Mounzer, Linnea Grans-Samuelsson|[2505.15758](http://arxiv.org/abs/2505.15758)|null|
 |**2025-05-21**|**Procedure of tuning up a three-site artificial Kitaev chain based on transmon measurements**|Xiaozhou Yang, Zhaozheng Lyu, Xiang Wang, Enna Zhuo, Yunxiao Zhang, Duolin Wang, Yukun Shi, Yuyang Huang, Bing Li, Xiaohui Song, Peiling Li, Bingbing Tong, Ziwei Dou, Jie Shen, Guangtong Liu, Fanming Qu, Li Lu|[2505.15317](http://arxiv.org/abs/2505.15317)|null|
