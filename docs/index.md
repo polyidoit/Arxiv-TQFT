@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-23**|**Higher-order topological phases protected by non-invertible and subsystem symmetries**|Aswin Parayil Mana, Yabo Li, Hiroki Sukeno, Tzu-Chieh Wei|[2505.18119](http://arxiv.org/abs/2505.18119)|null|
+|**2025-05-23**|**Leveraging biased noise for more efficient quantum error correction at the circuit-level with two-level qubits**|Josu Etxezarreta Martinez, Paul Schnabl, Javier Oliva del Moral, Reza Dastbasteh, Pedro M. Crespo, Ruben M. Otxoa|[2505.17718](http://arxiv.org/abs/2505.17718)|null|
+|**2025-05-23**|**Boundary Effects on Anyon Dynamics in Chern-Simons Theory**|Tzu-Miao Chou|[2505.17617](http://arxiv.org/abs/2505.17617)|null|
 |**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi, Salvatore Capozziello, Jinglong Liu, Antonino Marciano, Giuseppe Meluccio, Xuan-Lin Su|[2505.17014](http://arxiv.org/abs/2505.17014)|null|
 |**2025-05-22**|**Braid Group Representations and Defect Operators in AdS/CFT Correspondence**|Tzu-Miao Chou|[2505.16817](http://arxiv.org/abs/2505.16817)|null|
 |**2025-05-22**|**AdS/CFT Duality and Anyons in $SU(N)_k$ Chern-Simons Theory**|Tzu-Miao Chou|[2505.16760](http://arxiv.org/abs/2505.16760)|null|
