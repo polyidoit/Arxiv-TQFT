@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Statistical physics of active matter, cell division and cell aggregation**|Jean-François Joanny, Joseph O. Indekeu|[2505.19830](http://arxiv.org/abs/2505.19830)|null|
+|**2025-05-26**|**Gauge symmetry breaking with $S^2$ extra dimensions**|Kento Asai, Yuki Honda, Hiroki Ishikawa, Joe Sato, Yasutaka Takanishi|[2505.19829](http://arxiv.org/abs/2505.19829)|null|
+|**2025-05-26**|**Gravitational wave cosmology**|Ligong Bian, Rong-Gen Cai, Yu-Qi Dong, Qing Gao, Yungui Gong, Zong-Kuan Guo, Qing-Guo Huang, Zhaofeng Kang, Li Li, Jing Liu, Lang Liu, Yu-Xiao Liu, Xuchen Lu, Zhi-Zhang Peng, Jin Qiao, Puxun Wu, Yue-Liang Wu, Jiang-Hao Yu, Chen Yuan, Chao Zhang, Tao Zhu|[2505.19747](http://arxiv.org/abs/2505.19747)|null|
+|**2025-05-26**|**Asymptotic gauge symmetry and UV extension of the nonperturbative coupling in holographic QCD**|Guy F. de Teramond, Arpon Paul, Hans Gunter Dosch, Stanley J. Brodsky, Alexandre Deur, Tianbo Liu, Raza Sabbir Sufian|[2505.19545](http://arxiv.org/abs/2505.19545)|null|
+|**2025-05-24**|**Ubiquity of rotational symmetry breaking in superconducting films, from Fe(Te,Se)/Bi $_2$Te$_3$ to Nb, and the effect of measurement geometry**|Debarghya Mallick, Hee Taek Yi, Xiaoyu Yuan, Seongshik Oh|[2505.18749](http://arxiv.org/abs/2505.18749)|null|
+|**2025-05-23**|**Quantum spin Hall effects in van der Waals materials**|Jian Tang, Thomas Siyuan Ding, Chengdong Wang, Ning Mao, Vsevolod Belosevich, Yang Zhang, Xiaofeng Qian, Qiong Ma|[2505.18335](http://arxiv.org/abs/2505.18335)|null|
+|**2025-05-23**|**Non-Clifford gates between stabilizer codes via non-Abelian topological order**|Rohith Sajith, Zijian Song, Brenden Roberts, Varun Menon, Yabo Li|[2505.18265](http://arxiv.org/abs/2505.18265)|null|
+|**2025-05-23**|**Insights on the Cosmic Origin of Matter from Proton Stability**|Admir Greljo, Xavier Ponce Díaz, Anders Eller Thomsen|[2505.18259](http://arxiv.org/abs/2505.18259)|null|
 |**2025-05-23**|**Higher-order topological phases protected by non-invertible and subsystem symmetries**|Aswin Parayil Mana, Yabo Li, Hiroki Sukeno, Tzu-Chieh Wei|[2505.18119](http://arxiv.org/abs/2505.18119)|null|
 |**2025-05-23**|**Leveraging biased noise for more efficient quantum error correction at the circuit-level with two-level qubits**|Josu Etxezarreta Martinez, Paul Schnabl, Javier Oliva del Moral, Reza Dastbasteh, Pedro M. Crespo, Ruben M. Otxoa|[2505.17718](http://arxiv.org/abs/2505.17718)|null|
 |**2025-05-23**|**Boundary Effects on Anyon Dynamics in Chern-Simons Theory**|Tzu-Miao Chou|[2505.17617](http://arxiv.org/abs/2505.17617)|null|
