@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-27**|**Covariant Fractons and Weitzenböck Torsion**|Davide Rovere|[2505.21022](http://arxiv.org/abs/2505.21022)|null|
+|**2025-05-27**|**Reconfigurable Defect States in Non-Hermitian Topolectrical Chains with Gain and Loss**|S. M. Rafi-Ul-Islam, Zhuo Bin Siu, Md Saddam Hossain Razo, Mansoor B. A. Jalil|[2505.20791](http://arxiv.org/abs/2505.20791)|null|
+|**2025-05-26**|**Observation of hadron scattering in a lattice gauge theory on a quantum computer**|Julian Schuhmacher, Guo-Xian Su, Jesse J. Osborne, Anthony Gandon, Jad C. Halimeh, Ivano Tavernelli|[2505.20387](http://arxiv.org/abs/2505.20387)|null|
+|**2025-05-26**|**Generalized Hall Conductivities in Local Commuting Projector Models: Generalized Symmetries and Protected Surface Modes**|Po-Shen Hsin, Ryohei Kobayashi|[2505.20384](http://arxiv.org/abs/2505.20384)|null|
 |**2025-05-26**|**Statistical physics of active matter, cell division and cell aggregation**|Jean-François Joanny, Joseph O. Indekeu|[2505.19830](http://arxiv.org/abs/2505.19830)|null|
 |**2025-05-26**|**Gauge symmetry breaking with $S^2$ extra dimensions**|Kento Asai, Yuki Honda, Hiroki Ishikawa, Joe Sato, Yasutaka Takanishi|[2505.19829](http://arxiv.org/abs/2505.19829)|null|
 |**2025-05-26**|**Gravitational wave cosmology**|Ligong Bian, Rong-Gen Cai, Yu-Qi Dong, Qing Gao, Yungui Gong, Zong-Kuan Guo, Qing-Guo Huang, Zhaofeng Kang, Li Li, Jing Liu, Lang Liu, Yu-Xiao Liu, Xuchen Lu, Zhi-Zhang Peng, Jin Qiao, Puxun Wu, Yue-Liang Wu, Jiang-Hao Yu, Chen Yuan, Chao Zhang, Tao Zhu|[2505.19747](http://arxiv.org/abs/2505.19747)|null|
