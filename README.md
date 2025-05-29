@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Discrete Boltzmann Equation for Anyons**|Niclas Bernhoff|[2505.22529](http://arxiv.org/abs/2505.22529)|null|
+|**2025-05-28**|**Subsystem Symmetry-Protected Topological Phases from Subsystem SymTFT of 2-Foliated Exotic Tensor Gauge Theory**|Qiang Jia, Zhian Jia|[2505.22261](http://arxiv.org/abs/2505.22261)|null|
+|**2025-05-28**|**2-Category of Topological Quantum Computation**|Fatimah Rita Ahmadi|[2505.22171](http://arxiv.org/abs/2505.22171)|null|
+|**2025-05-28**|**Fractional Quantum Hall Anyons via the Algebraic Topology of Exotic Flux Quanta**|Hisham Sati, Urs Schreiber|[2505.22144](http://arxiv.org/abs/2505.22144)|null|
+|**2025-05-28**|**Cosmic Strings as Dynamical Dark Energy: Novel Constraints**|Hanyu Cheng, Eleonora Di Valentino, Luca Visinelli|[2505.22066](http://arxiv.org/abs/2505.22066)|null|
 |**2025-05-27**|**Covariant Fractons and Weitzenböck Torsion**|Davide Rovere|[2505.21022](http://arxiv.org/abs/2505.21022)|null|
 |**2025-05-27**|**Reconfigurable Defect States in Non-Hermitian Topolectrical Chains with Gain and Loss**|S. M. Rafi-Ul-Islam, Zhuo Bin Siu, Md Saddam Hossain Razo, Mansoor B. A. Jalil|[2505.20791](http://arxiv.org/abs/2505.20791)|null|
 |**2025-05-26**|**Observation of hadron scattering in a lattice gauge theory on a quantum computer**|Julian Schuhmacher, Guo-Xian Su, Jesse J. Osborne, Anthony Gandon, Jad C. Halimeh, Ivano Tavernelli|[2505.20387](http://arxiv.org/abs/2505.20387)|null|
