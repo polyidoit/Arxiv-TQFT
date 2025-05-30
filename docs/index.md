@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-29**|**Graded Paraparticle Algebra of Majorana Fields for Multidimensional Quantum Computing with Structured Light**|Fabrizio Tamburini, Nicolò Leone, Matteo Sanna, Roberto Siagri|[2505.23232](http://arxiv.org/abs/2505.23232)|null|
+|**2025-05-29**|**Directed Graph Grammars for Sequence-based Learning**|Michael Sun, Orion Foo, Gang Liu, Wojciech Matusik, Jie Chen|[2505.22949](http://arxiv.org/abs/2505.22949)|null|
+|**2025-05-28**|**Interpretable Scaling Behavior in Sparse Subnetwork Representations of Quantum States**|Brandon Barton, Juan Carrasquilla, Christopher Roth, Agnes Valenti|[2505.22734](http://arxiv.org/abs/2505.22734)|null|
 |**2025-05-28**|**Discrete Boltzmann Equation for Anyons**|Niclas Bernhoff|[2505.22529](http://arxiv.org/abs/2505.22529)|null|
 |**2025-05-28**|**Subsystem Symmetry-Protected Topological Phases from Subsystem SymTFT of 2-Foliated Exotic Tensor Gauge Theory**|Qiang Jia, Zhian Jia|[2505.22261](http://arxiv.org/abs/2505.22261)|null|
 |**2025-05-28**|**2-Category of Topological Quantum Computation**|Fatimah Rita Ahmadi|[2505.22171](http://arxiv.org/abs/2505.22171)|null|
