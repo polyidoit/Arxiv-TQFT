@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.06.01
+> Automatically updated on 2025.06.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -20,7 +20,7 @@ layout: default
 |**2025-05-28**|**Interpretable Scaling Behavior in Sparse Subnetwork Representations of Quantum States**|Brandon Barton, Juan Carrasquilla, Christopher Roth, Agnes Valenti|[2505.22734](http://arxiv.org/abs/2505.22734)|null|
 |**2025-05-28**|**Discrete Boltzmann Equation for Anyons**|Niclas Bernhoff|[2505.22529](http://arxiv.org/abs/2505.22529)|null|
 |**2025-05-28**|**Subsystem Symmetry-Protected Topological Phases from Subsystem SymTFT of 2-Foliated Exotic Tensor Gauge Theory**|Qiang Jia, Zhian Jia|[2505.22261](http://arxiv.org/abs/2505.22261)|null|
-|**2025-05-28**|**2-Category of Topological Quantum Computation**|Fatimah Rita Ahmadi|[2505.22171](http://arxiv.org/abs/2505.22171)|null|
+|**2025-05-29**|**The 2-Category of Topological Quantum Computation**|Fatimah Rita Ahmadi|[2505.22171](http://arxiv.org/abs/2505.22171)|null|
 |**2025-05-28**|**Fractional Quantum Hall Anyons via the Algebraic Topology of Exotic Flux Quanta**|Hisham Sati, Urs Schreiber|[2505.22144](http://arxiv.org/abs/2505.22144)|null|
 |**2025-05-28**|**Cosmic Strings as Dynamical Dark Energy: Novel Constraints**|Hanyu Cheng, Eleonora Di Valentino, Luca Visinelli|[2505.22066](http://arxiv.org/abs/2505.22066)|null|
 |**2025-05-27**|**Covariant Fractons and Weitzenböck Torsion**|Davide Rovere|[2505.21022](http://arxiv.org/abs/2505.21022)|null|
@@ -653,5 +653,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
