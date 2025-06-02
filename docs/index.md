@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-05-30**|**Instantons and topological order in two-leg electron ladders: A universality class**|S. -R. Eric Yang, Hyun Cheol Lee, Hoang-Anh Le, In-Hwan Lee|[2505.24130](http://arxiv.org/abs/2505.24130)|null|
+|**2025-05-29**|**Can metric-affine gravity be saved?**|Will Barker, Carlo Marzo, Alessandro Santoni|[2505.23894](http://arxiv.org/abs/2505.23894)|null|
 |**2025-05-29**|**Graded Paraparticle Algebra of Majorana Fields for Multidimensional Quantum Computing with Structured Light**|Fabrizio Tamburini, Nicolò Leone, Matteo Sanna, Roberto Siagri|[2505.23232](http://arxiv.org/abs/2505.23232)|null|
 |**2025-05-29**|**Directed Graph Grammars for Sequence-based Learning**|Michael Sun, Orion Foo, Gang Liu, Wojciech Matusik, Jie Chen|[2505.22949](http://arxiv.org/abs/2505.22949)|null|
 |**2025-05-28**|**Interpretable Scaling Behavior in Sparse Subnetwork Representations of Quantum States**|Brandon Barton, Juan Carrasquilla, Christopher Roth, Agnes Valenti|[2505.22734](http://arxiv.org/abs/2505.22734)|null|
