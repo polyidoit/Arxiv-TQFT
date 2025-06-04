@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke, Henning Schlömer, Simon M. Linsel, Annabelle Bohrdt, Fabian Grusdt|[2506.03146](http://arxiv.org/abs/2506.03146)|null|
+|**2025-06-03**|**Self-attention U-Net decoder for toric codes**|Wei-Wei Zhang, Zhuo Xia, Wei Zhao, Wei Pan, Haobin Shi|[2506.02734](http://arxiv.org/abs/2506.02734)|**[link](https://github.com/xiazhuo/SUNetQD)**|
+|**2025-05-31**|**Coherent error induced phase transition**|Hanchen Liu, Xiao Chen|[2506.00650](http://arxiv.org/abs/2506.00650)|null|
+|**2025-05-30**|**Absence of topological order in the $U(1)$ checkerboard toric code**|M. Vieweg, V. Kott, L. Lenke, A. Schellenberger, K. P. Schmidt|[2506.00126](http://arxiv.org/abs/2506.00126)|null|
+|**2025-05-30**|**Symmetry-deformed toric codes and the quantum dimer model**|Jiaxin Qiao, Yoshito Watanabe, Simon Trebst|[2506.00114](http://arxiv.org/abs/2506.00114)|null|
 |**2025-05-30**|**Instantons and topological order in two-leg electron ladders: A universality class**|S. -R. Eric Yang, Hyun Cheol Lee, Hoang-Anh Le, In-Hwan Lee|[2505.24130](http://arxiv.org/abs/2505.24130)|null|
 |**2025-05-29**|**Can metric-affine gravity be saved?**|Will Barker, Carlo Marzo, Alessandro Santoni|[2505.23894](http://arxiv.org/abs/2505.23894)|null|
 |**2025-05-29**|**Graded Paraparticle Algebra of Majorana Fields for Multidimensional Quantum Computing with Structured Light**|Fabrizio Tamburini, Nicolò Leone, Matteo Sanna, Roberto Siagri|[2505.23232](http://arxiv.org/abs/2505.23232)|null|
