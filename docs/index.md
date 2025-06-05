@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-06-04**|**Topological Mixed States: Axiomatic Approaches and Phases of Matter**|Tai-Hsuan Yang, Bowen Shi, Jong Yeon Lee|[2506.04221](http://arxiv.org/abs/2506.04221)|null|
+|**2025-06-04**|**Entanglement renormalization circuits for $2d$ Gaussian Fermion States**|Sing Lam Wong, Andrew C. Potter|[2506.04200](http://arxiv.org/abs/2506.04200)|null|
+|**2025-06-04**|**«Anticommuting» $\mathbb{Z}_2$ quantum spin liquids**|Sumiran Pujari, Harsh Nigam|[2506.03866](http://arxiv.org/abs/2506.03866)|null|
+|**2025-06-04**|**Defect states in compressible active polar fluids with turnover**|Ludovic Dumoulin, Carles Blanch-Mercader, Karsten Kruse|[2506.03795](http://arxiv.org/abs/2506.03795)|null|
+|**2025-06-04**|**One dimensional Bose-Hubbard model with long range hopping**|Edmond Orignac|[2506.03629](http://arxiv.org/abs/2506.03629)|null|
+|**2025-06-04**|**Enhanced and modulable induced superconducting gap and effective Landé g-factor in Pb-InSb hybrid devices**|Guoan Li, Xiaofan Shi, Ziwei Dou, Guang Yang, Jiayu Shi, Marco Rossi, Ghada Badawy, Yuxiao Song, Ruixuan Zhang, Yupeng Li, Zhiyuan Zhang, Anqi Wang, Xingchen Guo, Xiao Deng, Bingbing Tong, Peiling Li, Zhaozheng Lyu, Guangtong Liu, Fanming Qu, Erik P. A. M. Bakkers, Michał P. Nowak, Paweł Wójcik, Li Lu, Jie Shen|[2506.03563](http://arxiv.org/abs/2506.03563)|null|
+|**2025-06-04**|**Three-Majorana Cotunneling Interferometer for Non-Abelian Braiding and Topological Quantum Gate Implementation**|Zhen Chen, Yijia Wu, X. C. Xie|[2506.03553](http://arxiv.org/abs/2506.03553)|null|
+|**2025-06-03**|**Fast offline decoding with local message-passing automata**|Ethan Lake|[2506.03266](http://arxiv.org/abs/2506.03266)|null|
 |**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke, Henning Schlömer, Simon M. Linsel, Annabelle Bohrdt, Fabian Grusdt|[2506.03146](http://arxiv.org/abs/2506.03146)|null|
 |**2025-06-03**|**Self-attention U-Net decoder for toric codes**|Wei-Wei Zhang, Zhuo Xia, Wei Zhao, Wei Pan, Haobin Shi|[2506.02734](http://arxiv.org/abs/2506.02734)|**[link](https://github.com/xiazhuo/SUNetQD)**|
 |**2025-05-31**|**Coherent error induced phase transition**|Hanchen Liu, Xiao Chen|[2506.00650](http://arxiv.org/abs/2506.00650)|null|
