@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung, Kaixin Ji, Ce Shen, Yidun Wan, Yu Zhao|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
+|**2025-06-05**|**Non-Perturbative Topological Gadgets for Many-Body Coupling**|David Headley, Nicholas Chancellor|[2506.05323](http://arxiv.org/abs/2506.05323)|null|
+|**2025-06-05**|**Landau-Ginzburg Paradigm of Topological Phases**|Yu Zhao, Yidun Wan|[2506.05319](http://arxiv.org/abs/2506.05319)|null|
+|**2025-06-05**|**Discrete quantum systems from topological field theory**|Daniel S. Freed, Michael J. Hopkins, Constantin Teleman|[2506.05131](http://arxiv.org/abs/2506.05131)|null|
+|**2025-06-05**|**Dynamics of Wound Closure in Living Nematic Epithelia**|Henry Andralojc, Jake Turley, Helen Weavers, Paul Martin, Isaac V. Chenchiah, Rachel R. Bennett, Tanniemola B. Liverpool|[2506.04922](http://arxiv.org/abs/2506.04922)|**[link](https://github.com/andra516/dynamicsOfWoundClosure)**|
+|**2025-06-05**|**Is Crane--Yetter fully extended?**|Luuk Stehouwer|[2506.04864](http://arxiv.org/abs/2506.04864)|null|
+|**2025-06-05**|**Dark matter and dark radiation from chiral $U(1)$ gauge symmetry**|Xiao He, Takaaki Nomura, Norimi Yokozaki|[2506.04718](http://arxiv.org/abs/2506.04718)|null|
+|**2025-06-04**|**On the Physics of Higher Condensation Defects**|Ibrahima Bah, Enoch Leung, Thomas Waddleton|[2506.04346](http://arxiv.org/abs/2506.04346)|null|
+|**2025-06-04**|**Magnetic field-free braiding and nontrivial fusion of Majorana bound states in high-temperature planar Josephson junctions**|Pankaj Sharma, Narayan Mohanta|[2506.04338](http://arxiv.org/abs/2506.04338)|null|
 |**2025-06-04**|**Topological Mixed States: Axiomatic Approaches and Phases of Matter**|Tai-Hsuan Yang, Bowen Shi, Jong Yeon Lee|[2506.04221](http://arxiv.org/abs/2506.04221)|null|
 |**2025-06-04**|**Entanglement renormalization circuits for $2d$ Gaussian Fermion States**|Sing Lam Wong, Andrew C. Potter|[2506.04200](http://arxiv.org/abs/2506.04200)|null|
 |**2025-06-04**|**«Anticommuting» $\mathbb{Z}_2$ quantum spin liquids**|Sumiran Pujari, Harsh Nigam|[2506.03866](http://arxiv.org/abs/2506.03866)|null|
