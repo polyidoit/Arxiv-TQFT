@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Quark-universal $U(1)$ breaking scalar at the LHC**|Lorin Armbruster, Bogdan A. Dobrescu, Felix Yu|[2506.06068](http://arxiv.org/abs/2506.06068)|null|
+|**2025-06-06**|**Defect-free and defective adaptations of crystalline sheets to stretching deformation**|Ranzhi Sun, Zhenwei Yao|[2506.05784](http://arxiv.org/abs/2506.05784)|null|
 |**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung, Kaixin Ji, Ce Shen, Yidun Wan, Yu Zhao|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
 |**2025-06-05**|**Non-Perturbative Topological Gadgets for Many-Body Coupling**|David Headley, Nicholas Chancellor|[2506.05323](http://arxiv.org/abs/2506.05323)|null|
 |**2025-06-05**|**Landau-Ginzburg Paradigm of Topological Phases**|Yu Zhao, Yidun Wan|[2506.05319](http://arxiv.org/abs/2506.05319)|null|
