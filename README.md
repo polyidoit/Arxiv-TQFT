@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Microscopic Mechanism of Anyon Superconductivity Emerging from Fractional Chern Insulators**|Fabian Pichler, Clemens Kuhlenkamp, Michael Knap, Ashvin Vishwanath|[2506.08000](http://arxiv.org/abs/2506.08000)|null|
+|**2025-06-08**|**A new exact rotating spacetime in vacuum: The Kerr--Levi-Civita Spacetime**|José Barrientos, Adolfo Cisterna, Mokhtar Hassaine, Keanu Müller, Konstantinos Pallikaris|[2506.07166](http://arxiv.org/abs/2506.07166)|null|
+|**2025-06-08**|**Dimensionless Hierarchical Topological Phononic States**|Joel R. Pyfrom, Kai Sun, Jihong A. Ma|[2506.07048](http://arxiv.org/abs/2506.07048)|null|
+|**2025-06-07**|**Verified Universal Breakdown of Kibble-Zurek Scaling in Fast Quenches**|Xinxin Rao, Yang Liu, Mingshen Li, Teng Liu, Huabi Zeng, Le Luo|[2506.06841](http://arxiv.org/abs/2506.06841)|null|
+|**2025-06-07**|**An extension of Haagerup's reduction theorem with applications to subdiagonal subalgebras of general von Neumann algebras**|Louis Labuschagne, Quanhua Xu|[2506.06674](http://arxiv.org/abs/2506.06674)|null|
+|**2025-06-06**|**Ordering curves on surfaces**|Hugo Parlier, Hanh Vo, Binbin Xu|[2506.06481](http://arxiv.org/abs/2506.06481)|null|
+|**2025-06-06**|**On mixed 't Hooft anomalies of emergent symmetries**|Wei Gu, Du Pei, Xingyang Yu|[2506.06432](http://arxiv.org/abs/2506.06432)|null|
 |**2025-06-06**|**Quark-universal $U(1)$ breaking scalar at the LHC**|Lorin Armbruster, Bogdan A. Dobrescu, Felix Yu|[2506.06068](http://arxiv.org/abs/2506.06068)|null|
 |**2025-06-06**|**Defect-free and defective adaptations of crystalline sheets to stretching deformation**|Ranzhi Sun, Zhenwei Yao|[2506.05784](http://arxiv.org/abs/2506.05784)|null|
 |**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung, Kaixin Ji, Ce Shen, Yidun Wan, Yu Zhao|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
