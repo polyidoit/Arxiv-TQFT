@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-06-09**|**2-Group Symmetries of 3-dimensional Defect TQFTs and Their Gauging**|Nils Carqueville, Benjamin Haake|[2506.08178](http://arxiv.org/abs/2506.08178)|null|
+|**2025-06-09**|**Compact Temporal Geometry and the $T^2$ Framework for Quantum Gravity**|James Hateley|[2506.08165](http://arxiv.org/abs/2506.08165)|null|
+|**2025-06-09**|**Generalised Orbifolds and G-equivariantisation**|Sebastian Heinrich, Julia Plavnik, Ingo Runkel, Abigail Watkins|[2506.08154](http://arxiv.org/abs/2506.08154)|null|
+|**2025-06-09**|**Altermagnet-Superconductor Heterostructure: a Scalable Platform for Braiding of Majorana Modes**|Themba Hodge, Eric Mascot, Stephan Rachel|[2506.08095](http://arxiv.org/abs/2506.08095)|null|
+|**2025-06-09**|**Emblems of pair density waves: dual identity of topological defects and their transport signatures**|Omri Lesser, Chunli Huang, James P. Sethna, Eun-Ah Kim|[2506.08087](http://arxiv.org/abs/2506.08087)|null|
 |**2025-06-09**|**Microscopic Mechanism of Anyon Superconductivity Emerging from Fractional Chern Insulators**|Fabian Pichler, Clemens Kuhlenkamp, Michael Knap, Ashvin Vishwanath|[2506.08000](http://arxiv.org/abs/2506.08000)|null|
 |**2025-06-08**|**A new exact rotating spacetime in vacuum: The Kerr--Levi-Civita Spacetime**|José Barrientos, Adolfo Cisterna, Mokhtar Hassaine, Keanu Müller, Konstantinos Pallikaris|[2506.07166](http://arxiv.org/abs/2506.07166)|null|
 |**2025-06-08**|**Dimensionless Hierarchical Topological Phononic States**|Joel R. Pyfrom, Kai Sun, Jihong A. Ma|[2506.07048](http://arxiv.org/abs/2506.07048)|null|
