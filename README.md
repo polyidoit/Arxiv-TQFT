@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Generalized Symmetries in Shallow Water**|V. Taghiloo, M. H. Vahidinia|[2506.09190](http://arxiv.org/abs/2506.09190)|null|
+|**2025-06-10**|**(2+1)d Lattice Models and Tensor Networks for Gapped Phases with Categorical Symmetry**|Kansei Inamura, Sheng-Jie Huang, Apoorv Tiwari, Sakura Schafer-Nameki|[2506.09177](http://arxiv.org/abs/2506.09177)|null|
+|**2025-06-10**|**Digital Quantum Simulation of the Kitaev Quantum Spin Liquid**|Seongjun Park, Eun-Gook Moon|[2506.09156](http://arxiv.org/abs/2506.09156)|null|
+|**2025-06-10**|**"Symmetry-from-Anomaly" in Condensed Matter related Constructions**|Cenke Xu|[2506.09127](http://arxiv.org/abs/2506.09127)|null|
 |**2025-06-09**|**2-Group Symmetries of 3-dimensional Defect TQFTs and Their Gauging**|Nils Carqueville, Benjamin Haake|[2506.08178](http://arxiv.org/abs/2506.08178)|null|
 |**2025-06-09**|**Compact Temporal Geometry and the $T^2$ Framework for Quantum Gravity**|James Hateley|[2506.08165](http://arxiv.org/abs/2506.08165)|null|
 |**2025-06-09**|**Generalised Orbifolds and G-equivariantisation**|Sebastian Heinrich, Julia Plavnik, Ingo Runkel, Abigail Watkins|[2506.08154](http://arxiv.org/abs/2506.08154)|null|
