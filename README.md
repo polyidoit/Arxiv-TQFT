@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Prediction and control of geometry-induced nematic order in growing multicellular systems**|Lukas Hupe, Jonas Isensee, Ramin Golestanian, Philip Bittihn|[2506.10867](http://arxiv.org/abs/2506.10867)|null|
+|**2025-06-12**|**Generalized Modulated Symmetries in $\mathbb{Z}_2$ Topological Ordered Phases**|Gustavo M. Yoshitome, Heitor Casasola, Rodrigo Corso, Pedro R. S. Gomes|[2506.10819](http://arxiv.org/abs/2506.10819)|null|
+|**2025-06-12**|**Gauges for quadratic gravity: the extended transverse gauge and the energy-momentum tensor of the massive spin-2 field**|Matheus F. S. Alves, L. G. Medeiros, Davi C. Rodrigues|[2506.10793](http://arxiv.org/abs/2506.10793)|null|
+|**2025-06-11**|**Matter symmetries in supersymmetric standard models from non-invertible selection rules**|Tatsuo Kobayashi, Hironobu Mita, Hajime Otsuka, Riku Sakuma|[2506.10241](http://arxiv.org/abs/2506.10241)|null|
+|**2025-06-11**|**Topological defects as effective dynamical dark energy**|Haipeng An, Chengcheng Han, Borui Zhang|[2506.10075](http://arxiv.org/abs/2506.10075)|null|
 |**2025-06-10**|**Generalized Symmetries in Shallow Water**|V. Taghiloo, M. H. Vahidinia|[2506.09190](http://arxiv.org/abs/2506.09190)|null|
 |**2025-06-10**|**(2+1)d Lattice Models and Tensor Networks for Gapped Phases with Categorical Symmetry**|Kansei Inamura, Sheng-Jie Huang, Apoorv Tiwari, Sakura Schafer-Nameki|[2506.09177](http://arxiv.org/abs/2506.09177)|null|
 |**2025-06-10**|**Digital Quantum Simulation of the Kitaev Quantum Spin Liquid**|Seongjun Park, Eun-Gook Moon|[2506.09156](http://arxiv.org/abs/2506.09156)|null|
