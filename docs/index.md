@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-06-12**|**Bulk Excitations of Invertible Phases**|Wenjie Ji, David T. Stephen, Michael Levin, Xie Chen|[2506.11288](http://arxiv.org/abs/2506.11288)|null|
 |**2025-06-12**|**Prediction and control of geometry-induced nematic order in growing multicellular systems**|Lukas Hupe, Jonas Isensee, Ramin Golestanian, Philip Bittihn|[2506.10867](http://arxiv.org/abs/2506.10867)|null|
 |**2025-06-12**|**Generalized Modulated Symmetries in $\mathbb{Z}_2$ Topological Ordered Phases**|Gustavo M. Yoshitome, Heitor Casasola, Rodrigo Corso, Pedro R. S. Gomes|[2506.10819](http://arxiv.org/abs/2506.10819)|null|
 |**2025-06-12**|**Gauges for quadratic gravity: the extended transverse gauge and the energy-momentum tensor of the massive spin-2 field**|Matheus F. S. Alves, L. G. Medeiros, Davi C. Rodrigues|[2506.10793](http://arxiv.org/abs/2506.10793)|null|
