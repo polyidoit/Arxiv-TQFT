@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-06-15**|**Flavor Symmetries and Winding Modes**|Xueqi Li, Xiang-Gan Liu, Hans Peter Nilles, Michael Ratz, Alex Stewart|[2506.12887](http://arxiv.org/abs/2506.12887)|null|
+|**2025-06-15**|**Tri-hypercharge versus tri-darkcharge**|Duong Van Loi, A. E. Cárcamo Hernández, Van Que Tran, N. T. Duy|[2506.12873](http://arxiv.org/abs/2506.12873)|null|
+|**2025-06-14**|**Half-integer thermal conductance in the absence of Majorana mode**|Ujjal Roy, Sourav Manna, Souvik Chakraborty, Kenji Watanabe, Takashi Taniguchi, Ankur Das, Moshe Goldstein, Yuval Gefen, Anindya Das|[2506.12526](http://arxiv.org/abs/2506.12526)|null|
+|**2025-06-14**|**Graph of Verification: Structured Verification of LLM Reasoning with Directed Acyclic Graphs**|Jiwei Fang, Bin Zhang, Changwei Wang, Jin Wan, Zhiwei Xu|[2506.12509](http://arxiv.org/abs/2506.12509)|null|
 |**2025-06-12**|**Bulk Excitations of Invertible Phases**|Wenjie Ji, David T. Stephen, Michael Levin, Xie Chen|[2506.11288](http://arxiv.org/abs/2506.11288)|null|
 |**2025-06-12**|**Prediction and control of geometry-induced nematic order in growing multicellular systems**|Lukas Hupe, Jonas Isensee, Ramin Golestanian, Philip Bittihn|[2506.10867](http://arxiv.org/abs/2506.10867)|null|
 |**2025-06-12**|**Generalized Modulated Symmetries in $\mathbb{Z}_2$ Topological Ordered Phases**|Gustavo M. Yoshitome, Heitor Casasola, Rodrigo Corso, Pedro R. S. Gomes|[2506.10819](http://arxiv.org/abs/2506.10819)|null|
