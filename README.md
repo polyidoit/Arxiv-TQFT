@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Quantum simulation of fermionic non-Abelian lattice gauge theories in $(2+1)$ D with built-in gauge protection**|Gaia De Paciani, Lukas Homeier, Jad C. Halimeh, Monika Aidelsburger, Fabian Grusdt|[2506.14747](http://arxiv.org/abs/2506.14747)|null|
+|**2025-06-17**|**Union-Intersection Union-Find for Decoding Depolarizing Errors in Topological Codes**|Tzu-Hao Lin, Ching-Yi Lai|[2506.14745](http://arxiv.org/abs/2506.14745)|null|
+|**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
+|**2025-06-17**|**Coupling Anisotropic Curvature and Nematic Order: Mechanisms of Membrane Shape Remodeling**|Yoav Ravid, Samo Penič, Luka Mesarec, Nir S. Gov, Veronika Kralj-Iglič, Aleš Iglič, Mitja Drab|[2506.14347](http://arxiv.org/abs/2506.14347)|null|
+|**2025-06-17**|**Hetero-Orbital Two-Component Fractional Quantum Hall States in Bilayer Graphene**|Ke Huang, Ajit C. Balram, Hailong Fu, Chengqi Guo, Kenji Watanabe, Takashi Taniguchi, Jainendra K. Jain, Jun Zhu|[2506.14188](http://arxiv.org/abs/2506.14188)|null|
 |**2025-06-15**|**Flavor Symmetries and Winding Modes**|Xueqi Li, Xiang-Gan Liu, Hans Peter Nilles, Michael Ratz, Alex Stewart|[2506.12887](http://arxiv.org/abs/2506.12887)|null|
 |**2025-06-15**|**Tri-hypercharge versus tri-darkcharge**|Duong Van Loi, A. E. Cárcamo Hernández, Van Que Tran, N. T. Duy|[2506.12873](http://arxiv.org/abs/2506.12873)|null|
 |**2025-06-14**|**Half-integer thermal conductance in the absence of Majorana mode**|Ujjal Roy, Sourav Manna, Souvik Chakraborty, Kenji Watanabe, Takashi Taniguchi, Ankur Das, Moshe Goldstein, Yuval Gefen, Anindya Das|[2506.12526](http://arxiv.org/abs/2506.12526)|null|
