@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.06.18
+> Automatically updated on 2025.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Cosmic Strings in Multi-Step Symmetry Breaking**|Akifumi Chitose, Masahiro Ibe, Satoshi Shirai, Yaxuan Wen|[2506.15194](http://arxiv.org/abs/2506.15194)|null|
+|**2025-06-17**|**The Cosmological Constant from a Quantum Gravitational $θ$ -Vacua and the Gravitational Hall Effect**|Stephon Alexander, Heliudson Bernardo, Aaron Hui|[2506.14886](http://arxiv.org/abs/2506.14886)|null|
 |**2025-06-17**|**Quantum simulation of fermionic non-Abelian lattice gauge theories in $(2+1)$ D with built-in gauge protection**|Gaia De Paciani, Lukas Homeier, Jad C. Halimeh, Monika Aidelsburger, Fabian Grusdt|[2506.14747](http://arxiv.org/abs/2506.14747)|null|
 |**2025-06-17**|**Union-Intersection Union-Find for Decoding Depolarizing Errors in Topological Codes**|Tzu-Hao Lin, Ching-Yi Lai|[2506.14745](http://arxiv.org/abs/2506.14745)|null|
 |**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
@@ -710,5 +712,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 

@@ -1,7 +1,9 @@
-> Automatically updated on 2025.06.18
+> Automatically updated on 2025.06.19
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-06-18**|**Cosmic Strings in Multi-Step Symmetry Breaking**|Akifumi Chitose, Masahiro Ibe, Satoshi Shirai, Yaxuan Wen|[2506.15194](http://arxiv.org/abs/2506.15194)|null|
+|**2025-06-17**|**The Cosmological Constant from a Quantum Gravitational $θ$ -Vacua and the Gravitational Hall Effect**|Stephon Alexander, Heliudson Bernardo, Aaron Hui|[2506.14886](http://arxiv.org/abs/2506.14886)|null|
 |**2025-06-17**|**Quantum simulation of fermionic non-Abelian lattice gauge theories in $(2+1)$ D with built-in gauge protection**|Gaia De Paciani, Lukas Homeier, Jad C. Halimeh, Monika Aidelsburger, Fabian Grusdt|[2506.14747](http://arxiv.org/abs/2506.14747)|null|
 |**2025-06-17**|**Union-Intersection Union-Find for Decoding Depolarizing Errors in Topological Codes**|Tzu-Hao Lin, Ching-Yi Lai|[2506.14745](http://arxiv.org/abs/2506.14745)|null|
 |**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
