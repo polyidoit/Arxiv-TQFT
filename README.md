@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Abelian multi-cycle codes for single-shot error correction**|Hsiang-Ku Lin, Pak Kau Lim, Alexey A. Kovalev, Leonid P. Pryadko|[2506.16910](http://arxiv.org/abs/2506.16910)|null|
+|**2025-06-20**|**Polar solitons in a nonpolar chiral soft matter system**|Jiahao Chen, Xingzhou Tang, Yang Ding, Susanta Chakraborty, Satoshi Aya, Bingxiang Li, Yanqing Lu|[2506.16778](http://arxiv.org/abs/2506.16778)|null|
+|**2025-06-20**|**Radiative lepton seesaw model in a non-invertible fusion rule and gauged $B-L$ symmetry**|Takaaki Nomura, Hiroshi Okada|[2506.16706](http://arxiv.org/abs/2506.16706)|null|
+|**2025-06-20**|**Non-Universal Flipped Trinification Models with Arbitrary $β$**|Richard H. Benavides, Yithsbey Giraldo, Eduardo Rojas|[2506.16693](http://arxiv.org/abs/2506.16693)|null|
+|**2025-06-19**|**Superconductivity in a Chern band: effect of time-reversal-symmetry breaking on superconductivity**|Bernhard E. Lüscher, Mark H. Fischer|[2506.16508](http://arxiv.org/abs/2506.16508)|null|
+|**2025-06-19**|**Dislocations and crystallization dynamics of chiral soliton lattices**|Minoru Eto, Kentaro Nishimura, Muneto Nitta|[2506.16354](http://arxiv.org/abs/2506.16354)|null|
+|**2025-06-19**|**Smooth hybrid inflation in light of ACT DR6 data**|Nobuchika Okada, Osamu Seto|[2506.15965](http://arxiv.org/abs/2506.15965)|null|
 |**2025-06-18**|**Cosmic Strings in Multi-Step Symmetry Breaking**|Akifumi Chitose, Masahiro Ibe, Satoshi Shirai, Yaxuan Wen|[2506.15194](http://arxiv.org/abs/2506.15194)|null|
 |**2025-06-17**|**The Cosmological Constant from a Quantum Gravitational $θ$ -Vacua and the Gravitational Hall Effect**|Stephon Alexander, Heliudson Bernardo, Aaron Hui|[2506.14886](http://arxiv.org/abs/2506.14886)|null|
 |**2025-06-17**|**Quantum simulation of fermionic non-Abelian lattice gauge theories in $(2+1)$ D with built-in gauge protection**|Gaia De Paciani, Lukas Homeier, Jad C. Halimeh, Monika Aidelsburger, Fabian Grusdt|[2506.14747](http://arxiv.org/abs/2506.14747)|null|
