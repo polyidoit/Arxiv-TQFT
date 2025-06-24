@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-06-23**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor, Sanjaye Ramgoolam|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
+|**2025-06-23**|**Topological crystals and soliton lattices in a Gross-Neveu model with Hilbert-space fragmentation**|Sergio Cerezo-Roquebrún, Simon Hands, Alejandro Bermudez|[2506.18675](http://arxiv.org/abs/2506.18675)|null|
+|**2025-06-23**|**Shaping Boundaries to Control and Transport Topological Defects in Colloidal Nematic Liquid Crystals**|Gerardo Campos-Villalobos, André F. V. Matias, Ethan I. L. Jull, Lisa Tran, Marjolein Dijkstra|[2506.18664](http://arxiv.org/abs/2506.18664)|null|
+|**2025-06-23**|**Residual gauge theory for quanta of surface plasmons**|Ken-ichi Sasaki|[2506.18280](http://arxiv.org/abs/2506.18280)|null|
+|**2025-06-20**|**Magnetic Hysteresis Experiments Performed on Quantum Annealers**|Elijah Pelofske, Frank Barrows, Pratik Sathe, Cristiano Nisoli|[2506.17418](http://arxiv.org/abs/2506.17418)|null|
+|**2025-06-20**|**Tunable anyonic permeability across ${\mathbb{Z}_2}$ spin liquid junctions**|Sayak Bhattacharjee, Soumya Sur, Adhip Agarwala|[2506.17394](http://arxiv.org/abs/2506.17394)|null|
 |**2025-06-20**|**Abelian multi-cycle codes for single-shot error correction**|Hsiang-Ku Lin, Pak Kau Lim, Alexey A. Kovalev, Leonid P. Pryadko|[2506.16910](http://arxiv.org/abs/2506.16910)|null|
 |**2025-06-20**|**Polar solitons in a nonpolar chiral soft matter system**|Jiahao Chen, Xingzhou Tang, Yang Ding, Susanta Chakraborty, Satoshi Aya, Bingxiang Li, Yanqing Lu|[2506.16778](http://arxiv.org/abs/2506.16778)|null|
 |**2025-06-20**|**Radiative lepton seesaw model in a non-invertible fusion rule and gauged $B-L$ symmetry**|Takaaki Nomura, Hiroshi Okada|[2506.16706](http://arxiv.org/abs/2506.16706)|null|
