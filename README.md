@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Exchange-correlation torques from gauge symmetries**|Jacques K. Desmarais, Kamel Bencheikh, Giovanni Vignale, Stefano Pittalis|[2506.19458](http://arxiv.org/abs/2506.19458)|null|
+|**2025-06-24**|**Quantum simulation of thermodynamics: Maxwell relations for pair correlations**|F. Rist, R. S. Watson, H. L. Nourse, B. J. Powell, K. V. Kheruntsyan|[2506.19407](http://arxiv.org/abs/2506.19407)|null|
+|**2025-06-24**|**Improved energy barrier in higher-dimensional hypergraph product codes**|Guangqi Zhao|[2506.19219](http://arxiv.org/abs/2506.19219)|null|
 |**2025-06-23**|**Gauged permutation invariant tensor quantum mechanics, least common multiples and the inclusion-exclusion principle**|Denjoe O'Connor, Sanjaye Ramgoolam|[2506.18813](http://arxiv.org/abs/2506.18813)|null|
 |**2025-06-23**|**Topological crystals and soliton lattices in a Gross-Neveu model with Hilbert-space fragmentation**|Sergio Cerezo-Roquebrún, Simon Hands, Alejandro Bermudez|[2506.18675](http://arxiv.org/abs/2506.18675)|null|
 |**2025-06-23**|**Shaping Boundaries to Control and Transport Topological Defects in Colloidal Nematic Liquid Crystals**|Gerardo Campos-Villalobos, André F. V. Matias, Ethan I. L. Jull, Lisa Tran, Marjolein Dijkstra|[2506.18664](http://arxiv.org/abs/2506.18664)|null|
