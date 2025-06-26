@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Anomalous Bulk Current in Quantum Hall Systems with an Expanding Edge**|Yuuki Sugiyama, Tokiro Numasawa|[2506.20338](http://arxiv.org/abs/2506.20338)|null|
+|**2025-06-25**|**Observation of Berry Curvature-Enhanced Anomalous Photo-Nernst Effect in Magnetic Weyl Semimetal**|Zipu Fan, Jinying Yang, Yuchun Chen, Ning Zhao, Xiao Zhuo, Chang Xu, Dehong Yang, Jun Zhou, Jinluo Cheng, Enke Liu, Dong Sun|[2506.20180](http://arxiv.org/abs/2506.20180)|null|
+|**2025-06-24**|**Holography for bulk-boundary local topological order**|Corey Jones, Pieter Naaijkens, David Penneys|[2506.19969](http://arxiv.org/abs/2506.19969)|null|
+|**2025-06-24**|**Predicting wide binaries and deviations from standard gravity using machine learning algorithms**|Amoy Ashesh, Harsimran Kaur, Sandeep Aashish|[2506.19942](http://arxiv.org/abs/2506.19942)|null|
+|**2025-06-24**|**Categorified structures over moduli spaces: Anomalies, non-invertible symmetries, and exceptional holonomy**|A. Perez-Lona, E. Sharpe, X. Yu|[2506.19909](http://arxiv.org/abs/2506.19909)|null|
 |**2025-06-24**|**Exchange-correlation torques from gauge symmetries**|Jacques K. Desmarais, Kamel Bencheikh, Giovanni Vignale, Stefano Pittalis|[2506.19458](http://arxiv.org/abs/2506.19458)|null|
 |**2025-06-24**|**Quantum simulation of thermodynamics: Maxwell relations for pair correlations**|F. Rist, R. S. Watson, H. L. Nourse, B. J. Powell, K. V. Kheruntsyan|[2506.19407](http://arxiv.org/abs/2506.19407)|null|
 |**2025-06-24**|**Improved energy barrier in higher-dimensional hypergraph product codes**|Guangqi Zhao|[2506.19219](http://arxiv.org/abs/2506.19219)|null|
