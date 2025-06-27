@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-06-26**|**Rashba spin-orbit coupling and artificially engineered topological superconductors**|Sankar Das Sarma, Katharina Laubscher, Haining Pan, Jay D. Sau, Tudor D. Stanescu|[2506.21534](http://arxiv.org/abs/2506.21534)|null|
+|**2025-06-26**|**Probing Neutral Triple Gauge Couplings via $ZZ$ Production at $e^+e^-$ Colliders**|John Ellis, Hong-Jian He, Rui-Qing Xiao, Shi-Ping Zeng|[2506.21433](http://arxiv.org/abs/2506.21433)|null|
+|**2025-06-26**|**Theory of the Anderson transition in three-dimensional chiral symmetry classes: Connection to type-II superconductors**|Pengwei Zhao, Ryuichi Shindou|[2506.21050](http://arxiv.org/abs/2506.21050)|null|
+|**2025-06-26**|**Modeling active nematics via the nematic locking principle**|Kevin A. Mitchell, Md Mainul Hasan Sabbir, Sean Ricarte, Brandon Klein, Daniel A. Beller|[2506.20996](http://arxiv.org/abs/2506.20996)|null|
 |**2025-06-25**|**Anomalous Bulk Current in Quantum Hall Systems with an Expanding Edge**|Yuuki Sugiyama, Tokiro Numasawa|[2506.20338](http://arxiv.org/abs/2506.20338)|null|
 |**2025-06-25**|**Observation of Berry Curvature-Enhanced Anomalous Photo-Nernst Effect in Magnetic Weyl Semimetal**|Zipu Fan, Jinying Yang, Yuchun Chen, Ning Zhao, Xiao Zhuo, Chang Xu, Dehong Yang, Jun Zhou, Jinluo Cheng, Enke Liu, Dong Sun|[2506.20180](http://arxiv.org/abs/2506.20180)|null|
 |**2025-06-24**|**Holography for bulk-boundary local topological order**|Corey Jones, Pieter Naaijkens, David Penneys|[2506.19969](http://arxiv.org/abs/2506.19969)|null|
