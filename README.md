@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.06.29
+> Automatically updated on 2025.06.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen, Sayed Ali Akbar Ghorashi, Jennifer Cano, Valentin Crépel|[2506.22417](http://arxiv.org/abs/2506.22417)|null|
+|**2025-06-27**|**Topological Defect Propagation to Classify Knitted Fabrics**|Daisuke S. Shimamoto, Keiko Shimamoto, Sonia Mahmoudi, Samuel Poincloux|[2506.22369](http://arxiv.org/abs/2506.22369)|null|
+|**2025-06-27**|**2-dimensional TFTs via modular $\infty$ -operads**|Jan Steinebrunner|[2506.22104](http://arxiv.org/abs/2506.22104)|null|
+|**2025-06-27**|**Dipoles and Anyonic Directional Confinement via Twisted Toric Codes**|Jose Garre Rubio|[2506.22025](http://arxiv.org/abs/2506.22025)|null|
+|**2025-06-26**|**Spontaneous Quantum Turbulence in a Newborn Bose-Einstein Condensate via the Kibble-Zurek Mechanism**|Seong-Ho Shinn, Matteo Massaro, Mithun Thudiyangal, Adolfo del Campo|[2506.21670](http://arxiv.org/abs/2506.21670)|null|
+|**2025-06-26**|**Infrared foundations for quantum geometry I: Catalogue of totally symmetric rank-three field theories**|Will Barker, Carlo Marzo, Alessandro Santoni|[2506.21662](http://arxiv.org/abs/2506.21662)|null|
 |**2025-06-26**|**Rashba spin-orbit coupling and artificially engineered topological superconductors**|Sankar Das Sarma, Katharina Laubscher, Haining Pan, Jay D. Sau, Tudor D. Stanescu|[2506.21534](http://arxiv.org/abs/2506.21534)|null|
 |**2025-06-26**|**Probing Neutral Triple Gauge Couplings via $ZZ$ Production at $e^+e^-$ Colliders**|John Ellis, Hong-Jian He, Rui-Qing Xiao, Shi-Ping Zeng|[2506.21433](http://arxiv.org/abs/2506.21433)|null|
 |**2025-06-26**|**Theory of the Anderson transition in three-dimensional chiral symmetry classes: Connection to type-II superconductors**|Pengwei Zhao, Ryuichi Shindou|[2506.21050](http://arxiv.org/abs/2506.21050)|null|
@@ -737,5 +743,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
