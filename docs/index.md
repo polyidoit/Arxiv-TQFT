@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu, Siyuan Wang, Yu Zhao, Yidun Wan|[2506.24115](http://arxiv.org/abs/2506.24115)|null|
+|**2025-06-30**|**Constraining Inflation via FIMP dark matter using the $β$ -function with collider implications**|Sarif Khan, Sourov Roy, Ananya Tapadar|[2506.23770](http://arxiv.org/abs/2506.23770)|null|
+|**2025-06-30**|**Radiative Mass Generation in Gauged Theories of Flavour: A Path to Fermion Mass Hierarchies**|Gurucharan Mohanta|[2506.23665](http://arxiv.org/abs/2506.23665)|null|
+|**2025-06-30**|**Breadth, Depth, and Flux of Course-Prerequisite Networks**|Konstantin Zuev, Pavlos Stavrinides|[2506.23510](http://arxiv.org/abs/2506.23510)|null|
+|**2025-06-29**|**Homomorphism, substructure and ideal: Elementary but rigorous aspects of renormalization group or hierarchical structure of topological orders**|Yoshiki Fukusumi, Yuma Furuta|[2506.23155](http://arxiv.org/abs/2506.23155)|null|
+|**2025-06-29**|**Energetic variational modeling of active nematics: coupling the Toner-Tu model with ATP hydrolysis**|Yiwei Wang|[2506.23043](http://arxiv.org/abs/2506.23043)|null|
 |**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen, Sayed Ali Akbar Ghorashi, Jennifer Cano, Valentin Crépel|[2506.22417](http://arxiv.org/abs/2506.22417)|null|
 |**2025-06-27**|**Topological Defect Propagation to Classify Knitted Fabrics**|Daisuke S. Shimamoto, Keiko Shimamoto, Sonia Mahmoudi, Samuel Poincloux|[2506.22369](http://arxiv.org/abs/2506.22369)|null|
 |**2025-06-27**|**2-dimensional TFTs via modular $\infty$ -operads**|Jan Steinebrunner|[2506.22104](http://arxiv.org/abs/2506.22104)|null|
