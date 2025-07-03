@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**$E_6$ Unification of Freeze-In Dark Matter and Leptogenesis**|Adeela Afzal, Rishav Roshan|[2507.01895](http://arxiv.org/abs/2507.01895)|null|
+|**2025-07-02**|**Superradiant Axionic Black-Hole Clouds as Seeds for Graviton Squeezing**|Panagiotis Dorlis, Nick E. Mavromatos, Sarben Sarkar, Sotirios-Neilos Vlachos|[2507.01689](http://arxiv.org/abs/2507.01689)|null|
+|**2025-07-02**|**Prenematic Fluctuations in Nanoparticle-Hosted Systems**|Szymon Starzonek, Krzysztof Górny, Zbigniew Dendzik, Dejvid Črešnar, Aleš Iglič|[2507.01562](http://arxiv.org/abs/2507.01562)|null|
+|**2025-07-02**|**Weak Hopf tube algebra for domain walls between 2d gapped phases of Turaev-Viro TQFTs**|Zhian Jia, Sheng Tan|[2507.01515](http://arxiv.org/abs/2507.01515)|null|
+|**2025-07-02**|**Study of $τ\rightarrow e M^+ M^-$ decays in the N-B-LSSM**|Rong-Zhi Sun, Shu-Min Zhao, Shuang Di, Xing-Xing Dong|[2507.01276](http://arxiv.org/abs/2507.01276)|null|
+|**2025-07-01**|**Gauging Non-Invertible Symmetries in (2+1)d Topological Orders**|Mahesh K. N. Balasubramanian, Matthew Buican, Clement Delcamp, Rajath Radhakrishnan|[2507.01142](http://arxiv.org/abs/2507.01142)|null|
+|**2025-07-01**|**Black Holes in Lorentz-Violating Gravity: Thermodynamics, Geometry, and Particle Dynamics**|Ankit Anand, Aditya Singh, Anshul Mishra, Saeed Noori Gashti, Takol Tangphati, Phongpichit Channuie|[2507.00455](http://arxiv.org/abs/2507.00455)|null|
+|**2025-06-30**|**Topology-ferrimagnetism intertwining via weak interactions in Lieb lattices**|Lei Chen, Bei-Bei Wang, Jianmin Yuan, Long Zhang, Jinsen Han, Yongqiang Li|[2507.00291](http://arxiv.org/abs/2507.00291)|null|
+|**2025-06-30**|**Identifying Anyonic Topological Order in Fractional Quantum Anomalous Hall Systems**|Hisham Sati, Urs Schreiber|[2507.00138](http://arxiv.org/abs/2507.00138)|null|
+|**2025-06-30**|**Majorana zero modes in semiconductor-superconductor hybrid structures: Defining topology in short and disordered nanowires through Majorana splitting**|Haining Pan, Sankar Das Sarma|[2507.00128](http://arxiv.org/abs/2507.00128)|null|
 |**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu, Siyuan Wang, Yu Zhao, Yidun Wan|[2506.24115](http://arxiv.org/abs/2506.24115)|null|
 |**2025-06-30**|**Constraining Inflation via FIMP dark matter using the $β$ -function with collider implications**|Sarif Khan, Sourov Roy, Ananya Tapadar|[2506.23770](http://arxiv.org/abs/2506.23770)|null|
 |**2025-06-30**|**Radiative Mass Generation in Gauged Theories of Flavour: A Path to Fermion Mass Hierarchies**|Gurucharan Mohanta|[2506.23665](http://arxiv.org/abs/2506.23665)|null|
