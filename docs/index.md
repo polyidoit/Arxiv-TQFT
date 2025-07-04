@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-03**|**Noninvertible symmetry and topological holography for modulated SPT in one dimension**|Jintae Kim, Yizhi You, Jung Hoon Han|[2507.02324](http://arxiv.org/abs/2507.02324)|null|
+|**2025-07-03**|**Bias-tailored single-shot quantum LDPC codes**|Shixin Wu, Todd A. Brun, Daniel A. Lidar|[2507.02239](http://arxiv.org/abs/2507.02239)|null|
+|**2025-07-02**|**Spacetime symmetry-enriched SymTFT: from LSM anomalies to modulated symmetries and beyond**|Salvatore D. Pace, Ömer M. Aksoy, Ho Tat Lam|[2507.02036](http://arxiv.org/abs/2507.02036)|null|
+|**2025-07-02**|**Hall-on-Toric: Descendant Laughlin state in the chiral $\mathbb{Z}_p$ toric code**|Robin Schäfer, Claudio Chamon, Chris R. Laumann|[2507.02035](http://arxiv.org/abs/2507.02035)|null|
 |**2025-07-02**|**$E_6$ Unification of Freeze-In Dark Matter and Leptogenesis**|Adeela Afzal, Rishav Roshan|[2507.01895](http://arxiv.org/abs/2507.01895)|null|
 |**2025-07-02**|**Superradiant Axionic Black-Hole Clouds as Seeds for Graviton Squeezing**|Panagiotis Dorlis, Nick E. Mavromatos, Sarben Sarkar, Sotirios-Neilos Vlachos|[2507.01689](http://arxiv.org/abs/2507.01689)|null|
 |**2025-07-02**|**Prenematic Fluctuations in Nanoparticle-Hosted Systems**|Szymon Starzonek, Krzysztof Górny, Zbigniew Dendzik, Dejvid Črešnar, Aleš Iglič|[2507.01562](http://arxiv.org/abs/2507.01562)|null|
