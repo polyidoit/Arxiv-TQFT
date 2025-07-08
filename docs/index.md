@@ -2,6 +2,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-07**|**An operator algebraic approach to fusion category symmetry on the lattice**|David E. Evans, Corey Jones|[2507.05185](http://arxiv.org/abs/2507.05185)|null|
+|**2025-07-07**|**Topological defect modes in bilayer acoustic networks**|Renaud Cote, Marc Pachebat, Antonin Coutant|[2507.05095](http://arxiv.org/abs/2507.05095)|null|
+|**2025-07-07**|**Spin-orbit coupling in digital alloyed InGaAs quantum wells**|Jason T. Dong, Yilmaz Gul, Irene Villar Rodriguez, Aaron N. Engel, Connor P. Dempsey, Stuart N. Holmes, Michael Pepper, Christopher J. Palmstrøm|[2507.04945](http://arxiv.org/abs/2507.04945)|null|
+|**2025-07-06**|**A partially broken Fronsdal model for massless higher-spin particles of integer spin**|D. Dalmazi, B. dos S. Martins|[2507.04226](http://arxiv.org/abs/2507.04226)|null|
+|**2025-07-05**|**Gauging the Schwarzian Action**|A. Pinzul, A. Stern, Chuang Xu|[2507.04091](http://arxiv.org/abs/2507.04091)|null|
+|**2025-07-05**|**Characterization of fractional Chern insulator quasiparticles in moiré transition metal dichalcogenides**|Zhao Liu, Bohao Li, Fengcheng Wu|[2507.04056](http://arxiv.org/abs/2507.04056)|null|
+|**2025-07-04**|**Geometric Modeling of a Line of Alternating Disclinations: Application to Grain Boundaries in Graphene**|A. M. de M. Carvalho, C. Furtado|[2507.03796](http://arxiv.org/abs/2507.03796)|null|
+|**2025-07-04**|**Topological defects govern plasticity and shear band formation in two-dimensional amorphous solids**|Xin Wang, Jin Shang, Yujie Wang, Jie Zhang, Matteo Baggioli|[2507.03771](http://arxiv.org/abs/2507.03771)|null|
+|**2025-07-03**|**Carroll theories from Lorentzian light-cone theories**|Sucheta Majumdar|[2507.03081](http://arxiv.org/abs/2507.03081)|null|
 |**2025-07-03**|**Noninvertible symmetry and topological holography for modulated SPT in one dimension**|Jintae Kim, Yizhi You, Jung Hoon Han|[2507.02324](http://arxiv.org/abs/2507.02324)|null|
 |**2025-07-03**|**Bias-tailored single-shot quantum LDPC codes**|Shixin Wu, Todd A. Brun, Daniel A. Lidar|[2507.02239](http://arxiv.org/abs/2507.02239)|null|
 |**2025-07-02**|**Spacetime symmetry-enriched SymTFT: from LSM anomalies to modulated symmetries and beyond**|Salvatore D. Pace, Ömer M. Aksoy, Ho Tat Lam|[2507.02036](http://arxiv.org/abs/2507.02036)|null|
