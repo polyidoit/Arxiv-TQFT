@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-08**|**Topological Holography for Mixed-State Phases and Phase Transitions**|Ran Luo, Yi-Nan Wang, Zhen Bi|[2507.06218](http://arxiv.org/abs/2507.06218)|null|
+|**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu, Kuljeet Kaur, Chloé Vignes, Mohammad H. Ansari, John M. Martinis|[2507.06201](http://arxiv.org/abs/2507.06201)|null|
+|**2025-07-08**|**A Homothetic Gauge Theory**|Fereidoun Sabetghadam|[2507.06153](http://arxiv.org/abs/2507.06153)|null|
+|**2025-07-08**|**New Solutions for Topological Defects with Continuous Distributions:A Conformal Metric Perspective**|A. M. de M. Carvalho, G. Q. Garcia, C. Furtado|[2507.06117](http://arxiv.org/abs/2507.06117)|null|
+|**2025-07-08**|**Irreversibility in scalar active turbulence: The role of topological defects**|Byjesh N. Radhakrishnan, Francesco Serafin, Thomas L. Schmidt, Etienne Fodor|[2507.06073](http://arxiv.org/abs/2507.06073)|null|
+|**2025-07-08**|**SMEFT ATLAS: The Landscape Beyond the Standard Model**|Jason Aebischer, Andrzej J. Buras, Jacky Kumar|[2507.05926](http://arxiv.org/abs/2507.05926)|null|
+|**2025-07-08**|**Modular functors from conformal blocks of rational vertex operator algebras**|Chiara Damiolini, Lukas Woike|[2507.05845](http://arxiv.org/abs/2507.05845)|null|
+|**2025-07-07**|**SymTFT Approach for Mixed States with Non-Invertible Symmetries**|Sakura Schafer-Nameki, Apoorv Tiwari, Alison Warman, Carolyn Zhang|[2507.05350](http://arxiv.org/abs/2507.05350)|null|
+|**2025-07-07**|**Infrared foundations for quantum geometry II: Catalogue of all torsion-like theories including new ghost-tachyon-free cases**|Will Barker, Carlo Marzo, Alessandro Santoni|[2507.05349](http://arxiv.org/abs/2507.05349)|null|
+|**2025-07-07**|**The Symmetry Taco: Equivalences between Gapped, Gapless, and Mixed-State SPTs**|Marvin Qi, Ramanjit Sohal, Xie Chen, David T. Stephen, Abhinav Prem|[2507.05335](http://arxiv.org/abs/2507.05335)|null|
 |**2025-07-07**|**An operator algebraic approach to fusion category symmetry on the lattice**|David E. Evans, Corey Jones|[2507.05185](http://arxiv.org/abs/2507.05185)|null|
 |**2025-07-07**|**Topological defect modes in bilayer acoustic networks**|Renaud Cote, Marc Pachebat, Antonin Coutant|[2507.05095](http://arxiv.org/abs/2507.05095)|null|
 |**2025-07-07**|**Spin-orbit coupling in digital alloyed InGaAs quantum wells**|Jason T. Dong, Yilmaz Gul, Irene Villar Rodriguez, Aaron N. Engel, Connor P. Dempsey, Stuart N. Holmes, Michael Pepper, Christopher J. Palmstrøm|[2507.04945](http://arxiv.org/abs/2507.04945)|null|
