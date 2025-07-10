@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-09**|**SimCortex: Collision-free Simultaneous Cortical Surfaces Reconstruction**|Kaveh Moradkhani, R Jarrett Rushmore, Sylvain Bouix|[2507.06955](http://arxiv.org/abs/2507.06955)|null|
+|**2025-07-09**|**Landau theory for lattice higher gauge theory and Kramers-Wannier duality**|Kiyoharu Kawana|[2507.06555](http://arxiv.org/abs/2507.06555)|null|
+|**2025-07-09**|**Gap reopening as signature of coupling between Majorana zero modes in Sn-(Bi,Sb)2(Te,S)3-based Josephson trijunctions**|Duolin Wang, Xiang Zhang, Yunxiao Zhang, Heng Zhang, Fucong Fei, Xiang Wang, Bing Li, Xiaozhou Yang, Yukun Shi, Zhongmou Jia, Enna Zhuo, Yuyang Huang, Anqi Wang, Zenan Shi, Zhaozheng Lyu, Xiaohui Song, Peiling Li, Bingbing Tong, Ziwei Dou, Jie Shen, Guangtong Liu, Fanming Qu, Fengqi Song, Li Lu|[2507.06474](http://arxiv.org/abs/2507.06474)|null|
+|**2025-07-08**|**Grand-unification Theory Atlas: Standard Model and Beyond**|Giacomo Cacciapaglia, Aldo Deandrea, Konstantinos Kollias, Francesco Sannino|[2507.06368](http://arxiv.org/abs/2507.06368)|null|
+|**2025-07-08**|**Mutual Influence of Symmetries and Topological Field Theories**|Daniel Teixeira, Matthew Yu|[2507.06304](http://arxiv.org/abs/2507.06304)|null|
 |**2025-07-08**|**Topological Holography for Mixed-State Phases and Phase Transitions**|Ran Luo, Yi-Nan Wang, Zhen Bi|[2507.06218](http://arxiv.org/abs/2507.06218)|null|
 |**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu, Kuljeet Kaur, Chloé Vignes, Mohammad H. Ansari, John M. Martinis|[2507.06201](http://arxiv.org/abs/2507.06201)|null|
 |**2025-07-08**|**A Homothetic Gauge Theory**|Fereidoun Sabetghadam|[2507.06153](http://arxiv.org/abs/2507.06153)|null|
