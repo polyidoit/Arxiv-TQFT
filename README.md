@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Emergent QED $_3$ at the bosonic Laughlin state to superfluid transition**|Taige Wang, Xue-Yang Song, Michael P. Zaletel, T. Senthil|[2507.07611](http://arxiv.org/abs/2507.07611)|null|
 |**2025-07-09**|**SimCortex: Collision-free Simultaneous Cortical Surfaces Reconstruction**|Kaveh Moradkhani, R Jarrett Rushmore, Sylvain Bouix|[2507.06955](http://arxiv.org/abs/2507.06955)|null|
 |**2025-07-09**|**Landau theory for lattice higher gauge theory and Kramers-Wannier duality**|Kiyoharu Kawana|[2507.06555](http://arxiv.org/abs/2507.06555)|null|
 |**2025-07-09**|**Gap reopening as signature of coupling between Majorana zero modes in Sn-(Bi,Sb)2(Te,S)3-based Josephson trijunctions**|Duolin Wang, Xiang Zhang, Yunxiao Zhang, Heng Zhang, Fucong Fei, Xiang Wang, Bing Li, Xiaozhou Yang, Yukun Shi, Zhongmou Jia, Enna Zhuo, Yuyang Huang, Anqi Wang, Zenan Shi, Zhaozheng Lyu, Xiaohui Song, Peiling Li, Bingbing Tong, Ziwei Dou, Jie Shen, Guangtong Liu, Fanming Qu, Fengqi Song, Li Lu|[2507.06474](http://arxiv.org/abs/2507.06474)|null|
