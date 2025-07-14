@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-11**|**Minimal Multi-Majoron Model**|Bowen Fu, Anish Ghoshal, Stephen F. King|[2507.08645](http://arxiv.org/abs/2507.08645)|null|
+|**2025-07-10**|**Real-Time Dynamics in a (2+1)-D Gauge Theory: The Stringy Nature on a Superconducting Quantum Simulator**|Jesús Cobos, Joana Fraxanet, César Benito, Francesco di Marcantonio, Pedro Rivero, Kornél Kapás, Miklós Antal Werner, Örs Legeza, Alejandro Bermudez, Enrique Rico|[2507.08088](http://arxiv.org/abs/2507.08088)|null|
+|**2025-07-10**|**A dynamic circuit for the honeycomb Floquet code**|Jahan Claes|[2507.08069](http://arxiv.org/abs/2507.08069)|null|
 |**2025-07-10**|**Emergent QED $_3$ at the bosonic Laughlin state to superfluid transition**|Taige Wang, Xue-Yang Song, Michael P. Zaletel, T. Senthil|[2507.07611](http://arxiv.org/abs/2507.07611)|null|
 |**2025-07-09**|**SimCortex: Collision-free Simultaneous Cortical Surfaces Reconstruction**|Kaveh Moradkhani, R Jarrett Rushmore, Sylvain Bouix|[2507.06955](http://arxiv.org/abs/2507.06955)|null|
 |**2025-07-09**|**Landau theory for lattice higher gauge theory and Kramers-Wannier duality**|Kiyoharu Kawana|[2507.06555](http://arxiv.org/abs/2507.06555)|null|
