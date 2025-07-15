@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-14**|**Waterfall phase in supersymmetric hybrid inflation**|Ahmad Moursy, Qaisar Shafi|[2507.10460](http://arxiv.org/abs/2507.10460)|null|
+|**2025-07-12**|**Microscopic origin of shear bands in 2D amorphous solids from topological defects**|Arabinda Bera, Debjyoti Majumdar, Timothy W. Sirk, Ido Regev, Alessio Zaccone|[2507.09250](http://arxiv.org/abs/2507.09250)|null|
+|**2025-07-11**|**Robust Chiral Edge Dynamics of a Kitaev Honeycomb on a Trapped Ion Processor**|Ammar Ali, Joe Gibbs, Keerthi Kumaran, Varadharajan Muruganandam, Bo Xiao, Paul Kairys, Gábor Halász, Arnab Banerjee, Phillip C. Lotshaw|[2507.08939](http://arxiv.org/abs/2507.08939)|null|
+|**2025-07-11**|**Anyon-trions in atomically thin semiconductor heterostructures**|Nader Mostaan, Nathan Goldman, Ataç İmamoğlu, Fabian Grusdt|[2507.08933](http://arxiv.org/abs/2507.08933)|null|
 |**2025-07-11**|**Minimal Multi-Majoron Model**|Bowen Fu, Anish Ghoshal, Stephen F. King|[2507.08645](http://arxiv.org/abs/2507.08645)|null|
 |**2025-07-10**|**Real-Time Dynamics in a (2+1)-D Gauge Theory: The Stringy Nature on a Superconducting Quantum Simulator**|Jesús Cobos, Joana Fraxanet, César Benito, Francesco di Marcantonio, Pedro Rivero, Kornél Kapás, Miklós Antal Werner, Örs Legeza, Alejandro Bermudez, Enrique Rico|[2507.08088](http://arxiv.org/abs/2507.08088)|null|
 |**2025-07-10**|**A dynamic circuit for the honeycomb Floquet code**|Jahan Claes|[2507.08069](http://arxiv.org/abs/2507.08069)|null|
