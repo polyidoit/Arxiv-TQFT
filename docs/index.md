@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-15**|**Understanding Quantum Information and Computation**|John Watrous|[2507.11536](http://arxiv.org/abs/2507.11536)|null|
+|**2025-07-15**|**Reviving the Search for Indium-Based Superconductors: Theoretical Prediction of Semimetallic Superconductivity in Cubic Nd $_3$ In**|Arafat Rahman, Alamgir Kabir, Tareq Mahmud|[2507.11123](http://arxiv.org/abs/2507.11123)|null|
+|**2025-07-15**|**Residual gauge symmetry and color confinement in the Yang-Mills theory**|Naoki Fukushima, Kei-Ichi Kondo|[2507.11101](http://arxiv.org/abs/2507.11101)|null|
+|**2025-07-15**|**Rapid mixing for Gibbs states within a logical sector: a dynamical view of self-correcting quantum memories**|Thiago Bergamaschi, Reza Gheissari, Yunchao Liu|[2507.10976](http://arxiv.org/abs/2507.10976)|null|
+|**2025-07-15**|**Strongly topologically orderable gyrogroups with a suitable set**|Jiamin He, Jiajia Yang, Fucai Lin|[2507.10909](http://arxiv.org/abs/2507.10909)|null|
+|**2025-07-15**|**Geodesics, Scalar Fields, and GUP-Corrected Thermodynamics of Charged BTZ-like Black Holes in Bopp-Podolsky Electrodynamics**|Faizuddin Ahmed, Ahmad Al-Badawi, Abdelmalek Bouzenada, Erdem Sucu, İzzet Sakallı|[2507.10874](http://arxiv.org/abs/2507.10874)|null|
+|**2025-07-14**|**Causal Discovery for Linear Non-Gaussian Models with Disjoint Cycles**|Mathias Drton, Marina Garrote-López, Niko Nikov, Elina Robeva, Y. Samuel Wang|[2507.10767](http://arxiv.org/abs/2507.10767)|null|
+|**2025-07-14**|**Stabilizer Rényi Entropy Encodes Fusion Rules of Topological Defects and Boundaries**|Masahiro Hoshino, Yuto Ashida|[2507.10656](http://arxiv.org/abs/2507.10656)|null|
 |**2025-07-14**|**Waterfall phase in supersymmetric hybrid inflation**|Ahmad Moursy, Qaisar Shafi|[2507.10460](http://arxiv.org/abs/2507.10460)|null|
 |**2025-07-12**|**Microscopic origin of shear bands in 2D amorphous solids from topological defects**|Arabinda Bera, Debjyoti Majumdar, Timothy W. Sirk, Ido Regev, Alessio Zaccone|[2507.09250](http://arxiv.org/abs/2507.09250)|null|
 |**2025-07-11**|**Robust Chiral Edge Dynamics of a Kitaev Honeycomb on a Trapped Ion Processor**|Ammar Ali, Joe Gibbs, Keerthi Kumaran, Varadharajan Muruganandam, Bo Xiao, Paul Kairys, Gábor Halász, Arnab Banerjee, Phillip C. Lotshaw|[2507.08939](http://arxiv.org/abs/2507.08939)|null|
