@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-16**|**The AdS/ $\mathsf{C}$-$\mathsf{P}$-${\mathsf T}$ Correspondence**|Jaume Gomis|[2507.12467](http://arxiv.org/abs/2507.12467)|null|
+|**2025-07-16**|**Emergent Symmetry and Phase Transitions on the Domain Wall of $\mathbb{Z}_{2}$ Topological Orders**|Hong-Hao Song, Chen Peng, Rui-Zhen Huang, Long Zhang|[2507.12193](http://arxiv.org/abs/2507.12193)|null|
+|**2025-07-16**|**Hidden diffeos in the Hamiltonian formulation of a background independent field theory**|J. Fernando Barbero G., Bogar Díaz, Juan Margalef-Bentabol, Eduardo J. S. Villaseñor|[2507.12184](http://arxiv.org/abs/2507.12184)|null|
 |**2025-07-15**|**Understanding Quantum Information and Computation**|John Watrous|[2507.11536](http://arxiv.org/abs/2507.11536)|null|
 |**2025-07-16**|**Reviving the Search for Indium-Based Superconductors: Theoretical Prediction of Semimetallic Superconductivity in Cubic Nd $_3$ In**|Arafat Rahman, Alamgir Kabir, Tareq Mahmud|[2507.11123](http://arxiv.org/abs/2507.11123)|null|
 |**2025-07-15**|**Residual gauge symmetry and color confinement in the Yang-Mills theory**|Naoki Fukushima, Kei-Ichi Kondo|[2507.11101](http://arxiv.org/abs/2507.11101)|null|
