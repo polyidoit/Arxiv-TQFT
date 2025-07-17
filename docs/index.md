@@ -1,9 +1,9 @@
-> Automatically updated on 2025.07.16
+> Automatically updated on 2025.07.17
 
 ## TQFT, Topological order, Generalized symmetry
 
 |**2025-07-15**|**Understanding Quantum Information and Computation**|John Watrous|[2507.11536](http://arxiv.org/abs/2507.11536)|null|
-|**2025-07-15**|**Reviving the Search for Indium-Based Superconductors: Theoretical Prediction of Semimetallic Superconductivity in Cubic Nd $_3$ In**|Arafat Rahman, Alamgir Kabir, Tareq Mahmud|[2507.11123](http://arxiv.org/abs/2507.11123)|null|
+|**2025-07-16**|**Reviving the Search for Indium-Based Superconductors: Theoretical Prediction of Semimetallic Superconductivity in Cubic Nd $_3$ In**|Arafat Rahman, Alamgir Kabir, Tareq Mahmud|[2507.11123](http://arxiv.org/abs/2507.11123)|null|
 |**2025-07-15**|**Residual gauge symmetry and color confinement in the Yang-Mills theory**|Naoki Fukushima, Kei-Ichi Kondo|[2507.11101](http://arxiv.org/abs/2507.11101)|null|
 |**2025-07-15**|**Rapid mixing for Gibbs states within a logical sector: a dynamical view of self-correcting quantum memories**|Thiago Bergamaschi, Reza Gheissari, Yunchao Liu|[2507.10976](http://arxiv.org/abs/2507.10976)|null|
 |**2025-07-15**|**Strongly topologically orderable gyrogroups with a suitable set**|Jiamin He, Jiajia Yang, Fucai Lin|[2507.10909](http://arxiv.org/abs/2507.10909)|null|
