@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-17**|**Preheated inflation**|Diogo S. Gorgulho, João G. Rosa|[2507.13156](http://arxiv.org/abs/2507.13156)|null|
+|**2025-07-17**|**Generation of Axions and Axion-Like Particles through Mass Parametric Resonance induced by Scalar Perturbations in the Early Universe**|Ruifeng Zheng, Puxian Wei, Qiaoli Yang|[2507.13127](http://arxiv.org/abs/2507.13127)|null|
+|**2025-07-17**|**Functional Renormalization Group Flows and Gauge Consistency in QED**|Yoshio Echigo, Yuji Igarashi, Katsumi Itoh, Jan M. Pawlowski, Yu Takahashi|[2507.12974](http://arxiv.org/abs/2507.12974)|null|
+|**2025-07-16**|**Defect Interactions Through Periodic Boundaries in Two-Dimensional $p$ -atics**|Cody D. Schimming|[2507.12597](http://arxiv.org/abs/2507.12597)|null|
+|**2025-07-16**|**Spacetime duality between sequential and measurement-feedback circuits**|Tsung-Cheng Lu, Sarang Gopalakrishnan, Yizhi You|[2507.12523](http://arxiv.org/abs/2507.12523)|null|
+|**2025-07-16**|**Covering space maps for $n$ -point functions with three long twists**|Benjamin A. Burrington, Ida G. Zadeh|[2507.12512](http://arxiv.org/abs/2507.12512)|null|
 |**2025-07-16**|**The AdS/ $\mathsf{C}$-$\mathsf{P}$-${\mathsf T}$ Correspondence**|Jaume Gomis|[2507.12467](http://arxiv.org/abs/2507.12467)|null|
 |**2025-07-16**|**Emergent Symmetry and Phase Transitions on the Domain Wall of $\mathbb{Z}_{2}$ Topological Orders**|Hong-Hao Song, Chen Peng, Rui-Zhen Huang, Long Zhang|[2507.12193](http://arxiv.org/abs/2507.12193)|null|
 |**2025-07-16**|**Hidden diffeos in the Hamiltonian formulation of a background independent field theory**|J. Fernando Barbero G., Bogar Díaz, Juan Margalef-Bentabol, Eduardo J. S. Villaseñor|[2507.12184](http://arxiv.org/abs/2507.12184)|null|
