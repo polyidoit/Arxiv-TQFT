@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-18**|**On the relation between perspective-neutral, algebraic, and effective quantum reference frames**|Philipp A. Hoehn, Julian De Vuyst, Artur Tsobanjan|[2507.14131](http://arxiv.org/abs/2507.14131)|null|
+|**2025-07-18**|**Anyonic analogue of optical Mach-Zehnder interferometer**|Navketan Batra, Zezhu Wei, Smitha Vishweshwara, D. E. Feldman|[2507.14115](http://arxiv.org/abs/2507.14115)|null|
+|**2025-07-18**|**Optimal antimatroid sorting**|Benjamin Aram Berendsohn|[2507.13994](http://arxiv.org/abs/2507.13994)|null|
 |**2025-07-17**|**Preheated inflation**|Diogo S. Gorgulho, João G. Rosa|[2507.13156](http://arxiv.org/abs/2507.13156)|null|
 |**2025-07-17**|**Generation of Axions and Axion-Like Particles through Mass Parametric Resonance induced by Scalar Perturbations in the Early Universe**|Ruifeng Zheng, Puxian Wei, Qiaoli Yang|[2507.13127](http://arxiv.org/abs/2507.13127)|null|
 |**2025-07-17**|**Functional Renormalization Group Flows and Gauge Consistency in QED**|Yoshio Echigo, Yuji Igarashi, Katsumi Itoh, Jan M. Pawlowski, Yu Takahashi|[2507.12974](http://arxiv.org/abs/2507.12974)|null|
