@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-21**|**Simphony: A full tight-binding package for lattice vibrations and topological phonon analysis**|Francesc Ballester, Ion Errea, Maia G. Vergniory|[2507.15413](http://arxiv.org/abs/2507.15413)|null|
+|**2025-07-20**|**Optics in spiral dislocation spacetime: Torsion as a geometric waveguide and frequency-filtering mechanism**|Semra Gurtas Dogan, Omar Mustafa, Abdullah Guvendi, Hassan Hassanabadi|[2507.14865](http://arxiv.org/abs/2507.14865)|null|
+|**2025-07-19**|**Pruning Increases Orderedness in Recurrent Computation**|Yiding Song|[2507.14747](http://arxiv.org/abs/2507.14747)|null|
+|**2025-07-19**|**Confinement, Nonlocality and Haag Duality Violation in the Algebraic Structure of 1+1D QED**|Fidele J. Twagirayezu|[2507.14699](http://arxiv.org/abs/2507.14699)|null|
+|**2025-07-19**|**The physical consequences of sperm gigantism**|Jasmin Imran Alsous, Brato Chakrabarti, Bryce Palmer, Michael J. Shelley|[2507.14567](http://arxiv.org/abs/2507.14567)|null|
+|**2025-07-19**|**A new collective mode in an iron-based superconductor with electronic nematicity**|Haruki Matsumoto, Silvia Neri, Tomoki Kobayashi, Atsutaka Maeda, Dirk Manske, Ryo Shimano|[2507.14466](http://arxiv.org/abs/2507.14466)|null|
+|**2025-07-18**|**The Supersymmetric Standard Model, combined with a special Exotic Invariant, yields a new kind of SUSY mass splitting (E6)**|John A. Dixon|[2507.14381](http://arxiv.org/abs/2507.14381)|null|
+|**2025-07-18**|**Irrational CFTs from coupled anyon chains with non-invertible symmetries?**|António Antunes, Junchen Rong|[2507.14280](http://arxiv.org/abs/2507.14280)|null|
 |**2025-07-18**|**On the relation between perspective-neutral, algebraic, and effective quantum reference frames**|Julian De Vuyst, Philipp A. Hoehn, Artur Tsobanjan|[2507.14131](http://arxiv.org/abs/2507.14131)|null|
 |**2025-07-18**|**Anyonic analogue of optical Mach-Zehnder interferometer**|Navketan Batra, Zezhu Wei, Smitha Vishweshwara, D. E. Feldman|[2507.14115](http://arxiv.org/abs/2507.14115)|null|
 |**2025-07-18**|**Optimal antimatroid sorting**|Benjamin Aram Berendsohn|[2507.13994](http://arxiv.org/abs/2507.13994)|null|
