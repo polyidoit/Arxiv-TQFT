@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.07.21
+> Automatically updated on 2025.07.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-18**|**On the relation between perspective-neutral, algebraic, and effective quantum reference frames**|Philipp A. Hoehn, Julian De Vuyst, Artur Tsobanjan|[2507.14131](http://arxiv.org/abs/2507.14131)|null|
+|**2025-07-18**|**On the relation between perspective-neutral, algebraic, and effective quantum reference frames**|Julian De Vuyst, Philipp A. Hoehn, Artur Tsobanjan|[2507.14131](http://arxiv.org/abs/2507.14131)|null|
 |**2025-07-18**|**Anyonic analogue of optical Mach-Zehnder interferometer**|Navketan Batra, Zezhu Wei, Smitha Vishweshwara, D. E. Feldman|[2507.14115](http://arxiv.org/abs/2507.14115)|null|
 |**2025-07-18**|**Optimal antimatroid sorting**|Benjamin Aram Berendsohn|[2507.13994](http://arxiv.org/abs/2507.13994)|null|
 |**2025-07-17**|**Preheated inflation**|Diogo S. Gorgulho, João G. Rosa|[2507.13156](http://arxiv.org/abs/2507.13156)|null|
@@ -815,5 +815,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
