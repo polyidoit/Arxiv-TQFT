@@ -2,6 +2,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-07-22**|**Collective synchrony in confluent, pulsatile epithelia**|Wenhui Tang, Mehrana R. Nejad, Adrian F. Pegoraro, L. Mahadevan, Ming Guo|[2507.16772](http://arxiv.org/abs/2507.16772)|null|
+|**2025-07-22**|**Notes from the bulk**|Erica Bertolini|[2507.16744](http://arxiv.org/abs/2507.16744)|null|
+|**2025-07-22**|**"Odd" Toric Code in a tilted field: Higgs-confinement multicriticality, spontaneous self-duality symmetry breaking, and valence bond solids**|Umberto Borla, Ayush De, Snir Gazit|[2507.16523](http://arxiv.org/abs/2507.16523)|null|
+|**2025-07-22**|**Defect-Mediated Melting of Square-Lattice Solids**|William Grampel, Daniel Podolsky|[2507.16418](http://arxiv.org/abs/2507.16418)|null|
+|**2025-07-22**|**Zurek's scaling-law in the Ising model out of thermal equilibrium**|José Armando Pérez-Loera, Wolfgang Bietenholz|[2507.16168](http://arxiv.org/abs/2507.16168)|null|
+|**2025-07-21**|**A Partially Massless Superconductor**|Kurt Hinterbichler, Austin Joyce|[2507.15932](http://arxiv.org/abs/2507.15932)|null|
+|**2025-07-21**|**Generalized symmetry enriched criticality in (3+1)d**|Benjamin Moy|[2507.15925](http://arxiv.org/abs/2507.15925)|null|
 |**2025-07-21**|**Simphony: A full tight-binding package for lattice vibrations and topological phonon analysis**|Francesc Ballester, Ion Errea, Maia G. Vergniory|[2507.15413](http://arxiv.org/abs/2507.15413)|null|
 |**2025-07-20**|**Optics in spiral dislocation spacetime: Torsion as a geometric waveguide and frequency-filtering mechanism**|Semra Gurtas Dogan, Omar Mustafa, Abdullah Guvendi, Hassan Hassanabadi|[2507.14865](http://arxiv.org/abs/2507.14865)|null|
 |**2025-07-19**|**Pruning Increases Orderedness in Recurrent Computation**|Yiding Song|[2507.14747](http://arxiv.org/abs/2507.14747)|null|
