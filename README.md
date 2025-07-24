@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Gauge Symmetries, Exact Symmetries and Conserved Charges in Minimal Massive Gravity**|Kang Liu, Xiao-Mei Kuang|[2507.17635](http://arxiv.org/abs/2507.17635)|null|
+|**2025-07-23**|**A Numerical Study on Gauge Symmetry of Electroweak Amplitudes**|Wang-Fa Li, Junmou Chen, Qian-Jiu Wang, Zhao-Huan Yu|[2507.17429](http://arxiv.org/abs/2507.17429)|null|
+|**2025-07-23**|**Quantum walks reveal topological flat bands, robust edge states and topological phase transitions in cyclic graphs**|Dinesh Kumar Panda, Colin Benjamin|[2507.17250](http://arxiv.org/abs/2507.17250)|null|
+|**2025-07-23**|**Cochain valued TQFTs from nonsemisimple modular tensor categories**|Agustina Czenky, Cris Negron|[2507.17169](http://arxiv.org/abs/2507.17169)|null|
+|**2025-07-23**|**Defect-Mediated Aggregation and Motility-Induced Phase Separation in Active XY Model**|Shun Inoue, Satoshi Yukawa|[2507.17108](http://arxiv.org/abs/2507.17108)|null|
+|**2025-07-23**|**Symmetry, Symmetry Topological Field Theory and von Neumann Algebra**|Qiang Jia, Jiahua Tian|[2507.17103](http://arxiv.org/abs/2507.17103)|null|
 |**2025-07-22**|**Collective synchrony in confluent, pulsatile epithelia**|Wenhui Tang, Mehrana R. Nejad, Adrian F. Pegoraro, L. Mahadevan, Ming Guo|[2507.16772](http://arxiv.org/abs/2507.16772)|null|
 |**2025-07-22**|**Notes from the bulk**|Erica Bertolini|[2507.16744](http://arxiv.org/abs/2507.16744)|null|
 |**2025-07-22**|**"Odd" Toric Code in a tilted field: Higgs-confinement multicriticality, spontaneous self-duality symmetry breaking, and valence bond solids**|Umberto Borla, Ayush De, Snir Gazit|[2507.16523](http://arxiv.org/abs/2507.16523)|null|
