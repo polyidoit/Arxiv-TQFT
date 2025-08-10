@@ -7,14 +7,13 @@ import logging
 import argparse
 import datetime
 import requests
-import time
-from requests.exceptions import RequestException
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
+github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
 def load_config(config_file:str) -> dict:
@@ -33,9 +32,9 @@ def load_config(config_file:str) -> dict:
             for idx in range(0,len(filters)):
                 filter = filters[idx]
                 if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)
+                    ret += (EXCAPE + filter + EXCAPE)  
                 else:
-                    ret += (QUOTA + filter + QUOTA)
+                    ret += (QUOTA + filter + QUOTA)   
                 if idx != len(filters) - 1:
                     ret += OR
             return ret
@@ -43,10 +42,10 @@ def load_config(config_file:str) -> dict:
             keywords[k] = parse_filters(v['filters'])
         return keywords
     with open(config_file,'r') as f:
-        config = yaml.load(f,Loader=yaml.FullLoader)
+        config = yaml.load(f,Loader=yaml.FullLoader) 
         config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
-    return config
+    return config 
 
 def get_authors(authors):
     """
@@ -60,7 +59,7 @@ def sort_papers(papers):
     keys.sort(reverse=True)
     for key in keys:
         output[key] = papers[key]
-    return output
+    return output    
 
 def get_daily_papers(topic, query="slam", max_results=2):
     """
@@ -68,115 +67,65 @@ def get_daily_papers(topic, query="slam", max_results=2):
     @param query: str
     @return paper_with_code: dict
     """
-    content = dict()
+    content = dict() 
     content_to_web = dict()
-
-    # Configure the arxiv client with explicit delay and retries
-    client = arxiv.Client(
-        page_size=100, # Fetch 100 results per page, adjust as needed
-        delay_seconds=3, # Adhere to arXiv's 3-second delay policy
-        num_retries=5 # Retry failed requests
-    )
-
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate,
-        client=client # Pass the custom client
+        sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    try:
-        # Iterate through results using the custom client
-        for result in client.results(search_engine):
-            paper_id            = result.get_short_id()
-            paper_title         = result.title
-            paper_url           = result.entry_id
-            code_url            = base_url + paper_id
-            paper_abstract      = result.summary.replace("\n"," ")
-            paper_authors       = get_authors(result.authors)
-            primary_category    = result.primary_category
-            publish_time        = result.published.date()
-            update_time         = result.updated.date()
-            comments            = result.comment
+    for result in search_engine.results():
 
-            logging.info(f"Time = {update_time} title = {paper_title} author = {paper_authors}")
+        paper_id            = result.get_short_id()
+        paper_title         = result.title
+        paper_url           = result.entry_id
+        code_url            = base_url + paper_id
+        paper_abstract      = result.summary.replace("\n"," ")
+        paper_authors       = get_authors(result.authors)
+        primary_category    = result.primary_category
+        publish_time        = result.published.date()
+        update_time         = result.updated.date()
+        comments            = result.comment
 
-            ver_pos = paper_id.find('v')
-            if ver_pos == -1:
-                paper_key = paper_id
+        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_authors}")
+
+        ver_pos = paper_id.find('v')
+        if ver_pos == -1:
+            paper_key = paper_id
+        else:
+            paper_key = paper_id[0:ver_pos]    
+        paper_url = arxiv_url + 'abs/' + paper_key
+        
+        try:
+            r = requests.get(code_url).json()
+            repo_url = None
+            if "official" in r and r["official"]:
+                repo_url = r["official"]["url"]
+            if repo_url is not None:
+                content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|**[link]({})**|\n".format(
+                       update_time,paper_title,paper_authors,paper_key,paper_url,repo_url)
+                content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({}), Code: **[{}]({})**".format(
+                       update_time,paper_title,paper_authors,paper_url,paper_url,repo_url,repo_url)
+
             else:
-                paper_key = paper_id[0:ver_pos]
-            paper_url = arxiv_url + 'abs/' + paper_key
+                content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|null|\n".format(
+                       update_time,paper_title,paper_authors,paper_key,paper_url)
+                content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({})".format(
+                       update_time,paper_title,paper_authors,paper_url,paper_url)
 
-            # Implement retry logic for requests to paperswithcode.com
-            max_retries = 3
-            pwc_success = False
-            for attempt in range(max_retries):
-                try:
-                    r = requests.get(code_url, timeout=10) # Add a timeout
-                    r.raise_for_status() # Raise HTTPError for bad responses (4xx or 5xx)
-                    response_data = r.json()
-                    repo_url = None
-                    if "official" in response_data and response_data["official"]:
-                        repo_url = response_data["official"]["url"]
-
-                    if repo_url is not None:
-                        # Store all raw components for later conditional formatting
-                        # This ensures the `json_to_md` function has all data
-                        content[paper_key] = {
-                            'update_time': str(update_time),
-                            'title': paper_title,
-                            'authors': paper_authors,
-                            'paper_key': paper_key,
-                            'paper_url': paper_url,
-                            'repo_url': repo_url
-                        }
-                        content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({}), Code: **[{}]({})**".format(
-                                update_time,paper_title,paper_authors,paper_url,paper_url,repo_url,repo_url)
-                    else:
-                        content[paper_key] = {
-                            'update_time': str(update_time),
-                            'title': paper_title,
-                            'authors': paper_authors,
-                            'paper_key': paper_key,
-                            'paper_url': paper_url,
-                            'repo_url': None # Explicitly set to None if no code
-                        }
-                        content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({})".format(
-                                update_time,paper_title,paper_authors,paper_url,paper_url)
-                    pwc_success = True
-                    break # Break if successful
-                except RequestException as e:
-                    logging.warning(f"Attempt {attempt + 1} failed for {code_url}: {e}")
-                    if attempt < max_retries - 1:
-                        time.sleep(2 ** attempt) # Exponential backoff
-                    else:
-                        logging.error(f"Max retries exhausted for {code_url}. Skipping code link.")
-                        # If all retries fail, mark as no code found
-                        content[paper_key] = {
-                            'update_time': str(update_time),
-                            'title': paper_title,
-                            'authors': paper_authors,
-                            'paper_key': paper_key,
-                            'paper_url': paper_url,
-                            'repo_url': None
-                        }
-                        content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({})".format(
-                                update_time,paper_title,paper_authors,paper_url,paper_url)
-
-            # Add comments if available, regardless of PWC success
-            if comments: # Check if comments is not None or empty string
+            comments = None
+            if comments != None:
                 content_to_web[paper_key] += f", {comments}\n"
             else:
                 content_to_web[paper_key] += f"\n"
 
-    except Exception as e:
-        logging.error(f"Error fetching from arXiv API for query '{query}': {e}")
-        return {}, {} # Return empty dictionaries to prevent further processing issues
+        except Exception as e:
+            logging.error(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
-    return data,data_web
+    return data,data_web 
 
 def update_json_file(filename,data_dict):
     '''
@@ -188,10 +137,10 @@ def update_json_file(filename,data_dict):
             m = {}
         else:
             m = json.loads(content)
-
-    json_data = m.copy()
-
-    # update papers in each keywords
+            
+    json_data = m.copy() 
+    
+    # update papers in each keywords         
     for data in data_dict:
         for keyword in data.keys():
             papers = data[keyword]
@@ -202,18 +151,15 @@ def update_json_file(filename,data_dict):
                 json_data[keyword] = papers
 
     with open(filename,"w") as f:
-        json.dump(json_data,f, indent=4) # Added indent for readability
-
+        json.dump(json_data,f)
+    
 def json_to_md(filename,md_filename,
                task = '',
-               to_web = True,
-               use_title = True,
+               to_web = True, 
+               use_title = True, 
                use_tc = True,
                show_badge = False,
-               use_b2t = True,
-               show_authors = True, # Added parameter
-               show_links = True # Added parameter
-               ):
+               use_b2t = True):
     """
     @param filename: str
     @param md_filename: str
@@ -221,23 +167,22 @@ def json_to_md(filename,md_filename,
     """
     def pretty_math(s:str) -> str:
         ret = ''
-        # This regex looks for substrings enclosed in single dollar signs and handles them.
-        # It's a simple approach; for complex LaTeX, a dedicated library might be needed.
-        parts = re.split(r'(\$.*?\$)', s)
-        formatted_parts = []
-        for part in parts:
-            if part.startswith('$') and part.endswith('$'):
-                # Remove dollar signs, strip whitespace, then re-add with spaces
-                formatted_parts.append(f' ${part[1:-1].strip()} ')
-            else:
-                formatted_parts.append(part)
-        return "".join(formatted_parts).strip()
-
-
+        match = re.search(r"\$.*\$", s)
+        if match == None:
+            return s
+        math_start,math_end = match.span()
+        space_trail = space_leading = ''
+        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' ' 
+        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' ' 
+        ret += s[:math_start] 
+        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
+        ret += s[math_end:]
+        return ret
+  
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
-
+    
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -252,13 +197,13 @@ def json_to_md(filename,md_filename,
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
-
+        
         if show_badge == True:
             f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
             f.write(f"[![Forks][forks-shield]][forks-url]\n")
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
-
+            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
+                
         if use_title == True:
             f.write("> Automatically updated on " + DateNow + "\n")
         else:
@@ -274,11 +219,11 @@ def json_to_md(filename,md_filename,
                 day_content = data[keyword]
                 if not day_content:
                     continue
-                kw = keyword.replace(' ','-')
+                kw = keyword.replace(' ','-')      
                 f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
-
+        
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
@@ -286,56 +231,27 @@ def json_to_md(filename,md_filename,
 
             f.write(f"## {keyword}\n\n")
 
-            # Dynamically build table headers based on config
-            headers = ["Publish Date", "Title"]
-            # For Markdown tables, align headers with colons
-            separators = ["|:---------", ":-----------------------"]
-
-            if show_authors:
-                headers.append("Authors")
-                separators.append(":---------")
-            if show_links:
-                headers.extend(["PDF", "Code"])
-                separators.extend(":------", ":------")
-
-            f.write("| " + " | ".join(headers) + " |\n")
-            f.write("|" + "|".join(separators) + "|\n")
+            if use_title == True :
+                if to_web == False:
+                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                else:
+                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
             day_content = sort_papers(day_content)
-
-            for _, paper_data in day_content.items(): # Iterate directly over stored dicts
-                if paper_data is None:
-                    continue
-
-                output_parts = [
-                    f"**{paper_data['update_time']}**",
-                    f"**{pretty_math(paper_data['title'])}**"
-                ]
-
-                if show_authors:
-                    output_parts.append(paper_data['authors'])
-                if show_links:
-                    pdf_link = f"[{paper_data['paper_key']}]({paper_data['paper_url']})"
-                    output_parts.append(pdf_link)
-
-                    repo_url = paper_data['repo_url']
-                    code_link = f"**[link]({repo_url})**" if repo_url else "null"
-                    output_parts.append(code_link)
-
-                f.write("| " + " | ".join(output_parts) + " |\n") # Add spaces for better Markdown rendering
-
+        
+            for _,v in day_content.items():
+                if v is not None:
+                    f.write(pretty_math(v)) 
 
             f.write(f"\n")
-
+            
             if use_b2t:
                 top_info = f"#Updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
-
+            
         if show_badge == True:
-            # Replaced hardcoded repo_name with placeholders, as it's not dynamic from config here.
-            # If you want to use user_name/repo_name from config, pass them to json_to_md
-            # and update these links accordingly. For now, assuming fixed example.
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
                      f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
@@ -352,37 +268,23 @@ def json_to_md(filename,md_filename,
                      f"cv-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[issues-url]: https://github.com/Vincentqyw/"
                      f"cv-arxiv-daily/issues\n\n"))
-
-    logging.info(f"{task} finished")
-
-def update_paper_links(json_file):
-    """
-    This function is a placeholder and needs to be implemented if 'update_paper_links'
-    is set to True in config. It should re-fetch and update paper links in the existing JSON data.
-    For now, it simply logs a warning and passes.
-    """
-    logging.warning("update_paper_links function is not implemented. "
-                    "Set 'update_paper_links' to False in config or implement this function "
-                    "if you wish to use it.")
-    pass
-
+                
+    logging.info(f"{task} finished")        
 
 def demo(**config):
     data_collector = []
     data_collector_web= []
-
+    
     keywords = config['kv']
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
-    show_authors = config.get('show_authors', True) # Get with default if not in config
-    show_links = config.get('show_links', True) # Get with default if not in config
 
-    b_update = config.get('update_paper_links', False) # Safely get, default to False
+    b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
-    if b_update == False:
+    if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
@@ -391,44 +293,38 @@ def demo(**config):
             data_collector_web.append(data_web)
             print("\n")
         logging.info(f"GET daily papers end")
-    else:
-        logging.info("Skipping daily paper fetch because 'update_paper_links' is True.")
 
     if publish_readme:
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
-        if b_update:
+        if config['update_paper_links']:
             update_paper_links(json_file)
-        else:
+        else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update Readme', show_badge=show_badge,
-                   show_authors=show_authors, show_links=show_links) # Pass new parameters
+        json_to_md(json_file, md_file, task ='Update Readme', show_badge=show_badge)
 
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
-        if b_update:
+        if config['update_paper_links']:
             update_paper_links(json_file)
-        else:
+        else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=False,
-                   show_badge=show_badge, use_tc=False, use_b2t=False,
-                   show_authors=show_authors, show_links=show_links) # Pass new parameters
+        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=False, show_badge=show_badge, use_tc=False, use_b2t=False)
 
     if publish_wechat:
         json_file = config['json_wechat_path']
         md_file   = config['md_wechat_path']
-        if b_update:
+        if config['update_paper_links']:
             update_paper_links(json_file)
-        else:
+        else:    
             update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', to_web=False, use_title=False,
-                   show_badge=show_badge, show_authors=show_authors, show_links=show_links) # Pass new parameters
+        json_to_md(json_file, md_file, task ='Update Wechat', to_web=False, use_title=False, show_badge=show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path', type=str, default='config.yaml', help='configuration file path')
-    parser.add_argument('--update_paper_links', default=False, action="store_true", help='whether to update paper links etc.')
+    parser.add_argument('--update_paper_links', default=False, action="store_true", help='whether to update paper links etc.')                        
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
