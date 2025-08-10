@@ -17,7 +17,8 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
-arxiv_url = "http://arxiv.org/"
+arxiv_url = "https://arxiv.org/"
+
 
 def load_config(config_file:str) -> dict:
     '''
