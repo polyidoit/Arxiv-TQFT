@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
 import os
 import re
 import json
@@ -61,7 +64,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic, query="TQFT", max_results=5):
+def get_daily_papers(topic, query="TQFT", max_results=10):
     """
     @param topic: str
     @param query: str
