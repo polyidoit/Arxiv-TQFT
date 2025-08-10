@@ -1,6 +1,6 @@
-title: TQFT Arxiv Daily
-description: Arxiv prepring on TQFT, topological order and generalized symmetry. [The original version is modified from the source code by Vincentqyw]
-show_downloads: true
+title: Arxiv Daily
+description: Arxiv prepring on TQFT, topological order and generalized symmetry.
+show_downloads: False
 
 # github:
 #   zip_url: https://github.com/polyidiot/Arxiv-TQFT
