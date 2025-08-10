@@ -1,4 +1,3 @@
-```python
 import os
 import re
 import json
@@ -16,7 +15,7 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     level=logging.INFO)
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
-github_url = "https://api.github.com/search/repositories"
+github_url = "https://api.github.com/search/repositories" # Not directly used in current logic, but kept for completeness
 arxiv_url = "http://arxiv.org/"
 
 def load_config(config_file:str) -> dict:
@@ -145,10 +144,9 @@ def get_daily_papers(topic, query="slam", max_results=2):
                                 update_time,paper_title,paper_authors,paper_key,paper_url)
                         content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({})".format(
                                 update_time,paper_title,paper_authors,paper_url,paper_url)
-            
+
             # Add comments if available, regardless of PWC success
-            comments = None
-            if comments != None: # This line seems to re-declare comments, make sure it's intended
+            if comments: # Check if comments is not None or empty string
                 content_to_web[paper_key] += f", {comments}\n"
             else:
                 content_to_web[paper_key] += f"\n"
@@ -307,10 +305,13 @@ def json_to_md(filename,md_filename,
 
 def update_paper_links(json_file):
     """
-    This function needs to be implemented if 'update_paper_links' is set to True in config.
-    It should re-fetch and update paper links in the existing JSON data.
+    This function is a placeholder and needs to be implemented if 'update_paper_links'
+    is set to True in config. It should re-fetch and update paper links in the existing JSON data.
+    For now, it simply logs a warning and passes.
     """
-    logging.warning("update_paper_links function is not implemented. Set 'update_paper_links' to False in config or implement this function.")
+    logging.warning("update_paper_links function is not implemented. "
+                    "Set 'update_paper_links' to False in config or implement this function "
+                    "if you wish to use it.")
     pass
 
 
@@ -336,6 +337,8 @@ def demo(**config):
             data_collector_web.append(data_web)
             print("\n")
         logging.info(f"GET daily papers end")
+    else:
+        logging.info("Skipping daily paper fetch because 'update_paper_links' is True.")
 
     if publish_readme:
         json_file = config['json_readme_path']
@@ -372,4 +375,3 @@ if __name__ == "__main__":
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
-```
