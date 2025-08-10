@@ -2,9 +2,9 @@ title: TQFT Arxiv Daily
 description: Arxiv prepring on TQFT, topological order and generalized symmetry. [The original version is modified from the source code by Vincentqyw]
 show_downloads: true
 
-github:
-  zip_url: https://github.com/polyidiot/Arxiv-TQFT
-  another_url: https://github.com/polyidot/Arxiv-TQFT
+# github:
+#   zip_url: https://github.com/polyidiot/Arxiv-TQFT
+#   another_url: https://github.com/polyidot/Arxiv-TQFT
 
 remote_theme: pages-themes/cayman@v0.2.0
 
