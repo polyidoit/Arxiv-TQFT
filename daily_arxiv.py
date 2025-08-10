@@ -10,6 +10,9 @@ import logging
 import argparse
 import datetime
 import requests
+import time
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -19,6 +22,23 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "https://arxiv.org/"
 
+# Configure requests session with retry strategy
+def create_session():
+    session = requests.Session()
+    retry_strategy = Retry(
+        total=3,
+        backoff_factor=2,
+        status_forcelist=[429, 500, 502, 503, 504],
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    
+    # Add user agent to avoid blocking
+    session.headers.update({
+        'User-Agent': 'Mozilla/5.0 (compatible; ArXiv-Daily-Collector/1.0; +https://github.com/your-username/your-repo)'
+    })
+    return session
 
 def load_config(config_file:str) -> dict:
     '''
@@ -71,62 +91,109 @@ def get_daily_papers(topic, query="TQFT", max_results=5):
     @param query: str
     @return paper_with_code: dict
     """
-    content = dict() 
+
+    content = dict()
     content_to_web = dict()
+    
+    # Create session for HTTP requests
+    session = create_session()
+
+    # Configure arxiv client with delay
+    client = arxiv.Client(
+        page_size=10,  # Smaller page size
+        delay_seconds=3.0,  # 3 second delay between requests
+        num_retries=3
+    )
+
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
-
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        code_url            = base_url + paper_id
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
-        comments            = result.comment
-
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_authors}")
-
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]    
-        paper_url = arxiv_url + 'abs/' + paper_key
+    try:
+        results = list(client.results(search_engine))
+        logging.info(f"Found {len(results)} papers for topic: {topic}")
         
+        if not results:
+            logging.warning(f"No papers found for query: {query}")
+            return {topic: content}, {topic: content_to_web}
+
+    except Exception as e:
+        logging.error(f"Error fetching papers for {topic}: {e}")
+        return {topic: content}, {topic: content_to_web}
+
+    for result in results:
         try:
-            r = requests.get(code_url).json()
+            paper_id            = result.get_short_id()
+            paper_title         = result.title
+            paper_url           = result.entry_id
+            code_url            = base_url + paper_id
+            paper_abstract      = result.summary.replace("\n"," ")
+            paper_authors       = get_authors(result.authors)
+            primary_category    = result.primary_category
+            publish_time        = result.published.date()
+            update_time         = result.updated.date()
+            comments            = result.comment
+
+            logging.info(f"Processing: Time = {update_time} title = {paper_title[:50]}...")
+
+            ver_pos = paper_id.find('v')
+            if ver_pos == -1:
+                paper_key = paper_id
+            else:
+                paper_key = paper_id[0:ver_pos]    
+            paper_url = arxiv_url + 'abs/' + paper_key
+            
+            # Try to get code URL with better error handling
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            try:
+                # Add delay before paperswithcode request
+                time.sleep(1)
+                
+                response = session.get(code_url, timeout=10)
+                
+                if response.status_code == 200:
+                    r = response.json()
+                    if "official" in r and r["official"]:
+                        repo_url = r["official"]["url"]
+                        logging.info(f"Found code for {paper_key}: {repo_url}")
+                elif response.status_code == 404:
+                    logging.debug(f"No code found for {paper_key}")
+                else:
+                    logging.warning(f"paperswithcode returned {response.status_code} for {paper_key}")
+                    
+            except requests.exceptions.Timeout:
+                logging.warning(f"Timeout getting code for {paper_key}")
+            except requests.exceptions.RequestException as e:
+                logging.warning(f"Request error for code {paper_key}: {e}")
+            except json.JSONDecodeError:
+                logging.warning(f"Invalid JSON response for {paper_key}")
+            except Exception as e:
+                logging.error(f"Unexpected error getting code for {paper_key}: {e}")
+
+            # Format content regardless of code availability
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_authors,paper_key,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({}), Code: **[{}]({})**".format(
                        update_time,paper_title,paper_authors,paper_url,paper_url,repo_url,repo_url)
-
             else:
                 content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|null|\n".format(
                        update_time,paper_title,paper_authors,paper_key,paper_url)
                 content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({})".format(
                        update_time,paper_title,paper_authors,paper_url,paper_url)
 
-            comments = None
-            if comments != None:
+            if comments is not None:
                 content_to_web[paper_key] += f", {comments}\n"
             else:
                 content_to_web[paper_key] += f"\n"
 
         except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+            logging.error(f"Error processing paper {paper_id}: {e}")
+            continue
 
+    logging.info(f"Successfully processed {len(content)} papers for {topic}")
     data = {topic:content}
     data_web = {topic:content_to_web}
     return data,data_web 
@@ -288,13 +355,25 @@ def demo(**config):
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
+    
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query=keyword, max_results=max_results)
-            data_collector.append(data)
-            data_collector_web.append(data_web)
+            logging.info(f"Keyword: {topic} - Query: {keyword}")
+            try:
+                data, data_web = get_daily_papers(topic, query=keyword, max_results=max_results)
+                data_collector.append(data)
+                data_collector_web.append(data_web)
+                
+                # Add delay between different topics
+                time.sleep(2)
+                
+            except Exception as e:
+                logging.error(f"Failed to get papers for {topic}: {e}")
+                # Continue with empty data for this topic
+                data_collector.append({topic: {}})
+                data_collector_web.append({topic: {}})
+                
             print("\n")
         logging.info(f"GET daily papers end")
 
@@ -302,7 +381,9 @@ def demo(**config):
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
         if config['update_paper_links']:
-            update_paper_links(json_file)
+            # Note: update_paper_links function is referenced but not defined in original code
+            # You may need to implement this function
+            pass
         else:    
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update Readme', show_badge=show_badge)
@@ -311,7 +392,9 @@ def demo(**config):
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
         if config['update_paper_links']:
-            update_paper_links(json_file)
+            # Note: update_paper_links function is referenced but not defined in original code
+            # You may need to implement this function
+            pass
         else:    
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=False, show_badge=show_badge, use_tc=False, use_b2t=False)
@@ -320,7 +403,9 @@ def demo(**config):
         json_file = config['json_wechat_path']
         md_file   = config['md_wechat_path']
         if config['update_paper_links']:
-            update_paper_links(json_file)
+            # Note: update_paper_links function is referenced but not defined in original code
+            # You may need to implement this function  
+            pass
         else:    
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', to_web=False, use_title=False, show_badge=show_badge)
