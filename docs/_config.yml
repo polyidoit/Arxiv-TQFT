@@ -1,126 +1,21 @@
-# Site settings
 title: TQFT Arxiv Daily
-email: your-email@domain.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Automatically Update TQFT Papers Daily | A curated collection of 
-  Topological Quantum Field Theory papers from arXiv
-baseurl: "/Arxiv-TQFT" # the subpath of your site, e.g. /blog/
-url: "https://polyidiot.github.io" # the base hostname & protocol for your site
-remote_theme: alshedivat/al-folio
+description: Automatically Update TQFT Papers Daily | modified from python code by Vincentqyw
+show_downloads: true
 
-# Social media links
-github: polyidiot
-twitter: ZhianJia
+github:
+  zip_url: https://github.com/polyidiot/Arxiv-TQFT
+  another_url: https://github.com/polyidot/Arxiv-TQFT
 
-# Blog settings
-blog_name: Daily Papers
-blog_nav_title: Papers
-blog_description: Latest TQFT papers from arXiv
+## add remote theme
+remote_theme: jekyll/minima@v2.5.1
 
-# Publications settings (perfect for your paper collection)
-enable_publication_thumbnails: true
-enable_publication_badges: true
+# minima:
+skin: dark
+social_links:
+  twitter: ZhianJia
+  github: polyidiot
 
-# Collections (great for organizing your papers)
-collections:
-  papers:
-    output: true
-    permalink: /papers/:name/
-
-# Navigation
-navbar_fixed: true
-footer_fixed: false
-
-# Theme settings
-max_width: 1200px
-
-# Dark mode (matches your current preference)
-enable_darkmode: true
-
-# Analytics (optional)
-# google_analytics: UA-XXXXXXXXX-X
-
-# Math support (important for TQFT papers!)
-enable_math: true
-
-# Code highlighting
-highlighter: rouge
-
-# Plugins
 plugins:
-  - jekyll-sitemap
-  - jekyll-paginate-v2
-  - jekyll-scholar
-  - jekyll-twitter-plugin
-  - jekyll-feed
-  - jekyll/scholar
-  - jekyll-archives
-  - jekyll-diagrams
-
-# Pagination
-pagination:
-  enabled: true
-  per_page: 10
-  permalink: '/page/:num/'
-
-# Jekyll Scholar (perfect for academic papers)
-scholar:
-  last_name: [TQFT]
-  first_name: [Papers]
-  first_name_last: false
-  
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
-  group_by: year
-  group_order: descending
-
-# Archive settings
-jekyll-archives:
-  enabled: [year, tags, categories]
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/archive/:year/'
-    tag: '/archive/tag/:name/'
-    category: '/archive/category/:name/'
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-  - scope:
-      path: ""
-      type: "papers"
-    values:
-      layout: "paper"
-
-# Exclude from processing
-exclude:
-  - README.md
-  - CHANGELOG.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+ - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-feed
+ - jekyll-seo-tag
