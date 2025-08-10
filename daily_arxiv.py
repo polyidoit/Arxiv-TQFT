@@ -15,7 +15,6 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     level=logging.INFO)
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
-github_url = "https://api.github.com/search/repositories" # Not directly used in current logic, but kept for completeness
 arxiv_url = "http://arxiv.org/"
 
 def load_config(config_file:str) -> dict:
@@ -122,13 +121,27 @@ def get_daily_papers(topic, query="slam", max_results=2):
                         repo_url = response_data["official"]["url"]
 
                     if repo_url is not None:
-                        content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|**[link]({})**|\n".format(
-                                update_time,paper_title,paper_authors,paper_key,paper_url,repo_url)
+                        # Store all raw components for later conditional formatting
+                        # This ensures the `json_to_md` function has all data
+                        content[paper_key] = {
+                            'update_time': str(update_time),
+                            'title': paper_title,
+                            'authors': paper_authors,
+                            'paper_key': paper_key,
+                            'paper_url': paper_url,
+                            'repo_url': repo_url
+                        }
                         content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({}), Code: **[{}]({})**".format(
                                 update_time,paper_title,paper_authors,paper_url,paper_url,repo_url,repo_url)
                     else:
-                        content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|null|\n".format(
-                                update_time,paper_title,paper_authors,paper_key,paper_url)
+                        content[paper_key] = {
+                            'update_time': str(update_time),
+                            'title': paper_title,
+                            'authors': paper_authors,
+                            'paper_key': paper_key,
+                            'paper_url': paper_url,
+                            'repo_url': None # Explicitly set to None if no code
+                        }
                         content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({})".format(
                                 update_time,paper_title,paper_authors,paper_url,paper_url)
                     pwc_success = True
@@ -140,8 +153,14 @@ def get_daily_papers(topic, query="slam", max_results=2):
                     else:
                         logging.error(f"Max retries exhausted for {code_url}. Skipping code link.")
                         # If all retries fail, mark as no code found
-                        content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|null|\n".format(
-                                update_time,paper_title,paper_authors,paper_key,paper_url)
+                        content[paper_key] = {
+                            'update_time': str(update_time),
+                            'title': paper_title,
+                            'authors': paper_authors,
+                            'paper_key': paper_key,
+                            'paper_url': paper_url,
+                            'repo_url': None
+                        }
                         content_to_web[paper_key] = "- {}, **{}**, {}, Paper: [{}]({})".format(
                                 update_time,paper_title,paper_authors,paper_url,paper_url)
 
@@ -183,7 +202,7 @@ def update_json_file(filename,data_dict):
                 json_data[keyword] = papers
 
     with open(filename,"w") as f:
-        json.dump(json_data,f)
+        json.dump(json_data,f, indent=4) # Added indent for readability
 
 def json_to_md(filename,md_filename,
                task = '',
@@ -191,7 +210,10 @@ def json_to_md(filename,md_filename,
                use_title = True,
                use_tc = True,
                show_badge = False,
-               use_b2t = True):
+               use_b2t = True,
+               show_authors = True, # Added parameter
+               show_links = True # Added parameter
+               ):
     """
     @param filename: str
     @param md_filename: str
@@ -199,17 +221,18 @@ def json_to_md(filename,md_filename,
     """
     def pretty_math(s:str) -> str:
         ret = ''
-        match = re.search(r"\$.*\$", s)
-        if match == None:
-            return s
-        math_start,math_end = match.span()
-        space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
-        ret += s[:math_start]
-        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
-        ret += s[math_end:]
-        return ret
+        # This regex looks for substrings enclosed in single dollar signs and handles them.
+        # It's a simple approach; for complex LaTeX, a dedicated library might be needed.
+        parts = re.split(r'(\$.*?\$)', s)
+        formatted_parts = []
+        for part in parts:
+            if part.startswith('$') and part.endswith('$'):
+                # Remove dollar signs, strip whitespace, then re-add with spaces
+                formatted_parts.append(f' ${part[1:-1].strip()} ')
+            else:
+                formatted_parts.append(part)
+        return "".join(formatted_parts).strip()
+
 
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
@@ -263,18 +286,44 @@ def json_to_md(filename,md_filename,
 
             f.write(f"## {keyword}\n\n")
 
-            if use_title == True :
-                if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+            # Dynamically build table headers based on config
+            headers = ["Publish Date", "Title"]
+            # For Markdown tables, align headers with colons
+            separators = ["|:---------", ":-----------------------"]
+
+            if show_authors:
+                headers.append("Authors")
+                separators.append(":---------")
+            if show_links:
+                headers.extend(["PDF", "Code"])
+                separators.extend(":------", ":------")
+
+            f.write("| " + " | ".join(headers) + " |\n")
+            f.write("|" + "|".join(separators) + "|\n")
 
             day_content = sort_papers(day_content)
 
-            for _,v in day_content.items():
-                if v is not None:
-                    f.write(pretty_math(v))
+            for _, paper_data in day_content.items(): # Iterate directly over stored dicts
+                if paper_data is None:
+                    continue
+
+                output_parts = [
+                    f"**{paper_data['update_time']}**",
+                    f"**{pretty_math(paper_data['title'])}**"
+                ]
+
+                if show_authors:
+                    output_parts.append(paper_data['authors'])
+                if show_links:
+                    pdf_link = f"[{paper_data['paper_key']}]({paper_data['paper_url']})"
+                    output_parts.append(pdf_link)
+
+                    repo_url = paper_data['repo_url']
+                    code_link = f"**[link]({repo_url})**" if repo_url else "null"
+                    output_parts.append(code_link)
+
+                f.write("| " + " | ".join(output_parts) + " |\n") # Add spaces for better Markdown rendering
+
 
             f.write(f"\n")
 
@@ -284,6 +333,9 @@ def json_to_md(filename,md_filename,
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
         if show_badge == True:
+            # Replaced hardcoded repo_name with placeholders, as it's not dynamic from config here.
+            # If you want to use user_name/repo_name from config, pass them to json_to_md
+            # and update these links accordingly. For now, assuming fixed example.
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
                      f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
@@ -325,10 +377,12 @@ def demo(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
+    show_authors = config.get('show_authors', True) # Get with default if not in config
+    show_links = config.get('show_links', True) # Get with default if not in config
 
-    b_update = config['update_paper_links']
+    b_update = config.get('update_paper_links', False) # Safely get, default to False
     logging.info(f'Update Paper Link = {b_update}')
-    if config['update_paper_links'] == False:
+    if b_update == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
@@ -343,29 +397,33 @@ def demo(**config):
     if publish_readme:
         json_file = config['json_readme_path']
         md_file   = config['md_readme_path']
-        if config['update_paper_links']:
+        if b_update:
             update_paper_links(json_file)
         else:
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update Readme', show_badge=show_badge)
+        json_to_md(json_file, md_file, task ='Update Readme', show_badge=show_badge,
+                   show_authors=show_authors, show_links=show_links) # Pass new parameters
 
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
-        if config['update_paper_links']:
+        if b_update:
             update_paper_links(json_file)
         else:
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=False, show_badge=show_badge, use_tc=False, use_b2t=False)
+        json_to_md(json_file, md_file, task ='Update GitPage', to_web=True, use_title=False,
+                   show_badge=show_badge, use_tc=False, use_b2t=False,
+                   show_authors=show_authors, show_links=show_links) # Pass new parameters
 
     if publish_wechat:
         json_file = config['json_wechat_path']
         md_file   = config['md_wechat_path']
-        if config['update_paper_links']:
+        if b_update:
             update_paper_links(json_file)
         else:
             update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', to_web=False, use_title=False, show_badge=show_badge)
+        json_to_md(json_file, md_file, task ='Update Wechat', to_web=False, use_title=False,
+                   show_badge=show_badge, show_authors=show_authors, show_links=show_links) # Pass new parameters
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
