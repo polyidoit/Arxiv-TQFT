@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-08-07**|**Partially flavour non-universal $U(1)$ and radiative fermion masses**|Gurucharan Mohanta, Ketan M. Patel|[2508.05439](https://arxiv.org/abs/2508.05439)|null|
+|**2025-08-07**|**Operator lift of Reshetikhin-Turaev formalism to Khovanov-Rozansky TQFTs**|Dmitry Galakhov, Elena Lanina, Alexei Morozov|[2508.05191](https://arxiv.org/abs/2508.05191)|null|
+|**2025-08-07**|**Taming coherent noise with teleportation**|Kathleen Chang, Qile Su, Shruti Puri|[2508.04947](https://arxiv.org/abs/2508.04947)|null|
+|**2025-08-06**|**Quark confinement in presence of both chromoelectric and chromomagnetic fields and the structure of spacetime**|Abdellah Touati, Soufiane Boukhalfa|[2508.04906](https://arxiv.org/abs/2508.04906)|null|
+|**2025-08-06**|**Automorphism gadgets in homological product codes**|Noah Berthusen, Michael J. Gullans, Yifan Hong, Maryam Mudassar, Shi Jie Samuel Tan|[2508.04794](https://arxiv.org/abs/2508.04794)|null|
+|**2025-08-06**|**Unstable periodic orbits galore and quantum hyperscarring in highly frustrated magnets**|Andrea Pizzi, Claudio Castelnovo, Johannes Knolle|[2508.04763](https://arxiv.org/abs/2508.04763)|null|
+|**2025-08-06**|**Finite 2-group gauge theory and its 3+1D lattice realization**|Mo Huang|[2508.04693](https://arxiv.org/abs/2508.04693)|null|
+|**2025-08-06**|**Density of States (Gate) - Controlled Andreev Molecule and Sensor**|Xiaofan Shi, Ziwei Dou, Guoan Li, Dong Pan, Yuxiao Song, Anqi Wang, Zhiyuan Zhang, Xingchen Guo, Xiao Deng, Ruixuan Zhang, Liangqian Xu, Xiao Chen, Yupeng Li, Bingbing Tong, Xiaohui Song, Zhaozheng Lyu, Peiling Li, Fanming Qu, Guangtong Liu, Jianhua Zhao, Li Lu, Jie Shen|[2508.04519](https://arxiv.org/abs/2508.04519)|null|
+|**2025-08-06**|**Quantum circuit complexity and unsupervised machine learning of topological order**|Yanming Che, Clemens Gneiting, Xiaoguang Wang, Franco Nori|[2508.04486](https://arxiv.org/abs/2508.04486)|null|
+|**2025-08-05**|**A New Action for Superstring Field Theory**|Chris Hull|[2508.03902](https://arxiv.org/abs/2508.03902)|null|
 |**2025-07-23**|**Gauge Symmetries, Exact Symmetries and Conserved Charges in Minimal Massive Gravity**|Kang Liu, Xiao-Mei Kuang|[2507.17635](http://arxiv.org/abs/2507.17635)|null|
 |**2025-07-23**|**A Numerical Study on Gauge Symmetry of Electroweak Amplitudes**|Wang-Fa Li, Junmou Chen, Qian-Jiu Wang, Zhao-Huan Yu|[2507.17429](http://arxiv.org/abs/2507.17429)|null|
 |**2025-07-23**|**Quantum walks reveal topological flat bands, robust edge states and topological phase transitions in cyclic graphs**|Dinesh Kumar Panda, Colin Benjamin|[2507.17250](http://arxiv.org/abs/2507.17250)|null|
