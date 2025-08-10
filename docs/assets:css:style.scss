@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Make description font smaller */
+.project-tagline {
+  font-size: 14px; /* Adjust this value as needed */
+}
