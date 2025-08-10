@@ -1,4 +1,4 @@
-# TODO: add papers by configuration file
+# TODO: fix toc issue
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "polyidiot"
 repo_name: "Arixv-TQFT"
@@ -9,7 +9,7 @@ max_results: 10
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
+publish_wechat: True
 
 # file paths
 json_readme_path: './docs/TQFT-arxiv-daily.json'
