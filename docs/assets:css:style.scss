@@ -3,7 +3,15 @@
 
 @import "{{ site.theme }}";
 
-/* Make description font smaller */
+/* Make description font smaller - alternative selectors */
 .project-tagline {
-  font-size: 14px; /* Adjust this value as needed */
+  font-size: 10px;
+}
+
+header p {
+  font-size: 14px;
+}
+
+.description {
+  font-size: 10px;
 }
