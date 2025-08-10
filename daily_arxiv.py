@@ -61,7 +61,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic, query="TQFT", max_results=2):
+def get_daily_papers(topic, query="TQFT", max_results=5):
     """
     @param topic: str
     @param query: str
