@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-08, **Spontaneous Hole Formation in Cell Monolayers Emerges from Collective Cell Motion**, Diogo E. P. Pinto, Jan Rozman, Julia M. Yeomans, Paper: [https://arxiv.org/abs/2508.06461](https://arxiv.org/abs/2508.06461)
+- 2025-08-08, **The Free Massive Quadratic Action from the Exotic Model (E7)**, John A. Dixon, Paper: [https://arxiv.org/abs/2508.06252](https://arxiv.org/abs/2508.06252), 31 pages
+- 2025-08-08, **Topological Defect Formation Beyond the Kibble-Zurek Mechanism in Crossover Transitions with Approximate Symmetries**, Peng Yang, Chuan-Yin Xia, Sebastian Grieninger, Hua-Bi Zeng, Matteo Baggioli, Paper: [https://arxiv.org/abs/2508.05964](https://arxiv.org/abs/2508.05964), v1: comments welcome
+- 2025-08-07, **Nonlinear Dynamics of Kink Configurations: From Small to Large Kink Collisions**, Aliakbar Moradi Marjaneh, Dionisio Bazeia, Paper: [https://arxiv.org/abs/2508.05812](https://arxiv.org/abs/2508.05812), 12 pages, 6 figures
 - 2025-08-07, **Partially flavour non-universal $U(1)$ and radiative fermion masses**, Gurucharan Mohanta, Ketan M. Patel, Paper: [https://arxiv.org/abs/2508.05439](https://arxiv.org/abs/2508.05439), 6 pages + appendices, 2 captioned figures, 3 tables in appendices
 - 2025-08-07, **Operator lift of Reshetikhin-Turaev formalism to Khovanov-Rozansky TQFTs**, Dmitry Galakhov, Elena Lanina, Alexei Morozov, Paper: [https://arxiv.org/abs/2508.05191](https://arxiv.org/abs/2508.05191), 35 pages, 3 figures
 - 2025-08-07, **Taming coherent noise with teleportation**, Kathleen Chang, Qile Su, Shruti Puri, Paper: [https://arxiv.org/abs/2508.04947](https://arxiv.org/abs/2508.04947), 23 pages, 6 figures
