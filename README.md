@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.08.10
+> Automatically updated on 2025.08.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-11**|**Symmetry-Enriched Topological Phases and Their Gauging: A String-Net Model Realization**|Nianrui Fu, Yu Zhao, Yidun Wan|[2508.08245](https://arxiv.org/abs/2508.08245)|null|
+|**2025-08-11**|**Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**|Abraham Jacob, Campbell McLauchlan, Dan E. Browne|[2508.08191](https://arxiv.org/abs/2508.08191)|null|
+|**2025-08-11**|**On phenomenological relations for masses and mixing parameters of quarks and leptons**|V. V. Khruschov, S. V. Fomichev|[2508.07661](https://arxiv.org/abs/2508.07661)|null|
+|**2025-08-08**|**Spontaneous Hole Formation in Cell Monolayers Emerges from Collective Cell Motion**|Diogo E. P. Pinto, Jan Rozman, Julia M. Yeomans|[2508.06461](https://arxiv.org/abs/2508.06461)|null|
+|**2025-08-08**|**The Free Massive Quadratic Action from the Exotic Model (E7)**|John A. Dixon|[2508.06252](https://arxiv.org/abs/2508.06252)|null|
+|**2025-08-08**|**Topological Defect Formation Beyond the Kibble-Zurek Mechanism in Crossover Transitions with Approximate Symmetries**|Peng Yang, Chuan-Yin Xia, Sebastian Grieninger, Hua-Bi Zeng, Matteo Baggioli|[2508.05964](https://arxiv.org/abs/2508.05964)|null|
+|**2025-08-07**|**Nonlinear Dynamics of Kink Configurations: From Small to Large Kink Collisions**|Aliakbar Moradi Marjaneh, Dionisio Bazeia|[2508.05812](https://arxiv.org/abs/2508.05812)|null|
 |**2025-08-07**|**Partially flavour non-universal $U(1)$ and radiative fermion masses**|Gurucharan Mohanta, Ketan M. Patel|[2508.05439](https://arxiv.org/abs/2508.05439)|null|
 |**2025-08-07**|**Operator lift of Reshetikhin-Turaev formalism to Khovanov-Rozansky TQFTs**|Dmitry Galakhov, Elena Lanina, Alexei Morozov|[2508.05191](https://arxiv.org/abs/2508.05191)|null|
 |**2025-08-07**|**Taming coherent noise with teleportation**|Kathleen Chang, Qile Su, Shruti Puri|[2508.04947](https://arxiv.org/abs/2508.04947)|null|
@@ -846,5 +853,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250812>back to top</a>)</p>
 

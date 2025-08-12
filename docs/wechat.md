@@ -1,4 +1,4 @@
-> Automatically updated on 2025.08.10
+> Automatically updated on 2025.08.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-11, **Symmetry-Enriched Topological Phases and Their Gauging: A String-Net Model Realization**, Nianrui Fu, Yu Zhao, Yidun Wan, Paper: [https://arxiv.org/abs/2508.08245](https://arxiv.org/abs/2508.08245), 33+39 pages, 4 figures
+- 2025-08-11, **Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**, Abraham Jacob, Campbell McLauchlan, Dan E. Browne, Paper: [https://arxiv.org/abs/2508.08191](https://arxiv.org/abs/2508.08191), 26 pages, 7 figures
+- 2025-08-11, **On phenomenological relations for masses and mixing parameters of quarks and leptons**, V. V. Khruschov, S. V. Fomichev, Paper: [https://arxiv.org/abs/2508.07661](https://arxiv.org/abs/2508.07661), 17 pages
+- 2025-08-08, **Spontaneous Hole Formation in Cell Monolayers Emerges from Collective Cell Motion**, Diogo E. P. Pinto, Jan Rozman, Julia M. Yeomans, Paper: [https://arxiv.org/abs/2508.06461](https://arxiv.org/abs/2508.06461)
+- 2025-08-08, **The Free Massive Quadratic Action from the Exotic Model (E7)**, John A. Dixon, Paper: [https://arxiv.org/abs/2508.06252](https://arxiv.org/abs/2508.06252), 31 pages
+- 2025-08-08, **Topological Defect Formation Beyond the Kibble-Zurek Mechanism in Crossover Transitions with Approximate Symmetries**, Peng Yang, Chuan-Yin Xia, Sebastian Grieninger, Hua-Bi Zeng, Matteo Baggioli, Paper: [https://arxiv.org/abs/2508.05964](https://arxiv.org/abs/2508.05964), v1: comments welcome
+- 2025-08-07, **Nonlinear Dynamics of Kink Configurations: From Small to Large Kink Collisions**, Aliakbar Moradi Marjaneh, Dionisio Bazeia, Paper: [https://arxiv.org/abs/2508.05812](https://arxiv.org/abs/2508.05812), 12 pages, 6 figures
 - 2025-08-07, **Partially flavour non-universal $U(1)$ and radiative fermion masses**, Gurucharan Mohanta, Ketan M. Patel, Paper: [https://arxiv.org/abs/2508.05439](https://arxiv.org/abs/2508.05439), 6 pages + appendices, 2 captioned figures, 3 tables in appendices
 - 2025-08-07, **Operator lift of Reshetikhin-Turaev formalism to Khovanov-Rozansky TQFTs**, Dmitry Galakhov, Elena Lanina, Alexei Morozov, Paper: [https://arxiv.org/abs/2508.05191](https://arxiv.org/abs/2508.05191), 35 pages, 3 figures
 - 2025-08-07, **Taming coherent noise with teleportation**, Kathleen Chang, Qile Su, Shruti Puri, Paper: [https://arxiv.org/abs/2508.04947](https://arxiv.org/abs/2508.04947), 23 pages, 6 figures
@@ -22,5 +29,5 @@
   welcome
 - 2025-08-05, **A New Action for Superstring Field Theory**, Chris Hull, Paper: [https://arxiv.org/abs/2508.03902](https://arxiv.org/abs/2508.03902), 23 Pages
 
-<p align=right>(<a href=#updated-on-20250810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250812>back to top</a>)</p>
 
