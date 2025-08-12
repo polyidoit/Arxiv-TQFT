@@ -17,7 +17,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-08-11**|**Symmetry-Enriched Topological Phases and Their Gauging: A String-Net Model Realization**|Nianrui Fu, Yu Zhao, Yidun Wan|[2508.08245](https://arxiv.org/abs/2508.08245)|null|
 |**2025-08-11**|**Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**|Abraham Jacob, Campbell McLauchlan, Dan E. Browne|[2508.08191](https://arxiv.org/abs/2508.08191)|null|
+|**2025-08-11**|**Quantum Circuit Complexity of Matrix-Product Unitaries**|Georgios Styliaris, Rahul Trivedi, J. Ignacio Cirac|[2508.08160](https://arxiv.org/abs/2508.08160)|null|
 |**2025-08-11**|**On phenomenological relations for masses and mixing parameters of quarks and leptons**|V. V. Khruschov, S. V. Fomichev|[2508.07661](https://arxiv.org/abs/2508.07661)|null|
+|**2025-08-08**|**Hopf 2-cocycles of type $A_2$**|José Ignacio Sánchez|[2508.06648](https://arxiv.org/abs/2508.06648)|null|
+|**2025-08-08**|**Defect Networks for Topological Phases Protected By Modulated Symmetries**|Daniel Bulmash|[2508.06604](https://arxiv.org/abs/2508.06604)|null|
 |**2025-08-08**|**Spontaneous Hole Formation in Cell Monolayers Emerges from Collective Cell Motion**|Diogo E. P. Pinto, Jan Rozman, Julia M. Yeomans|[2508.06461](https://arxiv.org/abs/2508.06461)|null|
 |**2025-08-08**|**The Free Massive Quadratic Action from the Exotic Model (E7)**|John A. Dixon|[2508.06252](https://arxiv.org/abs/2508.06252)|null|
 |**2025-08-08**|**Topological Defect Formation Beyond the Kibble-Zurek Mechanism in Crossover Transitions with Approximate Symmetries**|Peng Yang, Chuan-Yin Xia, Sebastian Grieninger, Hua-Bi Zeng, Matteo Baggioli|[2508.05964](https://arxiv.org/abs/2508.05964)|null|
