@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-12**|**Extending fusion rules with finite subgroups: For a general understanding of quotient or gauging**|Yoshiki Fukusumi, Shinichiro Yahagi|[2508.08639](https://arxiv.org/abs/2508.08639)|null|
+|**2025-08-11**|**Multistable polar textures in geometrically frustrated nematic liquid crystals**|Ufuoma I. Kara, Boyuan Chen, Simon Čopar, Shucong Li, Rajdeep Mamtani, Xu Yang, Eric Boerner, Zhan Yang, Alan H. Weible, Yuxing Yao, Robin L. B. Selinger, Uroš Tkalec, Xiaoguang Wang|[2508.08432](https://arxiv.org/abs/2508.08432)|null|
+|**2025-08-11**|**Continuous topological phase transition between $\mathbb{Z}_2$ topologically ordered phases**|Qi Zhang, Wen-Tao Xu|[2508.08376](https://arxiv.org/abs/2508.08376)|null|
 |**2025-08-11**|**Symmetry-Enriched Topological Phases and Their Gauging: A String-Net Model Realization**|Nianrui Fu, Yu Zhao, Yidun Wan|[2508.08245](https://arxiv.org/abs/2508.08245)|null|
 |**2025-08-11**|**Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**|Abraham Jacob, Campbell McLauchlan, Dan E. Browne|[2508.08191](https://arxiv.org/abs/2508.08191)|null|
 |**2025-08-11**|**Quantum Circuit Complexity of Matrix-Product Unitaries**|Georgios Styliaris, Rahul Trivedi, J. Ignacio Cirac|[2508.08160](https://arxiv.org/abs/2508.08160)|null|
