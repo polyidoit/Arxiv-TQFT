@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-13**|**Gravitational Wave Signatures of $\mathrm{U(1)_X}$ Breaking and Right-Handed Neutrino Dynamics**|Arnab Chaudhuri, Priya Mishra, Rukmani Mohanta|[2508.09835](https://arxiv.org/abs/2508.09835)|null|
 |**2025-08-12**|**Extending fusion rules with finite subgroups: For a general understanding of quotient or gauging**|Yoshiki Fukusumi, Shinichiro Yahagi|[2508.08639](https://arxiv.org/abs/2508.08639)|null|
 |**2025-08-11**|**Multistable polar textures in geometrically frustrated nematic liquid crystals**|Ufuoma I. Kara, Boyuan Chen, Simon Čopar, Shucong Li, Rajdeep Mamtani, Xu Yang, Eric Boerner, Zhan Yang, Alan H. Weible, Yuxing Yao, Robin L. B. Selinger, Uroš Tkalec, Xiaoguang Wang|[2508.08432](https://arxiv.org/abs/2508.08432)|null|
 |**2025-08-11**|**Continuous topological phase transition between $\mathbb{Z}_2$ topologically ordered phases**|Qi Zhang, Wen-Tao Xu|[2508.08376](https://arxiv.org/abs/2508.08376)|null|

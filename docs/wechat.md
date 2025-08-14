@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-13, **Gravitational Wave Signatures of $\mathrm{U(1)_X}$ Breaking and Right-Handed Neutrino Dynamics**, Arnab Chaudhuri, Priya Mishra, Rukmani Mohanta, Paper: [https://arxiv.org/abs/2508.09835](https://arxiv.org/abs/2508.09835), 27 pages, 5 figures, 6 tables
 - 2025-08-12, **Extending fusion rules with finite subgroups: For a general understanding of quotient or gauging**, Yoshiki Fukusumi, Shinichiro Yahagi, Paper: [https://arxiv.org/abs/2508.08639](https://arxiv.org/abs/2508.08639), 2 figures
 - 2025-08-11, **Multistable polar textures in geometrically frustrated nematic liquid crystals**, Ufuoma I. Kara, Boyuan Chen, Simon Čopar, Shucong Li, Rajdeep Mamtani, Xu Yang, Eric Boerner, Zhan Yang, Alan H. Weible, Yuxing Yao, Robin L. B. Selinger, Uroš Tkalec, Xiaoguang Wang, Paper: [https://arxiv.org/abs/2508.08432](https://arxiv.org/abs/2508.08432), 18 pages, 4 figures
 - 2025-08-11, **Continuous topological phase transition between $\mathbb{Z}_2$ topologically ordered phases**, Qi Zhang, Wen-Tao Xu, Paper: [https://arxiv.org/abs/2508.08376](https://arxiv.org/abs/2508.08376), 7+7 pages, 4+4 figures
