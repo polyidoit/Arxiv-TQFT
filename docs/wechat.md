@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-14, **Bicharacter twists of quantum groups**, Ian Martin, Alexander Tsymbaliuk, Paper: [https://arxiv.org/abs/2508.10882](https://arxiv.org/abs/2508.10882), v1: 72pp, comments are welcome!
+- 2025-08-13, **Projective Measurements: Topological Quantum Computing with an Arbitrary Number of Qubits**, Themba Hodge, Philipp Frey, Stephan Rachel, Paper: [https://arxiv.org/abs/2508.10107](https://arxiv.org/abs/2508.10107), 7 pages, 5 figures
+- 2025-08-13, **Majorana braiding simulations with projective measurements**, Philipp Frey, Themba Hodge, Eric Mascot, Stephan Rachel, Paper: [https://arxiv.org/abs/2508.10106](https://arxiv.org/abs/2508.10106), 13 pages, 4 figures
+- 2025-08-13, **Extended Color Twin Higgs**, Brian Batell, Thomas Cochran, Logan Page, Christopher B. Verhaaren, Paper: [https://arxiv.org/abs/2508.10102](https://arxiv.org/abs/2508.10102), 22 pages + Appendices, 9 figures
 - 2025-08-13, **Gravitational Wave Signatures of $\mathrm{U(1)_X}$ Breaking and Right-Handed Neutrino Dynamics**, Arnab Chaudhuri, Priya Mishra, Rukmani Mohanta, Paper: [https://arxiv.org/abs/2508.09835](https://arxiv.org/abs/2508.09835), 27 pages, 5 figures, 6 tables
 - 2025-08-12, **Extending fusion rules with finite subgroups: For a general understanding of quotient or gauging**, Yoshiki Fukusumi, Shinichiro Yahagi, Paper: [https://arxiv.org/abs/2508.08639](https://arxiv.org/abs/2508.08639), 2 figures
 - 2025-08-11, **Multistable polar textures in geometrically frustrated nematic liquid crystals**, Ufuoma I. Kara, Boyuan Chen, Simon Čopar, Shucong Li, Rajdeep Mamtani, Xu Yang, Eric Boerner, Zhan Yang, Alan H. Weible, Yuxing Yao, Robin L. B. Selinger, Uroš Tkalec, Xiaoguang Wang, Paper: [https://arxiv.org/abs/2508.08432](https://arxiv.org/abs/2508.08432), 18 pages, 4 figures
