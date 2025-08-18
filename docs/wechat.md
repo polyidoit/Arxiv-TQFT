@@ -9,7 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-15, **$T\bar{T}$ braneworld holography**, Shinji Hirano, Vinayak Raj, Paper: [https://arxiv.org/abs/2508.11471](https://arxiv.org/abs/2508.11471), 22 pages
+- 2025-08-15, **Fault-tolerant mixed boundary punctures on the toric code**, Yao Shen, Fu-Lin Zhang, Paper: [https://arxiv.org/abs/2508.11230](https://arxiv.org/abs/2508.11230)
+- 2025-08-14, **Spontaneously Broken Non-Invertible Symmetries in Transverse-Field Ising Qudit Chains**, Kristian Tyn Kai Chung, Umberto Borla, Andriy H. Nevidomskyy, Sergej Moroz, Paper: [https://arxiv.org/abs/2508.11003](https://arxiv.org/abs/2508.11003), 16 pages, 3 figures
+- 2025-08-14, **A Generalized Crystalline Equivalence Principle**, Devon Stockall, Matthew Yu, Paper: [https://arxiv.org/abs/2508.10978](https://arxiv.org/abs/2508.10978), 9 pages, comments welcome
+- 2025-08-14, **Unification of Gravity and Standard Model: Weyl-Dirac-Born-Infeld action**, D. M. Ghilencea, Paper: [https://arxiv.org/abs/2508.10959](https://arxiv.org/abs/2508.10959), 21 pages, LaTeX
+- 2025-08-14, **Gapped spinful phases obtained via Gutzwiller projections of Euler states**, Thorsten B. Wahl, Lukas Devos, Robert-Jan Slager, Paper: [https://arxiv.org/abs/2508.10957](https://arxiv.org/abs/2508.10957), 9 pages, 9 figures
 - 2025-08-14, **Bicharacter twists of quantum groups**, Ian Martin, Alexander Tsymbaliuk, Paper: [https://arxiv.org/abs/2508.10882](https://arxiv.org/abs/2508.10882), v1: 72pp, comments are welcome!
+- 2025-08-14, **Spin and thermal current scaling at a $Y$ -junction of XX spin chains**, Domenico Giuliano, Francesco Buccheri, Paper: [https://arxiv.org/abs/2508.10267](https://arxiv.org/abs/2508.10267), 20 pages, 4 .eps figures
 - 2025-08-13, **Projective Measurements: Topological Quantum Computing with an Arbitrary Number of Qubits**, Themba Hodge, Philipp Frey, Stephan Rachel, Paper: [https://arxiv.org/abs/2508.10107](https://arxiv.org/abs/2508.10107), 7 pages, 5 figures
 - 2025-08-13, **Majorana braiding simulations with projective measurements**, Philipp Frey, Themba Hodge, Eric Mascot, Stephan Rachel, Paper: [https://arxiv.org/abs/2508.10106](https://arxiv.org/abs/2508.10106), 13 pages, 4 figures
 - 2025-08-13, **Extended Color Twin Higgs**, Brian Batell, Thomas Cochran, Logan Page, Christopher B. Verhaaren, Paper: [https://arxiv.org/abs/2508.10102](https://arxiv.org/abs/2508.10102), 22 pages + Appendices, 9 figures

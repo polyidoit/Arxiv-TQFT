@@ -2,7 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-08-15**|**$T\bar{T}$ braneworld holography**|Shinji Hirano, Vinayak Raj|[2508.11471](https://arxiv.org/abs/2508.11471)|null|
+|**2025-08-15**|**Fault-tolerant mixed boundary punctures on the toric code**|Yao Shen, Fu-Lin Zhang|[2508.11230](https://arxiv.org/abs/2508.11230)|null|
+|**2025-08-14**|**Spontaneously Broken Non-Invertible Symmetries in Transverse-Field Ising Qudit Chains**|Kristian Tyn Kai Chung, Umberto Borla, Andriy H. Nevidomskyy, Sergej Moroz|[2508.11003](https://arxiv.org/abs/2508.11003)|null|
+|**2025-08-14**|**A Generalized Crystalline Equivalence Principle**|Devon Stockall, Matthew Yu|[2508.10978](https://arxiv.org/abs/2508.10978)|null|
+|**2025-08-14**|**Unification of Gravity and Standard Model: Weyl-Dirac-Born-Infeld action**|D. M. Ghilencea|[2508.10959](https://arxiv.org/abs/2508.10959)|null|
+|**2025-08-14**|**Gapped spinful phases obtained via Gutzwiller projections of Euler states**|Thorsten B. Wahl, Lukas Devos, Robert-Jan Slager|[2508.10957](https://arxiv.org/abs/2508.10957)|null|
 |**2025-08-14**|**Bicharacter twists of quantum groups**|Ian Martin, Alexander Tsymbaliuk|[2508.10882](https://arxiv.org/abs/2508.10882)|null|
+|**2025-08-14**|**Spin and thermal current scaling at a $Y$ -junction of XX spin chains**|Domenico Giuliano, Francesco Buccheri|[2508.10267](https://arxiv.org/abs/2508.10267)|null|
 |**2025-08-13**|**Projective Measurements: Topological Quantum Computing with an Arbitrary Number of Qubits**|Themba Hodge, Philipp Frey, Stephan Rachel|[2508.10107](https://arxiv.org/abs/2508.10107)|null|
 |**2025-08-13**|**Majorana braiding simulations with projective measurements**|Philipp Frey, Themba Hodge, Eric Mascot, Stephan Rachel|[2508.10106](https://arxiv.org/abs/2508.10106)|null|
 |**2025-08-13**|**Extended Color Twin Higgs**|Brian Batell, Thomas Cochran, Logan Page, Christopher B. Verhaaren|[2508.10102](https://arxiv.org/abs/2508.10102)|null|
