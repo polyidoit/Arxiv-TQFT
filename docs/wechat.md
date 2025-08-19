@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-18, **SO(n) Affleck-Kennedy-Lieb-Tasaki states as conformal boundary states of integrable SU(n) spin chains**, Yueshui Zhang, Ying-Hai Wu, Meng Cheng, Hong-Hao Tu, Paper: [https://arxiv.org/abs/2508.13114](https://arxiv.org/abs/2508.13114), 22 pages, 3 figures
+- 2025-08-18, **Generalized Symmetries From Fusion Actions**, Chongying Dong, Siu-Hung Ng, Li Ren, Feng Xu, Paper: [https://arxiv.org/abs/2508.13063](https://arxiv.org/abs/2508.13063)
+- 2025-08-18, **Macroscopic coherence and vorticity in room-temperature polariton condensate confined in a self-assembled perovskite microcavity**, Martin Montagnac, Yesenia A. García Jomaso, Emiliano Robledo Ibarra, Rodrigo Sánchez-Martínez, Moroni Santiago García, César L. Ordóñez-Romero, Hugo A. Lara-García, Arturo Camacho-Guardian, Giuseppe Pirruccio, Paper: [https://arxiv.org/abs/2508.13042](https://arxiv.org/abs/2508.13042), 10 pages and 5 figures (main text). 7 pages and 12 figures
+  (Supplementary Information). Comments are very welcome
+- 2025-08-18, **Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery**, Jiyeon Kang, Songseong Kim, Chanhui Lee, Doyeong Hwang, Joanie Hayoun Chung, Yunkyung Ko, Sumin Lee, Sungwoong Kim, Sungbin Lim, Paper: [https://arxiv.org/abs/2508.12650](https://arxiv.org/abs/2508.12650), 32 pages, 17 figures, 5 tables
+- 2025-08-17, **Non-Abelian Statistics for Bosonic Symmetry-Protected Topological Phases**, Hong-Yu Wang, Bao-Zong Wang, Jian-Song Hong, Xiong-Jun Liu, Paper: [https://arxiv.org/abs/2508.12444](https://arxiv.org/abs/2508.12444), 21 pages, 10 figures
+- 2025-08-17, **Charge-4 $e$ Anyon Superconductor from Doping $\text{SU}(4)_1$ chiral spin liquid**, Lu Zhang, Ya-Hui Zhang, Xue-Yang Song, Paper: [https://arxiv.org/abs/2508.12370](https://arxiv.org/abs/2508.12370), 9 pages, 1 figures
+- 2025-08-17, **AdS3 integrability, Sine-Gordon and fractional supersymmetry**, Alessandro Torrielli, Paper: [https://arxiv.org/abs/2508.12316](https://arxiv.org/abs/2508.12316), 16 pages, 4 figures
+- 2025-08-17, **NHSE-Driven Coalescence of Topological Defect States in Non-Hermitian Systems**, S. M. Rafi-Ul-Islam, Zhuo Bin Siu, Md. Saddam Hossain Razo, Mansoor B. A. Jalil, Paper: [https://arxiv.org/abs/2508.12254](https://arxiv.org/abs/2508.12254), 15 pages, 6 figures
+- 2025-08-17, **On the compatibility of the Betti harmonic coproduct with cyclotomic filtrations**, Benjamin Enriquez, Khalef Yaddaden, Paper: [https://arxiv.org/abs/2508.12208](https://arxiv.org/abs/2508.12208), 10 pages, comments are welcome
 - 2025-08-15, **$T\bar{T}$ braneworld holography**, Shinji Hirano, Vinayak Raj, Paper: [https://arxiv.org/abs/2508.11471](https://arxiv.org/abs/2508.11471), 22 pages
 - 2025-08-15, **Fault-tolerant mixed boundary punctures on the toric code**, Yao Shen, Fu-Lin Zhang, Paper: [https://arxiv.org/abs/2508.11230](https://arxiv.org/abs/2508.11230)
 - 2025-08-14, **Spontaneously Broken Non-Invertible Symmetries in Transverse-Field Ising Qudit Chains**, Kristian Tyn Kai Chung, Umberto Borla, Andriy H. Nevidomskyy, Sergej Moroz, Paper: [https://arxiv.org/abs/2508.11003](https://arxiv.org/abs/2508.11003), 16 pages, 3 figures

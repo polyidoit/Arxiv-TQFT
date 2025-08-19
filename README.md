@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-18**|**SO(n) Affleck-Kennedy-Lieb-Tasaki states as conformal boundary states of integrable SU(n) spin chains**|Yueshui Zhang, Ying-Hai Wu, Meng Cheng, Hong-Hao Tu|[2508.13114](https://arxiv.org/abs/2508.13114)|null|
+|**2025-08-18**|**Generalized Symmetries From Fusion Actions**|Chongying Dong, Siu-Hung Ng, Li Ren, Feng Xu|[2508.13063](https://arxiv.org/abs/2508.13063)|null|
+|**2025-08-18**|**Macroscopic coherence and vorticity in room-temperature polariton condensate confined in a self-assembled perovskite microcavity**|Martin Montagnac, Yesenia A. García Jomaso, Emiliano Robledo Ibarra, Rodrigo Sánchez-Martínez, Moroni Santiago García, César L. Ordóñez-Romero, Hugo A. Lara-García, Arturo Camacho-Guardian, Giuseppe Pirruccio|[2508.13042](https://arxiv.org/abs/2508.13042)|null|
+|**2025-08-18**|**Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery**|Jiyeon Kang, Songseong Kim, Chanhui Lee, Doyeong Hwang, Joanie Hayoun Chung, Yunkyung Ko, Sumin Lee, Sungwoong Kim, Sungbin Lim|[2508.12650](https://arxiv.org/abs/2508.12650)|null|
+|**2025-08-17**|**Non-Abelian Statistics for Bosonic Symmetry-Protected Topological Phases**|Hong-Yu Wang, Bao-Zong Wang, Jian-Song Hong, Xiong-Jun Liu|[2508.12444](https://arxiv.org/abs/2508.12444)|null|
+|**2025-08-17**|**Charge-4 $e$ Anyon Superconductor from Doping $\text{SU}(4)_1$ chiral spin liquid**|Lu Zhang, Ya-Hui Zhang, Xue-Yang Song|[2508.12370](https://arxiv.org/abs/2508.12370)|null|
+|**2025-08-17**|**AdS3 integrability, Sine-Gordon and fractional supersymmetry**|Alessandro Torrielli|[2508.12316](https://arxiv.org/abs/2508.12316)|null|
+|**2025-08-17**|**NHSE-Driven Coalescence of Topological Defect States in Non-Hermitian Systems**|S. M. Rafi-Ul-Islam, Zhuo Bin Siu, Md. Saddam Hossain Razo, Mansoor B. A. Jalil|[2508.12254](https://arxiv.org/abs/2508.12254)|null|
+|**2025-08-17**|**On the compatibility of the Betti harmonic coproduct with cyclotomic filtrations**|Benjamin Enriquez, Khalef Yaddaden|[2508.12208](https://arxiv.org/abs/2508.12208)|null|
 |**2025-08-15**|**$T\bar{T}$ braneworld holography**|Shinji Hirano, Vinayak Raj|[2508.11471](https://arxiv.org/abs/2508.11471)|null|
 |**2025-08-15**|**Fault-tolerant mixed boundary punctures on the toric code**|Yao Shen, Fu-Lin Zhang|[2508.11230](https://arxiv.org/abs/2508.11230)|null|
 |**2025-08-14**|**Spontaneously Broken Non-Invertible Symmetries in Transverse-Field Ising Qudit Chains**|Kristian Tyn Kai Chung, Umberto Borla, Andriy H. Nevidomskyy, Sergej Moroz|[2508.11003](https://arxiv.org/abs/2508.11003)|null|
