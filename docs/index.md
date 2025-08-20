@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-08-19**|**On Topology of the Infinite-Dimensional Space of Fibrations**|Ziqi Fang|[2508.14038](https://arxiv.org/abs/2508.14038)|null|
+|**2025-08-19**|**Modular transformations of tau functions and conformal blocks on the torus**|Fabrizio Del Monte, Harini Desiraju, Pavlo Gavrylenko|[2508.14030](https://arxiv.org/abs/2508.14030)|null|
+|**2025-08-19**|**Chiral effective potential in $4D$, $\mathcal{N}=1$ supersymmetric gauge theories**|I. L. Buchbinder, R. M. Iakhibbaev, A. I. Mukhaeva, D. I. Kazakov, D. M. Tolkachev|[2508.14002](https://arxiv.org/abs/2508.14002)|null|
+|**2025-08-19**|**Programmable Anyon Mobility through Higher Order Cellular Automata**|Jie-Yu Zhang, Peng Ye|[2508.13961](https://arxiv.org/abs/2508.13961)|null|
+|**2025-08-19**|**Phase Separation Kinetics in a Polar Active Field Model**|Massimiliano Semeraro, Leticia F. Cugliandolo, Giuseppe Gonnella, Adriano Tiribocchi|[2508.13888](https://arxiv.org/abs/2508.13888)|null|
+|**2025-08-19**|**A boundary characterization of Turaev-Viro TQFTs**|Max-Niklas Steffen, Christoph Schweigert|[2508.13759](https://arxiv.org/abs/2508.13759)|null|
+|**2025-08-19**|**Remark on twists of Frobenius algebra and link homology**|Noboru Ito, Keita Nakagane, Jun Yoshida|[2508.13731](https://arxiv.org/abs/2508.13731)|null|
+|**2025-08-19**|**Froggatt-Nielsen like mechanism in the framework of Modular Symmetry for Neutrino Mass, Mixing and Leptogenesis**|Gourab Pathak, Mrinal Kumar Das|[2508.13578](https://arxiv.org/abs/2508.13578)|null|
+|**2025-08-19**|**Complementarity between gravitational wave signatures and Higgs precision measurements of a classically conformal hidden U(1) extended Standard Model**|Victor Baules, Nobuchika Okada|[2508.13527](https://arxiv.org/abs/2508.13527)|null|
+|**2025-08-18**|**Harmonic Spinors and $Z_2$ Vortex**|S C Tiwari|[2508.13335](https://arxiv.org/abs/2508.13335)|null|
 |**2025-08-18**|**SO(n) Affleck-Kennedy-Lieb-Tasaki states as conformal boundary states of integrable SU(n) spin chains**|Yueshui Zhang, Ying-Hai Wu, Meng Cheng, Hong-Hao Tu|[2508.13114](https://arxiv.org/abs/2508.13114)|null|
 |**2025-08-18**|**Generalized Symmetries From Fusion Actions**|Chongying Dong, Siu-Hung Ng, Li Ren, Feng Xu|[2508.13063](https://arxiv.org/abs/2508.13063)|null|
 |**2025-08-18**|**Macroscopic coherence and vorticity in room-temperature polariton condensate confined in a self-assembled perovskite microcavity**|Martin Montagnac, Yesenia A. García Jomaso, Emiliano Robledo Ibarra, Rodrigo Sánchez-Martínez, Moroni Santiago García, César L. Ordóñez-Romero, Hugo A. Lara-García, Arturo Camacho-Guardian, Giuseppe Pirruccio|[2508.13042](https://arxiv.org/abs/2508.13042)|null|

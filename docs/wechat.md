@@ -9,6 +9,17 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-19, **On Topology of the Infinite-Dimensional Space of Fibrations**, Ziqi Fang, Paper: [https://arxiv.org/abs/2508.14038](https://arxiv.org/abs/2508.14038), 128 pages. Revised version of PhD thesis (2024)
+- 2025-08-19, **Modular transformations of tau functions and conformal blocks on the torus**, Fabrizio Del Monte, Harini Desiraju, Pavlo Gavrylenko, Paper: [https://arxiv.org/abs/2508.14030](https://arxiv.org/abs/2508.14030), 37 pages, 2 figures, ancillary Mathematica file
+- 2025-08-19, **Chiral effective potential in $4D$, $\mathcal{N}=1$ supersymmetric gauge theories**, I. L. Buchbinder, R. M. Iakhibbaev, A. I. Mukhaeva, D. I. Kazakov, D. M. Tolkachev, Paper: [https://arxiv.org/abs/2508.14002](https://arxiv.org/abs/2508.14002), 31 pages, 11 figures
+- 2025-08-19, **Programmable Anyon Mobility through Higher Order Cellular Automata**, Jie-Yu Zhang, Peng Ye, Paper: [https://arxiv.org/abs/2508.13961](https://arxiv.org/abs/2508.13961)
+- 2025-08-19, **Phase Separation Kinetics in a Polar Active Field Model**, Massimiliano Semeraro, Leticia F. Cugliandolo, Giuseppe Gonnella, Adriano Tiribocchi, Paper: [https://arxiv.org/abs/2508.13888](https://arxiv.org/abs/2508.13888), Main document with 6 pages 4 figures, Supplemental Material with 27
+  pages and 20 figures, 8 Movies
+- 2025-08-19, **A boundary characterization of Turaev-Viro TQFTs**, Max-Niklas Steffen, Christoph Schweigert, Paper: [https://arxiv.org/abs/2508.13759](https://arxiv.org/abs/2508.13759)
+- 2025-08-19, **Remark on twists of Frobenius algebra and link homology**, Noboru Ito, Keita Nakagane, Jun Yoshida, Paper: [https://arxiv.org/abs/2508.13731](https://arxiv.org/abs/2508.13731), 13 pages
+- 2025-08-19, **Froggatt-Nielsen like mechanism in the framework of Modular Symmetry for Neutrino Mass, Mixing and Leptogenesis**, Gourab Pathak, Mrinal Kumar Das, Paper: [https://arxiv.org/abs/2508.13578](https://arxiv.org/abs/2508.13578), 23 pages, 14 figures
+- 2025-08-19, **Complementarity between gravitational wave signatures and Higgs precision measurements of a classically conformal hidden U(1) extended Standard Model**, Victor Baules, Nobuchika Okada, Paper: [https://arxiv.org/abs/2508.13527](https://arxiv.org/abs/2508.13527), 17 pages, 4 figures
+- 2025-08-18, **Harmonic Spinors and $Z_2$ Vortex**, S C Tiwari, Paper: [https://arxiv.org/abs/2508.13335](https://arxiv.org/abs/2508.13335), 9 pages
 - 2025-08-18, **SO(n) Affleck-Kennedy-Lieb-Tasaki states as conformal boundary states of integrable SU(n) spin chains**, Yueshui Zhang, Ying-Hai Wu, Meng Cheng, Hong-Hao Tu, Paper: [https://arxiv.org/abs/2508.13114](https://arxiv.org/abs/2508.13114), 22 pages, 3 figures
 - 2025-08-18, **Generalized Symmetries From Fusion Actions**, Chongying Dong, Siu-Hung Ng, Li Ren, Feng Xu, Paper: [https://arxiv.org/abs/2508.13063](https://arxiv.org/abs/2508.13063)
 - 2025-08-18, **Macroscopic coherence and vorticity in room-temperature polariton condensate confined in a self-assembled perovskite microcavity**, Martin Montagnac, Yesenia A. García Jomaso, Emiliano Robledo Ibarra, Rodrigo Sánchez-Martínez, Moroni Santiago García, César L. Ordóñez-Romero, Hugo A. Lara-García, Arturo Camacho-Guardian, Giuseppe Pirruccio, Paper: [https://arxiv.org/abs/2508.13042](https://arxiv.org/abs/2508.13042), 10 pages and 5 figures (main text). 7 pages and 12 figures
