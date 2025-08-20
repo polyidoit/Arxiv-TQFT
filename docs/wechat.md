@@ -1,4 +1,4 @@
-> Automatically updated on 2025.08.19
+> Automatically updated on 2025.08.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 - 2025-08-18, **Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery**, Jiyeon Kang, Songseong Kim, Chanhui Lee, Doyeong Hwang, Joanie Hayoun Chung, Yunkyung Ko, Sumin Lee, Sungwoong Kim, Sungbin Lim, Paper: [https://arxiv.org/abs/2508.12650](https://arxiv.org/abs/2508.12650), 32 pages, 17 figures, 5 tables
 - 2025-08-17, **Non-Abelian Statistics for Bosonic Symmetry-Protected Topological Phases**, Hong-Yu Wang, Bao-Zong Wang, Jian-Song Hong, Xiong-Jun Liu, Paper: [https://arxiv.org/abs/2508.12444](https://arxiv.org/abs/2508.12444), 21 pages, 10 figures
 - 2025-08-17, **Charge-4 $e$ Anyon Superconductor from Doping $\text{SU}(4)_1$ chiral spin liquid**, Lu Zhang, Ya-Hui Zhang, Xue-Yang Song, Paper: [https://arxiv.org/abs/2508.12370](https://arxiv.org/abs/2508.12370), 9 pages, 1 figures
-- 2025-08-17, **AdS3 integrability, Sine-Gordon and fractional supersymmetry**, Alessandro Torrielli, Paper: [https://arxiv.org/abs/2508.12316](https://arxiv.org/abs/2508.12316), 16 pages, 4 figures
+- 2025-08-19, **AdS3 integrability, Sine-Gordon and fractional supersymmetry**, Alessandro Torrielli, Paper: [https://arxiv.org/abs/2508.12316](https://arxiv.org/abs/2508.12316), 16 pages, 4 figures; v2: added references
 - 2025-08-17, **NHSE-Driven Coalescence of Topological Defect States in Non-Hermitian Systems**, S. M. Rafi-Ul-Islam, Zhuo Bin Siu, Md. Saddam Hossain Razo, Mansoor B. A. Jalil, Paper: [https://arxiv.org/abs/2508.12254](https://arxiv.org/abs/2508.12254), 15 pages, 6 figures
 - 2025-08-17, **On the compatibility of the Betti harmonic coproduct with cyclotomic filtrations**, Benjamin Enriquez, Khalef Yaddaden, Paper: [https://arxiv.org/abs/2508.12208](https://arxiv.org/abs/2508.12208), 10 pages, comments are welcome
 - 2025-08-15, **$T\bar{T}$ braneworld holography**, Shinji Hirano, Vinayak Raj, Paper: [https://arxiv.org/abs/2508.11471](https://arxiv.org/abs/2508.11471), 22 pages
@@ -57,5 +57,5 @@
   welcome
 - 2025-08-05, **A New Action for Superstring Field Theory**, Chris Hull, Paper: [https://arxiv.org/abs/2508.03902](https://arxiv.org/abs/2508.03902), 23 Pages
 
-<p align=right>(<a href=#updated-on-20250819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250820>back to top</a>)</p>
 
