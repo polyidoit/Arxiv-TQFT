@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-20**|**Anyon superfluidity of excitons in quantum Hall bilayers**|Zhaoyu Han, Taige Wang, Zhihuan Dong, Michael P. Zaletel, Ashvin Vishwanath|[2508.14894](https://arxiv.org/abs/2508.14894)|null|
+|**2025-08-20**|**Holographic Extended Thermodynamics of deformed AdS-Schwarzschild black hole**|Kamal L. Panigrahi, Balbeer Singh|[2508.14873](https://arxiv.org/abs/2508.14873)|null|
+|**2025-08-20**|**High-fidelity realisation of CNOT gate in Majorana-based optical platform**|Jia-Kun Li, Kai Sun, Ze-Yan Hao, Jia-He Liang, Jiannis K. Pachos, Lucy Byles, Jin-Shi Xu, Yong-Jian Han, Chuan-Feng Li, Guang-Can Guo|[2508.14641](https://arxiv.org/abs/2508.14641)|null|
+|**2025-08-20**|**From Chiral Topological Dynamics to Chiral Topological Amplification: Real vs Imaginary Parameters in a Hermitian Bosonic Chain**|Kiran Babasaheb Estake, T. R. Vishnu, Dibyendu Roy|[2508.14560](https://arxiv.org/abs/2508.14560)|null|
+|**2025-08-20**|**Thermodynamic topology of Einstein-Maxwell-Dilaton Theories**|H. Babaei-Aghbolagh, Habib Esmaili, Song He, Hosein Mohammadzadeh|[2508.14453](https://arxiv.org/abs/2508.14453)|null|
+|**2025-08-20**|**Khovanov homology of tangles: algorithm and computation**|Li Shen, Jian Liu, Guo-Wei Wei|[2508.14404](https://arxiv.org/abs/2508.14404)|null|
+|**2025-08-19**|**The numerical case for identifying paired quantum Hall phases by their daughters**|Misha Yutushui, Arjun Dey, David F. Mross|[2508.14162](https://arxiv.org/abs/2508.14162)|null|
 |**2025-08-19**|**On Topology of the Infinite-Dimensional Space of Fibrations**|Ziqi Fang|[2508.14038](https://arxiv.org/abs/2508.14038)|null|
 |**2025-08-19**|**Modular transformations of tau functions and conformal blocks on the torus**|Fabrizio Del Monte, Harini Desiraju, Pavlo Gavrylenko|[2508.14030](https://arxiv.org/abs/2508.14030)|null|
 |**2025-08-19**|**Chiral effective potential in $4D$, $\mathcal{N}=1$ supersymmetric gauge theories**|I. L. Buchbinder, R. M. Iakhibbaev, A. I. Mukhaeva, D. I. Kazakov, D. M. Tolkachev|[2508.14002](https://arxiv.org/abs/2508.14002)|null|
