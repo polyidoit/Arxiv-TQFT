@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.08.18
+> Automatically updated on 2025.08.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,49 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**de Sitter locality from conformal field theory**|Parijat Dey, Zhongjie Huang, Arthur Lipstein|[2508.15627](https://arxiv.org/abs/2508.15627)|null|
+|**2025-08-21**|**Irreversibility and symmetry breaking in the creation and annihilation of defects in active living matter**|Avraham Beer, Efraim Dov Neimand, Dom Corbett, Daniel J. G. Pearce, Gil Ariel, Victor Yashunsky|[2508.15622](https://arxiv.org/abs/2508.15622)|null|
+|**2025-08-21**|**A Duflo-Moore theorem for ergodic group actions on semifinite von Neumann algebras**|Ulrik Enstad, Hannes Wendt|[2508.15575](https://arxiv.org/abs/2508.15575)|null|
+|**2025-08-21**|**On the Lagrangian and fermion mass of the unified $SU(2) \otimes SU(4)$ gauge field theory**|Eckart Marsch, Yasuhito Narita|[2508.15332](https://arxiv.org/abs/2508.15332)|null|
+|**2025-08-21**|**Cosmology with an emergent Standard Model**|Steven D. Bass|[2508.15289](https://arxiv.org/abs/2508.15289)|null|
+|**2025-08-21**|**Dirac monopole magnets in non-Hermitian systems**|Haiyang Yu, Tao Jiang, Li-Chen Zhao|[2508.15186](https://arxiv.org/abs/2508.15186)|null|
+|**2025-08-21**|**Invariant Random Subgroups, Soficity, and Lück's determinant conjecture**|Aareyan Manzoor|[2508.15154](https://arxiv.org/abs/2508.15154)|null|
+|**2025-08-20**|**On Entropy Bounds for Irrelevant Operators**|Lucas Fernández-Sarmiento, Riccardo Penco, Rachel A Rosen|[2508.14978](https://arxiv.org/abs/2508.14978)|null|
+|**2025-08-20**|**The beginning of the endpoint bootstrap for conformal line defects**|Ryan A. Lanzetta, Shang Liu, Max A. Metlitski|[2508.14964](https://arxiv.org/abs/2508.14964)|null|
+|**2025-08-20**|**Anyon superfluidity of excitons in quantum Hall bilayers**|Zhaoyu Han, Taige Wang, Zhihuan Dong, Michael P. Zaletel, Ashvin Vishwanath|[2508.14894](https://arxiv.org/abs/2508.14894)|null|
+|**2025-08-20**|**Holographic Extended Thermodynamics of deformed AdS-Schwarzschild black hole**|Kamal L. Panigrahi, Balbeer Singh|[2508.14873](https://arxiv.org/abs/2508.14873)|null|
+|**2025-08-20**|**High-fidelity realisation of CNOT gate in Majorana-based optical platform**|Jia-Kun Li, Kai Sun, Ze-Yan Hao, Jia-He Liang, Jiannis K. Pachos, Lucy Byles, Jin-Shi Xu, Yong-Jian Han, Chuan-Feng Li, Guang-Can Guo|[2508.14641](https://arxiv.org/abs/2508.14641)|null|
+|**2025-08-20**|**From Chiral Topological Dynamics to Chiral Topological Amplification: Real vs Imaginary Parameters in a Hermitian Bosonic Chain**|Kiran Babasaheb Estake, T. R. Vishnu, Dibyendu Roy|[2508.14560](https://arxiv.org/abs/2508.14560)|null|
+|**2025-08-20**|**Thermodynamic topology of Einstein-Maxwell-Dilaton Theories**|H. Babaei-Aghbolagh, Habib Esmaili, Song He, Hosein Mohammadzadeh|[2508.14453](https://arxiv.org/abs/2508.14453)|null|
+|**2025-08-20**|**Khovanov homology of tangles: algorithm and computation**|Li Shen, Jian Liu, Guo-Wei Wei|[2508.14404](https://arxiv.org/abs/2508.14404)|null|
+|**2025-08-19**|**The numerical case for identifying paired quantum Hall phases by their daughters**|Misha Yutushui, Arjun Dey, David F. Mross|[2508.14162](https://arxiv.org/abs/2508.14162)|null|
+|**2025-08-19**|**On Topology of the Infinite-Dimensional Space of Fibrations**|Ziqi Fang|[2508.14038](https://arxiv.org/abs/2508.14038)|null|
+|**2025-08-19**|**Modular transformations of tau functions and conformal blocks on the torus**|Fabrizio Del Monte, Harini Desiraju, Pavlo Gavrylenko|[2508.14030](https://arxiv.org/abs/2508.14030)|null|
+|**2025-08-19**|**Chiral effective potential in $4D$, $\mathcal{N}=1$ supersymmetric gauge theories**|I. L. Buchbinder, R. M. Iakhibbaev, A. I. Mukhaeva, D. I. Kazakov, D. M. Tolkachev|[2508.14002](https://arxiv.org/abs/2508.14002)|null|
+|**2025-08-19**|**Programmable Anyon Mobility through Higher Order Cellular Automata**|Jie-Yu Zhang, Peng Ye|[2508.13961](https://arxiv.org/abs/2508.13961)|null|
+|**2025-08-19**|**Phase Separation Kinetics in a Polar Active Field Model**|Massimiliano Semeraro, Leticia F. Cugliandolo, Giuseppe Gonnella, Adriano Tiribocchi|[2508.13888](https://arxiv.org/abs/2508.13888)|null|
+|**2025-08-19**|**A boundary characterization of Turaev-Viro TQFTs**|Max-Niklas Steffen, Christoph Schweigert|[2508.13759](https://arxiv.org/abs/2508.13759)|null|
+|**2025-08-19**|**Remark on twists of Frobenius algebra and link homology**|Noboru Ito, Keita Nakagane, Jun Yoshida|[2508.13731](https://arxiv.org/abs/2508.13731)|null|
+|**2025-08-19**|**Froggatt-Nielsen like mechanism in the framework of Modular Symmetry for Neutrino Mass, Mixing and Leptogenesis**|Gourab Pathak, Mrinal Kumar Das|[2508.13578](https://arxiv.org/abs/2508.13578)|null|
+|**2025-08-19**|**Complementarity between gravitational wave signatures and Higgs precision measurements of a classically conformal hidden U(1) extended Standard Model**|Victor Baules, Nobuchika Okada|[2508.13527](https://arxiv.org/abs/2508.13527)|null|
+|**2025-08-18**|**Harmonic Spinors and $Z_2$ Vortex**|S C Tiwari|[2508.13335](https://arxiv.org/abs/2508.13335)|null|
+|**2025-08-18**|**SO(n) Affleck-Kennedy-Lieb-Tasaki states as conformal boundary states of integrable SU(n) spin chains**|Yueshui Zhang, Ying-Hai Wu, Meng Cheng, Hong-Hao Tu|[2508.13114](https://arxiv.org/abs/2508.13114)|null|
+|**2025-08-18**|**Generalized Symmetries From Fusion Actions**|Chongying Dong, Siu-Hung Ng, Li Ren, Feng Xu|[2508.13063](https://arxiv.org/abs/2508.13063)|null|
+|**2025-08-18**|**Macroscopic coherence and vorticity in room-temperature polariton condensate confined in a self-assembled perovskite microcavity**|Martin Montagnac, Yesenia A. García Jomaso, Emiliano Robledo Ibarra, Rodrigo Sánchez-Martínez, Moroni Santiago García, César L. Ordóñez-Romero, Hugo A. Lara-García, Arturo Camacho-Guardian, Giuseppe Pirruccio|[2508.13042](https://arxiv.org/abs/2508.13042)|null|
+|**2025-08-18**|**Score-informed Neural Operator for Enhancing Ordering-based Causal Discovery**|Jiyeon Kang, Songseong Kim, Chanhui Lee, Doyeong Hwang, Joanie Hayoun Chung, Yunkyung Ko, Sumin Lee, Sungwoong Kim, Sungbin Lim|[2508.12650](https://arxiv.org/abs/2508.12650)|null|
+|**2025-08-17**|**Non-Abelian Statistics for Bosonic Symmetry-Protected Topological Phases**|Hong-Yu Wang, Bao-Zong Wang, Jian-Song Hong, Xiong-Jun Liu|[2508.12444](https://arxiv.org/abs/2508.12444)|null|
+|**2025-08-17**|**Charge-4 $e$ Anyon Superconductor from Doping $\text{SU}(4)_1$ chiral spin liquid**|Lu Zhang, Ya-Hui Zhang, Xue-Yang Song|[2508.12370](https://arxiv.org/abs/2508.12370)|null|
+|**2025-08-19**|**AdS3 integrability, Sine-Gordon and fractional supersymmetry**|Alessandro Torrielli|[2508.12316](https://arxiv.org/abs/2508.12316)|null|
+|**2025-08-17**|**NHSE-Driven Coalescence of Topological Defect States in Non-Hermitian Systems**|S. M. Rafi-Ul-Islam, Zhuo Bin Siu, Md. Saddam Hossain Razo, Mansoor B. A. Jalil|[2508.12254](https://arxiv.org/abs/2508.12254)|null|
+|**2025-08-17**|**On the compatibility of the Betti harmonic coproduct with cyclotomic filtrations**|Benjamin Enriquez, Khalef Yaddaden|[2508.12208](https://arxiv.org/abs/2508.12208)|null|
+|**2025-08-15**|**$T\bar{T}$ braneworld holography**|Shinji Hirano, Vinayak Raj|[2508.11471](https://arxiv.org/abs/2508.11471)|null|
+|**2025-08-15**|**Fault-tolerant mixed boundary punctures on the toric code**|Yao Shen, Fu-Lin Zhang|[2508.11230](https://arxiv.org/abs/2508.11230)|null|
+|**2025-08-14**|**Spontaneously Broken Non-Invertible Symmetries in Transverse-Field Ising Qudit Chains**|Kristian Tyn Kai Chung, Umberto Borla, Andriy H. Nevidomskyy, Sergej Moroz|[2508.11003](https://arxiv.org/abs/2508.11003)|null|
+|**2025-08-14**|**A Generalized Crystalline Equivalence Principle**|Devon Stockall, Matthew Yu|[2508.10978](https://arxiv.org/abs/2508.10978)|null|
+|**2025-08-14**|**Unification of Gravity and Standard Model: Weyl-Dirac-Born-Infeld action**|D. M. Ghilencea|[2508.10959](https://arxiv.org/abs/2508.10959)|null|
+|**2025-08-14**|**Gapped spinful phases obtained via Gutzwiller projections of Euler states**|Thorsten B. Wahl, Lukas Devos, Robert-Jan Slager|[2508.10957](https://arxiv.org/abs/2508.10957)|null|
 |**2025-08-14**|**Bicharacter twists of quantum groups**|Ian Martin, Alexander Tsymbaliuk|[2508.10882](https://arxiv.org/abs/2508.10882)|null|
+|**2025-08-14**|**Spin and thermal current scaling at a $Y$ -junction of XX spin chains**|Domenico Giuliano, Francesco Buccheri|[2508.10267](https://arxiv.org/abs/2508.10267)|null|
 |**2025-08-13**|**Projective Measurements: Topological Quantum Computing with an Arbitrary Number of Qubits**|Themba Hodge, Philipp Frey, Stephan Rachel|[2508.10107](https://arxiv.org/abs/2508.10107)|null|
 |**2025-08-13**|**Majorana braiding simulations with projective measurements**|Philipp Frey, Themba Hodge, Eric Mascot, Stephan Rachel|[2508.10106](https://arxiv.org/abs/2508.10106)|null|
 |**2025-08-13**|**Extended Color Twin Higgs**|Brian Batell, Thomas Cochran, Logan Page, Christopher B. Verhaaren|[2508.10102](https://arxiv.org/abs/2508.10102)|null|
@@ -864,5 +906,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250822>back to top</a>)</p>
 
