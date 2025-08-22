@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-21, **de Sitter locality from conformal field theory**, Parijat Dey, Zhongjie Huang, Arthur Lipstein, Paper: [https://arxiv.org/abs/2508.15627](https://arxiv.org/abs/2508.15627), 39 pages
+- 2025-08-21, **Irreversibility and symmetry breaking in the creation and annihilation of defects in active living matter**, Avraham Beer, Efraim Dov Neimand, Dom Corbett, Daniel J. G. Pearce, Gil Ariel, Victor Yashunsky, Paper: [https://arxiv.org/abs/2508.15622](https://arxiv.org/abs/2508.15622), 16 pages, 8 figures
+- 2025-08-21, **A Duflo-Moore theorem for ergodic group actions on semifinite von Neumann algebras**, Ulrik Enstad, Hannes Wendt, Paper: [https://arxiv.org/abs/2508.15575](https://arxiv.org/abs/2508.15575), 18 pages
+- 2025-08-21, **On the Lagrangian and fermion mass of the unified $SU(2) \otimes SU(4)$ gauge field theory**, Eckart Marsch, Yasuhito Narita, Paper: [https://arxiv.org/abs/2508.15332](https://arxiv.org/abs/2508.15332)
+- 2025-08-21, **Cosmology with an emergent Standard Model**, Steven D. Bass, Paper: [https://arxiv.org/abs/2508.15289](https://arxiv.org/abs/2508.15289), Brief Review, to appear in Modern Physics Letters A, 15 pages
+- 2025-08-21, **Dirac monopole magnets in non-Hermitian systems**, Haiyang Yu, Tao Jiang, Li-Chen Zhao, Paper: [https://arxiv.org/abs/2508.15186](https://arxiv.org/abs/2508.15186), 15 pages, 6 figures
+- 2025-08-21, **Invariant Random Subgroups, Soficity, and Lück's determinant conjecture**, Aareyan Manzoor, Paper: [https://arxiv.org/abs/2508.15154](https://arxiv.org/abs/2508.15154), 12 pages
+- 2025-08-20, **On Entropy Bounds for Irrelevant Operators**, Lucas Fernández-Sarmiento, Riccardo Penco, Rachel A Rosen, Paper: [https://arxiv.org/abs/2508.14978](https://arxiv.org/abs/2508.14978), 23 pages, 4 figures
+- 2025-08-20, **The beginning of the endpoint bootstrap for conformal line defects**, Ryan A. Lanzetta, Shang Liu, Max A. Metlitski, Paper: [https://arxiv.org/abs/2508.14964](https://arxiv.org/abs/2508.14964), 83 pages, 17 figures
 - 2025-08-20, **Anyon superfluidity of excitons in quantum Hall bilayers**, Zhaoyu Han, Taige Wang, Zhihuan Dong, Michael P. Zaletel, Ashvin Vishwanath, Paper: [https://arxiv.org/abs/2508.14894](https://arxiv.org/abs/2508.14894)
 - 2025-08-20, **Holographic Extended Thermodynamics of deformed AdS-Schwarzschild black hole**, Kamal L. Panigrahi, Balbeer Singh, Paper: [https://arxiv.org/abs/2508.14873](https://arxiv.org/abs/2508.14873), 29 pages, 24 figures
 - 2025-08-20, **High-fidelity realisation of CNOT gate in Majorana-based optical platform**, Jia-Kun Li, Kai Sun, Ze-Yan Hao, Jia-He Liang, Jiannis K. Pachos, Lucy Byles, Jin-Shi Xu, Yong-Jian Han, Chuan-Feng Li, Guang-Can Guo, Paper: [https://arxiv.org/abs/2508.14641](https://arxiv.org/abs/2508.14641), 8 pages, 6 figures
