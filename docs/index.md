@@ -9,6 +9,7 @@
 |**2025-08-21**|**Cosmology with an emergent Standard Model**|Steven D. Bass|[2508.15289](https://arxiv.org/abs/2508.15289)|null|
 |**2025-08-21**|**Dirac monopole magnets in non-Hermitian systems**|Haiyang Yu, Tao Jiang, Li-Chen Zhao|[2508.15186](https://arxiv.org/abs/2508.15186)|null|
 |**2025-08-21**|**Invariant Random Subgroups, Soficity, and Lück's determinant conjecture**|Aareyan Manzoor|[2508.15154](https://arxiv.org/abs/2508.15154)|null|
+|**2025-08-20**|**Fast reliable pricing and calibration of the rough Heston model**|Svetlana Boyarchenko, Marco de Innocentis, Sergei Levendorskiĭ|[2508.15080](https://arxiv.org/abs/2508.15080)|null|
 |**2025-08-20**|**On Entropy Bounds for Irrelevant Operators**|Lucas Fernández-Sarmiento, Riccardo Penco, Rachel A Rosen|[2508.14978](https://arxiv.org/abs/2508.14978)|null|
 |**2025-08-20**|**The beginning of the endpoint bootstrap for conformal line defects**|Ryan A. Lanzetta, Shang Liu, Max A. Metlitski|[2508.14964](https://arxiv.org/abs/2508.14964)|null|
 |**2025-08-20**|**Anyon superfluidity of excitons in quantum Hall bilayers**|Zhaoyu Han, Taige Wang, Zhihuan Dong, Michael P. Zaletel, Ashvin Vishwanath|[2508.14894](https://arxiv.org/abs/2508.14894)|null|

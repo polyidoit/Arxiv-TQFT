@@ -16,6 +16,7 @@
 - 2025-08-21, **Cosmology with an emergent Standard Model**, Steven D. Bass, Paper: [https://arxiv.org/abs/2508.15289](https://arxiv.org/abs/2508.15289), Brief Review, to appear in Modern Physics Letters A, 15 pages
 - 2025-08-21, **Dirac monopole magnets in non-Hermitian systems**, Haiyang Yu, Tao Jiang, Li-Chen Zhao, Paper: [https://arxiv.org/abs/2508.15186](https://arxiv.org/abs/2508.15186), 15 pages, 6 figures
 - 2025-08-21, **Invariant Random Subgroups, Soficity, and Lück's determinant conjecture**, Aareyan Manzoor, Paper: [https://arxiv.org/abs/2508.15154](https://arxiv.org/abs/2508.15154), 12 pages
+- 2025-08-20, **Fast reliable pricing and calibration of the rough Heston model**, Svetlana Boyarchenko, Marco de Innocentis, Sergei Levendorskiĭ, Paper: [https://arxiv.org/abs/2508.15080](https://arxiv.org/abs/2508.15080), arXiv admin note: text overlap with arXiv:2412.16067
 - 2025-08-20, **On Entropy Bounds for Irrelevant Operators**, Lucas Fernández-Sarmiento, Riccardo Penco, Rachel A Rosen, Paper: [https://arxiv.org/abs/2508.14978](https://arxiv.org/abs/2508.14978), 23 pages, 4 figures
 - 2025-08-20, **The beginning of the endpoint bootstrap for conformal line defects**, Ryan A. Lanzetta, Shang Liu, Max A. Metlitski, Paper: [https://arxiv.org/abs/2508.14964](https://arxiv.org/abs/2508.14964), 83 pages, 17 figures
 - 2025-08-20, **Anyon superfluidity of excitons in quantum Hall bilayers**, Zhaoyu Han, Taige Wang, Zhihuan Dong, Michael P. Zaletel, Ashvin Vishwanath, Paper: [https://arxiv.org/abs/2508.14894](https://arxiv.org/abs/2508.14894)
