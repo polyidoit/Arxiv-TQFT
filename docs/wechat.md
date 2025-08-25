@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-22, **The twisted geometry of 6d F-theory vacua with discrete gauge symmetries**, David Jaramillo Duque, Amir-Kian Kashani-Poor, Thorsten Schimannek, Paper: [https://arxiv.org/abs/2508.16500](https://arxiv.org/abs/2508.16500), 91 pages, 3 figures
+- 2025-08-22, **Frobenius Algebras, Factorization Homology and the Reshetikhin-Turaev Invariants**, Deniz Yeral, Paper: [https://arxiv.org/abs/2508.16351](https://arxiv.org/abs/2508.16351), 13 pages, some diagrams, partly in color
+- 2025-08-22, **Universal quantum control over Majorana zero modes**, Zhu-yao Jin, Jun Jing, Paper: [https://arxiv.org/abs/2508.16226](https://arxiv.org/abs/2508.16226), 12 pages, 5 figures
+- 2025-08-22, **Symmetry-breaking symmetry in directed spectral partitioning**, Dimosthenis Pasadakis, Raphael S. Steiner, Pál András Papp, Toni Böhnlein, Albert-Jan N. Yzelman, Paper: [https://arxiv.org/abs/2508.16173](https://arxiv.org/abs/2508.16173), 25 pages
+- 2025-08-22, **Correlations of the percolation energy field and its logarithmic partner**, Federico Camia, Yu Feng, Paper: [https://arxiv.org/abs/2508.16047](https://arxiv.org/abs/2508.16047), 45 pages, 5 figures
+- 2025-08-21, **Constraining light dark matter in vector-scalar portals with COSI and AMEGO-X**, Maíra Dutra, Clarissa Siqueira, Tonia M. Venters, Paper: [https://arxiv.org/abs/2508.15891](https://arxiv.org/abs/2508.15891), 32 pages, 1 table, and 7 figures
 - 2025-08-21, **de Sitter locality from conformal field theory**, Parijat Dey, Zhongjie Huang, Arthur Lipstein, Paper: [https://arxiv.org/abs/2508.15627](https://arxiv.org/abs/2508.15627), 39 pages
 - 2025-08-21, **Irreversibility and symmetry breaking in the creation and annihilation of defects in active living matter**, Avraham Beer, Efraim Dov Neimand, Dom Corbett, Daniel J. G. Pearce, Gil Ariel, Victor Yashunsky, Paper: [https://arxiv.org/abs/2508.15622](https://arxiv.org/abs/2508.15622), 16 pages, 8 figures
 - 2025-08-21, **A Duflo-Moore theorem for ergodic group actions on semifinite von Neumann algebras**, Ulrik Enstad, Hannes Wendt, Paper: [https://arxiv.org/abs/2508.15575](https://arxiv.org/abs/2508.15575), 18 pages
