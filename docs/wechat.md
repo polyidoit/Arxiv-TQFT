@@ -9,6 +9,17 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-25, **Gapless Edge Gravitons and Quasiparticles in Fractional Quantum Hall Systems with Non-Local Confinement**, Daniel Spasic-Mlacak, Nigel R. Cooper, Paper: [https://arxiv.org/abs/2508.18117](https://arxiv.org/abs/2508.18117)
+- 2025-08-25, **Vectorlike $τ$ production through leptoquarks**, Shruti Dubey, Nilanjana Kumar, Tanumoy Mandal, Subhadip Mitra, Rachit Sharma, Paper: [https://arxiv.org/abs/2508.18047](https://arxiv.org/abs/2508.18047), 14 pages, 5 figures, 4 tables
+- 2025-08-25, **Thomson problem on a spherical cap**, Paolo Amore, Paper: [https://arxiv.org/abs/2508.17625](https://arxiv.org/abs/2508.17625), 12 pages; 20 figures
+- 2025-08-25, **Weak relative Dixmier property and Popa's intertwining technique for type III subfactors**, Yusuke Isono, Paper: [https://arxiv.org/abs/2508.17592](https://arxiv.org/abs/2508.17592), 52 pages
+- 2025-08-24, **Topological phase transitions between bosonic and fermionic quantum Hall states near even-denominator filling factors**, Evgenii Zheltonozhskii, Ady Stern, Netanel H. Lindner, Paper: [https://arxiv.org/abs/2508.17457](https://arxiv.org/abs/2508.17457)
+- 2025-08-24, **Model Theory of General von Neumann Algebras I: Generalized Ocneanu Ultraproducts**, Jananan Arulseelan, Paper: [https://arxiv.org/abs/2508.17241](https://arxiv.org/abs/2508.17241), 34 pages; comments welcome!
+- 2025-08-23, **Thermal Correlators and Black Holes: From Infinity to Singularity**, Samuel Valach, Paper: [https://arxiv.org/abs/2508.17139](https://arxiv.org/abs/2508.17139), PhD Thesis, Trinity College Dublin, 200 pages, based on 2206.05544,
+  2210.16274, 2306.00787, 2404.17286
+- 2025-08-23, **Graphs arising from the dual Steenrod algebra**, Connor Elliott, Courtney Hauf, Kai Morton, Sarah Petersen, Leticia Schow, Paper: [https://arxiv.org/abs/2508.17041](https://arxiv.org/abs/2508.17041), 30 pages, Comments Welcome!
+- 2025-08-22, **Yang--Mills $β$ function in the gradient flow exact renormalization group**, Sorato Nagao, Hiroshi Suzuki, Paper: [https://arxiv.org/abs/2508.16828](https://arxiv.org/abs/2508.16828), 20 pages, many figures
+- 2025-08-22, **A quantum algorithm for modular flow**, Ian T. Lim, Isaac H. Kim, Paper: [https://arxiv.org/abs/2508.16826](https://arxiv.org/abs/2508.16826)
 - 2025-08-22, **The twisted geometry of 6d F-theory vacua with discrete gauge symmetries**, David Jaramillo Duque, Amir-Kian Kashani-Poor, Thorsten Schimannek, Paper: [https://arxiv.org/abs/2508.16500](https://arxiv.org/abs/2508.16500), 91 pages, 3 figures
 - 2025-08-22, **Frobenius Algebras, Factorization Homology and the Reshetikhin-Turaev Invariants**, Deniz Yeral, Paper: [https://arxiv.org/abs/2508.16351](https://arxiv.org/abs/2508.16351), 13 pages, some diagrams, partly in color
 - 2025-08-22, **Universal quantum control over Majorana zero modes**, Zhu-yao Jin, Jun Jing, Paper: [https://arxiv.org/abs/2508.16226](https://arxiv.org/abs/2508.16226), 12 pages, 5 figures

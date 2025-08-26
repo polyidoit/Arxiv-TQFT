@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**Gapless Edge Gravitons and Quasiparticles in Fractional Quantum Hall Systems with Non-Local Confinement**|Daniel Spasic-Mlacak, Nigel R. Cooper|[2508.18117](https://arxiv.org/abs/2508.18117)|null|
+|**2025-08-25**|**Vectorlike $τ$ production through leptoquarks**|Shruti Dubey, Nilanjana Kumar, Tanumoy Mandal, Subhadip Mitra, Rachit Sharma|[2508.18047](https://arxiv.org/abs/2508.18047)|null|
+|**2025-08-25**|**Thomson problem on a spherical cap**|Paolo Amore|[2508.17625](https://arxiv.org/abs/2508.17625)|null|
+|**2025-08-25**|**Weak relative Dixmier property and Popa's intertwining technique for type III subfactors**|Yusuke Isono|[2508.17592](https://arxiv.org/abs/2508.17592)|null|
+|**2025-08-24**|**Topological phase transitions between bosonic and fermionic quantum Hall states near even-denominator filling factors**|Evgenii Zheltonozhskii, Ady Stern, Netanel H. Lindner|[2508.17457](https://arxiv.org/abs/2508.17457)|null|
+|**2025-08-24**|**Model Theory of General von Neumann Algebras I: Generalized Ocneanu Ultraproducts**|Jananan Arulseelan|[2508.17241](https://arxiv.org/abs/2508.17241)|null|
+|**2025-08-23**|**Thermal Correlators and Black Holes: From Infinity to Singularity**|Samuel Valach|[2508.17139](https://arxiv.org/abs/2508.17139)|null|
+|**2025-08-23**|**Graphs arising from the dual Steenrod algebra**|Connor Elliott, Courtney Hauf, Kai Morton, Sarah Petersen, Leticia Schow|[2508.17041](https://arxiv.org/abs/2508.17041)|null|
+|**2025-08-22**|**Yang--Mills $β$ function in the gradient flow exact renormalization group**|Sorato Nagao, Hiroshi Suzuki|[2508.16828](https://arxiv.org/abs/2508.16828)|null|
+|**2025-08-22**|**A quantum algorithm for modular flow**|Ian T. Lim, Isaac H. Kim|[2508.16826](https://arxiv.org/abs/2508.16826)|null|
 |**2025-08-22**|**The twisted geometry of 6d F-theory vacua with discrete gauge symmetries**|David Jaramillo Duque, Amir-Kian Kashani-Poor, Thorsten Schimannek|[2508.16500](https://arxiv.org/abs/2508.16500)|null|
 |**2025-08-22**|**Frobenius Algebras, Factorization Homology and the Reshetikhin-Turaev Invariants**|Deniz Yeral|[2508.16351](https://arxiv.org/abs/2508.16351)|null|
 |**2025-08-22**|**Universal quantum control over Majorana zero modes**|Zhu-yao Jin, Jun Jing|[2508.16226](https://arxiv.org/abs/2508.16226)|null|
