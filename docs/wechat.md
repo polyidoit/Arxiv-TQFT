@@ -9,6 +9,17 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-26, **Interferences Measure Topology**, Yuval Abulafia, Eric Akkermans, Paper: [https://arxiv.org/abs/2508.19128](https://arxiv.org/abs/2508.19128), 9 pages, 7 figures
+- 2025-08-26, **Optical control over topological Chern number in moiré materials**, Olivier Huber, Kilian Kuhlbrodt, Eric Anderson, Weijie Li, Kenji Watanabe, Takashi Taniguchi, Martin Kroner, Xiaodong Xu, Atac Imamoglu, Tomasz Smolenski, Paper: [https://arxiv.org/abs/2508.19063](https://arxiv.org/abs/2508.19063), 7 pages, 4 figures
+- 2025-08-26, **Non-commutative Intermediate Factor theorem associated with $W^*$ -dynamics of product groups**, Tattwamasi Amrutam, Yongle Jiang, Shuoxing Zhou, Paper: [https://arxiv.org/abs/2508.18978](https://arxiv.org/abs/2508.18978), 25 Pages; preliminary version. Comments are welcome
+- 2025-08-26, **A tensor category construction of the $W_{p,q}$ triplet vertex operator algebra and applications**, Robert McRae, Valerii Sopin, Paper: [https://arxiv.org/abs/2508.18895](https://arxiv.org/abs/2508.18895), 35 pages
+- 2025-08-26, **Striking Similarities in Dynamics and Vibrations of 2D Quasicrystals and Supercooled Liquids**, Edwin A. Bedolla-Montiel, Marjolein Dijkstra, Paper: [https://arxiv.org/abs/2508.18856](https://arxiv.org/abs/2508.18856), 19 pages, 14 figures
+- 2025-08-26, **Itinerant and topological excitations in a honeycomb spiral spin liquid candidate**, Yuqian Zhao, Xuping Yao, Xun Chen, Zongtang Wan, Zhaohua Ma, Xiaochen Hong, Yuesheng Li, Paper: [https://arxiv.org/abs/2508.18795](https://arxiv.org/abs/2508.18795), accepted in Nature Communications. Supporting Information is
+  available from the authors
+- 2025-08-26, **A $Z_4$ Scotogenic Model with Higgs Portal**, Noel Jonathan Jobu, Kenji Nishiwaki, Paper: [https://arxiv.org/abs/2508.18713](https://arxiv.org/abs/2508.18713), 47 pages, 6 figures, 5 tables
+- 2025-08-26, **Moerdijk Hopf algebras of decorated rooted forests: an operated algebra approach**, Loic Foissy, Xiao-Song Peng, Yunzhou Xie, Yi Zhang, Paper: [https://arxiv.org/abs/2508.18658](https://arxiv.org/abs/2508.18658), 24pages, any comments are all welcome
+- 2025-08-25, **A Database-Driven Framework for 3D Level Generation with LLMs**, Kaijie Xu, Clark Verbrugge, Paper: [https://arxiv.org/abs/2508.18533](https://arxiv.org/abs/2508.18533)
+- 2025-08-25, **A Tale of Two Uplifts: Parisi-Sourlas with Defects**, Kausik Ghosh, Emilio Trevisani, Paper: [https://arxiv.org/abs/2508.18356](https://arxiv.org/abs/2508.18356), 36 pages + appendices, 7 figures, 2 Mathematica notebooks
 - 2025-08-25, **Gapless Edge Gravitons and Quasiparticles in Fractional Quantum Hall Systems with Non-Local Confinement**, Daniel Spasic-Mlacak, Nigel R. Cooper, Paper: [https://arxiv.org/abs/2508.18117](https://arxiv.org/abs/2508.18117)
 - 2025-08-25, **Vectorlike $τ$ production through leptoquarks**, Shruti Dubey, Nilanjana Kumar, Tanumoy Mandal, Subhadip Mitra, Rachit Sharma, Paper: [https://arxiv.org/abs/2508.18047](https://arxiv.org/abs/2508.18047), 14 pages, 5 figures, 4 tables
 - 2025-08-25, **Thomson problem on a spherical cap**, Paolo Amore, Paper: [https://arxiv.org/abs/2508.17625](https://arxiv.org/abs/2508.17625), 12 pages; 20 figures

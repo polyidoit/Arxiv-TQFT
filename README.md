@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**Interferences Measure Topology**|Yuval Abulafia, Eric Akkermans|[2508.19128](https://arxiv.org/abs/2508.19128)|null|
+|**2025-08-26**|**Optical control over topological Chern number in moiré materials**|Olivier Huber, Kilian Kuhlbrodt, Eric Anderson, Weijie Li, Kenji Watanabe, Takashi Taniguchi, Martin Kroner, Xiaodong Xu, Atac Imamoglu, Tomasz Smolenski|[2508.19063](https://arxiv.org/abs/2508.19063)|null|
+|**2025-08-26**|**Non-commutative Intermediate Factor theorem associated with $W^*$ -dynamics of product groups**|Tattwamasi Amrutam, Yongle Jiang, Shuoxing Zhou|[2508.18978](https://arxiv.org/abs/2508.18978)|null|
+|**2025-08-26**|**A tensor category construction of the $W_{p,q}$ triplet vertex operator algebra and applications**|Robert McRae, Valerii Sopin|[2508.18895](https://arxiv.org/abs/2508.18895)|null|
+|**2025-08-26**|**Striking Similarities in Dynamics and Vibrations of 2D Quasicrystals and Supercooled Liquids**|Edwin A. Bedolla-Montiel, Marjolein Dijkstra|[2508.18856](https://arxiv.org/abs/2508.18856)|null|
+|**2025-08-26**|**Itinerant and topological excitations in a honeycomb spiral spin liquid candidate**|Yuqian Zhao, Xuping Yao, Xun Chen, Zongtang Wan, Zhaohua Ma, Xiaochen Hong, Yuesheng Li|[2508.18795](https://arxiv.org/abs/2508.18795)|null|
+|**2025-08-26**|**A $Z_4$ Scotogenic Model with Higgs Portal**|Noel Jonathan Jobu, Kenji Nishiwaki|[2508.18713](https://arxiv.org/abs/2508.18713)|null|
+|**2025-08-26**|**Moerdijk Hopf algebras of decorated rooted forests: an operated algebra approach**|Loic Foissy, Xiao-Song Peng, Yunzhou Xie, Yi Zhang|[2508.18658](https://arxiv.org/abs/2508.18658)|null|
+|**2025-08-25**|**A Database-Driven Framework for 3D Level Generation with LLMs**|Kaijie Xu, Clark Verbrugge|[2508.18533](https://arxiv.org/abs/2508.18533)|null|
+|**2025-08-25**|**A Tale of Two Uplifts: Parisi-Sourlas with Defects**|Kausik Ghosh, Emilio Trevisani|[2508.18356](https://arxiv.org/abs/2508.18356)|null|
 |**2025-08-25**|**Gapless Edge Gravitons and Quasiparticles in Fractional Quantum Hall Systems with Non-Local Confinement**|Daniel Spasic-Mlacak, Nigel R. Cooper|[2508.18117](https://arxiv.org/abs/2508.18117)|null|
 |**2025-08-25**|**Vectorlike $τ$ production through leptoquarks**|Shruti Dubey, Nilanjana Kumar, Tanumoy Mandal, Subhadip Mitra, Rachit Sharma|[2508.18047](https://arxiv.org/abs/2508.18047)|null|
 |**2025-08-25**|**Thomson problem on a spherical cap**|Paolo Amore|[2508.17625](https://arxiv.org/abs/2508.17625)|null|
