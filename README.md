@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**Infinite towers of 2d symmetry algebras from Carrollian limit of 3d CFT**|Leonardo Pipolo de Gioia, Ana-Maria Raclariu|[2508.19981](https://arxiv.org/abs/2508.19981)|null|
+|**2025-08-27**|**Partial Anyon Condensation in the Color Code: A Hamiltonian Approach**|Mohsen Rahmani Haghighi, Mohammad Hossein Zarei|[2508.19877](https://arxiv.org/abs/2508.19877)|null|
+|**2025-08-27**|**Morita invariants of quasitriangular comodule algebras**|Monique Müller, Chelsea Walton|[2508.19845](https://arxiv.org/abs/2508.19845)|null|
+|**2025-08-27**|**Ultrafast Solvent Dynamics Drives the Formation of the Hydrated Electron in Photoexcited Water**|Gonzalo Díaz Mirón, Cesare Malosso, Solana Di Pino, Colin K. Egan, Diganta Disgupta, Christopher J. Mundy, Ali Hassanali|[2508.19702](https://arxiv.org/abs/2508.19702)|null|
+|**2025-08-27**|**Optical Switching of Moiré Chern Ferromagnet**|Xiangbin Cai, Haiyang Pan, Yuzhu Wang, Abdullah Rasmita, Shunshun Yang, Yan Zhao, Wei Wang, Ruihuan Duan, Ruihua He, Kenji Watanabe, Takashi Taniguchi, Zheng Liu, Jesús Zúñiga Pérez, Bo Yang, Weibo Gao|[2508.19602](https://arxiv.org/abs/2508.19602)|null|
+|**2025-08-26**|**Entanglement Hamiltonian after a local quench**|Riccarda Bonsignori, Viktor Eisler|[2508.19406](https://arxiv.org/abs/2508.19406)|null|
+|**2025-08-26**|**First-Quantized Quantum Simulation of Non-Relativistic QED with Emergent Topologically Protected Coulomb Interactions**|Torin Stetina, Nathan Wiebe|[2508.19343](https://arxiv.org/abs/2508.19343)|null|
 |**2025-08-26**|**Interferences Measure Topology**|Yuval Abulafia, Eric Akkermans|[2508.19128](https://arxiv.org/abs/2508.19128)|null|
 |**2025-08-26**|**Optical control over topological Chern number in moiré materials**|Olivier Huber, Kilian Kuhlbrodt, Eric Anderson, Weijie Li, Kenji Watanabe, Takashi Taniguchi, Martin Kroner, Xiaodong Xu, Atac Imamoglu, Tomasz Smolenski|[2508.19063](https://arxiv.org/abs/2508.19063)|null|
 |**2025-08-26**|**Non-commutative Intermediate Factor theorem associated with $W^*$ -dynamics of product groups**|Tattwamasi Amrutam, Yongle Jiang, Shuoxing Zhou|[2508.18978](https://arxiv.org/abs/2508.18978)|null|

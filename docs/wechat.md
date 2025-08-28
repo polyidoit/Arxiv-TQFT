@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-27, **Infinite towers of 2d symmetry algebras from Carrollian limit of 3d CFT**, Leonardo Pipolo de Gioia, Ana-Maria Raclariu, Paper: [https://arxiv.org/abs/2508.19981](https://arxiv.org/abs/2508.19981), 36 pages
+- 2025-08-27, **Partial Anyon Condensation in the Color Code: A Hamiltonian Approach**, Mohsen Rahmani Haghighi, Mohammad Hossein Zarei, Paper: [https://arxiv.org/abs/2508.19877](https://arxiv.org/abs/2508.19877), Submitted to Physical Review B ; 12 pages, 7 figures
+- 2025-08-27, **Morita invariants of quasitriangular comodule algebras**, Monique Müller, Chelsea Walton, Paper: [https://arxiv.org/abs/2508.19845](https://arxiv.org/abs/2508.19845), v1: 17 pages. Comments welcomed
+- 2025-08-27, **Ultrafast Solvent Dynamics Drives the Formation of the Hydrated Electron in Photoexcited Water**, Gonzalo Díaz Mirón, Cesare Malosso, Solana Di Pino, Colin K. Egan, Diganta Disgupta, Christopher J. Mundy, Ali Hassanali, Paper: [https://arxiv.org/abs/2508.19702](https://arxiv.org/abs/2508.19702)
+- 2025-08-27, **Optical Switching of Moiré Chern Ferromagnet**, Xiangbin Cai, Haiyang Pan, Yuzhu Wang, Abdullah Rasmita, Shunshun Yang, Yan Zhao, Wei Wang, Ruihuan Duan, Ruihua He, Kenji Watanabe, Takashi Taniguchi, Zheng Liu, Jesús Zúñiga Pérez, Bo Yang, Weibo Gao, Paper: [https://arxiv.org/abs/2508.19602](https://arxiv.org/abs/2508.19602), 4 figures
+- 2025-08-26, **Entanglement Hamiltonian after a local quench**, Riccarda Bonsignori, Viktor Eisler, Paper: [https://arxiv.org/abs/2508.19406](https://arxiv.org/abs/2508.19406)
+- 2025-08-26, **First-Quantized Quantum Simulation of Non-Relativistic QED with Emergent Topologically Protected Coulomb Interactions**, Torin Stetina, Nathan Wiebe, Paper: [https://arxiv.org/abs/2508.19343](https://arxiv.org/abs/2508.19343)
 - 2025-08-26, **Interferences Measure Topology**, Yuval Abulafia, Eric Akkermans, Paper: [https://arxiv.org/abs/2508.19128](https://arxiv.org/abs/2508.19128), 9 pages, 7 figures
 - 2025-08-26, **Optical control over topological Chern number in moiré materials**, Olivier Huber, Kilian Kuhlbrodt, Eric Anderson, Weijie Li, Kenji Watanabe, Takashi Taniguchi, Martin Kroner, Xiaodong Xu, Atac Imamoglu, Tomasz Smolenski, Paper: [https://arxiv.org/abs/2508.19063](https://arxiv.org/abs/2508.19063), 7 pages, 4 figures
 - 2025-08-26, **Non-commutative Intermediate Factor theorem associated with $W^*$ -dynamics of product groups**, Tattwamasi Amrutam, Yongle Jiang, Shuoxing Zhou, Paper: [https://arxiv.org/abs/2508.18978](https://arxiv.org/abs/2508.18978), 25 Pages; preliminary version. Comments are welcome
