@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.08.27
+> Automatically updated on 2025.08.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,7 @@ layout: default
 |**2025-08-26**|**Optical control over topological Chern number in moiré materials**|Olivier Huber, Kilian Kuhlbrodt, Eric Anderson, Weijie Li, Kenji Watanabe, Takashi Taniguchi, Martin Kroner, Xiaodong Xu, Atac Imamoglu, Tomasz Smolenski|[2508.19063](https://arxiv.org/abs/2508.19063)|null|
 |**2025-08-26**|**Non-commutative Intermediate Factor theorem associated with $W^*$ -dynamics of product groups**|Tattwamasi Amrutam, Yongle Jiang, Shuoxing Zhou|[2508.18978](https://arxiv.org/abs/2508.18978)|null|
 |**2025-08-26**|**A tensor category construction of the $W_{p,q}$ triplet vertex operator algebra and applications**|Robert McRae, Valerii Sopin|[2508.18895](https://arxiv.org/abs/2508.18895)|null|
-|**2025-08-26**|**Striking Similarities in Dynamics and Vibrations of 2D Quasicrystals and Supercooled Liquids**|Edwin A. Bedolla-Montiel, Marjolein Dijkstra|[2508.18856](https://arxiv.org/abs/2508.18856)|null|
+|**2025-08-27**|**Striking Similarities in Dynamics and Vibrations of 2D Quasicrystals and Supercooled Liquids**|Edwin A. Bedolla-Montiel, Marjolein Dijkstra|[2508.18856](https://arxiv.org/abs/2508.18856)|null|
 |**2025-08-26**|**Itinerant and topological excitations in a honeycomb spiral spin liquid candidate**|Yuqian Zhao, Xuping Yao, Xun Chen, Zongtang Wan, Zhaohua Ma, Xiaochen Hong, Yuesheng Li|[2508.18795](https://arxiv.org/abs/2508.18795)|null|
 |**2025-08-26**|**A $Z_4$ Scotogenic Model with Higgs Portal**|Noel Jonathan Jobu, Kenji Nishiwaki|[2508.18713](https://arxiv.org/abs/2508.18713)|null|
 |**2025-08-26**|**Moerdijk Hopf algebras of decorated rooted forests: an operated algebra approach**|Loic Foissy, Xiao-Song Peng, Yunzhou Xie, Yi Zhang|[2508.18658](https://arxiv.org/abs/2508.18658)|null|
@@ -933,5 +933,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
 
