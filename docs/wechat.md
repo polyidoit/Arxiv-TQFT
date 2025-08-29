@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-08-28, **The algebraic structure of gravitational scrambling**, Geoff Penington, Elisa Tabor, Paper: [https://arxiv.org/abs/2508.21062](https://arxiv.org/abs/2508.21062), 35 pages, 4 figures
+- 2025-08-28, **Vectorlike lepton imprints at lepton $g-2$ measurements and $e^+e^-$ colliders**, Sang Quang Dinh, Hieu Minh Tran, Paper: [https://arxiv.org/abs/2508.20873](https://arxiv.org/abs/2508.20873), 27 pages, 22 figures
+- 2025-08-28, **Boundary bootstrap for the three-dimensional O( $N$ ) normal universality class**, Runzhe Hu, Wenliang Li, Paper: [https://arxiv.org/abs/2508.20854](https://arxiv.org/abs/2508.20854), 5+4 pages, 8 figures
+- 2025-08-28, **On W-algebras and ODE/IM correspondence**, Matěj Kudrna, Tomáš Procházka, Paper: [https://arxiv.org/abs/2508.20793](https://arxiv.org/abs/2508.20793)
+- 2025-08-28, **A chromatic approach to homological stability**, Oscar Randal-Williams, Paper: [https://arxiv.org/abs/2508.20629](https://arxiv.org/abs/2508.20629), 70 pages
+- 2025-08-28, **Weyl bound for trilinear periods via conformal bootstrap**, Anshul Adve, James Bonifacio, Petr Kravchuk, Dalimil Mazac, Sridip Pal, Alex Radcliffe, Gordon Rogelberg, Paper: [https://arxiv.org/abs/2508.20576](https://arxiv.org/abs/2508.20576), 54 pages
+- 2025-08-28, **A map between arborifications of multiple zeta values**, Ku-Yu Fan, Paper: [https://arxiv.org/abs/2508.20387](https://arxiv.org/abs/2508.20387), 18 pages
+- 2025-08-28, **Machine learning topological defect formation**, Fumika Suzuki, Ying Wai Li, Wojciech H. Zurek, Paper: [https://arxiv.org/abs/2508.20347](https://arxiv.org/abs/2508.20347), 7 pages, 5 figures
 - 2025-08-27, **Infinite towers of 2d symmetry algebras from Carrollian limit of 3d CFT**, Leonardo Pipolo de Gioia, Ana-Maria Raclariu, Paper: [https://arxiv.org/abs/2508.19981](https://arxiv.org/abs/2508.19981), 36 pages
 - 2025-08-27, **Partial Anyon Condensation in the Color Code: A Hamiltonian Approach**, Mohsen Rahmani Haghighi, Mohammad Hossein Zarei, Paper: [https://arxiv.org/abs/2508.19877](https://arxiv.org/abs/2508.19877), Submitted to Physical Review B ; 12 pages, 7 figures
 - 2025-08-27, **Morita invariants of quasitriangular comodule algebras**, Monique Müller, Chelsea Walton, Paper: [https://arxiv.org/abs/2508.19845](https://arxiv.org/abs/2508.19845), v1: 17 pages. Comments welcomed

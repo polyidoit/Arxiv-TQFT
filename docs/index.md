@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-08-28**|**The algebraic structure of gravitational scrambling**|Geoff Penington, Elisa Tabor|[2508.21062](https://arxiv.org/abs/2508.21062)|null|
+|**2025-08-28**|**Vectorlike lepton imprints at lepton $g-2$ measurements and $e^+e^-$ colliders**|Sang Quang Dinh, Hieu Minh Tran|[2508.20873](https://arxiv.org/abs/2508.20873)|null|
+|**2025-08-28**|**Boundary bootstrap for the three-dimensional O( $N$ ) normal universality class**|Runzhe Hu, Wenliang Li|[2508.20854](https://arxiv.org/abs/2508.20854)|null|
+|**2025-08-28**|**On W-algebras and ODE/IM correspondence**|Matěj Kudrna, Tomáš Procházka|[2508.20793](https://arxiv.org/abs/2508.20793)|null|
+|**2025-08-28**|**A chromatic approach to homological stability**|Oscar Randal-Williams|[2508.20629](https://arxiv.org/abs/2508.20629)|null|
+|**2025-08-28**|**Weyl bound for trilinear periods via conformal bootstrap**|Anshul Adve, James Bonifacio, Petr Kravchuk, Dalimil Mazac, Sridip Pal, Alex Radcliffe, Gordon Rogelberg|[2508.20576](https://arxiv.org/abs/2508.20576)|null|
+|**2025-08-28**|**A map between arborifications of multiple zeta values**|Ku-Yu Fan|[2508.20387](https://arxiv.org/abs/2508.20387)|null|
+|**2025-08-28**|**Machine learning topological defect formation**|Fumika Suzuki, Ying Wai Li, Wojciech H. Zurek|[2508.20347](https://arxiv.org/abs/2508.20347)|null|
 |**2025-08-27**|**Infinite towers of 2d symmetry algebras from Carrollian limit of 3d CFT**|Leonardo Pipolo de Gioia, Ana-Maria Raclariu|[2508.19981](https://arxiv.org/abs/2508.19981)|null|
 |**2025-08-27**|**Partial Anyon Condensation in the Color Code: A Hamiltonian Approach**|Mohsen Rahmani Haghighi, Mohammad Hossein Zarei|[2508.19877](https://arxiv.org/abs/2508.19877)|null|
 |**2025-08-27**|**Morita invariants of quasitriangular comodule algebras**|Monique Müller, Chelsea Walton|[2508.19845](https://arxiv.org/abs/2508.19845)|null|
