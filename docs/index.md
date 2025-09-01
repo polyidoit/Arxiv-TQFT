@@ -2,6 +2,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-08-29**|**A High-Quality Axion from Exact SUSY Chiral Dynamics**|T. Gherghetta, H. Murayama, B. Noether, P. Quílez|[2508.21813](https://arxiv.org/abs/2508.21813)|null|
+|**2025-08-29**|**The Universal Theory of Locally Universal Tracial von Neumann Algebras is not Computable**|Jananan Arulseelan, Aareyan Manzoor|[2508.21709](https://arxiv.org/abs/2508.21709)|null|
+|**2025-08-29**|**Geometrically Frustrated Assembly at Finite Temperature: Phase Transitions from Self-Limiting to Bulk States**|Nicholas Hackney, Gregory Grason|[2508.21688](https://arxiv.org/abs/2508.21688)|null|
+|**2025-08-29**|**Small $x$ behavior in QCD from maximal entanglement and conformal invariance**|Sebastian Grieninger, Kun Hao, Dmitri E. Kharzeev, Vladimir Korepin|[2508.21643](https://arxiv.org/abs/2508.21643)|null|
+|**2025-08-29**|**Lectures on the Spinor and Twistor Formalism in 3D Conformal Field Theory**|Dhruva K. S|[2508.21633](https://arxiv.org/abs/2508.21633)|null|
+|**2025-08-29**|**Anyons in the $π$-flux phase of fermionic matter coupled to a $\mathbb{Z}_2$ -gauge field**|Sven Bachmann, Leonardo Goller, Marcello Porta|[2508.21502](https://arxiv.org/abs/2508.21502)|null|
+|**2025-08-28**|**Probing the Black Hole Interior with Holographic Entanglement Entropy and the Role of AdS/BCFT Correspondence**|Fabiano F. Santos|[2508.21224](https://arxiv.org/abs/2508.21224)|null|
 |**2025-08-28**|**The algebraic structure of gravitational scrambling**|Geoff Penington, Elisa Tabor|[2508.21062](https://arxiv.org/abs/2508.21062)|null|
 |**2025-08-28**|**Vectorlike lepton imprints at lepton $g-2$ measurements and $e^+e^-$ colliders**|Sang Quang Dinh, Hieu Minh Tran|[2508.20873](https://arxiv.org/abs/2508.20873)|null|
 |**2025-08-28**|**Boundary bootstrap for the three-dimensional O( $N$ ) normal universality class**|Runzhe Hu, Wenliang Li|[2508.20854](https://arxiv.org/abs/2508.20854)|null|
