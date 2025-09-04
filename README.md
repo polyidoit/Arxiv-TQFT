@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-03**|**Universal representation of the long-range entanglement in the family of Toric Code states**|Mohammad Hossein Zarei, Mohsen Rahmani Haghighi|[2509.03422](https://arxiv.org/abs/2509.03422)|null|
+|**2025-09-03**|**$\widetilde{W}^{1+}$ subclass: Extending the topological classification of black hole thermodynamics**|Wangyu Ai, Di Wu|[2509.03308](https://arxiv.org/abs/2509.03308)|null|
+|**2025-09-03**|**Family of Unconventional Superconductivities in Crystalline Graphene**|Junseok Seo, Armel A. Cotten, Mingchi Xu, Omid Sharifi Sedeh, Henok Weldeyesus, Tonghang Han, Zhengguang Lu, Zhenghan Wu, Shenyong Ye, Wei Xu, Jixiang Yang, Emily Aitken, Prayoga P. Liong, Zach Hadjri, Rasul Gazizulin, Kenji Watanabe, Takashi Taniguchi, Mingda Li, Dominik M. Zumbühl, Long Ju|[2509.03295](https://arxiv.org/abs/2509.03295)|null|
+|**2025-09-03**|**A Review on Phenomenological Models for Chromonic Liquid Crystals**|Silvia Paparini|[2509.03266](https://arxiv.org/abs/2509.03266)|null|
+|**2025-09-02**|**From negligible to neglecton: making Ising anyons braiding universal**|Filippo Iulianelli, Sung Kim, Joshua Sussan, Aaron D. Lauda|[2509.02843](https://arxiv.org/abs/2509.02843)|null|
+|**2025-09-02**|**Conformal bootstrap: from Polyakov to our times**|Slava Rychkov|[2509.02779](https://arxiv.org/abs/2509.02779)|null|
+|**2025-09-02**|**Robust superconductivity upon doping chiral spin liquid and Chern insulators in a Hubbard-Hofstadter model**|Clemens Kuhlenkamp, Stefan Divic, Michael P. Zaletel, Tomohiro Soejima, Ashvin Vishwanath|[2509.02675](https://arxiv.org/abs/2509.02675)|null|
+|**2025-09-02**|**Open 2D TFTs admit initial open-closed extensions**|Shaul Barkan, Jan Steinebrunner, Adela YiYu Zhang|[2509.02553](https://arxiv.org/abs/2509.02553)|null|
+|**2025-09-02**|**A congruous approach with realistic cross section towards limiting sub-GeV dark matter from LUX-ZEPLIN**|Atanu Guha, Jong-Chul Park|[2509.02301](https://arxiv.org/abs/2509.02301)|null|
+|**2025-09-02**|**Operator Algebras and Third Quantization**|Yidong Chen, Marius Junge, Nima Lashkari|[2509.02293](https://arxiv.org/abs/2509.02293)|null|
 |**2025-08-29**|**A High-Quality Axion from Exact SUSY Chiral Dynamics**|T. Gherghetta, H. Murayama, B. Noether, P. Quílez|[2508.21813](https://arxiv.org/abs/2508.21813)|null|
 |**2025-08-29**|**The Universal Theory of Locally Universal Tracial von Neumann Algebras is not Computable**|Jananan Arulseelan, Aareyan Manzoor|[2508.21709](https://arxiv.org/abs/2508.21709)|null|
 |**2025-08-29**|**Geometrically Frustrated Assembly at Finite Temperature: Phase Transitions from Self-Limiting to Bulk States**|Nicholas Hackney, Gregory Grason|[2508.21688](https://arxiv.org/abs/2508.21688)|null|
