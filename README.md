@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**Quantum carrollian bosonic strings**|José Figueroa-O'Farrill, Emil Have, Niels A. Obers|[2509.04397](https://arxiv.org/abs/2509.04397)|null|
+|**2025-09-04**|**Integrability and lattice discretizations of all Topological Defect Lines in minimal CFTs**|Madhav Sinha, Thiago Silva Tavares, Ananda Roy, Hubert Saleur|[2509.04257](https://arxiv.org/abs/2509.04257)|null|
+|**2025-09-04**|**Emergence of quantum spin liquid and spin-flop phase in Kitaev antiferromagnets in a [111] magnetic field**|Shuai Liu, Hao Wu, Jinbin Li, Xiaoqun Wang, Qiang Luo|[2509.04141](https://arxiv.org/abs/2509.04141)|null|
+|**2025-09-04**|**Probing the Chern-Simons Portal at the HL-LHC through Displaced Vertices from W Boson Associated Production**|Mohammad Nourbakhsh, Mojtaba Mohammadi Najafabadi|[2509.04031](https://arxiv.org/abs/2509.04031)|null|
+|**2025-09-04**|**Y(z)-injective vertex superalgebras and Hopf actions**|Chao Yang|[2509.03989](https://arxiv.org/abs/2509.03989)|null|
+|**2025-09-04**|**Tunable Majorana corner states driven by superconducting phase bias in a vertical Josephson junction**|Cheng-Ming Miao, Yu-Hao Wan, Ying-Tao Zhang, Qing-Feng Sun|[2509.03949](https://arxiv.org/abs/2509.03949)|null|
+|**2025-09-03**|**Twisted quantum doubles are sign problem-free**|Leyna Shackleton|[2509.03708](https://arxiv.org/abs/2509.03708)|null|
+|**2025-09-03**|**Fermion Parity Resolution of Entanglement**|Christian Northe|[2509.03605](https://arxiv.org/abs/2509.03605)|null|
+|**2025-09-03**|**Trading Mathematical for Physical Simplicity: Bialgebraic Structures in Matrix Product Operator Symmetries**|Yuhan Liu, Andras Molnar, Xiao-Qi Sun, Frank Verstraete, Kohtaro Kato, Laurens Lootens|[2509.03600](https://arxiv.org/abs/2509.03600)|null|
 |**2025-09-03**|**Universal representation of the long-range entanglement in the family of Toric Code states**|Mohammad Hossein Zarei, Mohsen Rahmani Haghighi|[2509.03422](https://arxiv.org/abs/2509.03422)|null|
 |**2025-09-03**|**$\widetilde{W}^{1+}$ subclass: Extending the topological classification of black hole thermodynamics**|Wangyu Ai, Di Wu|[2509.03308](https://arxiv.org/abs/2509.03308)|null|
 |**2025-09-03**|**Family of Unconventional Superconductivities in Crystalline Graphene**|Junseok Seo, Armel A. Cotten, Mingchi Xu, Omid Sharifi Sedeh, Henok Weldeyesus, Tonghang Han, Zhengguang Lu, Zhenghan Wu, Shenyong Ye, Wei Xu, Jixiang Yang, Emily Aitken, Prayoga P. Liong, Zach Hadjri, Rasul Gazizulin, Kenji Watanabe, Takashi Taniguchi, Mingda Li, Dominik M. Zumbühl, Long Ju|[2509.03295](https://arxiv.org/abs/2509.03295)|null|
