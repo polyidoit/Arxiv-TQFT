@@ -24,6 +24,7 @@ layout: default
 |**2025-09-03**|**Twisted quantum doubles are sign problem-free**|Leyna Shackleton|[2509.03708](https://arxiv.org/abs/2509.03708)|null|
 |**2025-09-03**|**Fermion Parity Resolution of Entanglement**|Christian Northe|[2509.03605](https://arxiv.org/abs/2509.03605)|null|
 |**2025-09-03**|**Trading Mathematical for Physical Simplicity: Bialgebraic Structures in Matrix Product Operator Symmetries**|Yuhan Liu, Andras Molnar, Xiao-Qi Sun, Frank Verstraete, Kohtaro Kato, Laurens Lootens|[2509.03600](https://arxiv.org/abs/2509.03600)|null|
+|**2025-09-03**|**Disjoint additivity and local quantum physics**|Daniel Harlow, Shu-Heng Shao, Jonathan Sorce, Manu Srivastava|[2509.03589](https://arxiv.org/abs/2509.03589)|null|
 |**2025-09-03**|**Universal representation of the long-range entanglement in the family of Toric Code states**|Mohammad Hossein Zarei, Mohsen Rahmani Haghighi|[2509.03422](https://arxiv.org/abs/2509.03422)|null|
 |**2025-09-03**|**$\widetilde{W}^{1+}$ subclass: Extending the topological classification of black hole thermodynamics**|Wangyu Ai, Di Wu|[2509.03308](https://arxiv.org/abs/2509.03308)|null|
 |**2025-09-03**|**Family of Unconventional Superconductivities in Crystalline Graphene**|Junseok Seo, Armel A. Cotten, Mingchi Xu, Omid Sharifi Sedeh, Henok Weldeyesus, Tonghang Han, Zhengguang Lu, Zhenghan Wu, Shenyong Ye, Wei Xu, Jixiang Yang, Emily Aitken, Prayoga P. Liong, Zach Hadjri, Rasul Gazizulin, Kenji Watanabe, Takashi Taniguchi, Mingda Li, Dominik M. Zumbühl, Long Ju|[2509.03295](https://arxiv.org/abs/2509.03295)|null|
