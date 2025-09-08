@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-05, **A strong-weak duality for the 1d long-range Ising model**, Dario Benedetti, Edoardo Lauria, Dalimil Mazac, Philine van Vliet, Paper: [https://arxiv.org/abs/2509.05250](https://arxiv.org/abs/2509.05250), 74 pages, detailed version of arXiv:2412.12243
+- 2025-09-04, **A systematic search for conformal field theories in very small spaces**, Xiang Li, Ting-Chun Lin, John McGreevy, Paper: [https://arxiv.org/abs/2509.04596](https://arxiv.org/abs/2509.04596), 5+5 pages + many tables
+- 2025-09-04, **Do null defects dream of conformal symmetry?**, Rajeev S. Erramilli, Justin Kulp, Fedor K. Popov, Paper: [https://arxiv.org/abs/2509.04578](https://arxiv.org/abs/2509.04578), 58 + 18 pages
+- 2025-09-04, **Large N Chern-Simons-matter fixed points with multiple flavors**, Ofer Aharony, Ronny Frumkin, Jonathan Mehl, Paper: [https://arxiv.org/abs/2509.04565](https://arxiv.org/abs/2509.04565), 84 pages, 22 figures
+- 2025-09-04, **A measure on the space of CFTs and pure 3D gravity**, Alexandre Belin, Alexander Maloney, Florian Seefeld, Paper: [https://arxiv.org/abs/2509.04554](https://arxiv.org/abs/2509.04554), 30 pages
 - 2025-09-04, **Quantum carrollian bosonic strings**, José Figueroa-O'Farrill, Emil Have, Niels A. Obers, Paper: [https://arxiv.org/abs/2509.04397](https://arxiv.org/abs/2509.04397), 47 pages, 1 appendix
 - 2025-09-04, **Integrability and lattice discretizations of all Topological Defect Lines in minimal CFTs**, Madhav Sinha, Thiago Silva Tavares, Ananda Roy, Hubert Saleur, Paper: [https://arxiv.org/abs/2509.04257](https://arxiv.org/abs/2509.04257), 152 pages, 79 figures
 - 2025-09-04, **Emergence of quantum spin liquid and spin-flop phase in Kitaev antiferromagnets in a [111] magnetic field**, Shuai Liu, Hao Wu, Jinbin Li, Xiaoqun Wang, Qiang Luo, Paper: [https://arxiv.org/abs/2509.04141](https://arxiv.org/abs/2509.04141), 12 pages, 11 figures

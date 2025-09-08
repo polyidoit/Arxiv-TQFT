@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-09-05**|**A strong-weak duality for the 1d long-range Ising model**|Dario Benedetti, Edoardo Lauria, Dalimil Mazac, Philine van Vliet|[2509.05250](https://arxiv.org/abs/2509.05250)|null|
+|**2025-09-04**|**A systematic search for conformal field theories in very small spaces**|Xiang Li, Ting-Chun Lin, John McGreevy|[2509.04596](https://arxiv.org/abs/2509.04596)|null|
+|**2025-09-04**|**Do null defects dream of conformal symmetry?**|Rajeev S. Erramilli, Justin Kulp, Fedor K. Popov|[2509.04578](https://arxiv.org/abs/2509.04578)|null|
+|**2025-09-04**|**Large N Chern-Simons-matter fixed points with multiple flavors**|Ofer Aharony, Ronny Frumkin, Jonathan Mehl|[2509.04565](https://arxiv.org/abs/2509.04565)|null|
+|**2025-09-04**|**A measure on the space of CFTs and pure 3D gravity**|Alexandre Belin, Alexander Maloney, Florian Seefeld|[2509.04554](https://arxiv.org/abs/2509.04554)|null|
 |**2025-09-04**|**Quantum carrollian bosonic strings**|José Figueroa-O'Farrill, Emil Have, Niels A. Obers|[2509.04397](https://arxiv.org/abs/2509.04397)|null|
 |**2025-09-04**|**Integrability and lattice discretizations of all Topological Defect Lines in minimal CFTs**|Madhav Sinha, Thiago Silva Tavares, Ananda Roy, Hubert Saleur|[2509.04257](https://arxiv.org/abs/2509.04257)|null|
 |**2025-09-04**|**Emergence of quantum spin liquid and spin-flop phase in Kitaev antiferromagnets in a [111] magnetic field**|Shuai Liu, Hao Wu, Jinbin Li, Xiaoqun Wang, Qiang Luo|[2509.04141](https://arxiv.org/abs/2509.04141)|null|
