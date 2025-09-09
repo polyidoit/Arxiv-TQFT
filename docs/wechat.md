@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-08, **A Class of Cyclic Quantum Codes**, Matthew B. Hastings, Paper: [https://arxiv.org/abs/2509.06865](https://arxiv.org/abs/2509.06865), 5 pages, no figures
+- 2025-09-08, **Impact of space-time curvature coupling on the vacuum energy induced by a magnetic topological defect in flat space-time of arbitrary dimension**, V. M. Gorkavenko, O. V. Barabash, I. V. Ivanchenko, P. O. Nakaznyi, M. S. Tsarenkova, N. S. Yakovenko, A. O. Zaporozhchenko, Paper: [https://arxiv.org/abs/2509.06815](https://arxiv.org/abs/2509.06815), 15 pages, 3 figures
+- 2025-09-08, **Self-resonant dark matter with $Z_4$ gauged symmetry**, Lucca Radicce Justino, Seong-Sik Kim, Hyun Min Lee, Jun-Ho Song, Paper: [https://arxiv.org/abs/2509.06728](https://arxiv.org/abs/2509.06728), 37 pages, 6 figures
+- 2025-09-07, **Simplicial Approach to Frobenius Algebras in the Category of Relations**, Dominik Lachman, Paper: [https://arxiv.org/abs/2509.06193](https://arxiv.org/abs/2509.06193)
+- 2025-09-07, **Classification of Higgs sectors from group theoretical properties of UV gauge theories**, Shinya Kanemura, Yushi Mura, Tetsuo Shindou, Paper: [https://arxiv.org/abs/2509.05934](https://arxiv.org/abs/2509.05934), 13 pages, 5 table
+- 2025-09-06, **Gauge Invariants at Arbitrary $N$ and Trace Relations**, Pawel Caputa, Robert de Mello Koch, Paper: [https://arxiv.org/abs/2509.05834](https://arxiv.org/abs/2509.05834), 36 pages, 2 figures
+- 2025-09-06, **Universal relations with the non-extensive entropy in the RPS and CFT framework**, Hai-Long Zhen, Jian-Hua Shi, Huai-Fan Li, Meng-Sen Ma, Yu-Bo Ma, Paper: [https://arxiv.org/abs/2509.05593](https://arxiv.org/abs/2509.05593), 12pages,0figures
+- 2025-09-05, **The Making of von Neumann Algebras from Bulk Focusing**, Netta Engelhardt, Hong Liu, Paper: [https://arxiv.org/abs/2509.05413](https://arxiv.org/abs/2509.05413), 27 pages, 3 figures
+- 2025-09-05, **SymTFT actions, Condensable algebras and Categorical anomaly resolutions**, Daniel Robbins, Subham Roy, Paper: [https://arxiv.org/abs/2509.05408](https://arxiv.org/abs/2509.05408)
 - 2025-09-05, **A strong-weak duality for the 1d long-range Ising model**, Dario Benedetti, Edoardo Lauria, Dalimil Mazac, Philine van Vliet, Paper: [https://arxiv.org/abs/2509.05250](https://arxiv.org/abs/2509.05250), 74 pages, detailed version of arXiv:2412.12243
 - 2025-09-04, **A systematic search for conformal field theories in very small spaces**, Xiang Li, Ting-Chun Lin, John McGreevy, Paper: [https://arxiv.org/abs/2509.04596](https://arxiv.org/abs/2509.04596), 5+5 pages + many tables
 - 2025-09-04, **Do null defects dream of conformal symmetry?**, Rajeev S. Erramilli, Justin Kulp, Fedor K. Popov, Paper: [https://arxiv.org/abs/2509.04578](https://arxiv.org/abs/2509.04578), 58 + 18 pages

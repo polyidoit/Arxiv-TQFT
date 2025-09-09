@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**A Class of Cyclic Quantum Codes**|Matthew B. Hastings|[2509.06865](https://arxiv.org/abs/2509.06865)|null|
+|**2025-09-08**|**Impact of space-time curvature coupling on the vacuum energy induced by a magnetic topological defect in flat space-time of arbitrary dimension**|V. M. Gorkavenko, O. V. Barabash, I. V. Ivanchenko, P. O. Nakaznyi, M. S. Tsarenkova, N. S. Yakovenko, A. O. Zaporozhchenko|[2509.06815](https://arxiv.org/abs/2509.06815)|null|
+|**2025-09-08**|**Self-resonant dark matter with $Z_4$ gauged symmetry**|Lucca Radicce Justino, Seong-Sik Kim, Hyun Min Lee, Jun-Ho Song|[2509.06728](https://arxiv.org/abs/2509.06728)|null|
+|**2025-09-07**|**Simplicial Approach to Frobenius Algebras in the Category of Relations**|Dominik Lachman|[2509.06193](https://arxiv.org/abs/2509.06193)|null|
+|**2025-09-07**|**Classification of Higgs sectors from group theoretical properties of UV gauge theories**|Shinya Kanemura, Yushi Mura, Tetsuo Shindou|[2509.05934](https://arxiv.org/abs/2509.05934)|null|
+|**2025-09-06**|**Gauge Invariants at Arbitrary $N$ and Trace Relations**|Pawel Caputa, Robert de Mello Koch|[2509.05834](https://arxiv.org/abs/2509.05834)|null|
+|**2025-09-06**|**Universal relations with the non-extensive entropy in the RPS and CFT framework**|Hai-Long Zhen, Jian-Hua Shi, Huai-Fan Li, Meng-Sen Ma, Yu-Bo Ma|[2509.05593](https://arxiv.org/abs/2509.05593)|null|
+|**2025-09-05**|**The Making of von Neumann Algebras from Bulk Focusing**|Netta Engelhardt, Hong Liu|[2509.05413](https://arxiv.org/abs/2509.05413)|null|
+|**2025-09-05**|**SymTFT actions, Condensable algebras and Categorical anomaly resolutions**|Daniel Robbins, Subham Roy|[2509.05408](https://arxiv.org/abs/2509.05408)|null|
 |**2025-09-05**|**A strong-weak duality for the 1d long-range Ising model**|Dario Benedetti, Edoardo Lauria, Dalimil Mazac, Philine van Vliet|[2509.05250](https://arxiv.org/abs/2509.05250)|null|
 |**2025-09-04**|**A systematic search for conformal field theories in very small spaces**|Xiang Li, Ting-Chun Lin, John McGreevy|[2509.04596](https://arxiv.org/abs/2509.04596)|null|
 |**2025-09-04**|**Do null defects dream of conformal symmetry?**|Rajeev S. Erramilli, Justin Kulp, Fedor K. Popov|[2509.04578](https://arxiv.org/abs/2509.04578)|null|
