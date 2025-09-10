@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**Symmetry TFTs for Continuous Spacetime Symmetries**|Fabio Apruzzi, Nicola Dondi, Iñaki García Etxebarria, Ho Tat Lam, Sakura Schafer-Nameki|[2509.07965](https://arxiv.org/abs/2509.07965)|null|
+|**2025-09-09**|**Lepton flavor violating decays of Higgs boson in the NB-LSSM**|Cai Guo, Xing-Xing Dong, Shu-Min Zhao, Zhan Cao, Jia-Peng Huo, Jin-Lei Yang, Tai-Fu Feng|[2509.07902](https://arxiv.org/abs/2509.07902)|null|
+|**2025-09-09**|**Vanishing of the $H^3$ obstruction for time-reversal symmetry in (2+1)D abelian bosonic TQFTs**|Ippo Orii|[2509.07368](https://arxiv.org/abs/2509.07368)|null|
+|**2025-09-08**|**Simulation of Topological $X$ -Gates via Braiding of Majorana Zero Modes in an Interacting Quantum Dot System**|Bradraj Pandey, Satoshi Okamoto, Pontus Laurell, Stephan Rachel, Elbio Dagotto|[2509.07273](https://arxiv.org/abs/2509.07273)|null|
+|**2025-09-08**|**Invariants from involutory Hopf algebras of 3-manifolds with embedded framed links**|Nicolas Bridges, Shawn X. Cui|[2509.07125](https://arxiv.org/abs/2509.07125)|null|
+|**2025-09-08**|**Clifford quantum cellular automata from topological quantum field theories and invertible subalgebras**|Meng Sun, Bowen Yang, Zongyuan Wang, Nathanan Tantivasadakarn, Yu-An Chen|[2509.07099](https://arxiv.org/abs/2509.07099)|null|
 |**2025-09-08**|**A Class of Cyclic Quantum Codes**|Matthew B. Hastings|[2509.06865](https://arxiv.org/abs/2509.06865)|null|
 |**2025-09-08**|**Impact of space-time curvature coupling on the vacuum energy induced by a magnetic topological defect in flat space-time of arbitrary dimension**|V. M. Gorkavenko, O. V. Barabash, I. V. Ivanchenko, P. O. Nakaznyi, M. S. Tsarenkova, N. S. Yakovenko, A. O. Zaporozhchenko|[2509.06815](https://arxiv.org/abs/2509.06815)|null|
 |**2025-09-08**|**Self-resonant dark matter with $Z_4$ gauged symmetry**|Lucca Radicce Justino, Seong-Sik Kim, Hyun Min Lee, Jun-Ho Song|[2509.06728](https://arxiv.org/abs/2509.06728)|null|

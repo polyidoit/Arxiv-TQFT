@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-09, **Symmetry TFTs for Continuous Spacetime Symmetries**, Fabio Apruzzi, Nicola Dondi, Iñaki García Etxebarria, Ho Tat Lam, Sakura Schafer-Nameki, Paper: [https://arxiv.org/abs/2509.07965](https://arxiv.org/abs/2509.07965), 57 pages plus appendices
+- 2025-09-09, **Lepton flavor violating decays of Higgs boson in the NB-LSSM**, Cai Guo, Xing-Xing Dong, Shu-Min Zhao, Zhan Cao, Jia-Peng Huo, Jin-Lei Yang, Tai-Fu Feng, Paper: [https://arxiv.org/abs/2509.07902](https://arxiv.org/abs/2509.07902), to be published in EUROPEAN PHYSICAL JOURNAL C
+- 2025-09-09, **Vanishing of the $H^3$ obstruction for time-reversal symmetry in (2+1)D abelian bosonic TQFTs**, Ippo Orii, Paper: [https://arxiv.org/abs/2509.07368](https://arxiv.org/abs/2509.07368), 14 pages
+- 2025-09-08, **Simulation of Topological $X$ -Gates via Braiding of Majorana Zero Modes in an Interacting Quantum Dot System**, Bradraj Pandey, Satoshi Okamoto, Pontus Laurell, Stephan Rachel, Elbio Dagotto, Paper: [https://arxiv.org/abs/2509.07273](https://arxiv.org/abs/2509.07273), 9 pages and 5 figures
+- 2025-09-08, **Invariants from involutory Hopf algebras of 3-manifolds with embedded framed links**, Nicolas Bridges, Shawn X. Cui, Paper: [https://arxiv.org/abs/2509.07125](https://arxiv.org/abs/2509.07125), 20 pages. Comments and suggestions welcome!
+- 2025-09-08, **Clifford quantum cellular automata from topological quantum field theories and invertible subalgebras**, Meng Sun, Bowen Yang, Zongyuan Wang, Nathanan Tantivasadakarn, Yu-An Chen, Paper: [https://arxiv.org/abs/2509.07099](https://arxiv.org/abs/2509.07099), initial commit
 - 2025-09-08, **A Class of Cyclic Quantum Codes**, Matthew B. Hastings, Paper: [https://arxiv.org/abs/2509.06865](https://arxiv.org/abs/2509.06865), 5 pages, no figures
 - 2025-09-08, **Impact of space-time curvature coupling on the vacuum energy induced by a magnetic topological defect in flat space-time of arbitrary dimension**, V. M. Gorkavenko, O. V. Barabash, I. V. Ivanchenko, P. O. Nakaznyi, M. S. Tsarenkova, N. S. Yakovenko, A. O. Zaporozhchenko, Paper: [https://arxiv.org/abs/2509.06815](https://arxiv.org/abs/2509.06815), 15 pages, 3 figures
 - 2025-09-08, **Self-resonant dark matter with $Z_4$ gauged symmetry**, Lucca Radicce Justino, Seong-Sik Kim, Hyun Min Lee, Jun-Ho Song, Paper: [https://arxiv.org/abs/2509.06728](https://arxiv.org/abs/2509.06728), 37 pages, 6 figures
