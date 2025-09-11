@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**Sandwich Construction of Symmetry TFTs for the Centre Symmetries of Chern-Simons, Yang-Mills, and Einstein Gravity**|Leron Borsten, Dimitri Kanakaris, Hyungrok Kim|[2509.08819](https://arxiv.org/abs/2509.08819)|null|
+|**2025-09-10**|**Boundary Actions and Loop Groups: A Geometric Picture of Gauge Symmetries at Null Infinity**|Silvia Nagy, Javier Peraza, Giorgio Pizzolo|[2509.08725](https://arxiv.org/abs/2509.08725)|null|
+|**2025-09-10**|**Actin driven morphogenesis in hydra**|Sabyasachi Mukherjee, Anirban Sain|[2509.08655](https://arxiv.org/abs/2509.08655)|null|
+|**2025-09-10**|**On the unit group scheme of the group algebra of a certain non-commutative finite flat group scheme over an $\Bbb{F}_{p}$ -algebra**|Yuji Tsuno|[2509.08529](https://arxiv.org/abs/2509.08529)|null|
+|**2025-09-10**|**From Link Homology to Topological Quantum Field Theories**|Paul Wedrich|[2509.08478](https://arxiv.org/abs/2509.08478)|null|
+|**2025-09-10**|**Gravitational constant as a conserved charge in black hole thermodynamics**|Wontae Kim, Mungon Nam|[2509.08390](https://arxiv.org/abs/2509.08390)|null|
+|**2025-09-10**|**Fundamental theorem of transposed Poisson $(A,H)$ -Hopf modules**|Yan Ning, Daowei Lu, Dingguo Wang|[2509.08278](https://arxiv.org/abs/2509.08278)|null|
+|**2025-09-09**|**Quantum complexity of topological phases. Or lack thereof**|Alberto Giuseppe Catalano, Sven Benjamin Kožić, Gianpaolo Torre, Carola Ciaramelletti, Simone Paganelli, Fabio Franchini, Salvatore Marco Giampaolo|[2509.08053](https://arxiv.org/abs/2509.08053)|null|
+|**2025-09-09**|**Free Majorana Fermion Meets Gauged Ising Conformal Field Theory on the Fuzzy Sphere**|Zheng Zhou, Davide Gaiotto, Yin-Chen He|[2509.08038](https://arxiv.org/abs/2509.08038)|null|
+|**2025-09-09**|**Critical Majorana fermion at a topological quantum Hall bilayer transition**|Cristian Voinea, Wei Zhu, Nicolas Regnault, Zlatko Papić|[2509.08036](https://arxiv.org/abs/2509.08036)|null|
 |**2025-09-09**|**Symmetry TFTs for Continuous Spacetime Symmetries**|Fabio Apruzzi, Nicola Dondi, Iñaki García Etxebarria, Ho Tat Lam, Sakura Schafer-Nameki|[2509.07965](https://arxiv.org/abs/2509.07965)|null|
 |**2025-09-09**|**Lepton flavor violating decays of Higgs boson in the NB-LSSM**|Cai Guo, Xing-Xing Dong, Shu-Min Zhao, Zhan Cao, Jia-Peng Huo, Jin-Lei Yang, Tai-Fu Feng|[2509.07902](https://arxiv.org/abs/2509.07902)|null|
 |**2025-09-09**|**Vanishing of the $H^3$ obstruction for time-reversal symmetry in (2+1)D abelian bosonic TQFTs**|Ippo Orii|[2509.07368](https://arxiv.org/abs/2509.07368)|null|

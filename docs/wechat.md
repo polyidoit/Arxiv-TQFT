@@ -9,6 +9,18 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-10, **Sandwich Construction of Symmetry TFTs for the Centre Symmetries of Chern-Simons, Yang-Mills, and Einstein Gravity**, Leron Borsten, Dimitri Kanakaris, Hyungrok Kim, Paper: [https://arxiv.org/abs/2509.08819](https://arxiv.org/abs/2509.08819), 31 pages, 3 figures, 4 tables
+- 2025-09-10, **Boundary Actions and Loop Groups: A Geometric Picture of Gauge Symmetries at Null Infinity**, Silvia Nagy, Javier Peraza, Giorgio Pizzolo, Paper: [https://arxiv.org/abs/2509.08725](https://arxiv.org/abs/2509.08725), 26 pages
+- 2025-09-10, **Actin driven morphogenesis in hydra**, Sabyasachi Mukherjee, Anirban Sain, Paper: [https://arxiv.org/abs/2509.08655](https://arxiv.org/abs/2509.08655)
+- 2025-09-10, **On the unit group scheme of the group algebra of a certain non-commutative finite flat group scheme over an $\Bbb{F}_{p}$ -algebra**, Yuji Tsuno, Paper: [https://arxiv.org/abs/2509.08529](https://arxiv.org/abs/2509.08529)
+- 2025-09-10, **From Link Homology to Topological Quantum Field Theories**, Paul Wedrich, Paper: [https://arxiv.org/abs/2509.08478](https://arxiv.org/abs/2509.08478), 20 pages, survey article written for the proceedings of the 2025
+  International Congress of Basic Science (ICBS)
+- 2025-09-10, **Gravitational constant as a conserved charge in black hole thermodynamics**, Wontae Kim, Mungon Nam, Paper: [https://arxiv.org/abs/2509.08390](https://arxiv.org/abs/2509.08390), 13 pages, no figure
+- 2025-09-10, **Fundamental theorem of transposed Poisson $(A,H)$ -Hopf modules**, Yan Ning, Daowei Lu, Dingguo Wang, Paper: [https://arxiv.org/abs/2509.08278](https://arxiv.org/abs/2509.08278)
+- 2025-09-09, **Quantum complexity of topological phases. Or lack thereof**, Alberto Giuseppe Catalano, Sven Benjamin Kožić, Gianpaolo Torre, Carola Ciaramelletti, Simone Paganelli, Fabio Franchini, Salvatore Marco Giampaolo, Paper: [https://arxiv.org/abs/2509.08053](https://arxiv.org/abs/2509.08053), 6 pages, 6 figures, 1 table. Comments welcome!
+- 2025-09-09, **Free Majorana Fermion Meets Gauged Ising Conformal Field Theory on the Fuzzy Sphere**, Zheng Zhou, Davide Gaiotto, Yin-Chen He, Paper: [https://arxiv.org/abs/2509.08038](https://arxiv.org/abs/2509.08038), 42 pages, 9 figures
+- 2025-09-09, **Critical Majorana fermion at a topological quantum Hall bilayer transition**, Cristian Voinea, Wei Zhu, Nicolas Regnault, Zlatko Papić, Paper: [https://arxiv.org/abs/2509.08036](https://arxiv.org/abs/2509.08036), 8 pages, 4 figures (main text); 4 pages, 3 figures (supplemental
+  material)
 - 2025-09-09, **Symmetry TFTs for Continuous Spacetime Symmetries**, Fabio Apruzzi, Nicola Dondi, Iñaki García Etxebarria, Ho Tat Lam, Sakura Schafer-Nameki, Paper: [https://arxiv.org/abs/2509.07965](https://arxiv.org/abs/2509.07965), 57 pages plus appendices
 - 2025-09-09, **Lepton flavor violating decays of Higgs boson in the NB-LSSM**, Cai Guo, Xing-Xing Dong, Shu-Min Zhao, Zhan Cao, Jia-Peng Huo, Jin-Lei Yang, Tai-Fu Feng, Paper: [https://arxiv.org/abs/2509.07902](https://arxiv.org/abs/2509.07902), to be published in EUROPEAN PHYSICAL JOURNAL C
 - 2025-09-09, **Vanishing of the $H^3$ obstruction for time-reversal symmetry in (2+1)D abelian bosonic TQFTs**, Ippo Orii, Paper: [https://arxiv.org/abs/2509.07368](https://arxiv.org/abs/2509.07368), 14 pages
