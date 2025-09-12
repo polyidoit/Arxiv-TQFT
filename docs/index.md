@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-09-11**|**Optimal symmetry operators**|Leandro Martinek|[2509.09670](https://arxiv.org/abs/2509.09670)|null|
+|**2025-09-11**|**Noncommutative affine pencils of conics**|Haigang Hu, Izuru Mori, Koki Takeda, Wenchao Wu|[2509.09393](https://arxiv.org/abs/2509.09393)|null|
+|**2025-09-11**|**Matrix product state classification of 1D multipole symmetry protected topological phases**|Takuma Saito, Weiguang Cao, Bo Han, Hiromi Ebisu|[2509.09244](https://arxiv.org/abs/2509.09244)|null|
+|**2025-09-11**|**Projective representations of almost unimodular groups**|Aldo Garcia Guinto|[2509.09065](https://arxiv.org/abs/2509.09065)|null|
+|**2025-09-10**|**Emanant and emergent symmetry-topological-order from low-energy spectrum**|Zixin Jessie Chen, Ömer M. Aksoy, Cenke Xu, Xiao-Gang Wen|[2509.08879](https://arxiv.org/abs/2509.08879)|null|
 |**2025-09-10**|**Sandwich Construction of Symmetry TFTs for the Centre Symmetries of Chern-Simons, Yang-Mills, and Einstein Gravity**|Leron Borsten, Dimitri Kanakaris, Hyungrok Kim|[2509.08819](https://arxiv.org/abs/2509.08819)|null|
 |**2025-09-10**|**Boundary Actions and Loop Groups: A Geometric Picture of Gauge Symmetries at Null Infinity**|Silvia Nagy, Javier Peraza, Giorgio Pizzolo|[2509.08725](https://arxiv.org/abs/2509.08725)|null|
 |**2025-09-10**|**Actin driven morphogenesis in hydra**|Sabyasachi Mukherjee, Anirban Sain|[2509.08655](https://arxiv.org/abs/2509.08655)|null|

@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-11, **Optimal symmetry operators**, Leandro Martinek, Paper: [https://arxiv.org/abs/2509.09670](https://arxiv.org/abs/2509.09670), 48 pages, 5 figures
+- 2025-09-11, **Noncommutative affine pencils of conics**, Haigang Hu, Izuru Mori, Koki Takeda, Wenchao Wu, Paper: [https://arxiv.org/abs/2509.09393](https://arxiv.org/abs/2509.09393), Any comments are welcome. 16 pages
+- 2025-09-11, **Matrix product state classification of 1D multipole symmetry protected topological phases**, Takuma Saito, Weiguang Cao, Bo Han, Hiromi Ebisu, Paper: [https://arxiv.org/abs/2509.09244](https://arxiv.org/abs/2509.09244), 21 pages, 1 figure plus appendices
+- 2025-09-11, **Projective representations of almost unimodular groups**, Aldo Garcia Guinto, Paper: [https://arxiv.org/abs/2509.09065](https://arxiv.org/abs/2509.09065), 16 pages
+- 2025-09-10, **Emanant and emergent symmetry-topological-order from low-energy spectrum**, Zixin Jessie Chen, Ömer M. Aksoy, Cenke Xu, Xiao-Gang Wen, Paper: [https://arxiv.org/abs/2509.08879](https://arxiv.org/abs/2509.08879), 27 pages, 12 figures
 - 2025-09-10, **Sandwich Construction of Symmetry TFTs for the Centre Symmetries of Chern-Simons, Yang-Mills, and Einstein Gravity**, Leron Borsten, Dimitri Kanakaris, Hyungrok Kim, Paper: [https://arxiv.org/abs/2509.08819](https://arxiv.org/abs/2509.08819), 31 pages, 3 figures, 4 tables
 - 2025-09-10, **Boundary Actions and Loop Groups: A Geometric Picture of Gauge Symmetries at Null Infinity**, Silvia Nagy, Javier Peraza, Giorgio Pizzolo, Paper: [https://arxiv.org/abs/2509.08725](https://arxiv.org/abs/2509.08725), 26 pages
 - 2025-09-10, **Actin driven morphogenesis in hydra**, Sabyasachi Mukherjee, Anirban Sain, Paper: [https://arxiv.org/abs/2509.08655](https://arxiv.org/abs/2509.08655)
