@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2025.09.15
+> Automatically updated on 2025.09.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**Gradient-based search of quantum phases: discovering unconventional fractional Chern insulators**|André Grossi Fonseca, Eric Wang, Sachin Vaidya, Patrick J. Ledwith, Ashvin Vishwanath, Marin Soljačić|[2509.10438](https://arxiv.org/abs/2509.10438)|null|
+|**2025-09-12**|**Topological superconductivity in a dimerized Kitaev chain revealed by nonlocal transport**|Rafael Pineda Medina, Pablo Burset, William J. Herrera|[2509.10412](https://arxiv.org/abs/2509.10412)|null|
+|**2025-09-12**|**Knotted DNA Configurations in Bacteriophage Capsids: A Liquid Crystal Theory Approach**|Pei Liu, Zhijie Wang, Tamara Christiani, Mariel Vazquez, M. Carme Calderer, Javier Arsuaga|[2509.10410](https://arxiv.org/abs/2509.10410)|null|
+|**2025-09-12**|**An emergent higher-form symmetry from type IIB superstring theory**|Naoto Kan, Masashi Kawahira, Hiroki Wada|[2509.10365](https://arxiv.org/abs/2509.10365)|null|
+|**2025-09-12**|**Hopf formulae for cocommutative Hopf algebras**|Marino Gran, Andrea Sciandra|[2509.09992](https://arxiv.org/abs/2509.09992)|null|
+|**2025-09-11**|**Dimensionality reduction of optically generated vortex strings in a charge density wave**|Sajal Dahal, Alex H. Miller, Viktor Krapivin, Gal Orenstein, Ryan A. Duncan, Nicholas Leonard, Matthew J. Hurley, Jade Stanton, Roman Mankowsky, Henrik Lemke, Anisha Singh, Ian Fisher, Mariano Trigo, Samuel W. Teitelbaum|[2509.09819](https://arxiv.org/abs/2509.09819)|null|
 |**2025-09-11**|**Optimal symmetry operators**|Leandro Martinek|[2509.09670](https://arxiv.org/abs/2509.09670)|null|
 |**2025-09-11**|**Noncommutative affine pencils of conics**|Haigang Hu, Izuru Mori, Koki Takeda, Wenchao Wu|[2509.09393](https://arxiv.org/abs/2509.09393)|null|
 |**2025-09-11**|**Matrix product state classification of 1D multipole symmetry protected topological phases**|Takuma Saito, Weiguang Cao, Bo Han, Hiromi Ebisu|[2509.09244](https://arxiv.org/abs/2509.09244)|null|
@@ -1010,5 +1016,5 @@ layout: default
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 

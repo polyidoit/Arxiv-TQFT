@@ -1,4 +1,4 @@
-> Automatically updated on 2025.09.15
+> Automatically updated on 2025.09.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-12, **Gradient-based search of quantum phases: discovering unconventional fractional Chern insulators**, André Grossi Fonseca, Eric Wang, Sachin Vaidya, Patrick J. Ledwith, Ashvin Vishwanath, Marin Soljačić, Paper: [https://arxiv.org/abs/2509.10438](https://arxiv.org/abs/2509.10438)
+- 2025-09-12, **Topological superconductivity in a dimerized Kitaev chain revealed by nonlocal transport**, Rafael Pineda Medina, Pablo Burset, William J. Herrera, Paper: [https://arxiv.org/abs/2509.10412](https://arxiv.org/abs/2509.10412)
+- 2025-09-12, **Knotted DNA Configurations in Bacteriophage Capsids: A Liquid Crystal Theory Approach**, Pei Liu, Zhijie Wang, Tamara Christiani, Mariel Vazquez, M. Carme Calderer, Javier Arsuaga, Paper: [https://arxiv.org/abs/2509.10410](https://arxiv.org/abs/2509.10410)
+- 2025-09-12, **An emergent higher-form symmetry from type IIB superstring theory**, Naoto Kan, Masashi Kawahira, Hiroki Wada, Paper: [https://arxiv.org/abs/2509.10365](https://arxiv.org/abs/2509.10365), 19 pages
+- 2025-09-12, **Hopf formulae for cocommutative Hopf algebras**, Marino Gran, Andrea Sciandra, Paper: [https://arxiv.org/abs/2509.09992](https://arxiv.org/abs/2509.09992), 22 pages
+- 2025-09-11, **Dimensionality reduction of optically generated vortex strings in a charge density wave**, Sajal Dahal, Alex H. Miller, Viktor Krapivin, Gal Orenstein, Ryan A. Duncan, Nicholas Leonard, Matthew J. Hurley, Jade Stanton, Roman Mankowsky, Henrik Lemke, Anisha Singh, Ian Fisher, Mariano Trigo, Samuel W. Teitelbaum, Paper: [https://arxiv.org/abs/2509.09819](https://arxiv.org/abs/2509.09819), 7 pages, 3 figures. Supplemental AVI movies included
 - 2025-09-11, **Optimal symmetry operators**, Leandro Martinek, Paper: [https://arxiv.org/abs/2509.09670](https://arxiv.org/abs/2509.09670), 48 pages, 5 figures
 - 2025-09-11, **Noncommutative affine pencils of conics**, Haigang Hu, Izuru Mori, Koki Takeda, Wenchao Wu, Paper: [https://arxiv.org/abs/2509.09393](https://arxiv.org/abs/2509.09393), Any comments are welcome. 16 pages
 - 2025-09-11, **Matrix product state classification of 1D multipole symmetry protected topological phases**, Takuma Saito, Weiguang Cao, Bo Han, Hiromi Ebisu, Paper: [https://arxiv.org/abs/2509.09244](https://arxiv.org/abs/2509.09244), 21 pages, 1 figure plus appendices
@@ -194,5 +200,5 @@
   welcome
 - 2025-08-05, **A New Action for Superstring Field Theory**, Chris Hull, Paper: [https://arxiv.org/abs/2508.03902](https://arxiv.org/abs/2508.03902), 23 Pages
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 
