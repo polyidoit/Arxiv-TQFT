@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**From hidden order to skyrmions: Quantum Hall states in an extended Hofstadter-Fermi-Hubbard model**|Fabian J. Pauw, Ulrich Schollwöck, Nathan Goldman, Sebastian Paeckel, Felix A. Palm|[2509.12184](https://arxiv.org/abs/2509.12184)|null|
+|**2025-09-15**|**Generalized Symmetries and Deformations of Symmetric Product Orbifolds**|Nathan Benjamin, Suzanne Bintanja, Yu-Jui Chen, Michael Gutperle, Conghuan Luo, Dikshant Rathore|[2509.12180](https://arxiv.org/abs/2509.12180)|null|
+|**2025-09-15**|**Spatial structure of multipartite entanglement at measurement induced phase transitions**|James Allen, William Witczak-Krempa|[2509.12109](https://arxiv.org/abs/2509.12109)|null|
+|**2025-09-15**|**An inequality for relativistic local quantum measurements**|Riccardo Falcone, Claudio Conti|[2509.11599](https://arxiv.org/abs/2509.11599)|null|
+|**2025-09-14**|**Wrapped D4-branes from maximal 6D gauged supergravity**|Parinya Karndumri, Patharadanai Nuchino|[2509.11216](https://arxiv.org/abs/2509.11216)|null|
+|**2025-09-14**|**Gravitational Waves from $\textit{Type-I}$ Strings in a Neutrino Mass Model**|Adeela Afzal|[2509.11107](https://arxiv.org/abs/2509.11107)|null|
+|**2025-09-13**|**Partition function of the Kitaev quantum double model**|Anna Ritz-Zwilling, Benoît Douçot, Steven H. Simon, Julien Vidal, Jean-Noël Fuchs|[2509.10876](https://arxiv.org/abs/2509.10876)|null|
+|**2025-09-13**|**Topology-Driven Vibrations in a Chiral Polar Vortex Lattice**|Eric R. Hoglund, Harrison A. Walker, Peter Meisenheimer, Thomas W. Pfeifer, Niels De Vries, Dipanjan Chaudhuri, Ting-Ran Liu, Steven C. Quillin, Sandhya Susarla, De-Liang Bao, Patrick E. Hopkins, Andrew R. Lupini, Peter Abbamonte, Yu-Tsun Shao Ramamoorthy Ramesh, Sokrates T. Pantelides, Jordan A. Hachtel|[2509.10783](https://arxiv.org/abs/2509.10783)|null|
+|**2025-09-12**|**Stabilizer-Shannon Renyi Equivalence: Exact Results for Quantum Critical Chains**|M. A. Rajabpour|[2509.10700](https://arxiv.org/abs/2509.10700)|null|
+|**2025-09-12**|**The Classification of 3+1d Symmetry Enriched Topological Order**|Thibault D. Décoppet, Matthew Yu|[2509.10603](https://arxiv.org/abs/2509.10603)|null|
 |**2025-09-12**|**Gradient-based search of quantum phases: discovering unconventional fractional Chern insulators**|André Grossi Fonseca, Eric Wang, Sachin Vaidya, Patrick J. Ledwith, Ashvin Vishwanath, Marin Soljačić|[2509.10438](https://arxiv.org/abs/2509.10438)|null|
 |**2025-09-12**|**Topological superconductivity in a dimerized Kitaev chain revealed by nonlocal transport**|Rafael Pineda Medina, Pablo Burset, William J. Herrera|[2509.10412](https://arxiv.org/abs/2509.10412)|null|
 |**2025-09-12**|**Knotted DNA Configurations in Bacteriophage Capsids: A Liquid Crystal Theory Approach**|Pei Liu, Zhijie Wang, Tamara Christiani, Mariel Vazquez, M. Carme Calderer, Javier Arsuaga|[2509.10410](https://arxiv.org/abs/2509.10410)|null|
