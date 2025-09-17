@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-16, **Bubbles in AdS**, Agnese Bissi, Giulia Fardelli, Mohammad Reza Khansari, Paper: [https://arxiv.org/abs/2509.13036](https://arxiv.org/abs/2509.13036), 23 pages, 2 figures
+- 2025-09-16, **Uniqueness of purifications is equivalent to Haag duality**, Lauritz van Luijk, Alexander Stottmeister, Henrik Wilming, Paper: [https://arxiv.org/abs/2509.12911](https://arxiv.org/abs/2509.12911), Comments welcome
+- 2025-09-16, **Higher Abelian Quantum Double Models**, Jorge Acuña Flores, Giuseppe De Nittis, Javier Lorca Espiro, Paper: [https://arxiv.org/abs/2509.12864](https://arxiv.org/abs/2509.12864), 31 pages. Keywords:Quantum Double Models, Frustration Free Ground
+  States, Pure States Characterization, $C^*$ -algebra
+- 2025-09-16, **Stabilizer Perturbation Theory: A Systematic Construction via Schrieffer-Wolff Transformation**, Xuzhe Ying, Kangle Li, Hoi Chun Po, Paper: [https://arxiv.org/abs/2509.12621](https://arxiv.org/abs/2509.12621), 22 pages, 7 figures
+- 2025-09-15, **A graphical diagnostic of topological order using ZX calculus**, Sergi Mas-Mendoza, Richard D. P. East, Michele Filippone, Adolfo G. Grushin, Paper: [https://arxiv.org/abs/2509.12355](https://arxiv.org/abs/2509.12355), 5 pages, 26 pages of supplemental material
 - 2025-09-15, **From hidden order to skyrmions: Quantum Hall states in an extended Hofstadter-Fermi-Hubbard model**, Fabian J. Pauw, Ulrich Schollwöck, Nathan Goldman, Sebastian Paeckel, Felix A. Palm, Paper: [https://arxiv.org/abs/2509.12184](https://arxiv.org/abs/2509.12184), 15 pages, 15 figures
 - 2025-09-15, **Generalized Symmetries and Deformations of Symmetric Product Orbifolds**, Nathan Benjamin, Suzanne Bintanja, Yu-Jui Chen, Michael Gutperle, Conghuan Luo, Dikshant Rathore, Paper: [https://arxiv.org/abs/2509.12180](https://arxiv.org/abs/2509.12180), 78 pages
 - 2025-09-15, **Spatial structure of multipartite entanglement at measurement induced phase transitions**, James Allen, William Witczak-Krempa, Paper: [https://arxiv.org/abs/2509.12109](https://arxiv.org/abs/2509.12109), 22 pages, 15 figures
