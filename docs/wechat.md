@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-17, **Line defects and scattering amplitudes in the context of the AdS/CFT correspondence**, Martín Lagares, Paper: [https://arxiv.org/abs/2509.14018](https://arxiv.org/abs/2509.14018), PhD thesis, 254 pages, 16 figures
+- 2025-09-17, **From Hopf Algebras in Model Categories to Hopf Algebras in $\infty$ -categories**, Inbar Klang, Josefien Kuijper, Cary Malkiewich, David Mehrle, Thor Wittich, Paper: [https://arxiv.org/abs/2509.13602](https://arxiv.org/abs/2509.13602), v1: Comments welcome!
+- 2025-09-16, **A model for intertwined orders in cuprates**, R. S. Markiewicz, M. Matzelle, A. Bansil, Paper: [https://arxiv.org/abs/2509.13543](https://arxiv.org/abs/2509.13543), 24 pages + 8 figs + SM (11 pages + 5 figs). Incorporates part of
+  ArXiv:2303.11254, which is being retired
+- 2025-09-16, **Decoding the string in terms of holographic quantum maps**, Avik Chakraborty, Tanay Kibe, Martín Molina, Ayan Mukhopadhyay, Hardik Vamshi, Paper: [https://arxiv.org/abs/2509.13404](https://arxiv.org/abs/2509.13404), 8 pages, 1 figure
 - 2025-09-16, **Bubbles in AdS**, Agnese Bissi, Giulia Fardelli, Mohammad Reza Khansari, Paper: [https://arxiv.org/abs/2509.13036](https://arxiv.org/abs/2509.13036), 23 pages, 2 figures
 - 2025-09-16, **Uniqueness of purifications is equivalent to Haag duality**, Lauritz van Luijk, Alexander Stottmeister, Henrik Wilming, Paper: [https://arxiv.org/abs/2509.12911](https://arxiv.org/abs/2509.12911), Comments welcome
 - 2025-09-16, **Higher Abelian Quantum Double Models**, Jorge Acuña Flores, Giuseppe De Nittis, Javier Lorca Espiro, Paper: [https://arxiv.org/abs/2509.12864](https://arxiv.org/abs/2509.12864), 31 pages. Keywords:Quantum Double Models, Frustration Free Ground

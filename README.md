@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**Line defects and scattering amplitudes in the context of the AdS/CFT correspondence**|Martín Lagares|[2509.14018](https://arxiv.org/abs/2509.14018)|null|
+|**2025-09-17**|**From Hopf Algebras in Model Categories to Hopf Algebras in $\infty$ -categories**|Inbar Klang, Josefien Kuijper, Cary Malkiewich, David Mehrle, Thor Wittich|[2509.13602](https://arxiv.org/abs/2509.13602)|null|
+|**2025-09-16**|**A model for intertwined orders in cuprates**|R. S. Markiewicz, M. Matzelle, A. Bansil|[2509.13543](https://arxiv.org/abs/2509.13543)|null|
+|**2025-09-16**|**Decoding the string in terms of holographic quantum maps**|Avik Chakraborty, Tanay Kibe, Martín Molina, Ayan Mukhopadhyay, Hardik Vamshi|[2509.13404](https://arxiv.org/abs/2509.13404)|null|
 |**2025-09-16**|**Bubbles in AdS**|Agnese Bissi, Giulia Fardelli, Mohammad Reza Khansari|[2509.13036](https://arxiv.org/abs/2509.13036)|null|
 |**2025-09-16**|**Uniqueness of purifications is equivalent to Haag duality**|Lauritz van Luijk, Alexander Stottmeister, Henrik Wilming|[2509.12911](https://arxiv.org/abs/2509.12911)|null|
 |**2025-09-16**|**Higher Abelian Quantum Double Models**|Jorge Acuña Flores, Giuseppe De Nittis, Javier Lorca Espiro|[2509.12864](https://arxiv.org/abs/2509.12864)|null|
