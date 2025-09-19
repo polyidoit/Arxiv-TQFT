@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-18, **Circuit-based chatacterization of finite-temperature quantum phases and self-correcting quantum memory**, Ruochen Ma, Vedika Khemani, Shengqi Sang, Paper: [https://arxiv.org/abs/2509.15204](https://arxiv.org/abs/2509.15204)
+- 2025-09-18, **Discrete measured groupoid von Neumann algebras via the Gaussian deformation**, Felipe Flores, James Harbour, Paper: [https://arxiv.org/abs/2509.15161](https://arxiv.org/abs/2509.15161), 35 pages. Comments are welcome
+- 2025-09-18, **Integrals for Bialgebras**, Alessandro Ardizzoni, Claudia Menini, Paolo Saracco, Paper: [https://arxiv.org/abs/2509.14823](https://arxiv.org/abs/2509.14823)
+- 2025-09-18, **Gauge symmetry and the arrow of time: How to count what counts**, Sean Gryb, Paper: [https://arxiv.org/abs/2509.14720](https://arxiv.org/abs/2509.14720), PhD Thesis, University of Groningen. Defended 11 Sept 2025
+- 2025-09-18, **Ortho-isomorphisms of von Neumann algebras**, Minghui Ma, Weijuan Shi, Paper: [https://arxiv.org/abs/2509.14697](https://arxiv.org/abs/2509.14697)
+- 2025-09-18, **Emergent momentum-space topological pseudospin defects in non-Hermitian systems**, Yow-Ming Robin Hu, Elena A. Ostrovskaya, Alexander Yakimenko, Eliezer Estrecho, Paper: [https://arxiv.org/abs/2509.14605](https://arxiv.org/abs/2509.14605), 12 pages, 9 figures
+- 2025-09-17, **Free-field construction of Carrollian $W_N$ -algebras**, Stefan Fredenhagen, Lucas Hörl, Paper: [https://arxiv.org/abs/2509.14441](https://arxiv.org/abs/2509.14441), 27 pages
+- 2025-09-17, **A no-go theorem for large $N$ closed universes**, Elliott Gesteau, Paper: [https://arxiv.org/abs/2509.14338](https://arxiv.org/abs/2509.14338), 18 pages + references, 1 figure
+- 2025-09-17, **High-Quality Axion Dark Matter at Gravitational Wave Interferometers**, Disha Bandyopadhyay, Debasish Borah, Nayan Das, Rome Samanta, Paper: [https://arxiv.org/abs/2509.14323](https://arxiv.org/abs/2509.14323), 10 pages, 3 captioned figures
 - 2025-09-17, **Line defects and scattering amplitudes in the context of the AdS/CFT correspondence**, Martín Lagares, Paper: [https://arxiv.org/abs/2509.14018](https://arxiv.org/abs/2509.14018), PhD thesis, 254 pages, 16 figures
 - 2025-09-17, **From Hopf Algebras in Model Categories to Hopf Algebras in $\infty$ -categories**, Inbar Klang, Josefien Kuijper, Cary Malkiewich, David Mehrle, Thor Wittich, Paper: [https://arxiv.org/abs/2509.13602](https://arxiv.org/abs/2509.13602), v1: Comments welcome!
 - 2025-09-16, **A model for intertwined orders in cuprates**, R. S. Markiewicz, M. Matzelle, A. Bansil, Paper: [https://arxiv.org/abs/2509.13543](https://arxiv.org/abs/2509.13543), 24 pages + 8 figs + SM (11 pages + 5 figs). Incorporates part of

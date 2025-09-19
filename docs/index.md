@@ -2,6 +2,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-09-18**|**Circuit-based chatacterization of finite-temperature quantum phases and self-correcting quantum memory**|Ruochen Ma, Vedika Khemani, Shengqi Sang|[2509.15204](https://arxiv.org/abs/2509.15204)|null|
+|**2025-09-18**|**Discrete measured groupoid von Neumann algebras via the Gaussian deformation**|Felipe Flores, James Harbour|[2509.15161](https://arxiv.org/abs/2509.15161)|null|
+|**2025-09-18**|**Integrals for Bialgebras**|Alessandro Ardizzoni, Claudia Menini, Paolo Saracco|[2509.14823](https://arxiv.org/abs/2509.14823)|null|
+|**2025-09-18**|**Gauge symmetry and the arrow of time: How to count what counts**|Sean Gryb|[2509.14720](https://arxiv.org/abs/2509.14720)|null|
+|**2025-09-18**|**Ortho-isomorphisms of von Neumann algebras**|Minghui Ma, Weijuan Shi|[2509.14697](https://arxiv.org/abs/2509.14697)|null|
+|**2025-09-18**|**Emergent momentum-space topological pseudospin defects in non-Hermitian systems**|Yow-Ming Robin Hu, Elena A. Ostrovskaya, Alexander Yakimenko, Eliezer Estrecho|[2509.14605](https://arxiv.org/abs/2509.14605)|null|
+|**2025-09-17**|**Free-field construction of Carrollian $W_N$ -algebras**|Stefan Fredenhagen, Lucas Hörl|[2509.14441](https://arxiv.org/abs/2509.14441)|null|
+|**2025-09-17**|**A no-go theorem for large $N$ closed universes**|Elliott Gesteau|[2509.14338](https://arxiv.org/abs/2509.14338)|null|
+|**2025-09-17**|**High-Quality Axion Dark Matter at Gravitational Wave Interferometers**|Disha Bandyopadhyay, Debasish Borah, Nayan Das, Rome Samanta|[2509.14323](https://arxiv.org/abs/2509.14323)|null|
 |**2025-09-17**|**Line defects and scattering amplitudes in the context of the AdS/CFT correspondence**|Martín Lagares|[2509.14018](https://arxiv.org/abs/2509.14018)|null|
 |**2025-09-17**|**From Hopf Algebras in Model Categories to Hopf Algebras in $\infty$ -categories**|Inbar Klang, Josefien Kuijper, Cary Malkiewich, David Mehrle, Thor Wittich|[2509.13602](https://arxiv.org/abs/2509.13602)|null|
 |**2025-09-16**|**A model for intertwined orders in cuprates**|R. S. Markiewicz, M. Matzelle, A. Bansil|[2509.13543](https://arxiv.org/abs/2509.13543)|null|
