@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-19, **Symmetry extension by condensation defects in five-dimensional gauge theories**, Matteo Bertolini, Lorenzo Di Pietro, Stefano C. Lanza, Pierluigi Niro, Antonio Santaniello, Paper: [https://arxiv.org/abs/2509.16165](https://arxiv.org/abs/2509.16165), 59 pages, 4 figures
+- 2025-09-19, **Symmetries Beget Symmetries: Ghostly Higher-Form Symmetries and the Descent Equation**, Leron Borsten, Dimitri Kanakaris, Hyungrok Kim, Paper: [https://arxiv.org/abs/2509.15978](https://arxiv.org/abs/2509.15978), 62 pages, 14 figures
+- 2025-09-19, **Gaussian fermionic embezzlement of entanglement**, Alessia Kera, Lauritz van Luijk, Alexander Stottmeister, Henrik Wilming, Paper: [https://arxiv.org/abs/2509.15749](https://arxiv.org/abs/2509.15749), Comments welcome
+- 2025-09-19, **Measurement-Driven Transitions between Area Law Phases**, Hui Yu, Jiangping Hu, Paper: [https://arxiv.org/abs/2509.15634](https://arxiv.org/abs/2509.15634), 8 pages, 11 figures
 - 2025-09-18, **Circuit-based chatacterization of finite-temperature quantum phases and self-correcting quantum memory**, Ruochen Ma, Vedika Khemani, Shengqi Sang, Paper: [https://arxiv.org/abs/2509.15204](https://arxiv.org/abs/2509.15204)
 - 2025-09-18, **Discrete measured groupoid von Neumann algebras via the Gaussian deformation**, Felipe Flores, James Harbour, Paper: [https://arxiv.org/abs/2509.15161](https://arxiv.org/abs/2509.15161), 35 pages. Comments are welcome
 - 2025-09-18, **Integrals for Bialgebras**, Alessandro Ardizzoni, Claudia Menini, Paolo Saracco, Paper: [https://arxiv.org/abs/2509.14823](https://arxiv.org/abs/2509.14823)

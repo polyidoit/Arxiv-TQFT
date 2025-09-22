@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-09-19**|**Symmetry extension by condensation defects in five-dimensional gauge theories**|Matteo Bertolini, Lorenzo Di Pietro, Stefano C. Lanza, Pierluigi Niro, Antonio Santaniello|[2509.16165](https://arxiv.org/abs/2509.16165)|null|
+|**2025-09-19**|**Symmetries Beget Symmetries: Ghostly Higher-Form Symmetries and the Descent Equation**|Leron Borsten, Dimitri Kanakaris, Hyungrok Kim|[2509.15978](https://arxiv.org/abs/2509.15978)|null|
+|**2025-09-19**|**Gaussian fermionic embezzlement of entanglement**|Alessia Kera, Lauritz van Luijk, Alexander Stottmeister, Henrik Wilming|[2509.15749](https://arxiv.org/abs/2509.15749)|null|
+|**2025-09-19**|**Measurement-Driven Transitions between Area Law Phases**|Hui Yu, Jiangping Hu|[2509.15634](https://arxiv.org/abs/2509.15634)|null|
 |**2025-09-18**|**Circuit-based chatacterization of finite-temperature quantum phases and self-correcting quantum memory**|Ruochen Ma, Vedika Khemani, Shengqi Sang|[2509.15204](https://arxiv.org/abs/2509.15204)|null|
 |**2025-09-18**|**Discrete measured groupoid von Neumann algebras via the Gaussian deformation**|Felipe Flores, James Harbour|[2509.15161](https://arxiv.org/abs/2509.15161)|null|
 |**2025-09-18**|**Integrals for Bialgebras**|Alessandro Ardizzoni, Claudia Menini, Paolo Saracco|[2509.14823](https://arxiv.org/abs/2509.14823)|null|
