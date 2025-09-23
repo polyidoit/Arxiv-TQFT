@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-09-22**|**Thermal field theory correlators in the large- $N$ limit and the spectral duality relation**|Sašo Grozdanov, Mile Vrbica|[2509.18074](https://arxiv.org/abs/2509.18074)|null|
+|**2025-09-22**|**The Many Faces of Non-invertible Symmetries**|Shadi Ali Ahmad, Marc S. Klinger, Yifan Wang|[2509.18072](https://arxiv.org/abs/2509.18072)|null|
+|**2025-09-22**|**Integral cubic form of 5D minimal supergravities and non-perturbative anomalies in 6D (1,0) theories**|Peng Cheng, Michael N. Milam, Ruben Minasian|[2509.18042](https://arxiv.org/abs/2509.18042)|null|
+|**2025-09-22**|**Higher Spherical Scissors Congruence I: Hopf Algebra**|Inbar Klang, Josefien Kuijper, Cary Malkiewich, David Mehrle, Thor Wittich|[2509.18009](https://arxiv.org/abs/2509.18009)|null|
+|**2025-09-22**|**A converse theorem for hyperbolic surface spectra and the conformal bootstrap**|Anshul Adve|[2509.17935](https://arxiv.org/abs/2509.17935)|null|
+|**2025-09-22**|**Finite Entropy Implies Finite Dimension in Quantum Gravity**|T. Banks|[2509.17856](https://arxiv.org/abs/2509.17856)|null|
+|**2025-09-22**|**Real decomposable maps on operator systems**|David P. Blecher, Christiaan H. Pretorius|[2509.17708](https://arxiv.org/abs/2509.17708)|null|
+|**2025-09-22**|**Superluminal Correlations in Ensembles of Optical Phase Singularities**|Tomer Bucher, Alexey Gorlach, Arthur Niedermayr, Qinghui Yan, Harel Nahari, Kangpeng Wang, Ron Ruimy, Yuval Adiv, Michael Yannai, Tom Lenkiewicz Abudi, Eli Janzen, Christina Spaegele, Charles Roques-Carmes, James Edgar, Frank Koppens, Giovanni Vanacore, Hanan Herzig Sheinfux, Shai Tsesses, Ido Kaminer|[2509.17675](https://arxiv.org/abs/2509.17675)|null|
+|**2025-09-22**|**Bulk/boundary quotients of Gaussian multiplicative chaos measures II: Tail profile of bulk Gaussian multiplicative chaos measures in the exact scale-invariant case**|Yichao Huang, Youtao Liu|[2509.17363](https://arxiv.org/abs/2509.17363)|null|
+|**2025-09-21**|**On the Quantization of the Electromagnetic Field with Magnetic Monopoles**|Kanan Anwar|[2509.17284](https://arxiv.org/abs/2509.17284)|null|
 |**2025-09-19**|**Symmetry extension by condensation defects in five-dimensional gauge theories**|Matteo Bertolini, Lorenzo Di Pietro, Stefano C. Lanza, Pierluigi Niro, Antonio Santaniello|[2509.16165](https://arxiv.org/abs/2509.16165)|null|
 |**2025-09-19**|**Symmetries Beget Symmetries: Ghostly Higher-Form Symmetries and the Descent Equation**|Leron Borsten, Dimitri Kanakaris, Hyungrok Kim|[2509.15978](https://arxiv.org/abs/2509.15978)|null|
 |**2025-09-19**|**Gaussian fermionic embezzlement of entanglement**|Alessia Kera, Lauritz van Luijk, Alexander Stottmeister, Henrik Wilming|[2509.15749](https://arxiv.org/abs/2509.15749)|null|

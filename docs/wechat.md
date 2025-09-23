@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-22, **Thermal field theory correlators in the large- $N$ limit and the spectral duality relation**, Sašo Grozdanov, Mile Vrbica, Paper: [https://arxiv.org/abs/2509.18074](https://arxiv.org/abs/2509.18074), 55 pages, 6 figures
+- 2025-09-22, **The Many Faces of Non-invertible Symmetries**, Shadi Ali Ahmad, Marc S. Klinger, Yifan Wang, Paper: [https://arxiv.org/abs/2509.18072](https://arxiv.org/abs/2509.18072), 43+21 pages, many figures
+- 2025-09-22, **Integral cubic form of 5D minimal supergravities and non-perturbative anomalies in 6D (1,0) theories**, Peng Cheng, Michael N. Milam, Ruben Minasian, Paper: [https://arxiv.org/abs/2509.18042](https://arxiv.org/abs/2509.18042), 55 pages + appendices, 2 figures
+- 2025-09-22, **Higher Spherical Scissors Congruence I: Hopf Algebra**, Inbar Klang, Josefien Kuijper, Cary Malkiewich, David Mehrle, Thor Wittich, Paper: [https://arxiv.org/abs/2509.18009](https://arxiv.org/abs/2509.18009), v1: Comments welcome!
+- 2025-09-22, **A converse theorem for hyperbolic surface spectra and the conformal bootstrap**, Anshul Adve, Paper: [https://arxiv.org/abs/2509.17935](https://arxiv.org/abs/2509.17935), 109 pages, 1 figure. Comments welcome!
+- 2025-09-22, **Finite Entropy Implies Finite Dimension in Quantum Gravity**, T. Banks, Paper: [https://arxiv.org/abs/2509.17856](https://arxiv.org/abs/2509.17856), 9 pages, LaTeX2e
+- 2025-09-22, **Real decomposable maps on operator systems**, David P. Blecher, Christiaan H. Pretorius, Paper: [https://arxiv.org/abs/2509.17708](https://arxiv.org/abs/2509.17708), 28 pages
+- 2025-09-22, **Superluminal Correlations in Ensembles of Optical Phase Singularities**, Tomer Bucher, Alexey Gorlach, Arthur Niedermayr, Qinghui Yan, Harel Nahari, Kangpeng Wang, Ron Ruimy, Yuval Adiv, Michael Yannai, Tom Lenkiewicz Abudi, Eli Janzen, Christina Spaegele, Charles Roques-Carmes, James Edgar, Frank Koppens, Giovanni Vanacore, Hanan Herzig Sheinfux, Shai Tsesses, Ido Kaminer, Paper: [https://arxiv.org/abs/2509.17675](https://arxiv.org/abs/2509.17675)
+- 2025-09-22, **Bulk/boundary quotients of Gaussian multiplicative chaos measures II: Tail profile of bulk Gaussian multiplicative chaos measures in the exact scale-invariant case**, Yichao Huang, Youtao Liu, Paper: [https://arxiv.org/abs/2509.17363](https://arxiv.org/abs/2509.17363), 26 pages, 1 figure
+- 2025-09-21, **On the Quantization of the Electromagnetic Field with Magnetic Monopoles**, Kanan Anwar, Paper: [https://arxiv.org/abs/2509.17284](https://arxiv.org/abs/2509.17284)
 - 2025-09-19, **Symmetry extension by condensation defects in five-dimensional gauge theories**, Matteo Bertolini, Lorenzo Di Pietro, Stefano C. Lanza, Pierluigi Niro, Antonio Santaniello, Paper: [https://arxiv.org/abs/2509.16165](https://arxiv.org/abs/2509.16165), 59 pages, 4 figures
 - 2025-09-19, **Symmetries Beget Symmetries: Ghostly Higher-Form Symmetries and the Descent Equation**, Leron Borsten, Dimitri Kanakaris, Hyungrok Kim, Paper: [https://arxiv.org/abs/2509.15978](https://arxiv.org/abs/2509.15978), 62 pages, 14 figures
 - 2025-09-19, **Gaussian fermionic embezzlement of entanglement**, Alessia Kera, Lauritz van Luijk, Alexander Stottmeister, Henrik Wilming, Paper: [https://arxiv.org/abs/2509.15749](https://arxiv.org/abs/2509.15749), Comments welcome
