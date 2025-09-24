@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-23, **Analytical results for large- $N_c$ scalar QCD$_2$**, Pavel Meshcheriakov, Paper: [https://arxiv.org/abs/2509.19229](https://arxiv.org/abs/2509.19229), 43 pages and 4 figures
+- 2025-09-23, **Generalized Gell-Mann--Nishijima formula**, E. Castillo-Ruiz, Henry Diaz, V. Pleitez, Paper: [https://arxiv.org/abs/2509.19103](https://arxiv.org/abs/2509.19103), 19 pages
+- 2025-09-23, **Contraction waves in pulsating active liquids: From pacemaker to aster dynamics**, Tirthankar Banerjee, Thibault Desaleux, Jonas Ranft, Étienne Fodor, Paper: [https://arxiv.org/abs/2509.19024](https://arxiv.org/abs/2509.19024), 8 pages, 4 figures
+- 2025-09-23, **Non-Lagrangian phases of matter from Wilsonian renormalization of 3D Wess-Zumino-Witten theory on Stiefel manifolds**, Shouryya Ray, Paper: [https://arxiv.org/abs/2509.18966](https://arxiv.org/abs/2509.18966), 5+2 pages, 2+0 figures. Comments welcome
+- 2025-09-23, **(Non-)Conserved Currents and Cosmological Correlators**, Charlotte Sleight, Massimo Taronna, Paper: [https://arxiv.org/abs/2509.18888](https://arxiv.org/abs/2509.18888), 15+2 pages
+- 2025-09-22, **Chiral Color Code : Single-shot error correction for exotic topological order**, Dongjin Lee, Beni Yoshida, Paper: [https://arxiv.org/abs/2509.18324](https://arxiv.org/abs/2509.18324), 56 pages
+- 2025-09-22, **Fully Distributed State Estimation for Multi-agent Systems and its Application in Cooperative Localization**, Shuaiting Huang, Haodong Jiang, Chengcheng Zhao, Peng Cheng, Junfeng Wu, Paper: [https://arxiv.org/abs/2509.18292](https://arxiv.org/abs/2509.18292)
+- 2025-09-22, **Instability of Laughlin FQH liquids into gapless power-law correlated states with continuous exponents in ideal Chern bands: rigorous results from plasma mapping**, Saranyo Moitra, Inti Sodemann Villadiego, Paper: [https://arxiv.org/abs/2509.18265](https://arxiv.org/abs/2509.18265), 6+4 pages, 1+0 figures. Comments welcome!
 - 2025-09-22, **Thermal field theory correlators in the large- $N$ limit and the spectral duality relation**, Sašo Grozdanov, Mile Vrbica, Paper: [https://arxiv.org/abs/2509.18074](https://arxiv.org/abs/2509.18074), 55 pages, 6 figures
 - 2025-09-22, **The Many Faces of Non-invertible Symmetries**, Shadi Ali Ahmad, Marc S. Klinger, Yifan Wang, Paper: [https://arxiv.org/abs/2509.18072](https://arxiv.org/abs/2509.18072), 43+21 pages, many figures
 - 2025-09-22, **Integral cubic form of 5D minimal supergravities and non-perturbative anomalies in 6D (1,0) theories**, Peng Cheng, Michael N. Milam, Ruben Minasian, Paper: [https://arxiv.org/abs/2509.18042](https://arxiv.org/abs/2509.18042), 55 pages + appendices, 2 figures

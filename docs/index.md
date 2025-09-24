@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-09-23**|**Analytical results for large- $N_c$ scalar QCD$_2$**|Pavel Meshcheriakov|[2509.19229](https://arxiv.org/abs/2509.19229)|null|
+|**2025-09-23**|**Generalized Gell-Mann--Nishijima formula**|E. Castillo-Ruiz, Henry Diaz, V. Pleitez|[2509.19103](https://arxiv.org/abs/2509.19103)|null|
+|**2025-09-23**|**Contraction waves in pulsating active liquids: From pacemaker to aster dynamics**|Tirthankar Banerjee, Thibault Desaleux, Jonas Ranft, Étienne Fodor|[2509.19024](https://arxiv.org/abs/2509.19024)|null|
+|**2025-09-23**|**Non-Lagrangian phases of matter from Wilsonian renormalization of 3D Wess-Zumino-Witten theory on Stiefel manifolds**|Shouryya Ray|[2509.18966](https://arxiv.org/abs/2509.18966)|null|
+|**2025-09-23**|**(Non-)Conserved Currents and Cosmological Correlators**|Charlotte Sleight, Massimo Taronna|[2509.18888](https://arxiv.org/abs/2509.18888)|null|
+|**2025-09-22**|**Chiral Color Code : Single-shot error correction for exotic topological order**|Dongjin Lee, Beni Yoshida|[2509.18324](https://arxiv.org/abs/2509.18324)|null|
+|**2025-09-22**|**Fully Distributed State Estimation for Multi-agent Systems and its Application in Cooperative Localization**|Shuaiting Huang, Haodong Jiang, Chengcheng Zhao, Peng Cheng, Junfeng Wu|[2509.18292](https://arxiv.org/abs/2509.18292)|null|
+|**2025-09-22**|**Instability of Laughlin FQH liquids into gapless power-law correlated states with continuous exponents in ideal Chern bands: rigorous results from plasma mapping**|Saranyo Moitra, Inti Sodemann Villadiego|[2509.18265](https://arxiv.org/abs/2509.18265)|null|
 |**2025-09-22**|**Thermal field theory correlators in the large- $N$ limit and the spectral duality relation**|Sašo Grozdanov, Mile Vrbica|[2509.18074](https://arxiv.org/abs/2509.18074)|null|
 |**2025-09-22**|**The Many Faces of Non-invertible Symmetries**|Shadi Ali Ahmad, Marc S. Klinger, Yifan Wang|[2509.18072](https://arxiv.org/abs/2509.18072)|null|
 |**2025-09-22**|**Integral cubic form of 5D minimal supergravities and non-perturbative anomalies in 6D (1,0) theories**|Peng Cheng, Michael N. Milam, Ruben Minasian|[2509.18042](https://arxiv.org/abs/2509.18042)|null|
