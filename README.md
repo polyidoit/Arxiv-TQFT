@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**Breakdown of symmetry constraint in Floquet topological superconductor**|Ming-Jian Gao, Jun-Hong An|[2509.19992](https://arxiv.org/abs/2509.19992)|null|
+|**2025-09-23**|**Relative solidity results and their applications to computations of some II $_1$ factor invariants**|Juan Felipe Ariza Mejia, Dulanji Nikethani Amaraweera, Ionut Chifan, Krishnendu Khan|[2509.19481](https://arxiv.org/abs/2509.19481)|null|
+|**2025-09-23**|**There and Back Again: A Gauging Nexus between Topological and Fracton Phases**|Pranay Gorantla, Abhinav Prem, Nathanan Tantivasadakarn, Dominic J. Williamson|[2509.19440](https://arxiv.org/abs/2509.19440)|null|
+|**2025-09-23**|**A New Supersymmetry Index for Symmetric Orbifold CFTs**|Marcel R. R. Hughes, Masaki Shigemori|[2509.19425](https://arxiv.org/abs/2509.19425)|null|
+|**2025-09-23**|**The Aharonov-Bohm effect: reality and folklore**|Henrique Gomes|[2509.19407](https://arxiv.org/abs/2509.19407)|null|
 |**2025-09-23**|**Analytical results for large- $N_c$ scalar QCD$_2$**|Pavel Meshcheriakov|[2509.19229](https://arxiv.org/abs/2509.19229)|null|
 |**2025-09-23**|**Generalized Gell-Mann--Nishijima formula**|E. Castillo-Ruiz, Henry Diaz, V. Pleitez|[2509.19103](https://arxiv.org/abs/2509.19103)|null|
 |**2025-09-23**|**Contraction waves in pulsating active liquids: From pacemaker to aster dynamics**|Tirthankar Banerjee, Thibault Desaleux, Jonas Ranft, Étienne Fodor|[2509.19024](https://arxiv.org/abs/2509.19024)|null|

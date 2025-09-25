@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-24, **Breakdown of symmetry constraint in Floquet topological superconductor**, Ming-Jian Gao, Jun-Hong An, Paper: [https://arxiv.org/abs/2509.19992](https://arxiv.org/abs/2509.19992)
+- 2025-09-23, **Relative solidity results and their applications to computations of some II $_1$ factor invariants**, Juan Felipe Ariza Mejia, Dulanji Nikethani Amaraweera, Ionut Chifan, Krishnendu Khan, Paper: [https://arxiv.org/abs/2509.19481](https://arxiv.org/abs/2509.19481), 45 Pages
+- 2025-09-23, **There and Back Again: A Gauging Nexus between Topological and Fracton Phases**, Pranay Gorantla, Abhinav Prem, Nathanan Tantivasadakarn, Dominic J. Williamson, Paper: [https://arxiv.org/abs/2509.19440](https://arxiv.org/abs/2509.19440), 29 pages, 2 figures, 2 tables
+- 2025-09-23, **A New Supersymmetry Index for Symmetric Orbifold CFTs**, Marcel R. R. Hughes, Masaki Shigemori, Paper: [https://arxiv.org/abs/2509.19425](https://arxiv.org/abs/2509.19425), 5 pages + Appendix, 1 figure
+- 2025-09-23, **The Aharonov-Bohm effect: reality and folklore**, Henrique Gomes, Paper: [https://arxiv.org/abs/2509.19407](https://arxiv.org/abs/2509.19407), 32 pages. 7-page appendix, 3 figures
 - 2025-09-23, **Analytical results for large- $N_c$ scalar QCD$_2$**, Pavel Meshcheriakov, Paper: [https://arxiv.org/abs/2509.19229](https://arxiv.org/abs/2509.19229), 43 pages and 4 figures
 - 2025-09-23, **Generalized Gell-Mann--Nishijima formula**, E. Castillo-Ruiz, Henry Diaz, V. Pleitez, Paper: [https://arxiv.org/abs/2509.19103](https://arxiv.org/abs/2509.19103), 19 pages
 - 2025-09-23, **Contraction waves in pulsating active liquids: From pacemaker to aster dynamics**, Tirthankar Banerjee, Thibault Desaleux, Jonas Ranft, Étienne Fodor, Paper: [https://arxiv.org/abs/2509.19024](https://arxiv.org/abs/2509.19024), 8 pages, 4 figures
