@@ -1,4 +1,4 @@
-> Automatically updated on 2025.09.25
+> Automatically updated on 2025.09.26
 
 ## TQFT, Topological order, Generalized symmetry
 
