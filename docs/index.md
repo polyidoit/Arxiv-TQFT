@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-09-25**|**Where Non-Invertible Symmetries End: Twist Defects for Electromagnetic Duality**|Shu-Heng Shao, Siwei Zhong|[2509.21279](https://arxiv.org/abs/2509.21279)|null|
+|**2025-09-25**|**Toric surface codes and the periodicity of polytopes**|Amelia Gibbs, Eliza Hogan, Kelly Jabbusch, Jenna Plute, Nicholas Toloczko|[2509.21178](https://arxiv.org/abs/2509.21178)|null|
+|**2025-09-25**|**Two Decades of Probabilistic Approach to Liouville Conformal Field Theory**|Rémi Rhodes, Vincent Vargas|[2509.21053](https://arxiv.org/abs/2509.21053)|null|
+|**2025-09-25**|**Fundamental theorem of Poisson 3-Lie $(A,H)$ -Hopf modules**|Daowei Lu, Dingguo Wang|[2509.20670](https://arxiv.org/abs/2509.20670)|null|
+|**2025-09-24**|**Higher structure of non-invertible symmetries from Lagrangian descriptions**|Seolhwa Kim, Orr Sela, Zhengdi Sun|[2509.20540](https://arxiv.org/abs/2509.20540)|null|
+|**2025-09-24**|**Non-renormalisation of coupling constants from categorical symmetries in two dimensions**|Guillermo Arias-Tamargo, Chris Hull, Maxwell L. Velásquez Cotini Hutt|[2509.20441](https://arxiv.org/abs/2509.20441)|null|
+|**2025-09-24**|**The degrees of freedom of multiway junctions in three dimensional gravity**|Avik Chakraborty, Tanay Kibe, Martín Molina, Ayan Mukhopadhyay, Giuseppe Policastro|[2509.20437](https://arxiv.org/abs/2509.20437)|null|
+|**2025-09-24**|**Multicriticality between Purely Gapless SPT Phases with Unitary Symmetry**|Saranesh Prembabu, Ruben Verresen|[2509.20431](https://arxiv.org/abs/2509.20431)|null|
 |**2025-09-24**|**Breakdown of symmetry constraint in Floquet topological superconductor**|Ming-Jian Gao, Jun-Hong An|[2509.19992](https://arxiv.org/abs/2509.19992)|null|
 |**2025-09-23**|**Relative solidity results and their applications to computations of some II $_1$ factor invariants**|Juan Felipe Ariza Mejia, Dulanji Nikethani Amaraweera, Ionut Chifan, Krishnendu Khan|[2509.19481](https://arxiv.org/abs/2509.19481)|null|
 |**2025-09-23**|**There and Back Again: A Gauging Nexus between Topological and Fracton Phases**|Pranay Gorantla, Abhinav Prem, Nathanan Tantivasadakarn, Dominic J. Williamson|[2509.19440](https://arxiv.org/abs/2509.19440)|null|

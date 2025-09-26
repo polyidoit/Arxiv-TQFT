@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-25, **Where Non-Invertible Symmetries End: Twist Defects for Electromagnetic Duality**, Shu-Heng Shao, Siwei Zhong, Paper: [https://arxiv.org/abs/2509.21279](https://arxiv.org/abs/2509.21279), 37 pages plus appendices, 11 figures
+- 2025-09-25, **Toric surface codes and the periodicity of polytopes**, Amelia Gibbs, Eliza Hogan, Kelly Jabbusch, Jenna Plute, Nicholas Toloczko, Paper: [https://arxiv.org/abs/2509.21178](https://arxiv.org/abs/2509.21178)
+- 2025-09-25, **Two Decades of Probabilistic Approach to Liouville Conformal Field Theory**, Rémi Rhodes, Vincent Vargas, Paper: [https://arxiv.org/abs/2509.21053](https://arxiv.org/abs/2509.21053), Proceedings of the ICM 2026
+- 2025-09-25, **Fundamental theorem of Poisson 3-Lie $(A,H)$ -Hopf modules**, Daowei Lu, Dingguo Wang, Paper: [https://arxiv.org/abs/2509.20670](https://arxiv.org/abs/2509.20670), arXiv admin note: substantial text overlap with arXiv:2509.08278
+- 2025-09-24, **Higher structure of non-invertible symmetries from Lagrangian descriptions**, Seolhwa Kim, Orr Sela, Zhengdi Sun, Paper: [https://arxiv.org/abs/2509.20540](https://arxiv.org/abs/2509.20540), 58 pages + appendices
+- 2025-09-24, **Non-renormalisation of coupling constants from categorical symmetries in two dimensions**, Guillermo Arias-Tamargo, Chris Hull, Maxwell L. Velásquez Cotini Hutt, Paper: [https://arxiv.org/abs/2509.20441](https://arxiv.org/abs/2509.20441), 5 pages
+- 2025-09-24, **The degrees of freedom of multiway junctions in three dimensional gravity**, Avik Chakraborty, Tanay Kibe, Martín Molina, Ayan Mukhopadhyay, Giuseppe Policastro, Paper: [https://arxiv.org/abs/2509.20437](https://arxiv.org/abs/2509.20437), 8 pages, 2 figures
+- 2025-09-24, **Multicriticality between Purely Gapless SPT Phases with Unitary Symmetry**, Saranesh Prembabu, Ruben Verresen, Paper: [https://arxiv.org/abs/2509.20431](https://arxiv.org/abs/2509.20431), 17 pages + 5 page appendix, 7 figures
 - 2025-09-24, **Breakdown of symmetry constraint in Floquet topological superconductor**, Ming-Jian Gao, Jun-Hong An, Paper: [https://arxiv.org/abs/2509.19992](https://arxiv.org/abs/2509.19992)
 - 2025-09-23, **Relative solidity results and their applications to computations of some II $_1$ factor invariants**, Juan Felipe Ariza Mejia, Dulanji Nikethani Amaraweera, Ionut Chifan, Krishnendu Khan, Paper: [https://arxiv.org/abs/2509.19481](https://arxiv.org/abs/2509.19481), 45 Pages
 - 2025-09-23, **There and Back Again: A Gauging Nexus between Topological and Fracton Phases**, Pranay Gorantla, Abhinav Prem, Nathanan Tantivasadakarn, Dominic J. Williamson, Paper: [https://arxiv.org/abs/2509.19440](https://arxiv.org/abs/2509.19440), 29 pages, 2 figures, 2 tables
