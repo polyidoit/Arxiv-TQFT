@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**The Derived Auslander--Iyama Correspondence II: Bimodule Calabi--Yau Structures**|Gustavo Jasso, Fernando Muro|[2509.22625](https://arxiv.org/abs/2509.22625)|null|
+|**2025-09-26**|**Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement**|Hao Chen, Lin Liu, Yu Guang Wang|[2509.22553](https://arxiv.org/abs/2509.22553)|null|
+|**2025-09-26**|**EFT of Non-Markovian $U(1)_X$ Breaking: Dark Matter and Gravitational Waves**|Arnab Chaudhuri|[2509.22293](https://arxiv.org/abs/2509.22293)|null|
+|**2025-09-26**|**Holographic defect CFTs with Dirichlet end-of-the-world branes**|Haruki Nakayama, Tatsuma Nishioka|[2509.22270](https://arxiv.org/abs/2509.22270)|null|
+|**2025-09-26**|**Scallop Theorem for Swimming in Anisotropic Fluids**|Mojtaba Rajabi, Enej Caf, Qi Xing Zhang, Stephen A. Crane, Miha Ravnik, Gareth P. Alexander, Žiga Kos, Kathleen J. Stebe|[2509.22249](https://arxiv.org/abs/2509.22249)|null|
+|**2025-09-26**|**From gauging to duality in one-dimensional quantum lattice models**|Bram Vancraeynest-De Cuiper, José Garre-Rubio, Frank Verstraete, Kevin Vervoort, Dominic J. Williamson, Laurens Lootens|[2509.22051](https://arxiv.org/abs/2509.22051)|null|
+|**2025-09-26**|**Multiradial SLE with spiral: resampling property and boundary perturbation**|Chongzhi Huang, Eveliina Peltola, Hao Wu|[2509.22045](https://arxiv.org/abs/2509.22045)|null|
+|**2025-09-25**|**An $L$ -function Approach to Two-Dimensional Conformal Field Theory**|Eric Perlmutter|[2509.21672](https://arxiv.org/abs/2509.21672)|null|
 |**2025-09-25**|**Where Non-Invertible Symmetries End: Twist Defects for Electromagnetic Duality**|Shu-Heng Shao, Siwei Zhong|[2509.21279](https://arxiv.org/abs/2509.21279)|null|
 |**2025-09-25**|**Toric surface codes and the periodicity of polytopes**|Amelia Gibbs, Eliza Hogan, Kelly Jabbusch, Jenna Plute, Nicholas Toloczko|[2509.21178](https://arxiv.org/abs/2509.21178)|null|
 |**2025-09-25**|**Two Decades of Probabilistic Approach to Liouville Conformal Field Theory**|Rémi Rhodes, Vincent Vargas|[2509.21053](https://arxiv.org/abs/2509.21053)|null|
