@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-29**|**TopoSPAM: Topology grounded Simulation Platform for morphogenesis and biological Active Matter**|Abhinav Singh, Abhijeet Krishna, Aboutaleb Amiri, Anne Materne, Pietro Incardona, Charlie Duclut, Carlos M. Duque, Alicja Szałapak, Mohammadreza Bahadorian, Sachin Krishnan Thekke Veettil, Philipp H. Suhrcke, Frank Jülicher, Ivo F. Sbalzarini, Carl D. Modes|[2509.24905](https://arxiv.org/abs/2509.24905)|null|
+|**2025-09-29**|**Dynamical Prevention of Topological Defect Formation**|Junseok Lee, Kai Murai, Kazunori Nakayama, Fuminobu Takahashi|[2509.24811](https://arxiv.org/abs/2509.24811)|null|
+|**2025-09-29**|**Detection of magnetic monopole in image potential states of topological insulators**|Yang Zhan, Huaiyu Zhang, Yu Wang, Baojie Feng, Peng Cheng, Lan Chen|[2509.24648](https://arxiv.org/abs/2509.24648)|null|
+|**2025-09-29**|**Information Loss and Cost in Symmetry Breaking**|Javier Molina-Vilaplana, Germán Sierra, H. C. Zhang|[2509.24625](https://arxiv.org/abs/2509.24625)|null|
+|**2025-09-29**|**Symplectic Singularities, Color Confinement, and the Quantum Dirac Sheaf**|Sergio Cecotti|[2509.24605](https://arxiv.org/abs/2509.24605)|null|
+|**2025-09-29**|**Phase spaces in field theory: Reduction vs. resolution**|Aldo Riello, Michele Schiavina|[2509.24450](https://arxiv.org/abs/2509.24450)|null|
+|**2025-09-29**|**Strong-to-weak spontaneous symmetry breaking of higher-form non-invertible symmetries in Kitaev's quantum double model**|Zijian Song, Jian-Hao Zhang|[2509.24179](https://arxiv.org/abs/2509.24179)|null|
+|**2025-09-28**|**Superconductivity Proximate to Non-Abelian Fractional Spin Hall Insulator in Twisted Bilayer MoTe $_2$**|Cheong-Eung Ahn, Gyeoul Lee, Donghae Seo, Youngwook Kim, Gil Young Cho|[2509.23904](https://arxiv.org/abs/2509.23904)|null|
+|**2025-09-28**|**Integral Identities from Symmetry Breaking of Conformal Defects**|Ziwen Kong|[2509.23797](https://arxiv.org/abs/2509.23797)|null|
+|**2025-09-28**|**Haag Duality for 2D Quantum Spin Systems**|Yoshiko Ogata, David Pérez-García, Alberto Ruiz-de-Alarcón|[2509.23734](https://arxiv.org/abs/2509.23734)|null|
 |**2025-09-26**|**The Derived Auslander--Iyama Correspondence II: Bimodule Calabi--Yau Structures**|Gustavo Jasso, Fernando Muro|[2509.22625](https://arxiv.org/abs/2509.22625)|null|
 |**2025-09-26**|**Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement**|Hao Chen, Lin Liu, Yu Guang Wang|[2509.22553](https://arxiv.org/abs/2509.22553)|null|
 |**2025-09-26**|**EFT of Non-Markovian $U(1)_X$ Breaking: Dark Matter and Gravitational Waves**|Arnab Chaudhuri|[2509.22293](https://arxiv.org/abs/2509.22293)|null|

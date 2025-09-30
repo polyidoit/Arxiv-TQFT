@@ -9,6 +9,17 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-29, **TopoSPAM: Topology grounded Simulation Platform for morphogenesis and biological Active Matter**, Abhinav Singh, Abhijeet Krishna, Aboutaleb Amiri, Anne Materne, Pietro Incardona, Charlie Duclut, Carlos M. Duque, Alicja Szałapak, Mohammadreza Bahadorian, Sachin Krishnan Thekke Veettil, Philipp H. Suhrcke, Frank Jülicher, Ivo F. Sbalzarini, Carl D. Modes, Paper: [https://arxiv.org/abs/2509.24905](https://arxiv.org/abs/2509.24905), 10 pages, 4 figures
+- 2025-09-29, **Dynamical Prevention of Topological Defect Formation**, Junseok Lee, Kai Murai, Kazunori Nakayama, Fuminobu Takahashi, Paper: [https://arxiv.org/abs/2509.24811](https://arxiv.org/abs/2509.24811), 27 pages, 10 figures, comments welcome
+- 2025-09-29, **Detection of magnetic monopole in image potential states of topological insulators**, Yang Zhan, Huaiyu Zhang, Yu Wang, Baojie Feng, Peng Cheng, Lan Chen, Paper: [https://arxiv.org/abs/2509.24648](https://arxiv.org/abs/2509.24648)
+- 2025-09-29, **Information Loss and Cost in Symmetry Breaking**, Javier Molina-Vilaplana, Germán Sierra, H. C. Zhang, Paper: [https://arxiv.org/abs/2509.24625](https://arxiv.org/abs/2509.24625), 22 pages, 1 appendix, 6 figures
+- 2025-09-29, **Symplectic Singularities, Color Confinement, and the Quantum Dirac Sheaf**, Sergio Cecotti, Paper: [https://arxiv.org/abs/2509.24605](https://arxiv.org/abs/2509.24605), 77 pages
+- 2025-09-29, **Phase spaces in field theory: Reduction vs. resolution**, Aldo Riello, Michele Schiavina, Paper: [https://arxiv.org/abs/2509.24450](https://arxiv.org/abs/2509.24450), 52 pages, 1 figure
+- 2025-09-29, **Strong-to-weak spontaneous symmetry breaking of higher-form non-invertible symmetries in Kitaev's quantum double model**, Zijian Song, Jian-Hao Zhang, Paper: [https://arxiv.org/abs/2509.24179](https://arxiv.org/abs/2509.24179), 14 pages, 3 figures, 2 tables
+- 2025-09-28, **Superconductivity Proximate to Non-Abelian Fractional Spin Hall Insulator in Twisted Bilayer MoTe $_2$**, Cheong-Eung Ahn, Gyeoul Lee, Donghae Seo, Youngwook Kim, Gil Young Cho, Paper: [https://arxiv.org/abs/2509.23904](https://arxiv.org/abs/2509.23904), 6 pages, 3 figures
+- 2025-09-28, **Integral Identities from Symmetry Breaking of Conformal Defects**, Ziwen Kong, Paper: [https://arxiv.org/abs/2509.23797](https://arxiv.org/abs/2509.23797), 12 pages, contribution to XVI International Workshop Lie Theory and
+  Its Applications in Physics
+- 2025-09-28, **Haag Duality for 2D Quantum Spin Systems**, Yoshiko Ogata, David Pérez-García, Alberto Ruiz-de-Alarcón, Paper: [https://arxiv.org/abs/2509.23734](https://arxiv.org/abs/2509.23734), 70 pages, 166 figures
 - 2025-09-26, **The Derived Auslander--Iyama Correspondence II: Bimodule Calabi--Yau Structures**, Gustavo Jasso, Fernando Muro, Paper: [https://arxiv.org/abs/2509.22625](https://arxiv.org/abs/2509.22625), 91 pages
 - 2025-09-26, **Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement**, Hao Chen, Lin Liu, Yu Guang Wang, Paper: [https://arxiv.org/abs/2509.22553](https://arxiv.org/abs/2509.22553)
 - 2025-09-26, **EFT of Non-Markovian $U(1)_X$ Breaking: Dark Matter and Gravitational Waves**, Arnab Chaudhuri, Paper: [https://arxiv.org/abs/2509.22293](https://arxiv.org/abs/2509.22293), 15 pages, 7 figures
