@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-09-30, **Long-range minimal models**, Connor Behan, Dario Benedetti, Fanny Eustachon, Edoardo Lauria, Paper: [https://arxiv.org/abs/2509.26372](https://arxiv.org/abs/2509.26372), 66 pages, 8 figures, 9 tables
+- 2025-09-30, **Abelian 3D TQFT gravity, ensemble holography and stabilizer states**, Nikolaos Angelinos, Paper: [https://arxiv.org/abs/2509.26052](https://arxiv.org/abs/2509.26052)
+- 2025-09-29, **Operator algebras over the p-adic integers -- II**, Alcides Buss, Luiz Felipe Garcia, Devarshi Mukherjee, Paper: [https://arxiv.org/abs/2509.25597](https://arxiv.org/abs/2509.25597), 29 pages
+- 2025-09-29, **Quantum Dynamics of Scalar Particles in a Spinning Cosmic String Background with Topological Defects: A Feshbach-Villars Formalism Perspective**, Sarra Garah, Abdelmalek Boumali, Paper: [https://arxiv.org/abs/2509.25526](https://arxiv.org/abs/2509.25526), Our paper is accepted for publication in the EPJC Journal
+- 2025-09-29, **An analytic approach for holographic entanglement entropy at (quantum) criticality**, Parul Jain, Matti Järvinen, Paper: [https://arxiv.org/abs/2509.25360](https://arxiv.org/abs/2509.25360), 45 pages, 9 figures
+- 2025-09-29, **Renormalization of Chern-Simons Wilson Loops via Flux Quantization in Cohomotopy**, Hisham Sati, Urs Schreiber, Paper: [https://arxiv.org/abs/2509.25336](https://arxiv.org/abs/2509.25336), 33 pages, 11 figures
 - 2025-09-29, **TopoSPAM: Topology grounded Simulation Platform for morphogenesis and biological Active Matter**, Abhinav Singh, Abhijeet Krishna, Aboutaleb Amiri, Anne Materne, Pietro Incardona, Charlie Duclut, Carlos M. Duque, Alicja Szałapak, Mohammadreza Bahadorian, Sachin Krishnan Thekke Veettil, Philipp H. Suhrcke, Frank Jülicher, Ivo F. Sbalzarini, Carl D. Modes, Paper: [https://arxiv.org/abs/2509.24905](https://arxiv.org/abs/2509.24905), 10 pages, 4 figures
 - 2025-09-29, **Dynamical Prevention of Topological Defect Formation**, Junseok Lee, Kai Murai, Kazunori Nakayama, Fuminobu Takahashi, Paper: [https://arxiv.org/abs/2509.24811](https://arxiv.org/abs/2509.24811), 27 pages, 10 figures, comments welcome
 - 2025-09-29, **Detection of magnetic monopole in image potential states of topological insulators**, Yang Zhan, Huaiyu Zhang, Yu Wang, Baojie Feng, Peng Cheng, Lan Chen, Paper: [https://arxiv.org/abs/2509.24648](https://arxiv.org/abs/2509.24648)
