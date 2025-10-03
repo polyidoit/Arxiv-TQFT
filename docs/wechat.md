@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-02, **Lower bounds on the complexity of preparing mixed states**, Max McGinley, Samuel J. Garratt, Paper: [https://arxiv.org/abs/2510.02275](https://arxiv.org/abs/2510.02275), 8 + 8 pages, 2 figures
+- 2025-10-02, **A spectrum of p-atic symmetries and defects in confluent epithelia**, Lea Happel, Griseldis Oberschelp, Anneli Richter, Gwenda Roselene Rode, Valeriia Grudtsyna, Amin Doostmohammadi, Axel Voigt, Paper: [https://arxiv.org/abs/2510.02160](https://arxiv.org/abs/2510.02160)
+- 2025-10-02, **No-Go Theorem for Rotating Global Monopoles**, Yi Lu, Xiao-Yin Pan, Meng-Yun Lai, Qing-hai Wang, Paper: [https://arxiv.org/abs/2510.01859](https://arxiv.org/abs/2510.01859), 7 pages
+- 2025-10-02, **List decoding of evaluation codes**, Silouanos Brazitikos, Theodoulos Garefalakis, Eleni Tzanaki, Paper: [https://arxiv.org/abs/2510.01811](https://arxiv.org/abs/2510.01811)
+- 2025-10-02, **The ribbon category of representations of a crossed module**, Ony Aubril, Paper: [https://arxiv.org/abs/2510.01809](https://arxiv.org/abs/2510.01809), 15 pages, suggestions are welcome
+- 2025-10-02, **Entanglement entropy between tangent balls in CFT $_D$**, Jiankun Li, Li Song, Paper: [https://arxiv.org/abs/2510.01655](https://arxiv.org/abs/2510.01655)
+- 2025-10-02, **Stringy algebras, stretched horizons, and quantum-connected wormholes**, Aidan Herderschee, Jonah Kudler-Flam, Paper: [https://arxiv.org/abs/2510.01556](https://arxiv.org/abs/2510.01556)
+- 2025-10-01, **Even-denominator fractional quantum Hall states with spontaneously broken rotational symmetry**, Chengyu Wang, A. Gupta, S. K. Singh, C. T. Tai, L. N. Pfeiffer, K. W. Baldwin, R. Winkler, M. Shayegan, Paper: [https://arxiv.org/abs/2510.01482](https://arxiv.org/abs/2510.01482), Accepted by Reports on Progress in Physics 10+8 pages, 5+10 figures
+- 2025-10-01, **On the two-sided Guionnet-Jones-Shlyakhtenko construction at level three**, R Jayakumar, Paper: [https://arxiv.org/abs/2510.00747](https://arxiv.org/abs/2510.00747), 12 pages, 12 figures
+- 2025-09-30, **Defect mediated quantum melting of charge ordered insulators**, Abijith Krishnan, Ajesh Kumar, T. Senthil, Paper: [https://arxiv.org/abs/2510.00099](https://arxiv.org/abs/2510.00099), 21 pages, 5 figures
 - 2025-09-30, **Long-range minimal models**, Connor Behan, Dario Benedetti, Fanny Eustachon, Edoardo Lauria, Paper: [https://arxiv.org/abs/2509.26372](https://arxiv.org/abs/2509.26372), 66 pages, 8 figures, 9 tables
 - 2025-09-30, **Abelian 3D TQFT gravity, ensemble holography and stabilizer states**, Nikolaos Angelinos, Paper: [https://arxiv.org/abs/2509.26052](https://arxiv.org/abs/2509.26052)
 - 2025-09-29, **Operator algebras over the p-adic integers -- II**, Alcides Buss, Luiz Felipe Garcia, Devarshi Mukherjee, Paper: [https://arxiv.org/abs/2509.25597](https://arxiv.org/abs/2509.25597), 29 pages

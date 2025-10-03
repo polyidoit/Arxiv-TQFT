@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**Lower bounds on the complexity of preparing mixed states**|Max McGinley, Samuel J. Garratt|[2510.02275](https://arxiv.org/abs/2510.02275)|null|
+|**2025-10-02**|**A spectrum of p-atic symmetries and defects in confluent epithelia**|Lea Happel, Griseldis Oberschelp, Anneli Richter, Gwenda Roselene Rode, Valeriia Grudtsyna, Amin Doostmohammadi, Axel Voigt|[2510.02160](https://arxiv.org/abs/2510.02160)|null|
+|**2025-10-02**|**No-Go Theorem for Rotating Global Monopoles**|Yi Lu, Xiao-Yin Pan, Meng-Yun Lai, Qing-hai Wang|[2510.01859](https://arxiv.org/abs/2510.01859)|null|
+|**2025-10-02**|**List decoding of evaluation codes**|Silouanos Brazitikos, Theodoulos Garefalakis, Eleni Tzanaki|[2510.01811](https://arxiv.org/abs/2510.01811)|null|
+|**2025-10-02**|**The ribbon category of representations of a crossed module**|Ony Aubril|[2510.01809](https://arxiv.org/abs/2510.01809)|null|
+|**2025-10-02**|**Entanglement entropy between tangent balls in CFT $_D$**|Jiankun Li, Li Song|[2510.01655](https://arxiv.org/abs/2510.01655)|null|
+|**2025-10-02**|**Stringy algebras, stretched horizons, and quantum-connected wormholes**|Aidan Herderschee, Jonah Kudler-Flam|[2510.01556](https://arxiv.org/abs/2510.01556)|null|
+|**2025-10-01**|**Even-denominator fractional quantum Hall states with spontaneously broken rotational symmetry**|Chengyu Wang, A. Gupta, S. K. Singh, C. T. Tai, L. N. Pfeiffer, K. W. Baldwin, R. Winkler, M. Shayegan|[2510.01482](https://arxiv.org/abs/2510.01482)|null|
+|**2025-10-01**|**On the two-sided Guionnet-Jones-Shlyakhtenko construction at level three**|R Jayakumar|[2510.00747](https://arxiv.org/abs/2510.00747)|null|
+|**2025-09-30**|**Defect mediated quantum melting of charge ordered insulators**|Abijith Krishnan, Ajesh Kumar, T. Senthil|[2510.00099](https://arxiv.org/abs/2510.00099)|null|
 |**2025-09-30**|**Long-range minimal models**|Connor Behan, Dario Benedetti, Fanny Eustachon, Edoardo Lauria|[2509.26372](https://arxiv.org/abs/2509.26372)|null|
 |**2025-09-30**|**Abelian 3D TQFT gravity, ensemble holography and stabilizer states**|Nikolaos Angelinos|[2509.26052](https://arxiv.org/abs/2509.26052)|null|
 |**2025-09-29**|**Operator algebras over the p-adic integers -- II**|Alcides Buss, Luiz Felipe Garcia, Devarshi Mukherjee|[2509.25597](https://arxiv.org/abs/2509.25597)|null|
