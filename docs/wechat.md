@@ -1,4 +1,4 @@
-> Automatically updated on 2025.10.02
+> Automatically updated on 2025.10.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 - 2025-09-29, **Quantum Dynamics of Scalar Particles in a Spinning Cosmic String Background with Topological Defects: A Feshbach-Villars Formalism Perspective**, Sarra Garah, Abdelmalek Boumali, Paper: [https://arxiv.org/abs/2509.25526](https://arxiv.org/abs/2509.25526), Our paper is accepted for publication in the EPJC Journal
 - 2025-09-29, **An analytic approach for holographic entanglement entropy at (quantum) criticality**, Parul Jain, Matti Järvinen, Paper: [https://arxiv.org/abs/2509.25360](https://arxiv.org/abs/2509.25360), 45 pages, 9 figures
 - 2025-09-29, **Renormalization of Chern-Simons Wilson Loops via Flux Quantization in Cohomotopy**, Hisham Sati, Urs Schreiber, Paper: [https://arxiv.org/abs/2509.25336](https://arxiv.org/abs/2509.25336), 33 pages, 11 figures
-- 2025-09-29, **TopoSPAM: Topology grounded Simulation Platform for morphogenesis and biological Active Matter**, Abhinav Singh, Abhijeet Krishna, Aboutaleb Amiri, Anne Materne, Pietro Incardona, Charlie Duclut, Carlos M. Duque, Alicja Szałapak, Mohammadreza Bahadorian, Sachin Krishnan Thekke Veettil, Philipp H. Suhrcke, Frank Jülicher, Ivo F. Sbalzarini, Carl D. Modes, Paper: [https://arxiv.org/abs/2509.24905](https://arxiv.org/abs/2509.24905), 10 pages, 4 figures
+- 2025-10-02, **TopoSPAM: Topology grounded Simulation Platform for morphogenesis and biological Active Matter**, Abhinav Singh, Abhijeet Krishna, Aboutaleb Amiri, Anne Materne, Pietro Incardona, Charlie Duclut, Carlos M. Duque, Alicja Szałapak, Mohammadreza Bahadorian, Sachin Krishnan Thekke Veettil, Philipp H. Suhrcke, Frank Jülicher, Ivo F. Sbalzarini, Carl D. Modes, Paper: [https://arxiv.org/abs/2509.24905](https://arxiv.org/abs/2509.24905), 10 pages, 4 figures
 - 2025-09-29, **Dynamical Prevention of Topological Defect Formation**, Junseok Lee, Kai Murai, Kazunori Nakayama, Fuminobu Takahashi, Paper: [https://arxiv.org/abs/2509.24811](https://arxiv.org/abs/2509.24811), 27 pages, 10 figures, comments welcome
 - 2025-09-29, **Detection of magnetic monopole in image potential states of topological insulators**, Yang Zhan, Huaiyu Zhang, Yu Wang, Baojie Feng, Peng Cheng, Lan Chen, Paper: [https://arxiv.org/abs/2509.24648](https://arxiv.org/abs/2509.24648)
 - 2025-09-29, **Information Loss and Cost in Symmetry Breaking**, Javier Molina-Vilaplana, Germán Sierra, H. C. Zhang, Paper: [https://arxiv.org/abs/2509.24625](https://arxiv.org/abs/2509.24625), 22 pages, 1 appendix, 6 figures
@@ -291,5 +291,5 @@
   welcome
 - 2025-08-05, **A New Action for Superstring Field Theory**, Chris Hull, Paper: [https://arxiv.org/abs/2508.03902](https://arxiv.org/abs/2508.03902), 23 Pages
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 

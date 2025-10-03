@@ -1,4 +1,4 @@
-> Automatically updated on 2025.10.02
+> Automatically updated on 2025.10.03
 
 ## TQFT, Topological order, Generalized symmetry
 
@@ -8,7 +8,7 @@
 |**2025-09-29**|**Quantum Dynamics of Scalar Particles in a Spinning Cosmic String Background with Topological Defects: A Feshbach-Villars Formalism Perspective**|Sarra Garah, Abdelmalek Boumali|[2509.25526](https://arxiv.org/abs/2509.25526)|null|
 |**2025-09-29**|**An analytic approach for holographic entanglement entropy at (quantum) criticality**|Parul Jain, Matti Järvinen|[2509.25360](https://arxiv.org/abs/2509.25360)|null|
 |**2025-09-29**|**Renormalization of Chern-Simons Wilson Loops via Flux Quantization in Cohomotopy**|Hisham Sati, Urs Schreiber|[2509.25336](https://arxiv.org/abs/2509.25336)|null|
-|**2025-09-29**|**TopoSPAM: Topology grounded Simulation Platform for morphogenesis and biological Active Matter**|Abhinav Singh, Abhijeet Krishna, Aboutaleb Amiri, Anne Materne, Pietro Incardona, Charlie Duclut, Carlos M. Duque, Alicja Szałapak, Mohammadreza Bahadorian, Sachin Krishnan Thekke Veettil, Philipp H. Suhrcke, Frank Jülicher, Ivo F. Sbalzarini, Carl D. Modes|[2509.24905](https://arxiv.org/abs/2509.24905)|null|
+|**2025-10-02**|**TopoSPAM: Topology grounded Simulation Platform for morphogenesis and biological Active Matter**|Abhinav Singh, Abhijeet Krishna, Aboutaleb Amiri, Anne Materne, Pietro Incardona, Charlie Duclut, Carlos M. Duque, Alicja Szałapak, Mohammadreza Bahadorian, Sachin Krishnan Thekke Veettil, Philipp H. Suhrcke, Frank Jülicher, Ivo F. Sbalzarini, Carl D. Modes|[2509.24905](https://arxiv.org/abs/2509.24905)|null|
 |**2025-09-29**|**Dynamical Prevention of Topological Defect Formation**|Junseok Lee, Kai Murai, Kazunori Nakayama, Fuminobu Takahashi|[2509.24811](https://arxiv.org/abs/2509.24811)|null|
 |**2025-09-29**|**Detection of magnetic monopole in image potential states of topological insulators**|Yang Zhan, Huaiyu Zhang, Yu Wang, Baojie Feng, Peng Cheng, Lan Chen|[2509.24648](https://arxiv.org/abs/2509.24648)|null|
 |**2025-09-29**|**Information Loss and Cost in Symmetry Breaking**|Javier Molina-Vilaplana, Germán Sierra, H. C. Zhang|[2509.24625](https://arxiv.org/abs/2509.24625)|null|
