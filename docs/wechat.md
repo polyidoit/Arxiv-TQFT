@@ -9,6 +9,17 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-03, **Grand-Canonical Symmetric Orbifold Theories**, Lior Benizri, Paper: [https://arxiv.org/abs/2510.03132](https://arxiv.org/abs/2510.03132), 7 pages
+- 2025-10-03, **Pointed Hopf algebras revisited, with a view from tensor categories**, Iván Angiono, Paper: [https://arxiv.org/abs/2510.03124](https://arxiv.org/abs/2510.03124), 24 pages. This is a contribution to the Proceedings of the ICM 2026
+- 2025-10-03, **Modified logarithmic Sobolev inequalities for CSS codes**, Sebastian Stengele, Ángela Capel, Li Gao, Angelo Lucia, David Pérez-García, Antonio Pérez-Hernández, Cambyse Rouzé, Simone Warzel, Paper: [https://arxiv.org/abs/2510.03090](https://arxiv.org/abs/2510.03090), 48 pages, 7 figures
+- 2025-10-03, **Fermionic optimal transport**, Rocco Duvenhage, Dylan van Zyl, Paola Zurlo, Paper: [https://arxiv.org/abs/2510.02888](https://arxiv.org/abs/2510.02888), 55 pages
+- 2025-10-03, **Inverse Monoid Topological Quantum Field Theories and Open-Closed Grand Canonical Symmetric Orbifolds**, Jan Troost, Paper: [https://arxiv.org/abs/2510.02782](https://arxiv.org/abs/2510.02782), 28 pages
+- 2025-10-03, **Simplicial Perspectives on (Pseudo) Effect Algebras**, Dominik Lachman, Paper: [https://arxiv.org/abs/2510.02748](https://arxiv.org/abs/2510.02748)
+- 2025-10-02, **Computational access to lattice and long-wavelength physics in quantum mutual information**, Patrick M. Lenggenhager, M. Michael Denner, Doruk Efe Gökmen, Maciej Koch-Janusz, Titus Neupert, Mark H. Fischer, Paper: [https://arxiv.org/abs/2510.02466](https://arxiv.org/abs/2510.02466), 20 pages (single-column, 8 figures, 1 table) + appendices +
+  references; Submission to SciPost
+- 2025-10-02, **Detecting quantum spin liquid on Kitaev model through a superconducting junction**, A. R. Moura, L. V. Santos, Paper: [https://arxiv.org/abs/2510.02460](https://arxiv.org/abs/2510.02460), 12 pages, 6 figures
+- 2025-10-02, **Modular theory and symmetry resolution in hyperfinite von Neumann algebras**, Giuseppe Di Giulio, Moritz Dorband, Johanna Erdmenger, Henri Scheppach, Paper: [https://arxiv.org/abs/2510.02441](https://arxiv.org/abs/2510.02441), 44 pages, 2 figures
+- 2025-10-02, **Utility-Scale Quantum State Preparation: Classical Training using Pauli Path Simulation**, Cheng-Ju Lin, Hrant Gharibyan, Vincent P. Su, Paper: [https://arxiv.org/abs/2510.02428](https://arxiv.org/abs/2510.02428), 22 pages, 16 figures
 - 2025-10-02, **Lower bounds on the complexity of preparing mixed states**, Max McGinley, Samuel J. Garratt, Paper: [https://arxiv.org/abs/2510.02275](https://arxiv.org/abs/2510.02275), 8 + 8 pages, 2 figures
 - 2025-10-02, **A spectrum of p-atic symmetries and defects in confluent epithelia**, Lea Happel, Griseldis Oberschelp, Anneli Richter, Gwenda Roselene Rode, Valeriia Grudtsyna, Amin Doostmohammadi, Axel Voigt, Paper: [https://arxiv.org/abs/2510.02160](https://arxiv.org/abs/2510.02160)
 - 2025-10-02, **No-Go Theorem for Rotating Global Monopoles**, Yi Lu, Xiao-Yin Pan, Meng-Yun Lai, Qing-hai Wang, Paper: [https://arxiv.org/abs/2510.01859](https://arxiv.org/abs/2510.01859), 7 pages
