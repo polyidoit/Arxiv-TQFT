@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Quantum Filtering at Finite Temperature**|John Gough|[2510.04967](https://arxiv.org/abs/2510.04967)|null|
+|**2025-10-06**|**On the universal content of the proper time flow in scalar and Yang-Mills theories**|Gabriele Giacometti, Daniele Rizzo, Dario Zappala|[2510.04896](https://arxiv.org/abs/2510.04896)|null|
+|**2025-10-06**|**Free Independence is not Definable**|William Boulanger, Jakub Curda, Emma Harvey, Yizhi Li, Jennifer Pi|[2510.04836](https://arxiv.org/abs/2510.04836)|null|
+|**2025-10-06**|**Uniqueness Result For Semi-linear Wave Equations With Sources**|Dong Qiu, Xiang Xu, Yeqiong Ye, Ting Zhou|[2510.04810](https://arxiv.org/abs/2510.04810)|null|
+|**2025-10-06**|**Fast surgery for quantum LDPC codes**|Nouédyn Baspin, Lucas Berent, Lawrence Z. Cohen|[2510.04521](https://arxiv.org/abs/2510.04521)|null|
+|**2025-10-05**|**Braids and Beams: Exploring Fractional Statistics with Mesoscopic Anyon Colliders**|Bernd Rosenow, Bertrand I. Halperin|[2510.04319](https://arxiv.org/abs/2510.04319)|null|
+|**2025-10-05**|**Operator dependence and robustness of spacetime-localized response in a quantum critical spin chain**|Daichi Imagawa, Keiju Murata, Daisuke Yamamoto|[2510.04047](https://arxiv.org/abs/2510.04047)|null|
+|**2025-10-04**|**Higher-form entanglement asymmetry and topological order**|Amanda Gatto Lamas, Jacopo Gliozzi, Taylor L. Hughes|[2510.03967](https://arxiv.org/abs/2510.03967)|null|
+|**2025-10-04**|**Lattice Translation Modulated Symmetries and TFTs**|Ching-Yu Yao|[2510.03889](https://arxiv.org/abs/2510.03889)|null|
+|**2025-10-03**|**Holographic description of 4d Maxwell theories and their code-based ensembles**|Ahmed Barbar, Anatoly Dymarsky, Alfred Shapere|[2510.03392](https://arxiv.org/abs/2510.03392)|null|
 |**2025-10-03**|**Grand-Canonical Symmetric Orbifold Theories**|Lior Benizri|[2510.03132](https://arxiv.org/abs/2510.03132)|null|
 |**2025-10-03**|**Pointed Hopf algebras revisited, with a view from tensor categories**|Iván Angiono|[2510.03124](https://arxiv.org/abs/2510.03124)|null|
 |**2025-10-03**|**Modified logarithmic Sobolev inequalities for CSS codes**|Sebastian Stengele, Ángela Capel, Li Gao, Angelo Lucia, David Pérez-García, Antonio Pérez-Hernández, Cambyse Rouzé, Simone Warzel|[2510.03090](https://arxiv.org/abs/2510.03090)|null|
