@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-10-07**|**Equivariant Eilenberg-Watts theorems for locally compact quantum groups**|Joeri De Ro|[2510.06206](https://arxiv.org/abs/2510.06206)|null|
+|**2025-10-07**|**A possibility of describing a sequential gauge symmetry as a part of the dihedral flavor symmetry and its implications**|Jae Jun Kim|[2510.06155](https://arxiv.org/abs/2510.06155)|null|
+|**2025-10-07**|**Noise-induced decoherence-free zones for anyons**|Eric R. Bittner|[2510.06094](https://arxiv.org/abs/2510.06094)|null|
+|**2025-10-07**|**Identifying chiral topological order in microscopic spin models by modular commutator**|Avijit Maity, Aman Kumar, Vikram Tripathi|[2510.06086](https://arxiv.org/abs/2510.06086)|null|
+|**2025-10-07**|**Holographic Thermodynamics of Higher-Dimensional AdS Black Holes with CFT Rescaling**|Yahya Ladghami, Taoufik Ouali|[2510.05700](https://arxiv.org/abs/2510.05700)|null|
+|**2025-10-06**|**Exact Quench Dynamics from Thermal Pure Quantum States**|Hui-Huang Chen|[2510.05346](https://arxiv.org/abs/2510.05346)|null|
+|**2025-10-06**|**A Markov Chain Arising from the Hopf Square Map on a Non-cocommutative Quantum Group**|Donovan Snyder|[2510.05298](https://arxiv.org/abs/2510.05298)|null|
+|**2025-10-06**|**Dynamical quantum codes and logic gates on a lattice with sparse connectivity**|Dominic J. Williamson, Bence Hetényi|[2510.05225](https://arxiv.org/abs/2510.05225)|null|
+|**2025-10-06**|**Scalable accuracy gains from postselection in quantum error correcting codes**|Hongkun Chen, Daohong Xu, Grace M. Sommers, David A. Huse, Jeff D. Thompson, Sarang Gopalakrishnan|[2510.05222](https://arxiv.org/abs/2510.05222)|null|
+|**2025-10-06**|**Vestigial $d$-wave charge-$4e$ Superconductivity from Bidirectional Pair Density Waves**|Ethan Huecker, Yuxuan Wang|[2510.05209](https://arxiv.org/abs/2510.05209)|null|
 |**2025-10-06**|**Quantum Filtering at Finite Temperature**|John Gough|[2510.04967](https://arxiv.org/abs/2510.04967)|null|
 |**2025-10-06**|**On the universal content of the proper time flow in scalar and Yang-Mills theories**|Gabriele Giacometti, Daniele Rizzo, Dario Zappala|[2510.04896](https://arxiv.org/abs/2510.04896)|null|
 |**2025-10-06**|**Free Independence is not Definable**|William Boulanger, Jakub Curda, Emma Harvey, Yizhi Li, Jennifer Pi|[2510.04836](https://arxiv.org/abs/2510.04836)|null|

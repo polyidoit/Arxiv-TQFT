@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-07, **Equivariant Eilenberg-Watts theorems for locally compact quantum groups**, Joeri De Ro, Paper: [https://arxiv.org/abs/2510.06206](https://arxiv.org/abs/2510.06206), 36 pages. Comments are welcome!
+- 2025-10-07, **A possibility of describing a sequential gauge symmetry as a part of the dihedral flavor symmetry and its implications**, Jae Jun Kim, Paper: [https://arxiv.org/abs/2510.06155](https://arxiv.org/abs/2510.06155)
+- 2025-10-07, **Noise-induced decoherence-free zones for anyons**, Eric R. Bittner, Paper: [https://arxiv.org/abs/2510.06094](https://arxiv.org/abs/2510.06094)
+- 2025-10-07, **Identifying chiral topological order in microscopic spin models by modular commutator**, Avijit Maity, Aman Kumar, Vikram Tripathi, Paper: [https://arxiv.org/abs/2510.06086](https://arxiv.org/abs/2510.06086), 6 pages, 4 figures, 2 figures in Supplementary Material
+- 2025-10-07, **Holographic Thermodynamics of Higher-Dimensional AdS Black Holes with CFT Rescaling**, Yahya Ladghami, Taoufik Ouali, Paper: [https://arxiv.org/abs/2510.05700](https://arxiv.org/abs/2510.05700), 12 pages, 6 Fig
+- 2025-10-06, **Exact Quench Dynamics from Thermal Pure Quantum States**, Hui-Huang Chen, Paper: [https://arxiv.org/abs/2510.05346](https://arxiv.org/abs/2510.05346), 5+16 pages, 1 figure
+- 2025-10-06, **A Markov Chain Arising from the Hopf Square Map on a Non-cocommutative Quantum Group**, Donovan Snyder, Paper: [https://arxiv.org/abs/2510.05298](https://arxiv.org/abs/2510.05298), 15 pages. Submitted
+- 2025-10-06, **Dynamical quantum codes and logic gates on a lattice with sparse connectivity**, Dominic J. Williamson, Bence Hetényi, Paper: [https://arxiv.org/abs/2510.05225](https://arxiv.org/abs/2510.05225)
+- 2025-10-06, **Scalable accuracy gains from postselection in quantum error correcting codes**, Hongkun Chen, Daohong Xu, Grace M. Sommers, David A. Huse, Jeff D. Thompson, Sarang Gopalakrishnan, Paper: [https://arxiv.org/abs/2510.05222](https://arxiv.org/abs/2510.05222), 17 pages, 11 figures
+- 2025-10-06, **Vestigial $d$-wave charge-$4e$ Superconductivity from Bidirectional Pair Density Waves**, Ethan Huecker, Yuxuan Wang, Paper: [https://arxiv.org/abs/2510.05209](https://arxiv.org/abs/2510.05209)
 - 2025-10-06, **Quantum Filtering at Finite Temperature**, John Gough, Paper: [https://arxiv.org/abs/2510.04967](https://arxiv.org/abs/2510.04967), 9 pages, 1 picture
 - 2025-10-06, **On the universal content of the proper time flow in scalar and Yang-Mills theories**, Gabriele Giacometti, Daniele Rizzo, Dario Zappala, Paper: [https://arxiv.org/abs/2510.04896](https://arxiv.org/abs/2510.04896), 14 pages, 1 figure
 - 2025-10-06, **Free Independence is not Definable**, William Boulanger, Jakub Curda, Emma Harvey, Yizhi Li, Jennifer Pi, Paper: [https://arxiv.org/abs/2510.04836](https://arxiv.org/abs/2510.04836), 6 pages, comments welcome
