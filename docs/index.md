@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-10-08**|**Weak Hopf algebra actions as fusion category actions**|Alexander Betz|[2510.07114](https://arxiv.org/abs/2510.07114)|null|
+|**2025-10-08**|**Simulating Topological Order on Quantum Processors**|Adam Gammon-Smith, Michael Knap, Frank Pollmann|[2510.07023](https://arxiv.org/abs/2510.07023)|null|
+|**2025-10-08**|**Lectures on entanglement, von Neumann algebras, and emergence of spacetime**|Hong Liu|[2510.07017](https://arxiv.org/abs/2510.07017)|null|
+|**2025-10-08**|**Berezinskii-Kosterlitz-Thouless quantum transition in 2 dimensions**|M. C. Diamantini, C. A. Trugenberger, V. M. Vinokur|[2510.06682](https://arxiv.org/abs/2510.06682)|null|
+|**2025-10-08**|**Phase structure analysis of 2d lattice CP(1) model with $θ$ term using tensor renormalization group method**|Hayato Aizawa, Shinji Takeda, Yusuke Yoshimura|[2510.06624](https://arxiv.org/abs/2510.06624)|null|
+|**2025-10-08**|**Hyperinvariant Spin Network States -- An AdS/CFT Model from First Principles**|Fynn Otto, Refik Mansuroglu, Norbert Schuch, Otfried Gühne, Hanno Sahlmann|[2510.06602](https://arxiv.org/abs/2510.06602)|null|
+|**2025-10-07**|**Hopf bimodules for bialgebroids**|Sophie Chemla, Niels Kowalzig|[2510.06417](https://arxiv.org/abs/2510.06417)|null|
+|**2025-10-07**|**Perspectives and Questions: Toward an Expansive Agenda for Particle Physics**|Chris Quigg|[2510.06348](https://arxiv.org/abs/2510.06348)|null|
 |**2025-10-07**|**Equivariant Eilenberg-Watts theorems for locally compact quantum groups**|Joeri De Ro|[2510.06206](https://arxiv.org/abs/2510.06206)|null|
 |**2025-10-07**|**A possibility of describing a sequential gauge symmetry as a part of the dihedral flavor symmetry and its implications**|Jae Jun Kim|[2510.06155](https://arxiv.org/abs/2510.06155)|null|
 |**2025-10-07**|**Noise-induced decoherence-free zones for anyons**|Eric R. Bittner|[2510.06094](https://arxiv.org/abs/2510.06094)|null|

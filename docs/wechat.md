@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-08, **Weak Hopf algebra actions as fusion category actions**, Alexander Betz, Paper: [https://arxiv.org/abs/2510.07114](https://arxiv.org/abs/2510.07114), 19 pages, some figures
+- 2025-10-08, **Simulating Topological Order on Quantum Processors**, Adam Gammon-Smith, Michael Knap, Frank Pollmann, Paper: [https://arxiv.org/abs/2510.07023](https://arxiv.org/abs/2510.07023), 14 pages, 5 figures
+- 2025-10-08, **Lectures on entanglement, von Neumann algebras, and emergence of spacetime**, Hong Liu, Paper: [https://arxiv.org/abs/2510.07017](https://arxiv.org/abs/2510.07017), 119 pages, 36 figures, comments welcome
+- 2025-10-08, **Berezinskii-Kosterlitz-Thouless quantum transition in 2 dimensions**, M. C. Diamantini, C. A. Trugenberger, V. M. Vinokur, Paper: [https://arxiv.org/abs/2510.06682](https://arxiv.org/abs/2510.06682)
+- 2025-10-08, **Phase structure analysis of 2d lattice CP(1) model with $θ$ term using tensor renormalization group method**, Hayato Aizawa, Shinji Takeda, Yusuke Yoshimura, Paper: [https://arxiv.org/abs/2510.06624](https://arxiv.org/abs/2510.06624), 32 pages, 19 figures, 2 Tables
+- 2025-10-08, **Hyperinvariant Spin Network States -- An AdS/CFT Model from First Principles**, Fynn Otto, Refik Mansuroglu, Norbert Schuch, Otfried Gühne, Hanno Sahlmann, Paper: [https://arxiv.org/abs/2510.06602](https://arxiv.org/abs/2510.06602), 18 pages
+- 2025-10-07, **Hopf bimodules for bialgebroids**, Sophie Chemla, Niels Kowalzig, Paper: [https://arxiv.org/abs/2510.06417](https://arxiv.org/abs/2510.06417), 19 pages
+- 2025-10-07, **Perspectives and Questions: Toward an Expansive Agenda for Particle Physics**, Chris Quigg, Paper: [https://arxiv.org/abs/2510.06348](https://arxiv.org/abs/2510.06348), 16 pages, 1 figure
 - 2025-10-07, **Equivariant Eilenberg-Watts theorems for locally compact quantum groups**, Joeri De Ro, Paper: [https://arxiv.org/abs/2510.06206](https://arxiv.org/abs/2510.06206), 36 pages. Comments are welcome!
 - 2025-10-07, **A possibility of describing a sequential gauge symmetry as a part of the dihedral flavor symmetry and its implications**, Jae Jun Kim, Paper: [https://arxiv.org/abs/2510.06155](https://arxiv.org/abs/2510.06155)
 - 2025-10-07, **Noise-induced decoherence-free zones for anyons**, Eric R. Bittner, Paper: [https://arxiv.org/abs/2510.06094](https://arxiv.org/abs/2510.06094)
