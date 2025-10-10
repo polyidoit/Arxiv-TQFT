@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-09, **Single-Shot Universality in Quantum LDPC Codes via Code-Switching**, Shi Jie Samuel Tan, Yifan Hong, Ting-Chun Lin, Michael J. Gullans, Min-Hsiu Hsieh, Paper: [https://arxiv.org/abs/2510.08552](https://arxiv.org/abs/2510.08552)
+- 2025-10-09, **There and Back Again: Bulk-to-Defect via Ward Identities**, Jake Belton, Ziwen Kong, Paper: [https://arxiv.org/abs/2510.08519](https://arxiv.org/abs/2510.08519), 40 pages
+- 2025-10-09, **Fractional quantum Hall states under density decoherence**, Zijian Wang, Ruihua Fan, Tianle Wang, Samuel J. Garratt, Ehud Altman, Paper: [https://arxiv.org/abs/2510.08490](https://arxiv.org/abs/2510.08490), 19 pages + 8 pages appendix + 3 figures
+- 2025-10-09, **Code Swendsen-Wang Dynamics**, Dominik Hangleiter, Nathan Ju, Umesh Vazirani, Paper: [https://arxiv.org/abs/2510.08446](https://arxiv.org/abs/2510.08446), 30 pages
+- 2025-10-09, **Transversal gates for probabilistic implementation of multi-qubit Pauli rotations**, Nobuyuki Yoshioka, Alireza Seif, Andrew Cross, Ali Javadi-Abhari, Paper: [https://arxiv.org/abs/2510.08290](https://arxiv.org/abs/2510.08290), 37 pages, 11 figures
+- 2025-10-09, **Multimodal Topological Textures Arising from Coupled Structural Orders in SrTiO $_3$**, Fernando Gómez-Ortiz, Louis Bastogne, Philippe Ghosez, Paper: [https://arxiv.org/abs/2510.08186](https://arxiv.org/abs/2510.08186)
+- 2025-10-09, **Local active error correction from simulated confinement**, Ethan Lake, Paper: [https://arxiv.org/abs/2510.08056](https://arxiv.org/abs/2510.08056), 22+7 pages; 11 figs
+- 2025-10-09, **Second invariant cohomology of some finite-dimensional Hopf algebras**, Debashish Goswami, Kiran Maity, Paper: [https://arxiv.org/abs/2510.08050](https://arxiv.org/abs/2510.08050)
+- 2025-10-09, **CPT breaking in noncommutative Magueijo-Smolin model**, S. Mignemi, Paper: [https://arxiv.org/abs/2510.08024](https://arxiv.org/abs/2510.08024), 11 pages
+- 2025-10-09, **Hamiltonian Decoded Quantum Interferometry**, Alexander Schmidhuber, Jonathan Z. Lu, Noah Shutty, Stephen Jordan, Alexander Poremba, Yihui Quek, Paper: [https://arxiv.org/abs/2510.07913](https://arxiv.org/abs/2510.07913)
 - 2025-10-08, **Weak Hopf algebra actions as fusion category actions**, Alexander Betz, Paper: [https://arxiv.org/abs/2510.07114](https://arxiv.org/abs/2510.07114), 19 pages, some figures
 - 2025-10-08, **Simulating Topological Order on Quantum Processors**, Adam Gammon-Smith, Michael Knap, Frank Pollmann, Paper: [https://arxiv.org/abs/2510.07023](https://arxiv.org/abs/2510.07023), 14 pages, 5 figures
 - 2025-10-08, **Lectures on entanglement, von Neumann algebras, and emergence of spacetime**, Hong Liu, Paper: [https://arxiv.org/abs/2510.07017](https://arxiv.org/abs/2510.07017), 119 pages, 36 figures, comments welcome
