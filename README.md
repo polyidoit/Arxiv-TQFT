@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-10**|**$H$ -Equivariant Morita equivalences of Loewy-graded comodule algebras**|Jacob Van Grinsven|[2510.09540](https://arxiv.org/abs/2510.09540)|null|
+|**2025-10-10**|**Massive Gauge Theories from Consistency Conditions of Amplitudes**|Junmou Chen|[2510.09003](https://arxiv.org/abs/2510.09003)|null|
+|**2025-10-10**|**Relativistic Particle on Light-Front**|Junmou Chen|[2510.08983](https://arxiv.org/abs/2510.08983)|null|
+|**2025-10-09**|**The charge-singlet measurement toolbox**|Abhijit Chakraborty, Randy Lewis, Christine A. Muschik|[2510.08718](https://arxiv.org/abs/2510.08718)|null|
 |**2025-10-09**|**Single-Shot Universality in Quantum LDPC Codes via Code-Switching**|Shi Jie Samuel Tan, Yifan Hong, Ting-Chun Lin, Michael J. Gullans, Min-Hsiu Hsieh|[2510.08552](https://arxiv.org/abs/2510.08552)|null|
 |**2025-10-09**|**There and Back Again: Bulk-to-Defect via Ward Identities**|Jake Belton, Ziwen Kong|[2510.08519](https://arxiv.org/abs/2510.08519)|null|
 |**2025-10-09**|**Fractional quantum Hall states under density decoherence**|Zijian Wang, Ruihua Fan, Tianle Wang, Samuel J. Garratt, Ehud Altman|[2510.08490](https://arxiv.org/abs/2510.08490)|null|
