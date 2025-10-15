@@ -1,11 +1,11 @@
-> Automatically updated on 2025.10.14
+> Automatically updated on 2025.10.15
 
 ## TQFT, Topological order, Generalized symmetry
 
 |**2025-10-13**|**Gaussian beam interactions and inverse source problems for nonlinear wave equations**|Matti Lassas, Tony Liimatainen, Valter Pohjola, Teemu Tyni|[2510.11494](https://arxiv.org/abs/2510.11494)|null|
 |**2025-10-12**|**Error thresholds of toric codes with transversal logical gates**|Yichen Xu, Yiqing Zhou, James P. Sethna, Eun-Ah Kim|[2510.10835](https://arxiv.org/abs/2510.10835)|null|
 |**2025-10-12**|**Integrability in Three-Dimensional Gravity: Eigenfunction-Forced KdV Flows**|Hamed Adami, Anousheh Latifi|[2510.10519](https://arxiv.org/abs/2510.10519)|null|
-|**2025-10-10**|**Analytic results in conformal field theory**|Philine van Vliet, Emilio Trevisani, Ingo Runkel, Bernardo Zan, Yifei He, Xin Sun, Volker Schomerus|[2510.09868](https://arxiv.org/abs/2510.09868)|null|
+|**2025-10-14**|**Analytic results in conformal field theory**|Philine van Vliet, Emilio Trevisani, Ingo Runkel, Bernardo Zan, Yifei He, Xin Sun, Volker Schomerus|[2510.09868](https://arxiv.org/abs/2510.09868)|null|
 |**2025-10-10**|**Conformal Data for the O(3) Wilson-Fisher CFT from Fuzzy Sphere Realization of Quantum Rotor Model**|Arjun Dey, Loic Herviou, Christopher Mudry, Andreas Martin Läuchli|[2510.09755](https://arxiv.org/abs/2510.09755)|null|
 |**2025-10-10**|**$H$ -Equivariant Morita equivalences of Loewy-graded comodule algebras**|Jacob Van Grinsven|[2510.09540](https://arxiv.org/abs/2510.09540)|null|
 |**2025-10-10**|**Massive Gauge Theories from Consistency Conditions of Amplitudes**|Junmou Chen|[2510.09003](https://arxiv.org/abs/2510.09003)|null|
