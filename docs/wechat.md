@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-14, **Partial Poisson Lie groups and groupoids. Application to Von Neumann algebras**, Fernand Pelletier, Patrick Cabau, Paper: [https://arxiv.org/abs/2510.12688](https://arxiv.org/abs/2510.12688)
+- 2025-10-14, **Marginally deformed AdS $_5$/CFT$_4$ and spindle-like orbifolds**, Paul Merrikin, Paper: [https://arxiv.org/abs/2510.12448](https://arxiv.org/abs/2510.12448), PhD Thesis
+- 2025-10-14, **Wiedemann-Franz behavior at the Weyl points in compressively strained HgTe**, Abu Alex Aravindnath, Yi-Ju Ho, Fabian Schmitt, Dongyun Chen, Johannes Kleinlein, Wouter Beugeling, Hartmut Buhmann, Stanislau U. Piatrusha, Laurens W. Molenkamp, Paper: [https://arxiv.org/abs/2510.12339](https://arxiv.org/abs/2510.12339), Main text: 9 pages, 4 figures, Supplementary Information: 7 pages, 5
+  figures
+- 2025-10-14, **Cocycle weighted infinitesimal bialgebras and pre-Lie algebras on rooted trees**, Loïc Foissy, Yunzhou Xie, Dawei Zhang, Yi Zhang, Paper: [https://arxiv.org/abs/2510.12239](https://arxiv.org/abs/2510.12239)
+- 2025-10-14, **Finite-length flux tube in the dual Ginzburg-Landau theory on the dual lattice**, Yoshiaki Koma, Miho Koma, Paper: [https://arxiv.org/abs/2510.12168](https://arxiv.org/abs/2510.12168), 33 pages, 43 figures
 - 2025-10-13, **Gaussian beam interactions and inverse source problems for nonlinear wave equations**, Matti Lassas, Tony Liimatainen, Valter Pohjola, Teemu Tyni, Paper: [https://arxiv.org/abs/2510.11494](https://arxiv.org/abs/2510.11494)
 - 2025-10-12, **Error thresholds of toric codes with transversal logical gates**, Yichen Xu, Yiqing Zhou, James P. Sethna, Eun-Ah Kim, Paper: [https://arxiv.org/abs/2510.10835](https://arxiv.org/abs/2510.10835), 14 pages, 10 figures. Online talk available at
   https://online.kitp.ucsb.edu/online/stablephases25/yxu/
