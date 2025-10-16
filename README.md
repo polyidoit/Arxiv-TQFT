@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Gauge-Invariant Gravitational Waves from Cogenesis in a $B-L$ Conserving Universe**|Wan-Zhe Feng, Jinzheng Li, Pran Nath, Zong-Huan Ye|[2510.13770](https://arxiv.org/abs/2510.13770)|null|
+|**2025-10-15**|**The $p$-$θ$ relation in mating of trees**|Morris Ang, Xin Sun, Pu Yu|[2510.13683](https://arxiv.org/abs/2510.13683)|null|
+|**2025-10-15**|**Yang-Lee edge singularity and quantum criticality in non-Hermitian PXP model**|Wen-Yi Zhang, Meng-Yun Mao, Qing-Min Hu, Xinzhi Zhao, Gaoyong Sun, Wen-Long You|[2510.13581](https://arxiv.org/abs/2510.13581)|null|
+|**2025-10-15**|**Non-strong ergodicity of canonical actions of the Thompson groups**|Ryoya Arimoto|[2510.13309](https://arxiv.org/abs/2510.13309)|null|
+|**2025-10-15**|**Static and dynamical properties of quadrupolar quantum droplets in quasi-2D condensates**|Wei-qi Xia, Xiao-ting Zheng, Xiao-wei Chen, Gui-hua Chen|[2510.13059](https://arxiv.org/abs/2510.13059)|null|
 |**2025-10-14**|**Partial Poisson Lie groups and groupoids. Application to Von Neumann algebras**|Fernand Pelletier, Patrick Cabau|[2510.12688](https://arxiv.org/abs/2510.12688)|null|
 |**2025-10-14**|**Marginally deformed AdS $_5$/CFT$_4$ and spindle-like orbifolds**|Paul Merrikin|[2510.12448](https://arxiv.org/abs/2510.12448)|null|
 |**2025-10-14**|**Wiedemann-Franz behavior at the Weyl points in compressively strained HgTe**|Abu Alex Aravindnath, Yi-Ju Ho, Fabian Schmitt, Dongyun Chen, Johannes Kleinlein, Wouter Beugeling, Hartmut Buhmann, Stanislau U. Piatrusha, Laurens W. Molenkamp|[2510.12339](https://arxiv.org/abs/2510.12339)|null|
