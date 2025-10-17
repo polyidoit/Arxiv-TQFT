@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-16, **On the invariants of finite groups arising in a topological quantum field theory**, Christopher A. Schroeder, Hung P. Tong-Viet, Paper: [https://arxiv.org/abs/2510.14971](https://arxiv.org/abs/2510.14971)
+- 2025-10-16, **Signatures of Topological Symmetries on a Noisy Quantum Simulator**, Christopher Lamb, Robert M. Konik, Hubert Saleur, Ananda Roy, Paper: [https://arxiv.org/abs/2510.14817](https://arxiv.org/abs/2510.14817), 6 pages, 4 figures
+- 2025-10-16, **ParaToric 1.0-beta: Continuous-time quantum Monte Carlo for the toric code in a parallel field**, Simon M. Linsel, Lode Pollet, Paper: [https://arxiv.org/abs/2510.14781](https://arxiv.org/abs/2510.14781), 37 pages, 3 figures. Live repo: https://github.com/palmbart/ParaToric
+- 2025-10-16, **Anomaly of Continuous Symmetries from Topological Defect Network**, Qiang Jia, Ran Luo, Jiahua Tian, Yi-Nan Wang, Yi Zhang, Paper: [https://arxiv.org/abs/2510.14722](https://arxiv.org/abs/2510.14722), 7 pages+appendices
+- 2025-10-16, **Bosonic Laughlin and Moore-Read states from non-Chern flat bands**, Hongyu Lu, Wang Yao, Paper: [https://arxiv.org/abs/2510.14685](https://arxiv.org/abs/2510.14685)
+- 2025-10-16, **The tt*-structure for the quantum cohomology of complex Grassmannian**, Tadashi Udagawa, Paper: [https://arxiv.org/abs/2510.14483](https://arxiv.org/abs/2510.14483), 29 pages
+- 2025-10-16, **Twistor Wilson loops in large- $N$ Yang-Mills theory**, Marco Bochicchio, Giacomo Santoni, Paper: [https://arxiv.org/abs/2510.14170](https://arxiv.org/abs/2510.14170), 26 pages, no figures
+- 2025-10-15, **Shadow sectors of gauge theories**, Loris Del Grosso, David E. Kaplan, Francesco Serra, Paper: [https://arxiv.org/abs/2510.14079](https://arxiv.org/abs/2510.14079), 35 pages + appendix
+- 2025-10-15, **Sequential Quantum Measurements and the Instrumental Group Algebra**, Christopher S. Jackson, Paper: [https://arxiv.org/abs/2510.13980](https://arxiv.org/abs/2510.13980), 43 pages, 5 tables
+- 2025-10-15, **Subdimensional Disorder and Logarithmic Defect**, Soichiro Shimamori, Yifan Wang, Paper: [https://arxiv.org/abs/2510.13964](https://arxiv.org/abs/2510.13964), 79 pages, 5 figures
 - 2025-10-15, **Gauge-Invariant Gravitational Waves from Cogenesis in a $B-L$ Conserving Universe**, Wan-Zhe Feng, Jinzheng Li, Pran Nath, Zong-Huan Ye, Paper: [https://arxiv.org/abs/2510.13770](https://arxiv.org/abs/2510.13770)
 - 2025-10-15, **The $p$-$θ$ relation in mating of trees**, Morris Ang, Xin Sun, Pu Yu, Paper: [https://arxiv.org/abs/2510.13683](https://arxiv.org/abs/2510.13683), 27 pages, 4 figures
 - 2025-10-15, **Yang-Lee edge singularity and quantum criticality in non-Hermitian PXP model**, Wen-Yi Zhang, Meng-Yun Mao, Qing-Min Hu, Xinzhi Zhao, Gaoyong Sun, Wen-Long You, Paper: [https://arxiv.org/abs/2510.13581](https://arxiv.org/abs/2510.13581), 13 pages, 11 figures

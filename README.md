@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**On the invariants of finite groups arising in a topological quantum field theory**|Christopher A. Schroeder, Hung P. Tong-Viet|[2510.14971](https://arxiv.org/abs/2510.14971)|null|
+|**2025-10-16**|**Signatures of Topological Symmetries on a Noisy Quantum Simulator**|Christopher Lamb, Robert M. Konik, Hubert Saleur, Ananda Roy|[2510.14817](https://arxiv.org/abs/2510.14817)|null|
+|**2025-10-16**|**ParaToric 1.0-beta: Continuous-time quantum Monte Carlo for the toric code in a parallel field**|Simon M. Linsel, Lode Pollet|[2510.14781](https://arxiv.org/abs/2510.14781)|null|
+|**2025-10-16**|**Anomaly of Continuous Symmetries from Topological Defect Network**|Qiang Jia, Ran Luo, Jiahua Tian, Yi-Nan Wang, Yi Zhang|[2510.14722](https://arxiv.org/abs/2510.14722)|null|
+|**2025-10-16**|**Bosonic Laughlin and Moore-Read states from non-Chern flat bands**|Hongyu Lu, Wang Yao|[2510.14685](https://arxiv.org/abs/2510.14685)|null|
+|**2025-10-16**|**The tt*-structure for the quantum cohomology of complex Grassmannian**|Tadashi Udagawa|[2510.14483](https://arxiv.org/abs/2510.14483)|null|
+|**2025-10-16**|**Twistor Wilson loops in large- $N$ Yang-Mills theory**|Marco Bochicchio, Giacomo Santoni|[2510.14170](https://arxiv.org/abs/2510.14170)|null|
+|**2025-10-15**|**Shadow sectors of gauge theories**|Loris Del Grosso, David E. Kaplan, Francesco Serra|[2510.14079](https://arxiv.org/abs/2510.14079)|null|
+|**2025-10-15**|**Sequential Quantum Measurements and the Instrumental Group Algebra**|Christopher S. Jackson|[2510.13980](https://arxiv.org/abs/2510.13980)|null|
+|**2025-10-15**|**Subdimensional Disorder and Logarithmic Defect**|Soichiro Shimamori, Yifan Wang|[2510.13964](https://arxiv.org/abs/2510.13964)|null|
 |**2025-10-15**|**Gauge-Invariant Gravitational Waves from Cogenesis in a $B-L$ Conserving Universe**|Wan-Zhe Feng, Jinzheng Li, Pran Nath, Zong-Huan Ye|[2510.13770](https://arxiv.org/abs/2510.13770)|null|
 |**2025-10-15**|**The $p$-$θ$ relation in mating of trees**|Morris Ang, Xin Sun, Pu Yu|[2510.13683](https://arxiv.org/abs/2510.13683)|null|
 |**2025-10-15**|**Yang-Lee edge singularity and quantum criticality in non-Hermitian PXP model**|Wen-Yi Zhang, Meng-Yun Mao, Qing-Min Hu, Xinzhi Zhao, Gaoyong Sun, Wen-Long You|[2510.13581](https://arxiv.org/abs/2510.13581)|null|
