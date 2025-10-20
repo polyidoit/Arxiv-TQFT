@@ -2,6 +2,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-10-17**|**Semiclassical limit of entropies and free energies**|Zied Ammari, Michele Correggi, Marco Falconi, Raphaël Gautier|[2510.15777](https://arxiv.org/abs/2510.15777)|null|
+|**2025-10-17**|**Subdimensional entanglement entropy: from virtual response to mixed-state holography**|Meng-Yuan Li, Peng Ye|[2510.15766](https://arxiv.org/abs/2510.15766)|null|
+|**2025-10-17**|**Fractional Quantum Hall Wedding Cakes**|Chloé Van Bastelaere, Felix A. Palm, Botao Wang, Nathan Goldman, Laurens Vanderstraeten|[2510.15472](https://arxiv.org/abs/2510.15472)|null|
+|**2025-10-17**|**Entanglement complexification transition driven by a single non-Hermitian impurity**|Yao Zhou, Peng Ye|[2510.15370](https://arxiv.org/abs/2510.15370)|null|
+|**2025-10-16**|**Unusual critical points between atomic insulating phases**|Yunchao Zhang, T. Senthil|[2510.15111](https://arxiv.org/abs/2510.15111)|null|
+|**2025-10-16**|**Efficient encoding of the 2D toric code logical state using local Clifford gates**|Ivan H. C. Shum|[2510.15107](https://arxiv.org/abs/2510.15107)|null|
+|**2025-10-16**|**Topological Preparation of Non-Stabilizer States and Clifford Evolution in $SU(2)_1$ Chern-Simons Theory**|William Munizzi, Howard J. Schnitzer|[2510.15067](https://arxiv.org/abs/2510.15067)|null|
+|**2025-10-16**|**Atomic Quantum Sensors for High-Frequency Gravitational Wave Searches**|Yi-fu Cai, Luca Visinelli, Sheng-Feng Yan|[2510.15031](https://arxiv.org/abs/2510.15031)|null|
+|**2025-10-16**|**Topological Order Without Band Topology in Moiré Graphene**|Hui Liu, Raul Perea-Causin, Zhao Liu, Emil J. Bergholtz|[2510.15027](https://arxiv.org/abs/2510.15027)|null|
 |**2025-10-16**|**On the invariants of finite groups arising in a topological quantum field theory**|Christopher A. Schroeder, Hung P. Tong-Viet|[2510.14971](https://arxiv.org/abs/2510.14971)|null|
 |**2025-10-16**|**Signatures of Topological Symmetries on a Noisy Quantum Simulator**|Christopher Lamb, Robert M. Konik, Hubert Saleur, Ananda Roy|[2510.14817](https://arxiv.org/abs/2510.14817)|null|
 |**2025-10-16**|**ParaToric 1.0-beta: Continuous-time quantum Monte Carlo for the toric code in a parallel field**|Simon M. Linsel, Lode Pollet|[2510.14781](https://arxiv.org/abs/2510.14781)|null|
