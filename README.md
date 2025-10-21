@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-20**|**The impact of Schur multipliers in harmonic analysis and operator algebras**|Javier Parcet|[2510.17732](https://arxiv.org/abs/2510.17732)|null|
+|**2025-10-20**|**Spontaneous rotation and propulsion of suspended capsules in active nematics**|Júlio P. A. Santos, Margarida M. Telo da Gama, Rodrigo C. V. Coelho|[2510.17643](https://arxiv.org/abs/2510.17643)|null|
+|**2025-10-20**|**A conjecture on the lower bound of the length-scale critical exponent $ν$ at continuous phase transitions**|Andrea Pelissetto, Ettore Vicari|[2510.17637](https://arxiv.org/abs/2510.17637)|null|
+|**2025-10-20**|**High Quality QCD Axion in the Standard Model**|Jie Sheng, Tsutomu T. Yanagida|[2510.17370](https://arxiv.org/abs/2510.17370)|null|
+|**2025-10-20**|**Rota-Baxter type $H$ -operators on pseudoalgebras**|Botong Gai, Shuanhong Wang|[2510.17222](https://arxiv.org/abs/2510.17222)|null|
+|**2025-10-20**|**Radford $[(m,k),m]$ -biproduct Theorem for Generalized Hom-crossed Products**|Botong Gai, Shuanhong Wang|[2510.17216](https://arxiv.org/abs/2510.17216)|null|
+|**2025-10-20**|**A classification of pre-Lie $H$ -pseudoalgebras of low ranks**|Botong Gai|[2510.17213](https://arxiv.org/abs/2510.17213)|null|
+|**2025-10-20**|**Subsystem fidelity in two-dimensional conformal field theories**|Bin Sui, Yihao Wang, Jiaju Zhang|[2510.17208](https://arxiv.org/abs/2510.17208)|null|
+|**2025-10-19**|**Impact of Random Bond Disorder on Quantum Skyrmions in a spin-half Quantum Heisenberg Model**|Amit Kumar, Kalpataru Pradhan|[2510.16929](https://arxiv.org/abs/2510.16929)|null|
+|**2025-10-19**|**Bayesian inference of the magnetic component of quark-gluon plasma**|Yu Guo, Jinfeng Liao, Shuzhe Shi|[2510.16838](https://arxiv.org/abs/2510.16838)|null|
 |**2025-10-17**|**Semiclassical limit of entropies and free energies**|Zied Ammari, Michele Correggi, Marco Falconi, Raphaël Gautier|[2510.15777](https://arxiv.org/abs/2510.15777)|null|
 |**2025-10-17**|**Subdimensional entanglement entropy: from virtual response to mixed-state holography**|Meng-Yuan Li, Peng Ye|[2510.15766](https://arxiv.org/abs/2510.15766)|null|
 |**2025-10-17**|**Fractional Quantum Hall Wedding Cakes**|Chloé Van Bastelaere, Felix A. Palm, Botao Wang, Nathan Goldman, Laurens Vanderstraeten|[2510.15472](https://arxiv.org/abs/2510.15472)|null|

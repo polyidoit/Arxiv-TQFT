@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-20, **The impact of Schur multipliers in harmonic analysis and operator algebras**, Javier Parcet, Paper: [https://arxiv.org/abs/2510.17732](https://arxiv.org/abs/2510.17732), Survey article for the author's ICM 2026 invited talk
+- 2025-10-20, **Spontaneous rotation and propulsion of suspended capsules in active nematics**, Júlio P. A. Santos, Margarida M. Telo da Gama, Rodrigo C. V. Coelho, Paper: [https://arxiv.org/abs/2510.17643](https://arxiv.org/abs/2510.17643)
+- 2025-10-20, **A conjecture on the lower bound of the length-scale critical exponent $ν$ at continuous phase transitions**, Andrea Pelissetto, Ettore Vicari, Paper: [https://arxiv.org/abs/2510.17637](https://arxiv.org/abs/2510.17637), 16 pages
+- 2025-10-20, **High Quality QCD Axion in the Standard Model**, Jie Sheng, Tsutomu T. Yanagida, Paper: [https://arxiv.org/abs/2510.17370](https://arxiv.org/abs/2510.17370), 6 pages, 1 figures
+- 2025-10-20, **Rota-Baxter type $H$ -operators on pseudoalgebras**, Botong Gai, Shuanhong Wang, Paper: [https://arxiv.org/abs/2510.17222](https://arxiv.org/abs/2510.17222)
+- 2025-10-20, **Radford $[(m,k),m]$ -biproduct Theorem for Generalized Hom-crossed Products**, Botong Gai, Shuanhong Wang, Paper: [https://arxiv.org/abs/2510.17216](https://arxiv.org/abs/2510.17216)
+- 2025-10-20, **A classification of pre-Lie $H$ -pseudoalgebras of low ranks**, Botong Gai, Paper: [https://arxiv.org/abs/2510.17213](https://arxiv.org/abs/2510.17213)
+- 2025-10-20, **Subsystem fidelity in two-dimensional conformal field theories**, Bin Sui, Yihao Wang, Jiaju Zhang, Paper: [https://arxiv.org/abs/2510.17208](https://arxiv.org/abs/2510.17208), 21 pages, 2 figures
+- 2025-10-19, **Impact of Random Bond Disorder on Quantum Skyrmions in a spin-half Quantum Heisenberg Model**, Amit Kumar, Kalpataru Pradhan, Paper: [https://arxiv.org/abs/2510.16929](https://arxiv.org/abs/2510.16929), 12 pages, 12 figures
+- 2025-10-19, **Bayesian inference of the magnetic component of quark-gluon plasma**, Yu Guo, Jinfeng Liao, Shuzhe Shi, Paper: [https://arxiv.org/abs/2510.16838](https://arxiv.org/abs/2510.16838), 5 pages, 4 figures
 - 2025-10-17, **Semiclassical limit of entropies and free energies**, Zied Ammari, Michele Correggi, Marco Falconi, Raphaël Gautier, Paper: [https://arxiv.org/abs/2510.15777](https://arxiv.org/abs/2510.15777), 24 pages
 - 2025-10-17, **Subdimensional entanglement entropy: from virtual response to mixed-state holography**, Meng-Yuan Li, Peng Ye, Paper: [https://arxiv.org/abs/2510.15766](https://arxiv.org/abs/2510.15766)
 - 2025-10-17, **Fractional Quantum Hall Wedding Cakes**, Chloé Van Bastelaere, Felix A. Palm, Botao Wang, Nathan Goldman, Laurens Vanderstraeten, Paper: [https://arxiv.org/abs/2510.15472](https://arxiv.org/abs/2510.15472), 8 pages, 5 figures
