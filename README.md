@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Instabilities of a Generalized Gross-Neveu Quantum Criticality**|Jaewon Kim|[2510.18875](https://arxiv.org/abs/2510.18875)|null|
+|**2025-10-21**|**Modulated symmetries from generalized Lieb-Schultz-Mattis anomalies**|Hiromi Ebisu, Bo Han, Weiguang Cao|[2510.18689](https://arxiv.org/abs/2510.18689)|null|
+|**2025-10-21**|**The hypergraph isomorphism game, Hopf algebras and Galois extensions**|Georgios Baziotis, Alexandros Chatzinikolaou, Gage Hoefer|[2510.18679](https://arxiv.org/abs/2510.18679)|null|
+|**2025-10-21**|**The Muonic Portal to Vector Dark Matter:connecting precision muon physics, cosmology, and colliders**|Alexander Belyaev, Luca Panizzi, Nakorn Thongyoi, Franz Wilhelm|[2510.18564](https://arxiv.org/abs/2510.18564)|null|
+|**2025-10-21**|**Operads and bialgebras of multi-indices, and Novikov algebras**|Loïc Foissy|[2510.18432](https://arxiv.org/abs/2510.18432)|null|
+|**2025-10-21**|**Multi-Instantons, Multi-Axions, and Non-Invertible Symmetries in 4d QFT**|Sungwoo Hong, Hyungyu Kim, Sung Mook Lee, Dongmin Seo|[2510.18404](https://arxiv.org/abs/2510.18404)|null|
+|**2025-10-21**|**Entanglement Spectrum Resolved by Loop Symmetries**|Haruki Yagi, Zongping Gong|[2510.18350](https://arxiv.org/abs/2510.18350)|null|
+|**2025-10-21**|**High-Quality Axion Models with the Anomalous $U(1)_X$ Gauge Symmetry**|Hongkun Gao, Tianjun Li, Lina Wu, Wenxing Zhang|[2510.18306](https://arxiv.org/abs/2510.18306)|null|
+|**2025-10-21**|**Representations of the Drinfeld doubles of Pointed rank one Hopf algebras**|Hua Sun, Huixiang Chen, Yinhuo Zhang|[2510.18216](https://arxiv.org/abs/2510.18216)|null|
+|**2025-10-20**|**Compactification of quasi-local algebras on the lattice**|Jun Ikeda|[2510.18021](https://arxiv.org/abs/2510.18021)|null|
 |**2025-10-20**|**The impact of Schur multipliers in harmonic analysis and operator algebras**|Javier Parcet|[2510.17732](https://arxiv.org/abs/2510.17732)|null|
 |**2025-10-20**|**Spontaneous rotation and propulsion of suspended capsules in active nematics**|Júlio P. A. Santos, Margarida M. Telo da Gama, Rodrigo C. V. Coelho|[2510.17643](https://arxiv.org/abs/2510.17643)|null|
 |**2025-10-20**|**A conjecture on the lower bound of the length-scale critical exponent $ν$ at continuous phase transitions**|Andrea Pelissetto, Ettore Vicari|[2510.17637](https://arxiv.org/abs/2510.17637)|null|

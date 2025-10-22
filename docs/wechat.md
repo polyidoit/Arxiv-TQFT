@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-21, **Instabilities of a Generalized Gross-Neveu Quantum Criticality**, Jaewon Kim, Paper: [https://arxiv.org/abs/2510.18875](https://arxiv.org/abs/2510.18875), 6 pages, 3 figures
+- 2025-10-21, **Modulated symmetries from generalized Lieb-Schultz-Mattis anomalies**, Hiromi Ebisu, Bo Han, Weiguang Cao, Paper: [https://arxiv.org/abs/2510.18689](https://arxiv.org/abs/2510.18689), 41 pages, 9 figures
+- 2025-10-21, **The hypergraph isomorphism game, Hopf algebras and Galois extensions**, Georgios Baziotis, Alexandros Chatzinikolaou, Gage Hoefer, Paper: [https://arxiv.org/abs/2510.18679](https://arxiv.org/abs/2510.18679), 36 pages
+- 2025-10-21, **The Muonic Portal to Vector Dark Matter:connecting precision muon physics, cosmology, and colliders**, Alexander Belyaev, Luca Panizzi, Nakorn Thongyoi, Franz Wilhelm, Paper: [https://arxiv.org/abs/2510.18564](https://arxiv.org/abs/2510.18564), 28 pages, 11 Figures
+- 2025-10-21, **Operads and bialgebras of multi-indices, and Novikov algebras**, Loïc Foissy, Paper: [https://arxiv.org/abs/2510.18432](https://arxiv.org/abs/2510.18432)
+- 2025-10-21, **Multi-Instantons, Multi-Axions, and Non-Invertible Symmetries in 4d QFT**, Sungwoo Hong, Hyungyu Kim, Sung Mook Lee, Dongmin Seo, Paper: [https://arxiv.org/abs/2510.18404](https://arxiv.org/abs/2510.18404), 57 pages, 3 figures
+- 2025-10-21, **Entanglement Spectrum Resolved by Loop Symmetries**, Haruki Yagi, Zongping Gong, Paper: [https://arxiv.org/abs/2510.18350](https://arxiv.org/abs/2510.18350), 18+32 pages, 5+8 figures. Comments welcome!
+- 2025-10-21, **High-Quality Axion Models with the Anomalous $U(1)_X$ Gauge Symmetry**, Hongkun Gao, Tianjun Li, Lina Wu, Wenxing Zhang, Paper: [https://arxiv.org/abs/2510.18306](https://arxiv.org/abs/2510.18306)
+- 2025-10-21, **Representations of the Drinfeld doubles of Pointed rank one Hopf algebras**, Hua Sun, Huixiang Chen, Yinhuo Zhang, Paper: [https://arxiv.org/abs/2510.18216](https://arxiv.org/abs/2510.18216)
+- 2025-10-20, **Compactification of quasi-local algebras on the lattice**, Jun Ikeda, Paper: [https://arxiv.org/abs/2510.18021](https://arxiv.org/abs/2510.18021), 49 pages
 - 2025-10-20, **The impact of Schur multipliers in harmonic analysis and operator algebras**, Javier Parcet, Paper: [https://arxiv.org/abs/2510.17732](https://arxiv.org/abs/2510.17732), Survey article for the author's ICM 2026 invited talk
 - 2025-10-20, **Spontaneous rotation and propulsion of suspended capsules in active nematics**, Júlio P. A. Santos, Margarida M. Telo da Gama, Rodrigo C. V. Coelho, Paper: [https://arxiv.org/abs/2510.17643](https://arxiv.org/abs/2510.17643)
 - 2025-10-20, **A conjecture on the lower bound of the length-scale critical exponent $ν$ at continuous phase transitions**, Andrea Pelissetto, Ettore Vicari, Paper: [https://arxiv.org/abs/2510.17637](https://arxiv.org/abs/2510.17637), 16 pages
