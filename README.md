@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**Landscape of Narain CFTs**|R. Sammani, E. H Saidi, R. Ahl Laamara, L. B Drissi|[2510.19674](https://arxiv.org/abs/2510.19674)|null|
+|**2025-10-21**|**Visually Comparing Graph Vertex Ordering Algorithms through Geometrical and Topological Approaches**|Karelia Salinas, Victor Barella, Thales Viera, Luis Gustavo Nonato|[2510.19009](https://arxiv.org/abs/2510.19009)|null|
+|**2025-10-21**|**Gaillard-Zumino non-invertible symmetries**|Fabio Apruzzi, Luca Martucci|[2510.18997](https://arxiv.org/abs/2510.18997)|null|
 |**2025-10-21**|**Instabilities of a Generalized Gross-Neveu Quantum Criticality**|Jaewon Kim|[2510.18875](https://arxiv.org/abs/2510.18875)|null|
 |**2025-10-21**|**Modulated symmetries from generalized Lieb-Schultz-Mattis anomalies**|Hiromi Ebisu, Bo Han, Weiguang Cao|[2510.18689](https://arxiv.org/abs/2510.18689)|null|
 |**2025-10-21**|**The hypergraph isomorphism game, Hopf algebras and Galois extensions**|Georgios Baziotis, Alexandros Chatzinikolaou, Gage Hoefer|[2510.18679](https://arxiv.org/abs/2510.18679)|null|

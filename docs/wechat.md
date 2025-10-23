@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-22, **Landscape of Narain CFTs**, R. Sammani, E. H Saidi, R. Ahl Laamara, L. B Drissi, Paper: [https://arxiv.org/abs/2510.19674](https://arxiv.org/abs/2510.19674)
+- 2025-10-21, **Visually Comparing Graph Vertex Ordering Algorithms through Geometrical and Topological Approaches**, Karelia Salinas, Victor Barella, Thales Viera, Luis Gustavo Nonato, Paper: [https://arxiv.org/abs/2510.19009](https://arxiv.org/abs/2510.19009)
+- 2025-10-21, **Gaillard-Zumino non-invertible symmetries**, Fabio Apruzzi, Luca Martucci, Paper: [https://arxiv.org/abs/2510.18997](https://arxiv.org/abs/2510.18997), 50 pages + appendices, 3 figures
 - 2025-10-21, **Instabilities of a Generalized Gross-Neveu Quantum Criticality**, Jaewon Kim, Paper: [https://arxiv.org/abs/2510.18875](https://arxiv.org/abs/2510.18875), 6 pages, 3 figures
 - 2025-10-21, **Modulated symmetries from generalized Lieb-Schultz-Mattis anomalies**, Hiromi Ebisu, Bo Han, Weiguang Cao, Paper: [https://arxiv.org/abs/2510.18689](https://arxiv.org/abs/2510.18689), 41 pages, 9 figures
 - 2025-10-21, **The hypergraph isomorphism game, Hopf algebras and Galois extensions**, Georgios Baziotis, Alexandros Chatzinikolaou, Gage Hoefer, Paper: [https://arxiv.org/abs/2510.18679](https://arxiv.org/abs/2510.18679), 36 pages
