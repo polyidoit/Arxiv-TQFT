@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-23, **Constructing Local Symmetric Operator Algebras via Reflection Positivity**, Zhengwei Liu, Zishuo Zhao, Paper: [https://arxiv.org/abs/2510.20662](https://arxiv.org/abs/2510.20662), 35 pages, 4 figures
+- 2025-10-23, **Phenomenological Noise Models and Optimal Thresholds of the 3D Toric Code**, Ji-Ze Xu, Yin Zhong, Miguel A. Martin-Delgado, Hao Song, Ke Liu, Paper: [https://arxiv.org/abs/2510.20489](https://arxiv.org/abs/2510.20489), 24+10 pages, 6+2 figures; welcome for comments
+- 2025-10-22, **Defect configuration of an active nematic around a circular obstacle**, Hiroki Matsukiyo, Jun-ichi Fukuda, Paper: [https://arxiv.org/abs/2510.20069](https://arxiv.org/abs/2510.20069)
+- 2025-10-22, **Analytical Traces on Coulomb Branches of Quiver Gauge Theories**, Keke Zhang, Paper: [https://arxiv.org/abs/2510.20045](https://arxiv.org/abs/2510.20045), 23pages
+- 2025-10-22, **Symmetry Points of $\mathcal{N}=1$ Modular Geometry**, Amineh Mohseni, Cumrun Vafa, Paper: [https://arxiv.org/abs/2510.19927](https://arxiv.org/abs/2510.19927), 18 pages
+- 2025-10-22, **Temperley-Lieb integrable models and fusion categories**, Matthew Blakeney, Luke Corcoran, Marius de Leeuw, Balazs Pozsgay, Eric Vernier, Paper: [https://arxiv.org/abs/2510.19902](https://arxiv.org/abs/2510.19902), 27 pages
 - 2025-10-22, **Landscape of Narain CFTs**, R. Sammani, E. H Saidi, R. Ahl Laamara, L. B Drissi, Paper: [https://arxiv.org/abs/2510.19674](https://arxiv.org/abs/2510.19674)
 - 2025-10-21, **Visually Comparing Graph Vertex Ordering Algorithms through Geometrical and Topological Approaches**, Karelia Salinas, Victor Barella, Thales Viera, Luis Gustavo Nonato, Paper: [https://arxiv.org/abs/2510.19009](https://arxiv.org/abs/2510.19009)
 - 2025-10-21, **Gaillard-Zumino non-invertible symmetries**, Fabio Apruzzi, Luca Martucci, Paper: [https://arxiv.org/abs/2510.18997](https://arxiv.org/abs/2510.18997), 50 pages + appendices, 3 figures
