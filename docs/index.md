@@ -1,7 +1,10 @@
-> Automatically updated on 2025.10.27
+> Automatically updated on 2025.10.28
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-10-23**|**Searching for emergent spacetime in spin glasses**|Dimitris Saraidaris, Leo Shaposhnik|[2510.20902](https://arxiv.org/abs/2510.20902)|null|
+|**2025-10-23**|**$\mathbb{Z}_2$ lattice gauge theories: fermionic gauging, transmutation, and Kramers-Wannier dualities**|Lei Su|[2510.20893](https://arxiv.org/abs/2510.20893)|null|
+|**2025-10-23**|**Hybrid Lattice Surgery: Non-Clifford Gates via Non-Abelian Surface Codes**|Sheng-Jie Huang, Alison Warman, Sakura Schafer-Nameki, Yanzhu Chen|[2510.20890](https://arxiv.org/abs/2510.20890)|null|
 |**2025-10-23**|**Constructing Local Symmetric Operator Algebras via Reflection Positivity**|Zhengwei Liu, Zishuo Zhao|[2510.20662](https://arxiv.org/abs/2510.20662)|null|
 |**2025-10-23**|**Phenomenological Noise Models and Optimal Thresholds of the 3D Toric Code**|Ji-Ze Xu, Yin Zhong, Miguel A. Martin-Delgado, Hao Song, Ke Liu|[2510.20489](https://arxiv.org/abs/2510.20489)|null|
 |**2025-10-22**|**Defect configuration of an active nematic around a circular obstacle**|Hiroki Matsukiyo, Jun-ichi Fukuda|[2510.20069](https://arxiv.org/abs/2510.20069)|null|

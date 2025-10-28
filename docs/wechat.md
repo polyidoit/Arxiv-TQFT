@@ -1,4 +1,4 @@
-> Automatically updated on 2025.10.27
+> Automatically updated on 2025.10.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-23, **Searching for emergent spacetime in spin glasses**, Dimitris Saraidaris, Leo Shaposhnik, Paper: [https://arxiv.org/abs/2510.20902](https://arxiv.org/abs/2510.20902), 33 pages + 32 pages appendix, 12 figures
+- 2025-10-23, **$\mathbb{Z}_2$ lattice gauge theories: fermionic gauging, transmutation, and Kramers-Wannier dualities**, Lei Su, Paper: [https://arxiv.org/abs/2510.20893](https://arxiv.org/abs/2510.20893), 6+17 pages. This work is dedicated to C. N. Yang
+- 2025-10-23, **Hybrid Lattice Surgery: Non-Clifford Gates via Non-Abelian Surface Codes**, Sheng-Jie Huang, Alison Warman, Sakura Schafer-Nameki, Yanzhu Chen, Paper: [https://arxiv.org/abs/2510.20890](https://arxiv.org/abs/2510.20890), 31 pages
 - 2025-10-23, **Constructing Local Symmetric Operator Algebras via Reflection Positivity**, Zhengwei Liu, Zishuo Zhao, Paper: [https://arxiv.org/abs/2510.20662](https://arxiv.org/abs/2510.20662), 35 pages, 4 figures
 - 2025-10-23, **Phenomenological Noise Models and Optimal Thresholds of the 3D Toric Code**, Ji-Ze Xu, Yin Zhong, Miguel A. Martin-Delgado, Hao Song, Ke Liu, Paper: [https://arxiv.org/abs/2510.20489](https://arxiv.org/abs/2510.20489), 24+10 pages, 6+2 figures; welcome for comments
 - 2025-10-22, **Defect configuration of an active nematic around a circular obstacle**, Hiroki Matsukiyo, Jun-ichi Fukuda, Paper: [https://arxiv.org/abs/2510.20069](https://arxiv.org/abs/2510.20069)
@@ -421,5 +424,5 @@
   welcome
 - 2025-08-05, **A New Action for Superstring Field Theory**, Chris Hull, Paper: [https://arxiv.org/abs/2508.03902](https://arxiv.org/abs/2508.03902), 23 Pages
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
