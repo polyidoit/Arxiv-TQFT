@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Skyrmion-vortex pairing from duality**|Shantonu Mukherjee|[2510.24404](https://arxiv.org/abs/2510.24404)|null|
+|**2025-10-28**|**Morphology, Polarization Patterns, Compression, and Entropy Production in Phase-Separating Active Dumbbell Systems**|Lucio Mauro Carenza, Claudio Basilio Caporusso, Pasquale Digregorio, Antonio Suma, Giuseppe Gonnella, Massimiliano Semeraro|[2510.24351](https://arxiv.org/abs/2510.24351)|null|
+|**2025-10-28**|**Representation theory of non-factorizable ribbon Hopf algebras**|Maksymilian Manko|[2510.24263](https://arxiv.org/abs/2510.24263)|null|
+|**2025-10-28**|**Quasi-Characters for three-character Rational Conformal Field Theories**|Suresh Govindarajan, Akhila Sadanandan, Jagannath Santara|[2510.24248](https://arxiv.org/abs/2510.24248)|null|
+|**2025-10-27**|**On ergodicity of linear actions on $\mathbb{R}^n$ and factoriality of group von Neumann algebras**|Soham Chakraborty, Chinmay Tamhankar|[2510.23864](https://arxiv.org/abs/2510.23864)|null|
+|**2025-10-27**|**String Decomposition and Gravitational Waves in High-quality Axion Gauge Theories**|Camilla Mupo, Yue Zhang|[2510.23738](https://arxiv.org/abs/2510.23738)|null|
+|**2025-10-27**|**Chiral gapped states are universally non-topological**|Xiang Li, Ting-Chun Lin, Yahya Alavirad, John McGreevy|[2510.23720](https://arxiv.org/abs/2510.23720)|null|
 |**2025-10-27**|**Bessel duality of Gabor systems: A von Neumann algebraic perspective**|Ulrik Enstad, Franz Luef|[2510.23575](https://arxiv.org/abs/2510.23575)|null|
 |**2025-10-27**|**Lax-Kirchhoff moduli spaces and Hamiltonian 2D TQFT**|Mohamed Moussadek Maiza, Maxence Mayrand|[2510.23567](https://arxiv.org/abs/2510.23567)|null|
 |**2025-10-27**|**Measurement-only circuit of perturbed toric code on triangular lattice: Topological entanglement, 1-form symmetry and logical qubits**|Keisuke Kataoka, Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose|[2510.23162](https://arxiv.org/abs/2510.23162)|null|
