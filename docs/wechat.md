@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-29, **Hodge Structures of Complex Multiplication Type from Rational Conformal Field Theories**, Hans Jockers, Pyry Kuusela, Maik Sarve, Paper: [https://arxiv.org/abs/2510.25708](https://arxiv.org/abs/2510.25708)
+- 2025-10-29, **Conformal Blocks in 2d Carrollian/Galilean CFTs and Excited State Entanglement Entropy**, Peng-Xiang Hao, Shunta Takahashi, Paper: [https://arxiv.org/abs/2510.25688](https://arxiv.org/abs/2510.25688), 26 pages + appendix, 3 figures
+- 2025-10-29, **Stress distribution in contractile cell monolayers**, Yucheng Huo, Kexin Guo, Massimo Paradiso, K. Jimmy Hsia, Paper: [https://arxiv.org/abs/2510.25651](https://arxiv.org/abs/2510.25651)
+- 2025-10-29, **Substring compatibility of permutation statistics**, Michael Tang, Paper: [https://arxiv.org/abs/2510.25524](https://arxiv.org/abs/2510.25524), 17 pages, 1 figure
+- 2025-10-28, **How to Build Anomalous (3+1)d Topological Quantum Field Theories**, Arun Debray, Weicheng Ye, Matthew Yu, Paper: [https://arxiv.org/abs/2510.24834](https://arxiv.org/abs/2510.24834), 41 pages; comments welcome!
+- 2025-10-28, **Gravitational dressing: from the crossed product to more general algebraic and mathematical structure**, Steven B. Giddings, Paper: [https://arxiv.org/abs/2510.24833](https://arxiv.org/abs/2510.24833), 10 pages + refs; 3 figures
 - 2025-10-28, **Skyrmion-vortex pairing from duality**, Shantonu Mukherjee, Paper: [https://arxiv.org/abs/2510.24404](https://arxiv.org/abs/2510.24404)
 - 2025-10-28, **Morphology, Polarization Patterns, Compression, and Entropy Production in Phase-Separating Active Dumbbell Systems**, Lucio Mauro Carenza, Claudio Basilio Caporusso, Pasquale Digregorio, Antonio Suma, Giuseppe Gonnella, Massimiliano Semeraro, Paper: [https://arxiv.org/abs/2510.24351](https://arxiv.org/abs/2510.24351), 22 pages, 10 figures
 - 2025-10-28, **Representation theory of non-factorizable ribbon Hopf algebras**, Maksymilian Manko, Paper: [https://arxiv.org/abs/2510.24263](https://arxiv.org/abs/2510.24263), 36 pages, comments welcome!
