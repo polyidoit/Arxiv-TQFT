@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-30, **Vector dark matter with non-abelian kinetic mixing**, Ana Luisa Foguel, Renata Zukanovich Funchal, Michele Frigerio, Paper: [https://arxiv.org/abs/2510.26765](https://arxiv.org/abs/2510.26765), 35 pages, 9 figures
+- 2025-10-30, **Emergence of charge- $4e$ superconductivity from 2D nematic superconductors**, Xuan Zou, Zhou-Quan Wan, Hong Yao, Paper: [https://arxiv.org/abs/2510.26720](https://arxiv.org/abs/2510.26720), 4.5 pages, 5 figures
+- 2025-10-30, **Probing Topological Phases in a Strongly Correlated Ladder Model via Entanglement**, Aminul Hussain, Nisa Ara, Rudranil Basu, Sudeshna Sen, Paper: [https://arxiv.org/abs/2510.26713](https://arxiv.org/abs/2510.26713), 18 pages, 13 figures, 4 appendices
+- 2025-10-30, **Phases of Quasi-One-Dimensional Fractional Quantum (Anomalous) Hall - Superconductor Heterostructures**, Steffen Bollmann, Andreas Haller, Jukka I. Väyrynen, Thomas L. Schmidt, Elio J. König, Paper: [https://arxiv.org/abs/2510.26686](https://arxiv.org/abs/2510.26686), 22 pages, 10 figures, 2 table
+- 2025-10-30, **Fractional Chern insulators on cylinders: Tao-Thouless states and beyond**, Felix A. Palm, Chloé Van Bastelaere, Laurens Vanderstraeten, Paper: [https://arxiv.org/abs/2510.26671](https://arxiv.org/abs/2510.26671), 19 pages, 17 figures
+- 2025-10-30, **Double-soft limit and celestial shadow OPE from charge bracket**, Daniele Pranzetti, Domenico Giuseppe Salluce, Paper: [https://arxiv.org/abs/2510.26520](https://arxiv.org/abs/2510.26520), 27+26 pages, 2 figures
+- 2025-10-30, **The signals of doomsday II: Cosmological signatures of late time $SU(3)_c$ symmetry breaking**, Amartya Sengupta, Dejan Stojkovic, L. C. R. Wijewardhana, Paper: [https://arxiv.org/abs/2510.26267](https://arxiv.org/abs/2510.26267), 39 Pages, 11 figures
+- 2025-10-30, **On modular invariants of twisted group von Neumann algebras of almost unimodular groups**, Aldo Garcia Guinto, Yuki Miyamoto, Paper: [https://arxiv.org/abs/2510.26108](https://arxiv.org/abs/2510.26108), 18 pages. arXiv admin note: text overlap with arXiv:2509.09065
+- 2025-10-29, **Hyperbolic Fracton Model, Subsystem Symmetry and Holography III: Extension to Generic Tessellations**, Yosef Shokeeb, Ludovic D. C. Jaubert, Han Yan, Paper: [https://arxiv.org/abs/2510.25994](https://arxiv.org/abs/2510.25994)
+- 2025-10-29, **Spatially Structured Entanglement from Nonequilibrium Thermal Pure States**, Chen Bai, Mao Tian Tan, Bastien Lapierre, Shinsei Ryu, Paper: [https://arxiv.org/abs/2510.25868](https://arxiv.org/abs/2510.25868), 27+26 pages (single column), 14 figures
 - 2025-10-29, **Hodge Structures of Complex Multiplication Type from Rational Conformal Field Theories**, Hans Jockers, Pyry Kuusela, Maik Sarve, Paper: [https://arxiv.org/abs/2510.25708](https://arxiv.org/abs/2510.25708)
 - 2025-10-29, **Conformal Blocks in 2d Carrollian/Galilean CFTs and Excited State Entanglement Entropy**, Peng-Xiang Hao, Shunta Takahashi, Paper: [https://arxiv.org/abs/2510.25688](https://arxiv.org/abs/2510.25688), 26 pages + appendix, 3 figures
 - 2025-10-29, **Stress distribution in contractile cell monolayers**, Yucheng Huo, Kexin Guo, Massimo Paradiso, K. Jimmy Hsia, Paper: [https://arxiv.org/abs/2510.25651](https://arxiv.org/abs/2510.25651)

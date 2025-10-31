@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Vector dark matter with non-abelian kinetic mixing**|Ana Luisa Foguel, Renata Zukanovich Funchal, Michele Frigerio|[2510.26765](https://arxiv.org/abs/2510.26765)|null|
+|**2025-10-30**|**Emergence of charge- $4e$ superconductivity from 2D nematic superconductors**|Xuan Zou, Zhou-Quan Wan, Hong Yao|[2510.26720](https://arxiv.org/abs/2510.26720)|null|
+|**2025-10-30**|**Probing Topological Phases in a Strongly Correlated Ladder Model via Entanglement**|Aminul Hussain, Nisa Ara, Rudranil Basu, Sudeshna Sen|[2510.26713](https://arxiv.org/abs/2510.26713)|null|
+|**2025-10-30**|**Phases of Quasi-One-Dimensional Fractional Quantum (Anomalous) Hall - Superconductor Heterostructures**|Steffen Bollmann, Andreas Haller, Jukka I. Väyrynen, Thomas L. Schmidt, Elio J. König|[2510.26686](https://arxiv.org/abs/2510.26686)|null|
+|**2025-10-30**|**Fractional Chern insulators on cylinders: Tao-Thouless states and beyond**|Felix A. Palm, Chloé Van Bastelaere, Laurens Vanderstraeten|[2510.26671](https://arxiv.org/abs/2510.26671)|null|
+|**2025-10-30**|**Double-soft limit and celestial shadow OPE from charge bracket**|Daniele Pranzetti, Domenico Giuseppe Salluce|[2510.26520](https://arxiv.org/abs/2510.26520)|null|
+|**2025-10-30**|**The signals of doomsday II: Cosmological signatures of late time $SU(3)_c$ symmetry breaking**|Amartya Sengupta, Dejan Stojkovic, L. C. R. Wijewardhana|[2510.26267](https://arxiv.org/abs/2510.26267)|null|
+|**2025-10-30**|**On modular invariants of twisted group von Neumann algebras of almost unimodular groups**|Aldo Garcia Guinto, Yuki Miyamoto|[2510.26108](https://arxiv.org/abs/2510.26108)|null|
+|**2025-10-29**|**Hyperbolic Fracton Model, Subsystem Symmetry and Holography III: Extension to Generic Tessellations**|Yosef Shokeeb, Ludovic D. C. Jaubert, Han Yan|[2510.25994](https://arxiv.org/abs/2510.25994)|null|
+|**2025-10-29**|**Spatially Structured Entanglement from Nonequilibrium Thermal Pure States**|Chen Bai, Mao Tian Tan, Bastien Lapierre, Shinsei Ryu|[2510.25868](https://arxiv.org/abs/2510.25868)|null|
 |**2025-10-29**|**Hodge Structures of Complex Multiplication Type from Rational Conformal Field Theories**|Hans Jockers, Pyry Kuusela, Maik Sarve|[2510.25708](https://arxiv.org/abs/2510.25708)|null|
 |**2025-10-29**|**Conformal Blocks in 2d Carrollian/Galilean CFTs and Excited State Entanglement Entropy**|Peng-Xiang Hao, Shunta Takahashi|[2510.25688](https://arxiv.org/abs/2510.25688)|null|
 |**2025-10-29**|**Stress distribution in contractile cell monolayers**|Yucheng Huo, Kexin Guo, Massimo Paradiso, K. Jimmy Hsia|[2510.25651](https://arxiv.org/abs/2510.25651)|null|
