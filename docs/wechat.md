@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-10-31, **Derive Einstein equation from CFT entanglement entropy**, Xin Jiang, Haitang Yang, Paper: [https://arxiv.org/abs/2510.27250](https://arxiv.org/abs/2510.27250), 5 pages, 6 figures
+- 2025-10-31, **Fusion Trees and Homological Representations**, Sung Kim, Paper: [https://arxiv.org/abs/2510.27218](https://arxiv.org/abs/2510.27218), 31 pages, Tikz figures
+- 2025-10-30, **Characterizing Skyrmion Flow Phases with Principal Component Analysis**, C. J. O. Reichhardt, D. McDermott, C. Reichhardt, Paper: [https://arxiv.org/abs/2510.26987](https://arxiv.org/abs/2510.26987), 19 pages, 18 figures
+- 2025-10-30, **Entanglement entropy in Loop Quantum Gravity and geometrical area law**, Muxin Han, Paper: [https://arxiv.org/abs/2510.26922](https://arxiv.org/abs/2510.26922), 19 pages, 2 figures
+- 2025-10-30, **Entanglement Entropy in Loop Quantum Gravity through Quantum Error Correction**, Sean Tobin, Paper: [https://arxiv.org/abs/2510.26911](https://arxiv.org/abs/2510.26911), 12 pages, no figure
 - 2025-10-30, **Vector dark matter with non-abelian kinetic mixing**, Ana Luisa Foguel, Renata Zukanovich Funchal, Michele Frigerio, Paper: [https://arxiv.org/abs/2510.26765](https://arxiv.org/abs/2510.26765), 35 pages, 9 figures
 - 2025-10-30, **Emergence of charge- $4e$ superconductivity from 2D nematic superconductors**, Xuan Zou, Zhou-Quan Wan, Hong Yao, Paper: [https://arxiv.org/abs/2510.26720](https://arxiv.org/abs/2510.26720), 4.5 pages, 5 figures
 - 2025-10-30, **Probing Topological Phases in a Strongly Correlated Ladder Model via Entanglement**, Aminul Hussain, Nisa Ara, Rudranil Basu, Sudeshna Sen, Paper: [https://arxiv.org/abs/2510.26713](https://arxiv.org/abs/2510.26713), 18 pages, 13 figures, 4 appendices
