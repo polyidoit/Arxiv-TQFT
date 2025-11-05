@@ -9,6 +9,17 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-11-04, **Generalized Witt and Morita equivalences**, Liang Kong, Yilong Wang, Hao Zheng, Paper: [https://arxiv.org/abs/2511.02624](https://arxiv.org/abs/2511.02624), 20 pages
+- 2025-11-04, **Masses of Light Flavor Mesons using Bethe-Salpeter Approach**, Iqra Liaqat, Faisal Akram, Paper: [https://arxiv.org/abs/2511.02550](https://arxiv.org/abs/2511.02550)
+- 2025-11-04, **Charge glass from supercooling topological-ordered liquid**, Kouki Kimata, Harukuni Ikeda, Masafumi Udagawa, Paper: [https://arxiv.org/abs/2511.02380](https://arxiv.org/abs/2511.02380), 11 pages, 7 figures
+- 2025-11-03, **Current Cross-Correlation Spectroscopy of Majorana Bound States**, Michael Ridley, Eliahu Cohen, Christian Flindt, Riku Tuovinen, Paper: [https://arxiv.org/abs/2511.02085](https://arxiv.org/abs/2511.02085)
+- 2025-11-03, **Translation invariant defects as an extension of topological symmetries**, Federico Ambrosino, Ingo Runkel, Gérard M. T. Watts, Paper: [https://arxiv.org/abs/2511.02007](https://arxiv.org/abs/2511.02007), 15 pages, contribution to the proceedings of the conference
+  "Non-perturbative Methods in QFT" at Kyushu University (March 10-14, 2025)
+- 2025-11-03, **Single-Sided Black Holes in Double-Scaled SYK Model and No Man's Island**, Xuchen Cao, Ping Gao, Paper: [https://arxiv.org/abs/2511.01978](https://arxiv.org/abs/2511.01978), 83 Pages, 17 Figures
+- 2025-11-03, **Gradient RG Flow in Scalar-Fermion QFTs**, William H. Pannell, William Patrick Ronayne, Andreas Stergiou, Paper: [https://arxiv.org/abs/2511.01971](https://arxiv.org/abs/2511.01971), 36 pages, 8 figures
+- 2025-11-03, **Intrinsic NISPT Phases, igNISPT Phases, and Mixed Anomalies of Non-Invertible Symmetries**, Da-Chuan Lu, Zhengdi Sun, Paper: [https://arxiv.org/abs/2511.01965](https://arxiv.org/abs/2511.01965), 52 pages, 4 figures
+- 2025-11-04, **Localisation with on-shell supersymmetry algebras via the Batalin-Vilkovisky formalism: Localisation as gauge fixing**, Leron Borsten, Dimitri Kanakaris, Hyungrok Kim, Paper: [https://arxiv.org/abs/2511.01810](https://arxiv.org/abs/2511.01810), 54 pages, 1 table. No changes except updating references
+- 2025-11-03, **Symmetry-Resolved Entanglement Entropy from Heat Kernels**, Yuan-Chun Jing, Chao Niu, Zhuo-Yu Xian, Paper: [https://arxiv.org/abs/2511.01366](https://arxiv.org/abs/2511.01366)
 - 2025-10-31, **Derive Einstein equation from CFT entanglement entropy**, Xin Jiang, Haitang Yang, Paper: [https://arxiv.org/abs/2510.27250](https://arxiv.org/abs/2510.27250), 5 pages, 6 figures
 - 2025-10-31, **Fusion Trees and Homological Representations**, Sung Kim, Paper: [https://arxiv.org/abs/2510.27218](https://arxiv.org/abs/2510.27218), 31 pages, Tikz figures
 - 2025-10-30, **Characterizing Skyrmion Flow Phases with Principal Component Analysis**, C. J. O. Reichhardt, D. McDermott, C. Reichhardt, Paper: [https://arxiv.org/abs/2510.26987](https://arxiv.org/abs/2510.26987), 19 pages, 18 figures

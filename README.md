@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Generalized Witt and Morita equivalences**|Liang Kong, Yilong Wang, Hao Zheng|[2511.02624](https://arxiv.org/abs/2511.02624)|null|
+|**2025-11-04**|**Masses of Light Flavor Mesons using Bethe-Salpeter Approach**|Iqra Liaqat, Faisal Akram|[2511.02550](https://arxiv.org/abs/2511.02550)|null|
+|**2025-11-04**|**Charge glass from supercooling topological-ordered liquid**|Kouki Kimata, Harukuni Ikeda, Masafumi Udagawa|[2511.02380](https://arxiv.org/abs/2511.02380)|null|
+|**2025-11-03**|**Current Cross-Correlation Spectroscopy of Majorana Bound States**|Michael Ridley, Eliahu Cohen, Christian Flindt, Riku Tuovinen|[2511.02085](https://arxiv.org/abs/2511.02085)|null|
+|**2025-11-03**|**Translation invariant defects as an extension of topological symmetries**|Federico Ambrosino, Ingo Runkel, Gérard M. T. Watts|[2511.02007](https://arxiv.org/abs/2511.02007)|null|
+|**2025-11-03**|**Single-Sided Black Holes in Double-Scaled SYK Model and No Man's Island**|Xuchen Cao, Ping Gao|[2511.01978](https://arxiv.org/abs/2511.01978)|null|
+|**2025-11-03**|**Gradient RG Flow in Scalar-Fermion QFTs**|William H. Pannell, William Patrick Ronayne, Andreas Stergiou|[2511.01971](https://arxiv.org/abs/2511.01971)|null|
+|**2025-11-03**|**Intrinsic NISPT Phases, igNISPT Phases, and Mixed Anomalies of Non-Invertible Symmetries**|Da-Chuan Lu, Zhengdi Sun|[2511.01965](https://arxiv.org/abs/2511.01965)|null|
+|**2025-11-04**|**Localisation with on-shell supersymmetry algebras via the Batalin-Vilkovisky formalism: Localisation as gauge fixing**|Leron Borsten, Dimitri Kanakaris, Hyungrok Kim|[2511.01810](https://arxiv.org/abs/2511.01810)|null|
+|**2025-11-03**|**Symmetry-Resolved Entanglement Entropy from Heat Kernels**|Yuan-Chun Jing, Chao Niu, Zhuo-Yu Xian|[2511.01366](https://arxiv.org/abs/2511.01366)|null|
 |**2025-10-31**|**Derive Einstein equation from CFT entanglement entropy**|Xin Jiang, Haitang Yang|[2510.27250](https://arxiv.org/abs/2510.27250)|null|
 |**2025-10-31**|**Fusion Trees and Homological Representations**|Sung Kim|[2510.27218](https://arxiv.org/abs/2510.27218)|null|
 |**2025-10-30**|**Characterizing Skyrmion Flow Phases with Principal Component Analysis**|C. J. O. Reichhardt, D. McDermott, C. Reichhardt|[2510.26987](https://arxiv.org/abs/2510.26987)|null|
