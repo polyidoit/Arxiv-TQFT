@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-11-05**|**Lie $n$ -centralizers of von Neumann algebras**|Mohammad Ashraf, Mohammad Afajal Ansari, Md Shamim Akhter, Feng Wei|[2511.03523](https://arxiv.org/abs/2511.03523)|null|
+|**2025-11-05**|**Inertial Repulsion from Quantum Geometry**|Maike Fahrensohn, R. Matthias Geilhufe|[2511.03510](https://arxiv.org/abs/2511.03510)|null|
+|**2025-11-05**|**Unraveling Deconfined Quantum Criticality in Non-Hermitian Easy-Plane $J$-$Q$ Model**|Xuan Zou, Shuai Yin, Zi-Xiang Li, Hong Yao|[2511.03456](https://arxiv.org/abs/2511.03456)|null|
+|**2025-11-04**|**Classical shadows for sample-efficient measurements of gauge-invariant observables**|Jacob Bringewatt, Henry Froland, Andreas Elben, Niklas Mueller|[2511.02904](https://arxiv.org/abs/2511.02904)|null|
+|**2025-11-04**|**Entanglement inequalities, black holes and the architecture of typical states**|Radouane Gannouji, Ayan Mukhopadhyay, Nicolas Pinochet|[2511.02903](https://arxiv.org/abs/2511.02903)|null|
+|**2025-11-04**|**Clifford Hierarchy Stabilizer Codes: Transversal Non-Clifford Gates and Magic**|Ryohei Kobayashi, Guanyu Zhu, Po-Shen Hsin|[2511.02900](https://arxiv.org/abs/2511.02900)|null|
 |**2025-11-04**|**Generalized Witt and Morita equivalences**|Liang Kong, Yilong Wang, Hao Zheng|[2511.02624](https://arxiv.org/abs/2511.02624)|null|
 |**2025-11-04**|**Masses of Light Flavor Mesons using Bethe-Salpeter Approach**|Iqra Liaqat, Faisal Akram|[2511.02550](https://arxiv.org/abs/2511.02550)|null|
 |**2025-11-04**|**Charge glass from supercooling topological-ordered liquid**|Kouki Kimata, Harukuni Ikeda, Masafumi Udagawa|[2511.02380](https://arxiv.org/abs/2511.02380)|null|

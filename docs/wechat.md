@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-11-05, **Lie $n$ -centralizers of von Neumann algebras**, Mohammad Ashraf, Mohammad Afajal Ansari, Md Shamim Akhter, Feng Wei, Paper: [https://arxiv.org/abs/2511.03523](https://arxiv.org/abs/2511.03523)
+- 2025-11-05, **Inertial Repulsion from Quantum Geometry**, Maike Fahrensohn, R. Matthias Geilhufe, Paper: [https://arxiv.org/abs/2511.03510](https://arxiv.org/abs/2511.03510), 5 pages, 5 pages supplementary material, 1 figure
+- 2025-11-05, **Unraveling Deconfined Quantum Criticality in Non-Hermitian Easy-Plane $J$-$Q$ Model**, Xuan Zou, Shuai Yin, Zi-Xiang Li, Hong Yao, Paper: [https://arxiv.org/abs/2511.03456](https://arxiv.org/abs/2511.03456), 4.5 pages, 4 figures
+- 2025-11-04, **Classical shadows for sample-efficient measurements of gauge-invariant observables**, Jacob Bringewatt, Henry Froland, Andreas Elben, Niklas Mueller, Paper: [https://arxiv.org/abs/2511.02904](https://arxiv.org/abs/2511.02904), 23 pages, 10 figures
+- 2025-11-04, **Entanglement inequalities, black holes and the architecture of typical states**, Radouane Gannouji, Ayan Mukhopadhyay, Nicolas Pinochet, Paper: [https://arxiv.org/abs/2511.02903](https://arxiv.org/abs/2511.02903), 9 pages, 2 figures
+- 2025-11-04, **Clifford Hierarchy Stabilizer Codes: Transversal Non-Clifford Gates and Magic**, Ryohei Kobayashi, Guanyu Zhu, Po-Shen Hsin, Paper: [https://arxiv.org/abs/2511.02900](https://arxiv.org/abs/2511.02900), 5+15 pages, 9 figures
 - 2025-11-04, **Generalized Witt and Morita equivalences**, Liang Kong, Yilong Wang, Hao Zheng, Paper: [https://arxiv.org/abs/2511.02624](https://arxiv.org/abs/2511.02624), 20 pages
 - 2025-11-04, **Masses of Light Flavor Mesons using Bethe-Salpeter Approach**, Iqra Liaqat, Faisal Akram, Paper: [https://arxiv.org/abs/2511.02550](https://arxiv.org/abs/2511.02550)
 - 2025-11-04, **Charge glass from supercooling topological-ordered liquid**, Kouki Kimata, Harukuni Ikeda, Masafumi Udagawa, Paper: [https://arxiv.org/abs/2511.02380](https://arxiv.org/abs/2511.02380), 11 pages, 7 figures
