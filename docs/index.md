@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-11-06**|**Non-hyperbolic 3-manifolds and bulk field theories for supersymmetric/ $W_N$ minimal models**|Seungjoo Baek, Heesu Kang|[2511.04524](https://arxiv.org/abs/2511.04524)|null|
+|**2025-11-06**|**Symmetry-enriched topological order and quasi-fractonic behavior in $\mathbb{Z}_N$ stabilizer codes**|Siyu He, Hao Song|[2511.04430](https://arxiv.org/abs/2511.04430)|null|
+|**2025-11-06**|**Quantum doubles in symmetric blockade structures**|Hans Peter Büchler, Tobias F. Maier, Simon Fell, Nicolai Lang|[2511.04414](https://arxiv.org/abs/2511.04414)|null|
+|**2025-11-06**|**Holographic CCFT Pseudo-Entropy**|Reza Fareghbal, Abolfazl Hassani Maojulan|[2511.04398](https://arxiv.org/abs/2511.04398)|null|
+|**2025-11-06**|**Automorphism-weighted ensembles from TQFT gravity**|Ahmed Barbar|[2511.04311](https://arxiv.org/abs/2511.04311)|null|
+|**2025-11-06**|**Unified Effective Field Theory for Nonlinear and Quantum Optics**|Xiaochen Liu, Ken-Tye Yong|[2511.04118](https://arxiv.org/abs/2511.04118)|null|
+|**2025-11-05**|**Novel Encodings of Homology, Cohomology, and Characteristic Classes**|Itai Maimon|[2511.03920](https://arxiv.org/abs/2511.03920)|null|
+|**2025-11-05**|**Holographic black hole formation and scrambling in time-ordered correlators**|Pratyusha Chowdhury, Felix M. Haehl, Adrián Sánchez-Garrido, Ying Zhao|[2511.03784](https://arxiv.org/abs/2511.03784)|null|
 |**2025-11-05**|**Lie $n$ -centralizers of von Neumann algebras**|Mohammad Ashraf, Mohammad Afajal Ansari, Md Shamim Akhter, Feng Wei|[2511.03523](https://arxiv.org/abs/2511.03523)|null|
 |**2025-11-05**|**Inertial Repulsion from Quantum Geometry**|Maike Fahrensohn, R. Matthias Geilhufe|[2511.03510](https://arxiv.org/abs/2511.03510)|null|
 |**2025-11-05**|**Unraveling Deconfined Quantum Criticality in Non-Hermitian Easy-Plane $J$-$Q$ Model**|Xuan Zou, Shuai Yin, Zi-Xiang Li, Hong Yao|[2511.03456](https://arxiv.org/abs/2511.03456)|null|
