@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-11-07, **The Geometry of Paraxial Vector Beams**, Marco Ornigotti, Paper: [https://arxiv.org/abs/2511.05151](https://arxiv.org/abs/2511.05151)
+- 2025-11-07, **Compact localized fermions and Ising anyons in a chiral spin liquid**, Tim Bauer, Johannes Reuther, Paper: [https://arxiv.org/abs/2511.05105](https://arxiv.org/abs/2511.05105), 12 pages, 5 figures
+- 2025-11-06, **Property (T) group factors whose Jones index set equals all positive integers**, Ionut Chifan, Junhwi Lim, Paper: [https://arxiv.org/abs/2511.04822](https://arxiv.org/abs/2511.04822), 22 pages
 - 2025-11-06, **Non-hyperbolic 3-manifolds and bulk field theories for supersymmetric/ $W_N$ minimal models**, Seungjoo Baek, Heesu Kang, Paper: [https://arxiv.org/abs/2511.04524](https://arxiv.org/abs/2511.04524), 34 pages, 1 figure
 - 2025-11-06, **Symmetry-enriched topological order and quasi-fractonic behavior in $\mathbb{Z}_N$ stabilizer codes**, Siyu He, Hao Song, Paper: [https://arxiv.org/abs/2511.04430](https://arxiv.org/abs/2511.04430), 21 pages, 7 figures
 - 2025-11-06, **Quantum doubles in symmetric blockade structures**, Hans Peter Büchler, Tobias F. Maier, Simon Fell, Nicolai Lang, Paper: [https://arxiv.org/abs/2511.04414](https://arxiv.org/abs/2511.04414), 39 pages, 12 figures
