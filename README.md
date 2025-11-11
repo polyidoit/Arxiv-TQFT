@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Persistence of the Berezinskii-Kosterlitz-Thouless transition with long-range couplings**|Luis Walther, Josef Willsher, Johannes Knolle|[2511.07305](https://arxiv.org/abs/2511.07305)|null|
+|**2025-11-10**|**Why Extensile and Contractile Tissues Could be Hard to Tell Apart**|Jan Rozman, Sumesh P. Thampi, Julia M. Yeomans|[2511.07012](https://arxiv.org/abs/2511.07012)|null|
+|**2025-11-10**|**The Microscopic Structure of Stacking Faults in Sr $_2$NaNb$_5$O$_{15}$**|Robin Sjökvist, Yining Xie, Zabeada Aslam, Andy P. Brown, Nicholas C. Bristowe, Mark S. Senn, Richard Beanland|[2511.06983](https://arxiv.org/abs/2511.06983)|null|
+|**2025-11-09**|**Comment on CFT in AdS and boundary RG flows: O(1/N) Result**|Kaoru Ohno, Yutaka Okabe|[2511.06577](https://arxiv.org/abs/2511.06577)|null|
+|**2025-11-08**|**Conformal bootstrap in Mellin space from GG systems**|Koushik Ray|[2511.05979](https://arxiv.org/abs/2511.05979)|null|
+|**2025-11-08**|**An anomaly-free leptophilic $U(1)'_{\ell}$ completion of the Standard Model**|Seyit Okan Kara|[2511.05976](https://arxiv.org/abs/2511.05976)|null|
+|**2025-11-08**|**More on (gauged) WZW models over low-dimensional Lie supergroups and their integrable deformations**|Ali Eghbali, Meysam Hosseinpour-Sadid, Adel Rezaei-Aghdam|[2511.05959](https://arxiv.org/abs/2511.05959)|null|
+|**2025-11-08**|**Discovery Prospects for a Leptophilic Gauge Boson $Z_\ell$ at CEPC and ILC**|Seyit Okan Kara|[2511.05884](https://arxiv.org/abs/2511.05884)|null|
+|**2025-11-07**|**Grand Unification Higgs- $\mathcal{R}^2$ Inflation: Complementarity between Proton Decay and CMB Observables**|Nilay Bostan, Rafid H. Dejrah, Anish Ghoshal|[2511.05673](https://arxiv.org/abs/2511.05673)|null|
 |**2025-11-07**|**The Geometry of Paraxial Vector Beams**|Marco Ornigotti|[2511.05151](https://arxiv.org/abs/2511.05151)|null|
 |**2025-11-07**|**Compact localized fermions and Ising anyons in a chiral spin liquid**|Tim Bauer, Johannes Reuther|[2511.05105](https://arxiv.org/abs/2511.05105)|null|
 |**2025-11-06**|**Property (T) group factors whose Jones index set equals all positive integers**|Ionut Chifan, Junhwi Lim|[2511.04822](https://arxiv.org/abs/2511.04822)|null|

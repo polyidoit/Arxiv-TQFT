@@ -9,6 +9,18 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-11-10, **Persistence of the Berezinskii-Kosterlitz-Thouless transition with long-range couplings**, Luis Walther, Josef Willsher, Johannes Knolle, Paper: [https://arxiv.org/abs/2511.07305](https://arxiv.org/abs/2511.07305), 9 pages, 2 figures
+- 2025-11-10, **Why Extensile and Contractile Tissues Could be Hard to Tell Apart**, Jan Rozman, Sumesh P. Thampi, Julia M. Yeomans, Paper: [https://arxiv.org/abs/2511.07012](https://arxiv.org/abs/2511.07012)
+- 2025-11-10, **The Microscopic Structure of Stacking Faults in Sr $_2$NaNb$_5$O$_{15}$**, Robin Sjökvist, Yining Xie, Zabeada Aslam, Andy P. Brown, Nicholas C. Bristowe, Mark S. Senn, Richard Beanland, Paper: [https://arxiv.org/abs/2511.06983](https://arxiv.org/abs/2511.06983), 18 pages, 6 figures
+- 2025-11-09, **Comment on CFT in AdS and boundary RG flows: O(1/N) Result**, Kaoru Ohno, Yutaka Okabe, Paper: [https://arxiv.org/abs/2511.06577](https://arxiv.org/abs/2511.06577), 44 pages, 6 figures; This article is Comment on JHEP 11 (2020) 118;
+  arXiv: 2007.04955 (hep-th)
+- 2025-11-08, **Conformal bootstrap in Mellin space from GG systems**, Koushik Ray, Paper: [https://arxiv.org/abs/2511.05979](https://arxiv.org/abs/2511.05979), 9 pages, 2 figures
+- 2025-11-08, **An anomaly-free leptophilic $U(1)'_{\ell}$ completion of the Standard Model**, Seyit Okan Kara, Paper: [https://arxiv.org/abs/2511.05976](https://arxiv.org/abs/2511.05976), 23 pages, 1 figure, 1 table, all equations and diagrams
+  self-contained
+- 2025-11-08, **More on (gauged) WZW models over low-dimensional Lie supergroups and their integrable deformations**, Ali Eghbali, Meysam Hosseinpour-Sadid, Adel Rezaei-Aghdam, Paper: [https://arxiv.org/abs/2511.05959](https://arxiv.org/abs/2511.05959), 39 pages, to appear in Fortschr. Phys
+- 2025-11-08, **Discovery Prospects for a Leptophilic Gauge Boson $Z_\ell$ at CEPC and ILC**, Seyit Okan Kara, Paper: [https://arxiv.org/abs/2511.05884](https://arxiv.org/abs/2511.05884), 20 pages, 8 figures, accepted for publication in Chinese Physics C
+  (2025)
+- 2025-11-07, **Grand Unification Higgs- $\mathcal{R}^2$ Inflation: Complementarity between Proton Decay and CMB Observables**, Nilay Bostan, Rafid H. Dejrah, Anish Ghoshal, Paper: [https://arxiv.org/abs/2511.05673](https://arxiv.org/abs/2511.05673), 46 pages + Appendices + Refs., 11 figures
 - 2025-11-07, **The Geometry of Paraxial Vector Beams**, Marco Ornigotti, Paper: [https://arxiv.org/abs/2511.05151](https://arxiv.org/abs/2511.05151)
 - 2025-11-07, **Compact localized fermions and Ising anyons in a chiral spin liquid**, Tim Bauer, Johannes Reuther, Paper: [https://arxiv.org/abs/2511.05105](https://arxiv.org/abs/2511.05105), 12 pages, 5 figures
 - 2025-11-06, **Property (T) group factors whose Jones index set equals all positive integers**, Ionut Chifan, Junhwi Lim, Paper: [https://arxiv.org/abs/2511.04822](https://arxiv.org/abs/2511.04822), 22 pages
