@@ -1,4 +1,4 @@
-> Automatically updated on 2025.11.11
+> Automatically updated on 2025.11.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -499,5 +499,5 @@
   welcome
 - 2025-08-05, **A New Action for Superstring Field Theory**, Chris Hull, Paper: [https://arxiv.org/abs/2508.03902](https://arxiv.org/abs/2508.03902), 23 Pages
 
-<p align=right>(<a href=#updated-on-20251111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
 
