@@ -1011,7 +1011,7 @@
 |**2025-01-03**|**Genetic algorithm enhanced Solovay-Kitaev algorithm for quantum compiling**|Jiangwei Long, Xuyang Huang, Jianxin Zhong, Lijun Meng|[2501.01746](http://arxiv.org/abs/2501.01746)|null|
 |**2025-01-03**|**Topological quantum compilation of metaplectic anyons**|Jiangwei Long, Jianxin Zhong, Lijun Meng|[2501.01745](http://arxiv.org/abs/2501.01745)|null|
 |**2025-01-02**|**Is there Kibble-Zurek scaling of topological defects in first-order phase transitions?**|Fan Zhong|[2501.01064](http://arxiv.org/abs/2501.01064)|null|
-|**2024-12-31**|**Topological Leptogenesis**|Juven Wang|[2501.00607](http://arxiv.org/abs/2501.00607)|null|
+|**2025-01-31**|**Topological Leptogenesis**|Juven Wang|[2501.00607](https://arxiv.org/abs/2501.00607)|null|
 |**2024-12-31**|**Angle-resolved photoemission of topological materials**|Jaime Sánchez-Barriga, Oliver J. Clark, Oliver Rader|[2501.00497](http://arxiv.org/abs/2501.00497)|null|
 |**2024-12-31**|**Time-reversal invariant TQFTs from self-mirror symmetric SCFTs**|Hongliang Jiang|[2501.00460](http://arxiv.org/abs/2501.00460)|null|
 |**2024-12-31**|**Topic Review: Hatsugai-Kohmoto models: Exactly solvable playground for Mottness and Non-Fermi Liquid**|Miaomiao Zhao, Wei-Wei Yang, Yin Zhong|[2501.00388](http://arxiv.org/abs/2501.00388)|null|
@@ -1027,7 +1027,7 @@
 |**2024-12-29**|**Non-invertible SPTs: an on-site realization of (1+1)d anomaly-free fusion category symmetry**|Chenqi Meng, Xinping Yang, Tian Lan, Zhengcheng Gu|[2412.20546](http://arxiv.org/abs/2412.20546)|null|
 |**2024-12-27**|**A local automaton for the 2D toric code**|Shankar Balasubramanian, Margarita Davydova, Ethan Lake|[2412.19803](http://arxiv.org/abs/2412.19803)|null|
 |**2024-12-27**|**Non-Scaling Topological Defects and Gravitational Waves in Higgs Portal**|Wen Yin|[2412.19798](http://arxiv.org/abs/2412.19798)|null|
-|**2024-12-27**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia|[2412.19657](http://arxiv.org/abs/2412.19657)|null|
+|**2025-10-31**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia|[2412.19657](https://arxiv.org/abs/2412.19657)|null|
 |**2024-12-27**|**A non-semisimple non-invertible symmetry**|Clement Delcamp, Edmund Heng, Matthew Yu|[2412.19635](http://arxiv.org/abs/2412.19635)|null|
 |**2024-12-27**|**Gauging or extending bulk and boundary conformal field theories: Application to bulk and domain wall problem in topological matter and their descriptions by (mock) modular covariant**|Yoshiki Fukusumi|[2412.19577](http://arxiv.org/abs/2412.19577)|null|
 |**2024-12-25**|**Dynamics of Topological Defects in a Rashba Spin-Orbit Coupled Bose-Einstein Condensate**|Sheng Liu, Yong-Sheng Zhang|[2412.18850](http://arxiv.org/abs/2412.18850)|null|
@@ -1286,4 +1286,12 @@
 |**2024-08-23**|**Fusion 3-Categories for Duality Defects**|Lakshya Bhardwaj, Thibault Décoppet, Sakura Schafer-Nameki, Matthew Yu|[2408.13302](http://arxiv.org/abs/2408.13302)|null|
 |**2024-08-23**|**S-Matrix Bootstrap and Non-Invertible Symmetries**|Christian Copetti, Lucia Cordova, Shota Komatsu|[2408.13132](http://arxiv.org/abs/2408.13132)|null|
 |**2024-08-23**|**Real-time control of non-Abelian anyons in Kitaev spin liquid under energy dissipation**|Chihiro Harada, Atsushi Ono, Joji Nasu|[2408.12912](http://arxiv.org/abs/2408.12912)|null|
+|**2024-07-26**|**Weak Hopf symmetry and tube algebra of the generalized multifusion string-net model**|Zhian Jia, Sheng Tan, Dagomir Kaszlikowski|[2403.04446](https://arxiv.org/abs/2403.04446)|null|
+|**2024-08-01**|**Topological symmetry in quantum field theory**|Daniel S. Freed, Gregory W. Moore, Constantin Teleman|[2209.07471](https://arxiv.org/abs/2209.07471)|null|
+|**2024-10-22**|**Non-local Order Parameters and Quantum Entanglement for Fermionic Topological Field Theories**|Kansei Inamura, Ryohei Kobayashi, Shinsei Ryu|[1911.00653](https://arxiv.org/abs/1911.00653)|null|
+|**2022-09-01**|**Quantum 4d Yang-Mills Theory and Time-Reversal Symmetric 5d Higher-Gauge Topological Field Theory**|Zheyan Wan, Juven Wang, Yunqin Zheng|[1904.00994](https://arxiv.org/abs/1904.00994)|null|
+|**2018-06-04**|**Tunneling Topological Vacua via Extended Operators: (Spin-)TQFT Spectra and Boundary Deconfinement in Various Dimensions**|Juven Wang, Kantaro Ohmori, Pavel Putrov, Yunqin Zheng, Zheyan Wan, Meng Guo, Hai Lin, Peng Gao, Shing-Tung Yau|[1801.05416](https://arxiv.org/abs/1801.05416)|null|
+|**2022-05-31**|**Fractionalizing Global Symmetry on Looplike Topological Excitations**|Shang-Qiang Ning, Zheng-Xin Liu, Peng Ye|[1801.01638](https://arxiv.org/abs/1801.01638)|null|
+|**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
+|**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
