@@ -1,4 +1,4 @@
-> Automatically updated on 2025.11.14
+> Automatically updated on 2025.11.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-11-13, **Ordinary lattice defects as probes of topology**, Aiden J. Mains, Jia-Xin Zhong, Yun Jing, Bitan Roy, Paper: [https://arxiv.org/abs/2511.10646](https://arxiv.org/abs/2511.10646), 17 Pages and 12 Figures
+- 2025-11-13, **Supernematic**, Dan Mao, Eun-Ah Kim, Paper: [https://arxiv.org/abs/2511.10642](https://arxiv.org/abs/2511.10642), 17 + 7 pages, 9 + 7 figures
+- 2025-11-13, **Symmetries, operators and correlators in $J\bar{T}$ deformed CFTs**, Liangyu Chen, Zhengyuan Du, Wei Song, Paper: [https://arxiv.org/abs/2511.10557](https://arxiv.org/abs/2511.10557), 39 pages, 6 figures
+- 2025-11-13, **Noncommutative tensor triangular geometry: modules, bimodules, and unipotent Hopf algebras**, Øyvind Solberg, Kent B. Vashaw, Sarah Witherspoon, Paper: [https://arxiv.org/abs/2511.10531](https://arxiv.org/abs/2511.10531), 43 pages, comments welcome
+- 2025-11-13, **Shortcuts to adiabaticity for coherent atom transport in an adjustable family of two-dimensional optical lattices**, Sascha H. Hauck, Vladimir M. Stojanovic, Paper: [https://arxiv.org/abs/2511.10472](https://arxiv.org/abs/2511.10472), 14 pages, 8 figures
+- 2025-11-13, **Phenomenology of Non-Abelian Gauge and Goldstone Bosons in a U(2) Flavor Model**, Lorenzo Calibbi, Jiangyi Yi, Paper: [https://arxiv.org/abs/2511.10468](https://arxiv.org/abs/2511.10468), 28 pages, 2 figures
+- 2025-11-13, **Superluminal Spacetime Crystals Induced by Anomalous Velocity Modulation**, Filipa R. Prudêncio, Mário G. Silveirinha, Paper: [https://arxiv.org/abs/2511.10458](https://arxiv.org/abs/2511.10458)
+- 2025-11-13, **Continuous Branching Processes with Settlement in Cancer Metastasis: Stochastic Modelling and the Feller Property**, Ivan Biočić, Bruno Toaldo, Lena Zuspann, Paper: [https://arxiv.org/abs/2511.10456](https://arxiv.org/abs/2511.10456)
+- 2025-11-13, **Bubble Friction in Symmetry-Restoring Transitions**, Andrew J. Long, Bibhushan Shakya, Julia Anabell Ziegler, Paper: [https://arxiv.org/abs/2511.10415](https://arxiv.org/abs/2511.10415), 17 pages, 5 Figures
+- 2025-11-13, **Backbone three-point correlation function in the two-dimensional Potts model**, Ming Li, Youjin Deng, Jesper Lykke Jacobsen, Jesús Salas, Paper: [https://arxiv.org/abs/2511.10393](https://arxiv.org/abs/2511.10393), The document contains the paper (pdflatex, 14 pages) and 7 pdf figures
 - 2025-11-10, **Persistence of the Berezinskii-Kosterlitz-Thouless transition with long-range couplings**, Luis Walther, Josef Willsher, Johannes Knolle, Paper: [https://arxiv.org/abs/2511.07305](https://arxiv.org/abs/2511.07305), 9 pages, 2 figures
 - 2025-11-10, **Why Extensile and Contractile Tissues Could be Hard to Tell Apart**, Jan Rozman, Sumesh P. Thampi, Julia M. Yeomans, Paper: [https://arxiv.org/abs/2511.07012](https://arxiv.org/abs/2511.07012)
 - 2025-11-10, **The Microscopic Structure of Stacking Faults in Sr $_2$NaNb$_5$O$_{15}$**, Robin Sjökvist, Yining Xie, Zabeada Aslam, Andy P. Brown, Nicholas C. Bristowe, Mark S. Senn, Richard Beanland, Paper: [https://arxiv.org/abs/2511.06983](https://arxiv.org/abs/2511.06983), 18 pages, 6 figures
@@ -509,5 +519,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20251114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
 

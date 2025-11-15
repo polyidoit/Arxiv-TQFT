@@ -1,7 +1,17 @@
-> Automatically updated on 2025.11.14
+> Automatically updated on 2025.11.15
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-11-13**|**Ordinary lattice defects as probes of topology**|Aiden J. Mains, Jia-Xin Zhong, Yun Jing, Bitan Roy|[2511.10646](https://arxiv.org/abs/2511.10646)|null|
+|**2025-11-13**|**Supernematic**|Dan Mao, Eun-Ah Kim|[2511.10642](https://arxiv.org/abs/2511.10642)|null|
+|**2025-11-13**|**Symmetries, operators and correlators in $J\bar{T}$ deformed CFTs**|Liangyu Chen, Zhengyuan Du, Wei Song|[2511.10557](https://arxiv.org/abs/2511.10557)|null|
+|**2025-11-13**|**Noncommutative tensor triangular geometry: modules, bimodules, and unipotent Hopf algebras**|Øyvind Solberg, Kent B. Vashaw, Sarah Witherspoon|[2511.10531](https://arxiv.org/abs/2511.10531)|null|
+|**2025-11-13**|**Shortcuts to adiabaticity for coherent atom transport in an adjustable family of two-dimensional optical lattices**|Sascha H. Hauck, Vladimir M. Stojanovic|[2511.10472](https://arxiv.org/abs/2511.10472)|null|
+|**2025-11-13**|**Phenomenology of Non-Abelian Gauge and Goldstone Bosons in a U(2) Flavor Model**|Lorenzo Calibbi, Jiangyi Yi|[2511.10468](https://arxiv.org/abs/2511.10468)|null|
+|**2025-11-13**|**Superluminal Spacetime Crystals Induced by Anomalous Velocity Modulation**|Filipa R. Prudêncio, Mário G. Silveirinha|[2511.10458](https://arxiv.org/abs/2511.10458)|null|
+|**2025-11-13**|**Continuous Branching Processes with Settlement in Cancer Metastasis: Stochastic Modelling and the Feller Property**|Ivan Biočić, Bruno Toaldo, Lena Zuspann|[2511.10456](https://arxiv.org/abs/2511.10456)|null|
+|**2025-11-13**|**Bubble Friction in Symmetry-Restoring Transitions**|Andrew J. Long, Bibhushan Shakya, Julia Anabell Ziegler|[2511.10415](https://arxiv.org/abs/2511.10415)|null|
+|**2025-11-13**|**Backbone three-point correlation function in the two-dimensional Potts model**|Ming Li, Youjin Deng, Jesper Lykke Jacobsen, Jesús Salas|[2511.10393](https://arxiv.org/abs/2511.10393)|null|
 |**2025-11-10**|**Persistence of the Berezinskii-Kosterlitz-Thouless transition with long-range couplings**|Luis Walther, Josef Willsher, Johannes Knolle|[2511.07305](https://arxiv.org/abs/2511.07305)|null|
 |**2025-11-10**|**Why Extensile and Contractile Tissues Could be Hard to Tell Apart**|Jan Rozman, Sumesh P. Thampi, Julia M. Yeomans|[2511.07012](https://arxiv.org/abs/2511.07012)|null|
 |**2025-11-10**|**The Microscopic Structure of Stacking Faults in Sr $_2$NaNb$_5$O$_{15}$**|Robin Sjökvist, Yining Xie, Zabeada Aslam, Andy P. Brown, Nicholas C. Bristowe, Mark S. Senn, Richard Beanland|[2511.06983](https://arxiv.org/abs/2511.06983)|null|
