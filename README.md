@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**Implicit inference of the reionization history with higher-order statistics of the 21-cm signal**|Nicolas Cerardi, Sambit K. Giri, Michele Bianco, Davide Piras, Emmanuel de Salis, Massimo De Santis, Merve Selcuk-Simsek, Philipp Denzel, Kelley M. Hess, M. Carmen Toribio, Franz Kirsten, Hatem Ghorbel|[2511.11568](https://arxiv.org/abs/2511.11568)|null|
+|**2025-11-14**|**$CPT$ -Symmetric Kähler-Dirac Fermions**|Latham Boyle, Wei-Ning Deng|[2511.11548](https://arxiv.org/abs/2511.11548)|null|
+|**2025-11-14**|**RF-Squad: A radiofrequency simulator for quantum dot arrays**|Tara Murphy, Katarina Brlec, Giovanni Oakes, Lorenzo Peri, Henning Sirringhaus, Henry Moss, M. Fernando Gonzalez Zalba, David Wise|[2511.11504](https://arxiv.org/abs/2511.11504)|null|
+|**2025-11-14**|**A Quantum Spectral Method for Non-Periodic Boundary Value Problems**|Eky Febrianto, Yiren Wang, Burigede Liu, Michael Ortiz, Fehmi Cirak|[2511.11494](https://arxiv.org/abs/2511.11494)|null|
+|**2025-11-14**|**Visible and Terahertz Nonlinear Responses in the Topological Noble Metal Dichalcogenide PdTe2**|George J. de Coster, Lucas Lafeta, Stefan Heiserer, Cormac Ó Coileáin, Zdenek Sofer, Achim Hartschuh, Georg S. Duesberg, Paul Seifert|[2511.11493](https://arxiv.org/abs/2511.11493)|null|
+|**2025-11-14**|**Sat2RealCity: Geometry-Aware and Appearance-Controllable 3D Urban Generation from Satellite Imagery**|Yijie Kang, Xinliang Wang, Zhenyu Wu, Yifeng Shi, Hailong Zhu|[2511.11470](https://arxiv.org/abs/2511.11470)|null|
+|**2025-11-14**|**Translation-Symmetric Market: Enabling Incentive Compatibility For DER Aggregation**|Ruike Lyu, Chuyi Li, Kedi Zheng, Mengshu Shi, Hongye Guo, Chongqing Kang|[2511.11453](https://arxiv.org/abs/2511.11453)|null|
+|**2025-11-14**|**Search for possible signals of space-time non-commutativity from ACT DR6**|Vishnu Rajagopal, Puxun Wu|[2511.11426](https://arxiv.org/abs/2511.11426)|null|
+|**2025-11-14**|**GRANITE: Mechanical Characterization and Optical Inspection of Large-Area TPC Electrodes**|Alexander Deisting, Jan Lommler, Shumit A. Mitra, Uwe Oberlack, Fabian Piermaier, Quirin Weitzel, Daniel Wenz|[2511.11400](https://arxiv.org/abs/2511.11400)|null|
+|**2025-11-14**|**When Genes Speak: A Semantic-Guided Framework for Spatially Resolved Transcriptomics Data Clustering**|Jiangkai Long, Yanran Zhu, Chang Tang, Kun Sun, Yuanyuan Liu, Xuesong Yan|[2511.11380](https://arxiv.org/abs/2511.11380)|null|
 |**2025-11-13**|**Ordinary lattice defects as probes of topology**|Aiden J. Mains, Jia-Xin Zhong, Yun Jing, Bitan Roy|[2511.10646](https://arxiv.org/abs/2511.10646)|null|
 |**2025-11-13**|**Supernematic**|Dan Mao, Eun-Ah Kim|[2511.10642](https://arxiv.org/abs/2511.10642)|null|
 |**2025-11-13**|**Symmetries, operators and correlators in $J\bar{T}$ deformed CFTs**|Liangyu Chen, Zhengyuan Du, Wei Song|[2511.10557](https://arxiv.org/abs/2511.10557)|null|
