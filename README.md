@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-17**|**Bosonisation Cohomology: Spin Structure Summation in Every Dimension**|Philip Boyle Smith, Joe Davighi|[2511.13718](https://arxiv.org/abs/2511.13718)|null|
+|**2025-11-17**|**Generalized Global Symmetries of $T[M]$ Theories: Part II**|Sergei Gukov, Po-Shen Hsin, Du Pei|[2511.13696](https://arxiv.org/abs/2511.13696)|null|
+|**2025-11-17**|**The hard ultraluminous state of NGC 5055 ULX X-1**|N. Cruz-Sanchez, E. A. Saavedra, F. A. Fogantini, F. García, J. A. Combi|[2511.13686](https://arxiv.org/abs/2511.13686)|null|
+|**2025-11-17**|**Open-shell frozen natural orbital approach for quantum eigensolvers**|Angela F. Harper, Xiaobing Liu, Scott N. Genin, Ilya G. Ryabinkin|[2511.13677](https://arxiv.org/abs/2511.13677)|null|
+|**2025-11-17**|**HilbMult: A Banach-Enriched Multicategory for Operator Algebras**|Shih-Yu Chang|[2511.13674](https://arxiv.org/abs/2511.13674)|null|
+|**2025-11-17**|**Einstein-Maxwell fields as solutions of Einstein gravity coupled to conformally invariant non-linear electrodynamics**|Marcello Ortaggio|[2511.13665](https://arxiv.org/abs/2511.13665)|null|
+|**2025-11-17**|**Architectural Approaches to Fault-Tolerant Distributed Quantum Computing and Their Entanglement Overheads**|Nitish Kumar Chandra, Eneet Kaur, Kaushik P. Seshadreesan|[2511.13657](https://arxiv.org/abs/2511.13657)|null|
+|**2025-11-17**|**Precision tests of bulk entanglement: AdS3 vectors**|Rayirth Bhat, Justin R. David, Semanti Dutta|[2511.13549](https://arxiv.org/abs/2511.13549)|null|
+|**2025-11-17**|**Simultaneous variances of Pauli strings, weighted independence numbers, and a new kind of perfection of graphs**|Zhen-Peng Xu, Jie Wang, Qi Ye, Gereon Koßmann, René Schwonnek, Andreas Winter|[2511.13531](https://arxiv.org/abs/2511.13531)|null|
+|**2025-11-17**|**On the General Projective Theory of Matter and Gravitation**|Michael J. Connolly|[2511.13521](https://arxiv.org/abs/2511.13521)|null|
 |**2025-11-14**|**Implicit inference of the reionization history with higher-order statistics of the 21-cm signal**|Nicolas Cerardi, Sambit K. Giri, Michele Bianco, Davide Piras, Emmanuel de Salis, Massimo De Santis, Merve Selcuk-Simsek, Philipp Denzel, Kelley M. Hess, M. Carmen Toribio, Franz Kirsten, Hatem Ghorbel|[2511.11568](https://arxiv.org/abs/2511.11568)|null|
 |**2025-11-14**|**$CPT$ -Symmetric Kähler-Dirac Fermions**|Latham Boyle, Wei-Ning Deng|[2511.11548](https://arxiv.org/abs/2511.11548)|null|
 |**2025-11-14**|**RF-Squad: A radiofrequency simulator for quantum dot arrays**|Tara Murphy, Katarina Brlec, Giovanni Oakes, Lorenzo Peri, Henning Sirringhaus, Henry Moss, M. Fernando Gonzalez Zalba, David Wise|[2511.11504](https://arxiv.org/abs/2511.11504)|null|
