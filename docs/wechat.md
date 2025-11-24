@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-11-21, **Fractional Chern insulator edges: crystalline effects and optical measurements**, Yan-Qi Wang, Johannes Motruk, Andrey Grankin, Mohammad Hafezi, Paper: [https://arxiv.org/abs/2511.17494](https://arxiv.org/abs/2511.17494), 5+ pages, 4 figures
+- 2025-11-21, **Efficient prediction of topological superlattice bands with spin-orbit coupling**, M. Nabil Y. Lhachemi, Valentin Crépel, Jennifer Cano, Paper: [https://arxiv.org/abs/2511.17483](https://arxiv.org/abs/2511.17483), 15 pages, 4 figures
+- 2025-11-21, **Origin of large topological Hall effect in the EuCd $_2$Sb$_2$ antiferromagnet**, Faheem Gul, Orest Pavlosiuk, Tetiana Romanova, Dariusz Kaczorowski, Piotr Wiśniewski, Paper: [https://arxiv.org/abs/2511.17445](https://arxiv.org/abs/2511.17445), 9 pages, 5 figures, Supplemental Material has 5 pages and 6 figures
+- 2025-11-21, **Measuring Anyonic Exchange Phases Using Two-Dimensional Coherent Spectroscopy**, Nico Kirchner, Wonjune Choi, Frank Pollmann, Paper: [https://arxiv.org/abs/2511.17420](https://arxiv.org/abs/2511.17420), 12 pages, 3 figures
+- 2025-11-21, **Frobenius Revivals in Laplacian Cellular Automata: Chaos, Replication, and Reversible Encoding**, Małgorzata Nowak-Kępczyk, Paper: [https://arxiv.org/abs/2511.17389](https://arxiv.org/abs/2511.17389), 15 pages, 5 figures
+- 2025-11-21, **A new computational tool for Khovanov cobordism maps**, Zsombor Fehér, Paper: [https://arxiv.org/abs/2511.17274](https://arxiv.org/abs/2511.17274), 17 pages, 6 tables, 1 figure
+- 2025-11-21, **Lyapunov and Riccati Equations from a Positive System Perspective**, Dongjun Wu, Yankai Lin, Paper: [https://arxiv.org/abs/2511.17243](https://arxiv.org/abs/2511.17243)
+- 2025-11-21, **Ferroelectric Switchable Topological Magnon Hall Effect in Type-I Multiferroics**, Quanchao Du, Jinlian Lu, Xueqing Wan, Zhenlong Zhang, Zhijun Jiang, Paper: [https://arxiv.org/abs/2511.17189](https://arxiv.org/abs/2511.17189), 15 pages, 4 figures
+- 2025-11-21, **Probing Boundary Spins in the Su-Schrieffer-Heeger-Hubbard model**, Armando A. Aligia, Alejandro M. Lobos, Lucila Peralta Gavensky, Claudio J. Gazza, Paper: [https://arxiv.org/abs/2511.17173](https://arxiv.org/abs/2511.17173), 12 pages, 7 figures
+- 2025-11-21, **Anyon Quasilocalization in a Quasicrystalline Toric Code**, Soumya Sur, Mohammad Saad, Adhip Agarwala, Paper: [https://arxiv.org/abs/2511.17144](https://arxiv.org/abs/2511.17144), Main text: 14 pages, 6 figures, Supplementary Material: 12 pages, 12 figures, comments are welcome
 - 2025-11-20, **Strained hyperbolic Dirac fermions: Zero modes, flat bands, and competing orders**, Christopher A. Leong, Bitan Roy, Paper: [https://arxiv.org/abs/2511.16667](https://arxiv.org/abs/2511.16667), 19 Pages, 11 Figures, and 1 Table (For full Abstract see manuscript)
 - 2025-11-20, **Domain walls in the scaling regime: Equal Time Correlator and Gravitational Waves**, Simone Blasi, Alberto Mariotti, Aäron Rase, Miguel Vanvlasselaer, Paper: [https://arxiv.org/abs/2511.16649](https://arxiv.org/abs/2511.16649), 42 pages, 18 figures, 5 tables
 - 2025-11-20, **Measurement incompatibility in Bayesian multiparameter quantum estimation**, Francesco Albarelli, Dominic Branford, Jesús Rubio, Paper: [https://arxiv.org/abs/2511.16645](https://arxiv.org/abs/2511.16645), 24 pages, 3 figures

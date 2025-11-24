@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Fractional Chern insulator edges: crystalline effects and optical measurements**|Yan-Qi Wang, Johannes Motruk, Andrey Grankin, Mohammad Hafezi|[2511.17494](https://arxiv.org/abs/2511.17494)|null|
+|**2025-11-21**|**Efficient prediction of topological superlattice bands with spin-orbit coupling**|M. Nabil Y. Lhachemi, Valentin Crépel, Jennifer Cano|[2511.17483](https://arxiv.org/abs/2511.17483)|null|
+|**2025-11-21**|**Origin of large topological Hall effect in the EuCd $_2$Sb$_2$ antiferromagnet**|Faheem Gul, Orest Pavlosiuk, Tetiana Romanova, Dariusz Kaczorowski, Piotr Wiśniewski|[2511.17445](https://arxiv.org/abs/2511.17445)|null|
+|**2025-11-21**|**Measuring Anyonic Exchange Phases Using Two-Dimensional Coherent Spectroscopy**|Nico Kirchner, Wonjune Choi, Frank Pollmann|[2511.17420](https://arxiv.org/abs/2511.17420)|null|
+|**2025-11-21**|**Frobenius Revivals in Laplacian Cellular Automata: Chaos, Replication, and Reversible Encoding**|Małgorzata Nowak-Kępczyk|[2511.17389](https://arxiv.org/abs/2511.17389)|null|
+|**2025-11-21**|**A new computational tool for Khovanov cobordism maps**|Zsombor Fehér|[2511.17274](https://arxiv.org/abs/2511.17274)|null|
+|**2025-11-21**|**Lyapunov and Riccati Equations from a Positive System Perspective**|Dongjun Wu, Yankai Lin|[2511.17243](https://arxiv.org/abs/2511.17243)|null|
+|**2025-11-21**|**Ferroelectric Switchable Topological Magnon Hall Effect in Type-I Multiferroics**|Quanchao Du, Jinlian Lu, Xueqing Wan, Zhenlong Zhang, Zhijun Jiang|[2511.17189](https://arxiv.org/abs/2511.17189)|null|
+|**2025-11-21**|**Probing Boundary Spins in the Su-Schrieffer-Heeger-Hubbard model**|Armando A. Aligia, Alejandro M. Lobos, Lucila Peralta Gavensky, Claudio J. Gazza|[2511.17173](https://arxiv.org/abs/2511.17173)|null|
+|**2025-11-21**|**Anyon Quasilocalization in a Quasicrystalline Toric Code**|Soumya Sur, Mohammad Saad, Adhip Agarwala|[2511.17144](https://arxiv.org/abs/2511.17144)|null|
 |**2025-11-20**|**Strained hyperbolic Dirac fermions: Zero modes, flat bands, and competing orders**|Christopher A. Leong, Bitan Roy|[2511.16667](https://arxiv.org/abs/2511.16667)|null|
 |**2025-11-20**|**Domain walls in the scaling regime: Equal Time Correlator and Gravitational Waves**|Simone Blasi, Alberto Mariotti, Aäron Rase, Miguel Vanvlasselaer|[2511.16649](https://arxiv.org/abs/2511.16649)|null|
 |**2025-11-20**|**Measurement incompatibility in Bayesian multiparameter quantum estimation**|Francesco Albarelli, Dominic Branford, Jesús Rubio|[2511.16645](https://arxiv.org/abs/2511.16645)|null|
