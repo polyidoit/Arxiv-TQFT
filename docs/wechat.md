@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-11-24, **Chiral spin liquid instability of the Kitaev honeycomb model with crystallographic defects**, Arnab Seth, Fay Borhani, Itamar Kimchi, Paper: [https://arxiv.org/abs/2511.19409](https://arxiv.org/abs/2511.19409), 7 pages, 3 figures
+- 2025-11-24, **Conformal symmetry of the massless Staruszkiewicz model**, A. Duviryak, Paper: [https://arxiv.org/abs/2511.19388](https://arxiv.org/abs/2511.19388), 11 pages, 2 figures
+- 2025-11-24, **Categorical 4-manifold invariants from trisection diagrams**, Catherine Meusburger, Vincentas Mulevicius, Fiona Torzewska, Paper: [https://arxiv.org/abs/2511.19384](https://arxiv.org/abs/2511.19384), 68 pages
+- 2025-11-24, **A note on TQFTs for orientable 2-dimensional cobordisms**, Leon J. Goertz, Paul Wedrich, Paper: [https://arxiv.org/abs/2511.19373](https://arxiv.org/abs/2511.19373), 5 pages, comments welcome
+- 2025-11-24, **A construction of surface skein TQFTs and their extension to 4-dimensional 2-handlebodies**, Leon J. Goertz, Paper: [https://arxiv.org/abs/2511.19352](https://arxiv.org/abs/2511.19352), 51 pages, comments welcome
+- 2025-11-24, **Systematic assessment of the Hubble tension via Bayesian jackknife testing**, Thomas Hughes, Michael J. Wilensky, Philip Bull, Paper: [https://arxiv.org/abs/2511.19341](https://arxiv.org/abs/2511.19341), 13 pages, 8 figures. For the busy reader: jump to figures 6 and 8
+- 2025-11-24, **Diagnosis of mixed-state topological phases in strongly correlated systems via disorder parameters**, Shao-Hang Shi, Xiao-Qi Sun, Zi-Xiang Li, Paper: [https://arxiv.org/abs/2511.19311](https://arxiv.org/abs/2511.19311), 6+8 pages, 4+4 figures
+- 2025-11-24, **E-coherent crystalline interfaces: coherency enhanced by discohesion arrays**, Ryan B. Sills, Alejandro Hinojos, Trevor J. Murray, Shane H. Cooley, Xiaowang W. Zhou, Douglas L. Medlin, Paper: [https://arxiv.org/abs/2511.19298](https://arxiv.org/abs/2511.19298)
+- 2025-11-24, **Noetherian pointed Hopf algebras are affine**, Huan Jia, Yinhuo Zhang, Paper: [https://arxiv.org/abs/2511.19293](https://arxiv.org/abs/2511.19293)
+- 2025-11-24, **Performance Guarantees for Quantum Neural Estimation of Entropies**, Sreejith Sreekumar, Ziv Goldfeld, Mark M. Wilde, Paper: [https://arxiv.org/abs/2511.19289](https://arxiv.org/abs/2511.19289), 42+4 pages
 - 2025-11-21, **Fractional Chern insulator edges: crystalline effects and optical measurements**, Yan-Qi Wang, Johannes Motruk, Andrey Grankin, Mohammad Hafezi, Paper: [https://arxiv.org/abs/2511.17494](https://arxiv.org/abs/2511.17494), 5+ pages, 4 figures
 - 2025-11-21, **Efficient prediction of topological superlattice bands with spin-orbit coupling**, M. Nabil Y. Lhachemi, Valentin Crépel, Jennifer Cano, Paper: [https://arxiv.org/abs/2511.17483](https://arxiv.org/abs/2511.17483), 15 pages, 4 figures
 - 2025-11-21, **Origin of large topological Hall effect in the EuCd $_2$Sb$_2$ antiferromagnet**, Faheem Gul, Orest Pavlosiuk, Tetiana Romanova, Dariusz Kaczorowski, Piotr Wiśniewski, Paper: [https://arxiv.org/abs/2511.17445](https://arxiv.org/abs/2511.17445), 9 pages, 5 figures, Supplemental Material has 5 pages and 6 figures
