@@ -12,6 +12,7 @@
 |**2025-11-26**|**Diagonal Scaling: A Multi-Dimensional Resource Model and Optimization Framework for Distributed Databases**|Shahir Abdullah, Syed Rohit Zaman|[2511.21612](https://arxiv.org/abs/2511.21612)|null|
 |**2025-11-26**|**Dichroism from Thermoelectric Chiral Drives: Generalized Sum Rules for Orbital and Heat Magnetizations**|Baptiste Bermond, Lucila Peralta Gavensky, Anaïs Defossez, Nathan Goldman|[2511.21599](https://arxiv.org/abs/2511.21599)|null|
 |**2025-11-26**|**Unconventional orders in the maple-leaf ferro-antiferromagnetic Heisenberg model**|Lasse Gresista, Dominik Kiese, Simon Trebst, Yasir Iqbal|[2511.21598](https://arxiv.org/abs/2511.21598)|null|
+|**2025-11-26**|**Sector theory of Levin-Wen models I : Classification of Anyon Sectors**|Alex Bols, Boris Kjaer|[2511.21521](https://arxiv.org/abs/2511.21521)|null|
 |**2025-11-25**|**Extracting conserved operators from a projected entangled pair state**|Wen-Tao Xu, Miguel Frías Pérez, Mingru Yang|[2511.20619](https://arxiv.org/abs/2511.20619)|null|
 |**2025-11-25**|**Topological edge states in curved zigzag superlattices in nonlinear exciton-polaritons**|Jing Wang, Tobias Schneider, Wei Hu, Stefan Schumacher, Xuekai Ma|[2511.20611](https://arxiv.org/abs/2511.20611)|null|
 |**2025-11-25**|**From quantum geometry to non-linear optics and gerbes: Recent advances in topological band theory**|Tomáš Bzdušek|[2511.20608](https://arxiv.org/abs/2511.20608)|null|
