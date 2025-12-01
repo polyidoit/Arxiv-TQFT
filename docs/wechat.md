@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-11-28, **Wilson loops, symmetries, and selective bulk-boundary correspondence in higher-order topological insulators**, Suman Aich, Babak Seradjeh, Paper: [https://arxiv.org/abs/2511.23471](https://arxiv.org/abs/2511.23471), 15 pages, 10 figures
+- 2025-11-28, **Klein Bottle Cosmology**, Brian Greene, Daniel Kabat, Janna Levin, Massimo Porrati, Paper: [https://arxiv.org/abs/2511.23447](https://arxiv.org/abs/2511.23447), 25 pages, 4 figures
+- 2025-11-28, **Hilbert space fragmentation in driven-dephasing Rydberg atom array**, Tianyi Yan, Chun Hei Leung, Weibin Li, Paper: [https://arxiv.org/abs/2511.23395](https://arxiv.org/abs/2511.23395), main text with supplementary materials
+- 2025-11-28, **Surface functionalization modulates collective cell behavior at integer topological defects**, Prasoon Awasthi, Aniruddh Murali, Ellen Juel Pørtner, Adam Cohen Simonsen, Francesca Serra, Paper: [https://arxiv.org/abs/2511.23380](https://arxiv.org/abs/2511.23380), 10 pages, 4 figures, 8 supplemental pages, 8 supplemental figures, and 3 supplemental videos
+- 2025-11-28, **Quantum Matrix Spherical Functions**, Stein Meereboer, Philip Schlösser, Paper: [https://arxiv.org/abs/2511.23367](https://arxiv.org/abs/2511.23367)
+- 2025-11-28, **Generalised Symmetries and Manifest Duality I: Flat Spacetime**, Subhroneel Chakrabarti, Arkajyoti Manna, Madhusudhan Raman, Paper: [https://arxiv.org/abs/2511.23350](https://arxiv.org/abs/2511.23350), 35 pages, 5 figures
+- 2025-11-28, **Exchange interaction in gate-defined quantum dots beyond the Hubbard model**, Alexander Willmes, Patrick Bethke, M. Mohamed El Kordy Shehata, George Simion, M. A. Wolfe, Tim Botzem, Robert P. G. McNeil, Julian Ritzmann, Arne Ludwig, Andreas D. Wieck, Dieter Schuh, Dominique Bougeard, Hendrik Bluhm, Paper: [https://arxiv.org/abs/2511.23277](https://arxiv.org/abs/2511.23277), 11 pages, 8 figures
+- 2025-11-28, **Controlling Dissipative Topology Through Floquet Driving: From Transient Diagnostics to Boundary States Isolation**, Koustav Roy, Shahroze Shahab, Saurabh Basu, Paper: [https://arxiv.org/abs/2511.23229](https://arxiv.org/abs/2511.23229)
+- 2025-11-28, **Witten-O'Raifeartaigh potential revisited in the context of Warm Inflation**, Suratna Das, Umang Kumar, Swagat S. Mishra, Varun Sahni, Paper: [https://arxiv.org/abs/2511.23219](https://arxiv.org/abs/2511.23219), 12 pages, 11 figures, double column
+- 2025-11-28, **3D TFTs and boundary VOAs from BPS spectra of $(G,G')$ Argyres-Douglas theories**, Minsung Kim, Sungjoon Kim, Paper: [https://arxiv.org/abs/2511.23194](https://arxiv.org/abs/2511.23194), 73 pages, 10 figures
 - 2025-11-26, **Heterotic Black Holes in Duality-Invariant Formalism**, Upamanyu Moitra, Paper: [https://arxiv.org/abs/2511.21687](https://arxiv.org/abs/2511.21687), v1: 22 pages, 1 figure
 - 2025-11-26, **Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**, Akash Vijay, Jong Yeon Lee, Paper: [https://arxiv.org/abs/2511.21685](https://arxiv.org/abs/2511.21685)
 - 2025-11-26, **New Obstacles to Multiple Recurrence**, Ryan Alweiss, Paper: [https://arxiv.org/abs/2511.21680](https://arxiv.org/abs/2511.21680), 12 pages, 1 figure, comments welcome!

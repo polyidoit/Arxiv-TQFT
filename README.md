@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Wilson loops, symmetries, and selective bulk-boundary correspondence in higher-order topological insulators**|Suman Aich, Babak Seradjeh|[2511.23471](https://arxiv.org/abs/2511.23471)|null|
+|**2025-11-28**|**Klein Bottle Cosmology**|Brian Greene, Daniel Kabat, Janna Levin, Massimo Porrati|[2511.23447](https://arxiv.org/abs/2511.23447)|null|
+|**2025-11-28**|**Hilbert space fragmentation in driven-dephasing Rydberg atom array**|Tianyi Yan, Chun Hei Leung, Weibin Li|[2511.23395](https://arxiv.org/abs/2511.23395)|null|
+|**2025-11-28**|**Surface functionalization modulates collective cell behavior at integer topological defects**|Prasoon Awasthi, Aniruddh Murali, Ellen Juel Pørtner, Adam Cohen Simonsen, Francesca Serra|[2511.23380](https://arxiv.org/abs/2511.23380)|null|
+|**2025-11-28**|**Quantum Matrix Spherical Functions**|Stein Meereboer, Philip Schlösser|[2511.23367](https://arxiv.org/abs/2511.23367)|null|
+|**2025-11-28**|**Generalised Symmetries and Manifest Duality I: Flat Spacetime**|Subhroneel Chakrabarti, Arkajyoti Manna, Madhusudhan Raman|[2511.23350](https://arxiv.org/abs/2511.23350)|null|
+|**2025-11-28**|**Exchange interaction in gate-defined quantum dots beyond the Hubbard model**|Alexander Willmes, Patrick Bethke, M. Mohamed El Kordy Shehata, George Simion, M. A. Wolfe, Tim Botzem, Robert P. G. McNeil, Julian Ritzmann, Arne Ludwig, Andreas D. Wieck, Dieter Schuh, Dominique Bougeard, Hendrik Bluhm|[2511.23277](https://arxiv.org/abs/2511.23277)|null|
+|**2025-11-28**|**Controlling Dissipative Topology Through Floquet Driving: From Transient Diagnostics to Boundary States Isolation**|Koustav Roy, Shahroze Shahab, Saurabh Basu|[2511.23229](https://arxiv.org/abs/2511.23229)|null|
+|**2025-11-28**|**Witten-O'Raifeartaigh potential revisited in the context of Warm Inflation**|Suratna Das, Umang Kumar, Swagat S. Mishra, Varun Sahni|[2511.23219](https://arxiv.org/abs/2511.23219)|null|
+|**2025-11-28**|**3D TFTs and boundary VOAs from BPS spectra of $(G,G')$ Argyres-Douglas theories**|Minsung Kim, Sungjoon Kim|[2511.23194](https://arxiv.org/abs/2511.23194)|null|
 |**2025-11-26**|**Heterotic Black Holes in Duality-Invariant Formalism**|Upamanyu Moitra|[2511.21687](https://arxiv.org/abs/2511.21687)|null|
 |**2025-11-26**|**Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**|Akash Vijay, Jong Yeon Lee|[2511.21685](https://arxiv.org/abs/2511.21685)|null|
 |**2025-11-26**|**New Obstacles to Multiple Recurrence**|Ryan Alweiss|[2511.21680](https://arxiv.org/abs/2511.21680)|null|
