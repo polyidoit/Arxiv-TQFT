@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-01**|**Onsager Condensation in Chiral Active Matter: Universality of Topological Gas Dynamics**|Magnus F Ivarsen|[2512.01884](https://arxiv.org/abs/2512.01884)|null|
+|**2025-12-01**|**The Mean-Field Dynamics of Transformers**|Philippe Rigollet|[2512.01868](https://arxiv.org/abs/2512.01868)|null|
+|**2025-12-01**|**Topological Order in Deep State**|Ahmed Abouelkomsan, Max Geier, Liang Fu|[2512.01863](https://arxiv.org/abs/2512.01863)|null|
+|**2025-12-01**|**A discomfort-informed adaptive Gibbs sampler for finite mixture models**|Davide Fabbrico, Andi Q. Wang, Sebastiano Grazzi, Alice Corbella, Gareth O. Roberts, Sylvia Richardson, Filippo Pagani, Paul D. W. Kirk|[2512.01847](https://arxiv.org/abs/2512.01847)|null|
+|**2025-12-01**|**Non-archimedean Infinite Hecke Algebra**|Milo Bechtloff Weising|[2512.01835](https://arxiv.org/abs/2512.01835)|null|
+|**2025-12-01**|**Towards a complete description of multiple D $p$-brane systems: Multiple D$0$ Story**|Unai D. M. Sarraga|[2512.01746](https://arxiv.org/abs/2512.01746)|null|
+|**2025-12-01**|**Floquet-induced $p_x+ip_y$ bosonic pair condensate**|Zhizhen Chen, Jiale Huang, Mingpu Qin, Zi Cai|[2512.01674](https://arxiv.org/abs/2512.01674)|null|
+|**2025-12-01**|**Horizon Data: Existence Results and a Near-Horizon Equation on General Null Hypersurfaces**|Miguel Manzano, Marc Mars|[2512.01670](https://arxiv.org/abs/2512.01670)|null|
+|**2025-12-01**|**GPTrace: Effective Crash Deduplication Using LLM Embeddings**|Patrick Herter, Vincent Ahlrichs, Ridvan Açilan, Julian Horsch|[2512.01609](https://arxiv.org/abs/2512.01609)|null|
+|**2025-12-01**|**Real-Space Spectral Approach to Orbital Magnetization**|Kevin J. U. Vidarte, Henrique P. Veiga, João M. Viana Parente Lopes, Ramon Cardias, Aires Ferreira, Tarik P. Cysne, Tatiana G. Rappoport|[2512.01575](https://arxiv.org/abs/2512.01575)|null|
 |**2025-11-28**|**Wilson loops, symmetries, and selective bulk-boundary correspondence in higher-order topological insulators**|Suman Aich, Babak Seradjeh|[2511.23471](https://arxiv.org/abs/2511.23471)|null|
 |**2025-11-28**|**Klein Bottle Cosmology**|Brian Greene, Daniel Kabat, Janna Levin, Massimo Porrati|[2511.23447](https://arxiv.org/abs/2511.23447)|null|
 |**2025-11-28**|**Hilbert space fragmentation in driven-dephasing Rydberg atom array**|Tianyi Yan, Chun Hei Leung, Weibin Li|[2511.23395](https://arxiv.org/abs/2511.23395)|null|

@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-01, **Onsager Condensation in Chiral Active Matter: Universality of Topological Gas Dynamics**, Magnus F Ivarsen, Paper: [https://arxiv.org/abs/2512.01884](https://arxiv.org/abs/2512.01884), 10 pages, 6 figures, 1 table
+- 2025-12-01, **The Mean-Field Dynamics of Transformers**, Philippe Rigollet, Paper: [https://arxiv.org/abs/2512.01868](https://arxiv.org/abs/2512.01868), to appear as Proceedings of the ICM2026, Philadelphia, USA
+- 2025-12-01, **Topological Order in Deep State**, Ahmed Abouelkomsan, Max Geier, Liang Fu, Paper: [https://arxiv.org/abs/2512.01863](https://arxiv.org/abs/2512.01863), 5 pages + 6 SM
+- 2025-12-01, **A discomfort-informed adaptive Gibbs sampler for finite mixture models**, Davide Fabbrico, Andi Q. Wang, Sebastiano Grazzi, Alice Corbella, Gareth O. Roberts, Sylvia Richardson, Filippo Pagani, Paul D. W. Kirk, Paper: [https://arxiv.org/abs/2512.01847](https://arxiv.org/abs/2512.01847), 40 pages
+- 2025-12-01, **Non-archimedean Infinite Hecke Algebra**, Milo Bechtloff Weising, Paper: [https://arxiv.org/abs/2512.01835](https://arxiv.org/abs/2512.01835), 23 pages
+- 2025-12-01, **Towards a complete description of multiple D $p$-brane systems: Multiple D$0$ Story**, Unai D. M. Sarraga, Paper: [https://arxiv.org/abs/2512.01746](https://arxiv.org/abs/2512.01746), PhD Thesis
+- 2025-12-01, **Floquet-induced $p_x+ip_y$ bosonic pair condensate**, Zhizhen Chen, Jiale Huang, Mingpu Qin, Zi Cai, Paper: [https://arxiv.org/abs/2512.01674](https://arxiv.org/abs/2512.01674)
+- 2025-12-01, **Horizon Data: Existence Results and a Near-Horizon Equation on General Null Hypersurfaces**, Miguel Manzano, Marc Mars, Paper: [https://arxiv.org/abs/2512.01670](https://arxiv.org/abs/2512.01670), 30 pages
+- 2025-12-01, **GPTrace: Effective Crash Deduplication Using LLM Embeddings**, Patrick Herter, Vincent Ahlrichs, Ridvan Açilan, Julian Horsch, Paper: [https://arxiv.org/abs/2512.01609](https://arxiv.org/abs/2512.01609), Original publication in 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26), April 12-18, 2026, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 12 pages
+- 2025-12-01, **Real-Space Spectral Approach to Orbital Magnetization**, Kevin J. U. Vidarte, Henrique P. Veiga, João M. Viana Parente Lopes, Ramon Cardias, Aires Ferreira, Tarik P. Cysne, Tatiana G. Rappoport, Paper: [https://arxiv.org/abs/2512.01575](https://arxiv.org/abs/2512.01575)
 - 2025-11-28, **Wilson loops, symmetries, and selective bulk-boundary correspondence in higher-order topological insulators**, Suman Aich, Babak Seradjeh, Paper: [https://arxiv.org/abs/2511.23471](https://arxiv.org/abs/2511.23471), 15 pages, 10 figures
 - 2025-11-28, **Klein Bottle Cosmology**, Brian Greene, Daniel Kabat, Janna Levin, Massimo Porrati, Paper: [https://arxiv.org/abs/2511.23447](https://arxiv.org/abs/2511.23447), 25 pages, 4 figures
 - 2025-11-28, **Hilbert space fragmentation in driven-dephasing Rydberg atom array**, Tianyi Yan, Chun Hei Leung, Weibin Li, Paper: [https://arxiv.org/abs/2511.23395](https://arxiv.org/abs/2511.23395), main text with supplementary materials
