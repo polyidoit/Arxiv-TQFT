@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-02**|**Information dynamics and symmetry breaking in generic monitored $\mathbb{Z}_2$ -symmetric open quantum systems**|Jacob Hauser, Ali Lavasani, Sagar Vijay, Matthew P. A. Fisher|[2512.03031](https://arxiv.org/abs/2512.03031)|null|
+|**2025-12-02**|**Topological marker in three dimensions based on kernel polynomial method**|Ranadeep Roy, Wei Chen|[2512.03022](https://arxiv.org/abs/2512.03022)|null|
+|**2025-12-02**|**AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry**|Xiang Xu, Pradeep Kumar Jayaraman, Joseph G. Lambourne, Yilin Liu, Durvesh Malpure, Pete Meltzer|[2512.03018](https://arxiv.org/abs/2512.03018)|null|
+|**2025-12-02**|**Equivalence of Synchronization States in the Hybrid Kuramoto Flow**|Ting-Yang Hsiao, Yun-Feng Lo, Chengbin Zhu|[2512.02986](https://arxiv.org/abs/2512.02986)|null|
+|**2025-12-02**|**Universal nondiffractive topological spin textures in vortex cores of light and sound**|Elena Annenkova, Andrei Afanasev, Etienne Brasselet|[2512.02964](https://arxiv.org/abs/2512.02964)|null|
+|**2025-12-02**|**The suppression of the matter power spectrum: strong feedback from X-ray gas mass fractions, kSZ effect profiles, and galaxy-galaxy lensing**|Jared Siegel, Leah Bigwood, Alexandra Amon, Jamie McCullough, Masaya Yamamoto, Ian G. McCarthy, Matthieu Schaller, Aurel Schneider, Joop Schaye|[2512.02954](https://arxiv.org/abs/2512.02954)|null|
+|**2025-12-02**|**Transient rebellions in the Kuramoto oscillator: Morse-Smale structural stability and connection graphs of finite 2-shift type**|Jia-Yuan Dai, Bernold Fiedler, Alejandro López-Nieto|[2512.02937](https://arxiv.org/abs/2512.02937)|null|
+|**2025-12-02**|**Asymptotics for additive functionals of particle systems via Stein's method**|Arturo Jaramillo, Antonio Murillo-Salas|[2512.02922](https://arxiv.org/abs/2512.02922)|null|
+|**2025-12-02**|**Memory Correlators and Ward Identities in the 'in-in' Formalism**|Ian Moult, Sruthi A. Narayanan, Sabrina Pasterski|[2512.02825](https://arxiv.org/abs/2512.02825)|null|
+|**2025-12-02**|**Effect of slowly decaying long-range interactions on topological qubits**|Etienne Granet, Michael Levin|[2512.02809](https://arxiv.org/abs/2512.02809)|null|
 |**2025-12-01**|**Onsager Condensation in Chiral Active Matter: Universality of Topological Gas Dynamics**|Magnus F Ivarsen|[2512.01884](https://arxiv.org/abs/2512.01884)|null|
 |**2025-12-01**|**The Mean-Field Dynamics of Transformers**|Philippe Rigollet|[2512.01868](https://arxiv.org/abs/2512.01868)|null|
 |**2025-12-01**|**Topological Order in Deep State**|Ahmed Abouelkomsan, Max Geier, Liang Fu|[2512.01863](https://arxiv.org/abs/2512.01863)|null|
