@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-03**|**Radiance Meshes for Volumetric Reconstruction**|Alexander Mai, Trevor Hedstrom, George Kopanas, Janne Kontkanen, Falko Kuester, Jonathan T. Barron|[2512.04076](https://arxiv.org/abs/2512.04076)|null|
+|**2025-12-03**|**Well-quasi-orders on embedded planar graphs**|Corentin Lunel, Clément Maria|[2512.04074](https://arxiv.org/abs/2512.04074)|null|
+|**2025-12-03**|**Instantaneous Sobolev Regularization for Dissipative Bosonic Dynamics**|Pablo Costa Rico, Paul Gondolf, Tim Möbus|[2512.04066](https://arxiv.org/abs/2512.04066)|null|
+|**2025-12-03**|**High-order two-component fractional quantum Hall states around filling factor $ν= 1$**|E. Bell, K. W. Baldwin, L. N. Pfeiffer, K. W. West, M. A. Zudov|[2512.04050](https://arxiv.org/abs/2512.04050)|null|
+|**2025-12-03**|**Orderings of k-Markov Numbers**|Esther Banaian|[2512.04026](https://arxiv.org/abs/2512.04026)|null|
+|**2025-12-03**|**Collective dynamics of trail-interacting particles**|Paul Pineau, Samuel Bell, Raphaël Voituriez, Ram M. Adar|[2512.03950](https://arxiv.org/abs/2512.03950)|null|
+|**2025-12-03**|**Quantum-Classical Physics-Informed Neural Networks for Solving Reservoir Seepage Equations**|Xiang Rao, Yina Liu, Yuxuan Shen|[2512.03923](https://arxiv.org/abs/2512.03923)|null|
+|**2025-12-03**|**Primordial Gravitational Wave Birefringence in a de Sitter Background with Chern-Simons Coupling**|Abhishek Rout, Brett Altschul|[2512.03919](https://arxiv.org/abs/2512.03919)|null|
+|**2025-12-03**|**Parsimonious Clustering of Covariance Matrices**|Yixi Xu, Yi Zhao|[2512.03912](https://arxiv.org/abs/2512.03912)|null|
+|**2025-12-03**|**The Protasov-Zelenyuk topology and ideal convergence**|Lydia Außenhofer, Dikran Dikranjan, Anna Giordano Bruno|[2512.03885](https://arxiv.org/abs/2512.03885)|null|
 |**2025-12-02**|**Information dynamics and symmetry breaking in generic monitored $\mathbb{Z}_2$ -symmetric open quantum systems**|Jacob Hauser, Ali Lavasani, Sagar Vijay, Matthew P. A. Fisher|[2512.03031](https://arxiv.org/abs/2512.03031)|null|
 |**2025-12-02**|**Topological marker in three dimensions based on kernel polynomial method**|Ranadeep Roy, Wei Chen|[2512.03022](https://arxiv.org/abs/2512.03022)|null|
 |**2025-12-02**|**AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry**|Xiang Xu, Pradeep Kumar Jayaraman, Joseph G. Lambourne, Yilin Liu, Durvesh Malpure, Pete Meltzer|[2512.03018](https://arxiv.org/abs/2512.03018)|null|

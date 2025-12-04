@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-03, **Radiance Meshes for Volumetric Reconstruction**, Alexander Mai, Trevor Hedstrom, George Kopanas, Janne Kontkanen, Falko Kuester, Jonathan T. Barron, Paper: [https://arxiv.org/abs/2512.04076](https://arxiv.org/abs/2512.04076), Website: half-potato.gitlab.io/rm
+- 2025-12-03, **Well-quasi-orders on embedded planar graphs**, Corentin Lunel, Clément Maria, Paper: [https://arxiv.org/abs/2512.04074](https://arxiv.org/abs/2512.04074)
+- 2025-12-03, **Instantaneous Sobolev Regularization for Dissipative Bosonic Dynamics**, Pablo Costa Rico, Paul Gondolf, Tim Möbus, Paper: [https://arxiv.org/abs/2512.04066](https://arxiv.org/abs/2512.04066), 29 pages
+- 2025-12-03, **High-order two-component fractional quantum Hall states around filling factor $ν= 1$**, E. Bell, K. W. Baldwin, L. N. Pfeiffer, K. W. West, M. A. Zudov, Paper: [https://arxiv.org/abs/2512.04050](https://arxiv.org/abs/2512.04050), 5 pages, 4 figures
+- 2025-12-03, **Orderings of k-Markov Numbers**, Esther Banaian, Paper: [https://arxiv.org/abs/2512.04026](https://arxiv.org/abs/2512.04026), 27 pages, many figures, comments are very welcome!
+- 2025-12-03, **Collective dynamics of trail-interacting particles**, Paul Pineau, Samuel Bell, Raphaël Voituriez, Ram M. Adar, Paper: [https://arxiv.org/abs/2512.03950](https://arxiv.org/abs/2512.03950), 19 pages, 8 figures, submitted to PRL
+- 2025-12-03, **Quantum-Classical Physics-Informed Neural Networks for Solving Reservoir Seepage Equations**, Xiang Rao, Yina Liu, Yuxuan Shen, Paper: [https://arxiv.org/abs/2512.03923](https://arxiv.org/abs/2512.03923)
+- 2025-12-03, **Primordial Gravitational Wave Birefringence in a de Sitter Background with Chern-Simons Coupling**, Abhishek Rout, Brett Altschul, Paper: [https://arxiv.org/abs/2512.03919](https://arxiv.org/abs/2512.03919), 38 pages
+- 2025-12-03, **Parsimonious Clustering of Covariance Matrices**, Yixi Xu, Yi Zhao, Paper: [https://arxiv.org/abs/2512.03912](https://arxiv.org/abs/2512.03912)
+- 2025-12-03, **The Protasov-Zelenyuk topology and ideal convergence**, Lydia Außenhofer, Dikran Dikranjan, Anna Giordano Bruno, Paper: [https://arxiv.org/abs/2512.03885](https://arxiv.org/abs/2512.03885)
 - 2025-12-02, **Information dynamics and symmetry breaking in generic monitored $\mathbb{Z}_2$ -symmetric open quantum systems**, Jacob Hauser, Ali Lavasani, Sagar Vijay, Matthew P. A. Fisher, Paper: [https://arxiv.org/abs/2512.03031](https://arxiv.org/abs/2512.03031), 29 pages, 14 figures
 - 2025-12-02, **Topological marker in three dimensions based on kernel polynomial method**, Ranadeep Roy, Wei Chen, Paper: [https://arxiv.org/abs/2512.03022](https://arxiv.org/abs/2512.03022)
 - 2025-12-02, **AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry**, Xiang Xu, Pradeep Kumar Jayaraman, Joseph G. Lambourne, Yilin Liu, Durvesh Malpure, Pete Meltzer, Paper: [https://arxiv.org/abs/2512.03018](https://arxiv.org/abs/2512.03018), Accepted to Siggraph Asia 2025
