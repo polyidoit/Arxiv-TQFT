@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Bethe equations for the critical three-state Potts spin chain with toroidal boun dary conditions**|M. J. Martins|[2512.07763](https://arxiv.org/abs/2512.07763)|null|
+|**2025-12-08**|**Chern-Simons propagators in AdS $_3$**|Jyotirmoy Bhattacharya, Anurag Guria, Shiroman Prakash, Aditya Sharma, Tarun Sharma|[2512.07752](https://arxiv.org/abs/2512.07752)|null|
+|**2025-12-08**|**Anomalous coarsening and nonlinear diffusion of kinks in an one-dimensional quasi-classical Holstein model**|Ho Jang, Yang Yang, Gia-Wei Chern|[2512.07744](https://arxiv.org/abs/2512.07744)|null|
+|**2025-12-08**|**Bootstrapping non-unitary CFTs**|Yu-tin Huang, Shao-Cheng Lee, Henry Liao, Justinas Rumbutis|[2512.07706](https://arxiv.org/abs/2512.07706)|null|
+|**2025-12-08**|**Boundary Criticality of Complex Conformal Field Theory: A Case Study in the Non-Hermitian 5-State Potts Model**|Yin Tang, Qianyu Liu, Qicheng Tang, W. Zhu|[2512.07625](https://arxiv.org/abs/2512.07625)|null|
+|**2025-12-07**|**Carrollian Conformal Theories in Momentum Space**|Raffaele Marotta, Arvind Shekar, Mritunjay Verma|[2512.06881](https://arxiv.org/abs/2512.06881)|null|
+|**2025-12-07**|**Exploring electron spin dynamics in spin chains using defects as a quantum probe**|L. Soriano, A. Manoj-Kumar, G. Gerbaud, A. Savoyant, R. Dassonneville, H. Vezin, O. Jeannin, M. Orio, M. Fourmigué, S. Bertaina|[2512.06722](https://arxiv.org/abs/2512.06722)|null|
+|**2025-12-07**|**Spurious Strange Correlators in Symmetry-Protected Topological Phases**|Wei-Liang Gao, Jie-Yu Zhang, Zheng-Xin Liu, Peng Ye|[2512.06691](https://arxiv.org/abs/2512.06691)|null|
+|**2025-12-06**|**Generalized Connes-Kreimer Hopf algebras on decorated rooted forests by weighted cocycles**|Fei Wang, Li Guo, Yi Zhang|[2512.06538](https://arxiv.org/abs/2512.06538)|null|
+|**2025-12-06**|**Finite-rank conformal quantum mechanics**|Maxim Gritskov, Saveliy Timchenko|[2512.06501](https://arxiv.org/abs/2512.06501)|null|
 |**2025-12-05**|**Magnetic and moiré Proximity Effects in WSe2/WSe2/CrI3 Trilayers**|Junyi Liu, Xu Zhang, Gang Lu|[2512.05917](https://arxiv.org/abs/2512.05917)|null|
 |**2025-12-05**|**Interplay of Rashba and Dresselhaus Spin-Orbit Couplings on the Stability of Topological FFLO Phases in 1D Fermi Gases**|Hamid Mosadeq, Mohammad-Hossein Zare, Reza Asgari|[2512.05901](https://arxiv.org/abs/2512.05901)|null|
 |**2025-12-05**|**NeuroMemFPP: A recurrent neural approach for memory-aware parameter estimation in fractional Poisson process**|Neha Gupta, Aditya Maheshwari|[2512.05893](https://arxiv.org/abs/2512.05893)|null|
