@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-09, **SAQ: Stabilizer-Aware Quantum Error Correction Decoder**, David Zenati, Eliya Nachmani, Paper: [https://arxiv.org/abs/2512.08914](https://arxiv.org/abs/2512.08914)
+- 2025-12-09, **Two-loop renormalization of general bosonic effective field theories**, Guilherme Guedes, Jasper Roosmale Nepveu, Paper: [https://arxiv.org/abs/2512.08827](https://arxiv.org/abs/2512.08827), 24 pages
+- 2025-12-09, **Non-abelian quantum double models from iterated gauging**, David Blanik, José Garre-Rubio, Paper: [https://arxiv.org/abs/2512.08749](https://arxiv.org/abs/2512.08749), 12 pages, 2 figures
+- 2025-12-09, **Diffusion and relaxation of topological excitations in layered spin liquids**, Aprem P. Joy, Roman Lange, Achim Rosch, Paper: [https://arxiv.org/abs/2512.08712](https://arxiv.org/abs/2512.08712), 12 pages, 6 Figures
+- 2025-12-09, **Bootstrapping Noncommutative Geometry with Dirac Ensembles**, Masoud Khalkhali, Nathan Pagliaroli, Paper: [https://arxiv.org/abs/2512.08694](https://arxiv.org/abs/2512.08694), 7 figures, 47 pages
+- 2025-12-09, **Spectroscopic readout of chiral photonic topology in a single-cavity spin-orbit-coupled Bose-Einstein condensate**, Kashif Ammar Yasir, Gao Xianlong, Paper: [https://arxiv.org/abs/2512.08662](https://arxiv.org/abs/2512.08662), 29 pages, 7 Figures
+- 2025-12-09, **Decomposable semigroups on C*-algebras and D-divisible dynamical maps**, Krzysztof Szczygielski, Paper: [https://arxiv.org/abs/2512.08525](https://arxiv.org/abs/2512.08525), 12 pages, no figures
+- 2025-12-09, **Universal recoverability of quantum states in tracial von-Neumann algebras**, Saptak Bhattacharya, Paper: [https://arxiv.org/abs/2512.08418](https://arxiv.org/abs/2512.08418), 15 pages, 0 figures
+- 2025-12-09, **Probing Cosmic Strings via Black Hole Quasinormal Modes in Gravitational Wave Astronomy**, Ishan Swamy, Deobrat Singh, Paper: [https://arxiv.org/abs/2512.08368](https://arxiv.org/abs/2512.08368)
+- 2025-12-09, **Coalescence of multiple topological orders in quasi-one-dimensional bismuth halide chains**, Jingyuan Zhong, Ming Yang, Wenxuan Zhao, Kaiyi Zhai, Xuan Zhen, Lifu Zhang, Dan Mu, Yundan Liu, Zhijian Shi, Ningyan Cheng, Wei Zhou, Jianfeng Wang, Weichang Hao, Zhenpeng Hu, Jincheng Zhuang, Jinhu Lü, Yi Du, Paper: [https://arxiv.org/abs/2512.08239](https://arxiv.org/abs/2512.08239)
 - 2025-12-08, **Bethe equations for the critical three-state Potts spin chain with toroidal boun dary conditions**, M. J. Martins, Paper: [https://arxiv.org/abs/2512.07763](https://arxiv.org/abs/2512.07763), 26 pages
 - 2025-12-08, **Chern-Simons propagators in AdS $_3$**, Jyotirmoy Bhattacharya, Anurag Guria, Shiroman Prakash, Aditya Sharma, Tarun Sharma, Paper: [https://arxiv.org/abs/2512.07752](https://arxiv.org/abs/2512.07752), 34+1 pages
 - 2025-12-08, **Anomalous coarsening and nonlinear diffusion of kinks in an one-dimensional quasi-classical Holstein model**, Ho Jang, Yang Yang, Gia-Wei Chern, Paper: [https://arxiv.org/abs/2512.07744](https://arxiv.org/abs/2512.07744), 13 pages, 9 figures

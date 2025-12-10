@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**SAQ: Stabilizer-Aware Quantum Error Correction Decoder**|David Zenati, Eliya Nachmani|[2512.08914](https://arxiv.org/abs/2512.08914)|null|
+|**2025-12-09**|**Two-loop renormalization of general bosonic effective field theories**|Guilherme Guedes, Jasper Roosmale Nepveu|[2512.08827](https://arxiv.org/abs/2512.08827)|null|
+|**2025-12-09**|**Non-abelian quantum double models from iterated gauging**|David Blanik, José Garre-Rubio|[2512.08749](https://arxiv.org/abs/2512.08749)|null|
+|**2025-12-09**|**Diffusion and relaxation of topological excitations in layered spin liquids**|Aprem P. Joy, Roman Lange, Achim Rosch|[2512.08712](https://arxiv.org/abs/2512.08712)|null|
+|**2025-12-09**|**Bootstrapping Noncommutative Geometry with Dirac Ensembles**|Masoud Khalkhali, Nathan Pagliaroli|[2512.08694](https://arxiv.org/abs/2512.08694)|null|
+|**2025-12-09**|**Spectroscopic readout of chiral photonic topology in a single-cavity spin-orbit-coupled Bose-Einstein condensate**|Kashif Ammar Yasir, Gao Xianlong|[2512.08662](https://arxiv.org/abs/2512.08662)|null|
+|**2025-12-09**|**Decomposable semigroups on C*-algebras and D-divisible dynamical maps**|Krzysztof Szczygielski|[2512.08525](https://arxiv.org/abs/2512.08525)|null|
+|**2025-12-09**|**Universal recoverability of quantum states in tracial von-Neumann algebras**|Saptak Bhattacharya|[2512.08418](https://arxiv.org/abs/2512.08418)|null|
+|**2025-12-09**|**Probing Cosmic Strings via Black Hole Quasinormal Modes in Gravitational Wave Astronomy**|Ishan Swamy, Deobrat Singh|[2512.08368](https://arxiv.org/abs/2512.08368)|null|
+|**2025-12-09**|**Coalescence of multiple topological orders in quasi-one-dimensional bismuth halide chains**|Jingyuan Zhong, Ming Yang, Wenxuan Zhao, Kaiyi Zhai, Xuan Zhen, Lifu Zhang, Dan Mu, Yundan Liu, Zhijian Shi, Ningyan Cheng, Wei Zhou, Jianfeng Wang, Weichang Hao, Zhenpeng Hu, Jincheng Zhuang, Jinhu Lü, Yi Du|[2512.08239](https://arxiv.org/abs/2512.08239)|null|
 |**2025-12-08**|**Bethe equations for the critical three-state Potts spin chain with toroidal boun dary conditions**|M. J. Martins|[2512.07763](https://arxiv.org/abs/2512.07763)|null|
 |**2025-12-08**|**Chern-Simons propagators in AdS $_3$**|Jyotirmoy Bhattacharya, Anurag Guria, Shiroman Prakash, Aditya Sharma, Tarun Sharma|[2512.07752](https://arxiv.org/abs/2512.07752)|null|
 |**2025-12-08**|**Anomalous coarsening and nonlinear diffusion of kinks in an one-dimensional quasi-classical Holstein model**|Ho Jang, Yang Yang, Gia-Wei Chern|[2512.07744](https://arxiv.org/abs/2512.07744)|null|
