@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-10, **Multiplicative Renormalization in Causal Perturbation Theory**, Jonah Epstein, Arne Hofmann, David Prinz, Paper: [https://arxiv.org/abs/2512.09918](https://arxiv.org/abs/2512.09918), 44 pages, 26 figures, article
+- 2025-12-10, **Single particle dynamical signature of topology induced by single mode cavities in Su-Schrieffer-Heeger chain**, Fabrizio Pavan, Grazia Di Bello, Giulio De Filippis, Carmine Antonio Perroni, Paper: [https://arxiv.org/abs/2512.09520](https://arxiv.org/abs/2512.09520), 11 pages, 14 figures
+- 2025-12-09, **Conformal Field Theory with Periodic Time**, Walker Melton, Andrew Strominger, Paper: [https://arxiv.org/abs/2512.09089](https://arxiv.org/abs/2512.09089), 17 pages, 2 figures
+- 2025-12-09, **Asymptotic Behavior of Diagram Classes**, Luen Clingerman, Matthew D. Schwartz, Paper: [https://arxiv.org/abs/2512.09042](https://arxiv.org/abs/2512.09042), 53 pages
+- 2025-12-09, **Optimizing the dynamical preparation of quantum spin lakes on the ruby lattice**, DinhDuy Vu, Dominik S. Kufel, Jack Kemp, Lode Pollet, Chris R. Laumann, Norman Y. Yao, Paper: [https://arxiv.org/abs/2512.09040](https://arxiv.org/abs/2512.09040), 15 pages, 11 figures
 - 2025-12-09, **SAQ: Stabilizer-Aware Quantum Error Correction Decoder**, David Zenati, Eliya Nachmani, Paper: [https://arxiv.org/abs/2512.08914](https://arxiv.org/abs/2512.08914)
 - 2025-12-09, **Two-loop renormalization of general bosonic effective field theories**, Guilherme Guedes, Jasper Roosmale Nepveu, Paper: [https://arxiv.org/abs/2512.08827](https://arxiv.org/abs/2512.08827), 24 pages
 - 2025-12-09, **Non-abelian quantum double models from iterated gauging**, David Blanik, José Garre-Rubio, Paper: [https://arxiv.org/abs/2512.08749](https://arxiv.org/abs/2512.08749), 12 pages, 2 figures
