@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-11, **Conformal Boundary Conditions and Higher Curvature Gravity**, Damián A. Galante, Robert C. Myers, Themistocles Zikopoulos, Paper: [https://arxiv.org/abs/2512.10930](https://arxiv.org/abs/2512.10930), 40 pages plus appendices, 7 figures
+- 2025-12-11, **Conformal collider bootstrap in ${\mathcal N}=4$ SYM**, Ross Dempsey, Robin Karlsson, Silviu S. Pufu, Zahra Zahraee, Alexander Zhiboedov, Paper: [https://arxiv.org/abs/2512.10796](https://arxiv.org/abs/2512.10796), 97 pages, 22 figures
+- 2025-12-11, **On Quantum Modularity for Geometric 3-Manifolds**, Pavel Putrov, Ayush Singh, Paper: [https://arxiv.org/abs/2512.10768](https://arxiv.org/abs/2512.10768), 36 pages, 1 figure
+- 2025-12-11, **Exceptional embeddings of $N=2$ minimal models**, Ana Ros Camacho, Thomas A. Wasserman, Paper: [https://arxiv.org/abs/2512.10663](https://arxiv.org/abs/2512.10663), 6 pages
+- 2025-12-11, **Stability of the symmetry-protected topological phase and Ising transitions in a disordered U(1) quantum link model on a ladder**, Mykhailo V. Rakov, Luca Tagliacozzo, Maciej Lewenstein, Jakub Zakrzewski, Titas Chanda, Paper: [https://arxiv.org/abs/2512.10642](https://arxiv.org/abs/2512.10642), 12pp, comments welcome
+- 2025-12-11, **Ising on the donut: Regimes of topological quantum error correction from statistical mechanics**, Lucas H. English, Sam Roberts, Stephen D. Bartlett, Andrew C. Doherty, Dominic J. Williamson, Paper: [https://arxiv.org/abs/2512.10399](https://arxiv.org/abs/2512.10399), 29 pages, comments welcome
+- 2025-12-11, **Symmetries of extremal horizons**, Alex Colling, Paper: [https://arxiv.org/abs/2512.10200](https://arxiv.org/abs/2512.10200), 29 pages
+- 2025-12-10, **Universal Hirschberg for Width Bounded Dynamic Programs**, Logan Nye, Paper: [https://arxiv.org/abs/2512.10132](https://arxiv.org/abs/2512.10132), 31 pages
+- 2025-12-10, **The von Neumann algebraic quantum group $\mathrm{SU}_q(1,1)\rtimes \mathbb{Z}_2$ and the DSSYK model**, Koen Schouten, Mikhail Isachenkov, Paper: [https://arxiv.org/abs/2512.10101](https://arxiv.org/abs/2512.10101), 89 pages, 4 figures
+- 2025-12-10, **Lifting in a non semisimple world**, Jack Arce, Cristian Vay, Paper: [https://arxiv.org/abs/2512.10039](https://arxiv.org/abs/2512.10039), 17 pages
 - 2025-12-10, **Multiplicative Renormalization in Causal Perturbation Theory**, Jonah Epstein, Arne Hofmann, David Prinz, Paper: [https://arxiv.org/abs/2512.09918](https://arxiv.org/abs/2512.09918), 44 pages, 26 figures, article
 - 2025-12-10, **Single particle dynamical signature of topology induced by single mode cavities in Su-Schrieffer-Heeger chain**, Fabrizio Pavan, Grazia Di Bello, Giulio De Filippis, Carmine Antonio Perroni, Paper: [https://arxiv.org/abs/2512.09520](https://arxiv.org/abs/2512.09520), 11 pages, 14 figures
 - 2025-12-09, **Conformal Field Theory with Periodic Time**, Walker Melton, Andrew Strominger, Paper: [https://arxiv.org/abs/2512.09089](https://arxiv.org/abs/2512.09089), 17 pages, 2 figures
