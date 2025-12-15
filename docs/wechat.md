@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-12, **Modular Witten Diagrams and Quantum Extremality**, Abhirup Bhattacharya, Onkar Parrikar, Paper: [https://arxiv.org/abs/2512.11754](https://arxiv.org/abs/2512.11754), 53 pages, 12 figures
+- 2025-12-12, **Approximating $\mathrm{SU}(2)$ Chern-Simons theory by finite group gauge theories**, Thomas Nicosanti, Pavel Putrov, Johann Quenta-Raygada, Paper: [https://arxiv.org/abs/2512.11704](https://arxiv.org/abs/2512.11704), 56 pages, 11 figures
+- 2025-12-12, **On free wreath products of classical groups**, Pierre Fima, Yigang Qiu, Paper: [https://arxiv.org/abs/2512.11477](https://arxiv.org/abs/2512.11477), 15 pages, comments welcome !
+- 2025-12-12, **QGEC : Quantum Golay Code Error Correction**, Hideo Mukai, Hoshitaro Ohnishi, Paper: [https://arxiv.org/abs/2512.11307](https://arxiv.org/abs/2512.11307)
+- 2025-12-11, **Topological Order and Non-Hermitian Skin Effect in Generalized Ideal Chern Bands**, Jiong-Hao Wang, Christopher Ekman, Raul Perea-Causin, Hui Liu, Emil J. Bergholtz, Paper: [https://arxiv.org/abs/2512.11084](https://arxiv.org/abs/2512.11084)
+- 2025-12-11, **Asymptotic-freedom and massive glueballs in a qubit-regularized SU(2) gauge theory**, Rui Xian Siew, Shailesh Chandrasekharan, Tanmoy Bhattacharya, Paper: [https://arxiv.org/abs/2512.11068](https://arxiv.org/abs/2512.11068), 7 pages, 8 figures
+- 2025-12-11, **Continuous Family of Conformal Field Theories and Exactly Marginal Operators**, Shota Komatsu, Yuya Kusuki, Marco Meineri, Hirosi Ooguri, Paper: [https://arxiv.org/abs/2512.11045](https://arxiv.org/abs/2512.11045), 8 pages, 2 figures
 - 2025-12-11, **Conformal Boundary Conditions and Higher Curvature Gravity**, Damián A. Galante, Robert C. Myers, Themistocles Zikopoulos, Paper: [https://arxiv.org/abs/2512.10930](https://arxiv.org/abs/2512.10930), 40 pages plus appendices, 7 figures
 - 2025-12-11, **Conformal collider bootstrap in ${\mathcal N}=4$ SYM**, Ross Dempsey, Robin Karlsson, Silviu S. Pufu, Zahra Zahraee, Alexander Zhiboedov, Paper: [https://arxiv.org/abs/2512.10796](https://arxiv.org/abs/2512.10796), 97 pages, 22 figures
 - 2025-12-11, **On Quantum Modularity for Geometric 3-Manifolds**, Pavel Putrov, Ayush Singh, Paper: [https://arxiv.org/abs/2512.10768](https://arxiv.org/abs/2512.10768), 36 pages, 1 figure

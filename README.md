@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Modular Witten Diagrams and Quantum Extremality**|Abhirup Bhattacharya, Onkar Parrikar|[2512.11754](https://arxiv.org/abs/2512.11754)|null|
+|**2025-12-12**|**Approximating $\mathrm{SU}(2)$ Chern-Simons theory by finite group gauge theories**|Thomas Nicosanti, Pavel Putrov, Johann Quenta-Raygada|[2512.11704](https://arxiv.org/abs/2512.11704)|null|
+|**2025-12-12**|**On free wreath products of classical groups**|Pierre Fima, Yigang Qiu|[2512.11477](https://arxiv.org/abs/2512.11477)|null|
+|**2025-12-12**|**QGEC : Quantum Golay Code Error Correction**|Hideo Mukai, Hoshitaro Ohnishi|[2512.11307](https://arxiv.org/abs/2512.11307)|null|
+|**2025-12-11**|**Topological Order and Non-Hermitian Skin Effect in Generalized Ideal Chern Bands**|Jiong-Hao Wang, Christopher Ekman, Raul Perea-Causin, Hui Liu, Emil J. Bergholtz|[2512.11084](https://arxiv.org/abs/2512.11084)|null|
+|**2025-12-11**|**Asymptotic-freedom and massive glueballs in a qubit-regularized SU(2) gauge theory**|Rui Xian Siew, Shailesh Chandrasekharan, Tanmoy Bhattacharya|[2512.11068](https://arxiv.org/abs/2512.11068)|null|
+|**2025-12-11**|**Continuous Family of Conformal Field Theories and Exactly Marginal Operators**|Shota Komatsu, Yuya Kusuki, Marco Meineri, Hirosi Ooguri|[2512.11045](https://arxiv.org/abs/2512.11045)|null|
 |**2025-12-11**|**Conformal Boundary Conditions and Higher Curvature Gravity**|Damián A. Galante, Robert C. Myers, Themistocles Zikopoulos|[2512.10930](https://arxiv.org/abs/2512.10930)|null|
 |**2025-12-11**|**Conformal collider bootstrap in ${\mathcal N}=4$ SYM**|Ross Dempsey, Robin Karlsson, Silviu S. Pufu, Zahra Zahraee, Alexander Zhiboedov|[2512.10796](https://arxiv.org/abs/2512.10796)|null|
 |**2025-12-11**|**On Quantum Modularity for Geometric 3-Manifolds**|Pavel Putrov, Ayush Singh|[2512.10768](https://arxiv.org/abs/2512.10768)|null|
