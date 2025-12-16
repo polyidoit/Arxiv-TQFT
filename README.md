@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Raja's covering index of $L_p$ spaces**|Tomasz Kania, Natalia Maślany|[2512.13249](https://arxiv.org/abs/2512.13249)|null|
+|**2025-12-15**|**Higher differentiation via higher formal groupoids**|Christopher L. Rogers|[2512.12979](https://arxiv.org/abs/2512.12979)|null|
+|**2025-12-14**|**A geometric approach to predicting plasticity in disordered solids**|Long-Zhou Huang, Xu Yang, Min-Qiang Jiang, Yun-Jiang Wang, Matteo Baggioli|[2512.12668](https://arxiv.org/abs/2512.12668)|null|
+|**2025-12-14**|**Bounded Dynamic Level Maintenance for Efficient Logic Optimization**|Junfeng Liu, Qinghua Zhao, Liwei Ni, Jingren Wang, Biwei Xie, Xingquan Li, Bei Yu, Shuai Ma|[2512.12554](https://arxiv.org/abs/2512.12554)|null|
+|**2025-12-13**|**Complete Topological Quantization of Higher Gauge Fields**|Hisham Sati, Urs Schreiber|[2512.12431](https://arxiv.org/abs/2512.12431)|null|
+|**2025-12-13**|**Discrete quantum groups and their duals**|Alfons Van Daele|[2512.12350](https://arxiv.org/abs/2512.12350)|null|
+|**2025-12-13**|**Interpolation problems in subdiagonal algebras**|Guoxing Ji|[2512.12330](https://arxiv.org/abs/2512.12330)|null|
+|**2025-12-13**|**Products of irreducible operators in factors**|Minghui Ma, Junhao Shen, Rui Shi, Tianze Wang|[2512.12162](https://arxiv.org/abs/2512.12162)|null|
+|**2025-12-12**|**Uniform matrix product states with a boundary**|Marta Florido-Llinàs, Álvaro M. Alhambra, David Pérez-García, J. Ignacio Cirac|[2512.11968](https://arxiv.org/abs/2512.11968)|null|
+|**2025-12-12**|**Classifying GNY-like models**|Matthew S. Mitchell, David Poland|[2512.11963](https://arxiv.org/abs/2512.11963)|null|
 |**2025-12-12**|**Modular Witten Diagrams and Quantum Extremality**|Abhirup Bhattacharya, Onkar Parrikar|[2512.11754](https://arxiv.org/abs/2512.11754)|null|
 |**2025-12-12**|**Approximating $\mathrm{SU}(2)$ Chern-Simons theory by finite group gauge theories**|Thomas Nicosanti, Pavel Putrov, Johann Quenta-Raygada|[2512.11704](https://arxiv.org/abs/2512.11704)|null|
 |**2025-12-12**|**On free wreath products of classical groups**|Pierre Fima, Yigang Qiu|[2512.11477](https://arxiv.org/abs/2512.11477)|null|

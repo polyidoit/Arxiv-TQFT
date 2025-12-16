@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-15, **Raja's covering index of $L_p$ spaces**, Tomasz Kania, Natalia Maślany, Paper: [https://arxiv.org/abs/2512.13249](https://arxiv.org/abs/2512.13249), 10 pp
+- 2025-12-15, **Higher differentiation via higher formal groupoids**, Christopher L. Rogers, Paper: [https://arxiv.org/abs/2512.12979](https://arxiv.org/abs/2512.12979), 93 pages. Comments welcome
+- 2025-12-14, **A geometric approach to predicting plasticity in disordered solids**, Long-Zhou Huang, Xu Yang, Min-Qiang Jiang, Yun-Jiang Wang, Matteo Baggioli, Paper: [https://arxiv.org/abs/2512.12668](https://arxiv.org/abs/2512.12668), v1: comments welcome
+- 2025-12-14, **Bounded Dynamic Level Maintenance for Efficient Logic Optimization**, Junfeng Liu, Qinghua Zhao, Liwei Ni, Jingren Wang, Biwei Xie, Xingquan Li, Bei Yu, Shuai Ma, Paper: [https://arxiv.org/abs/2512.12554](https://arxiv.org/abs/2512.12554)
+- 2025-12-13, **Complete Topological Quantization of Higher Gauge Fields**, Hisham Sati, Urs Schreiber, Paper: [https://arxiv.org/abs/2512.12431](https://arxiv.org/abs/2512.12431), 54 amsart pages + references, 11 figures; these are expanded lecture notes for the mini-course of the same title held at ICMS Edinburgh, Dec. 2025
+- 2025-12-13, **Discrete quantum groups and their duals**, Alfons Van Daele, Paper: [https://arxiv.org/abs/2512.12350](https://arxiv.org/abs/2512.12350)
+- 2025-12-13, **Interpolation problems in subdiagonal algebras**, Guoxing Ji, Paper: [https://arxiv.org/abs/2512.12330](https://arxiv.org/abs/2512.12330)
+- 2025-12-13, **Products of irreducible operators in factors**, Minghui Ma, Junhao Shen, Rui Shi, Tianze Wang, Paper: [https://arxiv.org/abs/2512.12162](https://arxiv.org/abs/2512.12162), 16 pages
+- 2025-12-12, **Uniform matrix product states with a boundary**, Marta Florido-Llinàs, Álvaro M. Alhambra, David Pérez-García, J. Ignacio Cirac, Paper: [https://arxiv.org/abs/2512.11968](https://arxiv.org/abs/2512.11968), 97 pages
+- 2025-12-12, **Classifying GNY-like models**, Matthew S. Mitchell, David Poland, Paper: [https://arxiv.org/abs/2512.11963](https://arxiv.org/abs/2512.11963), 28 pages, 1 figure
 - 2025-12-12, **Modular Witten Diagrams and Quantum Extremality**, Abhirup Bhattacharya, Onkar Parrikar, Paper: [https://arxiv.org/abs/2512.11754](https://arxiv.org/abs/2512.11754), 53 pages, 12 figures
 - 2025-12-12, **Approximating $\mathrm{SU}(2)$ Chern-Simons theory by finite group gauge theories**, Thomas Nicosanti, Pavel Putrov, Johann Quenta-Raygada, Paper: [https://arxiv.org/abs/2512.11704](https://arxiv.org/abs/2512.11704), 56 pages, 11 figures
 - 2025-12-12, **On free wreath products of classical groups**, Pierre Fima, Yigang Qiu, Paper: [https://arxiv.org/abs/2512.11477](https://arxiv.org/abs/2512.11477), 15 pages, comments welcome !
