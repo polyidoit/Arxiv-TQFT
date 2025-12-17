@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-16**|**Holography and the Swampland: Constraints on Quantum Gravity from Holographic Principles**|Sudhaker Upadhyay, Alexander Reshetnyak, Pavel Moshin, Ricardo Castro|[2512.14389](https://arxiv.org/abs/2512.14389)|null|
+|**2025-12-16**|**Perturbative algebraic quantum field theory and beyond**|Romeo Brunetti, Klaus Fredenhagen, Kasia Rejzner|[2512.14227](https://arxiv.org/abs/2512.14227)|null|
+|**2025-12-16**|**Correlation functions at the topological quantum phase transition in the S=1 XXZ chain with single-ion anisotropy**|Toshiya Hikihara, Akira Furusaki|[2512.14075](https://arxiv.org/abs/2512.14075)|null|
+|**2025-12-15**|**On non-equatorial embeddings into $\mathbb{R}^3$ of spherically symmetric wormholes with topological defects**|Mauricio Cataldo, Daniel Cuevas|[2512.13942](https://arxiv.org/abs/2512.13942)|null|
+|**2025-12-15**|**Hysteresis, Laning, and Negative Drag in Binary Systems with Opposite and Perpendicular Driving**|C. Reichhardt, C. J. O. Reichhardt|[2512.13925](https://arxiv.org/abs/2512.13925)|null|
+|**2025-12-15**|**Measured inverse semigroups and their actions on von Neumann algebras and equivalence relations**|Soham Chakraborty|[2512.13878](https://arxiv.org/abs/2512.13878)|null|
+|**2025-12-15**|**Unreasonable effectiveness of unsupervised learning in identifying Majorana topology**|Jacob Taylor, Haining Pan, Sankar Das Sarma|[2512.13825](https://arxiv.org/abs/2512.13825)|null|
+|**2025-12-15**|**Universal Statistics of Measurement-Induced Entanglement in Tomonaga-Luttinger liquids**|Kabir Khanna, Romain Vasseur|[2512.13809](https://arxiv.org/abs/2512.13809)|null|
+|**2025-12-15**|**Non-hermitian Density Matrices from Time-like Entanglement and Wormholes**|Jonathan Harper, Taishi Kawamoto, Ryota Maeda, Nanami Nakamura, Tadashi Takayanagi|[2512.13800](https://arxiv.org/abs/2512.13800)|null|
+|**2025-12-15**|**Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes**|Alison Warman, Sakura Schafer-Nameki|[2512.13777](https://arxiv.org/abs/2512.13777)|null|
 |**2025-12-15**|**Raja's covering index of $L_p$ spaces**|Tomasz Kania, Natalia Maślany|[2512.13249](https://arxiv.org/abs/2512.13249)|null|
 |**2025-12-15**|**Higher differentiation via higher formal groupoids**|Christopher L. Rogers|[2512.12979](https://arxiv.org/abs/2512.12979)|null|
 |**2025-12-14**|**A geometric approach to predicting plasticity in disordered solids**|Long-Zhou Huang, Xu Yang, Min-Qiang Jiang, Yun-Jiang Wang, Matteo Baggioli|[2512.12668](https://arxiv.org/abs/2512.12668)|null|

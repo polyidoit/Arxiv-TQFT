@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-16, **Holography and the Swampland: Constraints on Quantum Gravity from Holographic Principles**, Sudhaker Upadhyay, Alexander Reshetnyak, Pavel Moshin, Ricardo Castro, Paper: [https://arxiv.org/abs/2512.14389](https://arxiv.org/abs/2512.14389), 15 pages
+- 2025-12-16, **Perturbative algebraic quantum field theory and beyond**, Romeo Brunetti, Klaus Fredenhagen, Kasia Rejzner, Paper: [https://arxiv.org/abs/2512.14227](https://arxiv.org/abs/2512.14227), 19 pages, review article
+- 2025-12-16, **Correlation functions at the topological quantum phase transition in the S=1 XXZ chain with single-ion anisotropy**, Toshiya Hikihara, Akira Furusaki, Paper: [https://arxiv.org/abs/2512.14075](https://arxiv.org/abs/2512.14075), 14 pages, 12 figures, 1 table
+- 2025-12-15, **On non-equatorial embeddings into $\mathbb{R}^3$ of spherically symmetric wormholes with topological defects**, Mauricio Cataldo, Daniel Cuevas, Paper: [https://arxiv.org/abs/2512.13942](https://arxiv.org/abs/2512.13942), 11 pages, 8 figures, to be published in EPJP
+- 2025-12-15, **Hysteresis, Laning, and Negative Drag in Binary Systems with Opposite and Perpendicular Driving**, C. Reichhardt, C. J. O. Reichhardt, Paper: [https://arxiv.org/abs/2512.13925](https://arxiv.org/abs/2512.13925), 15 pages, 28 postscript figures
+- 2025-12-15, **Measured inverse semigroups and their actions on von Neumann algebras and equivalence relations**, Soham Chakraborty, Paper: [https://arxiv.org/abs/2512.13878](https://arxiv.org/abs/2512.13878), 31 pages; comments welcome
+- 2025-12-15, **Unreasonable effectiveness of unsupervised learning in identifying Majorana topology**, Jacob Taylor, Haining Pan, Sankar Das Sarma, Paper: [https://arxiv.org/abs/2512.13825](https://arxiv.org/abs/2512.13825), 7 pages, 4 figures
+- 2025-12-15, **Universal Statistics of Measurement-Induced Entanglement in Tomonaga-Luttinger liquids**, Kabir Khanna, Romain Vasseur, Paper: [https://arxiv.org/abs/2512.13809](https://arxiv.org/abs/2512.13809)
+- 2025-12-15, **Non-hermitian Density Matrices from Time-like Entanglement and Wormholes**, Jonathan Harper, Taishi Kawamoto, Ryota Maeda, Nanami Nakamura, Tadashi Takayanagi, Paper: [https://arxiv.org/abs/2512.13800](https://arxiv.org/abs/2512.13800), 35 pages, 29 figures
+- 2025-12-15, **Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes**, Alison Warman, Sakura Schafer-Nameki, Paper: [https://arxiv.org/abs/2512.13777](https://arxiv.org/abs/2512.13777), 18 pages
 - 2025-12-15, **Raja's covering index of $L_p$ spaces**, Tomasz Kania, Natalia Maślany, Paper: [https://arxiv.org/abs/2512.13249](https://arxiv.org/abs/2512.13249), 10 pp
 - 2025-12-15, **Higher differentiation via higher formal groupoids**, Christopher L. Rogers, Paper: [https://arxiv.org/abs/2512.12979](https://arxiv.org/abs/2512.12979), 93 pages. Comments welcome
 - 2025-12-14, **A geometric approach to predicting plasticity in disordered solids**, Long-Zhou Huang, Xu Yang, Min-Qiang Jiang, Yun-Jiang Wang, Matteo Baggioli, Paper: [https://arxiv.org/abs/2512.12668](https://arxiv.org/abs/2512.12668), v1: comments welcome
