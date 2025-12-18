@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-17, **Revisiting the tensionless limit of pure-Ramond-Ramond AdS3/CFT2**, Alberto Brollo, Dennis le Plat, Alessandro Sfondrini, Paper: [https://arxiv.org/abs/2512.15697](https://arxiv.org/abs/2512.15697), 14 pages, 7 figures
+- 2025-12-17, **Quantum Invariants of Ribbon Surfaces in $4$-Dimensional $2$ -Handlebodies**, Anna Beliakova, Marco De Renzi, Quentin Faes, Paper: [https://arxiv.org/abs/2512.15395](https://arxiv.org/abs/2512.15395), 92 pages, 209 pictures
+- 2025-12-17, **Quantum Entanglement of Anyonic Charges and Emergent Spacetime Geometry**, Hoang-Anh Le, Hyun Cheol Lee, S. -R. Eric Yang, Paper: [https://arxiv.org/abs/2512.15256](https://arxiv.org/abs/2512.15256)
+- 2025-12-17, **Fractional quantization by interaction of arbitrary strength in gapless flat bands with divergent quantum geometry**, Wenqi Yang, Dawei Zhai, Wang Yao, Paper: [https://arxiv.org/abs/2512.15041](https://arxiv.org/abs/2512.15041)
+- 2025-12-16, **Holographic interpolations of defect CFTs**, George Georgiou, Dimitrios Zoakos, Paper: [https://arxiv.org/abs/2512.14853](https://arxiv.org/abs/2512.14853), 30 pages, 6 figures
+- 2025-12-16, **A linear algebra approach to graded Frobenius algebras**, Sorin Dascalescu, Constantin Nastasescu, Laura Nastasescu, Paul Rebenciuc, Paper: [https://arxiv.org/abs/2512.14852](https://arxiv.org/abs/2512.14852)
 - 2025-12-16, **Holography and the Swampland: Constraints on Quantum Gravity from Holographic Principles**, Sudhaker Upadhyay, Alexander Reshetnyak, Pavel Moshin, Ricardo Castro, Paper: [https://arxiv.org/abs/2512.14389](https://arxiv.org/abs/2512.14389), 15 pages
 - 2025-12-16, **Perturbative algebraic quantum field theory and beyond**, Romeo Brunetti, Klaus Fredenhagen, Kasia Rejzner, Paper: [https://arxiv.org/abs/2512.14227](https://arxiv.org/abs/2512.14227), 19 pages, review article
 - 2025-12-16, **Correlation functions at the topological quantum phase transition in the S=1 XXZ chain with single-ion anisotropy**, Toshiya Hikihara, Akira Furusaki, Paper: [https://arxiv.org/abs/2512.14075](https://arxiv.org/abs/2512.14075), 14 pages, 12 figures, 1 table
