@@ -2,6 +2,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-18**|**Many-body contextuality and self-testing quantum matter via nonlocal games**|Oliver Hart, David T. Stephen, Evan Wickenden, Rahul Nandkishore|[2512.16886](https://arxiv.org/abs/2512.16886)|null|
+|**2025-12-18**|**Topological magic response in quantum spin chains**|Ritu Nehra, Poetri Sonya Tarabunga, Martina Frau, Mario Collura, Emanuele Tirrito, Marcello Dalmonte|[2512.16673](https://arxiv.org/abs/2512.16673)|null|
+|**2025-12-18**|**Scalable tests of quantum contextuality from stabilizer-testing nonlocal games**|Wanbing Zhao, H. W. Shawn Liew, Wen Wei Ho, Chunxiao Liu, Vir B. Bulchandani|[2512.16654](https://arxiv.org/abs/2512.16654)|null|
+|**2025-12-18**|**W*-Amenability for Fell bundles over discrete groups**|Alcides Buss, Damián Ferraro|[2512.16524](https://arxiv.org/abs/2512.16524)|null|
+|**2025-12-18**|**Anomalies and Parity-Violating Interactions: From Conformal to Thermal Field Theory**|Stefano Lionetti|[2512.16380](https://arxiv.org/abs/2512.16380)|null|
+|**2025-12-17**|**Nonlinearly Realised Defect Symmetries and Anomalies**|Nadav Drukker, Ziwen Kong, Petr Kravchuk|[2512.15913](https://arxiv.org/abs/2512.15913)|null|
+|**2025-12-17**|**Higher-form entanglement asymmetry. Part I. The limits of symmetry breaking**|Francesco Benini, Eduardo García-Valdecasas, Stathis Vitouladitis|[2512.15898](https://arxiv.org/abs/2512.15898)|null|
+|**2025-12-17**|**Extracting Anyon Statistics from Neural Network Fractional Quantum Hall States**|Andres Perez Fadon, David Pfau, James S. Spencer, Wan Tong Lou, Titus Neupert, W. M. C. Foulkes|[2512.15872](https://arxiv.org/abs/2512.15872)|null|
+|**2025-12-17**|**Classifying one-dimensional Floquet phases through two-dimensional topological order**|Campbell McLauchlan, Vedant Motamarri, Benjamin Béri|[2512.15868](https://arxiv.org/abs/2512.15868)|null|
 |**2025-12-17**|**Revisiting the tensionless limit of pure-Ramond-Ramond AdS3/CFT2**|Alberto Brollo, Dennis le Plat, Alessandro Sfondrini|[2512.15697](https://arxiv.org/abs/2512.15697)|null|
 |**2025-12-17**|**Quantum Invariants of Ribbon Surfaces in $4$-Dimensional $2$ -Handlebodies**|Anna Beliakova, Marco De Renzi, Quentin Faes|[2512.15395](https://arxiv.org/abs/2512.15395)|null|
 |**2025-12-17**|**Quantum Entanglement of Anyonic Charges and Emergent Spacetime Geometry**|Hoang-Anh Le, Hyun Cheol Lee, S. -R. Eric Yang|[2512.15256](https://arxiv.org/abs/2512.15256)|null|
