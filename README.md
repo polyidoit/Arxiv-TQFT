@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Paravortices: loop braid representations with both generators involutive**|Paul P. Martin, Fiona Torzewska, Eric C. Rowell|[2512.17830](https://arxiv.org/abs/2512.17830)|null|
+|**2025-12-19**|**From Diamond Gaugings to Dualisations**|Dimitrios Chatzis, John M. Marley, Daniel C. Thompson|[2512.17751](https://arxiv.org/abs/2512.17751)|null|
+|**2025-12-19**|**Reentrant melting of scarred odd crystals by self-shear**|Uttam Tiwari, Pragya Arora, A K Sood, Sriram Ramaswamy, Rituparno Mandal, Rajesh Ganapathy|[2512.17393](https://arxiv.org/abs/2512.17393)|null|
+|**2025-12-19**|**Kibble-Zurek mechanism in a polariton supersolid**|Dmitry Solnyshkov, Rafal Mirek, Darius Urbonas, Etsuki Kobiyama, Pietro Tassan, Ioannis Georgakilas, Rainer F. Mahrt, Michael Forster, Ullrich Scherf, Marcin Muszynski, Wiktor Piecek, Piotr Kapuściński, Jacek Szczytko, Thilo Stoferle, Guillaume Malpuech|[2512.17362](https://arxiv.org/abs/2512.17362)|null|
+|**2025-12-19**|**Shot noise signatures identifying non-Abelian properties of Jackiw-Rebbi zero modes**|Haoran Ge, Zhen Chen, Yijia Wu, X. C. Xie|[2512.17192](https://arxiv.org/abs/2512.17192)|null|
+|**2025-12-18**|**Subsystems (in)dependence in GIE proposals**|Nicolas Boulle, Guilherme Franzmann|[2512.17024](https://arxiv.org/abs/2512.17024)|null|
+|**2025-12-18**|**A geometric realization of liftings of Cartan type**|D. Bagio, G. A. García, O. Márquez|[2512.17000](https://arxiv.org/abs/2512.17000)|null|
 |**2025-12-18**|**Many-body contextuality and self-testing quantum matter via nonlocal games**|Oliver Hart, David T. Stephen, Evan Wickenden, Rahul Nandkishore|[2512.16886](https://arxiv.org/abs/2512.16886)|null|
 |**2025-12-18**|**Topological magic response in quantum spin chains**|Ritu Nehra, Poetri Sonya Tarabunga, Martina Frau, Mario Collura, Emanuele Tirrito, Marcello Dalmonte|[2512.16673](https://arxiv.org/abs/2512.16673)|null|
 |**2025-12-18**|**Scalable tests of quantum contextuality from stabilizer-testing nonlocal games**|Wanbing Zhao, H. W. Shawn Liew, Wen Wei Ho, Chunxiao Liu, Vir B. Bulchandani|[2512.16654](https://arxiv.org/abs/2512.16654)|null|
