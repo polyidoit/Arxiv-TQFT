@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-22**|**Supersymmetric Holomorphic Masses in AdS/CFT with Flavour**|Pietro Capuozzo, Jack Holden, Andy O'Bannon, James Ratcliffe, Ronnie Rodgers, Benjamin Suzzoni|[2512.19688](https://arxiv.org/abs/2512.19688)|null|
+|**2025-12-22**|**Pivotal Module Categories, Factorization Homology and Modular Invariant Modified Traces**|Jorge Becerra, Lukas Woike|[2512.19669](https://arxiv.org/abs/2512.19669)|null|
+|**2025-12-22**|**Quantum upper triangular matrix algebras**|Érica Z. Fornaroli, Mykola Khrypchenko, Samuel A. Lopes, Ednei A. Santulo|[2512.19664](https://arxiv.org/abs/2512.19664)|null|
+|**2025-12-22**|**Non-invertible defects from the Conway SCFT to K3 sigma models II: duality and Fibonacci defects**|Roberta Angius, Stefano Giaccari, Sarah M. Harrison, Roberto Volpato|[2512.19640](https://arxiv.org/abs/2512.19640)|null|
+|**2025-12-22**|**Holographic Tensor Networks as Tessellations of Geometry**|Qiang Wen, Mingshuai Xu, Haocheng Zhong|[2512.19452](https://arxiv.org/abs/2512.19452)|null|
+|**2025-12-22**|**Exotic Branes and Symmetries of String Theory**|Ashoke Sen|[2512.19068](https://arxiv.org/abs/2512.19068)|null|
+|**2025-12-22**|**Light-ray Operators and the ${\rm w}_{1+\infty}$ Algebra**|Elizabeth Himwich, Monica Pate|[2512.18973](https://arxiv.org/abs/2512.18973)|null|
+|**2025-12-21**|**The Fate of Information Localizability and Holography in Quantum Gravity**|Hao Geng, Daniel Jafferis, Pushkal Shrivastava, Neeraj Tata|[2512.18912](https://arxiv.org/abs/2512.18912)|null|
+|**2025-12-21**|**Merge on workspaces as Hopf algebra Markov chain**|Matilde Marcolli, David Skigin|[2512.18861](https://arxiv.org/abs/2512.18861)|null|
+|**2025-12-21**|**Nanohertz Gravitational Waves**|Alberto Sesana, Daniel G. Figueroa|[2512.18822](https://arxiv.org/abs/2512.18822)|null|
 |**2025-12-19**|**Paravortices: loop braid representations with both generators involutive**|Paul P. Martin, Fiona Torzewska, Eric C. Rowell|[2512.17830](https://arxiv.org/abs/2512.17830)|null|
 |**2025-12-19**|**From Diamond Gaugings to Dualisations**|Dimitrios Chatzis, John M. Marley, Daniel C. Thompson|[2512.17751](https://arxiv.org/abs/2512.17751)|null|
 |**2025-12-19**|**Reentrant melting of scarred odd crystals by self-shear**|Uttam Tiwari, Pragya Arora, A K Sood, Sriram Ramaswamy, Rituparno Mandal, Rajesh Ganapathy|[2512.17393](https://arxiv.org/abs/2512.17393)|null|
