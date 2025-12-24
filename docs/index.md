@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-23**|**Rényi-like entanglement probe of the chiral central charge**|Julian Gass, Michael Levin|[2512.20608](https://arxiv.org/abs/2512.20608)|null|
+|**2025-12-23**|**Non-equilibrium Quantum Field Theory and Axion Electrodynamics in curved spacetimes**|Amedeo M. Favitta|[2512.20521](https://arxiv.org/abs/2512.20521)|null|
+|**2025-12-23**|**Cosmological consequences of spontaneous symmetry breaking**|Giacomo Ferrante|[2512.20474](https://arxiv.org/abs/2512.20474)|null|
+|**2025-12-23**|**Metrologically advantageous states: long-range entanglement and asymmetric error correction**|Junjie Chen, Rui Luo, Yuxuan Yan, You Zhou, Xiongfeng Ma|[2512.20426](https://arxiv.org/abs/2512.20426)|null|
+|**2025-12-23**|**On holography with ADE singularities**|Sunjin Choi, Yuji Tachikawa|[2512.20307](https://arxiv.org/abs/2512.20307)|null|
+|**2025-12-23**|**Spatiotemporal Chaos and Defect Proliferation in Polar-Apolar Active Mixture**|Partha Sarathi Mondal, Tamas Vicsek, Shradha Mishra|[2512.20289](https://arxiv.org/abs/2512.20289)|null|
+|**2025-12-23**|**New examples of separable cowreaths over Clifford algebras**|Claudia Menini, Blas Torrecillas|[2512.20197](https://arxiv.org/abs/2512.20197)|null|
+|**2025-12-23**|**Constraining particle physics models with gravitational waves from the early universe**|Dhruv Ringe|[2512.20160](https://arxiv.org/abs/2512.20160)|null|
+|**2025-12-23**|**Geometric Aspects of $C^*$ -Extreme Points**|Neha Hotwani, T. S. S. R. K. Rao|[2512.20101](https://arxiv.org/abs/2512.20101)|null|
+|**2025-12-23**|**Entanglement of General Subregions in Time-Dependent States**|Wu-zhong Guo, Song He, Tao Liu|[2512.19955](https://arxiv.org/abs/2512.19955)|null|
 |**2025-12-22**|**Supersymmetric Holomorphic Masses in AdS/CFT with Flavour**|Pietro Capuozzo, Jack Holden, Andy O'Bannon, James Ratcliffe, Ronnie Rodgers, Benjamin Suzzoni|[2512.19688](https://arxiv.org/abs/2512.19688)|null|
 |**2025-12-22**|**Pivotal Module Categories, Factorization Homology and Modular Invariant Modified Traces**|Jorge Becerra, Lukas Woike|[2512.19669](https://arxiv.org/abs/2512.19669)|null|
 |**2025-12-22**|**Quantum upper triangular matrix algebras**|Érica Z. Fornaroli, Mykola Khrypchenko, Samuel A. Lopes, Ednei A. Santulo|[2512.19664](https://arxiv.org/abs/2512.19664)|null|

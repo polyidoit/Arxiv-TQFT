@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-23, **Rényi-like entanglement probe of the chiral central charge**, Julian Gass, Michael Levin, Paper: [https://arxiv.org/abs/2512.20608](https://arxiv.org/abs/2512.20608), 14 pages, 6 figures
+- 2025-12-23, **Non-equilibrium Quantum Field Theory and Axion Electrodynamics in curved spacetimes**, Amedeo M. Favitta, Paper: [https://arxiv.org/abs/2512.20521](https://arxiv.org/abs/2512.20521), 221 pages, 50 figures
+- 2025-12-23, **Cosmological consequences of spontaneous symmetry breaking**, Giacomo Ferrante, Paper: [https://arxiv.org/abs/2512.20474](https://arxiv.org/abs/2512.20474), PhD thesis; 171 pages, 21 figures
+- 2025-12-23, **Metrologically advantageous states: long-range entanglement and asymmetric error correction**, Junjie Chen, Rui Luo, Yuxuan Yan, You Zhou, Xiongfeng Ma, Paper: [https://arxiv.org/abs/2512.20426](https://arxiv.org/abs/2512.20426), 19 pages, 4 figures
+- 2025-12-23, **On holography with ADE singularities**, Sunjin Choi, Yuji Tachikawa, Paper: [https://arxiv.org/abs/2512.20307](https://arxiv.org/abs/2512.20307), 30 pages + appendices
+- 2025-12-23, **Spatiotemporal Chaos and Defect Proliferation in Polar-Apolar Active Mixture**, Partha Sarathi Mondal, Tamas Vicsek, Shradha Mishra, Paper: [https://arxiv.org/abs/2512.20289](https://arxiv.org/abs/2512.20289), 22 pages, 20 figures
+- 2025-12-23, **New examples of separable cowreaths over Clifford algebras**, Claudia Menini, Blas Torrecillas, Paper: [https://arxiv.org/abs/2512.20197](https://arxiv.org/abs/2512.20197)
+- 2025-12-23, **Constraining particle physics models with gravitational waves from the early universe**, Dhruv Ringe, Paper: [https://arxiv.org/abs/2512.20160](https://arxiv.org/abs/2512.20160), 214 pages, 34 figures, Ph.D. thesis
+- 2025-12-23, **Geometric Aspects of $C^*$ -Extreme Points**, Neha Hotwani, T. S. S. R. K. Rao, Paper: [https://arxiv.org/abs/2512.20101](https://arxiv.org/abs/2512.20101), Comments are welcome
+- 2025-12-23, **Entanglement of General Subregions in Time-Dependent States**, Wu-zhong Guo, Song He, Tao Liu, Paper: [https://arxiv.org/abs/2512.19955](https://arxiv.org/abs/2512.19955), 39 pages, 11 figures
 - 2025-12-22, **Supersymmetric Holomorphic Masses in AdS/CFT with Flavour**, Pietro Capuozzo, Jack Holden, Andy O'Bannon, James Ratcliffe, Ronnie Rodgers, Benjamin Suzzoni, Paper: [https://arxiv.org/abs/2512.19688](https://arxiv.org/abs/2512.19688), 42 pages, 1 figure, 1 appendix
 - 2025-12-22, **Pivotal Module Categories, Factorization Homology and Modular Invariant Modified Traces**, Jorge Becerra, Lukas Woike, Paper: [https://arxiv.org/abs/2512.19669](https://arxiv.org/abs/2512.19669), 19 pages, comments are welcome
 - 2025-12-22, **Quantum upper triangular matrix algebras**, Érica Z. Fornaroli, Mykola Khrypchenko, Samuel A. Lopes, Ednei A. Santulo, Paper: [https://arxiv.org/abs/2512.19664](https://arxiv.org/abs/2512.19664)
