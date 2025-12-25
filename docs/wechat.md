@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-24, **Topological Charge-2ne Superconductors**, Zhi-Qiang Gao, Yan-Qi Wang, Hui Yang, Congjun Wu, Paper: [https://arxiv.org/abs/2512.21325](https://arxiv.org/abs/2512.21325), 5+3 pages, 1+0 figures
+- 2025-12-24, **Universality of equilibration dynamics after quantum quenches**, Vincenzo Alba, Sanam Azarnia, Gianluca Lagnese, Federico Rottoli, Paper: [https://arxiv.org/abs/2512.21313](https://arxiv.org/abs/2512.21313), 31 pages, 11 figures. Authors list is alphabetical
+- 2025-12-24, **Bridging Microscopic Constructions and Continuum Topological Field Theory of Three-Dimensional Non-Abelian Topological Order**, Yizhou Huang, Zhi-Feng Zhang, Qing-Rui Wang, Peng Ye, Paper: [https://arxiv.org/abs/2512.21148](https://arxiv.org/abs/2512.21148), Length limit. The complete version of Abstract is shown in PDF
+- 2025-12-24, **Isometric Structure in Noncommutative Symmetric Spaces**, Kai Fang, Tianbao Guo, Jinghao Huang, Fedor Sukochev, Paper: [https://arxiv.org/abs/2512.20972](https://arxiv.org/abs/2512.20972)
+- 2025-12-24, **Competing magnetic and topological orders in the spin-1 Kitaev-Heisenberg chain with single-ion anisotropy**, Sahinur Reja, Satoshi Nishimoto, Paper: [https://arxiv.org/abs/2512.20912](https://arxiv.org/abs/2512.20912), 13 pages, 14 figures
+- 2025-12-24, **A novel realization of linear seesaw model in a non-invertible selection rule with the assistance of $\mathbb Z_3$ symmetry**, Hiroshi Okada, Yutaro Shoji, Paper: [https://arxiv.org/abs/2512.20891](https://arxiv.org/abs/2512.20891), 15 pages, 9 figures, 2 tables
+- 2025-12-23, **Large charge bootstrap with U(1) current probes**, Kasra Kiaee, Alexander Monin, Paper: [https://arxiv.org/abs/2512.20803](https://arxiv.org/abs/2512.20803), 28 + 26 pages
+- 2025-12-23, **Topological Classification of a 4D AdS Black Hole with Non-Minimal Maxwell Coupling**, Faramarz Rahmani, Mehdi Sadeghi, Paper: [https://arxiv.org/abs/2512.20799](https://arxiv.org/abs/2512.20799)
+- 2025-12-23, **Higher-Dimensional Information Lattice: Quantum State Characterization through Inclusion-Exclusion Local Information**, Ian Matthias Flór, Claudia Artiaco, Thomas Klein Kvorning, Jens H. Bardarson, Paper: [https://arxiv.org/abs/2512.20793](https://arxiv.org/abs/2512.20793)
+- 2025-12-23, **Bounds on Abelian Currents in 4d CFTs**, Denis Karateev, Petr Kravchuk, Andrea Manenti, Marten Reehorst, Alessandro Vichi, Paper: [https://arxiv.org/abs/2512.20710](https://arxiv.org/abs/2512.20710), 12 pages + appendices, 4 figures
 - 2025-12-23, **Rényi-like entanglement probe of the chiral central charge**, Julian Gass, Michael Levin, Paper: [https://arxiv.org/abs/2512.20608](https://arxiv.org/abs/2512.20608), 14 pages, 6 figures
 - 2025-12-23, **Non-equilibrium Quantum Field Theory and Axion Electrodynamics in curved spacetimes**, Amedeo M. Favitta, Paper: [https://arxiv.org/abs/2512.20521](https://arxiv.org/abs/2512.20521), 221 pages, 50 figures
 - 2025-12-23, **Cosmological consequences of spontaneous symmetry breaking**, Giacomo Ferrante, Paper: [https://arxiv.org/abs/2512.20474](https://arxiv.org/abs/2512.20474), PhD thesis; 171 pages, 21 figures

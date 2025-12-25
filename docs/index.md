@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-24**|**Topological Charge-2ne Superconductors**|Zhi-Qiang Gao, Yan-Qi Wang, Hui Yang, Congjun Wu|[2512.21325](https://arxiv.org/abs/2512.21325)|null|
+|**2025-12-24**|**Universality of equilibration dynamics after quantum quenches**|Vincenzo Alba, Sanam Azarnia, Gianluca Lagnese, Federico Rottoli|[2512.21313](https://arxiv.org/abs/2512.21313)|null|
+|**2025-12-24**|**Bridging Microscopic Constructions and Continuum Topological Field Theory of Three-Dimensional Non-Abelian Topological Order**|Yizhou Huang, Zhi-Feng Zhang, Qing-Rui Wang, Peng Ye|[2512.21148](https://arxiv.org/abs/2512.21148)|null|
+|**2025-12-24**|**Isometric Structure in Noncommutative Symmetric Spaces**|Kai Fang, Tianbao Guo, Jinghao Huang, Fedor Sukochev|[2512.20972](https://arxiv.org/abs/2512.20972)|null|
+|**2025-12-24**|**Competing magnetic and topological orders in the spin-1 Kitaev-Heisenberg chain with single-ion anisotropy**|Sahinur Reja, Satoshi Nishimoto|[2512.20912](https://arxiv.org/abs/2512.20912)|null|
+|**2025-12-24**|**A novel realization of linear seesaw model in a non-invertible selection rule with the assistance of $\mathbb Z_3$ symmetry**|Hiroshi Okada, Yutaro Shoji|[2512.20891](https://arxiv.org/abs/2512.20891)|null|
+|**2025-12-23**|**Large charge bootstrap with U(1) current probes**|Kasra Kiaee, Alexander Monin|[2512.20803](https://arxiv.org/abs/2512.20803)|null|
+|**2025-12-23**|**Topological Classification of a 4D AdS Black Hole with Non-Minimal Maxwell Coupling**|Faramarz Rahmani, Mehdi Sadeghi|[2512.20799](https://arxiv.org/abs/2512.20799)|null|
+|**2025-12-23**|**Higher-Dimensional Information Lattice: Quantum State Characterization through Inclusion-Exclusion Local Information**|Ian Matthias Flór, Claudia Artiaco, Thomas Klein Kvorning, Jens H. Bardarson|[2512.20793](https://arxiv.org/abs/2512.20793)|null|
+|**2025-12-23**|**Bounds on Abelian Currents in 4d CFTs**|Denis Karateev, Petr Kravchuk, Andrea Manenti, Marten Reehorst, Alessandro Vichi|[2512.20710](https://arxiv.org/abs/2512.20710)|null|
 |**2025-12-23**|**Rényi-like entanglement probe of the chiral central charge**|Julian Gass, Michael Levin|[2512.20608](https://arxiv.org/abs/2512.20608)|null|
 |**2025-12-23**|**Non-equilibrium Quantum Field Theory and Axion Electrodynamics in curved spacetimes**|Amedeo M. Favitta|[2512.20521](https://arxiv.org/abs/2512.20521)|null|
 |**2025-12-23**|**Cosmological consequences of spontaneous symmetry breaking**|Giacomo Ferrante|[2512.20474](https://arxiv.org/abs/2512.20474)|null|
