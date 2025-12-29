@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-26, **Information Critical Phases under Decoherence**, Akash Vijay, Jong Yeon Lee, Paper: [https://arxiv.org/abs/2512.22121](https://arxiv.org/abs/2512.22121)
+- 2025-12-26, **Charge-Informed Quantum Error Correction**, Vlad Temkin, Zack Weinstein, Ruihua Fan, Daniel Podolsky, Ehud Altman, Paper: [https://arxiv.org/abs/2512.22119](https://arxiv.org/abs/2512.22119), 7+22 pages, 2+10 figures
+- 2025-12-26, **General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes**, Yue Wu, Meng-Yuan Li, Chengshu Li, Hui Zhai, Paper: [https://arxiv.org/abs/2512.22116](https://arxiv.org/abs/2512.22116), 6 pages, 4 figures + Supplementary Material 5 pages, 4 figures
+- 2025-12-26, **Non-abelian soft radiation data for a celestial theory**, Lorenzo Magnea, Enrico Zunino, Paper: [https://arxiv.org/abs/2512.22104](https://arxiv.org/abs/2512.22104)
+- 2025-12-26, **Spacetime Spins: Statistical mechanics for error correction with stabilizer circuits**, Cory T. Aitchison, Benjamin Béri, Paper: [https://arxiv.org/abs/2512.21991](https://arxiv.org/abs/2512.21991), 27 pages, 16 figures
+- 2025-12-26, **Post-Hopf algebroids, post-Lie-Rinehart algebras and geometric numerical integration**, Adrien Busnot Laurent, Yunnan Li, Yunhe Sheng, Paper: [https://arxiv.org/abs/2512.21971](https://arxiv.org/abs/2512.21971), 30 pages
+- 2025-12-26, **Necking of epithelial tissues with cellular topological transition**, Yuan He, Shi-Lei Xue, Paper: [https://arxiv.org/abs/2512.21854](https://arxiv.org/abs/2512.21854)
+- 2025-12-26, **Unitary and Nonunitary A-D-E minimal models: Coset graph fusion algebras, defects, entropies, SREEs and dilogarithm identities**, Paul A. Pearce, Jared Heymann, Thomas Quella, Paper: [https://arxiv.org/abs/2512.21808](https://arxiv.org/abs/2512.21808), 46 pages, 16 figures. Abstract shortened for arXiv
+- 2025-12-25, **Memory of topologically constrained disorder in Shakti artificial spin ice**, Priyanka Priyanka, Cristiano Nisoli, Yair Shokef, Paper: [https://arxiv.org/abs/2512.21767](https://arxiv.org/abs/2512.21767)
+- 2025-12-25, **Classifying fusion rules of anyons or SymTFTs: A general algebraic formula for domain wall problems and quantum phase transitions**, Yoshiki Fukusumi, Paper: [https://arxiv.org/abs/2512.21687](https://arxiv.org/abs/2512.21687), 11 pages, 1 figure
 - 2025-12-24, **Topological Charge-2ne Superconductors**, Zhi-Qiang Gao, Yan-Qi Wang, Hui Yang, Congjun Wu, Paper: [https://arxiv.org/abs/2512.21325](https://arxiv.org/abs/2512.21325), 5+3 pages, 1+0 figures
 - 2025-12-24, **Universality of equilibration dynamics after quantum quenches**, Vincenzo Alba, Sanam Azarnia, Gianluca Lagnese, Federico Rottoli, Paper: [https://arxiv.org/abs/2512.21313](https://arxiv.org/abs/2512.21313), 31 pages, 11 figures. Authors list is alphabetical
 - 2025-12-24, **Bridging Microscopic Constructions and Continuum Topological Field Theory of Three-Dimensional Non-Abelian Topological Order**, Yizhou Huang, Zhi-Feng Zhang, Qing-Rui Wang, Peng Ye, Paper: [https://arxiv.org/abs/2512.21148](https://arxiv.org/abs/2512.21148), Length limit. The complete version of Abstract is shown in PDF

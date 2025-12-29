@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-26**|**Information Critical Phases under Decoherence**|Akash Vijay, Jong Yeon Lee|[2512.22121](https://arxiv.org/abs/2512.22121)|null|
+|**2025-12-26**|**Charge-Informed Quantum Error Correction**|Vlad Temkin, Zack Weinstein, Ruihua Fan, Daniel Podolsky, Ehud Altman|[2512.22119](https://arxiv.org/abs/2512.22119)|null|
+|**2025-12-26**|**General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes**|Yue Wu, Meng-Yuan Li, Chengshu Li, Hui Zhai|[2512.22116](https://arxiv.org/abs/2512.22116)|null|
+|**2025-12-26**|**Non-abelian soft radiation data for a celestial theory**|Lorenzo Magnea, Enrico Zunino|[2512.22104](https://arxiv.org/abs/2512.22104)|null|
+|**2025-12-26**|**Spacetime Spins: Statistical mechanics for error correction with stabilizer circuits**|Cory T. Aitchison, Benjamin Béri|[2512.21991](https://arxiv.org/abs/2512.21991)|null|
+|**2025-12-26**|**Post-Hopf algebroids, post-Lie-Rinehart algebras and geometric numerical integration**|Adrien Busnot Laurent, Yunnan Li, Yunhe Sheng|[2512.21971](https://arxiv.org/abs/2512.21971)|null|
+|**2025-12-26**|**Necking of epithelial tissues with cellular topological transition**|Yuan He, Shi-Lei Xue|[2512.21854](https://arxiv.org/abs/2512.21854)|null|
+|**2025-12-26**|**Unitary and Nonunitary A-D-E minimal models: Coset graph fusion algebras, defects, entropies, SREEs and dilogarithm identities**|Paul A. Pearce, Jared Heymann, Thomas Quella|[2512.21808](https://arxiv.org/abs/2512.21808)|null|
+|**2025-12-25**|**Memory of topologically constrained disorder in Shakti artificial spin ice**|Priyanka Priyanka, Cristiano Nisoli, Yair Shokef|[2512.21767](https://arxiv.org/abs/2512.21767)|null|
+|**2025-12-25**|**Classifying fusion rules of anyons or SymTFTs: A general algebraic formula for domain wall problems and quantum phase transitions**|Yoshiki Fukusumi|[2512.21687](https://arxiv.org/abs/2512.21687)|null|
 |**2025-12-24**|**Topological Charge-2ne Superconductors**|Zhi-Qiang Gao, Yan-Qi Wang, Hui Yang, Congjun Wu|[2512.21325](https://arxiv.org/abs/2512.21325)|null|
 |**2025-12-24**|**Universality of equilibration dynamics after quantum quenches**|Vincenzo Alba, Sanam Azarnia, Gianluca Lagnese, Federico Rottoli|[2512.21313](https://arxiv.org/abs/2512.21313)|null|
 |**2025-12-24**|**Bridging Microscopic Constructions and Continuum Topological Field Theory of Three-Dimensional Non-Abelian Topological Order**|Yizhou Huang, Zhi-Feng Zhang, Qing-Rui Wang, Peng Ye|[2512.21148](https://arxiv.org/abs/2512.21148)|null|
