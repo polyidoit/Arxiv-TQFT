@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-29**|**Non-Invertible Interfaces Between Symmetry-Enriched Critical Phases**|Saranesh Prembabu, Shu-Heng Shao, Ruben Verresen|[2512.23706](https://arxiv.org/abs/2512.23706)|null|
+|**2025-12-29**|**Non-compact 3D TQFT and non-semisimplicity**|Theodoros Lagiotis|[2512.23698](https://arxiv.org/abs/2512.23698)|null|
+|**2025-12-29**|**Fractional quantum anomalous Hall and anyon density-wave halo in a minimal interacting lattice model of twisted bilayer MoTe $_2$**|Chuyi Tuo, Ming-Rui Li, Hong Yao|[2512.23608](https://arxiv.org/abs/2512.23608)|null|
+|**2025-12-29**|**Torsion-Free Bimodule Connections and the Maximal Prolongation of a First-Order Differential Calculus**|Alessandro Carotenuto, Antonio Del Dono, Réamonn Ó Buachalla, Junaid Razzaq|[2512.23579](https://arxiv.org/abs/2512.23579)|null|
+|**2025-12-29**|**Semiclassical Canovaccio for Composite Operators**|Oleg Antipin, Jahmall Bersini, Jacob Hafjall, Giulia Muco, Francesco Sannino|[2512.23539](https://arxiv.org/abs/2512.23539)|null|
+|**2025-12-29**|**On Hopf Ideals, Integrality, and Automorphisms of Quantum Groups at Roots of 1**|Matthew Harper, Thomas Kerler|[2512.23503](https://arxiv.org/abs/2512.23503)|null|
+|**2025-12-29**|**Universal Entanglement Growth along Imaginary Time in Quantum Critical Systems**|Chang-Yu Shen, Shuai Yin, Zi-Xiang Li|[2512.23361](https://arxiv.org/abs/2512.23361)|null|
+|**2025-12-29**|**Torus Knots and Minimal Models Revisited : Rational VOA characters from non-hyperbolic knots**|Dongmin Gang, Byoungyoon Park, Huijoon Sohn|[2512.23122](https://arxiv.org/abs/2512.23122)|null|
+|**2025-12-28**|**Torus Knots in Adjoint Representation**|Andrei Mironov, Vivek Kumar Singh|[2512.23095](https://arxiv.org/abs/2512.23095)|null|
+|**2025-12-28**|**Generalised Entanglement Entropies from Unit-Invariant Singular Value Decomposition**|Pawel Caputa, Abhigyan Saha, Piotr Sułkowski|[2512.22997](https://arxiv.org/abs/2512.22997)|null|
 |**2025-12-26**|**Information Critical Phases under Decoherence**|Akash Vijay, Jong Yeon Lee|[2512.22121](https://arxiv.org/abs/2512.22121)|null|
 |**2025-12-26**|**Charge-Informed Quantum Error Correction**|Vlad Temkin, Zack Weinstein, Ruihua Fan, Daniel Podolsky, Ehud Altman|[2512.22119](https://arxiv.org/abs/2512.22119)|null|
 |**2025-12-26**|**General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes**|Yue Wu, Meng-Yuan Li, Chengshu Li, Hui Zhai|[2512.22116](https://arxiv.org/abs/2512.22116)|null|

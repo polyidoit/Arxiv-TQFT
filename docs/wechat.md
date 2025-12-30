@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-29, **Non-Invertible Interfaces Between Symmetry-Enriched Critical Phases**, Saranesh Prembabu, Shu-Heng Shao, Ruben Verresen, Paper: [https://arxiv.org/abs/2512.23706](https://arxiv.org/abs/2512.23706), 11 pages, 7 figures + 4 page appendix
+- 2025-12-29, **Non-compact 3D TQFT and non-semisimplicity**, Theodoros Lagiotis, Paper: [https://arxiv.org/abs/2512.23698](https://arxiv.org/abs/2512.23698), PhD thesis, 75 pages, comments welcome!
+- 2025-12-29, **Fractional quantum anomalous Hall and anyon density-wave halo in a minimal interacting lattice model of twisted bilayer MoTe $_2$**, Chuyi Tuo, Ming-Rui Li, Hong Yao, Paper: [https://arxiv.org/abs/2512.23608](https://arxiv.org/abs/2512.23608), 13 pages, 8 figures
+- 2025-12-29, **Torsion-Free Bimodule Connections and the Maximal Prolongation of a First-Order Differential Calculus**, Alessandro Carotenuto, Antonio Del Dono, Réamonn Ó Buachalla, Junaid Razzaq, Paper: [https://arxiv.org/abs/2512.23579](https://arxiv.org/abs/2512.23579), Preliminary version. Extension from the quantum Grassmannians to all irreducible quantum flag manifolds, and extension from the anti-holomorphic calculus to the entire Dolbeault double complex will follow
+- 2025-12-29, **Semiclassical Canovaccio for Composite Operators**, Oleg Antipin, Jahmall Bersini, Jacob Hafjall, Giulia Muco, Francesco Sannino, Paper: [https://arxiv.org/abs/2512.23539](https://arxiv.org/abs/2512.23539), 59 pages, 2 figures, 2 tables
+- 2025-12-29, **On Hopf Ideals, Integrality, and Automorphisms of Quantum Groups at Roots of 1**, Matthew Harper, Thomas Kerler, Paper: [https://arxiv.org/abs/2512.23503](https://arxiv.org/abs/2512.23503), 158 pages
+- 2025-12-29, **Universal Entanglement Growth along Imaginary Time in Quantum Critical Systems**, Chang-Yu Shen, Shuai Yin, Zi-Xiang Li, Paper: [https://arxiv.org/abs/2512.23361](https://arxiv.org/abs/2512.23361), 7+5 pages, 4+3 figures
+- 2025-12-29, **Torus Knots and Minimal Models Revisited : Rational VOA characters from non-hyperbolic knots**, Dongmin Gang, Byoungyoon Park, Huijoon Sohn, Paper: [https://arxiv.org/abs/2512.23122](https://arxiv.org/abs/2512.23122), 51 pages (plus appendices)
+- 2025-12-28, **Torus Knots in Adjoint Representation**, Andrei Mironov, Vivek Kumar Singh, Paper: [https://arxiv.org/abs/2512.23095](https://arxiv.org/abs/2512.23095), 7 pages
+- 2025-12-28, **Generalised Entanglement Entropies from Unit-Invariant Singular Value Decomposition**, Pawel Caputa, Abhigyan Saha, Piotr Sułkowski, Paper: [https://arxiv.org/abs/2512.22997](https://arxiv.org/abs/2512.22997), 53 pages, 7 figures
 - 2025-12-26, **Information Critical Phases under Decoherence**, Akash Vijay, Jong Yeon Lee, Paper: [https://arxiv.org/abs/2512.22121](https://arxiv.org/abs/2512.22121)
 - 2025-12-26, **Charge-Informed Quantum Error Correction**, Vlad Temkin, Zack Weinstein, Ruihua Fan, Daniel Podolsky, Ehud Altman, Paper: [https://arxiv.org/abs/2512.22119](https://arxiv.org/abs/2512.22119), 7+22 pages, 2+10 figures
 - 2025-12-26, **General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes**, Yue Wu, Meng-Yuan Li, Chengshu Li, Hui Zhai, Paper: [https://arxiv.org/abs/2512.22116](https://arxiv.org/abs/2512.22116), 6 pages, 4 figures + Supplementary Material 5 pages, 4 figures
