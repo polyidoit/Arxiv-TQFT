@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2025-12-31**|**Classification of Interacting Topological Crystalline Superconductors in Three Dimensions and Beyond**|Shang-Qiang Ning, Xing-Yu Ren, Qing-Rui Wang, Yang Qi, Zheng-Cheng Gu|[2512.25069](https://arxiv.org/abs/2512.25069)|null|
+|**2025-12-31**|**Local approximations of global Hamiltonian from inclusion of algebras**|Yidong Chen, Nima Lashkari, Kwing Lam Leung|[2512.25062](https://arxiv.org/abs/2512.25062)|null|
+|**2025-12-31**|**Emergence of 3D Superconformal Ising Criticality on the Fuzzy Sphere**|Yin Tang, Cristian Voinea, Liangdong Hu, Zlatko Papić, W. Zhu|[2512.25054](https://arxiv.org/abs/2512.25054)|null|
+|**2025-12-31**|**Fluid dynamics as intersection problem**|Nikita Nekrasov, Paul Wiegmann|[2512.25053](https://arxiv.org/abs/2512.25053)|null|
+|**2025-12-31**|**The Hochschild homology of a noncommutative symmetric quotient stack**|Rina Anno, Vladimir Baranovsky, Timothy Logvinenko|[2512.25039](https://arxiv.org/abs/2512.25039)|null|
+|**2025-12-31**|**Anomalous (3+1)d Fermionic Topological Quantum Field Theories via Symmetry Extension**|Zheyan Wan, Juven Wang|[2512.25038](https://arxiv.org/abs/2512.25038)|null|
+|**2025-12-31**|**Cartier duality for gerbes of vector bundles**|Juan Esteban Rodríguez Camargo|[2512.24967](https://arxiv.org/abs/2512.24967)|null|
+|**2025-12-31**|**Coherent span-valued 2D TQFTs**|Sophia E Marx, Rajan Amit Mehta|[2512.24887](https://arxiv.org/abs/2512.24887)|null|
+|**2025-12-31**|**Classical integrability in 2D and asymptotic symmetries**|Marcela Cárdenas|[2512.24833](https://arxiv.org/abs/2512.24833)|null|
+|**2025-12-31**|**Holographic Central Charge Effects on Black Hole Thermodynamics and Quantum Information**|Yahya Ladghami, Taoufik Ouali|[2512.24808](https://arxiv.org/abs/2512.24808)|null|
 |**2025-12-29**|**Non-Invertible Interfaces Between Symmetry-Enriched Critical Phases**|Saranesh Prembabu, Shu-Heng Shao, Ruben Verresen|[2512.23706](https://arxiv.org/abs/2512.23706)|null|
 |**2025-12-29**|**Non-compact 3D TQFT and non-semisimplicity**|Theodoros Lagiotis|[2512.23698](https://arxiv.org/abs/2512.23698)|null|
 |**2025-12-29**|**Fractional quantum anomalous Hall and anyon density-wave halo in a minimal interacting lattice model of twisted bilayer MoTe $_2$**|Chuyi Tuo, Ming-Rui Li, Hong Yao|[2512.23608](https://arxiv.org/abs/2512.23608)|null|

@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2025-12-31, **Classification of Interacting Topological Crystalline Superconductors in Three Dimensions and Beyond**, Shang-Qiang Ning, Xing-Yu Ren, Qing-Rui Wang, Yang Qi, Zheng-Cheng Gu, Paper: [https://arxiv.org/abs/2512.25069](https://arxiv.org/abs/2512.25069), 38 pages, 15 figures, 6 tables, all comments and suggestions are welcome
+- 2025-12-31, **Local approximations of global Hamiltonian from inclusion of algebras**, Yidong Chen, Nima Lashkari, Kwing Lam Leung, Paper: [https://arxiv.org/abs/2512.25062](https://arxiv.org/abs/2512.25062)
+- 2025-12-31, **Emergence of 3D Superconformal Ising Criticality on the Fuzzy Sphere**, Yin Tang, Cristian Voinea, Liangdong Hu, Zlatko Papić, W. Zhu, Paper: [https://arxiv.org/abs/2512.25054](https://arxiv.org/abs/2512.25054), 6+8 pages, 6 figures
+- 2025-12-31, **Fluid dynamics as intersection problem**, Nikita Nekrasov, Paul Wiegmann, Paper: [https://arxiv.org/abs/2512.25053](https://arxiv.org/abs/2512.25053), 47 pages, 2 figures
+- 2025-12-31, **The Hochschild homology of a noncommutative symmetric quotient stack**, Rina Anno, Vladimir Baranovsky, Timothy Logvinenko, Paper: [https://arxiv.org/abs/2512.25039](https://arxiv.org/abs/2512.25039), 36 pages; v1
+- 2025-12-31, **Anomalous (3+1)d Fermionic Topological Quantum Field Theories via Symmetry Extension**, Zheyan Wan, Juven Wang, Paper: [https://arxiv.org/abs/2512.25038](https://arxiv.org/abs/2512.25038), 28 pages
+- 2025-12-31, **Cartier duality for gerbes of vector bundles**, Juan Esteban Rodríguez Camargo, Paper: [https://arxiv.org/abs/2512.24967](https://arxiv.org/abs/2512.24967), 42 pages
+- 2025-12-31, **Coherent span-valued 2D TQFTs**, Sophia E Marx, Rajan Amit Mehta, Paper: [https://arxiv.org/abs/2512.24887](https://arxiv.org/abs/2512.24887)
+- 2025-12-31, **Classical integrability in 2D and asymptotic symmetries**, Marcela Cárdenas, Paper: [https://arxiv.org/abs/2512.24833](https://arxiv.org/abs/2512.24833), 38 pages, contribution to proceedings of the 11th summer school "Geometric, Algebraic and Topological Methods for Quantum Field Theory"
+- 2025-12-31, **Holographic Central Charge Effects on Black Hole Thermodynamics and Quantum Information**, Yahya Ladghami, Taoufik Ouali, Paper: [https://arxiv.org/abs/2512.24808](https://arxiv.org/abs/2512.24808), 14 pages, 3 figures
 - 2025-12-29, **Non-Invertible Interfaces Between Symmetry-Enriched Critical Phases**, Saranesh Prembabu, Shu-Heng Shao, Ruben Verresen, Paper: [https://arxiv.org/abs/2512.23706](https://arxiv.org/abs/2512.23706), 11 pages, 7 figures + 4 page appendix
 - 2025-12-29, **Non-compact 3D TQFT and non-semisimplicity**, Theodoros Lagiotis, Paper: [https://arxiv.org/abs/2512.23698](https://arxiv.org/abs/2512.23698), PhD thesis, 75 pages, comments welcome!
 - 2025-12-29, **Fractional quantum anomalous Hall and anyon density-wave halo in a minimal interacting lattice model of twisted bilayer MoTe $_2$**, Chuyi Tuo, Ming-Rui Li, Hong Yao, Paper: [https://arxiv.org/abs/2512.23608](https://arxiv.org/abs/2512.23608), 13 pages, 8 figures
