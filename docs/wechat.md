@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-02, **Effective field theory for dissipative photons from higher-form symmetries**, Genki Yoshimura, Yukinao Akamatsu, Yuji Hirono, Paper: [https://arxiv.org/abs/2601.00605](https://arxiv.org/abs/2601.00605), 48 pages, no figures, includes appendix
+- 2026-01-01, **Large-party limit of topological entanglement entropy in Chern-Simons theory**, Simran Sain, Siddharth Dwivedi, Paper: [https://arxiv.org/abs/2601.00406](https://arxiv.org/abs/2601.00406), 15 pages, 1 figure, 1 table
+- 2026-01-01, **A unitary vertex operator algebra arising from the 3C-algebra**, Jiao Xiangyu, Zheng Wen, Paper: [https://arxiv.org/abs/2601.00249](https://arxiv.org/abs/2601.00249)
+- 2025-12-31, **Pauli stabilizer formalism for topological quantum field theories and generalized statistics**, Yitao Feng, Hanyu Xue, Ryohei Kobayashi, Po-Shen Hsin, Yu-An Chen, Paper: [https://arxiv.org/abs/2601.00064](https://arxiv.org/abs/2601.00064), 48 pages, 2 figures
 - 2025-12-31, **Classification of Interacting Topological Crystalline Superconductors in Three Dimensions and Beyond**, Shang-Qiang Ning, Xing-Yu Ren, Qing-Rui Wang, Yang Qi, Zheng-Cheng Gu, Paper: [https://arxiv.org/abs/2512.25069](https://arxiv.org/abs/2512.25069), 38 pages, 15 figures, 6 tables, all comments and suggestions are welcome
 - 2025-12-31, **Local approximations of global Hamiltonian from inclusion of algebras**, Yidong Chen, Nima Lashkari, Kwing Lam Leung, Paper: [https://arxiv.org/abs/2512.25062](https://arxiv.org/abs/2512.25062)
 - 2025-12-31, **Emergence of 3D Superconformal Ising Criticality on the Fuzzy Sphere**, Yin Tang, Cristian Voinea, Liangdong Hu, Zlatko Papić, W. Zhu, Paper: [https://arxiv.org/abs/2512.25054](https://arxiv.org/abs/2512.25054), 6+8 pages, 6 figures

@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Effective field theory for dissipative photons from higher-form symmetries**|Genki Yoshimura, Yukinao Akamatsu, Yuji Hirono|[2601.00605](https://arxiv.org/abs/2601.00605)|null|
+|**2026-01-01**|**Large-party limit of topological entanglement entropy in Chern-Simons theory**|Simran Sain, Siddharth Dwivedi|[2601.00406](https://arxiv.org/abs/2601.00406)|null|
+|**2026-01-01**|**A unitary vertex operator algebra arising from the 3C-algebra**|Jiao Xiangyu, Zheng Wen|[2601.00249](https://arxiv.org/abs/2601.00249)|null|
+|**2025-12-31**|**Pauli stabilizer formalism for topological quantum field theories and generalized statistics**|Yitao Feng, Hanyu Xue, Ryohei Kobayashi, Po-Shen Hsin, Yu-An Chen|[2601.00064](https://arxiv.org/abs/2601.00064)|null|
 |**2025-12-31**|**Classification of Interacting Topological Crystalline Superconductors in Three Dimensions and Beyond**|Shang-Qiang Ning, Xing-Yu Ren, Qing-Rui Wang, Yang Qi, Zheng-Cheng Gu|[2512.25069](https://arxiv.org/abs/2512.25069)|null|
 |**2025-12-31**|**Local approximations of global Hamiltonian from inclusion of algebras**|Yidong Chen, Nima Lashkari, Kwing Lam Leung|[2512.25062](https://arxiv.org/abs/2512.25062)|null|
 |**2025-12-31**|**Emergence of 3D Superconformal Ising Criticality on the Fuzzy Sphere**|Yin Tang, Cristian Voinea, Liangdong Hu, Zlatko Papić, W. Zhu|[2512.25054](https://arxiv.org/abs/2512.25054)|null|
