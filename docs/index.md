@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-01-05**|**Entanglement Viscosity: from Unitarity to Irreversibility in Accelerated Frames**|G. Yu. Prokhorov|[2601.02083](https://arxiv.org/abs/2601.02083)|null|
+|**2026-01-05**|**Quark confinement due to unified magnetic monopoles and vortices reduced from symmetric instantons with holography**|Kei-Ichi Kondo|[2601.01928](https://arxiv.org/abs/2601.01928)|null|
+|**2026-01-05**|**Multiple nodal superconducting phases and order-parameter evolution in pressurized UTe $_2$**|Shuo Zou, Fengrui Shi, Zhuolun Qiu, Jialong Zhang, Yan Zhang, Weilong Qiu, Zhuo Wang, Hai Zeng, Yinina Ma, Zheyu Wu, Andrej Cabala, Michal Valiska, Ning Li, Zihan Yang, Kaixin Ye, Jiawen Zhang, Yanan Zhang, Kangjian Luo, Binbin Zhang, Alexander G. Eaton, Chaofan Zhang, Gang Li, Jianlin Luo, Wen Huang, Huiqiu Yuan, Xin Lu, Yongkang Luo|[2601.01843](https://arxiv.org/abs/2601.01843)|null|
+|**2026-01-05**|**The extended phase space thermodynamics and Ehrenfest scheme for the Kerr-Sen AdS black holes**|Md Sabir Ali, Arindam Mondal, Sushant G. Ghosh|[2601.01814](https://arxiv.org/abs/2601.01814)|null|
+|**2026-01-05**|**Completely Bounded Representations Into Von Neumann Algebras And Connes Embedding Problem**|Junsheng Fang, Chunlan Jiang, Liguang Wang, Yanli Wang|[2601.01733](https://arxiv.org/abs/2601.01733)|null|
+|**2026-01-04**|**Field-Theoretical Construction of Conserved Currents, Non-Invertible Symmetries, and Mixed Anomalies in Three-Dimensional Non-Abelian Topological Order**|Zhi-Feng Zhang, Yizhou Huang, Qing-Rui Wang, Peng Ye|[2601.01523](https://arxiv.org/abs/2601.01523)|null|
+|**2026-01-04**|**Hopf images of coactions and effective symmetry of quantum principal bundles**|Arnab Bhattacharjee|[2601.01520](https://arxiv.org/abs/2601.01520)|null|
+|**2026-01-02**|**Improved decoding algorithms for surface codes under independent bit-flip and phase-flip errors**|Louay Bazzi|[2601.00972](https://arxiv.org/abs/2601.00972)|null|
 |**2026-01-02**|**Effective field theory for dissipative photons from higher-form symmetries**|Genki Yoshimura, Yukinao Akamatsu, Yuji Hirono|[2601.00605](https://arxiv.org/abs/2601.00605)|null|
 |**2026-01-01**|**Large-party limit of topological entanglement entropy in Chern-Simons theory**|Simran Sain, Siddharth Dwivedi|[2601.00406](https://arxiv.org/abs/2601.00406)|null|
 |**2026-01-01**|**A unitary vertex operator algebra arising from the 3C-algebra**|Jiao Xiangyu, Zheng Wen|[2601.00249](https://arxiv.org/abs/2601.00249)|null|
