@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-05, **Asymptotic freedom, lost: Complex conformal field theory in the two-dimensional $O(N>2)$ nonlinear sigma model and its realization in the spin-1 Heisenberg chain**, Christopher Yang, Thomas Scaffidi, Paper: [https://arxiv.org/abs/2601.02459](https://arxiv.org/abs/2601.02459), 8 pages, 5 figures
 - 2026-01-05, **Entanglement Viscosity: from Unitarity to Irreversibility in Accelerated Frames**, G. Yu. Prokhorov, Paper: [https://arxiv.org/abs/2601.02083](https://arxiv.org/abs/2601.02083), 6 pages
 - 2026-01-05, **Quark confinement due to unified magnetic monopoles and vortices reduced from symmetric instantons with holography**, Kei-Ichi Kondo, Paper: [https://arxiv.org/abs/2601.01928](https://arxiv.org/abs/2601.01928), 8 pages, 4 figures, an oral contribution given at 9th International Symposium on Symmetries in Subatomic Physics (SSP2025) in the period of 23 to 28 September 2025 held at Nara, Japan
 - 2026-01-05, **Multiple nodal superconducting phases and order-parameter evolution in pressurized UTe $_2$**, Shuo Zou, Fengrui Shi, Zhuolun Qiu, Jialong Zhang, Yan Zhang, Weilong Qiu, Zhuo Wang, Hai Zeng, Yinina Ma, Zheyu Wu, Andrej Cabala, Michal Valiska, Ning Li, Zihan Yang, Kaixin Ye, Jiawen Zhang, Yanan Zhang, Kangjian Luo, Binbin Zhang, Alexander G. Eaton, Chaofan Zhang, Gang Li, Jianlin Luo, Wen Huang, Huiqiu Yuan, Xin Lu, Yongkang Luo, Paper: [https://arxiv.org/abs/2601.01843](https://arxiv.org/abs/2601.01843), 21+14 pages, 5+9 figures, 1+1 tables

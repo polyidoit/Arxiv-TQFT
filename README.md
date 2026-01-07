@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Asymptotic freedom, lost: Complex conformal field theory in the two-dimensional $O(N>2)$ nonlinear sigma model and its realization in the spin-1 Heisenberg chain**|Christopher Yang, Thomas Scaffidi|[2601.02459](https://arxiv.org/abs/2601.02459)|null|
 |**2026-01-05**|**Entanglement Viscosity: from Unitarity to Irreversibility in Accelerated Frames**|G. Yu. Prokhorov|[2601.02083](https://arxiv.org/abs/2601.02083)|null|
 |**2026-01-05**|**Quark confinement due to unified magnetic monopoles and vortices reduced from symmetric instantons with holography**|Kei-Ichi Kondo|[2601.01928](https://arxiv.org/abs/2601.01928)|null|
 |**2026-01-05**|**Multiple nodal superconducting phases and order-parameter evolution in pressurized UTe $_2$**|Shuo Zou, Fengrui Shi, Zhuolun Qiu, Jialong Zhang, Yan Zhang, Weilong Qiu, Zhuo Wang, Hai Zeng, Yinina Ma, Zheyu Wu, Andrej Cabala, Michal Valiska, Ning Li, Zihan Yang, Kaixin Ye, Jiawen Zhang, Yanan Zhang, Kangjian Luo, Binbin Zhang, Alexander G. Eaton, Chaofan Zhang, Gang Li, Jianlin Luo, Wen Huang, Huiqiu Yuan, Xin Lu, Yongkang Luo|[2601.01843](https://arxiv.org/abs/2601.01843)|null|
