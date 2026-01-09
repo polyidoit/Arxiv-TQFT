@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**Robust Reasoning as a Symmetry-Protected Topological Phase**|Ilmo Sung|[2601.05240](https://arxiv.org/abs/2601.05240)|null|
+|**2026-01-08**|**Mechanics of axis formation in $\textit{Hydra}$**|Arthur Hernandez, Cuncheng Zhu, Luca Giomi|[2601.05220](https://arxiv.org/abs/2601.05220)|null|
+|**2026-01-08**|**Surface chiral Abelian topological order on multilayer cluster Mott insulators**|Xu-Ping Yao, Chao-Kai Li, Gang v. Chen|[2601.05185](https://arxiv.org/abs/2601.05185)|null|
+|**2026-01-08**|**Entanglement negativity for a free scalar chiral current**|Malen Arias, Marina Huerta, Andrei Rotaru, Erik Tonni|[2601.04995](https://arxiv.org/abs/2601.04995)|null|
+|**2026-01-08**|**Probing Black Hole Thermal Effects in the Dual CFT via Wave Packets**|Norihiro Tanahashi, Seiji Terashima, Shiki Yoshikawa|[2601.04647](https://arxiv.org/abs/2601.04647)|null|
+|**2026-01-08**|**A four-dimensional conformal construction of Virasoro-Shapiro amplitudes**|Vaibhav Wasnik|[2601.04642](https://arxiv.org/abs/2601.04642)|null|
+|**2026-01-07**|**Four-point function of the complex Sachdev-Ye-Kitaev model at finite chemical potential**|Can Onur Akyuz, Erick Arguello Cruz, Ludo Fraser-Taliente, Grigory Tarnopolsky|[2601.04330](https://arxiv.org/abs/2601.04330)|null|
+|**2026-01-07**|**Multi-particle Celestial Operator Product Expansions from the Boundary**|Mathew Calkins, Monica Pate|[2601.04329](https://arxiv.org/abs/2601.04329)|null|
+|**2026-01-07**|**Dressing and Screening in Anti-de Sitter**|Ankur, Lorenzo Di Pietro, Victor Gorbenko, Shota Komatsu, Veronica Sacchi|[2601.04321](https://arxiv.org/abs/2601.04321)|null|
+|**2026-01-07**|**Framing Anomaly in Lattice Chern-Simons-Maxwell Theory**|Ze-An Xu, Jing-Yuan Chen|[2601.04318](https://arxiv.org/abs/2601.04318)|null|
 |**2026-01-07**|**2d Conformal Field Theories on Magic Triangle**|Kimyeong Lee, Kaiwen Sun|[2601.04162](https://arxiv.org/abs/2601.04162)|null|
 |**2026-01-07**|**Defects in N=1 minimal models and RG flows**|Matthias R. Gaberdiel, Lasse Merkens|[2601.03879](https://arxiv.org/abs/2601.03879)|null|
 |**2026-01-07**|**Phases of the $q$-deformed $\mathrm{SU}(N)$ Yang-Mills theory at large $N$**|Tomoya Hayata, Yoshimasa Hidaka, Hiromasa Watanabe|[2601.03843](https://arxiv.org/abs/2601.03843)|null|

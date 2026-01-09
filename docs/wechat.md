@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-08, **Robust Reasoning as a Symmetry-Protected Topological Phase**, Ilmo Sung, Paper: [https://arxiv.org/abs/2601.05240](https://arxiv.org/abs/2601.05240)
+- 2026-01-08, **Mechanics of axis formation in $\textit{Hydra}$**, Arthur Hernandez, Cuncheng Zhu, Luca Giomi, Paper: [https://arxiv.org/abs/2601.05220](https://arxiv.org/abs/2601.05220), 19 pages, 9 figures
+- 2026-01-08, **Surface chiral Abelian topological order on multilayer cluster Mott insulators**, Xu-Ping Yao, Chao-Kai Li, Gang v. Chen, Paper: [https://arxiv.org/abs/2601.05185](https://arxiv.org/abs/2601.05185), Main: 7 pages, 3 figures; SM: 13 pages, 3 figures
+- 2026-01-08, **Entanglement negativity for a free scalar chiral current**, Malen Arias, Marina Huerta, Andrei Rotaru, Erik Tonni, Paper: [https://arxiv.org/abs/2601.04995](https://arxiv.org/abs/2601.04995), 54 pages, 14 figures
+- 2026-01-08, **Probing Black Hole Thermal Effects in the Dual CFT via Wave Packets**, Norihiro Tanahashi, Seiji Terashima, Shiki Yoshikawa, Paper: [https://arxiv.org/abs/2601.04647](https://arxiv.org/abs/2601.04647), 43 pages, 8 figures
+- 2026-01-08, **A four-dimensional conformal construction of Virasoro-Shapiro amplitudes**, Vaibhav Wasnik, Paper: [https://arxiv.org/abs/2601.04642](https://arxiv.org/abs/2601.04642)
+- 2026-01-07, **Four-point function of the complex Sachdev-Ye-Kitaev model at finite chemical potential**, Can Onur Akyuz, Erick Arguello Cruz, Ludo Fraser-Taliente, Grigory Tarnopolsky, Paper: [https://arxiv.org/abs/2601.04330](https://arxiv.org/abs/2601.04330), 26 pages, 12 figures
+- 2026-01-07, **Multi-particle Celestial Operator Product Expansions from the Boundary**, Mathew Calkins, Monica Pate, Paper: [https://arxiv.org/abs/2601.04329](https://arxiv.org/abs/2601.04329), 38 pages, plus appendices
+- 2026-01-07, **Dressing and Screening in Anti-de Sitter**, Ankur, Lorenzo Di Pietro, Victor Gorbenko, Shota Komatsu, Veronica Sacchi, Paper: [https://arxiv.org/abs/2601.04321](https://arxiv.org/abs/2601.04321), 79 pages and 17 figures
+- 2026-01-07, **Framing Anomaly in Lattice Chern-Simons-Maxwell Theory**, Ze-An Xu, Jing-Yuan Chen, Paper: [https://arxiv.org/abs/2601.04318](https://arxiv.org/abs/2601.04318), 6 pages of main text + 22 pages of supplemental material
 - 2026-01-07, **2d Conformal Field Theories on Magic Triangle**, Kimyeong Lee, Kaiwen Sun, Paper: [https://arxiv.org/abs/2601.04162](https://arxiv.org/abs/2601.04162), 30 pages
 - 2026-01-07, **Defects in N=1 minimal models and RG flows**, Matthias R. Gaberdiel, Lasse Merkens, Paper: [https://arxiv.org/abs/2601.03879](https://arxiv.org/abs/2601.03879)
 - 2026-01-07, **Phases of the $q$-deformed $\mathrm{SU}(N)$ Yang-Mills theory at large $N$**, Tomoya Hayata, Yoshimasa Hidaka, Hiromasa Watanabe, Paper: [https://arxiv.org/abs/2601.03843](https://arxiv.org/abs/2601.03843), 7+4 pages, 5+2 figures, 2+1 tables; analysis code will be made publicly available on GitHub after publication
