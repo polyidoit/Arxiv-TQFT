@@ -1,4 +1,4 @@
-> Automatically updated on 2026.01.08
+> Automatically updated on 2026.01.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-07, **2d Conformal Field Theories on Magic Triangle**, Kimyeong Lee, Kaiwen Sun, Paper: [https://arxiv.org/abs/2601.04162](https://arxiv.org/abs/2601.04162), 30 pages
+- 2026-01-07, **Defects in N=1 minimal models and RG flows**, Matthias R. Gaberdiel, Lasse Merkens, Paper: [https://arxiv.org/abs/2601.03879](https://arxiv.org/abs/2601.03879)
+- 2026-01-07, **Phases of the $q$-deformed $\mathrm{SU}(N)$ Yang-Mills theory at large $N$**, Tomoya Hayata, Yoshimasa Hidaka, Hiromasa Watanabe, Paper: [https://arxiv.org/abs/2601.03843](https://arxiv.org/abs/2601.03843), 7+4 pages, 5+2 figures, 2+1 tables; analysis code will be made publicly available on GitHub after publication
+- 2026-01-07, **Universal property of graph cobordisms**, Andrea Bianchi, Adela Yiyu Zhang, Paper: [https://arxiv.org/abs/2601.03766](https://arxiv.org/abs/2601.03766), 14 pages, comments welcome!
+- 2026-01-07, **Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes**, Mohammad Rowshan, Paper: [https://arxiv.org/abs/2601.03623](https://arxiv.org/abs/2601.03623)
+- 2026-01-06, **The interplay between topology, defects and chiral order in the nearly-commensurate charge density wave of 1T-TaS2**, Michael Verhage, Martin Lee, Kees Flipse, Paper: [https://arxiv.org/abs/2601.03379](https://arxiv.org/abs/2601.03379), 42 pages
+- 2026-01-06, **Black hole thermodynamics at null infinity. Part 1: Dual Generalized Second Law**, Antoine Rignon-Bret, Matthieu Vilatte, Paper: [https://arxiv.org/abs/2601.03353](https://arxiv.org/abs/2601.03353), V1: 96 pages (53 + 43 of appendices) / 5 Figures
 - 2026-01-05, **Asymptotic freedom, lost: Complex conformal field theory in the two-dimensional $O(N>2)$ nonlinear sigma model and its realization in the spin-1 Heisenberg chain**, Christopher Yang, Thomas Scaffidi, Paper: [https://arxiv.org/abs/2601.02459](https://arxiv.org/abs/2601.02459), 8 pages, 5 figures
 - 2026-01-05, **Entanglement Viscosity: from Unitarity to Irreversibility in Accelerated Frames**, G. Yu. Prokhorov, Paper: [https://arxiv.org/abs/2601.02083](https://arxiv.org/abs/2601.02083), 6 pages
 - 2026-01-05, **Quark confinement due to unified magnetic monopoles and vortices reduced from symmetric instantons with holography**, Kei-Ichi Kondo, Paper: [https://arxiv.org/abs/2601.01928](https://arxiv.org/abs/2601.01928), 8 pages, 4 figures, an oral contribution given at 9th International Symposium on Symmetries in Subatomic Physics (SSP2025) in the period of 23 to 28 September 2025 held at Nara, Japan
@@ -835,5 +842,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.01.08
+> Automatically updated on 2026.01.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-07**|**2d Conformal Field Theories on Magic Triangle**|Kimyeong Lee, Kaiwen Sun|[2601.04162](https://arxiv.org/abs/2601.04162)|null|
+|**2026-01-07**|**Defects in N=1 minimal models and RG flows**|Matthias R. Gaberdiel, Lasse Merkens|[2601.03879](https://arxiv.org/abs/2601.03879)|null|
+|**2026-01-07**|**Phases of the $q$-deformed $\mathrm{SU}(N)$ Yang-Mills theory at large $N$**|Tomoya Hayata, Yoshimasa Hidaka, Hiromasa Watanabe|[2601.03843](https://arxiv.org/abs/2601.03843)|null|
+|**2026-01-07**|**Universal property of graph cobordisms**|Andrea Bianchi, Adela Yiyu Zhang|[2601.03766](https://arxiv.org/abs/2601.03766)|null|
+|**2026-01-07**|**Strip-Symmetric Quantum Codes for Biased Noise: Z-Decoupling in Stabilizer and Floquet Codes**|Mohammad Rowshan|[2601.03623](https://arxiv.org/abs/2601.03623)|null|
+|**2026-01-06**|**The interplay between topology, defects and chiral order in the nearly-commensurate charge density wave of 1T-TaS2**|Michael Verhage, Martin Lee, Kees Flipse|[2601.03379](https://arxiv.org/abs/2601.03379)|null|
+|**2026-01-06**|**Black hole thermodynamics at null infinity. Part 1: Dual Generalized Second Law**|Antoine Rignon-Bret, Matthieu Vilatte|[2601.03353](https://arxiv.org/abs/2601.03353)|null|
 |**2026-01-05**|**Asymptotic freedom, lost: Complex conformal field theory in the two-dimensional $O(N>2)$ nonlinear sigma model and its realization in the spin-1 Heisenberg chain**|Christopher Yang, Thomas Scaffidi|[2601.02459](https://arxiv.org/abs/2601.02459)|null|
 |**2026-01-05**|**Entanglement Viscosity: from Unitarity to Irreversibility in Accelerated Frames**|G. Yu. Prokhorov|[2601.02083](https://arxiv.org/abs/2601.02083)|null|
 |**2026-01-05**|**Quark confinement due to unified magnetic monopoles and vortices reduced from symmetric instantons with holography**|Kei-Ichi Kondo|[2601.01928](https://arxiv.org/abs/2601.01928)|null|
@@ -1634,5 +1641,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
 
