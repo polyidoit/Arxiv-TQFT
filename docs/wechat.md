@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-09, **Slow mixing and emergent one-form symmetries in three-dimensional $\mathbb{Z}_2$ gauge theory**, Charles Stahl, Benedikt Placke, Vedika Khemani, Yaodong Li, Paper: [https://arxiv.org/abs/2601.06010](https://arxiv.org/abs/2601.06010), 19+4 pages, 10+1 figures
+- 2026-01-09, **Generalized Poincaré inequality for quantum Markov semigroups**, Marius Junge, Jia Wang, Paper: [https://arxiv.org/abs/2601.06005](https://arxiv.org/abs/2601.06005)
+- 2026-01-09, **Thermally Configurable Multi-Order Polar Skyrmions in Multiferroic Oxide Superlattices**, Kefan Liu, Yuhui Huang, Xiangwei Guo, Yongjun Wu, Juan Li, Zijian Hong, Paper: [https://arxiv.org/abs/2601.05950](https://arxiv.org/abs/2601.05950), 5 figures, 19 pages
+- 2026-01-09, **Vorticity-Crystalline Order Coupling in Supersolids: Excitations and Re-entrant Phases**, Malte Schubert, Koushik Mukherjee, Philipp Stürmer, Stephanie Reimann, Paper: [https://arxiv.org/abs/2601.05846](https://arxiv.org/abs/2601.05846), 9 pages, 5 figures
+- 2026-01-09, **Quantized heat flow in the Hofstadter butterfly**, Aifei Zhang, Gibril Aissani, Quan Dong, Yong Jin, Kenji Watanabe, Takashi Taniguchi, Carles Altimiras, Patrice Roche, Jean-Marc Berroir, Emmanuel Baudin, Gwendal Fève, Gerbold Ménard, Olivier Maillet, François D. Parmentier, Paper: [https://arxiv.org/abs/2601.05694](https://arxiv.org/abs/2601.05694), Includes Supplementary Information
+- 2026-01-09, **An Operator-Algebraic Framework for Anyons and Defects in Quantum Spin Systems**, Siddharth Vadnerkar, Paper: [https://arxiv.org/abs/2601.05515](https://arxiv.org/abs/2601.05515), PhD thesis, 305 pages, many figures
+- 2026-01-08, **The Self-Duality Equations on a Riemann Surface and Four-Dimensional Chern-Simons Theory**, Roland Bittleston, Lionel Mason, Seyed Faroogh Moosavian, Paper: [https://arxiv.org/abs/2601.05309](https://arxiv.org/abs/2601.05309), 25 Pages + References = 31 Pages
 - 2026-01-08, **Robust Reasoning as a Symmetry-Protected Topological Phase**, Ilmo Sung, Paper: [https://arxiv.org/abs/2601.05240](https://arxiv.org/abs/2601.05240)
 - 2026-01-08, **Mechanics of axis formation in $\textit{Hydra}$**, Arthur Hernandez, Cuncheng Zhu, Luca Giomi, Paper: [https://arxiv.org/abs/2601.05220](https://arxiv.org/abs/2601.05220), 19 pages, 9 figures
 - 2026-01-08, **Surface chiral Abelian topological order on multilayer cluster Mott insulators**, Xu-Ping Yao, Chao-Kai Li, Gang v. Chen, Paper: [https://arxiv.org/abs/2601.05185](https://arxiv.org/abs/2601.05185), Main: 7 pages, 3 figures; SM: 13 pages, 3 figures
