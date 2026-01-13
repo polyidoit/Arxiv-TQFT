@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-12, **Double Categorical Approaches to AQFT I: Axiomatic Setup**, Khyathi Komalan, Paper: [https://arxiv.org/abs/2601.07807](https://arxiv.org/abs/2601.07807), 42 pages, comments very welcome!
+- 2026-01-12, **Boundary flow and geometric realization in holographic $T\bar T$ -deformed BCFT**, Feiyu Deng, Paper: [https://arxiv.org/abs/2601.07509](https://arxiv.org/abs/2601.07509)
+- 2026-01-12, **Superspace worldline formalism approach to Quantum Gravity: dimensional reduction and Holography**, Jean-Baptiste Roux, Paper: [https://arxiv.org/abs/2601.07382](https://arxiv.org/abs/2601.07382), 19 pages plus one appendix, submitted to Classical and Quantum Gravity
+- 2026-01-12, **A proposal for the algebra of a novel noncommutative spacetime**, Markus B. Fröb, Albert Much, Kyriakos Papadopoulos, Paper: [https://arxiv.org/abs/2601.07350](https://arxiv.org/abs/2601.07350)
+- 2026-01-11, **Application of analytic functionals to mean field theory and Wilson-Fisher fixed point**, Bhaskar Jyoti Khanikar, Subir Mukhopadhyay, Paper: [https://arxiv.org/abs/2601.06933](https://arxiv.org/abs/2601.06933), 19 pages, no figure
+- 2026-01-11, **Existence results for a non-relativistic Chern-Simons model with purely mutual interaction**, Aleks Jevnikar, Sang-Hyuck Moon, Paper: [https://arxiv.org/abs/2601.06901](https://arxiv.org/abs/2601.06901), 17 pages, 1 figure
+- 2026-01-11, **Obstructions to Unitary Hamiltonians in Non-Unitary String-Net Models**, Hanshi Yang, Paper: [https://arxiv.org/abs/2601.06821](https://arxiv.org/abs/2601.06821), 16 pages. Section 4 code available at https://github.com/StoneStoney/AnyonLearner
+- 2026-01-11, **Non-Abelian qLDPC: TQFT Formalism, Addressable Gauging Measurement and Application to Magic State Fountain on 2D Product Codes**, Guanyu Zhu, Ryohei Kobayashi, Po-Shen Hsin, Paper: [https://arxiv.org/abs/2601.06736](https://arxiv.org/abs/2601.06736), 47 pages, 14 figures
+- 2026-01-10, **A Note on Pseudofinite W*-Probability Spaces**, Jananan Arulseelan, Paper: [https://arxiv.org/abs/2601.06455](https://arxiv.org/abs/2601.06455), 21 pages. Comments welcome
 - 2026-01-09, **Slow mixing and emergent one-form symmetries in three-dimensional $\mathbb{Z}_2$ gauge theory**, Charles Stahl, Benedikt Placke, Vedika Khemani, Yaodong Li, Paper: [https://arxiv.org/abs/2601.06010](https://arxiv.org/abs/2601.06010), 19+4 pages, 10+1 figures
 - 2026-01-09, **Generalized Poincaré inequality for quantum Markov semigroups**, Marius Junge, Jia Wang, Paper: [https://arxiv.org/abs/2601.06005](https://arxiv.org/abs/2601.06005)
 - 2026-01-09, **Thermally Configurable Multi-Order Polar Skyrmions in Multiferroic Oxide Superlattices**, Kefan Liu, Yuhui Huang, Xiangwei Guo, Yongjun Wu, Juan Li, Zijian Hong, Paper: [https://arxiv.org/abs/2601.05950](https://arxiv.org/abs/2601.05950), 5 figures, 19 pages

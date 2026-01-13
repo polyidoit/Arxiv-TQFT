@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Double Categorical Approaches to AQFT I: Axiomatic Setup**|Khyathi Komalan|[2601.07807](https://arxiv.org/abs/2601.07807)|null|
+|**2026-01-12**|**Boundary flow and geometric realization in holographic $T\bar T$ -deformed BCFT**|Feiyu Deng|[2601.07509](https://arxiv.org/abs/2601.07509)|null|
+|**2026-01-12**|**Superspace worldline formalism approach to Quantum Gravity: dimensional reduction and Holography**|Jean-Baptiste Roux|[2601.07382](https://arxiv.org/abs/2601.07382)|null|
+|**2026-01-12**|**A proposal for the algebra of a novel noncommutative spacetime**|Markus B. Fröb, Albert Much, Kyriakos Papadopoulos|[2601.07350](https://arxiv.org/abs/2601.07350)|null|
+|**2026-01-11**|**Application of analytic functionals to mean field theory and Wilson-Fisher fixed point**|Bhaskar Jyoti Khanikar, Subir Mukhopadhyay|[2601.06933](https://arxiv.org/abs/2601.06933)|null|
+|**2026-01-11**|**Existence results for a non-relativistic Chern-Simons model with purely mutual interaction**|Aleks Jevnikar, Sang-Hyuck Moon|[2601.06901](https://arxiv.org/abs/2601.06901)|null|
+|**2026-01-11**|**Obstructions to Unitary Hamiltonians in Non-Unitary String-Net Models**|Hanshi Yang|[2601.06821](https://arxiv.org/abs/2601.06821)|null|
+|**2026-01-11**|**Non-Abelian qLDPC: TQFT Formalism, Addressable Gauging Measurement and Application to Magic State Fountain on 2D Product Codes**|Guanyu Zhu, Ryohei Kobayashi, Po-Shen Hsin|[2601.06736](https://arxiv.org/abs/2601.06736)|null|
+|**2026-01-10**|**A Note on Pseudofinite W*-Probability Spaces**|Jananan Arulseelan|[2601.06455](https://arxiv.org/abs/2601.06455)|null|
 |**2026-01-09**|**Slow mixing and emergent one-form symmetries in three-dimensional $\mathbb{Z}_2$ gauge theory**|Charles Stahl, Benedikt Placke, Vedika Khemani, Yaodong Li|[2601.06010](https://arxiv.org/abs/2601.06010)|null|
 |**2026-01-09**|**Generalized Poincaré inequality for quantum Markov semigroups**|Marius Junge, Jia Wang|[2601.06005](https://arxiv.org/abs/2601.06005)|null|
 |**2026-01-09**|**Thermally Configurable Multi-Order Polar Skyrmions in Multiferroic Oxide Superlattices**|Kefan Liu, Yuhui Huang, Xiangwei Guo, Yongjun Wu, Juan Li, Zijian Hong|[2601.05950](https://arxiv.org/abs/2601.05950)|null|
