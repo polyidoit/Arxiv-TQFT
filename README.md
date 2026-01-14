@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Universal Transport Theory for Paired Fractional Quantum Hall States in the Quantum Point Contact Geometry**|Eslam Ahmed, Ryoi Ohashi, Hiroki Isobe, Kentaro Nomura, Yukio Tanaka|[2601.08792](https://arxiv.org/abs/2601.08792)|null|
+|**2026-01-13**|**Parameterized families of 2+1d $G$ -cluster states**|Shuhei Ohyama, Kansei Inamura|[2601.08616](https://arxiv.org/abs/2601.08616)|null|
+|**2026-01-13**|**Generalized cluster states in 2+1d: non-invertible symmetries, interfaces, and parameterized families**|Kansei Inamura, Shuhei Ohyama|[2601.08615](https://arxiv.org/abs/2601.08615)|null|
+|**2026-01-13**|**Bridging Elastic and Active Turbulence**|Vedad Dzanica, Sumesh P. Thampi, Julia M. Yeomans|[2601.08296](https://arxiv.org/abs/2601.08296)|null|
+|**2026-01-12**|**The Topological Origin of Bohm Resistivity in Magnetic Reconnection**|Magnus F Ivarsen|[2601.08054](https://arxiv.org/abs/2601.08054)|null|
+|**2026-01-12**|**Subregion algebras in classical and quantum gravity**|Venkatesa Chandrasekaran, Éanna É. Flanagan|[2601.07915](https://arxiv.org/abs/2601.07915)|null|
+|**2026-01-12**|**A universal sum over topologies in 3d gravity**|Alexandre Belin, Scott Collier, Lorenz Eberhardt, Diego Liska, Boris Post|[2601.07906](https://arxiv.org/abs/2601.07906)|null|
 |**2026-01-12**|**Double Categorical Approaches to AQFT I: Axiomatic Setup**|Khyathi Komalan|[2601.07807](https://arxiv.org/abs/2601.07807)|null|
 |**2026-01-12**|**Boundary flow and geometric realization in holographic $T\bar T$ -deformed BCFT**|Feiyu Deng|[2601.07509](https://arxiv.org/abs/2601.07509)|null|
 |**2026-01-12**|**Superspace worldline formalism approach to Quantum Gravity: dimensional reduction and Holography**|Jean-Baptiste Roux|[2601.07382](https://arxiv.org/abs/2601.07382)|null|
