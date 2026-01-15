@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Diamonds in the Bulk and Large- $N$ Scaling in AdS/CFT**|Sidan A, Tom Banks|[2601.09621](https://arxiv.org/abs/2601.09621)|null|
+|**2026-01-14**|**Non-invertible circuit complexity from fusion operations**|Saskia Demulder|[2601.09535](https://arxiv.org/abs/2601.09535)|null|
+|**2026-01-14**|**Non-invertible Nielsen circuits and 3d Ising gravity**|Saskia Demulder|[2601.09534](https://arxiv.org/abs/2601.09534)|null|
+|**2026-01-14**|**Interactions of composite magnetic skyrmion-superconducting vortex pairs in ferromagnetic superconductors**|Paul Leask, Calum Ross, Egor Babaev|[2601.09396](https://arxiv.org/abs/2601.09396)|null|
+|**2026-01-14**|**Hopf Algebras of B-Diagrams and Boson Normal Ordering: Exploring the Dual Structures**|Ali Chouria, Jean-Gabriel Luque|[2601.09357](https://arxiv.org/abs/2601.09357)|null|
+|**2026-01-14**|**Relaxation Process During Complex Time Evolution In Two-Dimensional Integrable and Chaotic CFTs**|Chen Bai, Weibo Mao, Masahiro Nozaki, Mao Tian Tan, Xueda Wen|[2601.09290](https://arxiv.org/abs/2601.09290)|null|
+|**2026-01-14**|**Web of dualities on non-orientable surfaces**|Ippo Orii, Keita Tsuji|[2601.09067](https://arxiv.org/abs/2601.09067)|null|
 |**2026-01-13**|**Universal Transport Theory for Paired Fractional Quantum Hall States in the Quantum Point Contact Geometry**|Eslam Ahmed, Ryoi Ohashi, Hiroki Isobe, Kentaro Nomura, Yukio Tanaka|[2601.08792](https://arxiv.org/abs/2601.08792)|null|
 |**2026-01-13**|**Parameterized families of 2+1d $G$ -cluster states**|Shuhei Ohyama, Kansei Inamura|[2601.08616](https://arxiv.org/abs/2601.08616)|null|
 |**2026-01-13**|**Generalized cluster states in 2+1d: non-invertible symmetries, interfaces, and parameterized families**|Kansei Inamura, Shuhei Ohyama|[2601.08615](https://arxiv.org/abs/2601.08615)|null|

@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-14, **Diamonds in the Bulk and Large- $N$ Scaling in AdS/CFT**, Sidan A, Tom Banks, Paper: [https://arxiv.org/abs/2601.09621](https://arxiv.org/abs/2601.09621), 16 pages, 2 figures
+- 2026-01-14, **Non-invertible circuit complexity from fusion operations**, Saskia Demulder, Paper: [https://arxiv.org/abs/2601.09535](https://arxiv.org/abs/2601.09535), 6 pages, 2 figures
+- 2026-01-14, **Non-invertible Nielsen circuits and 3d Ising gravity**, Saskia Demulder, Paper: [https://arxiv.org/abs/2601.09534](https://arxiv.org/abs/2601.09534), 54 pages, 7 figures
+- 2026-01-14, **Interactions of composite magnetic skyrmion-superconducting vortex pairs in ferromagnetic superconductors**, Paul Leask, Calum Ross, Egor Babaev, Paper: [https://arxiv.org/abs/2601.09396](https://arxiv.org/abs/2601.09396), Rev 1: 11 pages, 5 figures
+- 2026-01-14, **Hopf Algebras of B-Diagrams and Boson Normal Ordering: Exploring the Dual Structures**, Ali Chouria, Jean-Gabriel Luque, Paper: [https://arxiv.org/abs/2601.09357](https://arxiv.org/abs/2601.09357)
+- 2026-01-14, **Relaxation Process During Complex Time Evolution In Two-Dimensional Integrable and Chaotic CFTs**, Chen Bai, Weibo Mao, Masahiro Nozaki, Mao Tian Tan, Xueda Wen, Paper: [https://arxiv.org/abs/2601.09290](https://arxiv.org/abs/2601.09290), 29 pages+appendices, 8 figures
+- 2026-01-14, **Web of dualities on non-orientable surfaces**, Ippo Orii, Keita Tsuji, Paper: [https://arxiv.org/abs/2601.09067](https://arxiv.org/abs/2601.09067), 35 pages, 5 figures
 - 2026-01-13, **Universal Transport Theory for Paired Fractional Quantum Hall States in the Quantum Point Contact Geometry**, Eslam Ahmed, Ryoi Ohashi, Hiroki Isobe, Kentaro Nomura, Yukio Tanaka, Paper: [https://arxiv.org/abs/2601.08792](https://arxiv.org/abs/2601.08792), 10 pages, 1 figure. Comments welcome
 - 2026-01-13, **Parameterized families of 2+1d $G$ -cluster states**, Shuhei Ohyama, Kansei Inamura, Paper: [https://arxiv.org/abs/2601.08616](https://arxiv.org/abs/2601.08616), 70 pages
 - 2026-01-13, **Generalized cluster states in 2+1d: non-invertible symmetries, interfaces, and parameterized families**, Kansei Inamura, Shuhei Ohyama, Paper: [https://arxiv.org/abs/2601.08615](https://arxiv.org/abs/2601.08615), 93 pages + appendices
