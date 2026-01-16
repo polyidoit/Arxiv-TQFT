@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-01-15**|**Energy Correlators in Warped Geometries**|Lorenzo Ricci, Raman Sundrum|[2601.10674](https://arxiv.org/abs/2601.10674)|null|
+|**2026-01-15**|**A note on strong similarity and the Connes embedding problem**|Gilles Pisier|[2601.10654](https://arxiv.org/abs/2601.10654)|null|
+|**2026-01-15**|**Emergent electric field induced by dissipative sliding dynamics of domain walls in a Weyl magnet**|Rinsuke Yamada, Daichi Kurebayashi, Yukako Fujishiro, Shun Okumura, Daisuke Nakamura, Fehmi S. Yasin, Taro Nakajima, Tomoyuki Yokouchi, Akiko Kikkawa, Yasujiro Taguchi, Yoshinori Tokura, Oleg A. Tretiakov, Max Hirschberger|[2601.10638](https://arxiv.org/abs/2601.10638)|null|
+|**2026-01-15**|**Erasure conversion for singlet-triplet spin qubits enables high-performance shuttling-based quantum error correction**|Adam Siegel, Simon Benjamin|[2601.10461](https://arxiv.org/abs/2601.10461)|null|
+|**2026-01-15**|**Noise-Resilient Quantum Evolution in Open Systems through Error-Correcting Frameworks**|Nirupam Basak, Goutam Paul, Pritam Chattopadhyay|[2601.10206](https://arxiv.org/abs/2601.10206)|null|
+|**2026-01-14**|**Time-Dynamic Circuits for Fault-Tolerant Shift Automorphisms in Quantum LDPC Codes**|Younghun Kim, Spiro Gicev, Martin Sevior, Muhammad Usman|[2601.09911](https://arxiv.org/abs/2601.09911)|null|
+|**2026-01-14**|**A note on invariants of mixed-state topological order in 2D**|Yoshiko Ogata|[2601.09909](https://arxiv.org/abs/2601.09909)|null|
+|**2026-01-14**|**Non-commutative Factor theorem for tensor products of lattices in product groups**|Tattwamasi Amrutam, Yongle Jiang, Shuoxing Zhou|[2601.09875](https://arxiv.org/abs/2601.09875)|null|
+|**2026-01-14**|**Fragmented Topological Excitations in Generalized Hypergraph Product Codes**|Meng-Yuan Li, Yue Wu|[2601.09850](https://arxiv.org/abs/2601.09850)|null|
+|**2026-01-14**|**The Topological Equivalence Principle: On Decoupling TFTs from Gravity**|Charlie Cummings, Jonathan J. Heckman|[2601.09781](https://arxiv.org/abs/2601.09781)|null|
 |**2026-01-14**|**Diamonds in the Bulk and Large- $N$ Scaling in AdS/CFT**|Sidan A, Tom Banks|[2601.09621](https://arxiv.org/abs/2601.09621)|null|
 |**2026-01-14**|**Non-invertible circuit complexity from fusion operations**|Saskia Demulder|[2601.09535](https://arxiv.org/abs/2601.09535)|null|
 |**2026-01-14**|**Non-invertible Nielsen circuits and 3d Ising gravity**|Saskia Demulder|[2601.09534](https://arxiv.org/abs/2601.09534)|null|

@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-15, **Energy Correlators in Warped Geometries**, Lorenzo Ricci, Raman Sundrum, Paper: [https://arxiv.org/abs/2601.10674](https://arxiv.org/abs/2601.10674), 16 pages, 6 figures
+- 2026-01-15, **A note on strong similarity and the Connes embedding problem**, Gilles Pisier, Paper: [https://arxiv.org/abs/2601.10654](https://arxiv.org/abs/2601.10654)
+- 2026-01-15, **Emergent electric field induced by dissipative sliding dynamics of domain walls in a Weyl magnet**, Rinsuke Yamada, Daichi Kurebayashi, Yukako Fujishiro, Shun Okumura, Daisuke Nakamura, Fehmi S. Yasin, Taro Nakajima, Tomoyuki Yokouchi, Akiko Kikkawa, Yasujiro Taguchi, Yoshinori Tokura, Oleg A. Tretiakov, Max Hirschberger, Paper: [https://arxiv.org/abs/2601.10638](https://arxiv.org/abs/2601.10638)
+- 2026-01-15, **Erasure conversion for singlet-triplet spin qubits enables high-performance shuttling-based quantum error correction**, Adam Siegel, Simon Benjamin, Paper: [https://arxiv.org/abs/2601.10461](https://arxiv.org/abs/2601.10461)
+- 2026-01-15, **Noise-Resilient Quantum Evolution in Open Systems through Error-Correcting Frameworks**, Nirupam Basak, Goutam Paul, Pritam Chattopadhyay, Paper: [https://arxiv.org/abs/2601.10206](https://arxiv.org/abs/2601.10206)
+- 2026-01-14, **Time-Dynamic Circuits for Fault-Tolerant Shift Automorphisms in Quantum LDPC Codes**, Younghun Kim, Spiro Gicev, Martin Sevior, Muhammad Usman, Paper: [https://arxiv.org/abs/2601.09911](https://arxiv.org/abs/2601.09911), 16 pages, 8 figures
+- 2026-01-14, **A note on invariants of mixed-state topological order in 2D**, Yoshiko Ogata, Paper: [https://arxiv.org/abs/2601.09909](https://arxiv.org/abs/2601.09909)
+- 2026-01-14, **Non-commutative Factor theorem for tensor products of lattices in product groups**, Tattwamasi Amrutam, Yongle Jiang, Shuoxing Zhou, Paper: [https://arxiv.org/abs/2601.09875](https://arxiv.org/abs/2601.09875), 14 pages; comments are welcome
+- 2026-01-14, **Fragmented Topological Excitations in Generalized Hypergraph Product Codes**, Meng-Yuan Li, Yue Wu, Paper: [https://arxiv.org/abs/2601.09850](https://arxiv.org/abs/2601.09850), 12 pages, 10 figures
+- 2026-01-14, **The Topological Equivalence Principle: On Decoupling TFTs from Gravity**, Charlie Cummings, Jonathan J. Heckman, Paper: [https://arxiv.org/abs/2601.09781](https://arxiv.org/abs/2601.09781), 23+4 pages, 9 figures
 - 2026-01-14, **Diamonds in the Bulk and Large- $N$ Scaling in AdS/CFT**, Sidan A, Tom Banks, Paper: [https://arxiv.org/abs/2601.09621](https://arxiv.org/abs/2601.09621), 16 pages, 2 figures
 - 2026-01-14, **Non-invertible circuit complexity from fusion operations**, Saskia Demulder, Paper: [https://arxiv.org/abs/2601.09535](https://arxiv.org/abs/2601.09535), 6 pages, 2 figures
 - 2026-01-14, **Non-invertible Nielsen circuits and 3d Ising gravity**, Saskia Demulder, Paper: [https://arxiv.org/abs/2601.09534](https://arxiv.org/abs/2601.09534), 54 pages, 7 figures
