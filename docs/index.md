@@ -2,11 +2,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-01-21**|**Graph-Based Adaptive Planning for Coordinated Dual-Arm Robotic Disassembly of Electronic Devices (eGRAP)**|Adip Ranjan Das, Maria Koskinopoulou|[2601.14998](https://arxiv.org/abs/2601.14998)|null|
+|**2026-01-21**|**Order isomorphisms in $C^*$ -algebras**|Youssef El Khatiri|[2601.14873](https://arxiv.org/abs/2601.14873)|null|
+|**2026-01-20**|**Mathematical Foundations of Quantum Pricing Theory**|Tian Xin, Liang Aoqin|[2601.14355](https://arxiv.org/abs/2601.14355)|null|
+|**2026-01-20**|**Evolution of Vortex Strings after a Thermal Quench in a Holographic Superfluid**|Chuan-Yin Xia, András Grabarits, Hua-Bi Zeng, Adolfo del Campo|[2601.14328](https://arxiv.org/abs/2601.14328)|null|
 |**2026-01-20**|**Entanglement entropy and disorder operator at kagome deconfined quantum criticality**|Yan-Cheng Wang, Yan Zheng, Xue-Feng Zhang|[2601.13774](https://arxiv.org/abs/2601.13774)|null|
 |**2026-01-20**|**Recent progress on disorder-induced topological phases**|Dan-Wei Zhang, Ling-Zhi Tang|[2601.13619](https://arxiv.org/abs/2601.13619)|null|
 |**2026-01-20**|**Onset of thermalization of q-deformed SU(2) Yang-Mills theory on a trapped-ion quantum computer**|Tomoya Hayata, Yoshimasa Hidaka, Yuta Kikuchi|[2601.13530](https://arxiv.org/abs/2601.13530)|null|
 |**2026-01-20**|**Finite-resolution measurement induces topological curvature defects in spacetime**|Ewa Czuchry, Jean-Pierre Gazeau|[2601.13491](https://arxiv.org/abs/2601.13491)|null|
-|**2026-01-20**|**Noncommutative Minkowski integral inequality and a unitary categorification criterion for fusion rings**|Junhwi Lim|[2601.13490](https://arxiv.org/abs/2601.13490)|null|
+|**2026-01-21**|**Noncommutative Minkowski integral inequality and a unitary categorification criterion for fusion rings**|Junhwi Lim|[2601.13490](https://arxiv.org/abs/2601.13490)|null|
 |**2026-01-19**|**From multiplicative to additive geometry: Deformation theory and 2D TQFT**|Mohamed Moussadek Maiza|[2601.13455](https://arxiv.org/abs/2601.13455)|null|
 |**2026-01-19**|**Two-Point Stabilizer Rényi Entropy: a Computable Magic Proxy of Interacting Fermions**|Jun Qi Fang, Fo-Hong Wang, Xiao Yan Xu|[2601.13314](https://arxiv.org/abs/2601.13314)|null|
 |**2026-01-19**|**High-Resolution Capacitance Dilatometry of Microscopically Thin Samples Using a Miniature Dilatometer**|R. Küchler, S. Panja, S. Wirth, P. Gegenwart|[2601.13231](https://arxiv.org/abs/2601.13231)|null|
