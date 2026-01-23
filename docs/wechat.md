@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-22, **Fujita exponents on quantum Euclidean spaces**, Edward McDonald, Michael Ruzhansky, Serikbol Shaimardan, Kanat Tulenov, Paper: [https://arxiv.org/abs/2601.16053](https://arxiv.org/abs/2601.16053), 34 pages, comments welcome!
+- 2026-01-22, **A Lattice U(1) Chern-Simons Theory via Lattice Deligne-Beilinson Cohomology**, Yo Ikeda, Paper: [https://arxiv.org/abs/2601.15939](https://arxiv.org/abs/2601.15939), 98 pages, 13 figures
+- 2026-01-22, **Two-loop rainbow neutrino masses in a non-invertible symmetry**, Hiroshi Okada, Yoshihiro Shigekami, Paper: [https://arxiv.org/abs/2601.15749](https://arxiv.org/abs/2601.15749), 24 pages, 7 figures, 1 table
+- 2026-01-22, **Heavy holographic correlators in defect conformal field theories**, Georgios Linardopoulos, Chanyong Park, Paper: [https://arxiv.org/abs/2601.15736](https://arxiv.org/abs/2601.15736), 21 pages, 4 figures
+- 2026-01-21, **Quadratic tensors as a unification of Clifford, Gaussian, and free-fermion physics**, Andreas Bauer, Seth Lloyd, Paper: [https://arxiv.org/abs/2601.15396](https://arxiv.org/abs/2601.15396)
+- 2026-01-21, **Theory of Next-Generation Even-Denominator States**, Misha Yutushui, David F. Mross, Paper: [https://arxiv.org/abs/2601.15386](https://arxiv.org/abs/2601.15386), 19 pages, 14 figures, 5 tables
+- 2026-01-21, **USDs: A universal stabilizer decoder framework using symmetry**, Hoshitaro Ohnishi, Hideo Mukai, Paper: [https://arxiv.org/abs/2601.15361](https://arxiv.org/abs/2601.15361)
+- 2026-01-20, **Non-zero Momentum Implies Long-Range Entanglement When Translation Symmetry is Broken in 1D**, Amanda Gatto Lamas, Taylor L. Hughes, Paper: [https://arxiv.org/abs/2601.15345](https://arxiv.org/abs/2601.15345), 24+8 pages, 15+5 figures
 - 2026-01-21, **Graph-Based Adaptive Planning for Coordinated Dual-Arm Robotic Disassembly of Electronic Devices (eGRAP)**, Adip Ranjan Das, Maria Koskinopoulou, Paper: [https://arxiv.org/abs/2601.14998](https://arxiv.org/abs/2601.14998), 7 Pages, 8 Figures, 5 Tables
 - 2026-01-21, **Order isomorphisms in $C^*$ -algebras**, Youssef El Khatiri, Paper: [https://arxiv.org/abs/2601.14873](https://arxiv.org/abs/2601.14873)
 - 2026-01-20, **Mathematical Foundations of Quantum Pricing Theory**, Tian Xin, Liang Aoqin, Paper: [https://arxiv.org/abs/2601.14355](https://arxiv.org/abs/2601.14355), 89 pages
