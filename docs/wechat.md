@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-23, **Boundary critical phenomena in the quantum Ashkin-Teller model**, Yifan Liu, Natalia Chepiga, Yoshiki Fukusumi, Masaki Oshikawa, Paper: [https://arxiv.org/abs/2601.16951](https://arxiv.org/abs/2601.16951), 45 pages, 12 figures, submission to SciPost
+- 2026-01-23, **Universality of Dissipation across Holographic Interfaces**, Andreas Karch, Mianqi Wang, Paper: [https://arxiv.org/abs/2601.16888](https://arxiv.org/abs/2601.16888)
+- 2026-01-23, **Non-Abelian fusion and braiding in many-body parton states**, Koyena Bose, Paper: [https://arxiv.org/abs/2601.16819](https://arxiv.org/abs/2601.16819), 4 pages, 2 figures
+- 2026-01-23, **Multisymplectic AKSZ sigma models**, Thomas Basile, Maxim Grigoriev, Evgeny Skvortsov, Paper: [https://arxiv.org/abs/2601.16785](https://arxiv.org/abs/2601.16785), 23 pages
+- 2026-01-22, **Experimental observation of conformal field theory spectra**, Xiangkai Sun, Yuan Le, Stephen Naus, Richard Bing-Shiun Tsai, Lewis R. B. Picard, Sara Murciano, Michael Knap, Jason Alicea, Manuel Endres, Paper: [https://arxiv.org/abs/2601.16275](https://arxiv.org/abs/2601.16275), 10+19 pages, 6+6 figures, 2 tables
+- 2026-01-22, **Multi-invariants in stabilizer states**, Sriram Akella, Abhijit Gadde, Jay Pandey, Paper: [https://arxiv.org/abs/2601.16258](https://arxiv.org/abs/2601.16258), 19 pages, 18 figures. Comments are welcome!
+- 2026-01-22, **Ordering-based Causal Discovery via Generalized Score Matching**, Vy Vo, He Zhao, Trung Le, Edwin V. Bonilla, Dinh Phung, Paper: [https://arxiv.org/abs/2601.16249](https://arxiv.org/abs/2601.16249)
 - 2026-01-22, **Fujita exponents on quantum Euclidean spaces**, Edward McDonald, Michael Ruzhansky, Serikbol Shaimardan, Kanat Tulenov, Paper: [https://arxiv.org/abs/2601.16053](https://arxiv.org/abs/2601.16053), 34 pages, comments welcome!
 - 2026-01-22, **A Lattice U(1) Chern-Simons Theory via Lattice Deligne-Beilinson Cohomology**, Yo Ikeda, Paper: [https://arxiv.org/abs/2601.15939](https://arxiv.org/abs/2601.15939), 98 pages, 13 figures
 - 2026-01-22, **Two-loop rainbow neutrino masses in a non-invertible symmetry**, Hiroshi Okada, Yoshihiro Shigekami, Paper: [https://arxiv.org/abs/2601.15749](https://arxiv.org/abs/2601.15749), 24 pages, 7 figures, 1 table
