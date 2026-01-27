@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**RG flows of minimal $\mathcal W$ -algebra CFTs via non-invertible symmetries**|Federico Ambrosino, Tomáš Procházka|[2601.18667](https://arxiv.org/abs/2601.18667)|null|
+|**2026-01-26**|**Multi-target density matrix renormalization group for 3D CFTs on the fuzzy sphere**|Jin-Xiang Hao, Zheng Zhu, Yang Qi|[2601.18648](https://arxiv.org/abs/2601.18648)|null|
+|**2026-01-26**|**Hamiltonian Analysis of Doubled 4d Chern-Simons**|Jake Stedman|[2601.18647](https://arxiv.org/abs/2601.18647)|null|
+|**2026-01-26**|**Intertwiners for D=3 Gauge Theories**|P. A. Grassi, E. M. G. Landrò|[2601.18490](https://arxiv.org/abs/2601.18490)|null|
+|**2026-01-26**|**Active topological strings in renewing nematopolar fluids**|Alberto Dinelli, Ludovic Dumoulin, Karsten Kruse|[2601.18307](https://arxiv.org/abs/2601.18307)|null|
+|**2026-01-26**|**Relative bi-exactness and structural results for graph-wreath product von Neumann algebras**|Taisuke Hoshino|[2601.18185](https://arxiv.org/abs/2601.18185)|null|
+|**2026-01-25**|**Probing sine dilaton gravity with flow central charge**|Paramesh Mahapatra, Hemant Rathi, Dibakar Roychowdhury|[2601.17698](https://arxiv.org/abs/2601.17698)|null|
+|**2026-01-24**|**Topological Protection by Local Support Symmetry and Destructive Interference**|Jun-Won Rhim, Jaeuk Seo, Seongjun Mo, Hoonkyung Lee, Sejoong Kim, B. Andrei Bernevig|[2601.17272](https://arxiv.org/abs/2601.17272)|null|
 |**2026-01-23**|**Boundary critical phenomena in the quantum Ashkin-Teller model**|Yifan Liu, Natalia Chepiga, Yoshiki Fukusumi, Masaki Oshikawa|[2601.16951](https://arxiv.org/abs/2601.16951)|null|
 |**2026-01-23**|**Universality of Dissipation across Holographic Interfaces**|Andreas Karch, Mianqi Wang|[2601.16888](https://arxiv.org/abs/2601.16888)|null|
 |**2026-01-23**|**Non-Abelian fusion and braiding in many-body parton states**|Koyena Bose|[2601.16819](https://arxiv.org/abs/2601.16819)|null|

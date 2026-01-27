@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-26, **RG flows of minimal $\mathcal W$ -algebra CFTs via non-invertible symmetries**, Federico Ambrosino, Tomáš Procházka, Paper: [https://arxiv.org/abs/2601.18667](https://arxiv.org/abs/2601.18667), 8 pages + 12 pages of Supplemental Materials
+- 2026-01-26, **Multi-target density matrix renormalization group for 3D CFTs on the fuzzy sphere**, Jin-Xiang Hao, Zheng Zhu, Yang Qi, Paper: [https://arxiv.org/abs/2601.18648](https://arxiv.org/abs/2601.18648)
+- 2026-01-26, **Hamiltonian Analysis of Doubled 4d Chern-Simons**, Jake Stedman, Paper: [https://arxiv.org/abs/2601.18647](https://arxiv.org/abs/2601.18647), 33 pages, 1 table
+- 2026-01-26, **Intertwiners for D=3 Gauge Theories**, P. A. Grassi, E. M. G. Landrò, Paper: [https://arxiv.org/abs/2601.18490](https://arxiv.org/abs/2601.18490), 47 pp, no figure, Latex2e
+- 2026-01-26, **Active topological strings in renewing nematopolar fluids**, Alberto Dinelli, Ludovic Dumoulin, Karsten Kruse, Paper: [https://arxiv.org/abs/2601.18307](https://arxiv.org/abs/2601.18307), 6 figures
+- 2026-01-26, **Relative bi-exactness and structural results for graph-wreath product von Neumann algebras**, Taisuke Hoshino, Paper: [https://arxiv.org/abs/2601.18185](https://arxiv.org/abs/2601.18185), 24 pages
+- 2026-01-25, **Probing sine dilaton gravity with flow central charge**, Paramesh Mahapatra, Hemant Rathi, Dibakar Roychowdhury, Paper: [https://arxiv.org/abs/2601.17698](https://arxiv.org/abs/2601.17698), 16 pages, 2 figures
+- 2026-01-24, **Topological Protection by Local Support Symmetry and Destructive Interference**, Jun-Won Rhim, Jaeuk Seo, Seongjun Mo, Hoonkyung Lee, Sejoong Kim, B. Andrei Bernevig, Paper: [https://arxiv.org/abs/2601.17272](https://arxiv.org/abs/2601.17272), 5 figures
 - 2026-01-23, **Boundary critical phenomena in the quantum Ashkin-Teller model**, Yifan Liu, Natalia Chepiga, Yoshiki Fukusumi, Masaki Oshikawa, Paper: [https://arxiv.org/abs/2601.16951](https://arxiv.org/abs/2601.16951), 45 pages, 12 figures, submission to SciPost
 - 2026-01-23, **Universality of Dissipation across Holographic Interfaces**, Andreas Karch, Mianqi Wang, Paper: [https://arxiv.org/abs/2601.16888](https://arxiv.org/abs/2601.16888)
 - 2026-01-23, **Non-Abelian fusion and braiding in many-body parton states**, Koyena Bose, Paper: [https://arxiv.org/abs/2601.16819](https://arxiv.org/abs/2601.16819), 4 pages, 2 figures
