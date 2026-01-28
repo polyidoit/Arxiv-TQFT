@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-27, **Knot invariants from XC-structures on the Sweedler algebra are trivial**, Jorge Becerra, Paper: [https://arxiv.org/abs/2601.19840](https://arxiv.org/abs/2601.19840), 12 pages, comments are welcome
+- 2026-01-27, **Spectral Codes: A Geometric Formalism for Quantum Error Correction**, Satoshi Kanno, Yoshi-aki Shimada, Paper: [https://arxiv.org/abs/2601.19765](https://arxiv.org/abs/2601.19765), 76 pages, 2 figures
+- 2026-01-27, **On the gauge invariance of the Kuperberg invariant of certain high genus framed 3-manifolds**, Liang Chang, Yilong Wang, Saifei Zhai, Paper: [https://arxiv.org/abs/2601.19485](https://arxiv.org/abs/2601.19485)
+- 2026-01-27, **Deterministic non-local parity control and supercurrent-based detection in an Andreev molecule**, Shang Zhu, Xiaozhou Yang, Mingli Liu, Min Wei, Yiping Jiao, Jiezhong He, Bingbing Tong, Junya Feng, Ziwei Dou, Peiling Li, Jie Shen, Xiaohui Song, Guangtong Liu, Zhaozheng Lyu, Dong Pan, Jianhua Zhao, Li Lu, Fanming Qu, Paper: [https://arxiv.org/abs/2601.19373](https://arxiv.org/abs/2601.19373), 34 pages, 11 figures
+- 2026-01-27, **$PT$ Symmetry's Real Topology**, J. X. Dai, Y. X. Zhao, Paper: [https://arxiv.org/abs/2601.19069](https://arxiv.org/abs/2601.19069)
+- 2026-01-26, **Multivariate Multicycle Codes for Complete Single-Shot Decoding**, Feroz Ahmed Mian, Owen Gwilliam, Stefan Krastanov, Paper: [https://arxiv.org/abs/2601.18879](https://arxiv.org/abs/2601.18879)
 - 2026-01-26, **RG flows of minimal $\mathcal W$ -algebra CFTs via non-invertible symmetries**, Federico Ambrosino, Tomáš Procházka, Paper: [https://arxiv.org/abs/2601.18667](https://arxiv.org/abs/2601.18667), 8 pages + 12 pages of Supplemental Materials
 - 2026-01-26, **Multi-target density matrix renormalization group for 3D CFTs on the fuzzy sphere**, Jin-Xiang Hao, Zheng Zhu, Yang Qi, Paper: [https://arxiv.org/abs/2601.18648](https://arxiv.org/abs/2601.18648)
 - 2026-01-26, **Hamiltonian Analysis of Doubled 4d Chern-Simons**, Jake Stedman, Paper: [https://arxiv.org/abs/2601.18647](https://arxiv.org/abs/2601.18647), 33 pages, 1 table

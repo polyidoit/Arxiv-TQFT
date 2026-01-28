@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Knot invariants from XC-structures on the Sweedler algebra are trivial**|Jorge Becerra|[2601.19840](https://arxiv.org/abs/2601.19840)|null|
+|**2026-01-27**|**Spectral Codes: A Geometric Formalism for Quantum Error Correction**|Satoshi Kanno, Yoshi-aki Shimada|[2601.19765](https://arxiv.org/abs/2601.19765)|null|
+|**2026-01-27**|**On the gauge invariance of the Kuperberg invariant of certain high genus framed 3-manifolds**|Liang Chang, Yilong Wang, Saifei Zhai|[2601.19485](https://arxiv.org/abs/2601.19485)|null|
+|**2026-01-27**|**Deterministic non-local parity control and supercurrent-based detection in an Andreev molecule**|Shang Zhu, Xiaozhou Yang, Mingli Liu, Min Wei, Yiping Jiao, Jiezhong He, Bingbing Tong, Junya Feng, Ziwei Dou, Peiling Li, Jie Shen, Xiaohui Song, Guangtong Liu, Zhaozheng Lyu, Dong Pan, Jianhua Zhao, Li Lu, Fanming Qu|[2601.19373](https://arxiv.org/abs/2601.19373)|null|
+|**2026-01-27**|**$PT$ Symmetry's Real Topology**|J. X. Dai, Y. X. Zhao|[2601.19069](https://arxiv.org/abs/2601.19069)|null|
+|**2026-01-26**|**Multivariate Multicycle Codes for Complete Single-Shot Decoding**|Feroz Ahmed Mian, Owen Gwilliam, Stefan Krastanov|[2601.18879](https://arxiv.org/abs/2601.18879)|null|
 |**2026-01-26**|**RG flows of minimal $\mathcal W$ -algebra CFTs via non-invertible symmetries**|Federico Ambrosino, Tomáš Procházka|[2601.18667](https://arxiv.org/abs/2601.18667)|null|
 |**2026-01-26**|**Multi-target density matrix renormalization group for 3D CFTs on the fuzzy sphere**|Jin-Xiang Hao, Zheng Zhu, Yang Qi|[2601.18648](https://arxiv.org/abs/2601.18648)|null|
 |**2026-01-26**|**Hamiltonian Analysis of Doubled 4d Chern-Simons**|Jake Stedman|[2601.18647](https://arxiv.org/abs/2601.18647)|null|
