@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-28, **TQFTs do not detect the Milnor sphere**, Ben Gripaios, Oscar Randal-Williams, Paper: [https://arxiv.org/abs/2601.20828](https://arxiv.org/abs/2601.20828), 10pp
+- 2026-01-28, **Topological defects and scalar field modes in cosmological backgrounds**, A. A. Saharian, G. V. Mirzoyan, G. H. Harutyunyan, R. M. Avagyan, Paper: [https://arxiv.org/abs/2601.20349](https://arxiv.org/abs/2601.20349), 14 pages
+- 2026-01-28, **Quantum capacitance and parity switching of a quantum-dot-based Kitaev chain**, Chun-Xiao Liu, Paper: [https://arxiv.org/abs/2601.20252](https://arxiv.org/abs/2601.20252), 8 pages and 4 figures
+- 2026-01-28, **Gorenstein homological invariants and monoidal model categories of Hopf algebras**, Wei Ren, Ruipeng Zhu, Paper: [https://arxiv.org/abs/2601.20249](https://arxiv.org/abs/2601.20249), 22 pages, comments welcome
+- 2026-01-27, **The homological algebra of 2d integrable field theories**, Marco Benini, Alexander Schenkel, Benoit Vicedo, Paper: [https://arxiv.org/abs/2601.19993](https://arxiv.org/abs/2601.19993), 33 pages
+- 2026-01-27, **Twisting Twistor space**, Tim Meier, Eggon Viana, Paper: [https://arxiv.org/abs/2601.19983](https://arxiv.org/abs/2601.19983), 44 pages, no figures
+- 2026-01-27, **On the Wilson-Fisher fixed point in the limit of integer spacetime dimensions**, Bernardo Zan, Paper: [https://arxiv.org/abs/2601.19977](https://arxiv.org/abs/2601.19977), 23 pages
+- 2026-01-27, **Detecting half-quantum superconducting vortices by spin-qubit relaxometry**, Gábor B. Halász, Nirjhar Sarkar, Yueh-Chun Wu, Joshua T. Damron, Chengyun Hua, Benjamin Lawrie, Paper: [https://arxiv.org/abs/2601.19975](https://arxiv.org/abs/2601.19975), 5 pages, 4 figures
 - 2026-01-27, **Knot invariants from XC-structures on the Sweedler algebra are trivial**, Jorge Becerra, Paper: [https://arxiv.org/abs/2601.19840](https://arxiv.org/abs/2601.19840), 12 pages, comments are welcome
 - 2026-01-27, **Spectral Codes: A Geometric Formalism for Quantum Error Correction**, Satoshi Kanno, Yoshi-aki Shimada, Paper: [https://arxiv.org/abs/2601.19765](https://arxiv.org/abs/2601.19765), 76 pages, 2 figures
 - 2026-01-27, **On the gauge invariance of the Kuperberg invariant of certain high genus framed 3-manifolds**, Liang Chang, Yilong Wang, Saifei Zhai, Paper: [https://arxiv.org/abs/2601.19485](https://arxiv.org/abs/2601.19485)

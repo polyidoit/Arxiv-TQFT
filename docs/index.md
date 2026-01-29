@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-01-28**|**TQFTs do not detect the Milnor sphere**|Ben Gripaios, Oscar Randal-Williams|[2601.20828](https://arxiv.org/abs/2601.20828)|null|
+|**2026-01-28**|**Topological defects and scalar field modes in cosmological backgrounds**|A. A. Saharian, G. V. Mirzoyan, G. H. Harutyunyan, R. M. Avagyan|[2601.20349](https://arxiv.org/abs/2601.20349)|null|
+|**2026-01-28**|**Quantum capacitance and parity switching of a quantum-dot-based Kitaev chain**|Chun-Xiao Liu|[2601.20252](https://arxiv.org/abs/2601.20252)|null|
+|**2026-01-28**|**Gorenstein homological invariants and monoidal model categories of Hopf algebras**|Wei Ren, Ruipeng Zhu|[2601.20249](https://arxiv.org/abs/2601.20249)|null|
+|**2026-01-27**|**The homological algebra of 2d integrable field theories**|Marco Benini, Alexander Schenkel, Benoit Vicedo|[2601.19993](https://arxiv.org/abs/2601.19993)|null|
+|**2026-01-27**|**Twisting Twistor space**|Tim Meier, Eggon Viana|[2601.19983](https://arxiv.org/abs/2601.19983)|null|
+|**2026-01-27**|**On the Wilson-Fisher fixed point in the limit of integer spacetime dimensions**|Bernardo Zan|[2601.19977](https://arxiv.org/abs/2601.19977)|null|
+|**2026-01-27**|**Detecting half-quantum superconducting vortices by spin-qubit relaxometry**|Gábor B. Halász, Nirjhar Sarkar, Yueh-Chun Wu, Joshua T. Damron, Chengyun Hua, Benjamin Lawrie|[2601.19975](https://arxiv.org/abs/2601.19975)|null|
 |**2026-01-27**|**Knot invariants from XC-structures on the Sweedler algebra are trivial**|Jorge Becerra|[2601.19840](https://arxiv.org/abs/2601.19840)|null|
 |**2026-01-27**|**Spectral Codes: A Geometric Formalism for Quantum Error Correction**|Satoshi Kanno, Yoshi-aki Shimada|[2601.19765](https://arxiv.org/abs/2601.19765)|null|
 |**2026-01-27**|**On the gauge invariance of the Kuperberg invariant of certain high genus framed 3-manifolds**|Liang Chang, Yilong Wang, Saifei Zhai|[2601.19485](https://arxiv.org/abs/2601.19485)|null|
