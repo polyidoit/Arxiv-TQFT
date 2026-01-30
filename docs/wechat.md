@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-29, **On set-theoretic solutions of pentagon equation and positive basis Hopf algebras**, Ilaria Colazzo, Geoffrey Janssens, Paper: [https://arxiv.org/abs/2601.22089](https://arxiv.org/abs/2601.22089), 44 pages
+- 2026-01-29, **Holographic generative flows with AdS/CFT**, Ehsan Mirafzali, Sanjit Shashi, Sanya Murdeshwar, Edgar Shaghoulian, Daniele Venturi, Razvan Marinescu, Paper: [https://arxiv.org/abs/2601.22033](https://arxiv.org/abs/2601.22033), v1: 13 pages, 6 figures
+- 2026-01-29, **Fully exact and fully dualizable module categories**, Azat M. Gainutdinov, Robert Laugwitz, Paper: [https://arxiv.org/abs/2601.22017](https://arxiv.org/abs/2601.22017), 74 pages
+- 2026-01-29, **Defect Relative Entropy**, Mostafa Ghasemi, Paper: [https://arxiv.org/abs/2601.21875](https://arxiv.org/abs/2601.21875), 6 pages
+- 2026-01-29, **Non-invertible translation from Lieb-Schultz-Mattis anomaly**, Tsubasa Oishi, Takuma Saito, Hiromi Ebisu, Paper: [https://arxiv.org/abs/2601.21625](https://arxiv.org/abs/2601.21625), 36 pages, 4 figures
+- 2026-01-29, **Six-loop renormalization group analysis of the $φ^4 + φ^6$ model**, L. Ts. Adzhemyan, M. V. Kompaniets, A. V. Trenogin, Paper: [https://arxiv.org/abs/2601.21515](https://arxiv.org/abs/2601.21515), 10 pages
+- 2026-01-28, **A Universal CMB $B$ -Mode Spectrum from Early Causal Tensor Sources**, Kylar Greene, Aurora Ireland, Gordan Krnjaic, Yuhsin Tsai, Paper: [https://arxiv.org/abs/2601.20967](https://arxiv.org/abs/2601.20967), 15 pages, 5 figures
+- 2026-01-28, **First constraints on causal sources of primordial gravitational waves from BICEP/Keck, SPTpol, SPT-3G, Planck and WMAP $B$ -mode data**, Jessica A. Zebrowski, Aurora Ireland, Christian L. Reichardt, Kylar Greene, Gordan Krnjaic, Yuhsin Tsai, François R. Bouchet, Paper: [https://arxiv.org/abs/2601.20958](https://arxiv.org/abs/2601.20958), Submitted to PRL, 7 pages, 5 figures
+- 2026-01-28, **Universal Topological Gates from Braiding and Fusing Anyons on Quantum Hardware**, Chiu Fan Bowen Lo, Anasuya Lyons, Dan Gresh, Michael Mills, Peter E. Siegfried, Maxwell D. Urmey, Nathanan Tantivasadakarn, Henrik Dreyer, Ashvin Vishwanath, Ruben Verresen, Mohsin Iqbal, Paper: [https://arxiv.org/abs/2601.20956](https://arxiv.org/abs/2601.20956), main text: 7+ε pages and 7 figures; total: 50 pages and 25 figures
+- 2026-01-28, **Self-dual Higgs transitions: Toric code and beyond**, Wenjie Ji, Ryan A. Lanzetta, Zheng Zhou, Chong Wang, Paper: [https://arxiv.org/abs/2601.20945](https://arxiv.org/abs/2601.20945), 5+4 pages
 - 2026-01-28, **TQFTs do not detect the Milnor sphere**, Ben Gripaios, Oscar Randal-Williams, Paper: [https://arxiv.org/abs/2601.20828](https://arxiv.org/abs/2601.20828), 10pp
 - 2026-01-28, **Topological defects and scalar field modes in cosmological backgrounds**, A. A. Saharian, G. V. Mirzoyan, G. H. Harutyunyan, R. M. Avagyan, Paper: [https://arxiv.org/abs/2601.20349](https://arxiv.org/abs/2601.20349), 14 pages
 - 2026-01-28, **Quantum capacitance and parity switching of a quantum-dot-based Kitaev chain**, Chun-Xiao Liu, Paper: [https://arxiv.org/abs/2601.20252](https://arxiv.org/abs/2601.20252), 8 pages and 4 figures

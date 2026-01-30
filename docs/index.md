@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-01-29**|**On set-theoretic solutions of pentagon equation and positive basis Hopf algebras**|Ilaria Colazzo, Geoffrey Janssens|[2601.22089](https://arxiv.org/abs/2601.22089)|null|
+|**2026-01-29**|**Holographic generative flows with AdS/CFT**|Ehsan Mirafzali, Sanjit Shashi, Sanya Murdeshwar, Edgar Shaghoulian, Daniele Venturi, Razvan Marinescu|[2601.22033](https://arxiv.org/abs/2601.22033)|null|
+|**2026-01-29**|**Fully exact and fully dualizable module categories**|Azat M. Gainutdinov, Robert Laugwitz|[2601.22017](https://arxiv.org/abs/2601.22017)|null|
+|**2026-01-29**|**Defect Relative Entropy**|Mostafa Ghasemi|[2601.21875](https://arxiv.org/abs/2601.21875)|null|
+|**2026-01-29**|**Non-invertible translation from Lieb-Schultz-Mattis anomaly**|Tsubasa Oishi, Takuma Saito, Hiromi Ebisu|[2601.21625](https://arxiv.org/abs/2601.21625)|null|
+|**2026-01-29**|**Six-loop renormalization group analysis of the $φ^4 + φ^6$ model**|L. Ts. Adzhemyan, M. V. Kompaniets, A. V. Trenogin|[2601.21515](https://arxiv.org/abs/2601.21515)|null|
+|**2026-01-28**|**A Universal CMB $B$ -Mode Spectrum from Early Causal Tensor Sources**|Kylar Greene, Aurora Ireland, Gordan Krnjaic, Yuhsin Tsai|[2601.20967](https://arxiv.org/abs/2601.20967)|null|
+|**2026-01-28**|**First constraints on causal sources of primordial gravitational waves from BICEP/Keck, SPTpol, SPT-3G, Planck and WMAP $B$ -mode data**|Jessica A. Zebrowski, Aurora Ireland, Christian L. Reichardt, Kylar Greene, Gordan Krnjaic, Yuhsin Tsai, François R. Bouchet|[2601.20958](https://arxiv.org/abs/2601.20958)|null|
+|**2026-01-28**|**Universal Topological Gates from Braiding and Fusing Anyons on Quantum Hardware**|Chiu Fan Bowen Lo, Anasuya Lyons, Dan Gresh, Michael Mills, Peter E. Siegfried, Maxwell D. Urmey, Nathanan Tantivasadakarn, Henrik Dreyer, Ashvin Vishwanath, Ruben Verresen, Mohsin Iqbal|[2601.20956](https://arxiv.org/abs/2601.20956)|null|
+|**2026-01-28**|**Self-dual Higgs transitions: Toric code and beyond**|Wenjie Ji, Ryan A. Lanzetta, Zheng Zhou, Chong Wang|[2601.20945](https://arxiv.org/abs/2601.20945)|null|
 |**2026-01-28**|**TQFTs do not detect the Milnor sphere**|Ben Gripaios, Oscar Randal-Williams|[2601.20828](https://arxiv.org/abs/2601.20828)|null|
 |**2026-01-28**|**Topological defects and scalar field modes in cosmological backgrounds**|A. A. Saharian, G. V. Mirzoyan, G. H. Harutyunyan, R. M. Avagyan|[2601.20349](https://arxiv.org/abs/2601.20349)|null|
 |**2026-01-28**|**Quantum capacitance and parity switching of a quantum-dot-based Kitaev chain**|Chun-Xiao Liu|[2601.20252](https://arxiv.org/abs/2601.20252)|null|
