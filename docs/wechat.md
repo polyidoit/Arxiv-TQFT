@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-01-30, **Compact group Rohlin actions and $G$ -kernels on von Neumann algebras**, Takumi Nishihara, Paper: [https://arxiv.org/abs/2601.22941](https://arxiv.org/abs/2601.22941), 21 pages, Master's thesis
+- 2026-01-30, **Poset modules of the $0$-Hecke algebras of type $B$**, Young-Hun Kim, Dominic Searles, Paper: [https://arxiv.org/abs/2601.22926](https://arxiv.org/abs/2601.22926), 46 pages
+- 2026-01-30, **Single-Shot Flow Spectroscopy of a Polariton Condensate: Kibble-Zurek and Kolmogorov-Like Scaling**, Ivan Krasionov, Anton Putintsev, Maksim Kolker, Tamsin Cookson, Sergey Alyatkin, Pavlos G. Lagoudakis, Paper: [https://arxiv.org/abs/2601.22719](https://arxiv.org/abs/2601.22719)
+- 2026-01-29, **Quantum bootstrap product codes**, Meng-Yuan Li, Paper: [https://arxiv.org/abs/2601.22363](https://arxiv.org/abs/2601.22363)
+- 2026-01-29, **Probing Entanglement and Symmetries in Random States Using a Superconducting Quantum Processor**, Jia-Nan Yang, Lata Kh Joshi, Filiberto Ares, Yihang Han, Pengfei Zhang, Pasquale Calabrese, Paper: [https://arxiv.org/abs/2601.22224](https://arxiv.org/abs/2601.22224)
 - 2026-01-29, **On set-theoretic solutions of pentagon equation and positive basis Hopf algebras**, Ilaria Colazzo, Geoffrey Janssens, Paper: [https://arxiv.org/abs/2601.22089](https://arxiv.org/abs/2601.22089), 44 pages
 - 2026-01-29, **Holographic generative flows with AdS/CFT**, Ehsan Mirafzali, Sanjit Shashi, Sanya Murdeshwar, Edgar Shaghoulian, Daniele Venturi, Razvan Marinescu, Paper: [https://arxiv.org/abs/2601.22033](https://arxiv.org/abs/2601.22033), v1: 13 pages, 6 figures
 - 2026-01-29, **Fully exact and fully dualizable module categories**, Azat M. Gainutdinov, Robert Laugwitz, Paper: [https://arxiv.org/abs/2601.22017](https://arxiv.org/abs/2601.22017), 74 pages
