@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-02, **Monomial bialgebras**, Arkady Berenstein, Jacob Greenstein, Jian-Rong Li, Paper: [https://arxiv.org/abs/2602.02342](https://arxiv.org/abs/2602.02342), 75 pages
+- 2026-02-02, **Unitary normalizers in finite-dimensional inclusions**, Keshab Chandra Bakshi, Silambarasan C, Paper: [https://arxiv.org/abs/2602.01987](https://arxiv.org/abs/2602.01987), 33 pages
+- 2026-02-01, **Operators with disconnected spectrum in von Neumann algebras**, Minghui Ma, Rui Shi, Tianze Wang, Paper: [https://arxiv.org/abs/2602.01424](https://arxiv.org/abs/2602.01424), 18 pages
+- 2026-02-01, **Some classifications of finite-dimensional Hopf algebras over the Hopf algebra $H_{b:x^2y}$ of Kashina**, Yihan Wu, Hengyi Wang, Naihong Hu, Paper: [https://arxiv.org/abs/2602.01275](https://arxiv.org/abs/2602.01275), 30 pages
+- 2026-01-31, **Exotic full factors via weakly coarse bimodules**, David Gao, David Jekel, Srivatsav Kunnawalkam Elayavalli, Gregory Patchell, Paper: [https://arxiv.org/abs/2602.00930](https://arxiv.org/abs/2602.00930), 16 pages
+- 2026-01-31, **Limit joint distributions of SYK Models with partial interactions, Mixed q-Gaussian Models and Asymptotic $\varepsilon$ -freeness**, Weihua Liu, Haoqi Shen, Paper: [https://arxiv.org/abs/2602.00789](https://arxiv.org/abs/2602.00789), 28 pages, comments are welcome
+- 2026-01-31, **Lecture notes on Nichols algebras**, Simon D. Lentner, Paper: [https://arxiv.org/abs/2602.00651](https://arxiv.org/abs/2602.00651), 91 pages, 59 figures
+- 2026-01-30, **Bourin-type inequalities for $τ$ -measurable operators in fully symmetric spaces**, Teng Zhang, Paper: [https://arxiv.org/abs/2602.00358](https://arxiv.org/abs/2602.00358), 11 pages. All comments are welcome!
+- 2026-01-30, **Topological Defects from Quantum Reset Dynamics**, R. Jafari, Henrik Johannesson, Sebastian Eggert, Paper: [https://arxiv.org/abs/2602.00230](https://arxiv.org/abs/2602.00230), 6 pages with 3 figures. More information and the latest version can be found at https://www.physik.uni-kl.de/eggert/papers/
+- 2026-01-30, **Mass formula for topological boundary conditions from TQFT gravity**, Anatoly Dymarsky, Alfred Shapere, Paper: [https://arxiv.org/abs/2602.00224](https://arxiv.org/abs/2602.00224)
 - 2026-01-30, **Compact group Rohlin actions and $G$ -kernels on von Neumann algebras**, Takumi Nishihara, Paper: [https://arxiv.org/abs/2601.22941](https://arxiv.org/abs/2601.22941), 21 pages, Master's thesis
 - 2026-01-30, **Poset modules of the $0$-Hecke algebras of type $B$**, Young-Hun Kim, Dominic Searles, Paper: [https://arxiv.org/abs/2601.22926](https://arxiv.org/abs/2601.22926), 46 pages
 - 2026-01-30, **Single-Shot Flow Spectroscopy of a Polariton Condensate: Kibble-Zurek and Kolmogorov-Like Scaling**, Ivan Krasionov, Anton Putintsev, Maksim Kolker, Tamsin Cookson, Sergey Alyatkin, Pavlos G. Lagoudakis, Paper: [https://arxiv.org/abs/2601.22719](https://arxiv.org/abs/2601.22719)

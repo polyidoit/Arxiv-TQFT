@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Monomial bialgebras**|Arkady Berenstein, Jacob Greenstein, Jian-Rong Li|[2602.02342](https://arxiv.org/abs/2602.02342)|null|
+|**2026-02-02**|**Unitary normalizers in finite-dimensional inclusions**|Keshab Chandra Bakshi, Silambarasan C|[2602.01987](https://arxiv.org/abs/2602.01987)|null|
+|**2026-02-01**|**Operators with disconnected spectrum in von Neumann algebras**|Minghui Ma, Rui Shi, Tianze Wang|[2602.01424](https://arxiv.org/abs/2602.01424)|null|
+|**2026-02-01**|**Some classifications of finite-dimensional Hopf algebras over the Hopf algebra $H_{b:x^2y}$ of Kashina**|Yihan Wu, Hengyi Wang, Naihong Hu|[2602.01275](https://arxiv.org/abs/2602.01275)|null|
+|**2026-01-31**|**Exotic full factors via weakly coarse bimodules**|David Gao, David Jekel, Srivatsav Kunnawalkam Elayavalli, Gregory Patchell|[2602.00930](https://arxiv.org/abs/2602.00930)|null|
+|**2026-01-31**|**Limit joint distributions of SYK Models with partial interactions, Mixed q-Gaussian Models and Asymptotic $\varepsilon$ -freeness**|Weihua Liu, Haoqi Shen|[2602.00789](https://arxiv.org/abs/2602.00789)|null|
+|**2026-01-31**|**Lecture notes on Nichols algebras**|Simon D. Lentner|[2602.00651](https://arxiv.org/abs/2602.00651)|null|
+|**2026-01-30**|**Bourin-type inequalities for $τ$ -measurable operators in fully symmetric spaces**|Teng Zhang|[2602.00358](https://arxiv.org/abs/2602.00358)|null|
+|**2026-01-30**|**Topological Defects from Quantum Reset Dynamics**|R. Jafari, Henrik Johannesson, Sebastian Eggert|[2602.00230](https://arxiv.org/abs/2602.00230)|null|
+|**2026-01-30**|**Mass formula for topological boundary conditions from TQFT gravity**|Anatoly Dymarsky, Alfred Shapere|[2602.00224](https://arxiv.org/abs/2602.00224)|null|
 |**2026-01-30**|**Compact group Rohlin actions and $G$ -kernels on von Neumann algebras**|Takumi Nishihara|[2601.22941](https://arxiv.org/abs/2601.22941)|null|
 |**2026-01-30**|**Poset modules of the $0$-Hecke algebras of type $B$**|Young-Hun Kim, Dominic Searles|[2601.22926](https://arxiv.org/abs/2601.22926)|null|
 |**2026-01-30**|**Single-Shot Flow Spectroscopy of a Polariton Condensate: Kibble-Zurek and Kolmogorov-Like Scaling**|Ivan Krasionov, Anton Putintsev, Maksim Kolker, Tamsin Cookson, Sergey Alyatkin, Pavlos G. Lagoudakis|[2601.22719](https://arxiv.org/abs/2601.22719)|null|
