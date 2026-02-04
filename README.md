@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**A Unified Categorical Description of Quantum Hall Hierarchy and Anyon Superconductivity**|Donghae Seo, Taegon Lee, Gil Young Cho|[2602.03848](https://arxiv.org/abs/2602.03848)|null|
+|**2026-02-03**|**On the Quantization-Dequantization Correspondence for (co)Poisson Hopf Algebras**|Andrea Rivezzi, Jonas Schnitzer|[2602.03810](https://arxiv.org/abs/2602.03810)|null|
+|**2026-02-03**|**Thermodynamics of the Heisenberg XXX chain with negative spin**|Rong Zhong, Yang-Yang Chen, Kun Hao, Wen-li Yang, Vladimir Korepin|[2602.03714](https://arxiv.org/abs/2602.03714)|null|
+|**2026-02-03**|**Resolving Quantum Criticality in the Honeycomb Hubbard Model**|Fo-Hong Wang, Fanjie Sun, Chenghao He, Xiao Yan Xu|[2602.03656](https://arxiv.org/abs/2602.03656)|null|
+|**2026-02-03**|**Open modular functors from non-finite tensor categories**|Deniz Yeral|[2602.03519](https://arxiv.org/abs/2602.03519)|null|
+|**2026-02-03**|**Classification of noncommutative central conics**|Haigang Hu, Izuru Mori, Wenchao Wu|[2602.03236](https://arxiv.org/abs/2602.03236)|null|
+|**2026-02-02**|**$AdS/CFT$ to $dS/CFT$ : Some Recent Developments**|Gopal Yadav|[2602.02852](https://arxiv.org/abs/2602.02852)|null|
+|**2026-02-02**|**Verlinde lines, anyon permutations and commutant pairs inside $E_{8,1}$ CFT**|Naveen Balaji Umasankar, Arpit Das|[2602.02700](https://arxiv.org/abs/2602.02700)|null|
+|**2026-02-02**|**Non-Hermitian free-fermion critical systems and logarithmic conformal field theory**|Iao-Fai Io, Fu-Hsiang Huang, Chang-Tse Hsieh|[2602.02649](https://arxiv.org/abs/2602.02649)|null|
 |**2026-02-02**|**Monomial bialgebras**|Arkady Berenstein, Jacob Greenstein, Jian-Rong Li|[2602.02342](https://arxiv.org/abs/2602.02342)|null|
 |**2026-02-02**|**Unitary normalizers in finite-dimensional inclusions**|Keshab Chandra Bakshi, Silambarasan C|[2602.01987](https://arxiv.org/abs/2602.01987)|null|
 |**2026-02-01**|**Operators with disconnected spectrum in von Neumann algebras**|Minghui Ma, Rui Shi, Tianze Wang|[2602.01424](https://arxiv.org/abs/2602.01424)|null|

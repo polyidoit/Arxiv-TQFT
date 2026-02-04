@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-03, **A Unified Categorical Description of Quantum Hall Hierarchy and Anyon Superconductivity**, Donghae Seo, Taegon Lee, Gil Young Cho, Paper: [https://arxiv.org/abs/2602.03848](https://arxiv.org/abs/2602.03848), 14 pages, 1 figure, 1 table
+- 2026-02-03, **On the Quantization-Dequantization Correspondence for (co)Poisson Hopf Algebras**, Andrea Rivezzi, Jonas Schnitzer, Paper: [https://arxiv.org/abs/2602.03810](https://arxiv.org/abs/2602.03810), 37 pages + Applications and Appendix. Comments welcome!
+- 2026-02-03, **Thermodynamics of the Heisenberg XXX chain with negative spin**, Rong Zhong, Yang-Yang Chen, Kun Hao, Wen-li Yang, Vladimir Korepin, Paper: [https://arxiv.org/abs/2602.03714](https://arxiv.org/abs/2602.03714), 26 pages, 10 figures
+- 2026-02-03, **Resolving Quantum Criticality in the Honeycomb Hubbard Model**, Fo-Hong Wang, Fanjie Sun, Chenghao He, Xiao Yan Xu, Paper: [https://arxiv.org/abs/2602.03656](https://arxiv.org/abs/2602.03656), 12+20 pages, 6+16 figures
+- 2026-02-03, **Open modular functors from non-finite tensor categories**, Deniz Yeral, Paper: [https://arxiv.org/abs/2602.03519](https://arxiv.org/abs/2602.03519), 14 pages
+- 2026-02-03, **Classification of noncommutative central conics**, Haigang Hu, Izuru Mori, Wenchao Wu, Paper: [https://arxiv.org/abs/2602.03236](https://arxiv.org/abs/2602.03236), 47 pages; all comments are welcome
+- 2026-02-02, **$AdS/CFT$ to $dS/CFT$ : Some Recent Developments**, Gopal Yadav, Paper: [https://arxiv.org/abs/2602.02852](https://arxiv.org/abs/2602.02852), v1: 1+65 pages, 17 figures, Lecture notes for "Student Talks on Trending Topics in Theory (ST4)", IISER Bhopal, July 14 - 26, 2025
+- 2026-02-02, **Verlinde lines, anyon permutations and commutant pairs inside $E_{8,1}$ CFT**, Naveen Balaji Umasankar, Arpit Das, Paper: [https://arxiv.org/abs/2602.02700](https://arxiv.org/abs/2602.02700), 95 pages, 1 table, 1 figure. Comments are welcome!
+- 2026-02-02, **Non-Hermitian free-fermion critical systems and logarithmic conformal field theory**, Iao-Fai Io, Fu-Hsiang Huang, Chang-Tse Hsieh, Paper: [https://arxiv.org/abs/2602.02649](https://arxiv.org/abs/2602.02649), 6+12 pages, 1 figure, 1 table
 - 2026-02-02, **Monomial bialgebras**, Arkady Berenstein, Jacob Greenstein, Jian-Rong Li, Paper: [https://arxiv.org/abs/2602.02342](https://arxiv.org/abs/2602.02342), 75 pages
 - 2026-02-02, **Unitary normalizers in finite-dimensional inclusions**, Keshab Chandra Bakshi, Silambarasan C, Paper: [https://arxiv.org/abs/2602.01987](https://arxiv.org/abs/2602.01987), 33 pages
 - 2026-02-01, **Operators with disconnected spectrum in von Neumann algebras**, Minghui Ma, Rui Shi, Tianze Wang, Paper: [https://arxiv.org/abs/2602.01424](https://arxiv.org/abs/2602.01424), 18 pages
