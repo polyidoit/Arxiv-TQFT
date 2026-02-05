@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Geometric realization of $W$ -operators**|Lu-Yao Wang|[2602.04779](https://arxiv.org/abs/2602.04779)|null|
+|**2026-02-04**|**Courant-Hilbert deformations of Yang-Baxter sigma models**|Osamu Fukushima, Takaki Matsumoto, Kentaroh Yoshida|[2602.04662](https://arxiv.org/abs/2602.04662)|null|
+|**2026-02-04**|**Quantum fields from real-time ensemble dynamics**|Yong Zhang|[2602.04229](https://arxiv.org/abs/2602.04229)|null|
+|**2026-02-04**|**Boundary conformal field theory, holography and bulk locality**|Pinaki Banerjee, Parijat Dey, Dipyendu Dhar|[2602.04223](https://arxiv.org/abs/2602.04223)|null|
+|**2026-02-03**|**Boundary and Symmetry Breaking in a Deformed Toric Code**|Rodrigo Corso|[2602.04002](https://arxiv.org/abs/2602.04002)|null|
+|**2026-02-03**|**The Line, the Strip and the Duality Defect**|Francesco Bedogna, Salvo Mancani|[2602.03926](https://arxiv.org/abs/2602.03926)|null|
 |**2026-02-03**|**A Unified Categorical Description of Quantum Hall Hierarchy and Anyon Superconductivity**|Donghae Seo, Taegon Lee, Gil Young Cho|[2602.03848](https://arxiv.org/abs/2602.03848)|null|
 |**2026-02-03**|**On the Quantization-Dequantization Correspondence for (co)Poisson Hopf Algebras**|Andrea Rivezzi, Jonas Schnitzer|[2602.03810](https://arxiv.org/abs/2602.03810)|null|
 |**2026-02-03**|**Thermodynamics of the Heisenberg XXX chain with negative spin**|Rong Zhong, Yang-Yang Chen, Kun Hao, Wen-li Yang, Vladimir Korepin|[2602.03714](https://arxiv.org/abs/2602.03714)|null|

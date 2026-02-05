@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-04, **Geometric realization of $W$ -operators**, Lu-Yao Wang, Paper: [https://arxiv.org/abs/2602.04779](https://arxiv.org/abs/2602.04779)
+- 2026-02-04, **Courant-Hilbert deformations of Yang-Baxter sigma models**, Osamu Fukushima, Takaki Matsumoto, Kentaroh Yoshida, Paper: [https://arxiv.org/abs/2602.04662](https://arxiv.org/abs/2602.04662), 29 pages
+- 2026-02-04, **Quantum fields from real-time ensemble dynamics**, Yong Zhang, Paper: [https://arxiv.org/abs/2602.04229](https://arxiv.org/abs/2602.04229), 10 pages, 1 figure
+- 2026-02-04, **Boundary conformal field theory, holography and bulk locality**, Pinaki Banerjee, Parijat Dey, Dipyendu Dhar, Paper: [https://arxiv.org/abs/2602.04223](https://arxiv.org/abs/2602.04223), 20 pages, 1 figure
+- 2026-02-03, **Boundary and Symmetry Breaking in a Deformed Toric Code**, Rodrigo Corso, Paper: [https://arxiv.org/abs/2602.04002](https://arxiv.org/abs/2602.04002), 20 pages, 8 figues, comments are welcome
+- 2026-02-03, **The Line, the Strip and the Duality Defect**, Francesco Bedogna, Salvo Mancani, Paper: [https://arxiv.org/abs/2602.03926](https://arxiv.org/abs/2602.03926), 24 pages, + appendices; 2 figures
 - 2026-02-03, **A Unified Categorical Description of Quantum Hall Hierarchy and Anyon Superconductivity**, Donghae Seo, Taegon Lee, Gil Young Cho, Paper: [https://arxiv.org/abs/2602.03848](https://arxiv.org/abs/2602.03848), 14 pages, 1 figure, 1 table
 - 2026-02-03, **On the Quantization-Dequantization Correspondence for (co)Poisson Hopf Algebras**, Andrea Rivezzi, Jonas Schnitzer, Paper: [https://arxiv.org/abs/2602.03810](https://arxiv.org/abs/2602.03810), 37 pages + Applications and Appendix. Comments welcome!
 - 2026-02-03, **Thermodynamics of the Heisenberg XXX chain with negative spin**, Rong Zhong, Yang-Yang Chen, Kun Hao, Wen-li Yang, Vladimir Korepin, Paper: [https://arxiv.org/abs/2602.03714](https://arxiv.org/abs/2602.03714), 26 pages, 10 figures
