@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Lattices from Pointed Building Sets: Generalized Ornamentation Lattices**|Andrew Sack|[2602.06004](https://arxiv.org/abs/2602.06004)|null|
+|**2026-02-05**|**Local measurements and the entanglement transition in quantum spin chains**|Sven Bachmann, Mahsa Rahnama, Gabrielle Tournaire|[2602.05914](https://arxiv.org/abs/2602.05914)|null|
+|**2026-02-05**|**Non-amenable C $^*$-superrigid groups that are not W$^*$ -superrigid**|Juan Felipe Ariza Mejía, Ionuţ Chifan, Adriana Fernández Quero|[2602.05290](https://arxiv.org/abs/2602.05290)|null|
+|**2026-02-05**|**Dimensional structure of thermodynamic topology in ultraspinning Kerr-AdS black holes**|Min Tian, Ying Chen, Di Wu|[2602.05231](https://arxiv.org/abs/2602.05231)|null|
+|**2026-02-04**|**Taming multiparty entanglement at measurement-induced phase transitions**|Liuke Lyu, James Allen, Yi Hong Teoh, Roger G Melko, William Witczak-Krempa|[2602.04969](https://arxiv.org/abs/2602.04969)|null|
+|**2026-02-04**|**Topological frustration and quantum resources**|Alberto Giuseppe Catalano, Gianpaolo Torre, Salvatore Marco Giampaolo, Fabio Franchini|[2602.04960](https://arxiv.org/abs/2602.04960)|null|
 |**2026-02-04**|**Geometric realization of $W$ -operators**|Lu-Yao Wang|[2602.04779](https://arxiv.org/abs/2602.04779)|null|
 |**2026-02-04**|**Courant-Hilbert deformations of Yang-Baxter sigma models**|Osamu Fukushima, Takaki Matsumoto, Kentaroh Yoshida|[2602.04662](https://arxiv.org/abs/2602.04662)|null|
 |**2026-02-04**|**Quantum fields from real-time ensemble dynamics**|Yong Zhang|[2602.04229](https://arxiv.org/abs/2602.04229)|null|

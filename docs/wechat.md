@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-05, **Lattices from Pointed Building Sets: Generalized Ornamentation Lattices**, Andrew Sack, Paper: [https://arxiv.org/abs/2602.06004](https://arxiv.org/abs/2602.06004), 26 pages, 7 figures
+- 2026-02-05, **Local measurements and the entanglement transition in quantum spin chains**, Sven Bachmann, Mahsa Rahnama, Gabrielle Tournaire, Paper: [https://arxiv.org/abs/2602.05914](https://arxiv.org/abs/2602.05914), 31 pages
+- 2026-02-05, **Non-amenable C $^*$-superrigid groups that are not W$^*$ -superrigid**, Juan Felipe Ariza Mejía, Ionuţ Chifan, Adriana Fernández Quero, Paper: [https://arxiv.org/abs/2602.05290](https://arxiv.org/abs/2602.05290), Comments are welcome; 37 pages
+- 2026-02-05, **Dimensional structure of thermodynamic topology in ultraspinning Kerr-AdS black holes**, Min Tian, Ying Chen, Di Wu, Paper: [https://arxiv.org/abs/2602.05231](https://arxiv.org/abs/2602.05231), 7 pages, 2 figures, 1 table
+- 2026-02-04, **Taming multiparty entanglement at measurement-induced phase transitions**, Liuke Lyu, James Allen, Yi Hong Teoh, Roger G Melko, William Witczak-Krempa, Paper: [https://arxiv.org/abs/2602.04969](https://arxiv.org/abs/2602.04969), 21 pages, 11 figures
+- 2026-02-04, **Topological frustration and quantum resources**, Alberto Giuseppe Catalano, Gianpaolo Torre, Salvatore Marco Giampaolo, Fabio Franchini, Paper: [https://arxiv.org/abs/2602.04960](https://arxiv.org/abs/2602.04960)
 - 2026-02-04, **Geometric realization of $W$ -operators**, Lu-Yao Wang, Paper: [https://arxiv.org/abs/2602.04779](https://arxiv.org/abs/2602.04779)
 - 2026-02-04, **Courant-Hilbert deformations of Yang-Baxter sigma models**, Osamu Fukushima, Takaki Matsumoto, Kentaroh Yoshida, Paper: [https://arxiv.org/abs/2602.04662](https://arxiv.org/abs/2602.04662), 29 pages
 - 2026-02-04, **Quantum fields from real-time ensemble dynamics**, Yong Zhang, Paper: [https://arxiv.org/abs/2602.04229](https://arxiv.org/abs/2602.04229), 10 pages, 1 figure
