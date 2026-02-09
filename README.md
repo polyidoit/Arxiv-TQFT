@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Charge- $4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation**|Zhengyan Darius Shi, Zhaoyu Han, Srinivas Raghu, Ashvin Vishwanath|[2602.06963](https://arxiv.org/abs/2602.06963)|null|
+|**2026-02-06**|**The First Known Problem That Is FPT with Respect to Node Scanwidth but Not Treewidth**|Jannik Schestag, Norbert Zeh|[2602.06903](https://arxiv.org/abs/2602.06903)|null|
+|**2026-02-06**|**Physical properties of RhGe and CoGe single crystals synthesized under high pressure**|Shangjie Tian, Xiangjiang Dong, Bowen Zhang, Zhijun Tu, Runze Yu, Hechang Lei, Shouguo Wang|[2602.06712](https://arxiv.org/abs/2602.06712)|null|
+|**2026-02-05**|**On the $(\text{Fib} \boxtimes \text{Fib}) \rtimes S_2$ fusion category**|Maddalena Ferragatta, Balt C. van Rees|[2602.06117](https://arxiv.org/abs/2602.06117)|null|
+|**2026-02-05**|**High-Level Fault-Tolerant Abstractions for Quantum-Gate Circuit Design and Synthesis: PQC and Topological Anyon Architectures (TQC) for Categorical Computations in SU(2)_3 TQFT and D-brane Stability**|Vaidik A Sharma, Sainath Bitragunta|[2602.06089](https://arxiv.org/abs/2602.06089)|null|
 |**2026-02-05**|**Lattices from Pointed Building Sets: Generalized Ornamentation Lattices**|Andrew Sack|[2602.06004](https://arxiv.org/abs/2602.06004)|null|
 |**2026-02-05**|**Local measurements and the entanglement transition in quantum spin chains**|Sven Bachmann, Mahsa Rahnama, Gabrielle Tournaire|[2602.05914](https://arxiv.org/abs/2602.05914)|null|
 |**2026-02-05**|**Non-amenable C $^*$-superrigid groups that are not W$^*$ -superrigid**|Juan Felipe Ariza Mejía, Ionuţ Chifan, Adriana Fernández Quero|[2602.05290](https://arxiv.org/abs/2602.05290)|null|
