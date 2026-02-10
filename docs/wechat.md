@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-09, **Equivalent definitions of fusion category arising from separability**, Zhenbang Zuo, Paper: [https://arxiv.org/abs/2602.08954](https://arxiv.org/abs/2602.08954)
+- 2026-02-09, **Conformally flat factorization homology in Ind-Hilbert spaces and Conformal field theory**, Yuto Moriwaki, Paper: [https://arxiv.org/abs/2602.08729](https://arxiv.org/abs/2602.08729), 66 pages, 2 figures, comments are welcome
+- 2026-02-09, **Observation of e/4 charge at $ν=1/2$ in GaAs**, Tomer Alkalai, Emily Hajigeorgiou, Adbhut Gupta, Tapas Senapati, Priya Tiwari, Chia-Tse Tai, Siddharth Kumar Singh, Kirk W. Baldwin, Loren N. Pfeiffer, Mansour Shayegan, Mitali Banerjee, Moty Heiblum, Paper: [https://arxiv.org/abs/2602.08468](https://arxiv.org/abs/2602.08468), 13+8 pages, 3+4 figures
+- 2026-02-09, **The braided Doplicher-Roberts program and the Finkelberg-Kazhdan-Lusztig equivalence: A historical perspective, recent progress, and future directions**, Claudia Pinzari, Paper: [https://arxiv.org/abs/2602.08348](https://arxiv.org/abs/2602.08348), 29 pages, comments are welcome
+- 2026-02-09, **Variational Method for Interacting Surfaces with Higher-Form Global Symmetries**, Kiyoharu Kawana, Paper: [https://arxiv.org/abs/2602.08310](https://arxiv.org/abs/2602.08310), 42 pages, 10 figures
+- 2026-02-08, **Metric Properties: From $S$ -Divergence to Quantum Jensen Divergence**, Teng Zhang, Paper: [https://arxiv.org/abs/2602.08164](https://arxiv.org/abs/2602.08164), 22 pages. All comments are welcome!
+- 2026-02-08, **Reflection Theory of Nichols Algebras over Coquasi-Hopf Algebras with Bijective Antipode**, Bowen Li, Gongxiang Liu, Paper: [https://arxiv.org/abs/2602.07946](https://arxiv.org/abs/2602.07946), 44 pages, comments welcome
+- 2026-02-08, **Probing holographic conformal field theories**, Ming Zhang, Jiayue Yang, Dyuman Bhattacharya, Robert B. Mann, Paper: [https://arxiv.org/abs/2602.07895](https://arxiv.org/abs/2602.07895), 7 pages. Comments are welcome
+- 2026-02-08, **Quantum Evolution of Hopf Algebra Hamiltonians**, Michele Arzano, Antonio Del Prete, Domenico Frattulillo, Paper: [https://arxiv.org/abs/2602.07887](https://arxiv.org/abs/2602.07887), 18 pages, no figures
+- 2026-02-06, **Entanglement harvesting in conformal field theory**, Kelly Wurtz, Caroline Lima, Robert C. Myers, Eduardo Martín-Martínez, Paper: [https://arxiv.org/abs/2602.07112](https://arxiv.org/abs/2602.07112), 59 pages, 17 figures
 - 2026-02-06, **Charge- $4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation**, Zhengyan Darius Shi, Zhaoyu Han, Srinivas Raghu, Ashvin Vishwanath, Paper: [https://arxiv.org/abs/2602.06963](https://arxiv.org/abs/2602.06963), 6 pages, 2 figures, 24 page appendices
 - 2026-02-06, **The First Known Problem That Is FPT with Respect to Node Scanwidth but Not Treewidth**, Jannik Schestag, Norbert Zeh, Paper: [https://arxiv.org/abs/2602.06903](https://arxiv.org/abs/2602.06903)
 - 2026-02-06, **Physical properties of RhGe and CoGe single crystals synthesized under high pressure**, Shangjie Tian, Xiangjiang Dong, Bowen Zhang, Zhijun Tu, Runze Yu, Hechang Lei, Shouguo Wang, Paper: [https://arxiv.org/abs/2602.06712](https://arxiv.org/abs/2602.06712), 15 pages, 4 figures, 1 table

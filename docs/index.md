@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-02-09**|**Equivalent definitions of fusion category arising from separability**|Zhenbang Zuo|[2602.08954](https://arxiv.org/abs/2602.08954)|null|
+|**2026-02-09**|**Conformally flat factorization homology in Ind-Hilbert spaces and Conformal field theory**|Yuto Moriwaki|[2602.08729](https://arxiv.org/abs/2602.08729)|null|
+|**2026-02-09**|**Observation of e/4 charge at $ν=1/2$ in GaAs**|Tomer Alkalai, Emily Hajigeorgiou, Adbhut Gupta, Tapas Senapati, Priya Tiwari, Chia-Tse Tai, Siddharth Kumar Singh, Kirk W. Baldwin, Loren N. Pfeiffer, Mansour Shayegan, Mitali Banerjee, Moty Heiblum|[2602.08468](https://arxiv.org/abs/2602.08468)|null|
+|**2026-02-09**|**The braided Doplicher-Roberts program and the Finkelberg-Kazhdan-Lusztig equivalence: A historical perspective, recent progress, and future directions**|Claudia Pinzari|[2602.08348](https://arxiv.org/abs/2602.08348)|null|
+|**2026-02-09**|**Variational Method for Interacting Surfaces with Higher-Form Global Symmetries**|Kiyoharu Kawana|[2602.08310](https://arxiv.org/abs/2602.08310)|null|
+|**2026-02-08**|**Metric Properties: From $S$ -Divergence to Quantum Jensen Divergence**|Teng Zhang|[2602.08164](https://arxiv.org/abs/2602.08164)|null|
+|**2026-02-08**|**Reflection Theory of Nichols Algebras over Coquasi-Hopf Algebras with Bijective Antipode**|Bowen Li, Gongxiang Liu|[2602.07946](https://arxiv.org/abs/2602.07946)|null|
+|**2026-02-08**|**Probing holographic conformal field theories**|Ming Zhang, Jiayue Yang, Dyuman Bhattacharya, Robert B. Mann|[2602.07895](https://arxiv.org/abs/2602.07895)|null|
+|**2026-02-08**|**Quantum Evolution of Hopf Algebra Hamiltonians**|Michele Arzano, Antonio Del Prete, Domenico Frattulillo|[2602.07887](https://arxiv.org/abs/2602.07887)|null|
+|**2026-02-06**|**Entanglement harvesting in conformal field theory**|Kelly Wurtz, Caroline Lima, Robert C. Myers, Eduardo Martín-Martínez|[2602.07112](https://arxiv.org/abs/2602.07112)|null|
 |**2026-02-06**|**Charge- $4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation**|Zhengyan Darius Shi, Zhaoyu Han, Srinivas Raghu, Ashvin Vishwanath|[2602.06963](https://arxiv.org/abs/2602.06963)|null|
 |**2026-02-06**|**The First Known Problem That Is FPT with Respect to Node Scanwidth but Not Treewidth**|Jannik Schestag, Norbert Zeh|[2602.06903](https://arxiv.org/abs/2602.06903)|null|
 |**2026-02-06**|**Physical properties of RhGe and CoGe single crystals synthesized under high pressure**|Shangjie Tian, Xiangjiang Dong, Bowen Zhang, Zhijun Tu, Runze Yu, Hechang Lei, Shouguo Wang|[2602.06712](https://arxiv.org/abs/2602.06712)|null|
