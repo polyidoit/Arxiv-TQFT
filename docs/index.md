@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-02-10**|**Anyon Permutations in Quantum Double Models through Constant-depth Circuits**|Yabo Li, Zijian Song|[2602.10110](https://arxiv.org/abs/2602.10110)|null|
+|**2026-02-09**|**Negative Hybridization: a Potential Cure for Braiding with Imperfect Majorana Modes**|Cole Peeters, Themba Hodge, Stephan Rachel|[2602.09107](https://arxiv.org/abs/2602.09107)|null|
+|**2026-02-09**|**Generalized Families of QFTs**|T. Daniel Brennan, Kenneth Intriligator|[2602.09105](https://arxiv.org/abs/2602.09105)|null|
+|**2026-02-09**|**Average Categorical Symmetries in One-Dimensional Disordered Systems**|Yabo Li, Meng Cheng, Ruochen Ma|[2602.09083](https://arxiv.org/abs/2602.09083)|null|
 |**2026-02-09**|**Equivalent definitions of fusion category arising from separability**|Zhenbang Zuo|[2602.08954](https://arxiv.org/abs/2602.08954)|null|
 |**2026-02-09**|**Conformally flat factorization homology in Ind-Hilbert spaces and Conformal field theory**|Yuto Moriwaki|[2602.08729](https://arxiv.org/abs/2602.08729)|null|
 |**2026-02-09**|**Observation of e/4 charge at $ν=1/2$ in GaAs**|Tomer Alkalai, Emily Hajigeorgiou, Adbhut Gupta, Tapas Senapati, Priya Tiwari, Chia-Tse Tai, Siddharth Kumar Singh, Kirk W. Baldwin, Loren N. Pfeiffer, Mansour Shayegan, Mitali Banerjee, Moty Heiblum|[2602.08468](https://arxiv.org/abs/2602.08468)|null|

@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-10, **Anyon Permutations in Quantum Double Models through Constant-depth Circuits**, Yabo Li, Zijian Song, Paper: [https://arxiv.org/abs/2602.10110](https://arxiv.org/abs/2602.10110)
+- 2026-02-09, **Negative Hybridization: a Potential Cure for Braiding with Imperfect Majorana Modes**, Cole Peeters, Themba Hodge, Stephan Rachel, Paper: [https://arxiv.org/abs/2602.09107](https://arxiv.org/abs/2602.09107), 8+15 pages, 5+11 figures
+- 2026-02-09, **Generalized Families of QFTs**, T. Daniel Brennan, Kenneth Intriligator, Paper: [https://arxiv.org/abs/2602.09105](https://arxiv.org/abs/2602.09105), 55 pages, 1 figure, plus 1 appendix
+- 2026-02-09, **Average Categorical Symmetries in One-Dimensional Disordered Systems**, Yabo Li, Meng Cheng, Ruochen Ma, Paper: [https://arxiv.org/abs/2602.09083](https://arxiv.org/abs/2602.09083), 29+5 pages, 7 figures
 - 2026-02-09, **Equivalent definitions of fusion category arising from separability**, Zhenbang Zuo, Paper: [https://arxiv.org/abs/2602.08954](https://arxiv.org/abs/2602.08954)
 - 2026-02-09, **Conformally flat factorization homology in Ind-Hilbert spaces and Conformal field theory**, Yuto Moriwaki, Paper: [https://arxiv.org/abs/2602.08729](https://arxiv.org/abs/2602.08729), 66 pages, 2 figures, comments are welcome
 - 2026-02-09, **Observation of e/4 charge at $ν=1/2$ in GaAs**, Tomer Alkalai, Emily Hajigeorgiou, Adbhut Gupta, Tapas Senapati, Priya Tiwari, Chia-Tse Tai, Siddharth Kumar Singh, Kirk W. Baldwin, Loren N. Pfeiffer, Mansour Shayegan, Mitali Banerjee, Moty Heiblum, Paper: [https://arxiv.org/abs/2602.08468](https://arxiv.org/abs/2602.08468), 13+8 pages, 3+4 figures
