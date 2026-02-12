@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-11, **Iterated Hopf Ore Extensions over Group Rings**, Can Hatipoğlu, Christian Lomp, Paper: [https://arxiv.org/abs/2602.10850](https://arxiv.org/abs/2602.10850), 20 pages, comments are welcome
+- 2026-02-11, **A QFT information protocol for charged black holes**, Paolo Palumbo, Paper: [https://arxiv.org/abs/2602.10733](https://arxiv.org/abs/2602.10733)
+- 2026-02-11, **Noncommutative $L_p$ -differentiability and trace formulae**, Arup Chattopadhyay, Clément Coine, Saikat Giri, Chandan Pradhan, Paper: [https://arxiv.org/abs/2602.10694](https://arxiv.org/abs/2602.10694), 24 pages
+- 2026-02-11, **Defect structures and transitions in active nematic membranes**, Yuki Hirota, Nariya Uchida, Paper: [https://arxiv.org/abs/2602.10521](https://arxiv.org/abs/2602.10521), 8 pages, 5 figures
+- 2026-02-10, **Atomically-sharp magnetic soliton in the square-net lattice EuRhAl $_{4}$Si$_{2}$**, Kevin Allen, Juba Bouaziz, Yichen Zhang, Kai Du, Sanu Mishra, Gustav Bihlmayer, Yiqing Hao, Victor Ukleev, Chen Luo, Florin Radu, Yuxiang Gao, Marta Zonno, Sergey Gorovikov, Christopher Lane, Jian-Xin Zhu, Huibo Cao, Sang-Wook Cheong, Ming Yi, Stefan Blügel, Emilia Morosan, Paper: [https://arxiv.org/abs/2602.10281](https://arxiv.org/abs/2602.10281)
+- 2026-02-10, **Generalized Kramers-Wannier Self-Duality in Hopf-Ising Models**, Da-Chuan Lu, Arkya Chatterjee, Nathanan Tantivasadakarn, Paper: [https://arxiv.org/abs/2602.10183](https://arxiv.org/abs/2602.10183), 66+27 pages, 9 figures
 - 2026-02-10, **Anyon Permutations in Quantum Double Models through Constant-depth Circuits**, Yabo Li, Zijian Song, Paper: [https://arxiv.org/abs/2602.10110](https://arxiv.org/abs/2602.10110)
 - 2026-02-09, **Negative Hybridization: a Potential Cure for Braiding with Imperfect Majorana Modes**, Cole Peeters, Themba Hodge, Stephan Rachel, Paper: [https://arxiv.org/abs/2602.09107](https://arxiv.org/abs/2602.09107), 8+15 pages, 5+11 figures
 - 2026-02-09, **Generalized Families of QFTs**, T. Daniel Brennan, Kenneth Intriligator, Paper: [https://arxiv.org/abs/2602.09105](https://arxiv.org/abs/2602.09105), 55 pages, 1 figure, plus 1 appendix
