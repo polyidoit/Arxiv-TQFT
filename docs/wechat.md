@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-12, **Holographic Equidistribution**, Nico Cooper, Paper: [https://arxiv.org/abs/2602.12265](https://arxiv.org/abs/2602.12265)
+- 2026-02-12, **Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements**, Maine Christos, Chiu Fan Bowen Lo, Vedika Khemani, Rahul Sahay, Paper: [https://arxiv.org/abs/2602.12228](https://arxiv.org/abs/2602.12228), 36 pages total: 29 pages main + 7 pages supplemental
+- 2026-02-12, **Remarks on non-invertible symmetries on a tensor product Hilbert space in 1+1 dimensions**, Kansei Inamura, Paper: [https://arxiv.org/abs/2602.12053](https://arxiv.org/abs/2602.12053), 68 pages
+- 2026-02-12, **Two-point functions in boundary loop models**, Max Downing, Jesper Lykke Jacobsen, Rongvoram Nivesvivat, Hubert Saleur, Paper: [https://arxiv.org/abs/2602.12000](https://arxiv.org/abs/2602.12000), v1, 5 pages
+- 2026-02-12, **Melting of quantum Hall Wigner and bubble crystals**, H. Xia, Qianhui Xu, Jiasen Niu, Jian Sun, Yang Liu, L. N. Pfeiffer, K. W. West, Pengjie Wang, Bo Yang, Xi Lin, Paper: [https://arxiv.org/abs/2602.11963](https://arxiv.org/abs/2602.11963), 16 pages, 5 figures
+- 2026-02-12, **Symmetry Spans and Enforced Gaplessness**, Takamasa Ando, Kantaro Ohmori, Paper: [https://arxiv.org/abs/2602.11696](https://arxiv.org/abs/2602.11696), 20 pages, 2 figures
+- 2026-02-11, **Cauchy-Schwarz inequalities for maps in noncommutative Lp-spaces**, Giorgia Bellomonte, Stefan Ivkovic, Camillo Trapani, Paper: [https://arxiv.org/abs/2602.11371](https://arxiv.org/abs/2602.11371)
+- 2026-02-11, **The Yang-Baxter Sigma Model from Twistor Space**, Meer Ashwinkumar, Jitendra Pal, Paper: [https://arxiv.org/abs/2602.11288](https://arxiv.org/abs/2602.11288), 35 pages, 1 figure
+- 2026-02-11, **Lieb-Schultz-Mattis constraints from stratified anomalies of modulated symmetries**, Salvatore D. Pace, Daniel Bulmash, Paper: [https://arxiv.org/abs/2602.11266](https://arxiv.org/abs/2602.11266), 35 pages plus appendices
+- 2026-02-11, **Quantum computing with anyons is fault tolerant**, Anasuya Lyons, Benjamin J. Brown, Paper: [https://arxiv.org/abs/2602.11258](https://arxiv.org/abs/2602.11258), 7 + 11 pages, 3 + 7 figures
 - 2026-02-11, **Iterated Hopf Ore Extensions over Group Rings**, Can Hatipoğlu, Christian Lomp, Paper: [https://arxiv.org/abs/2602.10850](https://arxiv.org/abs/2602.10850), 20 pages, comments are welcome
 - 2026-02-11, **A QFT information protocol for charged black holes**, Paolo Palumbo, Paper: [https://arxiv.org/abs/2602.10733](https://arxiv.org/abs/2602.10733)
 - 2026-02-11, **Noncommutative $L_p$ -differentiability and trace formulae**, Arup Chattopadhyay, Clément Coine, Saikat Giri, Chandan Pradhan, Paper: [https://arxiv.org/abs/2602.10694](https://arxiv.org/abs/2602.10694), 24 pages

@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-02-12**|**Holographic Equidistribution**|Nico Cooper|[2602.12265](https://arxiv.org/abs/2602.12265)|null|
+|**2026-02-12**|**Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements**|Maine Christos, Chiu Fan Bowen Lo, Vedika Khemani, Rahul Sahay|[2602.12228](https://arxiv.org/abs/2602.12228)|null|
+|**2026-02-12**|**Remarks on non-invertible symmetries on a tensor product Hilbert space in 1+1 dimensions**|Kansei Inamura|[2602.12053](https://arxiv.org/abs/2602.12053)|null|
+|**2026-02-12**|**Two-point functions in boundary loop models**|Max Downing, Jesper Lykke Jacobsen, Rongvoram Nivesvivat, Hubert Saleur|[2602.12000](https://arxiv.org/abs/2602.12000)|null|
+|**2026-02-12**|**Melting of quantum Hall Wigner and bubble crystals**|H. Xia, Qianhui Xu, Jiasen Niu, Jian Sun, Yang Liu, L. N. Pfeiffer, K. W. West, Pengjie Wang, Bo Yang, Xi Lin|[2602.11963](https://arxiv.org/abs/2602.11963)|null|
+|**2026-02-12**|**Symmetry Spans and Enforced Gaplessness**|Takamasa Ando, Kantaro Ohmori|[2602.11696](https://arxiv.org/abs/2602.11696)|null|
+|**2026-02-11**|**Cauchy-Schwarz inequalities for maps in noncommutative Lp-spaces**|Giorgia Bellomonte, Stefan Ivkovic, Camillo Trapani|[2602.11371](https://arxiv.org/abs/2602.11371)|null|
+|**2026-02-11**|**The Yang-Baxter Sigma Model from Twistor Space**|Meer Ashwinkumar, Jitendra Pal|[2602.11288](https://arxiv.org/abs/2602.11288)|null|
+|**2026-02-11**|**Lieb-Schultz-Mattis constraints from stratified anomalies of modulated symmetries**|Salvatore D. Pace, Daniel Bulmash|[2602.11266](https://arxiv.org/abs/2602.11266)|null|
+|**2026-02-11**|**Quantum computing with anyons is fault tolerant**|Anasuya Lyons, Benjamin J. Brown|[2602.11258](https://arxiv.org/abs/2602.11258)|null|
 |**2026-02-11**|**Iterated Hopf Ore Extensions over Group Rings**|Can Hatipoğlu, Christian Lomp|[2602.10850](https://arxiv.org/abs/2602.10850)|null|
 |**2026-02-11**|**A QFT information protocol for charged black holes**|Paolo Palumbo|[2602.10733](https://arxiv.org/abs/2602.10733)|null|
 |**2026-02-11**|**Noncommutative $L_p$ -differentiability and trace formulae**|Arup Chattopadhyay, Clément Coine, Saikat Giri, Chandan Pradhan|[2602.10694](https://arxiv.org/abs/2602.10694)|null|
