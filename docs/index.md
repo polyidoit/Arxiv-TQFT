@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-02-13**|**Matter-induced plaquette terms in a $\mathbb{Z}_2$ lattice gauge theory**|Matjaž Kebrič, Fabian Döschl, Umberto Borla, Jad C. Halimeh, Ulrich Schollwöck, Annabelle Bohrdt, Fabian Grusdt|[2602.13192](https://arxiv.org/abs/2602.13192)|null|
+|**2026-02-13**|**Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional $\mathbb{Z}_N$ lattice gauge theory**|Adwait Naravane, Yuto Sugimoto, Shinichiro Akiyama, Jutho Haegeman, Atsushi Ueda|[2602.13124](https://arxiv.org/abs/2602.13124)|null|
+|**2026-02-13**|**Viscous vertex model for active epithelial tissues**|Shao-Zhen Lin, Sham Tlili, Jean-François Rupprecht|[2602.13049](https://arxiv.org/abs/2602.13049)|null|
+|**2026-02-13**|**Quantum logic control and entanglement in hybrid atom-molecule arrays**|Chi Zhang, Sara Murciano, Nathanan Tantivasadakarn, Ran Finkelstein|[2602.12909](https://arxiv.org/abs/2602.12909)|null|
+|**2026-02-13**|**Monoidal invariance of the cohomological dimension of Hopf algebras: the finite case**|Julien Bichon|[2602.12731](https://arxiv.org/abs/2602.12731)|null|
+|**2026-02-13**|**Floquet implementation of a 3d fermionic toric code with full logical code space**|Yoshito Watanabe, Bianca Bannenberg, Simon Trebst|[2602.12685](https://arxiv.org/abs/2602.12685)|null|
+|**2026-02-13**|**Topology and edge modes surviving criticality in non-Hermitian Floquet systems**|Longwen Zhou|[2602.12588](https://arxiv.org/abs/2602.12588)|null|
+|**2026-02-13**|**Strain-enhanced edge ferromagnetism and bipolar magnetic semiconducting behavior in Janus graphene nanoribbons**|Ran Liu, Hongxing Liu, Junfeng Ren, Tianxing Ma|[2602.12582](https://arxiv.org/abs/2602.12582)|null|
+|**2026-02-13**|**Bicovariant Codifferential Calculi**|Andrzej Borowiec, Patryk Mieszkalski|[2602.12493](https://arxiv.org/abs/2602.12493)|null|
+|**2026-02-12**|**Chern-Simons factorization algebras and knot polynomials**|Kevin Costello, John Francis, Owen Gwilliam|[2602.12412](https://arxiv.org/abs/2602.12412)|null|
 |**2026-02-12**|**Holographic Equidistribution**|Nico Cooper|[2602.12265](https://arxiv.org/abs/2602.12265)|null|
 |**2026-02-12**|**Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements**|Maine Christos, Chiu Fan Bowen Lo, Vedika Khemani, Rahul Sahay|[2602.12228](https://arxiv.org/abs/2602.12228)|null|
 |**2026-02-12**|**Remarks on non-invertible symmetries on a tensor product Hilbert space in 1+1 dimensions**|Kansei Inamura|[2602.12053](https://arxiv.org/abs/2602.12053)|null|

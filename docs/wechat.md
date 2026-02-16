@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-13, **Matter-induced plaquette terms in a $\mathbb{Z}_2$ lattice gauge theory**, Matjaž Kebrič, Fabian Döschl, Umberto Borla, Jad C. Halimeh, Ulrich Schollwöck, Annabelle Bohrdt, Fabian Grusdt, Paper: [https://arxiv.org/abs/2602.13192](https://arxiv.org/abs/2602.13192), 8 + 8 pages, 3 + 6 figures
+- 2026-02-13, **Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional $\mathbb{Z}_N$ lattice gauge theory**, Adwait Naravane, Yuto Sugimoto, Shinichiro Akiyama, Jutho Haegeman, Atsushi Ueda, Paper: [https://arxiv.org/abs/2602.13124](https://arxiv.org/abs/2602.13124)
+- 2026-02-13, **Viscous vertex model for active epithelial tissues**, Shao-Zhen Lin, Sham Tlili, Jean-François Rupprecht, Paper: [https://arxiv.org/abs/2602.13049](https://arxiv.org/abs/2602.13049)
+- 2026-02-13, **Quantum logic control and entanglement in hybrid atom-molecule arrays**, Chi Zhang, Sara Murciano, Nathanan Tantivasadakarn, Ran Finkelstein, Paper: [https://arxiv.org/abs/2602.12909](https://arxiv.org/abs/2602.12909)
+- 2026-02-13, **Monoidal invariance of the cohomological dimension of Hopf algebras: the finite case**, Julien Bichon, Paper: [https://arxiv.org/abs/2602.12731](https://arxiv.org/abs/2602.12731)
+- 2026-02-13, **Floquet implementation of a 3d fermionic toric code with full logical code space**, Yoshito Watanabe, Bianca Bannenberg, Simon Trebst, Paper: [https://arxiv.org/abs/2602.12685](https://arxiv.org/abs/2602.12685), 12 pages, 9 figures
+- 2026-02-13, **Topology and edge modes surviving criticality in non-Hermitian Floquet systems**, Longwen Zhou, Paper: [https://arxiv.org/abs/2602.12588](https://arxiv.org/abs/2602.12588), 8 pages, 6 figures, manuscript submitted on 05 Dec 2025
+- 2026-02-13, **Strain-enhanced edge ferromagnetism and bipolar magnetic semiconducting behavior in Janus graphene nanoribbons**, Ran Liu, Hongxing Liu, Junfeng Ren, Tianxing Ma, Paper: [https://arxiv.org/abs/2602.12582](https://arxiv.org/abs/2602.12582), Accepted for publication in publication in Physical Review B
+- 2026-02-13, **Bicovariant Codifferential Calculi**, Andrzej Borowiec, Patryk Mieszkalski, Paper: [https://arxiv.org/abs/2602.12493](https://arxiv.org/abs/2602.12493), 43 pages, comments welcome!
+- 2026-02-12, **Chern-Simons factorization algebras and knot polynomials**, Kevin Costello, John Francis, Owen Gwilliam, Paper: [https://arxiv.org/abs/2602.12412](https://arxiv.org/abs/2602.12412), 75 pages; preliminary version, comments welcome
 - 2026-02-12, **Holographic Equidistribution**, Nico Cooper, Paper: [https://arxiv.org/abs/2602.12265](https://arxiv.org/abs/2602.12265)
 - 2026-02-12, **Non-Abelian Quantum Low-Density Parity Check Codes and Non-Clifford Operations from Gauging Logical Gates via Measurements**, Maine Christos, Chiu Fan Bowen Lo, Vedika Khemani, Rahul Sahay, Paper: [https://arxiv.org/abs/2602.12228](https://arxiv.org/abs/2602.12228), 36 pages total: 29 pages main + 7 pages supplemental
 - 2026-02-12, **Remarks on non-invertible symmetries on a tensor product Hilbert space in 1+1 dimensions**, Kansei Inamura, Paper: [https://arxiv.org/abs/2602.12053](https://arxiv.org/abs/2602.12053), 68 pages
