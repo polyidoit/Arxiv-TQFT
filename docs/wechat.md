@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-16, **3d Conformal Field Theories via Fuzzy Sphere Algebra**, Luisa Eck, Zhenghan Wang, Paper: [https://arxiv.org/abs/2602.15025](https://arxiv.org/abs/2602.15025)
+- 2026-02-16, **Variational preparation and characterization of chiral spin liquids in quantum circuits**, Zi-Yang Zhang, Donghoon Kim, Ji-Yao Chen, Paper: [https://arxiv.org/abs/2602.14769](https://arxiv.org/abs/2602.14769), 19 pages, 15 figures
+- 2026-02-16, **A Unified Mathematical Framework for Distributed Data Fabrics: Categorical Hypergraph Models**, T. Shaska, I. Kotsireas, Paper: [https://arxiv.org/abs/2602.14708](https://arxiv.org/abs/2602.14708)
+- 2026-02-16, **Kakeya conjecture and High-Rank Lattice von Neumann algebras**, Mikael de la Salle, Paper: [https://arxiv.org/abs/2602.14623](https://arxiv.org/abs/2602.14623)
+- 2026-02-15, **Composite Boson Theory of Fractional Chern Insulators**, Guangyu Yu, Zheng Zhu, Paper: [https://arxiv.org/abs/2602.14184](https://arxiv.org/abs/2602.14184), 5 pages, 2 figures
+- 2026-02-15, **Conjugacy co-amenability**, Mehrdad Kalantar, Srivatsav Kunnawalkam Elayavalli, Paper: [https://arxiv.org/abs/2602.14176](https://arxiv.org/abs/2602.14176), 10 pages. Comments welcome
+- 2026-02-15, **Resummation of small-spin singularities in anomalous dimensions of twist-two operators**, Alexander N. Manashov, Sven-Olaf Moch, Leonid A. Shumilov, Paper: [https://arxiv.org/abs/2602.14149](https://arxiv.org/abs/2602.14149), 10 pages. RADCOR 2025 proceedings
+- 2026-02-14, **PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training**, Yuhan Cheng, Hancheng Ye, Hai Helen Li, Jingwei Sun, Yiran Chen, Paper: [https://arxiv.org/abs/2602.13840](https://arxiv.org/abs/2602.13840)
+- 2026-02-14, **Defect relative entropy in symmetric orbifold CFTs**, Mostafa Ghasemi, Paper: [https://arxiv.org/abs/2602.13782](https://arxiv.org/abs/2602.13782), 22 pages
+- 2026-02-14, **Interplay between non-Fermi liquid and non-Hermiticity: A multi-method study of non-Hermitian multichannel Kondo model**, Wei-Zhu Yi, Yun Chen, Jun-Jun Pang, Hong Chen, Baigeng Wang, Rui Wang, Paper: [https://arxiv.org/abs/2602.13749](https://arxiv.org/abs/2602.13749)
 - 2026-02-13, **Matter-induced plaquette terms in a $\mathbb{Z}_2$ lattice gauge theory**, Matjaž Kebrič, Fabian Döschl, Umberto Borla, Jad C. Halimeh, Ulrich Schollwöck, Annabelle Bohrdt, Fabian Grusdt, Paper: [https://arxiv.org/abs/2602.13192](https://arxiv.org/abs/2602.13192), 8 + 8 pages, 3 + 6 figures
 - 2026-02-13, **Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional $\mathbb{Z}_N$ lattice gauge theory**, Adwait Naravane, Yuto Sugimoto, Shinichiro Akiyama, Jutho Haegeman, Atsushi Ueda, Paper: [https://arxiv.org/abs/2602.13124](https://arxiv.org/abs/2602.13124)
 - 2026-02-13, **Viscous vertex model for active epithelial tissues**, Shao-Zhen Lin, Sham Tlili, Jean-François Rupprecht, Paper: [https://arxiv.org/abs/2602.13049](https://arxiv.org/abs/2602.13049)
