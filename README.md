@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Temperley-Lieb modules and local operators for critical ADE models**|Yacine Ikhlef, Alexi Morin-Duchesne|[2602.15742](https://arxiv.org/abs/2602.15742)|null|
+|**2026-02-17**|**Thermodynamic Topology of 4D Charged AdS Black Holes with $F^{αβ}F^{γλ}R_{αγβλ}$ Coupling**|Mehdi Sadeghi, Faramarz Rahmani|[2602.15714](https://arxiv.org/abs/2602.15714)|null|
+|**2026-02-17**|**Electric-field-tuned consecutive topological phase transitions between distinct correlated insulators in moire MoTe2/WSe2 heterobilayer**|Xumin Chang, Zui Tao, Bowen Shen, Wanghao Tian, Jenny Hu, Kateryna Pistunova, Kenji Watanabe, Takashi Taniguchi, Tony F. Heinz, Tingxin Li, Kin Fai Mak, Jie Shan, Shengwei Jiang|[2602.15466](https://arxiv.org/abs/2602.15466)|null|
+|**2026-02-17**|**Effects of quenched disorder in three-dimensional lattice ${\mathbb Z}_2$ gauge Higgs models**|Claudio Bonati, Ettore Vicari|[2602.15418](https://arxiv.org/abs/2602.15418)|null|
+|**2026-02-17**|**Realizing a Universal Quantum Gate Set via Double-Braiding of SU(2)k Anyon Models**|Jiangwei Long, Zihui Liu, Yizhi Li, Jianxin Zhong, Lijun Meng|[2602.15324](https://arxiv.org/abs/2602.15324)|null|
+|**2026-02-17**|**Sparse Additive Model Pruning for Order-Based Causal Structure Learning**|Kentaro Kanamori, Hirofumi Suzuki, Takuya Takagi|[2602.15306](https://arxiv.org/abs/2602.15306)|null|
+|**2026-02-16**|**Inhomogeneous quenches and GHD in the $ν= 1$ QSSEP model**|Angelo Russotto, Filiberto Ares, Pasquale Calabrese, Vincenzo Alba|[2602.15122](https://arxiv.org/abs/2602.15122)|null|
 |**2026-02-16**|**3d Conformal Field Theories via Fuzzy Sphere Algebra**|Luisa Eck, Zhenghan Wang|[2602.15025](https://arxiv.org/abs/2602.15025)|null|
 |**2026-02-16**|**Variational preparation and characterization of chiral spin liquids in quantum circuits**|Zi-Yang Zhang, Donghoon Kim, Ji-Yao Chen|[2602.14769](https://arxiv.org/abs/2602.14769)|null|
 |**2026-02-16**|**A Unified Mathematical Framework for Distributed Data Fabrics: Categorical Hypergraph Models**|T. Shaska, I. Kotsireas|[2602.14708](https://arxiv.org/abs/2602.14708)|null|
