@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Entanglement negativity in decohered topological states**|Kang-Le Cai, Meng Cheng|[2602.16597](https://arxiv.org/abs/2602.16597)|null|
+|**2026-02-18**|**M2-branes, Higher Form Symmetries and 1-Gerbes**|Fabián Caro-Pérez, María Pilar García del Moral, Álvaro Restuccia|[2602.16582](https://arxiv.org/abs/2602.16582)|null|
+|**2026-02-18**|**Hidden universality in dislocation-loops mediated three-dimensional crystal melting**|Alessio Zaccone, Konrad Samwer|[2602.16390](https://arxiv.org/abs/2602.16390)|null|
 |**2026-02-17**|**Temperley-Lieb modules and local operators for critical ADE models**|Yacine Ikhlef, Alexi Morin-Duchesne|[2602.15742](https://arxiv.org/abs/2602.15742)|null|
 |**2026-02-17**|**Thermodynamic Topology of 4D Charged AdS Black Holes with $F^{αβ}F^{γλ}R_{αγβλ}$ Coupling**|Mehdi Sadeghi, Faramarz Rahmani|[2602.15714](https://arxiv.org/abs/2602.15714)|null|
 |**2026-02-17**|**Electric-field-tuned consecutive topological phase transitions between distinct correlated insulators in moire MoTe2/WSe2 heterobilayer**|Xumin Chang, Zui Tao, Bowen Shen, Wanghao Tian, Jenny Hu, Kateryna Pistunova, Kenji Watanabe, Takashi Taniguchi, Tony F. Heinz, Tingxin Li, Kin Fai Mak, Jie Shan, Shengwei Jiang|[2602.15466](https://arxiv.org/abs/2602.15466)|null|
