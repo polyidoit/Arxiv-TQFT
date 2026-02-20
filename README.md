@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**3D Gravity and Chaos in CFTs with Fermions**|Jan Boruch, Elisa Tabor, Gustavo J. Turiaci|[2602.17618](https://arxiv.org/abs/2602.17618)|null|
+|**2026-02-19**|**Banach fixed point and flow approach for rough analysis**|Yvain Bruned, Yingtong Hou, Paul Laubie, Zhicheng Zhu|[2602.17437](https://arxiv.org/abs/2602.17437)|null|
+|**2026-02-19**|**Matrix-product operator dualities in integrable lattice models**|Yuan Miao, Andras Molnar, Nick G. Jones|[2602.17436](https://arxiv.org/abs/2602.17436)|null|
+|**2026-02-19**|**Phase transitions in coupled Ising chains and SO( $N$ )-symmetric spin chains**|Yohei Fuji, Sylvain Capponi, Lukas Devos, Philippe Lecheminant|[2602.17029](https://arxiv.org/abs/2602.17029)|null|
+|**2026-02-18**|**Entropic Barriers and the Kinetic Suppression of Topological Defects**|Yi-Lin Tsao, Zhu-Xi Luo|[2602.16777](https://arxiv.org/abs/2602.16777)|null|
+|**2026-02-18**|**From Multipartite Entanglement to TQFT**|Michele Del Zotto, Abhijit Gadde, Pavel Putrov|[2602.16770](https://arxiv.org/abs/2602.16770)|null|
 |**2026-02-18**|**Entanglement negativity in decohered topological states**|Kang-Le Cai, Meng Cheng|[2602.16597](https://arxiv.org/abs/2602.16597)|null|
 |**2026-02-18**|**M2-branes, Higher Form Symmetries and 1-Gerbes**|Fabián Caro-Pérez, María Pilar García del Moral, Álvaro Restuccia|[2602.16582](https://arxiv.org/abs/2602.16582)|null|
 |**2026-02-18**|**Hidden universality in dislocation-loops mediated three-dimensional crystal melting**|Alessio Zaccone, Konrad Samwer|[2602.16390](https://arxiv.org/abs/2602.16390)|null|
