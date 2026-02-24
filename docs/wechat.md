@@ -1,4 +1,4 @@
-> Automatically updated on 2026.02.23
+> Automatically updated on 2026.02.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-20, **Quantum relations in the general setting: composition and adjacency operators**, Matthew Daws, Paper: [https://arxiv.org/abs/2602.18361](https://arxiv.org/abs/2602.18361), 38 pages; Comments very welcome
+- 2026-02-20, **A contour for the entanglement negativity of bosonic Gaussian states**, Gioele Zambotti, Erik Tonni, Paper: [https://arxiv.org/abs/2602.18099](https://arxiv.org/abs/2602.18099), 62 pages, 14 figures
+- 2026-02-20, **Renormalized pseudoentropy in dS/CFT**, Giorgos Anastasiou, Ignacio J. Araya, Avijit Das, Javier Moreno, Paper: [https://arxiv.org/abs/2602.17989](https://arxiv.org/abs/2602.17989), 41 pages, 5 figures
+- 2026-02-19, **Scaling invariance: a bridge between geometry, dynamics and criticality**, Edson D. Leonel, Diego F. M. Oliveira, Paper: [https://arxiv.org/abs/2602.17839](https://arxiv.org/abs/2602.17839)
 - 2026-02-19, **3D Gravity and Chaos in CFTs with Fermions**, Jan Boruch, Elisa Tabor, Gustavo J. Turiaci, Paper: [https://arxiv.org/abs/2602.17618](https://arxiv.org/abs/2602.17618), 67 pages + appendix, 10 figures
 - 2026-02-19, **Banach fixed point and flow approach for rough analysis**, Yvain Bruned, Yingtong Hou, Paul Laubie, Zhicheng Zhu, Paper: [https://arxiv.org/abs/2602.17437](https://arxiv.org/abs/2602.17437)
 - 2026-02-19, **Matrix-product operator dualities in integrable lattice models**, Yuan Miao, Andras Molnar, Nick G. Jones, Paper: [https://arxiv.org/abs/2602.17436](https://arxiv.org/abs/2602.17436)
@@ -1063,5 +1067,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 

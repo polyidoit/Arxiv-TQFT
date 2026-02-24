@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.02.23
+> Automatically updated on 2026.02.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Quantum relations in the general setting: composition and adjacency operators**|Matthew Daws|[2602.18361](https://arxiv.org/abs/2602.18361)|null|
+|**2026-02-20**|**A contour for the entanglement negativity of bosonic Gaussian states**|Gioele Zambotti, Erik Tonni|[2602.18099](https://arxiv.org/abs/2602.18099)|null|
+|**2026-02-20**|**Renormalized pseudoentropy in dS/CFT**|Giorgos Anastasiou, Ignacio J. Araya, Avijit Das, Javier Moreno|[2602.17989](https://arxiv.org/abs/2602.17989)|null|
+|**2026-02-19**|**Scaling invariance: a bridge between geometry, dynamics and criticality**|Edson D. Leonel, Diego F. M. Oliveira|[2602.17839](https://arxiv.org/abs/2602.17839)|null|
 |**2026-02-19**|**3D Gravity and Chaos in CFTs with Fermions**|Jan Boruch, Elisa Tabor, Gustavo J. Turiaci|[2602.17618](https://arxiv.org/abs/2602.17618)|null|
 |**2026-02-19**|**Banach fixed point and flow approach for rough analysis**|Yvain Bruned, Yingtong Hou, Paul Laubie, Zhicheng Zhu|[2602.17437](https://arxiv.org/abs/2602.17437)|null|
 |**2026-02-19**|**Matrix-product operator dualities in integrable lattice models**|Yuan Miao, Andras Molnar, Nick G. Jones|[2602.17436](https://arxiv.org/abs/2602.17436)|null|
@@ -1862,5 +1866,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
