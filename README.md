@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**|Zijian Liang, Yu-An Chen|[2602.20158](https://arxiv.org/abs/2602.20158)|null|
+|**2026-02-23**|**Haag Duality in the Thermal Sector**|Stefano Galanda, Leonardo Sangaletti|[2602.20006](https://arxiv.org/abs/2602.20006)|null|
+|**2026-02-23**|**Axially symmetric wormholes**|I. A. Sarmiento-Alvarado, Leonel Bixano, Tonatiuh Matos|[2602.19975](https://arxiv.org/abs/2602.19975)|null|
+|**2026-02-23**|**Effective Hamiltonians and Wilson--Polchinski renormalisation**|Ricky Li, Benoit Vicedo|[2602.19880](https://arxiv.org/abs/2602.19880)|null|
+|**2026-02-23**|**Separation of the Kibble-Zurek Mechanism from Quantum Criticality**|R. Jafari, Alireza Akbari|[2602.19865](https://arxiv.org/abs/2602.19865)|null|
+|**2026-02-23**|**Rotational anisotropy Raman spectrometer for high-sensitivity crystallographic symmetry analysis**|Di Cheng, Junxiang Li, Shizhuo Luo, Zehao Chen, Xinwei Li|[2602.19617](https://arxiv.org/abs/2602.19617)|null|
+|**2026-02-23**|**Calderbank-Shor-Steane codes on group-valued qudits**|Ben T. McDonough, Jian-Hao Zhang, Victor V. Albert, Andrew Lucas|[2602.19558](https://arxiv.org/abs/2602.19558)|null|
+|**2026-02-22**|**Self-correction phase transition in the dissipative toric code**|Sanjeev Kumar, Hendrik Weimer|[2602.19288](https://arxiv.org/abs/2602.19288)|null|
+|**2026-02-22**|**Orlicz Space Interpolation and Its Applications to Operator Convolution**|Wolfram Bauer, Robert Fulsche, Joachim Toft|[2602.19164](https://arxiv.org/abs/2602.19164)|null|
+|**2026-02-20**|**Scaling solutions for varying tension strings**|C. S. C. M. Coelho, A. -L. Y. Gschrey, C. J. A. P. Martins|[2602.18586](https://arxiv.org/abs/2602.18586)|null|
 |**2026-02-20**|**Quantum relations in the general setting: composition and adjacency operators**|Matthew Daws|[2602.18361](https://arxiv.org/abs/2602.18361)|null|
 |**2026-02-20**|**A contour for the entanglement negativity of bosonic Gaussian states**|Gioele Zambotti, Erik Tonni|[2602.18099](https://arxiv.org/abs/2602.18099)|null|
 |**2026-02-20**|**Renormalized pseudoentropy in dS/CFT**|Giorgos Anastasiou, Ignacio J. Araya, Avijit Das, Javier Moreno|[2602.17989](https://arxiv.org/abs/2602.17989)|null|

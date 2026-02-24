@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-23, **Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**, Zijian Liang, Yu-An Chen, Paper: [https://arxiv.org/abs/2602.20158](https://arxiv.org/abs/2602.20158), 9+1 pages, 4 figures
+- 2026-02-23, **Haag Duality in the Thermal Sector**, Stefano Galanda, Leonardo Sangaletti, Paper: [https://arxiv.org/abs/2602.20006](https://arxiv.org/abs/2602.20006)
+- 2026-02-23, **Axially symmetric wormholes**, I. A. Sarmiento-Alvarado, Leonel Bixano, Tonatiuh Matos, Paper: [https://arxiv.org/abs/2602.19975](https://arxiv.org/abs/2602.19975)
+- 2026-02-23, **Effective Hamiltonians and Wilson--Polchinski renormalisation**, Ricky Li, Benoit Vicedo, Paper: [https://arxiv.org/abs/2602.19880](https://arxiv.org/abs/2602.19880), 86 pages, 3 figures
+- 2026-02-23, **Separation of the Kibble-Zurek Mechanism from Quantum Criticality**, R. Jafari, Alireza Akbari, Paper: [https://arxiv.org/abs/2602.19865](https://arxiv.org/abs/2602.19865)
+- 2026-02-23, **Rotational anisotropy Raman spectrometer for high-sensitivity crystallographic symmetry analysis**, Di Cheng, Junxiang Li, Shizhuo Luo, Zehao Chen, Xinwei Li, Paper: [https://arxiv.org/abs/2602.19617](https://arxiv.org/abs/2602.19617), 24 pages, 5 figures
+- 2026-02-23, **Calderbank-Shor-Steane codes on group-valued qudits**, Ben T. McDonough, Jian-Hao Zhang, Victor V. Albert, Andrew Lucas, Paper: [https://arxiv.org/abs/2602.19558](https://arxiv.org/abs/2602.19558), 44 pages, 17 figures
+- 2026-02-22, **Self-correction phase transition in the dissipative toric code**, Sanjeev Kumar, Hendrik Weimer, Paper: [https://arxiv.org/abs/2602.19288](https://arxiv.org/abs/2602.19288), 6 pages, 5 figures
+- 2026-02-22, **Orlicz Space Interpolation and Its Applications to Operator Convolution**, Wolfram Bauer, Robert Fulsche, Joachim Toft, Paper: [https://arxiv.org/abs/2602.19164](https://arxiv.org/abs/2602.19164), 26 pages
+- 2026-02-20, **Scaling solutions for varying tension strings**, C. S. C. M. Coelho, A. -L. Y. Gschrey, C. J. A. P. Martins, Paper: [https://arxiv.org/abs/2602.18586](https://arxiv.org/abs/2602.18586), 14 pages, 5 figures; Phys. Rev. D (in press)
 - 2026-02-20, **Quantum relations in the general setting: composition and adjacency operators**, Matthew Daws, Paper: [https://arxiv.org/abs/2602.18361](https://arxiv.org/abs/2602.18361), 38 pages; Comments very welcome
 - 2026-02-20, **A contour for the entanglement negativity of bosonic Gaussian states**, Gioele Zambotti, Erik Tonni, Paper: [https://arxiv.org/abs/2602.18099](https://arxiv.org/abs/2602.18099), 62 pages, 14 figures
 - 2026-02-20, **Renormalized pseudoentropy in dS/CFT**, Giorgos Anastasiou, Ignacio J. Araya, Avijit Das, Javier Moreno, Paper: [https://arxiv.org/abs/2602.17989](https://arxiv.org/abs/2602.17989), 41 pages, 5 figures
