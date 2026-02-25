@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**On the Semi-Abelianness of Affine Group Schemes**|David Forsman|[2602.21060](https://arxiv.org/abs/2602.21060)|null|
+|**2026-02-24**|**RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**|Yichen Xie, Chensheng Peng, Mazen Abdelfattah, Yihan Hu, Jiezhi Yang, Eric Higgins, Ryan Brigden, Masayoshi Tomizuka, Wei Zhan|[2602.20685](https://arxiv.org/abs/2602.20685)|null|
+|**2026-02-24**|**Symmetric Rota-Baxter systems and applications**|Chan Zhao, Haiying Li, Tianshui Ma|[2602.20631](https://arxiv.org/abs/2602.20631)|null|
+|**2026-02-24**|**Non-Clifford symmetry protected topological higher-order cluster states in multi-qubit measurement-based quantum computation**|Motohiko Ezawa|[2602.20612](https://arxiv.org/abs/2602.20612)|null|
+|**2026-02-23**|**Revealing Pseudo-Fermionization and Chiral Binding of One-Dimensional Anyons using Adiabatic State Preparation**|Brice Bakkali-Hassani, Joyce Kwan, Perrin Segura, Yanfei Li, Isaac Tesfaye, Gerard Valentí-Rojas, André Eckardt, Markus Greiner|[2602.20421](https://arxiv.org/abs/2602.20421)|null|
+|**2026-02-23**|**Null fluid/gravity correspondence**|Jay Armas, Emil Have, Gianbattista-Piero Nicosia|[2602.20268](https://arxiv.org/abs/2602.20268)|null|
+|**2026-02-23**|**Qubit Noise Spectroscopy of Superconducting Dynamics in a Magnetic Field**|Jiajie Cheng, Jaewon Kim, Oriana K. Diessel, Chong Zu, Shubhayu Chatterjee|[2602.20265](https://arxiv.org/abs/2602.20265)|null|
 |**2026-02-23**|**Generalized $\mathbb{Z}_p$ toric codes as qudit low-density parity-check codes**|Zijian Liang, Yu-An Chen|[2602.20158](https://arxiv.org/abs/2602.20158)|null|
 |**2026-02-23**|**Haag Duality in the Thermal Sector**|Stefano Galanda, Leonardo Sangaletti|[2602.20006](https://arxiv.org/abs/2602.20006)|null|
 |**2026-02-23**|**Axially symmetric wormholes**|I. A. Sarmiento-Alvarado, Leonel Bixano, Tonatiuh Matos|[2602.19975](https://arxiv.org/abs/2602.19975)|null|
