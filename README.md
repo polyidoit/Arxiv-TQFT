@@ -15,8 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Quantum criticality in open quantum systems from the purification perspective**|Yuchen Guo, Shuo Yang|[2602.21979](https://arxiv.org/abs/2602.21979)|null|
+|**2026-02-25**|**Holographic CFT Phase Transitions and Criticality for Einstein-Maxwell-Power-Yang-Mills AdS Black Holes**|Mohammad Reza Alipour, Mohammad Ali S. Afshar, Saeed Noori Gashti, Behnam Pourhassan|[2602.21930](https://arxiv.org/abs/2602.21930)|null|
+|**2026-02-25**|**Note on the Hopf-algebra-based formula of Yang-Mills-Scalar amplitudes**|Jiexi Liu, Yi-Jian Du|[2602.21621](https://arxiv.org/abs/2602.21621)|null|
 |**2026-02-24**|**On the Semi-Abelianness of Affine Group Schemes**|David Forsman|[2602.21060](https://arxiv.org/abs/2602.21060)|null|
-|**2026-02-24**|**RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**|Yichen Xie, Chensheng Peng, Mazen Abdelfattah, Yihan Hu, Jiezhi Yang, Eric Higgins, Ryan Brigden, Masayoshi Tomizuka, Wei Zhan|[2602.20685](https://arxiv.org/abs/2602.20685)|null|
+|**2026-02-25**|**RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space**|Yichen Xie, Chensheng Peng, Mazen Abdelfattah, Yihan Hu, Jiezhi Yang, Eric Higgins, Ryan Brigden, Masayoshi Tomizuka, Wei Zhan|[2602.20685](https://arxiv.org/abs/2602.20685)|null|
 |**2026-02-24**|**Symmetric Rota-Baxter systems and applications**|Chan Zhao, Haiying Li, Tianshui Ma|[2602.20631](https://arxiv.org/abs/2602.20631)|null|
 |**2026-02-24**|**Non-Clifford symmetry protected topological higher-order cluster states in multi-qubit measurement-based quantum computation**|Motohiko Ezawa|[2602.20612](https://arxiv.org/abs/2602.20612)|null|
 |**2026-02-23**|**Revealing Pseudo-Fermionization and Chiral Binding of One-Dimensional Anyons using Adiabatic State Preparation**|Brice Bakkali-Hassani, Joyce Kwan, Perrin Segura, Yanfei Li, Isaac Tesfaye, Gerard Valentí-Rojas, André Eckardt, Markus Greiner|[2602.20421](https://arxiv.org/abs/2602.20421)|null|

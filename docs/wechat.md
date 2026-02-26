@@ -9,8 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-25, **Quantum criticality in open quantum systems from the purification perspective**, Yuchen Guo, Shuo Yang, Paper: [https://arxiv.org/abs/2602.21979](https://arxiv.org/abs/2602.21979), 24 pages, 10 figures
+- 2026-02-25, **Holographic CFT Phase Transitions and Criticality for Einstein-Maxwell-Power-Yang-Mills AdS Black Holes**, Mohammad Reza Alipour, Mohammad Ali S. Afshar, Saeed Noori Gashti, Behnam Pourhassan, Paper: [https://arxiv.org/abs/2602.21930](https://arxiv.org/abs/2602.21930), 20 pages, 6 figures
+- 2026-02-25, **Note on the Hopf-algebra-based formula of Yang-Mills-Scalar amplitudes**, Jiexi Liu, Yi-Jian Du, Paper: [https://arxiv.org/abs/2602.21621](https://arxiv.org/abs/2602.21621), 28 pages
 - 2026-02-24, **On the Semi-Abelianness of Affine Group Schemes**, David Forsman, Paper: [https://arxiv.org/abs/2602.21060](https://arxiv.org/abs/2602.21060), 7 pages, 4 commutative diagrams
-- 2026-02-24, **RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**, Yichen Xie, Chensheng Peng, Mazen Abdelfattah, Yihan Hu, Jiezhi Yang, Eric Higgins, Ryan Brigden, Masayoshi Tomizuka, Wei Zhan, Paper: [https://arxiv.org/abs/2602.20685](https://arxiv.org/abs/2602.20685), Accepted by CVPR 2026; Project website: http://yichen928.github.io/raynova
+- 2026-02-25, **RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space**, Yichen Xie, Chensheng Peng, Mazen Abdelfattah, Yihan Hu, Jiezhi Yang, Eric Higgins, Ryan Brigden, Masayoshi Tomizuka, Wei Zhan, Paper: [https://arxiv.org/abs/2602.20685](https://arxiv.org/abs/2602.20685), Accepted by CVPR 2026; Project website: https://raynova-ai.github.io/
 - 2026-02-24, **Symmetric Rota-Baxter systems and applications**, Chan Zhao, Haiying Li, Tianshui Ma, Paper: [https://arxiv.org/abs/2602.20631](https://arxiv.org/abs/2602.20631), 40 pages
 - 2026-02-24, **Non-Clifford symmetry protected topological higher-order cluster states in multi-qubit measurement-based quantum computation**, Motohiko Ezawa, Paper: [https://arxiv.org/abs/2602.20612](https://arxiv.org/abs/2602.20612), 19 pages, 11 figures
 - 2026-02-23, **Revealing Pseudo-Fermionization and Chiral Binding of One-Dimensional Anyons using Adiabatic State Preparation**, Brice Bakkali-Hassani, Joyce Kwan, Perrin Segura, Yanfei Li, Isaac Tesfaye, Gerard Valentí-Rojas, André Eckardt, Markus Greiner, Paper: [https://arxiv.org/abs/2602.20421](https://arxiv.org/abs/2602.20421), 7 pages (4 figures) + 18 pages (11 figures)
