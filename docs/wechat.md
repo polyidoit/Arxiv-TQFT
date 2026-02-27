@@ -9,6 +9,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-26, **A matching decoder for bivariate bicycle codes**, Kaavya Sahay, Dominic J. Williamson, Benjamin J. Brown, Paper: [https://arxiv.org/abs/2602.22770](https://arxiv.org/abs/2602.22770)
+- 2026-02-25, **Current-carrying string network evolution in an external magnetic field**, P. B. Barbosa, C. J. A. P. Martins, Paper: [https://arxiv.org/abs/2602.22396](https://arxiv.org/abs/2602.22396), 15 pages, 10 figures; Phys. Rev. D (in press)
 - 2026-02-25, **Quantum criticality in open quantum systems from the purification perspective**, Yuchen Guo, Shuo Yang, Paper: [https://arxiv.org/abs/2602.21979](https://arxiv.org/abs/2602.21979), 24 pages, 10 figures
 - 2026-02-25, **Holographic CFT Phase Transitions and Criticality for Einstein-Maxwell-Power-Yang-Mills AdS Black Holes**, Mohammad Reza Alipour, Mohammad Ali S. Afshar, Saeed Noori Gashti, Behnam Pourhassan, Paper: [https://arxiv.org/abs/2602.21930](https://arxiv.org/abs/2602.21930), 20 pages, 6 figures
 - 2026-02-25, **Note on the Hopf-algebra-based formula of Yang-Mills-Scalar amplitudes**, Jiexi Liu, Yi-Jian Du, Paper: [https://arxiv.org/abs/2602.21621](https://arxiv.org/abs/2602.21621), 28 pages
