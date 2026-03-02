@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-02-27**|**Two-zero textures of the Majorana neutrino mass matrix from $\mathbb{Z}_3$ gauging of $\mathbb{Z}_N$ non-invertible symmetry**|Bu-Yao Qu, Zheng Jiang, Gui-Jun Ding|[2602.24214](https://arxiv.org/abs/2602.24214)|null|
+|**2026-02-27**|**Spin stiffness and resilience phase transition in a noisy toric-rotor code**|Morteza Zarei, Mohammad Hossein Zarei|[2602.23751](https://arxiv.org/abs/2602.23751)|null|
+|**2026-02-26**|**Scalar Bosons with Coulomb Potentials in a Space with Dual Topological Defects in Rainbow Gravity**|L. G. Barbosa, J. V. Zamperlini, L. C. N. Santos|[2602.23519](https://arxiv.org/abs/2602.23519)|null|
+|**2026-02-26**|**Nonequilibrium topological response under charge dephasing**|Shuangyuan Lu, Lucas Q Silveira, Yizhi You|[2602.23484](https://arxiv.org/abs/2602.23484)|null|
+|**2026-02-26**|**Lightcone Bootstrap for Multipoint Defect Correlators**|Lorenzo Bianchi, Andrea Mattiello, Lorenzo Quintavalle|[2602.23428](https://arxiv.org/abs/2602.23428)|null|
+|**2026-02-26**|**From QED $_3$ to Self-Dual Multicriticality in the Fradkin-Shenker Model**|Thomas T. Dumitrescu, Pierluigi Niro, Ryan Thorngren|[2602.23420](https://arxiv.org/abs/2602.23420)|null|
 |**2026-02-26**|**A matching decoder for bivariate bicycle codes**|Kaavya Sahay, Dominic J. Williamson, Benjamin J. Brown|[2602.22770](https://arxiv.org/abs/2602.22770)|null|
 |**2026-02-25**|**Current-carrying string network evolution in an external magnetic field**|P. B. Barbosa, C. J. A. P. Martins|[2602.22396](https://arxiv.org/abs/2602.22396)|null|
 |**2026-02-25**|**Quantum criticality in open quantum systems from the purification perspective**|Yuchen Guo, Shuo Yang|[2602.21979](https://arxiv.org/abs/2602.21979)|null|

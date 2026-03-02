@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-02-27, **Two-zero textures of the Majorana neutrino mass matrix from $\mathbb{Z}_3$ gauging of $\mathbb{Z}_N$ non-invertible symmetry**, Bu-Yao Qu, Zheng Jiang, Gui-Jun Ding, Paper: [https://arxiv.org/abs/2602.24214](https://arxiv.org/abs/2602.24214), 39 pages, 1 figure
+- 2026-02-27, **Spin stiffness and resilience phase transition in a noisy toric-rotor code**, Morteza Zarei, Mohammad Hossein Zarei, Paper: [https://arxiv.org/abs/2602.23751](https://arxiv.org/abs/2602.23751), 11 pages, 7 figures, Submitted to Physical Review A
+- 2026-02-26, **Scalar Bosons with Coulomb Potentials in a Space with Dual Topological Defects in Rainbow Gravity**, L. G. Barbosa, J. V. Zamperlini, L. C. N. Santos, Paper: [https://arxiv.org/abs/2602.23519](https://arxiv.org/abs/2602.23519)
+- 2026-02-26, **Nonequilibrium topological response under charge dephasing**, Shuangyuan Lu, Lucas Q Silveira, Yizhi You, Paper: [https://arxiv.org/abs/2602.23484](https://arxiv.org/abs/2602.23484), 23 pages, 8 figures
+- 2026-02-26, **Lightcone Bootstrap for Multipoint Defect Correlators**, Lorenzo Bianchi, Andrea Mattiello, Lorenzo Quintavalle, Paper: [https://arxiv.org/abs/2602.23428](https://arxiv.org/abs/2602.23428), 37 pages, 6 figures
+- 2026-02-26, **From QED $_3$ to Self-Dual Multicriticality in the Fradkin-Shenker Model**, Thomas T. Dumitrescu, Pierluigi Niro, Ryan Thorngren, Paper: [https://arxiv.org/abs/2602.23420](https://arxiv.org/abs/2602.23420)
 - 2026-02-26, **A matching decoder for bivariate bicycle codes**, Kaavya Sahay, Dominic J. Williamson, Benjamin J. Brown, Paper: [https://arxiv.org/abs/2602.22770](https://arxiv.org/abs/2602.22770)
 - 2026-02-25, **Current-carrying string network evolution in an external magnetic field**, P. B. Barbosa, C. J. A. P. Martins, Paper: [https://arxiv.org/abs/2602.22396](https://arxiv.org/abs/2602.22396), 15 pages, 10 figures; Phys. Rev. D (in press)
 - 2026-02-25, **Quantum criticality in open quantum systems from the purification perspective**, Yuchen Guo, Shuo Yang, Paper: [https://arxiv.org/abs/2602.21979](https://arxiv.org/abs/2602.21979), 24 pages, 10 figures
