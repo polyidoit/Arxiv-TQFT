@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-02**|**Line Defects in Liouville Conformal Field Theory: Localized Cosmological Constants and Decohered Hyperbolic Geometries**|Ahmed I. Abdalla, Jeevan Chandra, Yifan Wang|[2603.02166](https://arxiv.org/abs/2603.02166)|null|
+|**2026-03-02**|**Effective degrees of freedom, trace anomaly and c-theorem like condition in the hadron resonance gas model**|Hiroaki Kouno, Riki Oshima, Kouji Kashiwa|[2603.02085](https://arxiv.org/abs/2603.02085)|null|
+|**2026-03-02**|**Sector Theory of Levin-Wen Models II : Fusion and Braiding**|Alex Bols, Boris Kjær|[2603.01936](https://arxiv.org/abs/2603.01936)|null|
+|**2026-03-02**|**Algebra of Path Integrals on Digraphs**|Shing-Tung Yau, Mengmeng Zhang, Yunpeng Zi|[2603.01531](https://arxiv.org/abs/2603.01531)|null|
+|**2026-03-02**|**Insulating Electronic States Near the Dirac Point Arising from Twisted Stacking and Curvature in 3D Nanoporous Graphene**|Yoichi Tanabe, Hayato Sueyoshi, Samuel Jeong, Kojiro Imai, Shojiro Kimura, Yoshikazu Ito|[2603.01522](https://arxiv.org/abs/2603.01522)|null|
+|**2026-03-02**|**Violation of Quantum Bilocal Inequalities on Mutually-Commuting von Neumann Algebra Models**|Bingke Zheng, Shuyuan Yang, Jinchuan Hou, Kan He|[2603.01466](https://arxiv.org/abs/2603.01466)|null|
+|**2026-03-01**|**Proofs of some conjectures of Okazaki and Smith on line defect half-indices of ${\rm SU}(N)$ Chern-Simons theories**|Liuquan Wang, Yiyang Yue|[2603.01240](https://arxiv.org/abs/2603.01240)|null|
+|**2026-03-01**|**Continuum limit of a qubit-regularized SU(3) lattice gauge theory with glueballs**|Rui Xian Siew, Shailesh Chandrasekharan, Tanmoy Bhattacharya|[2603.01215](https://arxiv.org/abs/2603.01215)|null|
+|**2026-02-27**|**Universal relation between $C_{T}$ and the CFT Weyl anomaly**|Rodrigo Aros, Fabrizzio Bugini, Danilo E. Diaz, Camilo Núñez-Barra|[2603.00321](https://arxiv.org/abs/2603.00321)|null|
+|**2026-02-27**|**On the convex structure of the space of quantum channels which act as Fourier multipliers**|Cédric Arhancet, Lei Li|[2603.00276](https://arxiv.org/abs/2603.00276)|null|
 |**2026-02-27**|**Two-zero textures of the Majorana neutrino mass matrix from $\mathbb{Z}_3$ gauging of $\mathbb{Z}_N$ non-invertible symmetry**|Bu-Yao Qu, Zheng Jiang, Gui-Jun Ding|[2602.24214](https://arxiv.org/abs/2602.24214)|null|
 |**2026-02-27**|**Spin stiffness and resilience phase transition in a noisy toric-rotor code**|Morteza Zarei, Mohammad Hossein Zarei|[2602.23751](https://arxiv.org/abs/2602.23751)|null|
 |**2026-02-26**|**Scalar Bosons with Coulomb Potentials in a Space with Dual Topological Defects in Rainbow Gravity**|L. G. Barbosa, J. V. Zamperlini, L. C. N. Santos|[2602.23519](https://arxiv.org/abs/2602.23519)|null|
