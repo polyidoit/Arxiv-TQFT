@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-03, **Guiding isotropic active fluids with anisotropic friction**, Cody D. Schimming, Brian A. Camley, Paper: [https://arxiv.org/abs/2603.03232](https://arxiv.org/abs/2603.03232), 14 pages, 10 figures
+- 2026-03-03, **Evolution and scattering of excited topological defects: Interaction between internal modes**, D. Miguélez-Caballero, Paper: [https://arxiv.org/abs/2603.03003](https://arxiv.org/abs/2603.03003), PhD thesis. This document can also be found on the institutional repository of the University of Valladolid (https://uvadoc.uva.es/handle/10324/83084)
+- 2026-03-03, **Renormalization group on tensor networks**, Shinichiro Akiyama, Paper: [https://arxiv.org/abs/2603.02741](https://arxiv.org/abs/2603.02741), 16 pages, 3 figures, Proceedings of the 42nd International Symposium on Lattice Field Theory (Lattice 2025), 2-8 November 2025, Tata Institute of Fundamental Research, Mumbai, India
+- 2026-03-03, **Complexity of quantum cohomology**, Xiaobo Liu, Chongyu Wang, Paper: [https://arxiv.org/abs/2603.02736](https://arxiv.org/abs/2603.02736)
+- 2026-03-02, **Local decoder for the toric code with a high pseudo-threshold**, Louis Paletta, Paper: [https://arxiv.org/abs/2603.02328](https://arxiv.org/abs/2603.02328)
+- 2026-03-02, **Zero-point length as a topological protection of black hole regularity**, Ankit Anand, Kimet Jusufi, Cosimo Bambi, Paper: [https://arxiv.org/abs/2603.02295](https://arxiv.org/abs/2603.02295), 11 pages, 2 figures
 - 2026-03-02, **Line Defects in Liouville Conformal Field Theory: Localized Cosmological Constants and Decohered Hyperbolic Geometries**, Ahmed I. Abdalla, Jeevan Chandra, Yifan Wang, Paper: [https://arxiv.org/abs/2603.02166](https://arxiv.org/abs/2603.02166), 113 pages including 3 Appendices, 21 figures, and 2 tables
 - 2026-03-02, **Effective degrees of freedom, trace anomaly and c-theorem like condition in the hadron resonance gas model**, Hiroaki Kouno, Riki Oshima, Kouji Kashiwa, Paper: [https://arxiv.org/abs/2603.02085](https://arxiv.org/abs/2603.02085), 11pages, 17 figures
 - 2026-03-02, **Sector Theory of Levin-Wen Models II : Fusion and Braiding**, Alex Bols, Boris Kjær, Paper: [https://arxiv.org/abs/2603.01936](https://arxiv.org/abs/2603.01936), 49 pages, lots of figures

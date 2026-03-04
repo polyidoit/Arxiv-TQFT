@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-03**|**Guiding isotropic active fluids with anisotropic friction**|Cody D. Schimming, Brian A. Camley|[2603.03232](https://arxiv.org/abs/2603.03232)|null|
+|**2026-03-03**|**Evolution and scattering of excited topological defects: Interaction between internal modes**|D. Miguélez-Caballero|[2603.03003](https://arxiv.org/abs/2603.03003)|null|
+|**2026-03-03**|**Renormalization group on tensor networks**|Shinichiro Akiyama|[2603.02741](https://arxiv.org/abs/2603.02741)|null|
+|**2026-03-03**|**Complexity of quantum cohomology**|Xiaobo Liu, Chongyu Wang|[2603.02736](https://arxiv.org/abs/2603.02736)|null|
+|**2026-03-02**|**Local decoder for the toric code with a high pseudo-threshold**|Louis Paletta|[2603.02328](https://arxiv.org/abs/2603.02328)|null|
+|**2026-03-02**|**Zero-point length as a topological protection of black hole regularity**|Ankit Anand, Kimet Jusufi, Cosimo Bambi|[2603.02295](https://arxiv.org/abs/2603.02295)|null|
 |**2026-03-02**|**Line Defects in Liouville Conformal Field Theory: Localized Cosmological Constants and Decohered Hyperbolic Geometries**|Ahmed I. Abdalla, Jeevan Chandra, Yifan Wang|[2603.02166](https://arxiv.org/abs/2603.02166)|null|
 |**2026-03-02**|**Effective degrees of freedom, trace anomaly and c-theorem like condition in the hadron resonance gas model**|Hiroaki Kouno, Riki Oshima, Kouji Kashiwa|[2603.02085](https://arxiv.org/abs/2603.02085)|null|
 |**2026-03-02**|**Sector Theory of Levin-Wen Models II : Fusion and Braiding**|Alex Bols, Boris Kjær|[2603.01936](https://arxiv.org/abs/2603.01936)|null|
