@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Minimum Weight Decoding in the Colour Code is NP-hard**|Mark Walters, Mark L. Turner|[2603.04234](https://arxiv.org/abs/2603.04234)|null|
+|**2026-03-04**|**Topological defects in buckled colloidal monolayers**|Aaron L. Galper, Henrik N. Barck, Conor M. Floyd, Elliot A. Snyder, Charlie J. Schofield, Sorin A. P. Jayaweera, Ian G. McGuire, Sharon J. Gerbode|[2603.03813](https://arxiv.org/abs/2603.03813)|null|
+|**2026-03-03**|**Mixed-state Phases from Higher-order SSPTs with Kramers-Wannier Symmetry**|Aswin Parayil Mana, Zijian Song, Fei Yan, Tzu-Chieh Wei|[2603.03455](https://arxiv.org/abs/2603.03455)|null|
+|**2026-03-03**|**On the action of non-invertible symmetries on local operators in 3+1d**|Pavel Putrov, Rajath Radhakrishnan|[2603.03438](https://arxiv.org/abs/2603.03438)|null|
+|**2026-03-02**|**Symmetry-protected topology and deconfined solitons in a multi-link $\mathbb{Z}_2$ gauge theory**|Enrico C. Domanti, Alejandro Bermudez|[2603.03374](https://arxiv.org/abs/2603.03374)|null|
 |**2026-03-03**|**Guiding isotropic active fluids with anisotropic friction**|Cody D. Schimming, Brian A. Camley|[2603.03232](https://arxiv.org/abs/2603.03232)|null|
 |**2026-03-03**|**Evolution and scattering of excited topological defects: Interaction between internal modes**|D. Miguélez-Caballero|[2603.03003](https://arxiv.org/abs/2603.03003)|null|
 |**2026-03-03**|**Renormalization group on tensor networks**|Shinichiro Akiyama|[2603.02741](https://arxiv.org/abs/2603.02741)|null|

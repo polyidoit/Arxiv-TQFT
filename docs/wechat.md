@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-04, **Minimum Weight Decoding in the Colour Code is NP-hard**, Mark Walters, Mark L. Turner, Paper: [https://arxiv.org/abs/2603.04234](https://arxiv.org/abs/2603.04234)
+- 2026-03-04, **Topological defects in buckled colloidal monolayers**, Aaron L. Galper, Henrik N. Barck, Conor M. Floyd, Elliot A. Snyder, Charlie J. Schofield, Sorin A. P. Jayaweera, Ian G. McGuire, Sharon J. Gerbode, Paper: [https://arxiv.org/abs/2603.03813](https://arxiv.org/abs/2603.03813)
+- 2026-03-03, **Mixed-state Phases from Higher-order SSPTs with Kramers-Wannier Symmetry**, Aswin Parayil Mana, Zijian Song, Fei Yan, Tzu-Chieh Wei, Paper: [https://arxiv.org/abs/2603.03455](https://arxiv.org/abs/2603.03455), 31 pages, 4 figures
+- 2026-03-03, **On the action of non-invertible symmetries on local operators in 3+1d**, Pavel Putrov, Rajath Radhakrishnan, Paper: [https://arxiv.org/abs/2603.03438](https://arxiv.org/abs/2603.03438), 33 pages, 8 figures
+- 2026-03-02, **Symmetry-protected topology and deconfined solitons in a multi-link $\mathbb{Z}_2$ gauge theory**, Enrico C. Domanti, Alejandro Bermudez, Paper: [https://arxiv.org/abs/2603.03374](https://arxiv.org/abs/2603.03374), 14 pages, 10 figures
 - 2026-03-03, **Guiding isotropic active fluids with anisotropic friction**, Cody D. Schimming, Brian A. Camley, Paper: [https://arxiv.org/abs/2603.03232](https://arxiv.org/abs/2603.03232), 14 pages, 10 figures
 - 2026-03-03, **Evolution and scattering of excited topological defects: Interaction between internal modes**, D. Miguélez-Caballero, Paper: [https://arxiv.org/abs/2603.03003](https://arxiv.org/abs/2603.03003), PhD thesis. This document can also be found on the institutional repository of the University of Valladolid (https://uvadoc.uva.es/handle/10324/83084)
 - 2026-03-03, **Renormalization group on tensor networks**, Shinichiro Akiyama, Paper: [https://arxiv.org/abs/2603.02741](https://arxiv.org/abs/2603.02741), 16 pages, 3 figures, Proceedings of the 42nd International Symposium on Lattice Field Theory (Lattice 2025), 2-8 November 2025, Tata Institute of Fundamental Research, Mumbai, India
