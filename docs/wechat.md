@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-05, **Universal quantum computation with group surface codes**, Naren Manjunath, Vieri Mattei, Apoorv Tiwari, Tyler D. Ellison, Paper: [https://arxiv.org/abs/2603.05502](https://arxiv.org/abs/2603.05502)
+- 2026-03-05, **Obata's rigidity theorem in free probability**, Charles-Philippe Diez, Paper: [https://arxiv.org/abs/2603.05466](https://arxiv.org/abs/2603.05466)
+- 2026-03-05, **Optimal Decoding with the Worm**, Zac Tobias, Nikolas P. Breuckmann, Benedikt Placke, Paper: [https://arxiv.org/abs/2603.05428](https://arxiv.org/abs/2603.05428), 33 Pages, 14 figures
+- 2026-03-05, **Generalized matching decoders for 2D topological translationally-invariant codes**, Shi Jie Samuel Tan, Ian Gill, Eric Huang, Pengyu Liu, Chen Zhao, Hossein Dehghani, Aleksander Kubica, Hengyun Zhou, Arpit Dua, Paper: [https://arxiv.org/abs/2603.05402](https://arxiv.org/abs/2603.05402)
+- 2026-03-05, **Strong zero modes in random Ising-Majorana chains**, Saurav Kantha, Nicolas Laflorencie, Paper: [https://arxiv.org/abs/2603.05313](https://arxiv.org/abs/2603.05313), (12+8) pages, (8+6) figures
+- 2026-03-05, **Dynamical quantum phase transitions through the lens of mode dynamics**, Akash Mitra, Shashi C. L. Srivastava, Paper: [https://arxiv.org/abs/2603.05284](https://arxiv.org/abs/2603.05284)
+- 2026-03-05, **Introduction to holography**, Nele Callebaut, Paper: [https://arxiv.org/abs/2603.05186](https://arxiv.org/abs/2603.05186), 102 pages, 24 figures
+- 2026-03-05, **Simulating Lattice Gauge Theories with Virtual Rishons**, David Rogerson, João Barata, Robert M. Konik, Raju Venugopalan, Ananda Roy, Paper: [https://arxiv.org/abs/2603.05151](https://arxiv.org/abs/2603.05151), 24 pages, 11 figures
+- 2026-03-05, **STOchastic LAttice Simulation of hybrid inflation**, Tomoaki Murata, Yuichiro Tada, Paper: [https://arxiv.org/abs/2603.04850](https://arxiv.org/abs/2603.04850), 21 pages, 7 figures
+- 2026-03-05, **The Hochschild cohomlogy ring of a self-injective Nakayama algebra is a Batalin-Vilkoviskys algebra**, Xiuli Bian, Tomohiro Itagaki, Wen Kou, Weiguo Lyu, Guodong Zhou, Paper: [https://arxiv.org/abs/2603.04834](https://arxiv.org/abs/2603.04834), Comments are welcome!
 - 2026-03-04, **Minimum Weight Decoding in the Colour Code is NP-hard**, Mark Walters, Mark L. Turner, Paper: [https://arxiv.org/abs/2603.04234](https://arxiv.org/abs/2603.04234)
 - 2026-03-04, **Topological defects in buckled colloidal monolayers**, Aaron L. Galper, Henrik N. Barck, Conor M. Floyd, Elliot A. Snyder, Charlie J. Schofield, Sorin A. P. Jayaweera, Ian G. McGuire, Sharon J. Gerbode, Paper: [https://arxiv.org/abs/2603.03813](https://arxiv.org/abs/2603.03813)
 - 2026-03-03, **Mixed-state Phases from Higher-order SSPTs with Kramers-Wannier Symmetry**, Aswin Parayil Mana, Zijian Song, Fei Yan, Tzu-Chieh Wei, Paper: [https://arxiv.org/abs/2603.03455](https://arxiv.org/abs/2603.03455), 31 pages, 4 figures

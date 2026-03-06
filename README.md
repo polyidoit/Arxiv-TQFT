@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Universal quantum computation with group surface codes**|Naren Manjunath, Vieri Mattei, Apoorv Tiwari, Tyler D. Ellison|[2603.05502](https://arxiv.org/abs/2603.05502)|null|
+|**2026-03-05**|**Obata's rigidity theorem in free probability**|Charles-Philippe Diez|[2603.05466](https://arxiv.org/abs/2603.05466)|null|
+|**2026-03-05**|**Optimal Decoding with the Worm**|Zac Tobias, Nikolas P. Breuckmann, Benedikt Placke|[2603.05428](https://arxiv.org/abs/2603.05428)|null|
+|**2026-03-05**|**Generalized matching decoders for 2D topological translationally-invariant codes**|Shi Jie Samuel Tan, Ian Gill, Eric Huang, Pengyu Liu, Chen Zhao, Hossein Dehghani, Aleksander Kubica, Hengyun Zhou, Arpit Dua|[2603.05402](https://arxiv.org/abs/2603.05402)|null|
+|**2026-03-05**|**Strong zero modes in random Ising-Majorana chains**|Saurav Kantha, Nicolas Laflorencie|[2603.05313](https://arxiv.org/abs/2603.05313)|null|
+|**2026-03-05**|**Dynamical quantum phase transitions through the lens of mode dynamics**|Akash Mitra, Shashi C. L. Srivastava|[2603.05284](https://arxiv.org/abs/2603.05284)|null|
+|**2026-03-05**|**Introduction to holography**|Nele Callebaut|[2603.05186](https://arxiv.org/abs/2603.05186)|null|
+|**2026-03-05**|**Simulating Lattice Gauge Theories with Virtual Rishons**|David Rogerson, João Barata, Robert M. Konik, Raju Venugopalan, Ananda Roy|[2603.05151](https://arxiv.org/abs/2603.05151)|null|
+|**2026-03-05**|**STOchastic LAttice Simulation of hybrid inflation**|Tomoaki Murata, Yuichiro Tada|[2603.04850](https://arxiv.org/abs/2603.04850)|null|
+|**2026-03-05**|**The Hochschild cohomlogy ring of a self-injective Nakayama algebra is a Batalin-Vilkoviskys algebra**|Xiuli Bian, Tomohiro Itagaki, Wen Kou, Weiguo Lyu, Guodong Zhou|[2603.04834](https://arxiv.org/abs/2603.04834)|null|
 |**2026-03-04**|**Minimum Weight Decoding in the Colour Code is NP-hard**|Mark Walters, Mark L. Turner|[2603.04234](https://arxiv.org/abs/2603.04234)|null|
 |**2026-03-04**|**Topological defects in buckled colloidal monolayers**|Aaron L. Galper, Henrik N. Barck, Conor M. Floyd, Elliot A. Snyder, Charlie J. Schofield, Sorin A. P. Jayaweera, Ian G. McGuire, Sharon J. Gerbode|[2603.03813](https://arxiv.org/abs/2603.03813)|null|
 |**2026-03-03**|**Mixed-state Phases from Higher-order SSPTs with Kramers-Wannier Symmetry**|Aswin Parayil Mana, Zijian Song, Fei Yan, Tzu-Chieh Wei|[2603.03455](https://arxiv.org/abs/2603.03455)|null|
