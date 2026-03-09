@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.08
+> Automatically updated on 2026.03.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-06, **Epitaxial stabilization of magnetic GdAuSb/LaAuSb superlattices**, Patrick J. Strohbeen, Soohyun Im, Tamalika Samanta, Zachary LaDuca, Dongxue Du, Estiaque H. Shourov, Jessica L. McChesney, Fanny Rodolakis, Paul M. Voyles, Jason K. Kawasaki, Paper: [https://arxiv.org/abs/2603.06500](https://arxiv.org/abs/2603.06500)
+- 2026-03-06, **Preparing 100-qubit symmetry-protected topological order on a digital quantum computer**, George Pennington, Kevin C. Smith, James R. Garrison, Lachlan P. Lindoy, Jason Crain, Ben Jaderberg, Paper: [https://arxiv.org/abs/2603.06325](https://arxiv.org/abs/2603.06325)
+- 2026-03-06, **OPE in a generally covariant form**, Anatoly Konechny, Paper: [https://arxiv.org/abs/2603.06246](https://arxiv.org/abs/2603.06246), 12 pages, 1 figure
+- 2026-03-06, **Chirality Breaking of Majorana Edge Modes Induced by Chemical Potential Shifts**, Xin Yue, Guo-Jian Qiao, Paper: [https://arxiv.org/abs/2603.05901](https://arxiv.org/abs/2603.05901)
+- 2026-03-05, **The toric code under antiferromagnetic isotropic Heisenberg interactions**, Won Jang, Robert Peters, Thore Posske, Paper: [https://arxiv.org/abs/2603.05707](https://arxiv.org/abs/2603.05707)
+- 2026-03-05, **Fully-Dualizable and Invertible $\mathcal{E}_n$ -Algebras**, Pablo Bustillo Vazquez, Paper: [https://arxiv.org/abs/2603.05688](https://arxiv.org/abs/2603.05688)
 - 2026-03-05, **Universal quantum computation with group surface codes**, Naren Manjunath, Vieri Mattei, Apoorv Tiwari, Tyler D. Ellison, Paper: [https://arxiv.org/abs/2603.05502](https://arxiv.org/abs/2603.05502)
 - 2026-03-05, **Obata's rigidity theorem in free probability**, Charles-Philippe Diez, Paper: [https://arxiv.org/abs/2603.05466](https://arxiv.org/abs/2603.05466)
 - 2026-03-05, **Optimal Decoding with the Worm**, Zac Tobias, Nikolas P. Breuckmann, Benedikt Placke, Paper: [https://arxiv.org/abs/2603.05428](https://arxiv.org/abs/2603.05428), 33 Pages, 14 figures
@@ -1126,5 +1132,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 

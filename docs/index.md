@@ -1,7 +1,13 @@
-> Automatically updated on 2026.03.08
+> Automatically updated on 2026.03.09
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-06**|**Epitaxial stabilization of magnetic GdAuSb/LaAuSb superlattices**|Patrick J. Strohbeen, Soohyun Im, Tamalika Samanta, Zachary LaDuca, Dongxue Du, Estiaque H. Shourov, Jessica L. McChesney, Fanny Rodolakis, Paul M. Voyles, Jason K. Kawasaki|[2603.06500](https://arxiv.org/abs/2603.06500)|null|
+|**2026-03-06**|**Preparing 100-qubit symmetry-protected topological order on a digital quantum computer**|George Pennington, Kevin C. Smith, James R. Garrison, Lachlan P. Lindoy, Jason Crain, Ben Jaderberg|[2603.06325](https://arxiv.org/abs/2603.06325)|null|
+|**2026-03-06**|**OPE in a generally covariant form**|Anatoly Konechny|[2603.06246](https://arxiv.org/abs/2603.06246)|null|
+|**2026-03-06**|**Chirality Breaking of Majorana Edge Modes Induced by Chemical Potential Shifts**|Xin Yue, Guo-Jian Qiao|[2603.05901](https://arxiv.org/abs/2603.05901)|null|
+|**2026-03-05**|**The toric code under antiferromagnetic isotropic Heisenberg interactions**|Won Jang, Robert Peters, Thore Posske|[2603.05707](https://arxiv.org/abs/2603.05707)|null|
+|**2026-03-05**|**Fully-Dualizable and Invertible $\mathcal{E}_n$ -Algebras**|Pablo Bustillo Vazquez|[2603.05688](https://arxiv.org/abs/2603.05688)|null|
 |**2026-03-05**|**Universal quantum computation with group surface codes**|Naren Manjunath, Vieri Mattei, Apoorv Tiwari, Tyler D. Ellison|[2603.05502](https://arxiv.org/abs/2603.05502)|null|
 |**2026-03-05**|**Obata's rigidity theorem in free probability**|Charles-Philippe Diez|[2603.05466](https://arxiv.org/abs/2603.05466)|null|
 |**2026-03-05**|**Optimal Decoding with the Worm**|Zac Tobias, Nikolas P. Breuckmann, Benedikt Placke|[2603.05428](https://arxiv.org/abs/2603.05428)|null|
