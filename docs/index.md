@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-09**|**Coupled-Layer Construction of Quantum Product Codes**|Shuyu Zhang, Tzu-Chieh Wei, Nathanan Tantivasadakarn|[2603.08711](https://arxiv.org/abs/2603.08711)|null|
+|**2026-03-09**|**Observables in $\mathrm{U}(1)^n$ Chern-Simons theory**|Michail Tagaris, Frank Thuillier|[2603.08632](https://arxiv.org/abs/2603.08632)|null|
+|**2026-03-08**|**Positive isometric Fourier multipliers on non-commutative $L^p$ -spaces**|Christoph Kriegler, Christian Le Merdy, Safoura Zadeh|[2603.07754](https://arxiv.org/abs/2603.07754)|null|
+|**2026-03-08**|**Qubit discretizations of d=3 conformal field theories**|Hansen S. Wu, Ribhu K. Kaul|[2603.07420](https://arxiv.org/abs/2603.07420)|null|
 |**2026-03-07**|**Orbital-Selective Engineering of Strain-Tunable Chern Insulators in Momentum Space**|Jin Gao, Rongrong Chen, Lei Yang, ChengLong Jia, Kun Tao, Li Xi, Desheng Xue|[2603.07164](https://arxiv.org/abs/2603.07164)|null|
 |**2026-03-06**|**Epitaxial stabilization of magnetic GdAuSb/LaAuSb superlattices**|Patrick J. Strohbeen, Soohyun Im, Tamalika Samanta, Zachary LaDuca, Dongxue Du, Estiaque H. Shourov, Jessica L. McChesney, Fanny Rodolakis, Paul M. Voyles, Jason K. Kawasaki|[2603.06500](https://arxiv.org/abs/2603.06500)|null|
 |**2026-03-06**|**Preparing 100-qubit symmetry-protected topological order on a digital quantum computer**|George Pennington, Kevin C. Smith, James R. Garrison, Lachlan P. Lindoy, Jason Crain, Ben Jaderberg|[2603.06325](https://arxiv.org/abs/2603.06325)|null|
