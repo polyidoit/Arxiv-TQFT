@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.03.09
+> Automatically updated on 2026.03.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**Orbital-Selective Engineering of Strain-Tunable Chern Insulators in Momentum Space**|Jin Gao, Rongrong Chen, Lei Yang, ChengLong Jia, Kun Tao, Li Xi, Desheng Xue|[2603.07164](https://arxiv.org/abs/2603.07164)|null|
 |**2026-03-06**|**Epitaxial stabilization of magnetic GdAuSb/LaAuSb superlattices**|Patrick J. Strohbeen, Soohyun Im, Tamalika Samanta, Zachary LaDuca, Dongxue Du, Estiaque H. Shourov, Jessica L. McChesney, Fanny Rodolakis, Paul M. Voyles, Jason K. Kawasaki|[2603.06500](https://arxiv.org/abs/2603.06500)|null|
 |**2026-03-06**|**Preparing 100-qubit symmetry-protected topological order on a digital quantum computer**|George Pennington, Kevin C. Smith, James R. Garrison, Lachlan P. Lindoy, Jason Crain, Ben Jaderberg|[2603.06325](https://arxiv.org/abs/2603.06325)|null|
 |**2026-03-06**|**OPE in a generally covariant form**|Anatoly Konechny|[2603.06246](https://arxiv.org/abs/2603.06246)|null|
@@ -1931,5 +1932,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 

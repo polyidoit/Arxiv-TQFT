@@ -1,7 +1,8 @@
-> Automatically updated on 2026.03.09
+> Automatically updated on 2026.03.10
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-07**|**Orbital-Selective Engineering of Strain-Tunable Chern Insulators in Momentum Space**|Jin Gao, Rongrong Chen, Lei Yang, ChengLong Jia, Kun Tao, Li Xi, Desheng Xue|[2603.07164](https://arxiv.org/abs/2603.07164)|null|
 |**2026-03-06**|**Epitaxial stabilization of magnetic GdAuSb/LaAuSb superlattices**|Patrick J. Strohbeen, Soohyun Im, Tamalika Samanta, Zachary LaDuca, Dongxue Du, Estiaque H. Shourov, Jessica L. McChesney, Fanny Rodolakis, Paul M. Voyles, Jason K. Kawasaki|[2603.06500](https://arxiv.org/abs/2603.06500)|null|
 |**2026-03-06**|**Preparing 100-qubit symmetry-protected topological order on a digital quantum computer**|George Pennington, Kevin C. Smith, James R. Garrison, Lachlan P. Lindoy, Jason Crain, Ben Jaderberg|[2603.06325](https://arxiv.org/abs/2603.06325)|null|
 |**2026-03-06**|**OPE in a generally covariant form**|Anatoly Konechny|[2603.06246](https://arxiv.org/abs/2603.06246)|null|
