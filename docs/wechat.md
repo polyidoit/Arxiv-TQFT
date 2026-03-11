@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.10
+> Automatically updated on 2026.03.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-10, **Three-stage melting of a macroscopic continuous spacetime crystal**, Guoqing Liu, Jimin Bai, Matteo Baggioli, Jie Zhang, Paper: [https://arxiv.org/abs/2603.09649](https://arxiv.org/abs/2603.09649), v1: comments are welcome!
+- 2026-03-10, **Non-invertible symmetries and selection rules for RG flows of coset models**, Valentin Benedetti, Paul Fendley, Javier M. Magan, Paper: [https://arxiv.org/abs/2603.09591](https://arxiv.org/abs/2603.09591), 5 pages + appendices
+- 2026-03-10, **Magneto-optical Response of 5-SL MnBi $_2$Te$_4$ in Spin-Flip States**, Shahid Sattar, Roman Stepanov, A. H. MacDonald, C. M. Canali, Paper: [https://arxiv.org/abs/2603.09578](https://arxiv.org/abs/2603.09578), 10 pages, 7 figures, Supplementary Information
+- 2026-03-10, **Photon spheres and bulk probes in $\text{AdS}_3$/$\text{CFT}_2$ : the quantum BTZ black hole**, Oscar Lasso Andino, Axel León-Arteaga, Guillermo Ramírez-Ulloa, Paper: [https://arxiv.org/abs/2603.09169](https://arxiv.org/abs/2603.09169), 33 pg
+- 2026-03-10, **Topological phase transition of deformed ${\mathbb Z}_3$ toric code**, Yun-Tak Oh, Hyun-Yong Lee, Paper: [https://arxiv.org/abs/2603.09107](https://arxiv.org/abs/2603.09107)
+- 2026-03-09, **Hydrodynamics as cospans of field theories into the BF theory**, Simon Jonsson, Hyungrok Kim, Paper: [https://arxiv.org/abs/2603.09013](https://arxiv.org/abs/2603.09013), 27 pages, no figures
+- 2026-03-09, **Quantum Simulation of Massive Relativistic Fields in 2 + 1 Dimensions**, Yansheng Zhang, Feiyang Wang, Paul H. C. Wong, Alexander C. Jenkins, Konstantinos Konstantinou, Nishant Dogra, Joseph H. Thywissen, Christoph Eigen, Zoran Hadzibabic, Paper: [https://arxiv.org/abs/2603.08840](https://arxiv.org/abs/2603.08840), 7 pages, 5 figures
+- 2026-03-09, **Introduction to Generalized Symmetries**, Justin Kaidi, Paper: [https://arxiv.org/abs/2603.08798](https://arxiv.org/abs/2603.08798), 104 pages
 - 2026-03-09, **Coupled-Layer Construction of Quantum Product Codes**, Shuyu Zhang, Tzu-Chieh Wei, Nathanan Tantivasadakarn, Paper: [https://arxiv.org/abs/2603.08711](https://arxiv.org/abs/2603.08711), 5+24 pages, 5+19 figures
 - 2026-03-09, **Observables in $\mathrm{U}(1)^n$ Chern-Simons theory**, Michail Tagaris, Frank Thuillier, Paper: [https://arxiv.org/abs/2603.08632](https://arxiv.org/abs/2603.08632), 25 pages, 3 figures
 - 2026-03-08, **Positive isometric Fourier multipliers on non-commutative $L^p$ -spaces**, Christoph Kriegler, Christian Le Merdy, Safoura Zadeh, Paper: [https://arxiv.org/abs/2603.07754](https://arxiv.org/abs/2603.07754)
@@ -1137,5 +1145,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 

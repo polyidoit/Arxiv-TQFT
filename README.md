@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.03.10
+> Automatically updated on 2026.03.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Three-stage melting of a macroscopic continuous spacetime crystal**|Guoqing Liu, Jimin Bai, Matteo Baggioli, Jie Zhang|[2603.09649](https://arxiv.org/abs/2603.09649)|null|
+|**2026-03-10**|**Non-invertible symmetries and selection rules for RG flows of coset models**|Valentin Benedetti, Paul Fendley, Javier M. Magan|[2603.09591](https://arxiv.org/abs/2603.09591)|null|
+|**2026-03-10**|**Magneto-optical Response of 5-SL MnBi $_2$Te$_4$ in Spin-Flip States**|Shahid Sattar, Roman Stepanov, A. H. MacDonald, C. M. Canali|[2603.09578](https://arxiv.org/abs/2603.09578)|null|
+|**2026-03-10**|**Photon spheres and bulk probes in $\text{AdS}_3$/$\text{CFT}_2$ : the quantum BTZ black hole**|Oscar Lasso Andino, Axel León-Arteaga, Guillermo Ramírez-Ulloa|[2603.09169](https://arxiv.org/abs/2603.09169)|null|
+|**2026-03-10**|**Topological phase transition of deformed ${\mathbb Z}_3$ toric code**|Yun-Tak Oh, Hyun-Yong Lee|[2603.09107](https://arxiv.org/abs/2603.09107)|null|
+|**2026-03-09**|**Hydrodynamics as cospans of field theories into the BF theory**|Simon Jonsson, Hyungrok Kim|[2603.09013](https://arxiv.org/abs/2603.09013)|null|
+|**2026-03-09**|**Quantum Simulation of Massive Relativistic Fields in 2 + 1 Dimensions**|Yansheng Zhang, Feiyang Wang, Paul H. C. Wong, Alexander C. Jenkins, Konstantinos Konstantinou, Nishant Dogra, Joseph H. Thywissen, Christoph Eigen, Zoran Hadzibabic|[2603.08840](https://arxiv.org/abs/2603.08840)|null|
+|**2026-03-09**|**Introduction to Generalized Symmetries**|Justin Kaidi|[2603.08798](https://arxiv.org/abs/2603.08798)|null|
 |**2026-03-09**|**Coupled-Layer Construction of Quantum Product Codes**|Shuyu Zhang, Tzu-Chieh Wei, Nathanan Tantivasadakarn|[2603.08711](https://arxiv.org/abs/2603.08711)|null|
 |**2026-03-09**|**Observables in $\mathrm{U}(1)^n$ Chern-Simons theory**|Michail Tagaris, Frank Thuillier|[2603.08632](https://arxiv.org/abs/2603.08632)|null|
 |**2026-03-08**|**Positive isometric Fourier multipliers on non-commutative $L^p$ -spaces**|Christoph Kriegler, Christian Le Merdy, Safoura Zadeh|[2603.07754](https://arxiv.org/abs/2603.07754)|null|
@@ -1936,5 +1944,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
