@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-11, **Bouncing singularities and thermal correlators on line defects**, Simone Giombi, Yue-Zhou Li, Jieru Shan, Paper: [https://arxiv.org/abs/2603.11012](https://arxiv.org/abs/2603.11012), 52 pages, 7 figures
 - 2026-03-11, **Efficient Conformal Block Evaluation with GoBlocks**, James Chryssanthacopoulos, Vasilis Niarchos, Constantinos Papageorgakis, Alexander G. Stapleton, Paper: [https://arxiv.org/abs/2603.10627](https://arxiv.org/abs/2603.10627), 34 pages, 8 figures
 - 2026-03-11, **Symmetry Breaking and Transition to Robust Excitonic Topological Order in InAs/GaSb Bilayers**, Xinghao Wang, Wenfeng Zhang, Yujiang Dong, Weiliang Qiao, Peizhe Jia, Rui-Rui Du, Paper: [https://arxiv.org/abs/2603.10363](https://arxiv.org/abs/2603.10363), 19 pages, 5 figures
 - 2026-03-10, **Regge's Inferno**, Zohar Komargodski, Alessio Miscioscia, Fedor K. Popov, Paper: [https://arxiv.org/abs/2603.10197](https://arxiv.org/abs/2603.10197), 32 pages, 4 figures
