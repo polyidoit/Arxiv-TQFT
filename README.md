@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.03.11
+> Automatically updated on 2026.03.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Efficient Conformal Block Evaluation with GoBlocks**|James Chryssanthacopoulos, Vasilis Niarchos, Constantinos Papageorgakis, Alexander G. Stapleton|[2603.10627](https://arxiv.org/abs/2603.10627)|null|
+|**2026-03-11**|**Symmetry Breaking and Transition to Robust Excitonic Topological Order in InAs/GaSb Bilayers**|Xinghao Wang, Wenfeng Zhang, Yujiang Dong, Weiliang Qiao, Peizhe Jia, Rui-Rui Du|[2603.10363](https://arxiv.org/abs/2603.10363)|null|
+|**2026-03-10**|**Regge's Inferno**|Zohar Komargodski, Alessio Miscioscia, Fedor K. Popov|[2603.10197](https://arxiv.org/abs/2603.10197)|null|
+|**2026-03-10**|**States of 2D Yang-Mills and Large-Volume Entanglement**|Dmitry Melnikov, Jefferson T. Oliveira, Valmir Peixoto, Marcia Tenser|[2603.10171](https://arxiv.org/abs/2603.10171)|null|
+|**2026-03-10**|**Complexity and Operator Growth in Holographic 6d SCFTs**|Ali Fatemiabhari, Carlos Nunez, Ricardo T. Santamaria|[2603.10106](https://arxiv.org/abs/2603.10106)|null|
+|**2026-03-10**|**On the structure of categorical duality operators**|Corey Jones, Xinping Yang|[2603.09949](https://arxiv.org/abs/2603.09949)|null|
+|**2026-03-10**|**Hysteretic squashed entanglement in many-body quantum systems**|Siddhartha Das, Alexander Yosifov, Jinzhao Sun|[2603.09907](https://arxiv.org/abs/2603.09907)|null|
+|**2026-03-10**|**Equilibrium Partition Function of Non-Relativistic CFTs in Harmonic Trap**|Eunwoo Lee|[2603.09856](https://arxiv.org/abs/2603.09856)|null|
+|**2026-03-10**|**Entanglement Measure Response to Modular Flow and Chiral Topological Phases**|Yunlong Zang|[2603.09717](https://arxiv.org/abs/2603.09717)|null|
 |**2026-03-10**|**Three-stage melting of a macroscopic continuous spacetime crystal**|Guoqing Liu, Jimin Bai, Matteo Baggioli, Jie Zhang|[2603.09649](https://arxiv.org/abs/2603.09649)|null|
 |**2026-03-10**|**Non-invertible symmetries and selection rules for RG flows of coset models**|Valentin Benedetti, Paul Fendley, Javier M. Magan|[2603.09591](https://arxiv.org/abs/2603.09591)|null|
 |**2026-03-10**|**Magneto-optical Response of 5-SL MnBi $_2$Te$_4$ in Spin-Flip States**|Shahid Sattar, Roman Stepanov, A. H. MacDonald, C. M. Canali|[2603.09578](https://arxiv.org/abs/2603.09578)|null|
@@ -1944,5 +1953,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
