@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.03.12
+> Automatically updated on 2026.03.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Integrability from Homotopy Algebras**|Luigi Alfonsi, Leron Borsten, Mehran Jalali Farahani, Hyungrok Kim, Martin Wolf, Charles Alastair Stephen Young|[2603.12113](https://arxiv.org/abs/2603.12113)|null|
+|**2026-03-12**|**Topological field theory plus local Lorentz symmetry is gravity**|Maïté Dupuis, Florian Girelli, Oleksandra Hrytseniak, Wolfgang Wieland|[2603.12100](https://arxiv.org/abs/2603.12100)|null|
+|**2026-03-12**|**Large- $N$ Torus Knots in Lens Spaces and Their Quiver Structure**|Ritabrata Bhattacharya, Suvankar Dutta, Naman Pasari, Nitin Verma|[2603.11997](https://arxiv.org/abs/2603.11997)|null|
+|**2026-03-12**|**Foliated-Exotic Duality and Anomaly Inflow in Fracton Quantum Field Theories**|Shutaro Shimamura|[2603.11681](https://arxiv.org/abs/2603.11681)|null|
+|**2026-03-11**|**The role of p_1-structures in 3-dimensional Chern-Simons theories**|Daniel S. Freed, Constantin Teleman|[2603.11291](https://arxiv.org/abs/2603.11291)|null|
 |**2026-03-11**|**Bouncing singularities and thermal correlators on line defects**|Simone Giombi, Yue-Zhou Li, Jieru Shan|[2603.11012](https://arxiv.org/abs/2603.11012)|null|
 |**2026-03-11**|**Efficient Conformal Block Evaluation with GoBlocks**|James Chryssanthacopoulos, Vasilis Niarchos, Constantinos Papageorgakis, Alexander G. Stapleton|[2603.10627](https://arxiv.org/abs/2603.10627)|null|
 |**2026-03-11**|**Symmetry Breaking and Transition to Robust Excitonic Topological Order in InAs/GaSb Bilayers**|Xinghao Wang, Wenfeng Zhang, Yujiang Dong, Weiliang Qiao, Peizhe Jia, Rui-Rui Du|[2603.10363](https://arxiv.org/abs/2603.10363)|null|
@@ -1954,5 +1959,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 

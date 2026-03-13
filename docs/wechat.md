@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.12
+> Automatically updated on 2026.03.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-12, **Integrability from Homotopy Algebras**, Luigi Alfonsi, Leron Borsten, Mehran Jalali Farahani, Hyungrok Kim, Martin Wolf, Charles Alastair Stephen Young, Paper: [https://arxiv.org/abs/2603.12113](https://arxiv.org/abs/2603.12113), v1: 25 pages
+- 2026-03-12, **Topological field theory plus local Lorentz symmetry is gravity**, Maïté Dupuis, Florian Girelli, Oleksandra Hrytseniak, Wolfgang Wieland, Paper: [https://arxiv.org/abs/2603.12100](https://arxiv.org/abs/2603.12100), 60 pages
+- 2026-03-12, **Large- $N$ Torus Knots in Lens Spaces and Their Quiver Structure**, Ritabrata Bhattacharya, Suvankar Dutta, Naman Pasari, Nitin Verma, Paper: [https://arxiv.org/abs/2603.11997](https://arxiv.org/abs/2603.11997), 27 pages, 2 pictures
+- 2026-03-12, **Foliated-Exotic Duality and Anomaly Inflow in Fracton Quantum Field Theories**, Shutaro Shimamura, Paper: [https://arxiv.org/abs/2603.11681](https://arxiv.org/abs/2603.11681), Doctoral Dissertation submitted to Department of Physics, University of Tokyo (Dec. 2025), 158 pages. Based on arXiv:2404.10601 and arXiv:2504.10835
+- 2026-03-11, **The role of p_1-structures in 3-dimensional Chern-Simons theories**, Daniel S. Freed, Constantin Teleman, Paper: [https://arxiv.org/abs/2603.11291](https://arxiv.org/abs/2603.11291), 26 pages, dedicated to S.-T. Yau
 - 2026-03-11, **Bouncing singularities and thermal correlators on line defects**, Simone Giombi, Yue-Zhou Li, Jieru Shan, Paper: [https://arxiv.org/abs/2603.11012](https://arxiv.org/abs/2603.11012), 52 pages, 7 figures
 - 2026-03-11, **Efficient Conformal Block Evaluation with GoBlocks**, James Chryssanthacopoulos, Vasilis Niarchos, Constantinos Papageorgakis, Alexander G. Stapleton, Paper: [https://arxiv.org/abs/2603.10627](https://arxiv.org/abs/2603.10627), 34 pages, 8 figures
 - 2026-03-11, **Symmetry Breaking and Transition to Robust Excitonic Topological Order in InAs/GaSb Bilayers**, Xinghao Wang, Wenfeng Zhang, Yujiang Dong, Weiliang Qiao, Peizhe Jia, Rui-Rui Du, Paper: [https://arxiv.org/abs/2603.10363](https://arxiv.org/abs/2603.10363), 19 pages, 5 figures
@@ -1155,5 +1160,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
