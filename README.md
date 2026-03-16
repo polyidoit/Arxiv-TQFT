@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.03.15
+> Automatically updated on 2026.03.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Aromatic and clumped multi-indices: algebraic structure and Hopf embeddings**|Zhicheng Zhu, Adrien Busnot Laurent|[2603.13105](https://arxiv.org/abs/2603.13105)|null|
+|**2026-03-13**|**Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases**|Yi-Chun Hung, Yugo Onishi, Hsin Lin, Liang Fu, Arun Bansil|[2603.13041](https://arxiv.org/abs/2603.13041)|null|
+|**2026-03-13**|**Noncommutative QFT and Relative Entropy on Axisymmetric Bifurcate Killing Horizons**|Philipp Dorau, Albert Much, Rainer Verch|[2603.13029](https://arxiv.org/abs/2603.13029)|null|
+|**2026-03-13**|**Jones index from Rényi entropies in the Ising conformal field theory**|Valentin Benedetti, Isai Davila-Cuba, Erik Tonni|[2603.13013](https://arxiv.org/abs/2603.13013)|null|
+|**2026-03-13**|**Testing the AdS/CFT Correspondence Through Thermodynamic Geometry of Nonlinear Electrodynamics AdS Black Holes with Generalized Entropies**|Abhishek Baruah, Amijit Bhattacharjee, Prabwal Jyoti Phukon|[2603.12678](https://arxiv.org/abs/2603.12678)|null|
+|**2026-03-12**|**Hopf algebras over Chevalley groups**|Nicolás Andruskiewitsch, Giovanna Carnovale|[2603.12428](https://arxiv.org/abs/2603.12428)|null|
+|**2026-03-12**|**Almost TQFTs via colored ribbon graphs**|William Davis, Olivia Dumitrescu|[2603.12389](https://arxiv.org/abs/2603.12389)|null|
+|**2026-03-12**|**On the SymTFTs of Finite Non-Abelian Symmetries**|Oren Bergman, Jonathan J. Heckman, Max Hübner, Daniele Migliorati, Xingyang Yu, Hao Y. Zhang|[2603.12323](https://arxiv.org/abs/2603.12323)|null|
+|**2026-03-12**|**Fracton Spin Liquid and Exotic Frustrated Phases in Ising-like Octochlore Magnets**|Matthew Stern, Michael D. Burke, Michel J. P. Gingras, Judit Romhányi, Kristian Tyn Kai Chung|[2603.12313](https://arxiv.org/abs/2603.12313)|null|
 |**2026-03-12**|**Integrability from Homotopy Algebras**|Luigi Alfonsi, Leron Borsten, Mehran Jalali Farahani, Hyungrok Kim, Martin Wolf, Charles Alastair Stephen Young|[2603.12113](https://arxiv.org/abs/2603.12113)|null|
 |**2026-03-12**|**Topological field theory plus local Lorentz symmetry is gravity**|Maïté Dupuis, Florian Girelli, Oleksandra Hrytseniak, Wolfgang Wieland|[2603.12100](https://arxiv.org/abs/2603.12100)|null|
 |**2026-03-12**|**Large- $N$ Torus Knots in Lens Spaces and Their Quiver Structure**|Ritabrata Bhattacharya, Suvankar Dutta, Naman Pasari, Nitin Verma|[2603.11997](https://arxiv.org/abs/2603.11997)|null|
@@ -1959,5 +1968,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 

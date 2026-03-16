@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.15
+> Automatically updated on 2026.03.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-13, **Aromatic and clumped multi-indices: algebraic structure and Hopf embeddings**, Zhicheng Zhu, Adrien Busnot Laurent, Paper: [https://arxiv.org/abs/2603.13105](https://arxiv.org/abs/2603.13105), 23 pages
+- 2026-03-13, **Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases**, Yi-Chun Hung, Yugo Onishi, Hsin Lin, Liang Fu, Arun Bansil, Paper: [https://arxiv.org/abs/2603.13041](https://arxiv.org/abs/2603.13041), 13 pages, 4 figures
+- 2026-03-13, **Noncommutative QFT and Relative Entropy on Axisymmetric Bifurcate Killing Horizons**, Philipp Dorau, Albert Much, Rainer Verch, Paper: [https://arxiv.org/abs/2603.13029](https://arxiv.org/abs/2603.13029), 36 pages, 3 figures
+- 2026-03-13, **Jones index from Rényi entropies in the Ising conformal field theory**, Valentin Benedetti, Isai Davila-Cuba, Erik Tonni, Paper: [https://arxiv.org/abs/2603.13013](https://arxiv.org/abs/2603.13013), 47 pages, 7 figures
+- 2026-03-13, **Testing the AdS/CFT Correspondence Through Thermodynamic Geometry of Nonlinear Electrodynamics AdS Black Holes with Generalized Entropies**, Abhishek Baruah, Amijit Bhattacharjee, Prabwal Jyoti Phukon, Paper: [https://arxiv.org/abs/2603.12678](https://arxiv.org/abs/2603.12678), 74 pages,54 figures
+- 2026-03-12, **Hopf algebras over Chevalley groups**, Nicolás Andruskiewitsch, Giovanna Carnovale, Paper: [https://arxiv.org/abs/2603.12428](https://arxiv.org/abs/2603.12428), 80 pages
+- 2026-03-12, **Almost TQFTs via colored ribbon graphs**, William Davis, Olivia Dumitrescu, Paper: [https://arxiv.org/abs/2603.12389](https://arxiv.org/abs/2603.12389), 47 pages, 38 figures
+- 2026-03-12, **On the SymTFTs of Finite Non-Abelian Symmetries**, Oren Bergman, Jonathan J. Heckman, Max Hübner, Daniele Migliorati, Xingyang Yu, Hao Y. Zhang, Paper: [https://arxiv.org/abs/2603.12323](https://arxiv.org/abs/2603.12323), 58 pages + appendices, 7 figures
+- 2026-03-12, **Fracton Spin Liquid and Exotic Frustrated Phases in Ising-like Octochlore Magnets**, Matthew Stern, Michael D. Burke, Michel J. P. Gingras, Judit Romhányi, Kristian Tyn Kai Chung, Paper: [https://arxiv.org/abs/2603.12313](https://arxiv.org/abs/2603.12313), 28 pages, 13 figures, 3 tables
 - 2026-03-12, **Integrability from Homotopy Algebras**, Luigi Alfonsi, Leron Borsten, Mehran Jalali Farahani, Hyungrok Kim, Martin Wolf, Charles Alastair Stephen Young, Paper: [https://arxiv.org/abs/2603.12113](https://arxiv.org/abs/2603.12113), v1: 25 pages
 - 2026-03-12, **Topological field theory plus local Lorentz symmetry is gravity**, Maïté Dupuis, Florian Girelli, Oleksandra Hrytseniak, Wolfgang Wieland, Paper: [https://arxiv.org/abs/2603.12100](https://arxiv.org/abs/2603.12100), 60 pages
 - 2026-03-12, **Large- $N$ Torus Knots in Lens Spaces and Their Quiver Structure**, Ritabrata Bhattacharya, Suvankar Dutta, Naman Pasari, Nitin Verma, Paper: [https://arxiv.org/abs/2603.11997](https://arxiv.org/abs/2603.11997), 27 pages, 2 pictures
@@ -1160,5 +1169,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
 
