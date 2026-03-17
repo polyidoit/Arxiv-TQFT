@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**FreeTalk: Emotional Topology-Free 3D Talking Heads**|Federico Nocentini, Thomas Besnier, Claudio Ferrari, Stefano Berretti, Mohamed Daoudi|[2603.15512](https://arxiv.org/abs/2603.15512)|null|
+|**2026-03-16**|**Motivic GUT Part I: Grand Unified Theory of Topological Order**|Masahiko G. Yamada|[2603.15361](https://arxiv.org/abs/2603.15361)|null|
+|**2026-03-16**|**Lee-Yang Zeros and Pseudocritical Drift in J-Q Néel-VBS Transitions**|Chunhao Guo, Zhe Wang, Danhe Wang, Zenan Liu, Haiyuan Zou, Zheng Yan|[2603.15116](https://arxiv.org/abs/2603.15116)|null|
 |**2026-03-14**|**Intrinsic Error Thresholds in Nearly Critical Toric Codes**|Zack Weinstein, Samuel J. Garratt|[2603.14098](https://arxiv.org/abs/2603.14098)|null|
 |**2026-03-14**|**Finite-Time Braiding Dynamics within Topological Nanowire Qubits**|Adrian D. Scheppe, Michael V. Pak|[2603.14064](https://arxiv.org/abs/2603.14064)|null|
 |**2026-03-13**|**Quantum contextuality with mixed states of 1D symmetry-protected topological order**|Leroy Fagan, Akimasa Miyake|[2603.13626](https://arxiv.org/abs/2603.13626)|null|

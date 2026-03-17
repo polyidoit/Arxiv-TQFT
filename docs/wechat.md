@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-16, **FreeTalk: Emotional Topology-Free 3D Talking Heads**, Federico Nocentini, Thomas Besnier, Claudio Ferrari, Stefano Berretti, Mohamed Daoudi, Paper: [https://arxiv.org/abs/2603.15512](https://arxiv.org/abs/2603.15512)
+- 2026-03-16, **Motivic GUT Part I: Grand Unified Theory of Topological Order**, Masahiko G. Yamada, Paper: [https://arxiv.org/abs/2603.15361](https://arxiv.org/abs/2603.15361), 18 pages, 0 figure
+- 2026-03-16, **Lee-Yang Zeros and Pseudocritical Drift in J-Q Néel-VBS Transitions**, Chunhao Guo, Zhe Wang, Danhe Wang, Zenan Liu, Haiyuan Zou, Zheng Yan, Paper: [https://arxiv.org/abs/2603.15116](https://arxiv.org/abs/2603.15116)
 - 2026-03-14, **Intrinsic Error Thresholds in Nearly Critical Toric Codes**, Zack Weinstein, Samuel J. Garratt, Paper: [https://arxiv.org/abs/2603.14098](https://arxiv.org/abs/2603.14098), 8+7 pages, 2 figures
 - 2026-03-14, **Finite-Time Braiding Dynamics within Topological Nanowire Qubits**, Adrian D. Scheppe, Michael V. Pak, Paper: [https://arxiv.org/abs/2603.14064](https://arxiv.org/abs/2603.14064), 8 pages, 6 figures
 - 2026-03-13, **Quantum contextuality with mixed states of 1D symmetry-protected topological order**, Leroy Fagan, Akimasa Miyake, Paper: [https://arxiv.org/abs/2603.13626](https://arxiv.org/abs/2603.13626), 15 pages + 6 pages supplemental material, 7 + 2 figures
