@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.16
+> Automatically updated on 2026.03.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-14, **Intrinsic Error Thresholds in Nearly Critical Toric Codes**, Zack Weinstein, Samuel J. Garratt, Paper: [https://arxiv.org/abs/2603.14098](https://arxiv.org/abs/2603.14098), 8+7 pages, 2 figures
+- 2026-03-14, **Finite-Time Braiding Dynamics within Topological Nanowire Qubits**, Adrian D. Scheppe, Michael V. Pak, Paper: [https://arxiv.org/abs/2603.14064](https://arxiv.org/abs/2603.14064), 8 pages, 6 figures
+- 2026-03-13, **Quantum contextuality with mixed states of 1D symmetry-protected topological order**, Leroy Fagan, Akimasa Miyake, Paper: [https://arxiv.org/abs/2603.13626](https://arxiv.org/abs/2603.13626), 15 pages + 6 pages supplemental material, 7 + 2 figures
+- 2026-03-13, **Microscopic geometric theory for gapped excitations in fractional topological fluids**, Yuzhu Wang, Bo Yang, Paper: [https://arxiv.org/abs/2603.13489](https://arxiv.org/abs/2603.13489), Comments are welcome
+- 2026-03-13, **Searching for Unparticles with the Cosmic Microwave Background**, Oliver H. E. Philcox, Guilherme L. Pimentel, Chen Yang, Paper: [https://arxiv.org/abs/2603.13486](https://arxiv.org/abs/2603.13486), 16 pages, 6 figures, submitted to Phys. Rev. D
+- 2026-03-13, **Distance learning from projective measurements as an information-geometric probe of many-body physics**, Oleksii Malyshev, Simon M. Linsel, Fabian Grusdt, Annabelle Bohrdt, Eugene Demler, Ivan Morera, Paper: [https://arxiv.org/abs/2603.13485](https://arxiv.org/abs/2603.13485), Main text: 20 pages, 9 figures; Supplementary: 4 pages, 4 figures
 - 2026-03-13, **Aromatic and clumped multi-indices: algebraic structure and Hopf embeddings**, Zhicheng Zhu, Adrien Busnot Laurent, Paper: [https://arxiv.org/abs/2603.13105](https://arxiv.org/abs/2603.13105), 23 pages
 - 2026-03-13, **Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases**, Yi-Chun Hung, Yugo Onishi, Hsin Lin, Liang Fu, Arun Bansil, Paper: [https://arxiv.org/abs/2603.13041](https://arxiv.org/abs/2603.13041), 13 pages, 4 figures
 - 2026-03-13, **Noncommutative QFT and Relative Entropy on Axisymmetric Bifurcate Killing Horizons**, Philipp Dorau, Albert Much, Rainer Verch, Paper: [https://arxiv.org/abs/2603.13029](https://arxiv.org/abs/2603.13029), 36 pages, 3 figures
@@ -1169,5 +1175,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 

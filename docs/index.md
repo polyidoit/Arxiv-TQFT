@@ -1,7 +1,13 @@
-> Automatically updated on 2026.03.16
+> Automatically updated on 2026.03.17
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-14**|**Intrinsic Error Thresholds in Nearly Critical Toric Codes**|Zack Weinstein, Samuel J. Garratt|[2603.14098](https://arxiv.org/abs/2603.14098)|null|
+|**2026-03-14**|**Finite-Time Braiding Dynamics within Topological Nanowire Qubits**|Adrian D. Scheppe, Michael V. Pak|[2603.14064](https://arxiv.org/abs/2603.14064)|null|
+|**2026-03-13**|**Quantum contextuality with mixed states of 1D symmetry-protected topological order**|Leroy Fagan, Akimasa Miyake|[2603.13626](https://arxiv.org/abs/2603.13626)|null|
+|**2026-03-13**|**Microscopic geometric theory for gapped excitations in fractional topological fluids**|Yuzhu Wang, Bo Yang|[2603.13489](https://arxiv.org/abs/2603.13489)|null|
+|**2026-03-13**|**Searching for Unparticles with the Cosmic Microwave Background**|Oliver H. E. Philcox, Guilherme L. Pimentel, Chen Yang|[2603.13486](https://arxiv.org/abs/2603.13486)|null|
+|**2026-03-13**|**Distance learning from projective measurements as an information-geometric probe of many-body physics**|Oleksii Malyshev, Simon M. Linsel, Fabian Grusdt, Annabelle Bohrdt, Eugene Demler, Ivan Morera|[2603.13485](https://arxiv.org/abs/2603.13485)|null|
 |**2026-03-13**|**Aromatic and clumped multi-indices: algebraic structure and Hopf embeddings**|Zhicheng Zhu, Adrien Busnot Laurent|[2603.13105](https://arxiv.org/abs/2603.13105)|null|
 |**2026-03-13**|**Extending Topological Bound on Quantum Weight Beyond Symmetry-Protected Topological Phases**|Yi-Chun Hung, Yugo Onishi, Hsin Lin, Liang Fu, Arun Bansil|[2603.13041](https://arxiv.org/abs/2603.13041)|null|
 |**2026-03-13**|**Noncommutative QFT and Relative Entropy on Axisymmetric Bifurcate Killing Horizons**|Philipp Dorau, Albert Much, Rainer Verch|[2603.13029](https://arxiv.org/abs/2603.13029)|null|
