@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.17
+> Automatically updated on 2026.03.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-17, **Fractionalized anyons in counterflowing Quantum Hall Liquids**, Jun-Xiao Hui, T. H. Hansson, Egor Babaev, Paper: [https://arxiv.org/abs/2603.16222](https://arxiv.org/abs/2603.16222)
+- 2026-03-16, **Anomalous dynamical scaling in interacting anyonic chains**, Xu-Chen Yang, Botao Wang, Jianpeng Liu, Bing Yang, Jianmin Yuan, Yongqiang Li, Paper: [https://arxiv.org/abs/2603.15972](https://arxiv.org/abs/2603.15972), 8+8 pages, 4+7 figures
+- 2026-03-16, **Quantum simulation of lattice gauge theories coupled to fermionic matter via anyonic regularization**, Mason L. Rhodes, Shivesh Pathak, Riley W. Chien, Paper: [https://arxiv.org/abs/2603.15820](https://arxiv.org/abs/2603.15820)
+- 2026-03-16, **Bridging Worldsheet CFTs and Wormholes**, Yoav Zigdon, Paper: [https://arxiv.org/abs/2603.15739](https://arxiv.org/abs/2603.15739), 20 pages, 2 figures
+- 2026-03-16, **A Special $E_6\to G(2) \times SU(3)_A$ Embedding for Standard Model and Dark Matter**, Nicolò Masi, Paper: [https://arxiv.org/abs/2603.15710](https://arxiv.org/abs/2603.15710)
 - 2026-03-16, **FreeTalk: Emotional Topology-Free 3D Talking Heads**, Federico Nocentini, Thomas Besnier, Claudio Ferrari, Stefano Berretti, Mohamed Daoudi, Paper: [https://arxiv.org/abs/2603.15512](https://arxiv.org/abs/2603.15512)
 - 2026-03-16, **Motivic GUT Part I: Grand Unified Theory of Topological Order**, Masahiko G. Yamada, Paper: [https://arxiv.org/abs/2603.15361](https://arxiv.org/abs/2603.15361), 18 pages, 0 figure
 - 2026-03-16, **Lee-Yang Zeros and Pseudocritical Drift in J-Q Néel-VBS Transitions**, Chunhao Guo, Zhe Wang, Danhe Wang, Zenan Liu, Haiyuan Zou, Zheng Yan, Paper: [https://arxiv.org/abs/2603.15116](https://arxiv.org/abs/2603.15116)
@@ -1178,5 +1183,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
 

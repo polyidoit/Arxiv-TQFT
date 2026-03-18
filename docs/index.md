@@ -1,7 +1,12 @@
-> Automatically updated on 2026.03.17
+> Automatically updated on 2026.03.18
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-17**|**Fractionalized anyons in counterflowing Quantum Hall Liquids**|Jun-Xiao Hui, T. H. Hansson, Egor Babaev|[2603.16222](https://arxiv.org/abs/2603.16222)|null|
+|**2026-03-16**|**Anomalous dynamical scaling in interacting anyonic chains**|Xu-Chen Yang, Botao Wang, Jianpeng Liu, Bing Yang, Jianmin Yuan, Yongqiang Li|[2603.15972](https://arxiv.org/abs/2603.15972)|null|
+|**2026-03-16**|**Quantum simulation of lattice gauge theories coupled to fermionic matter via anyonic regularization**|Mason L. Rhodes, Shivesh Pathak, Riley W. Chien|[2603.15820](https://arxiv.org/abs/2603.15820)|null|
+|**2026-03-16**|**Bridging Worldsheet CFTs and Wormholes**|Yoav Zigdon|[2603.15739](https://arxiv.org/abs/2603.15739)|null|
+|**2026-03-16**|**A Special $E_6\to G(2) \times SU(3)_A$ Embedding for Standard Model and Dark Matter**|Nicolò Masi|[2603.15710](https://arxiv.org/abs/2603.15710)|null|
 |**2026-03-16**|**FreeTalk: Emotional Topology-Free 3D Talking Heads**|Federico Nocentini, Thomas Besnier, Claudio Ferrari, Stefano Berretti, Mohamed Daoudi|[2603.15512](https://arxiv.org/abs/2603.15512)|null|
 |**2026-03-16**|**Motivic GUT Part I: Grand Unified Theory of Topological Order**|Masahiko G. Yamada|[2603.15361](https://arxiv.org/abs/2603.15361)|null|
 |**2026-03-16**|**Lee-Yang Zeros and Pseudocritical Drift in J-Q Néel-VBS Transitions**|Chunhao Guo, Zhe Wang, Danhe Wang, Zenan Liu, Haiyuan Zou, Zheng Yan|[2603.15116](https://arxiv.org/abs/2603.15116)|null|
