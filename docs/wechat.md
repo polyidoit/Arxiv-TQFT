@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-17, **Fate of a Fractional Chern Insulator under Nonlocal Interactions in Synthetic Dimensions**, Patrick Liam Geraghty, Alberto Nardin, Leonardo Mazza, Matteo Rizzi, Paper: [https://arxiv.org/abs/2603.16724](https://arxiv.org/abs/2603.16724)
 - 2026-03-17, **Fractionalized anyons in counterflowing Quantum Hall Liquids**, Jun-Xiao Hui, T. H. Hansson, Egor Babaev, Paper: [https://arxiv.org/abs/2603.16222](https://arxiv.org/abs/2603.16222)
 - 2026-03-16, **Anomalous dynamical scaling in interacting anyonic chains**, Xu-Chen Yang, Botao Wang, Jianpeng Liu, Bing Yang, Jianmin Yuan, Yongqiang Li, Paper: [https://arxiv.org/abs/2603.15972](https://arxiv.org/abs/2603.15972), 8+8 pages, 4+7 figures
 - 2026-03-16, **Quantum simulation of lattice gauge theories coupled to fermionic matter via anyonic regularization**, Mason L. Rhodes, Shivesh Pathak, Riley W. Chien, Paper: [https://arxiv.org/abs/2603.15820](https://arxiv.org/abs/2603.15820)

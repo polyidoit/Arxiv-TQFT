@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Fate of a Fractional Chern Insulator under Nonlocal Interactions in Synthetic Dimensions**|Patrick Liam Geraghty, Alberto Nardin, Leonardo Mazza, Matteo Rizzi|[2603.16724](https://arxiv.org/abs/2603.16724)|null|
 |**2026-03-17**|**Fractionalized anyons in counterflowing Quantum Hall Liquids**|Jun-Xiao Hui, T. H. Hansson, Egor Babaev|[2603.16222](https://arxiv.org/abs/2603.16222)|null|
 |**2026-03-16**|**Anomalous dynamical scaling in interacting anyonic chains**|Xu-Chen Yang, Botao Wang, Jianpeng Liu, Bing Yang, Jianmin Yuan, Yongqiang Li|[2603.15972](https://arxiv.org/abs/2603.15972)|null|
 |**2026-03-16**|**Quantum simulation of lattice gauge theories coupled to fermionic matter via anyonic regularization**|Mason L. Rhodes, Shivesh Pathak, Riley W. Chien|[2603.15820](https://arxiv.org/abs/2603.15820)|null|
