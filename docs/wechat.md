@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-18, **Emergent superconformal symmetry in the phase diagram of a 1D $\mathbb{Z}_{2}$ lattice gauge theory**, Bachana Beradze, Mikheil Tsitsishvili, Sergej Moroz, Paper: [https://arxiv.org/abs/2603.17807](https://arxiv.org/abs/2603.17807), 15 pages, 9 figures
+- 2026-03-18, **Identification of sub-angstrom many-body localization in quantum materials by Bragg scattering phase breaking and ultrafast structural dynamics**, Yingpeng Qi, Jianmin Yang, Zhihui Zhou, Qing Xu, Yang Lv, Xiao Zou, Tao Jiang, Pengfei Zhu, Dongxue Chen, Zhenrong Sun, Lin Xie, Dao Xiang, Jiaqing He, Paper: [https://arxiv.org/abs/2603.17591](https://arxiv.org/abs/2603.17591)
+- 2026-03-18, **Dynamical Determination of the Cut-off Scale in Loop-Induced Neutrino Mass Models with Non-Invertible Symmetry**, Hiroshi Okada, Jia-Jun Wu, Paper: [https://arxiv.org/abs/2603.17587](https://arxiv.org/abs/2603.17587), 12 pages, 2 figures, 1 table
 - 2026-03-18, **W-algebras of the Deligne-Cvitanović Exceptional series and the minimal 3d ${\mathcal N}=4$ SCFT**, Thomas Creutzig, Niklas Garner, Byeonggi Go, Heeyeon Kim, Paper: [https://arxiv.org/abs/2603.17394](https://arxiv.org/abs/2603.17394), 28 pages
 - 2026-03-18, **Hexatic Order Coupled with Thermal Noise Produces Bubbles in Two-Dimensional Active Matter**, Luke Langford, Ahmad K. Omar, Paper: [https://arxiv.org/abs/2603.17320](https://arxiv.org/abs/2603.17320)
 - 2026-03-18, **Generalized symmetry-protected topological phases in mixed states from gauging dualities**, Linhao Li, Zhen Bi, Weiguang Cao, Paper: [https://arxiv.org/abs/2603.17282](https://arxiv.org/abs/2603.17282), 23 pages, 4 figures, 1 table
