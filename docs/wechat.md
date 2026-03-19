@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.18
+> Automatically updated on 2026.03.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-18, **W-algebras of the Deligne-Cvitanović Exceptional series and the minimal 3d ${\mathcal N}=4$ SCFT**, Thomas Creutzig, Niklas Garner, Byeonggi Go, Heeyeon Kim, Paper: [https://arxiv.org/abs/2603.17394](https://arxiv.org/abs/2603.17394), 28 pages
+- 2026-03-18, **Hexatic Order Coupled with Thermal Noise Produces Bubbles in Two-Dimensional Active Matter**, Luke Langford, Ahmad K. Omar, Paper: [https://arxiv.org/abs/2603.17320](https://arxiv.org/abs/2603.17320)
+- 2026-03-18, **Generalized symmetry-protected topological phases in mixed states from gauging dualities**, Linhao Li, Zhen Bi, Weiguang Cao, Paper: [https://arxiv.org/abs/2603.17282](https://arxiv.org/abs/2603.17282), 23 pages, 4 figures, 1 table
+- 2026-03-17, **Upward Book Embeddings of Partitioned Digraphs**, Giordano Da Lozzo, Fabrizio Frati, Ignaz Rutter, Paper: [https://arxiv.org/abs/2603.17128](https://arxiv.org/abs/2603.17128), Appears in SoCG '26
+- 2026-03-17, **The Structure of the Continuum Limit of Spin Foams**, Matteo Bruno, Eugenia Colafranceschi, Fabio M. Mele, Carlo Rovelli, Paper: [https://arxiv.org/abs/2603.16999](https://arxiv.org/abs/2603.16999), 34 + 26 pages, 6 figures
+- 2026-03-17, **Hydrodynamic Modeling of Odd Nematic Elasticity in Liquid Crystals**, Zeyang Mou, Haijie Ren, Ding Xu, Igor S. Aranson, Rui Zhang, Paper: [https://arxiv.org/abs/2603.16977](https://arxiv.org/abs/2603.16977)
 - 2026-03-17, **Fate of a Fractional Chern Insulator under Nonlocal Interactions in Synthetic Dimensions**, Patrick Liam Geraghty, Alberto Nardin, Leonardo Mazza, Matteo Rizzi, Paper: [https://arxiv.org/abs/2603.16724](https://arxiv.org/abs/2603.16724)
 - 2026-03-17, **Fractionalized anyons in counterflowing Quantum Hall Liquids**, Jun-Xiao Hui, T. H. Hansson, Egor Babaev, Paper: [https://arxiv.org/abs/2603.16222](https://arxiv.org/abs/2603.16222)
 - 2026-03-16, **Anomalous dynamical scaling in interacting anyonic chains**, Xu-Chen Yang, Botao Wang, Jianpeng Liu, Bing Yang, Jianmin Yuan, Yongqiang Li, Paper: [https://arxiv.org/abs/2603.15972](https://arxiv.org/abs/2603.15972), 8+8 pages, 4+7 figures
@@ -1184,5 +1190,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
 
