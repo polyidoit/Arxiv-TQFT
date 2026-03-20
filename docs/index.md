@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-19**|**Matrix Product States for Modulated Symmetries: SPT, LSM, and Beyond**|Amogh Anakru, Sarvesh Srinivasan, Linhao Li, Zhen Bi|[2603.19189](https://arxiv.org/abs/2603.19189)|null|
+|**2026-03-19**|**Non-Hermitian Structure and Exceptional Points in Yang-Mills Theory from Analytic Continuation of Nc**|Qingjun Jin, Ke Ren, Gang Yang, Rui Yu|[2603.19006](https://arxiv.org/abs/2603.19006)|null|
 |**2026-03-18**|**Symmetric Mass Generation in a Bilayer Honeycomb Lattice with $\mathrm{SU}(2)\times\mathrm{SU}(2)\times\mathrm{SU}(2)/\mathbb{Z}_2$ Symmetry**|Cheng-Hao He, Yi-Zhuang You, Xiao Yan Xu|[2603.18278](https://arxiv.org/abs/2603.18278)|null|
 |**2026-03-18**|**Moments in the CFT Landscape**|Li-Yuan Chiang, David Poland, Gordon Rogelberg|[2603.18140](https://arxiv.org/abs/2603.18140)|null|
 |**2026-03-18**|**The Resolved Elliptic Genus and the D1-D5 CFT**|Marcel R. R. Hughes, Masaki Shigemori|[2603.18138](https://arxiv.org/abs/2603.18138)|null|
