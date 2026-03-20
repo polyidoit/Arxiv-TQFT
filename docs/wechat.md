@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.19
+> Automatically updated on 2026.03.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-18, **Symmetric Mass Generation in a Bilayer Honeycomb Lattice with $\mathrm{SU}(2)\times\mathrm{SU}(2)\times\mathrm{SU}(2)/\mathbb{Z}_2$ Symmetry**, Cheng-Hao He, Yi-Zhuang You, Xiao Yan Xu, Paper: [https://arxiv.org/abs/2603.18278](https://arxiv.org/abs/2603.18278), 6+16 pages, 5+9 figures
+- 2026-03-18, **Moments in the CFT Landscape**, Li-Yuan Chiang, David Poland, Gordon Rogelberg, Paper: [https://arxiv.org/abs/2603.18140](https://arxiv.org/abs/2603.18140), 49 pages, 25 figures
+- 2026-03-18, **The Resolved Elliptic Genus and the D1-D5 CFT**, Marcel R. R. Hughes, Masaki Shigemori, Paper: [https://arxiv.org/abs/2603.18138](https://arxiv.org/abs/2603.18138), 45 pages + appendices
+- 2026-03-18, **When do real observers resolve de Sitter's imaginary problem?**, Ahmed Farag Ali, Paper: [https://arxiv.org/abs/2603.18068](https://arxiv.org/abs/2603.18068), 4 pages, 1 TikZ figure, RevTeX 4.2; accepted for publication in Commun. Theor. Phys
 - 2026-03-18, **Emergent superconformal symmetry in the phase diagram of a 1D $\mathbb{Z}_{2}$ lattice gauge theory**, Bachana Beradze, Mikheil Tsitsishvili, Sergej Moroz, Paper: [https://arxiv.org/abs/2603.17807](https://arxiv.org/abs/2603.17807), 15 pages, 9 figures
 - 2026-03-18, **Identification of sub-angstrom many-body localization in quantum materials by Bragg scattering phase breaking and ultrafast structural dynamics**, Yingpeng Qi, Jianmin Yang, Zhihui Zhou, Qing Xu, Yang Lv, Xiao Zou, Tao Jiang, Pengfei Zhu, Dongxue Chen, Zhenrong Sun, Lin Xie, Dao Xiang, Jiaqing He, Paper: [https://arxiv.org/abs/2603.17591](https://arxiv.org/abs/2603.17591)
 - 2026-03-18, **Dynamical Determination of the Cut-off Scale in Loop-Induced Neutrino Mass Models with Non-Invertible Symmetry**, Hiroshi Okada, Jia-Jun Wu, Paper: [https://arxiv.org/abs/2603.17587](https://arxiv.org/abs/2603.17587), 12 pages, 2 figures, 1 table
@@ -1193,5 +1197,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 

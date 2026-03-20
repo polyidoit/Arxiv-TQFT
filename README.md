@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.03.19
+> Automatically updated on 2026.03.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Symmetric Mass Generation in a Bilayer Honeycomb Lattice with $\mathrm{SU}(2)\times\mathrm{SU}(2)\times\mathrm{SU}(2)/\mathbb{Z}_2$ Symmetry**|Cheng-Hao He, Yi-Zhuang You, Xiao Yan Xu|[2603.18278](https://arxiv.org/abs/2603.18278)|null|
+|**2026-03-18**|**Moments in the CFT Landscape**|Li-Yuan Chiang, David Poland, Gordon Rogelberg|[2603.18140](https://arxiv.org/abs/2603.18140)|null|
+|**2026-03-18**|**The Resolved Elliptic Genus and the D1-D5 CFT**|Marcel R. R. Hughes, Masaki Shigemori|[2603.18138](https://arxiv.org/abs/2603.18138)|null|
+|**2026-03-18**|**When do real observers resolve de Sitter's imaginary problem?**|Ahmed Farag Ali|[2603.18068](https://arxiv.org/abs/2603.18068)|null|
 |**2026-03-18**|**Emergent superconformal symmetry in the phase diagram of a 1D $\mathbb{Z}_{2}$ lattice gauge theory**|Bachana Beradze, Mikheil Tsitsishvili, Sergej Moroz|[2603.17807](https://arxiv.org/abs/2603.17807)|null|
 |**2026-03-18**|**Identification of sub-angstrom many-body localization in quantum materials by Bragg scattering phase breaking and ultrafast structural dynamics**|Yingpeng Qi, Jianmin Yang, Zhihui Zhou, Qing Xu, Yang Lv, Xiao Zou, Tao Jiang, Pengfei Zhu, Dongxue Chen, Zhenrong Sun, Lin Xie, Dao Xiang, Jiaqing He|[2603.17591](https://arxiv.org/abs/2603.17591)|null|
 |**2026-03-18**|**Dynamical Determination of the Cut-off Scale in Loop-Induced Neutrino Mass Models with Non-Invertible Symmetry**|Hiroshi Okada, Jia-Jun Wu|[2603.17587](https://arxiv.org/abs/2603.17587)|null|
@@ -1992,5 +1996,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260320>back to top</a>)</p>
 
