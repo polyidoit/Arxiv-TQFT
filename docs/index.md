@@ -1,7 +1,11 @@
-> Automatically updated on 2026.03.22
+> Automatically updated on 2026.03.23
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-20**|**On tt*-structures from $ADE$ -type Stokes data**|Tadashi Udagawa|[2603.19871](https://arxiv.org/abs/2603.19871)|null|
+|**2026-03-19**|**Interpolation in Species and a Lift of the Hopf Algebra of r-Quasisymmetric Functions**|Aaron Lauve, Anthony Lazzeroni|[2603.19494](https://arxiv.org/abs/2603.19494)|null|
+|**2026-03-19**|**Modular Properties of Symplectic Fermion Generalised Gibbs Ensemble**|Faisal Karimi, Gérard M. T. Watts|[2603.19383](https://arxiv.org/abs/2603.19383)|null|
+|**2026-03-19**|**Matrix Product States for Modulated Topological Phases: Crystalline Equivalence Principle and Lieb-Schultz-Mattis Constraints**|Shang-Qiang Ning, Hiromi Ebisu, Ho Tat Lam|[2603.19381](https://arxiv.org/abs/2603.19381)|null|
 |**2026-03-19**|**Matrix Product States for Modulated Symmetries: SPT, LSM, and Beyond**|Amogh Anakru, Sarvesh Srinivasan, Linhao Li, Zhen Bi|[2603.19189](https://arxiv.org/abs/2603.19189)|null|
 |**2026-03-19**|**Non-Hermitian Structure and Exceptional Points in Yang-Mills Theory from Analytic Continuation of Nc**|Qingjun Jin, Ke Ren, Gang Yang, Rui Yu|[2603.19006](https://arxiv.org/abs/2603.19006)|null|
 |**2026-03-18**|**Symmetric Mass Generation in a Bilayer Honeycomb Lattice with $\mathrm{SU}(2)\times\mathrm{SU}(2)\times\mathrm{SU}(2)/\mathbb{Z}_2$ Symmetry**|Cheng-Hao He, Yi-Zhuang You, Xiao Yan Xu|[2603.18278](https://arxiv.org/abs/2603.18278)|null|

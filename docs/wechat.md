@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.22
+> Automatically updated on 2026.03.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-20, **On tt*-structures from $ADE$ -type Stokes data**, Tadashi Udagawa, Paper: [https://arxiv.org/abs/2603.19871](https://arxiv.org/abs/2603.19871), 24 pages, 2 figures
+- 2026-03-19, **Interpolation in Species and a Lift of the Hopf Algebra of r-Quasisymmetric Functions**, Aaron Lauve, Anthony Lazzeroni, Paper: [https://arxiv.org/abs/2603.19494](https://arxiv.org/abs/2603.19494)
+- 2026-03-19, **Modular Properties of Symplectic Fermion Generalised Gibbs Ensemble**, Faisal Karimi, Gérard M. T. Watts, Paper: [https://arxiv.org/abs/2603.19383](https://arxiv.org/abs/2603.19383), 53 pages, 3 figures
+- 2026-03-19, **Matrix Product States for Modulated Topological Phases: Crystalline Equivalence Principle and Lieb-Schultz-Mattis Constraints**, Shang-Qiang Ning, Hiromi Ebisu, Ho Tat Lam, Paper: [https://arxiv.org/abs/2603.19381](https://arxiv.org/abs/2603.19381), 19 pages, 2 figures
 - 2026-03-19, **Matrix Product States for Modulated Symmetries: SPT, LSM, and Beyond**, Amogh Anakru, Sarvesh Srinivasan, Linhao Li, Zhen Bi, Paper: [https://arxiv.org/abs/2603.19189](https://arxiv.org/abs/2603.19189), 5 pages, 16 page appendix
 - 2026-03-19, **Non-Hermitian Structure and Exceptional Points in Yang-Mills Theory from Analytic Continuation of Nc**, Qingjun Jin, Ke Ren, Gang Yang, Rui Yu, Paper: [https://arxiv.org/abs/2603.19006](https://arxiv.org/abs/2603.19006), 21 pages, 10 figures
 - 2026-03-18, **Symmetric Mass Generation in a Bilayer Honeycomb Lattice with $\mathrm{SU}(2)\times\mathrm{SU}(2)\times\mathrm{SU}(2)/\mathbb{Z}_2$ Symmetry**, Cheng-Hao He, Yi-Zhuang You, Xiao Yan Xu, Paper: [https://arxiv.org/abs/2603.18278](https://arxiv.org/abs/2603.18278), 6+16 pages, 5+9 figures
@@ -1199,5 +1203,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
