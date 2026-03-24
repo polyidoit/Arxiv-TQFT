@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-23**|**On the semi-abelianness of cocommutative Hopf monoids**|Andrea Sciandra, Zhenbang Zuo|[2603.22200](https://arxiv.org/abs/2603.22200)|null|
+|**2026-03-23**|**Drinfeld Center as Quantum State Monodromy over Bloch Hamiltonians around Defects**|Hisham Sati, Urs Schreiber|[2603.22029](https://arxiv.org/abs/2603.22029)|null|
+|**2026-03-23**|**B(H) is not a twisted groupoid C*-algebra**|Alcides Buss, Luiz Felipe Garcia, Tomás Pacheco|[2603.21946](https://arxiv.org/abs/2603.21946)|null|
+|**2026-03-23**|**Hall viscosity and putative quantum Hall states without positive-definite K-matrix**|Emanuele Di Salvo, Dirk Schuricht, Joost K. Slingerland, Mikael Fremling|[2603.21794](https://arxiv.org/abs/2603.21794)|null|
+|**2026-03-23**|**Neural Belief-Matching Decoding for Topological Quantum Error Correction Codes**|Luca Menti, Francisco Lázaro|[2603.21730](https://arxiv.org/abs/2603.21730)|null|
+|**2026-03-23**|**Freeform Spectrally Stable Topological Photonic Vortex Resonators**|Yuma Kawaguchi, Daria Smirnova, Filipp Komissarenko, Daria Kafeeva, Svetlana Kiriushechkina, Jeffery Allen, Monica Allen, Andrea Alù, Alexander Khanikaev|[2603.21486](https://arxiv.org/abs/2603.21486)|null|
+|**2026-03-22**|**Holographic One-Point Function and Geodesics in SdS $_3$**|Arundhati Goldar, Nirmalya Kajuri, Rhitaparna Pal|[2603.21425](https://arxiv.org/abs/2603.21425)|null|
+|**2026-03-22**|**Universally Diverging Grüneisen Ratio of Holographic Quantum Criticality**|Jun-Kun Zhao, Enze Lv, Wei Li, Li Li|[2603.21320](https://arxiv.org/abs/2603.21320)|null|
+|**2026-03-22**|**Non-invertible symmetries and boundary conditions for the transverse-field Ising model**|Huan-Qiang Zhou, Qian-Qian Shi|[2603.21290](https://arxiv.org/abs/2603.21290)|null|
+|**2026-03-22**|**Chiral Spin Liquid in Rydberg Atom Arrays**|Yu-Feng Mao, Shicheng Ma, Yong Xu|[2603.21147](https://arxiv.org/abs/2603.21147)|null|
 |**2026-03-21**|**A Hopf algebra on nonplanar binary forests**|Elizabeth Xiao|[2603.20598](https://arxiv.org/abs/2603.20598)|null|
 |**2026-03-20**|**Collective Spin Excitations in Correlated Moiré Chern Ferromagnets**|Ming Xie, Sankar Das Sarma|[2603.20370](https://arxiv.org/abs/2603.20370)|null|
 |**2026-03-19**|**A 67%-Rate CSS Code on the FCC Lattice: [[192,130,3]] from Weight-12 Stabilizers**|Raghu Kulkarni|[2603.20294](https://arxiv.org/abs/2603.20294)|null|

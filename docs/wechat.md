@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-23, **On the semi-abelianness of cocommutative Hopf monoids**, Andrea Sciandra, Zhenbang Zuo, Paper: [https://arxiv.org/abs/2603.22200](https://arxiv.org/abs/2603.22200), 41 pages
+- 2026-03-23, **Drinfeld Center as Quantum State Monodromy over Bloch Hamiltonians around Defects**, Hisham Sati, Urs Schreiber, Paper: [https://arxiv.org/abs/2603.22029](https://arxiv.org/abs/2603.22029), 19 pages, 4 figures
+- 2026-03-23, **B(H) is not a twisted groupoid C*-algebra**, Alcides Buss, Luiz Felipe Garcia, Tomás Pacheco, Paper: [https://arxiv.org/abs/2603.21946](https://arxiv.org/abs/2603.21946), 10 pages
+- 2026-03-23, **Hall viscosity and putative quantum Hall states without positive-definite K-matrix**, Emanuele Di Salvo, Dirk Schuricht, Joost K. Slingerland, Mikael Fremling, Paper: [https://arxiv.org/abs/2603.21794](https://arxiv.org/abs/2603.21794), 26 pages, 13 figures
+- 2026-03-23, **Neural Belief-Matching Decoding for Topological Quantum Error Correction Codes**, Luca Menti, Francisco Lázaro, Paper: [https://arxiv.org/abs/2603.21730](https://arxiv.org/abs/2603.21730), 6 pages, 8 figures
+- 2026-03-23, **Freeform Spectrally Stable Topological Photonic Vortex Resonators**, Yuma Kawaguchi, Daria Smirnova, Filipp Komissarenko, Daria Kafeeva, Svetlana Kiriushechkina, Jeffery Allen, Monica Allen, Andrea Alù, Alexander Khanikaev, Paper: [https://arxiv.org/abs/2603.21486](https://arxiv.org/abs/2603.21486), 13 pages, 5 figures
+- 2026-03-22, **Holographic One-Point Function and Geodesics in SdS $_3$**, Arundhati Goldar, Nirmalya Kajuri, Rhitaparna Pal, Paper: [https://arxiv.org/abs/2603.21425](https://arxiv.org/abs/2603.21425), 20 pages, no figures
+- 2026-03-22, **Universally Diverging Grüneisen Ratio of Holographic Quantum Criticality**, Jun-Kun Zhao, Enze Lv, Wei Li, Li Li, Paper: [https://arxiv.org/abs/2603.21320](https://arxiv.org/abs/2603.21320), 17 pages, 12 figures
+- 2026-03-22, **Non-invertible symmetries and boundary conditions for the transverse-field Ising model**, Huan-Qiang Zhou, Qian-Qian Shi, Paper: [https://arxiv.org/abs/2603.21290](https://arxiv.org/abs/2603.21290), 7 pages
+- 2026-03-22, **Chiral Spin Liquid in Rydberg Atom Arrays**, Yu-Feng Mao, Shicheng Ma, Yong Xu, Paper: [https://arxiv.org/abs/2603.21147](https://arxiv.org/abs/2603.21147), 9 pages (including supplemental material), 7 figures
 - 2026-03-21, **A Hopf algebra on nonplanar binary forests**, Elizabeth Xiao, Paper: [https://arxiv.org/abs/2603.20598](https://arxiv.org/abs/2603.20598), 26 pages, 4 figures
 - 2026-03-20, **Collective Spin Excitations in Correlated Moiré Chern Ferromagnets**, Ming Xie, Sankar Das Sarma, Paper: [https://arxiv.org/abs/2603.20370](https://arxiv.org/abs/2603.20370)
 - 2026-03-19, **A 67%-Rate CSS Code on the FCC Lattice: [[192,130,3]] from Weight-12 Stabilizers**, Raghu Kulkarni, Paper: [https://arxiv.org/abs/2603.20294](https://arxiv.org/abs/2603.20294), 14 pages, 2 figures, 3 tables, 2 appendices with reproducible Python code
