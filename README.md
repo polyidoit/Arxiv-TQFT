@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.03.23
+> Automatically updated on 2026.03.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-21**|**A Hopf algebra on nonplanar binary forests**|Elizabeth Xiao|[2603.20598](https://arxiv.org/abs/2603.20598)|null|
+|**2026-03-20**|**Collective Spin Excitations in Correlated Moiré Chern Ferromagnets**|Ming Xie, Sankar Das Sarma|[2603.20370](https://arxiv.org/abs/2603.20370)|null|
+|**2026-03-19**|**A 67%-Rate CSS Code on the FCC Lattice: [[192,130,3]] from Weight-12 Stabilizers**|Raghu Kulkarni|[2603.20294](https://arxiv.org/abs/2603.20294)|null|
 |**2026-03-20**|**On tt*-structures from $ADE$ -type Stokes data**|Tadashi Udagawa|[2603.19871](https://arxiv.org/abs/2603.19871)|null|
 |**2026-03-19**|**Interpolation in Species and a Lift of the Hopf Algebra of r-Quasisymmetric Functions**|Aaron Lauve, Anthony Lazzeroni|[2603.19494](https://arxiv.org/abs/2603.19494)|null|
 |**2026-03-19**|**Modular Properties of Symplectic Fermion Generalised Gibbs Ensemble**|Faisal Karimi, Gérard M. T. Watts|[2603.19383](https://arxiv.org/abs/2603.19383)|null|
@@ -2002,5 +2005,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.23
+> Automatically updated on 2026.03.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-21, **A Hopf algebra on nonplanar binary forests**, Elizabeth Xiao, Paper: [https://arxiv.org/abs/2603.20598](https://arxiv.org/abs/2603.20598), 26 pages, 4 figures
+- 2026-03-20, **Collective Spin Excitations in Correlated Moiré Chern Ferromagnets**, Ming Xie, Sankar Das Sarma, Paper: [https://arxiv.org/abs/2603.20370](https://arxiv.org/abs/2603.20370)
+- 2026-03-19, **A 67%-Rate CSS Code on the FCC Lattice: [[192,130,3]] from Weight-12 Stabilizers**, Raghu Kulkarni, Paper: [https://arxiv.org/abs/2603.20294](https://arxiv.org/abs/2603.20294), 14 pages, 2 figures, 3 tables, 2 appendices with reproducible Python code
 - 2026-03-20, **On tt*-structures from $ADE$ -type Stokes data**, Tadashi Udagawa, Paper: [https://arxiv.org/abs/2603.19871](https://arxiv.org/abs/2603.19871), 24 pages, 2 figures
 - 2026-03-19, **Interpolation in Species and a Lift of the Hopf Algebra of r-Quasisymmetric Functions**, Aaron Lauve, Anthony Lazzeroni, Paper: [https://arxiv.org/abs/2603.19494](https://arxiv.org/abs/2603.19494)
 - 2026-03-19, **Modular Properties of Symplectic Fermion Generalised Gibbs Ensemble**, Faisal Karimi, Gérard M. T. Watts, Paper: [https://arxiv.org/abs/2603.19383](https://arxiv.org/abs/2603.19383), 53 pages, 3 figures
@@ -1203,5 +1206,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
 
