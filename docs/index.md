@@ -1,7 +1,11 @@
-> Automatically updated on 2026.03.24
+> Automatically updated on 2026.03.25
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-24**|**From Quantum Dimers to the $π$ -flux Toric Code via Deconfined Multicriticality**|Ankush Chaubey, Sergej Moroz, Subhro Bhattacharjee|[2603.23154](https://arxiv.org/abs/2603.23154)|null|
+|**2026-03-24**|**Symmetric Mass Generation Transition and its Nonequilibrium Critical Dynamics in a Bilayer Honeycomb Lattice Model**|Zhi-Xuan Li, Yin-Kai Yu, Zi-Xiang Li, Shuai Yin|[2603.22736](https://arxiv.org/abs/2603.22736)|null|
+|**2026-03-23**|**Super Sum rules for Long-Range Models**|Kausik Ghosh, Miguel F. Paulos, Noé Suchel, Zechuan Zheng|[2603.22395](https://arxiv.org/abs/2603.22395)|null|
+|**2026-03-23**|**A Conformal Bridge for the Light Transform of QCD Correlation Functions**|Hao Chen, Pier Francesco Monni, Zhaoyan Pang, Gherardo Vita, Hua Xing Zhu|[2603.22388](https://arxiv.org/abs/2603.22388)|null|
 |**2026-03-23**|**On the semi-abelianness of cocommutative Hopf monoids**|Andrea Sciandra, Zhenbang Zuo|[2603.22200](https://arxiv.org/abs/2603.22200)|null|
 |**2026-03-23**|**Drinfeld Center as Quantum State Monodromy over Bloch Hamiltonians around Defects**|Hisham Sati, Urs Schreiber|[2603.22029](https://arxiv.org/abs/2603.22029)|null|
 |**2026-03-23**|**B(H) is not a twisted groupoid C*-algebra**|Alcides Buss, Luiz Felipe Garcia, Tomás Pacheco|[2603.21946](https://arxiv.org/abs/2603.21946)|null|

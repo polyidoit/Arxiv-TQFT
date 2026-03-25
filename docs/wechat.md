@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.24
+> Automatically updated on 2026.03.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-24, **From Quantum Dimers to the $π$ -flux Toric Code via Deconfined Multicriticality**, Ankush Chaubey, Sergej Moroz, Subhro Bhattacharjee, Paper: [https://arxiv.org/abs/2603.23154](https://arxiv.org/abs/2603.23154)
+- 2026-03-24, **Symmetric Mass Generation Transition and its Nonequilibrium Critical Dynamics in a Bilayer Honeycomb Lattice Model**, Zhi-Xuan Li, Yin-Kai Yu, Zi-Xiang Li, Shuai Yin, Paper: [https://arxiv.org/abs/2603.22736](https://arxiv.org/abs/2603.22736), 6+3 pages,4+3 figures
+- 2026-03-23, **Super Sum rules for Long-Range Models**, Kausik Ghosh, Miguel F. Paulos, Noé Suchel, Zechuan Zheng, Paper: [https://arxiv.org/abs/2603.22395](https://arxiv.org/abs/2603.22395), 28 pages + appendices, 8 figures, 1 Mathematica notebook
+- 2026-03-23, **A Conformal Bridge for the Light Transform of QCD Correlation Functions**, Hao Chen, Pier Francesco Monni, Zhaoyan Pang, Gherardo Vita, Hua Xing Zhu, Paper: [https://arxiv.org/abs/2603.22388](https://arxiv.org/abs/2603.22388), 5 pages, 2 beautiful figures
 - 2026-03-23, **On the semi-abelianness of cocommutative Hopf monoids**, Andrea Sciandra, Zhenbang Zuo, Paper: [https://arxiv.org/abs/2603.22200](https://arxiv.org/abs/2603.22200), 41 pages
 - 2026-03-23, **Drinfeld Center as Quantum State Monodromy over Bloch Hamiltonians around Defects**, Hisham Sati, Urs Schreiber, Paper: [https://arxiv.org/abs/2603.22029](https://arxiv.org/abs/2603.22029), 19 pages, 4 figures
 - 2026-03-23, **B(H) is not a twisted groupoid C*-algebra**, Alcides Buss, Luiz Felipe Garcia, Tomás Pacheco, Paper: [https://arxiv.org/abs/2603.21946](https://arxiv.org/abs/2603.21946), 10 pages
@@ -1216,5 +1220,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
