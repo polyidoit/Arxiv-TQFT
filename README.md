@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Quantum simulation of Motzkin spin chain with Rydberg atoms**|Kaustav Mukherjee, Hatem Barghathi, Adrian Del Maestro, Rick Mukherjee|[2603.23422](https://arxiv.org/abs/2603.23422)|null|
+|**2026-03-24**|**Topological Filtering and Emergent Kondo Scale**|Ryosuke Yoshii, Rio Oto|[2603.23403](https://arxiv.org/abs/2603.23403)|null|
+|**2026-03-24**|**The Large Affine Hecke Category is Calabi-Yau**|Yuji Okitani|[2603.23338](https://arxiv.org/abs/2603.23338)|null|
 |**2026-03-24**|**From Quantum Dimers to the $π$ -flux Toric Code via Deconfined Multicriticality**|Ankush Chaubey, Sergej Moroz, Subhro Bhattacharjee|[2603.23154](https://arxiv.org/abs/2603.23154)|null|
 |**2026-03-24**|**Symmetric Mass Generation Transition and its Nonequilibrium Critical Dynamics in a Bilayer Honeycomb Lattice Model**|Zhi-Xuan Li, Yin-Kai Yu, Zi-Xiang Li, Shuai Yin|[2603.22736](https://arxiv.org/abs/2603.22736)|null|
 |**2026-03-23**|**Super Sum rules for Long-Range Models**|Kausik Ghosh, Miguel F. Paulos, Noé Suchel, Zechuan Zheng|[2603.22395](https://arxiv.org/abs/2603.22395)|null|

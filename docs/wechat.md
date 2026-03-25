@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-24, **Quantum simulation of Motzkin spin chain with Rydberg atoms**, Kaustav Mukherjee, Hatem Barghathi, Adrian Del Maestro, Rick Mukherjee, Paper: [https://arxiv.org/abs/2603.23422](https://arxiv.org/abs/2603.23422), 11 pages, 10 figures
+- 2026-03-24, **Topological Filtering and Emergent Kondo Scale**, Ryosuke Yoshii, Rio Oto, Paper: [https://arxiv.org/abs/2603.23403](https://arxiv.org/abs/2603.23403), 10 pages, 6 figures
+- 2026-03-24, **The Large Affine Hecke Category is Calabi-Yau**, Yuji Okitani, Paper: [https://arxiv.org/abs/2603.23338](https://arxiv.org/abs/2603.23338), 13 pages, comments welcome
 - 2026-03-24, **From Quantum Dimers to the $π$ -flux Toric Code via Deconfined Multicriticality**, Ankush Chaubey, Sergej Moroz, Subhro Bhattacharjee, Paper: [https://arxiv.org/abs/2603.23154](https://arxiv.org/abs/2603.23154)
 - 2026-03-24, **Symmetric Mass Generation Transition and its Nonequilibrium Critical Dynamics in a Bilayer Honeycomb Lattice Model**, Zhi-Xuan Li, Yin-Kai Yu, Zi-Xiang Li, Shuai Yin, Paper: [https://arxiv.org/abs/2603.22736](https://arxiv.org/abs/2603.22736), 6+3 pages,4+3 figures
 - 2026-03-23, **Super Sum rules for Long-Range Models**, Kausik Ghosh, Miguel F. Paulos, Noé Suchel, Zechuan Zheng, Paper: [https://arxiv.org/abs/2603.22395](https://arxiv.org/abs/2603.22395), 28 pages + appendices, 8 figures, 1 Mathematica notebook
