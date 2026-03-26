@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-25, **Classification of intrinsically mixed $1+1$D non-invertible Rep$(G) \times G$ SPT phases**, Youxuan Wang, Paper: [https://arxiv.org/abs/2603.24289](https://arxiv.org/abs/2603.24289)
+- 2026-03-25, **Derivation of optimal stochastic Runge-Kutta methods with exotic and decorated Butcher series for the weak integration of stochastic dynamics**, Adrien Busnot Laurent, Kristian Debrabant, Anne Kværnø, Paper: [https://arxiv.org/abs/2603.24255](https://arxiv.org/abs/2603.24255), 29 pages
+- 2026-03-25, **On relation of the genus one Moore-Seiberg identity to the Baxter Q-operator in the hyperbolic Ruijsenaars model**, Elena Apresyan, Gor Sarkissian, Paper: [https://arxiv.org/abs/2603.24123](https://arxiv.org/abs/2603.24123), 16 pages
+- 2026-03-25, **Mixed-State Topological Phase: Quantized Topological Order Parameter and Lieb-Schultz-Mattis Theorem**, Linhao Li, Yuan Yao, Paper: [https://arxiv.org/abs/2603.24031](https://arxiv.org/abs/2603.24031), 11 pages, 1 figure
 - 2026-03-24, **Quantum simulation of Motzkin spin chain with Rydberg atoms**, Kaustav Mukherjee, Hatem Barghathi, Adrian Del Maestro, Rick Mukherjee, Paper: [https://arxiv.org/abs/2603.23422](https://arxiv.org/abs/2603.23422), 11 pages, 10 figures
 - 2026-03-24, **Topological Filtering and Emergent Kondo Scale**, Ryosuke Yoshii, Rio Oto, Paper: [https://arxiv.org/abs/2603.23403](https://arxiv.org/abs/2603.23403), 10 pages, 6 figures
 - 2026-03-24, **The Large Affine Hecke Category is Calabi-Yau**, Yuji Okitani, Paper: [https://arxiv.org/abs/2603.23338](https://arxiv.org/abs/2603.23338), 13 pages, comments welcome
