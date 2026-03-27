@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.03.26
+> Automatically updated on 2026.03.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Chern-Simons theory in mathematics, condensed matter theory and cosmology**|Jürg Fröhlich|[2603.25346](https://arxiv.org/abs/2603.25346)|null|
+|**2026-03-26**|**From Intent to Evidence: A Categorical Approach for Structural Evaluation of Deep Research Agents**|Shuoling Liu, Zhiquan Tan, Kun Yi, Hui Wu, Yihan Li, Jiangpeng Yan, Liyuan Chen, Kai Chen, Qiang Yang|[2603.25342](https://arxiv.org/abs/2603.25342)|null|
+|**2026-03-26**|**Dual gravities from entanglement entropy**|Jaehyeok Huh, Chanyong Park|[2603.25270](https://arxiv.org/abs/2603.25270)|null|
+|**2026-03-26**|**Explicit States with Two-sided Long-Range Magic**|Zhi Li|[2603.25023](https://arxiv.org/abs/2603.25023)|null|
 |**2026-03-25**|**Classification of intrinsically mixed $1+1$D non-invertible Rep$(G) \times G$ SPT phases**|Youxuan Wang|[2603.24289](https://arxiv.org/abs/2603.24289)|null|
 |**2026-03-25**|**Derivation of optimal stochastic Runge-Kutta methods with exotic and decorated Butcher series for the weak integration of stochastic dynamics**|Adrien Busnot Laurent, Kristian Debrabant, Anne Kværnø|[2603.24255](https://arxiv.org/abs/2603.24255)|null|
 |**2026-03-25**|**On relation of the genus one Moore-Seiberg identity to the Baxter Q-operator in the hyperbolic Ruijsenaars model**|Elena Apresyan, Gor Sarkissian|[2603.24123](https://arxiv.org/abs/2603.24123)|null|
@@ -2026,5 +2030,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 

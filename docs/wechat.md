@@ -1,4 +1,4 @@
-> Automatically updated on 2026.03.26
+> Automatically updated on 2026.03.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-26, **Chern-Simons theory in mathematics, condensed matter theory and cosmology**, Jürg Fröhlich, Paper: [https://arxiv.org/abs/2603.25346](https://arxiv.org/abs/2603.25346), 14 pages, no figures, accepted for publication in the `Notices of the American Mathematical Society' (Simons Memorial Collection)
+- 2026-03-26, **From Intent to Evidence: A Categorical Approach for Structural Evaluation of Deep Research Agents**, Shuoling Liu, Zhiquan Tan, Kun Yi, Hui Wu, Yihan Li, Jiangpeng Yan, Liyuan Chen, Kai Chen, Qiang Yang, Paper: [https://arxiv.org/abs/2603.25342](https://arxiv.org/abs/2603.25342)
+- 2026-03-26, **Dual gravities from entanglement entropy**, Jaehyeok Huh, Chanyong Park, Paper: [https://arxiv.org/abs/2603.25270](https://arxiv.org/abs/2603.25270), 27 pages,10 figures
+- 2026-03-26, **Explicit States with Two-sided Long-Range Magic**, Zhi Li, Paper: [https://arxiv.org/abs/2603.25023](https://arxiv.org/abs/2603.25023)
 - 2026-03-25, **Classification of intrinsically mixed $1+1$D non-invertible Rep$(G) \times G$ SPT phases**, Youxuan Wang, Paper: [https://arxiv.org/abs/2603.24289](https://arxiv.org/abs/2603.24289)
 - 2026-03-25, **Derivation of optimal stochastic Runge-Kutta methods with exotic and decorated Butcher series for the weak integration of stochastic dynamics**, Adrien Busnot Laurent, Kristian Debrabant, Anne Kværnø, Paper: [https://arxiv.org/abs/2603.24255](https://arxiv.org/abs/2603.24255), 29 pages
 - 2026-03-25, **On relation of the genus one Moore-Seiberg identity to the Baxter Q-operator in the hyperbolic Ruijsenaars model**, Elena Apresyan, Gor Sarkissian, Paper: [https://arxiv.org/abs/2603.24123](https://arxiv.org/abs/2603.24123), 16 pages
@@ -1227,5 +1231,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
