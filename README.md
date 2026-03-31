@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.03.30
+> Automatically updated on 2026.03.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-28**|**Bistable Fourth Sound Resonance in Superfluid $^3$ He-B due to Gap Suppression**|Alexander J. Shook, Daksh Malhotra, Aymar Muhikira, John P. Davis|[2603.27131](https://arxiv.org/abs/2603.27131)|null|
+|**2026-03-27**|**Reflections on time-reversal in the Symmetry Topological Field Theory**|Lea E. Bottini, Nick G. Jones|[2603.26884](https://arxiv.org/abs/2603.26884)|null|
+|**2026-03-27**|**Global Structure, Non-Invertible PQ Symmetry, and the DFSZ Domain Wall Problem**|Gongjun Choi, Sungwoo Hong, Seth Koren|[2603.26867](https://arxiv.org/abs/2603.26867)|null|
+|**2026-03-27**|**Orthogonal pairs of Euler elements II: Geometric Bisognano--Wichmann and Spin--Statistics Theorems**|Vincenzo Morinelli, Karl-Hermann Neeb, Gestur Olafsson|[2603.26390](https://arxiv.org/abs/2603.26390)|null|
+|**2026-03-27**|**Implication of dressed form of relational observable on von Neumann algebra**|Min-Seok Seo|[2603.25990](https://arxiv.org/abs/2603.25990)|null|
+|**2026-03-26**|**Scalable topological quantum computing based on Sine-Cosine chain models**|A. Lykholat, G. F. Moreira, I. R. Martins, D. Sousa, A. M. Marques, R. G. Dias|[2603.25952](https://arxiv.org/abs/2603.25952)|null|
+|**2026-03-26**|**Typical entanglement in anyon chains: Page curves beyond Lie group symmetries**|Yale Yauk, Lucas Hackl, Alexander Hahn|[2603.25789](https://arxiv.org/abs/2603.25789)|null|
 |**2026-03-26**|**Chern-Simons theory in mathematics, condensed matter theory and cosmology**|Jürg Fröhlich|[2603.25346](https://arxiv.org/abs/2603.25346)|null|
 |**2026-03-26**|**From Intent to Evidence: A Categorical Approach for Structural Evaluation of Deep Research Agents**|Shuoling Liu, Zhiquan Tan, Kun Yi, Hui Wu, Yihan Li, Jiangpeng Yan, Liyuan Chen, Kai Chen, Qiang Yang|[2603.25342](https://arxiv.org/abs/2603.25342)|null|
 |**2026-03-26**|**Dual gravities from entanglement entropy**|Jaehyeok Huh, Chanyong Park|[2603.25270](https://arxiv.org/abs/2603.25270)|null|
@@ -2030,5 +2037,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
