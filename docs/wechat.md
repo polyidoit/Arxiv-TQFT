@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-30, **Categorical Time-Reversal Symmetries**, Rui Wen, Sakura Schafer-Nameki, Paper: [https://arxiv.org/abs/2603.28720](https://arxiv.org/abs/2603.28720), 43 pages
+- 2026-03-30, **3D gravity and double copy theory**, Maor Ben-Shahar, Francesco Bonechi, Maxim Zabzine, Paper: [https://arxiv.org/abs/2603.28639](https://arxiv.org/abs/2603.28639), 6 pages
+- 2026-03-30, **Rounded hard squares confined in a circle**, Zhongtian Yuan, Yao Li, Paper: [https://arxiv.org/abs/2603.28609](https://arxiv.org/abs/2603.28609), 8 pages, 6 figures, accepted by Soft Matter
+- 2026-03-30, **Symmetry Resolved Entanglement Entropy: Equipartition under Driven and Non-unitary Evolution in a Compact Boson CFT**, Filiberto Ares, Jayashish Das, Arnab Kundu, Paper: [https://arxiv.org/abs/2603.28567](https://arxiv.org/abs/2603.28567), 38 pages, 4 figures
+- 2026-03-30, **Geometry-controlled competition between axis centering and detwinning in fivefold-twinned gold nanoparticles**, Silvia Fasce, Diana Nelli, Luca Benzi, Georg Daniel Förster, Riccardo Ferrando, Paper: [https://arxiv.org/abs/2603.28399](https://arxiv.org/abs/2603.28399), Submitted to Nanoscale (RSC). 19 pages, 11 figures
+- 2026-03-30, **Universal Modular Properties of Generalized Gibbs Ensembles and Chiral Deformations**, Sujay K. Ashok, Tanmoy Sengupta, Adarsh Sudhakar, Gérard M. T. Watts, Paper: [https://arxiv.org/abs/2603.28244](https://arxiv.org/abs/2603.28244), 41 Pages, 1 figure
+- 2026-03-30, **Exact $\mathbb{Z}_2$ electromagnetic duality of $\mathbb{Z}_2$ toric code is non-Clifford**, Ryohei Kobayashi, Paper: [https://arxiv.org/abs/2603.28230](https://arxiv.org/abs/2603.28230), 7 pages, 2 figures
+- 2026-03-29, **Extended Equivalence of $U(1)$ Chern-Simons and Reshetikhin-Turaev TQFTs**, Daniel Galviz, Paper: [https://arxiv.org/abs/2603.27688](https://arxiv.org/abs/2603.27688)
 - 2026-03-28, **Bistable Fourth Sound Resonance in Superfluid $^3$ He-B due to Gap Suppression**, Alexander J. Shook, Daksh Malhotra, Aymar Muhikira, John P. Davis, Paper: [https://arxiv.org/abs/2603.27131](https://arxiv.org/abs/2603.27131), 11 pages, 4 figures
 - 2026-03-27, **Reflections on time-reversal in the Symmetry Topological Field Theory**, Lea E. Bottini, Nick G. Jones, Paper: [https://arxiv.org/abs/2603.26884](https://arxiv.org/abs/2603.26884)
 - 2026-03-27, **Global Structure, Non-Invertible PQ Symmetry, and the DFSZ Domain Wall Problem**, Gongjun Choi, Sungwoo Hong, Seth Koren, Paper: [https://arxiv.org/abs/2603.26867](https://arxiv.org/abs/2603.26867), 32+8 pages, 5 figures, 7 tables

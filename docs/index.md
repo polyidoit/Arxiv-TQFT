@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-30**|**Categorical Time-Reversal Symmetries**|Rui Wen, Sakura Schafer-Nameki|[2603.28720](https://arxiv.org/abs/2603.28720)|null|
+|**2026-03-30**|**3D gravity and double copy theory**|Maor Ben-Shahar, Francesco Bonechi, Maxim Zabzine|[2603.28639](https://arxiv.org/abs/2603.28639)|null|
+|**2026-03-30**|**Rounded hard squares confined in a circle**|Zhongtian Yuan, Yao Li|[2603.28609](https://arxiv.org/abs/2603.28609)|null|
+|**2026-03-30**|**Symmetry Resolved Entanglement Entropy: Equipartition under Driven and Non-unitary Evolution in a Compact Boson CFT**|Filiberto Ares, Jayashish Das, Arnab Kundu|[2603.28567](https://arxiv.org/abs/2603.28567)|null|
+|**2026-03-30**|**Geometry-controlled competition between axis centering and detwinning in fivefold-twinned gold nanoparticles**|Silvia Fasce, Diana Nelli, Luca Benzi, Georg Daniel Förster, Riccardo Ferrando|[2603.28399](https://arxiv.org/abs/2603.28399)|null|
+|**2026-03-30**|**Universal Modular Properties of Generalized Gibbs Ensembles and Chiral Deformations**|Sujay K. Ashok, Tanmoy Sengupta, Adarsh Sudhakar, Gérard M. T. Watts|[2603.28244](https://arxiv.org/abs/2603.28244)|null|
+|**2026-03-30**|**Exact $\mathbb{Z}_2$ electromagnetic duality of $\mathbb{Z}_2$ toric code is non-Clifford**|Ryohei Kobayashi|[2603.28230](https://arxiv.org/abs/2603.28230)|null|
+|**2026-03-29**|**Extended Equivalence of $U(1)$ Chern-Simons and Reshetikhin-Turaev TQFTs**|Daniel Galviz|[2603.27688](https://arxiv.org/abs/2603.27688)|null|
 |**2026-03-28**|**Bistable Fourth Sound Resonance in Superfluid $^3$ He-B due to Gap Suppression**|Alexander J. Shook, Daksh Malhotra, Aymar Muhikira, John P. Davis|[2603.27131](https://arxiv.org/abs/2603.27131)|null|
 |**2026-03-27**|**Reflections on time-reversal in the Symmetry Topological Field Theory**|Lea E. Bottini, Nick G. Jones|[2603.26884](https://arxiv.org/abs/2603.26884)|null|
 |**2026-03-27**|**Global Structure, Non-Invertible PQ Symmetry, and the DFSZ Domain Wall Problem**|Gongjun Choi, Sungwoo Hong, Seth Koren|[2603.26867](https://arxiv.org/abs/2603.26867)|null|
