@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-31**|**Role of the equivalence principle in gauge and axial symmetries of Yukawa coupling, and the strong CP problem**|Konstantin V. Grigorishin|[2603.30024](https://arxiv.org/abs/2603.30024)|null|
 |**2026-03-31**|**Exponential Periods for Integrals in Physics**|Anthony Massidda|[2603.29787](https://arxiv.org/abs/2603.29787)|null|
 |**2026-03-31**|**The discrete quantum group $su_q(2)$ and its dual**|Alfons Van Daele|[2603.29701](https://arxiv.org/abs/2603.29701)|null|
 |**2026-03-31**|**Probes of chaos over the Clifford group and approach to Haar values**|Stefano Cusumano, Gianluca Esposito, Alioscia Hamma|[2603.29695](https://arxiv.org/abs/2603.29695)|null|

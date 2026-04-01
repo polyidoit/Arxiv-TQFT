@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-03-31, **Role of the equivalence principle in gauge and axial symmetries of Yukawa coupling, and the strong CP problem**, Konstantin V. Grigorishin, Paper: [https://arxiv.org/abs/2603.30024](https://arxiv.org/abs/2603.30024), 11 pages, 5 figures
 - 2026-03-31, **Exponential Periods for Integrals in Physics**, Anthony Massidda, Paper: [https://arxiv.org/abs/2603.29787](https://arxiv.org/abs/2603.29787), PhD Thesis- Università degli Studi dell'Insubria, Como (Italy)
 - 2026-03-31, **The discrete quantum group $su_q(2)$ and its dual**, Alfons Van Daele, Paper: [https://arxiv.org/abs/2603.29701](https://arxiv.org/abs/2603.29701)
 - 2026-03-31, **Probes of chaos over the Clifford group and approach to Haar values**, Stefano Cusumano, Gianluca Esposito, Alioscia Hamma, Paper: [https://arxiv.org/abs/2603.29695](https://arxiv.org/abs/2603.29695), 75 pages
