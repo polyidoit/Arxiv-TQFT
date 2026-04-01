@@ -1,7 +1,16 @@
-> Automatically updated on 2026.03.31
+> Automatically updated on 2026.04.01
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-03-31**|**Exponential Periods for Integrals in Physics**|Anthony Massidda|[2603.29787](https://arxiv.org/abs/2603.29787)|null|
+|**2026-03-31**|**The discrete quantum group $su_q(2)$ and its dual**|Alfons Van Daele|[2603.29701](https://arxiv.org/abs/2603.29701)|null|
+|**2026-03-31**|**Probes of chaos over the Clifford group and approach to Haar values**|Stefano Cusumano, Gianluca Esposito, Alioscia Hamma|[2603.29695](https://arxiv.org/abs/2603.29695)|null|
+|**2026-03-31**|**On the Drinfeld double of a finite group scheme and its representation category**|Daniel Arreola, Shlomo Gelaki|[2603.29639](https://arxiv.org/abs/2603.29639)|null|
+|**2026-03-31**|**Lecture Notes on Symmetry Reduction via the Dressing Field Method**|L. Ravera|[2603.29505](https://arxiv.org/abs/2603.29505)|null|
+|**2026-03-31**|**Effective approach of the tridendriform Schroeder tree algebra**|Pierre Catoire, Jean Fromentin|[2603.29393](https://arxiv.org/abs/2603.29393)|null|
+|**2026-03-31**|**Baryonic vortices in rotating nuclear matter**|Kazuya Mameda, Muneto Nitta, Zebin Qiu|[2603.29325](https://arxiv.org/abs/2603.29325)|null|
+|**2026-03-31**|**Spatiotemporal imaging of gate-controlled multipath dynamics of fractional quantum Hall edge excitations**|Yunhyeon Jeong, Akinori Kamiyama, John N. Moore, Takaaki Mano, Ken-ichi Sasaki, Yuuki Sugiyama, Tokiro Numasawa, Masahiro Hotta, Go Yusa|[2603.29234](https://arxiv.org/abs/2603.29234)|null|
+|**2026-03-30**|**The Drinfeld Center of the Generic Temperley--Lieb Category**|Moaaz Alqady|[2603.28970](https://arxiv.org/abs/2603.28970)|null|
 |**2026-03-30**|**Categorical Time-Reversal Symmetries**|Rui Wen, Sakura Schafer-Nameki|[2603.28720](https://arxiv.org/abs/2603.28720)|null|
 |**2026-03-30**|**3D gravity and double copy theory**|Maor Ben-Shahar, Francesco Bonechi, Maxim Zabzine|[2603.28639](https://arxiv.org/abs/2603.28639)|null|
 |**2026-03-30**|**Rounded hard squares confined in a circle**|Zhongtian Yuan, Yao Li|[2603.28609](https://arxiv.org/abs/2603.28609)|null|
