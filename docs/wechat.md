@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-01, **On Generalised Discrete Torsion**, Philip Boyle Smith, Yuji Tachikawa, Paper: [https://arxiv.org/abs/2604.01225](https://arxiv.org/abs/2604.01225), 27 pages
+- 2026-04-01, **Topological algebra of symplectic geometry of symmetric powers**, Vivek Shende, Peng Zhou, Paper: [https://arxiv.org/abs/2604.01208](https://arxiv.org/abs/2604.01208), 26 pages
+- 2026-04-01, **Universal $T$ -matrices for quantum Poincaré groups: contractions and quantum reference frames**, Angel Ballesteros, Diego Fernandez-Silvestre, Ivan Gutierrez-Sagredo, Paper: [https://arxiv.org/abs/2604.01058](https://arxiv.org/abs/2604.01058), 34 pages
+- 2026-04-01, **Toral Chern-Simons TQFT via Geometric Quantization in Real Polarization**, Daniel Galviz, Paper: [https://arxiv.org/abs/2604.01016](https://arxiv.org/abs/2604.01016)
+- 2026-04-01, **Excited solutions in a Skyrme--Chern-Simons model in $2+1$ dimensions**, Francisco Navarro-Lérida, D. H. Tchrakian, Paper: [https://arxiv.org/abs/2604.01005](https://arxiv.org/abs/2604.01005), 19 pages, 8 figures
 - 2026-04-01, **The $\mathbb{Z}_N^{\times 3}$ symmetry protected boundary modes in two-dimensional Potts paramagnets**, Hrant Topchyan, Paper: [https://arxiv.org/abs/2604.00910](https://arxiv.org/abs/2604.00910)
 - 2026-04-01, **A Categorification of Subword Complexes and Its Hall Algebra**, Mikhail Gorsky, Zijun Li, Paper: [https://arxiv.org/abs/2604.00879](https://arxiv.org/abs/2604.00879), 29 pages. Comments are welcome
 - 2026-04-01, **The Klein bottle ratio of two-dimensional ferromagnetic Potts models**, Zi-Han Wang, Li-Ping Yang, Paper: [https://arxiv.org/abs/2604.00870](https://arxiv.org/abs/2604.00870)
