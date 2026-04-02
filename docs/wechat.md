@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.01
+> Automatically updated on 2026.04.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-01, **The $\mathbb{Z}_N^{\times 3}$ symmetry protected boundary modes in two-dimensional Potts paramagnets**, Hrant Topchyan, Paper: [https://arxiv.org/abs/2604.00910](https://arxiv.org/abs/2604.00910)
+- 2026-04-01, **A Categorification of Subword Complexes and Its Hall Algebra**, Mikhail Gorsky, Zijun Li, Paper: [https://arxiv.org/abs/2604.00879](https://arxiv.org/abs/2604.00879), 29 pages. Comments are welcome
+- 2026-04-01, **The Klein bottle ratio of two-dimensional ferromagnetic Potts models**, Zi-Han Wang, Li-Ping Yang, Paper: [https://arxiv.org/abs/2604.00870](https://arxiv.org/abs/2604.00870)
+- 2026-04-01, **Dynkin diagrams, generalized Nahm sums and 2d CFTs**, Kaiwen Sun, Haowu Wang, Paper: [https://arxiv.org/abs/2604.00847](https://arxiv.org/abs/2604.00847), 18 pages
+- 2026-04-01, **Deformations of mixed associators in module categories**, Matthieu Faitg, Azat M. Gainutdinov, Christoph Schweigert, Paper: [https://arxiv.org/abs/2604.00837](https://arxiv.org/abs/2604.00837), 63 pages, 11 figures
+- 2026-04-01, **Topological defect induced phase separation in a holographic system**, Zi-Qiang Zhao, Zhang-Yu Nie, Jing-Fei Zhang, Xin Zhang, Paper: [https://arxiv.org/abs/2604.00690](https://arxiv.org/abs/2604.00690), 16 pages, 9 figures
+- 2026-04-01, **Braiding and exchange statistics of liquid crystalline Majorana quasiparticles**, A. I. Tóth, G. Negro, A. D. Huxley, D. Marenduzzo, Paper: [https://arxiv.org/abs/2604.00492](https://arxiv.org/abs/2604.00492), 5 pages, 4 figures plus 9 pages of supplementary material + 6 figures
+- 2026-04-01, **Lieb-Schultz-Mattis Anomalies and Anomaly Matching**, Liujun Zou, Meng Cheng, Paper: [https://arxiv.org/abs/2604.00347](https://arxiv.org/abs/2604.00347), Invited review for "Annual Review of Condensed Matter Physics"
 - 2026-03-31, **Role of the equivalence principle in gauge and axial symmetries of Yukawa coupling, and the strong CP problem**, Konstantin V. Grigorishin, Paper: [https://arxiv.org/abs/2603.30024](https://arxiv.org/abs/2603.30024), 11 pages, 5 figures
 - 2026-03-31, **Exponential Periods for Integrals in Physics**, Anthony Massidda, Paper: [https://arxiv.org/abs/2603.29787](https://arxiv.org/abs/2603.29787), PhD Thesis- Università degli Studi dell'Insubria, Como (Italy)
 - 2026-03-31, **The discrete quantum group $su_q(2)$ and its dual**, Alfons Van Daele, Paper: [https://arxiv.org/abs/2603.29701](https://arxiv.org/abs/2603.29701)
@@ -1256,5 +1264,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 

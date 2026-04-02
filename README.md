@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.04.01
+> Automatically updated on 2026.04.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**The $\mathbb{Z}_N^{\times 3}$ symmetry protected boundary modes in two-dimensional Potts paramagnets**|Hrant Topchyan|[2604.00910](https://arxiv.org/abs/2604.00910)|null|
+|**2026-04-01**|**A Categorification of Subword Complexes and Its Hall Algebra**|Mikhail Gorsky, Zijun Li|[2604.00879](https://arxiv.org/abs/2604.00879)|null|
+|**2026-04-01**|**The Klein bottle ratio of two-dimensional ferromagnetic Potts models**|Zi-Han Wang, Li-Ping Yang|[2604.00870](https://arxiv.org/abs/2604.00870)|null|
+|**2026-04-01**|**Dynkin diagrams, generalized Nahm sums and 2d CFTs**|Kaiwen Sun, Haowu Wang|[2604.00847](https://arxiv.org/abs/2604.00847)|null|
+|**2026-04-01**|**Deformations of mixed associators in module categories**|Matthieu Faitg, Azat M. Gainutdinov, Christoph Schweigert|[2604.00837](https://arxiv.org/abs/2604.00837)|null|
+|**2026-04-01**|**Topological defect induced phase separation in a holographic system**|Zi-Qiang Zhao, Zhang-Yu Nie, Jing-Fei Zhang, Xin Zhang|[2604.00690](https://arxiv.org/abs/2604.00690)|null|
+|**2026-04-01**|**Braiding and exchange statistics of liquid crystalline Majorana quasiparticles**|A. I. Tóth, G. Negro, A. D. Huxley, D. Marenduzzo|[2604.00492](https://arxiv.org/abs/2604.00492)|null|
+|**2026-04-01**|**Lieb-Schultz-Mattis Anomalies and Anomaly Matching**|Liujun Zou, Meng Cheng|[2604.00347](https://arxiv.org/abs/2604.00347)|null|
 |**2026-03-31**|**Role of the equivalence principle in gauge and axial symmetries of Yukawa coupling, and the strong CP problem**|Konstantin V. Grigorishin|[2603.30024](https://arxiv.org/abs/2603.30024)|null|
 |**2026-03-31**|**Exponential Periods for Integrals in Physics**|Anthony Massidda|[2603.29787](https://arxiv.org/abs/2603.29787)|null|
 |**2026-03-31**|**The discrete quantum group $su_q(2)$ and its dual**|Alfons Van Daele|[2603.29701](https://arxiv.org/abs/2603.29701)|null|
@@ -2055,5 +2063,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
