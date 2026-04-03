@@ -1,7 +1,12 @@
-> Automatically updated on 2026.04.02
+> Automatically updated on 2026.04.03
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-02**|**High-threshold decoding of non-Pauli codes for 2D universality**|Julio C. Magdalena de la Fuente, Noa Feldman, Jens Eisert, Andreas Bauer|[2604.02033](https://arxiv.org/abs/2604.02033)|null|
+|**2026-04-02**|**A Rigorous Functional-Integral Construction of Toral Chern-Simons Theory**|Daniel Galviz|[2604.02013](https://arxiv.org/abs/2604.02013)|null|
+|**2026-04-02**|**Equivalence of toral Chern-Simons and Reshetikhin-Turaev theories**|Daniel Galviz|[2604.01982](https://arxiv.org/abs/2604.01982)|null|
+|**2026-04-01**|**Entanglement entropy and conformal bounds for $d=5$ CFTs**|Pablo Bueno, Adam Fernández García, Francesco Gentile, Oscar Lasso Andino, Javier Moreno|[2604.01436](https://arxiv.org/abs/2604.01436)|null|
+|**2026-04-01**|**Descending into the Modular Bootstrap**|Nathan Benjamin, A. Liam Fitzpatrick, Wei Li, Jesse Thaler|[2604.01275](https://arxiv.org/abs/2604.01275)|null|
 |**2026-04-01**|**On Generalised Discrete Torsion**|Philip Boyle Smith, Yuji Tachikawa|[2604.01225](https://arxiv.org/abs/2604.01225)|null|
 |**2026-04-01**|**Topological algebra of symplectic geometry of symmetric powers**|Vivek Shende, Peng Zhou|[2604.01208](https://arxiv.org/abs/2604.01208)|null|
 |**2026-04-01**|**Universal $T$ -matrices for quantum Poincaré groups: contractions and quantum reference frames**|Angel Ballesteros, Diego Fernandez-Silvestre, Ivan Gutierrez-Sagredo|[2604.01058](https://arxiv.org/abs/2604.01058)|null|

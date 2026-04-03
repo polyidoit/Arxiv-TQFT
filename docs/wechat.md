@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.02
+> Automatically updated on 2026.04.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-02, **High-threshold decoding of non-Pauli codes for 2D universality**, Julio C. Magdalena de la Fuente, Noa Feldman, Jens Eisert, Andreas Bauer, Paper: [https://arxiv.org/abs/2604.02033](https://arxiv.org/abs/2604.02033), 21 pages, 10 figures
+- 2026-04-02, **A Rigorous Functional-Integral Construction of Toral Chern-Simons Theory**, Daniel Galviz, Paper: [https://arxiv.org/abs/2604.02013](https://arxiv.org/abs/2604.02013)
+- 2026-04-02, **Equivalence of toral Chern-Simons and Reshetikhin-Turaev theories**, Daniel Galviz, Paper: [https://arxiv.org/abs/2604.01982](https://arxiv.org/abs/2604.01982)
+- 2026-04-01, **Entanglement entropy and conformal bounds for $d=5$ CFTs**, Pablo Bueno, Adam Fernández García, Francesco Gentile, Oscar Lasso Andino, Javier Moreno, Paper: [https://arxiv.org/abs/2604.01436](https://arxiv.org/abs/2604.01436), 61 pages, 7 figures
+- 2026-04-01, **Descending into the Modular Bootstrap**, Nathan Benjamin, A. Liam Fitzpatrick, Wei Li, Jesse Thaler, Paper: [https://arxiv.org/abs/2604.01275](https://arxiv.org/abs/2604.01275), 57 pages, 23 figures, 4 tables; code available at http://github.com/jdthaler/modular-bootstrap
 - 2026-04-01, **On Generalised Discrete Torsion**, Philip Boyle Smith, Yuji Tachikawa, Paper: [https://arxiv.org/abs/2604.01225](https://arxiv.org/abs/2604.01225), 27 pages
 - 2026-04-01, **Topological algebra of symplectic geometry of symmetric powers**, Vivek Shende, Peng Zhou, Paper: [https://arxiv.org/abs/2604.01208](https://arxiv.org/abs/2604.01208), 26 pages
 - 2026-04-01, **Universal $T$ -matrices for quantum Poincaré groups: contractions and quantum reference frames**, Angel Ballesteros, Diego Fernandez-Silvestre, Ivan Gutierrez-Sagredo, Paper: [https://arxiv.org/abs/2604.01058](https://arxiv.org/abs/2604.01058), 34 pages
@@ -1269,5 +1274,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260403>back to top</a>)</p>
 
