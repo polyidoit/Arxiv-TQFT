@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Detecting Symmetry-Resolved Entanglement: A Quantum Monte Carlo Approach**|Kuangjie Chen, Weizhen Jia, Xiaopeng Li, René Meyer, Jiarui Zhao|[2604.02307](https://arxiv.org/abs/2604.02307)|null|
 |**2026-04-02**|**High-threshold decoding of non-Pauli codes for 2D universality**|Julio C. Magdalena de la Fuente, Noa Feldman, Jens Eisert, Andreas Bauer|[2604.02033](https://arxiv.org/abs/2604.02033)|null|
 |**2026-04-02**|**A Rigorous Functional-Integral Construction of Toral Chern-Simons Theory**|Daniel Galviz|[2604.02013](https://arxiv.org/abs/2604.02013)|null|
 |**2026-04-02**|**Equivalence of toral Chern-Simons and Reshetikhin-Turaev theories**|Daniel Galviz|[2604.01982](https://arxiv.org/abs/2604.01982)|null|
