@@ -1,7 +1,11 @@
-> Automatically updated on 2026.04.05
+> Automatically updated on 2026.04.06
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-03**|**Duality of operator Frobenius algebras and solution of Eisenhart-Stäckel problem in the non-diagonal case**|Alexey V. Bolsinov, Andrey Yu. Konyaev, Vladimir S. Matveev|[2604.03195](https://arxiv.org/abs/2604.03195)|null|
+|**2026-04-03**|**Classification of Extended Abelian Chern-Simons Theories**|Daniel Galviz|[2604.02929](https://arxiv.org/abs/2604.02929)|null|
+|**2026-04-03**|**Type-IV 't Hooft Anomalies on the Lattice: Emergent Higher-Categorical Symmetries and Applications to LSM Systems**|Tsubasa Oishi, Hiromi Ebisu|[2604.02856](https://arxiv.org/abs/2604.02856)|null|
+|**2026-04-03**|**Biquantization of the necklace Lie bialgebra**|Xiaojun Chen, Maozhou Huang, Meiliang Liu, Jun Zhang|[2604.02853](https://arxiv.org/abs/2604.02853)|null|
 |**2026-04-02**|**Detecting Symmetry-Resolved Entanglement: A Quantum Monte Carlo Approach**|Kuangjie Chen, Weizhen Jia, Xiaopeng Li, René Meyer, Jiarui Zhao|[2604.02307](https://arxiv.org/abs/2604.02307)|null|
 |**2026-04-02**|**High-threshold decoding of non-Pauli codes for 2D universality**|Julio C. Magdalena de la Fuente, Noa Feldman, Jens Eisert, Andreas Bauer|[2604.02033](https://arxiv.org/abs/2604.02033)|null|
 |**2026-04-02**|**A Rigorous Functional-Integral Construction of Toral Chern-Simons Theory**|Daniel Galviz|[2604.02013](https://arxiv.org/abs/2604.02013)|null|
