@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.06
+> Automatically updated on 2026.04.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-05, **Spatial Localization of Relativistic Quantum Systems: The Commutativity Requirement and the Locality Principle. Part II: A Model from Local QFT**, Valter Moretti, Paper: [https://arxiv.org/abs/2604.04173](https://arxiv.org/abs/2604.04173), 83 pages, no figures
+- 2026-04-05, **A molecular dynamics simulation of thermalization of crystalline lattice with harmonic interaction**, Zhenwei Yao, Paper: [https://arxiv.org/abs/2604.03913](https://arxiv.org/abs/2604.03913), 11 pages, 7 figures
+- 2026-04-04, **Post-Selection-Free Decoding of Measurement-Induced Area-Law Phases via Neural Networks**, Hui Yu, Jiangping Hu, Shi-Xin Zhang, Paper: [https://arxiv.org/abs/2604.03550](https://arxiv.org/abs/2604.03550), 9 pages,5 figures
 - 2026-04-03, **Duality of operator Frobenius algebras and solution of Eisenhart-Stäckel problem in the non-diagonal case**, Alexey V. Bolsinov, Andrey Yu. Konyaev, Vladimir S. Matveev, Paper: [https://arxiv.org/abs/2604.03195](https://arxiv.org/abs/2604.03195), 26 pages
 - 2026-04-03, **Classification of Extended Abelian Chern-Simons Theories**, Daniel Galviz, Paper: [https://arxiv.org/abs/2604.02929](https://arxiv.org/abs/2604.02929)
 - 2026-04-03, **Type-IV 't Hooft Anomalies on the Lattice: Emergent Higher-Categorical Symmetries and Applications to LSM Systems**, Tsubasa Oishi, Hiromi Ebisu, Paper: [https://arxiv.org/abs/2604.02856](https://arxiv.org/abs/2604.02856), 33 pages, 13 figures
@@ -1279,5 +1282,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 

@@ -1,7 +1,10 @@
-> Automatically updated on 2026.04.06
+> Automatically updated on 2026.04.07
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-05**|**Spatial Localization of Relativistic Quantum Systems: The Commutativity Requirement and the Locality Principle. Part II: A Model from Local QFT**|Valter Moretti|[2604.04173](https://arxiv.org/abs/2604.04173)|null|
+|**2026-04-05**|**A molecular dynamics simulation of thermalization of crystalline lattice with harmonic interaction**|Zhenwei Yao|[2604.03913](https://arxiv.org/abs/2604.03913)|null|
+|**2026-04-04**|**Post-Selection-Free Decoding of Measurement-Induced Area-Law Phases via Neural Networks**|Hui Yu, Jiangping Hu, Shi-Xin Zhang|[2604.03550](https://arxiv.org/abs/2604.03550)|null|
 |**2026-04-03**|**Duality of operator Frobenius algebras and solution of Eisenhart-Stäckel problem in the non-diagonal case**|Alexey V. Bolsinov, Andrey Yu. Konyaev, Vladimir S. Matveev|[2604.03195](https://arxiv.org/abs/2604.03195)|null|
 |**2026-04-03**|**Classification of Extended Abelian Chern-Simons Theories**|Daniel Galviz|[2604.02929](https://arxiv.org/abs/2604.02929)|null|
 |**2026-04-03**|**Type-IV 't Hooft Anomalies on the Lattice: Emergent Higher-Categorical Symmetries and Applications to LSM Systems**|Tsubasa Oishi, Hiromi Ebisu|[2604.02856](https://arxiv.org/abs/2604.02856)|null|
