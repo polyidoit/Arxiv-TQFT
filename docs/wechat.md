@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.07
+> Automatically updated on 2026.04.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-07, **Edge modes in Chern-Simons theory on a strip**, Erica Bertolini, Michael Doyle, Nicola Maggiore, Conor Murphy, Carlotta Piras, Paper: [https://arxiv.org/abs/2604.05889](https://arxiv.org/abs/2604.05889), 18 pages, no figures, accepted for publication in Physical Review D
+- 2026-04-07, **Adaptive Deformation of Color Code in Square Lattices with Defects**, Tian-Hao Wei, Jia-Xuan Zhang, Jia-Ning Li, Wei-Cheng Kong, Yu-Chun Wu, Guo-Ping Guo, Paper: [https://arxiv.org/abs/2604.05874](https://arxiv.org/abs/2604.05874), 23 pages, 19 figures
+- 2026-04-07, **A Global Model Structure for $\mathbb{K}$-Linear $\infty$ -Local Systems**, Hisham Sati, Urs Schreiber, Paper: [https://arxiv.org/abs/2604.05671](https://arxiv.org/abs/2604.05671), 55 pages; the content of this article used to be the second half of arXiv:2309.07245v2, the first half of which has meanwhile been published separately
+- 2026-04-07, **Indication of Stochastic Photothermal Dynamics around a Topological Defect in a Chiral Magnet**, Dongxue Han, Asuka Nakamura, Takahiro Shimojima, Kosuke Karube, Yasujiro Taguchi, Yoshinori Tokura, Kyoko Ishizaka, Paper: [https://arxiv.org/abs/2604.05608](https://arxiv.org/abs/2604.05608), 17 pages, 4 figures
+- 2026-04-07, **Robust quantized thermal conductance of Majorana floating edge bands in d-wave superconductors**, Yanmiao Han, Yu-Hao Wan, Zhaoqin Cao, Rundong Zhao, Qing-Feng Sun, Paper: [https://arxiv.org/abs/2604.05588](https://arxiv.org/abs/2604.05588), 12 pages, 8 figures
+- 2026-04-07, **Exact solution of three-point functions in critical loop models**, Morris Ang, Gefei Cai, Jesper Lykke Jacobsen, Rongvoram Nivesvivat, Paul Roux, Xin Sun, Baojun Wu, Paper: [https://arxiv.org/abs/2604.05503](https://arxiv.org/abs/2604.05503), 5 pages; 2 figures
+- 2026-04-07, **Topologically shadowed quantum criticality: A non-compact conformal manifold**, Tianyao Fang, Weicheng Ye, Zhengcheng Gu, Fei Zhou, Paper: [https://arxiv.org/abs/2604.05391](https://arxiv.org/abs/2604.05391), 10 pages, 2 figures. Comments are welcome
+- 2026-04-07, **Constructive Quantum Field Theory and Rigorous Statistical Mechanics via Operator Algebras and Probability Theory -- Guiding Principles and Research Perspectives**, Yoshitsugu Sekine, Paper: [https://arxiv.org/abs/2604.05300](https://arxiv.org/abs/2604.05300), 12 pages
+- 2026-04-06, **Decoding Equilibrium and Dynamical Criticality in the 2D Topological Order**, Xiao-Ming Zhao, Cui-Xian Guo, Gaoyong Sun, Su-Peng Kou, Paper: [https://arxiv.org/abs/2604.05198](https://arxiv.org/abs/2604.05198), 10 pages, 3 figures
+- 2026-04-06, **Drinfeld-Xu bialgebroid 2-cocycles twist the antipode**, Zoran Škoda, Paper: [https://arxiv.org/abs/2604.04813](https://arxiv.org/abs/2604.04813), 16 pages
 - 2026-04-05, **Spatial Localization of Relativistic Quantum Systems: The Commutativity Requirement and the Locality Principle. Part II: A Model from Local QFT**, Valter Moretti, Paper: [https://arxiv.org/abs/2604.04173](https://arxiv.org/abs/2604.04173), 83 pages, no figures
 - 2026-04-05, **A molecular dynamics simulation of thermalization of crystalline lattice with harmonic interaction**, Zhenwei Yao, Paper: [https://arxiv.org/abs/2604.03913](https://arxiv.org/abs/2604.03913), 11 pages, 7 figures
 - 2026-04-04, **Post-Selection-Free Decoding of Measurement-Induced Area-Law Phases via Neural Networks**, Hui Yu, Jiangping Hu, Shi-Xin Zhang, Paper: [https://arxiv.org/abs/2604.03550](https://arxiv.org/abs/2604.03550), 9 pages,5 figures
@@ -1282,5 +1292,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
 

@@ -1,7 +1,17 @@
-> Automatically updated on 2026.04.07
+> Automatically updated on 2026.04.08
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-07**|**Edge modes in Chern-Simons theory on a strip**|Erica Bertolini, Michael Doyle, Nicola Maggiore, Conor Murphy, Carlotta Piras|[2604.05889](https://arxiv.org/abs/2604.05889)|null|
+|**2026-04-07**|**Adaptive Deformation of Color Code in Square Lattices with Defects**|Tian-Hao Wei, Jia-Xuan Zhang, Jia-Ning Li, Wei-Cheng Kong, Yu-Chun Wu, Guo-Ping Guo|[2604.05874](https://arxiv.org/abs/2604.05874)|null|
+|**2026-04-07**|**A Global Model Structure for $\mathbb{K}$-Linear $\infty$ -Local Systems**|Hisham Sati, Urs Schreiber|[2604.05671](https://arxiv.org/abs/2604.05671)|null|
+|**2026-04-07**|**Indication of Stochastic Photothermal Dynamics around a Topological Defect in a Chiral Magnet**|Dongxue Han, Asuka Nakamura, Takahiro Shimojima, Kosuke Karube, Yasujiro Taguchi, Yoshinori Tokura, Kyoko Ishizaka|[2604.05608](https://arxiv.org/abs/2604.05608)|null|
+|**2026-04-07**|**Robust quantized thermal conductance of Majorana floating edge bands in d-wave superconductors**|Yanmiao Han, Yu-Hao Wan, Zhaoqin Cao, Rundong Zhao, Qing-Feng Sun|[2604.05588](https://arxiv.org/abs/2604.05588)|null|
+|**2026-04-07**|**Exact solution of three-point functions in critical loop models**|Morris Ang, Gefei Cai, Jesper Lykke Jacobsen, Rongvoram Nivesvivat, Paul Roux, Xin Sun, Baojun Wu|[2604.05503](https://arxiv.org/abs/2604.05503)|null|
+|**2026-04-07**|**Topologically shadowed quantum criticality: A non-compact conformal manifold**|Tianyao Fang, Weicheng Ye, Zhengcheng Gu, Fei Zhou|[2604.05391](https://arxiv.org/abs/2604.05391)|null|
+|**2026-04-07**|**Constructive Quantum Field Theory and Rigorous Statistical Mechanics via Operator Algebras and Probability Theory -- Guiding Principles and Research Perspectives**|Yoshitsugu Sekine|[2604.05300](https://arxiv.org/abs/2604.05300)|null|
+|**2026-04-06**|**Decoding Equilibrium and Dynamical Criticality in the 2D Topological Order**|Xiao-Ming Zhao, Cui-Xian Guo, Gaoyong Sun, Su-Peng Kou|[2604.05198](https://arxiv.org/abs/2604.05198)|null|
+|**2026-04-06**|**Drinfeld-Xu bialgebroid 2-cocycles twist the antipode**|Zoran Škoda|[2604.04813](https://arxiv.org/abs/2604.04813)|null|
 |**2026-04-05**|**Spatial Localization of Relativistic Quantum Systems: The Commutativity Requirement and the Locality Principle. Part II: A Model from Local QFT**|Valter Moretti|[2604.04173](https://arxiv.org/abs/2604.04173)|null|
 |**2026-04-05**|**A molecular dynamics simulation of thermalization of crystalline lattice with harmonic interaction**|Zhenwei Yao|[2604.03913](https://arxiv.org/abs/2604.03913)|null|
 |**2026-04-04**|**Post-Selection-Free Decoding of Measurement-Induced Area-Law Phases via Neural Networks**|Hui Yu, Jiangping Hu, Shi-Xin Zhang|[2604.03550](https://arxiv.org/abs/2604.03550)|null|
