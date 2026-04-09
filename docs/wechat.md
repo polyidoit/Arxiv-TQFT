@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.08
+> Automatically updated on 2026.04.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-08, **Topological Defects in Amorphous Solids**, Matteo Baggioli, Michael L. Falk, Walter Kob, Paper: [https://arxiv.org/abs/2604.07061](https://arxiv.org/abs/2604.07061), Invited Perspective Article
+- 2026-04-07, **On the quasisymmetric functions in superspace**, Diego Arcis, Camilo González, Sebastián Márquez, Paper: [https://arxiv.org/abs/2604.06431](https://arxiv.org/abs/2604.06431), 23 pages
+- 2026-04-07, **Higher Nishimori Criticality and Exact Results at the Learning Transition of Deformed Toric Codes**, Rushikesh A. Patil, Malte Pütz, Simon Trebst, Guo-Yi Zhu, Andreas W. W. Ludwig, Paper: [https://arxiv.org/abs/2604.06324](https://arxiv.org/abs/2604.06324), 35 pages, 14 figures, 1 table
+- 2026-04-07, **Lattice chiral symmetry from bosons in 3+1d**, Zhiyao Lu, Sahand Seifnashri, Shu-Heng Shao, Paper: [https://arxiv.org/abs/2604.06307](https://arxiv.org/abs/2604.06307), 32 pages plus appendices. 8 figures
 - 2026-04-07, **Edge modes in Chern-Simons theory on a strip**, Erica Bertolini, Michael Doyle, Nicola Maggiore, Conor Murphy, Carlotta Piras, Paper: [https://arxiv.org/abs/2604.05889](https://arxiv.org/abs/2604.05889), 18 pages, no figures, accepted for publication in Physical Review D
 - 2026-04-07, **Adaptive Deformation of Color Code in Square Lattices with Defects**, Tian-Hao Wei, Jia-Xuan Zhang, Jia-Ning Li, Wei-Cheng Kong, Yu-Chun Wu, Guo-Ping Guo, Paper: [https://arxiv.org/abs/2604.05874](https://arxiv.org/abs/2604.05874), 23 pages, 19 figures
 - 2026-04-07, **A Global Model Structure for $\mathbb{K}$-Linear $\infty$ -Local Systems**, Hisham Sati, Urs Schreiber, Paper: [https://arxiv.org/abs/2604.05671](https://arxiv.org/abs/2604.05671), 55 pages; the content of this article used to be the second half of arXiv:2309.07245v2, the first half of which has meanwhile been published separately
@@ -1292,5 +1296,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 

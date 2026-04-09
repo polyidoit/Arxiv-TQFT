@@ -1,7 +1,11 @@
-> Automatically updated on 2026.04.08
+> Automatically updated on 2026.04.09
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-08**|**Topological Defects in Amorphous Solids**|Matteo Baggioli, Michael L. Falk, Walter Kob|[2604.07061](https://arxiv.org/abs/2604.07061)|null|
+|**2026-04-07**|**On the quasisymmetric functions in superspace**|Diego Arcis, Camilo González, Sebastián Márquez|[2604.06431](https://arxiv.org/abs/2604.06431)|null|
+|**2026-04-07**|**Higher Nishimori Criticality and Exact Results at the Learning Transition of Deformed Toric Codes**|Rushikesh A. Patil, Malte Pütz, Simon Trebst, Guo-Yi Zhu, Andreas W. W. Ludwig|[2604.06324](https://arxiv.org/abs/2604.06324)|null|
+|**2026-04-07**|**Lattice chiral symmetry from bosons in 3+1d**|Zhiyao Lu, Sahand Seifnashri, Shu-Heng Shao|[2604.06307](https://arxiv.org/abs/2604.06307)|null|
 |**2026-04-07**|**Edge modes in Chern-Simons theory on a strip**|Erica Bertolini, Michael Doyle, Nicola Maggiore, Conor Murphy, Carlotta Piras|[2604.05889](https://arxiv.org/abs/2604.05889)|null|
 |**2026-04-07**|**Adaptive Deformation of Color Code in Square Lattices with Defects**|Tian-Hao Wei, Jia-Xuan Zhang, Jia-Ning Li, Wei-Cheng Kong, Yu-Chun Wu, Guo-Ping Guo|[2604.05874](https://arxiv.org/abs/2604.05874)|null|
 |**2026-04-07**|**A Global Model Structure for $\mathbb{K}$-Linear $\infty$ -Local Systems**|Hisham Sati, Urs Schreiber|[2604.05671](https://arxiv.org/abs/2604.05671)|null|
