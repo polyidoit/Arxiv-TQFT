@@ -9,6 +9,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-08, **Topological Magneto-Optical Switching in Even-Layered MnBi $_2$Te$_4$**, Shahid Sattar, Roman Stepanov, C. M. Canali, Paper: [https://arxiv.org/abs/2604.07315](https://arxiv.org/abs/2604.07315), 21 pages, 4 figures,
+- 2026-04-08, **Exotic theta terms in 2+1d fractonic field theory**, Yuki Furukawa, Paper: [https://arxiv.org/abs/2604.07293](https://arxiv.org/abs/2604.07293), 26 pages, 3 figures
 - 2026-04-08, **Topological Defects in Amorphous Solids**, Matteo Baggioli, Michael L. Falk, Walter Kob, Paper: [https://arxiv.org/abs/2604.07061](https://arxiv.org/abs/2604.07061), Invited Perspective Article
 - 2026-04-07, **On the quasisymmetric functions in superspace**, Diego Arcis, Camilo González, Sebastián Márquez, Paper: [https://arxiv.org/abs/2604.06431](https://arxiv.org/abs/2604.06431), 23 pages
 - 2026-04-07, **Higher Nishimori Criticality and Exact Results at the Learning Transition of Deformed Toric Codes**, Rushikesh A. Patil, Malte Pütz, Simon Trebst, Guo-Yi Zhu, Andreas W. W. Ludwig, Paper: [https://arxiv.org/abs/2604.06324](https://arxiv.org/abs/2604.06324), 35 pages, 14 figures, 1 table
