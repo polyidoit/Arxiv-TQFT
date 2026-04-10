@@ -15,6 +15,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**$\mathcal{PT}$ -symmetric Field Theories at Finite Temperature**|Oleksandr Diatlyk, Andrei Katsevich, Fedor K. Popov|[2604.08459](https://arxiv.org/abs/2604.08459)|null|
+|**2026-04-09**|**Sufficiency and Petz recovery for positive maps**|Lauritz van Luijk, Henrik Wilming|[2604.08380](https://arxiv.org/abs/2604.08380)|null|
 |**2026-04-09**|**Integrals of motion in $WE_6$ CFT and the ODE/IM correspondence**|Daichi Ide, Katsushi Ito, Wataru Kono|[2604.07829](https://arxiv.org/abs/2604.07829)|null|
 |**2026-04-08**|**Topological Magneto-Optical Switching in Even-Layered MnBi $_2$Te$_4$**|Shahid Sattar, Roman Stepanov, C. M. Canali|[2604.07315](https://arxiv.org/abs/2604.07315)|null|
 |**2026-04-08**|**Exotic theta terms in 2+1d fractonic field theory**|Yuki Furukawa|[2604.07293](https://arxiv.org/abs/2604.07293)|null|
