@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.09
+> Automatically updated on 2026.04.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-09, **Integrals of motion in $WE_6$ CFT and the ODE/IM correspondence**, Daichi Ide, Katsushi Ito, Wataru Kono, Paper: [https://arxiv.org/abs/2604.07829](https://arxiv.org/abs/2604.07829), 24 pages, 1 figure
 - 2026-04-08, **Topological Magneto-Optical Switching in Even-Layered MnBi $_2$Te$_4$**, Shahid Sattar, Roman Stepanov, C. M. Canali, Paper: [https://arxiv.org/abs/2604.07315](https://arxiv.org/abs/2604.07315), 21 pages, 4 figures,
 - 2026-04-08, **Exotic theta terms in 2+1d fractonic field theory**, Yuki Furukawa, Paper: [https://arxiv.org/abs/2604.07293](https://arxiv.org/abs/2604.07293), 26 pages, 3 figures
 - 2026-04-08, **Topological Defects in Amorphous Solids**, Matteo Baggioli, Michael L. Falk, Walter Kob, Paper: [https://arxiv.org/abs/2604.07061](https://arxiv.org/abs/2604.07061), Invited Perspective Article
@@ -1298,5 +1299,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 

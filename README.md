@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.04.09
+> Automatically updated on 2026.04.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Integrals of motion in $WE_6$ CFT and the ODE/IM correspondence**|Daichi Ide, Katsushi Ito, Wataru Kono|[2604.07829](https://arxiv.org/abs/2604.07829)|null|
 |**2026-04-08**|**Topological Magneto-Optical Switching in Even-Layered MnBi $_2$Te$_4$**|Shahid Sattar, Roman Stepanov, C. M. Canali|[2604.07315](https://arxiv.org/abs/2604.07315)|null|
 |**2026-04-08**|**Exotic theta terms in 2+1d fractonic field theory**|Yuki Furukawa|[2604.07293](https://arxiv.org/abs/2604.07293)|null|
 |**2026-04-08**|**Topological Defects in Amorphous Solids**|Matteo Baggioli, Michael L. Falk, Walter Kob|[2604.07061](https://arxiv.org/abs/2604.07061)|null|
@@ -2097,5 +2098,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
