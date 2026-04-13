@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-10**|**$\mathrm{U}(2)$ Chern-Simons-Ginzburg-Landau Theory of Fractional Quantum Hall Hierarchies**|Taegon Lee, Gil Young Cho, Donghae Seo|[2604.09542](https://arxiv.org/abs/2604.09542)|null|
+|**2026-04-10**|**Machine Learning Phase Field Reconstruction in a Bose-Einstein Condensate**|Jackson Lee, Andrew J Millis|[2604.09528](https://arxiv.org/abs/2604.09528)|null|
+|**2026-04-10**|**Classification of 2D Fermionic Systems with a $\mathbb Z_2$ Flavor Symmetry**|Chi-Ming Chang, Jin Chen, Fengjun Xu|[2604.09503](https://arxiv.org/abs/2604.09503)|null|
+|**2026-04-10**|**Quantum Randomized Subspace Iteration**|Stefano Scali, Brian Coyle, Giuseppe Buonaiuto, Michal Krompiec|[2604.09483](https://arxiv.org/abs/2604.09483)|null|
+|**2026-04-10**|**Probing High-Quality Axions with Gravitational Waves**|Ruiyu Zhou, Jin-Wei Wang, Ligong Bian|[2604.09081](https://arxiv.org/abs/2604.09081)|null|
+|**2026-04-09**|**Decoding coherent errors in toric codes on honeycomb and square lattices: duality to Majorana monitored dynamics and symmetry classes**|Zhou Yang, Andreas W. W. Ludwig, Chao-Ming Jian|[2604.08650](https://arxiv.org/abs/2604.08650)|null|
 |**2026-04-09**|**$\mathcal{PT}$ -symmetric Field Theories at Finite Temperature**|Oleksandr Diatlyk, Andrei Katsevich, Fedor K. Popov|[2604.08459](https://arxiv.org/abs/2604.08459)|null|
 |**2026-04-09**|**Sufficiency and Petz recovery for positive maps**|Lauritz van Luijk, Henrik Wilming|[2604.08380](https://arxiv.org/abs/2604.08380)|null|
 |**2026-04-09**|**Integrals of motion in $WE_6$ CFT and the ODE/IM correspondence**|Daichi Ide, Katsushi Ito, Wataru Kono|[2604.07829](https://arxiv.org/abs/2604.07829)|null|

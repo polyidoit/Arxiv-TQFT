@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-10, **$\mathrm{U}(2)$ Chern-Simons-Ginzburg-Landau Theory of Fractional Quantum Hall Hierarchies**, Taegon Lee, Gil Young Cho, Donghae Seo, Paper: [https://arxiv.org/abs/2604.09542](https://arxiv.org/abs/2604.09542), 6+7 pages, 1 figure, 1+1 tables
+- 2026-04-10, **Machine Learning Phase Field Reconstruction in a Bose-Einstein Condensate**, Jackson Lee, Andrew J Millis, Paper: [https://arxiv.org/abs/2604.09528](https://arxiv.org/abs/2604.09528)
+- 2026-04-10, **Classification of 2D Fermionic Systems with a $\mathbb Z_2$ Flavor Symmetry**, Chi-Ming Chang, Jin Chen, Fengjun Xu, Paper: [https://arxiv.org/abs/2604.09503](https://arxiv.org/abs/2604.09503), 17 pages+4 appendices
+- 2026-04-10, **Quantum Randomized Subspace Iteration**, Stefano Scali, Brian Coyle, Giuseppe Buonaiuto, Michal Krompiec, Paper: [https://arxiv.org/abs/2604.09483](https://arxiv.org/abs/2604.09483)
+- 2026-04-10, **Probing High-Quality Axions with Gravitational Waves**, Ruiyu Zhou, Jin-Wei Wang, Ligong Bian, Paper: [https://arxiv.org/abs/2604.09081](https://arxiv.org/abs/2604.09081), 9+2 pages, 2 figures
+- 2026-04-09, **Decoding coherent errors in toric codes on honeycomb and square lattices: duality to Majorana monitored dynamics and symmetry classes**, Zhou Yang, Andreas W. W. Ludwig, Chao-Ming Jian, Paper: [https://arxiv.org/abs/2604.08650](https://arxiv.org/abs/2604.08650), 22+11 pages, 13 figures
 - 2026-04-09, **$\mathcal{PT}$ -symmetric Field Theories at Finite Temperature**, Oleksandr Diatlyk, Andrei Katsevich, Fedor K. Popov, Paper: [https://arxiv.org/abs/2604.08459](https://arxiv.org/abs/2604.08459), 40 pages, 7 figures
 - 2026-04-09, **Sufficiency and Petz recovery for positive maps**, Lauritz van Luijk, Henrik Wilming, Paper: [https://arxiv.org/abs/2604.08380](https://arxiv.org/abs/2604.08380), 58 pages total; Comments welcome!
 - 2026-04-09, **Integrals of motion in $WE_6$ CFT and the ODE/IM correspondence**, Daichi Ide, Katsushi Ito, Wataru Kono, Paper: [https://arxiv.org/abs/2604.07829](https://arxiv.org/abs/2604.07829), 24 pages, 1 figure
