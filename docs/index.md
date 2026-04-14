@@ -1,7 +1,10 @@
-> Automatically updated on 2026.04.13
+> Automatically updated on 2026.04.14
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-11**|**Quantum Entanglement of Circular Strings as a Probe for Topologically Charged Spacetimes**|Ai-chen Li, Xin-Fei Li, Xuanting Ji|[2604.10379](https://arxiv.org/abs/2604.10379)|null|
+|**2026-04-11**|**Emergent Topological Universality and Marginal Replica Symmetry Breaking in Gauge-Correlated Spin Glasses**|Alok Yadav|[2604.10309](https://arxiv.org/abs/2604.10309)|null|
+|**2026-04-11**|**A Framework for Predicting Entanglement Spectra of Gapless Symmetry-Protected Topological States in One Dimension**|Wen-Tao Xu, Frank Pollmann, Michael Knap|[2604.10128](https://arxiv.org/abs/2604.10128)|null|
 |**2026-04-10**|**$\mathrm{U}(2)$ Chern-Simons-Ginzburg-Landau Theory of Fractional Quantum Hall Hierarchies**|Taegon Lee, Gil Young Cho, Donghae Seo|[2604.09542](https://arxiv.org/abs/2604.09542)|null|
 |**2026-04-10**|**Machine Learning Phase Field Reconstruction in a Bose-Einstein Condensate**|Jackson Lee, Andrew J Millis|[2604.09528](https://arxiv.org/abs/2604.09528)|null|
 |**2026-04-10**|**Classification of 2D Fermionic Systems with a $\mathbb Z_2$ Flavor Symmetry**|Chi-Ming Chang, Jin Chen, Fengjun Xu|[2604.09503](https://arxiv.org/abs/2604.09503)|null|
