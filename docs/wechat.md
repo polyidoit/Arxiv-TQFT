@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-13, **Poisson Gauge Theories in Three Dimensions: Exact Solutions and Conservation Laws**, Alexey Sharapov, David Shcherbatov, Paper: [https://arxiv.org/abs/2604.11736](https://arxiv.org/abs/2604.11736), 22 pages, 2 figures
+- 2026-04-13, **Parent Hamiltonian Construction of Generalized Calogero-Sutherland Models**, Hari Borutta, Andreas Feuerpfeil, Yasir Iqbal, Paper: [https://arxiv.org/abs/2604.11074](https://arxiv.org/abs/2604.11074), 11 pages
+- 2026-04-13, **Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24**, Jian Zhou, Paper: [https://arxiv.org/abs/2604.10914](https://arxiv.org/abs/2604.10914)
+- 2026-04-12, **Explosive Synchronization and Magnetic Chimeras via the Simplicial Bridge in Helimagnetic Lattices**, Alok Yadav, Paper: [https://arxiv.org/abs/2604.10773](https://arxiv.org/abs/2604.10773), 5 pages, 3 figures
+- 2026-04-12, **Semiprojective Banach lattices**, Tomasz Kania, Mariusz Niwiński, Paper: [https://arxiv.org/abs/2604.10624](https://arxiv.org/abs/2604.10624), 19 pp
 - 2026-04-11, **Quantum Entanglement of Circular Strings as a Probe for Topologically Charged Spacetimes**, Ai-chen Li, Xin-Fei Li, Xuanting Ji, Paper: [https://arxiv.org/abs/2604.10379](https://arxiv.org/abs/2604.10379)
 - 2026-04-11, **Emergent Topological Universality and Marginal Replica Symmetry Breaking in Gauge-Correlated Spin Glasses**, Alok Yadav, Paper: [https://arxiv.org/abs/2604.10309](https://arxiv.org/abs/2604.10309), 5 pages, 1 figure, plus Supplemental Material
 - 2026-04-11, **A Framework for Predicting Entanglement Spectra of Gapless Symmetry-Protected Topological States in One Dimension**, Wen-Tao Xu, Frank Pollmann, Michael Knap, Paper: [https://arxiv.org/abs/2604.10128](https://arxiv.org/abs/2604.10128), Main text contains 12 pages, and 10 figures

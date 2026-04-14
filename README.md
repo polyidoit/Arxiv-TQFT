@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Poisson Gauge Theories in Three Dimensions: Exact Solutions and Conservation Laws**|Alexey Sharapov, David Shcherbatov|[2604.11736](https://arxiv.org/abs/2604.11736)|null|
+|**2026-04-13**|**Parent Hamiltonian Construction of Generalized Calogero-Sutherland Models**|Hari Borutta, Andreas Feuerpfeil, Yasir Iqbal|[2604.11074](https://arxiv.org/abs/2604.11074)|null|
+|**2026-04-13**|**Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24**|Jian Zhou|[2604.10914](https://arxiv.org/abs/2604.10914)|null|
+|**2026-04-12**|**Explosive Synchronization and Magnetic Chimeras via the Simplicial Bridge in Helimagnetic Lattices**|Alok Yadav|[2604.10773](https://arxiv.org/abs/2604.10773)|null|
+|**2026-04-12**|**Semiprojective Banach lattices**|Tomasz Kania, Mariusz Niwiński|[2604.10624](https://arxiv.org/abs/2604.10624)|null|
 |**2026-04-11**|**Quantum Entanglement of Circular Strings as a Probe for Topologically Charged Spacetimes**|Ai-chen Li, Xin-Fei Li, Xuanting Ji|[2604.10379](https://arxiv.org/abs/2604.10379)|null|
 |**2026-04-11**|**Emergent Topological Universality and Marginal Replica Symmetry Breaking in Gauge-Correlated Spin Glasses**|Alok Yadav|[2604.10309](https://arxiv.org/abs/2604.10309)|null|
 |**2026-04-11**|**A Framework for Predicting Entanglement Spectra of Gapless Symmetry-Protected Topological States in One Dimension**|Wen-Tao Xu, Frank Pollmann, Michael Knap|[2604.10128](https://arxiv.org/abs/2604.10128)|null|
