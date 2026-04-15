@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-14, **Hilbert Space Fragmentation from Generalized Symmetries**, Thea Budde, Marina Kristć Marinković, Joao C. Pinto Barros, Paper: [https://arxiv.org/abs/2604.12907](https://arxiv.org/abs/2604.12907), 9 pages, 3 figures
 - 2026-04-14, **Torsion-induced confinement and tunable nonlinear optical gain in a mesoscopic electron system**, Carlos Magno O. Pereira, Edilberto O Silva, Paper: [https://arxiv.org/abs/2604.12664](https://arxiv.org/abs/2604.12664), 20 pages, 19 figures, 1 table
 - 2026-04-14, **A Quasi-Pentagon Equation for a Heisenberg Double of a Quasi-Hopf Algebra**, Yohei Ota, Paper: [https://arxiv.org/abs/2604.12554](https://arxiv.org/abs/2604.12554), 12 pages
 - 2026-04-14, **Learning Parameterized Nonlinear Elasticity on Curved Surfaces**, Yankang Liu, Ke Zhang, Maziar Raissi, Roya Zandi, Paper: [https://arxiv.org/abs/2604.12170](https://arxiv.org/abs/2604.12170)
