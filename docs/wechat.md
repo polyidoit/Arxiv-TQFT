@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.14
+> Automatically updated on 2026.04.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-14, **Torsion-induced confinement and tunable nonlinear optical gain in a mesoscopic electron system**, Carlos Magno O. Pereira, Edilberto O Silva, Paper: [https://arxiv.org/abs/2604.12664](https://arxiv.org/abs/2604.12664), 20 pages, 19 figures, 1 table
+- 2026-04-14, **A Quasi-Pentagon Equation for a Heisenberg Double of a Quasi-Hopf Algebra**, Yohei Ota, Paper: [https://arxiv.org/abs/2604.12554](https://arxiv.org/abs/2604.12554), 12 pages
+- 2026-04-14, **Learning Parameterized Nonlinear Elasticity on Curved Surfaces**, Yankang Liu, Ke Zhang, Maziar Raissi, Roya Zandi, Paper: [https://arxiv.org/abs/2604.12170](https://arxiv.org/abs/2604.12170)
+- 2026-04-13, **On a Deformed Holomorphic Chern-Simons Theory**, Eirik Høgmoe Kjelsnes, Eirik Eik Svanes, Vegard Undheim, Paper: [https://arxiv.org/abs/2604.12055](https://arxiv.org/abs/2604.12055), 61 pages, 3 appendices
+- 2026-04-13, **Strong coupling dynamics of defect RG flows in ABJM**, Marco S. Bianchi, Luigi Castiglioni, Silvia Penati, Marcia Tenser, Diego Trancanelli, Paper: [https://arxiv.org/abs/2604.11896](https://arxiv.org/abs/2604.11896), 23 pages, 1 figure
+- 2026-04-13, **Generalized symmetries and emergence in axion effective field theories**, Dan Sehayek, Nathaniel Craig, Paper: [https://arxiv.org/abs/2604.11877](https://arxiv.org/abs/2604.11877)
 - 2026-04-13, **Poisson Gauge Theories in Three Dimensions: Exact Solutions and Conservation Laws**, Alexey Sharapov, David Shcherbatov, Paper: [https://arxiv.org/abs/2604.11736](https://arxiv.org/abs/2604.11736), 22 pages, 2 figures
 - 2026-04-13, **Parent Hamiltonian Construction of Generalized Calogero-Sutherland Models**, Hari Borutta, Andreas Feuerpfeil, Yasir Iqbal, Paper: [https://arxiv.org/abs/2604.11074](https://arxiv.org/abs/2604.11074), 11 pages
 - 2026-04-13, **Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24**, Jian Zhou, Paper: [https://arxiv.org/abs/2604.10914](https://arxiv.org/abs/2604.10914)
@@ -1315,5 +1321,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
 

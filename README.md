@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.04.14
+> Automatically updated on 2026.04.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Torsion-induced confinement and tunable nonlinear optical gain in a mesoscopic electron system**|Carlos Magno O. Pereira, Edilberto O Silva|[2604.12664](https://arxiv.org/abs/2604.12664)|null|
+|**2026-04-14**|**A Quasi-Pentagon Equation for a Heisenberg Double of a Quasi-Hopf Algebra**|Yohei Ota|[2604.12554](https://arxiv.org/abs/2604.12554)|null|
+|**2026-04-14**|**Learning Parameterized Nonlinear Elasticity on Curved Surfaces**|Yankang Liu, Ke Zhang, Maziar Raissi, Roya Zandi|[2604.12170](https://arxiv.org/abs/2604.12170)|null|
+|**2026-04-13**|**On a Deformed Holomorphic Chern-Simons Theory**|Eirik Høgmoe Kjelsnes, Eirik Eik Svanes, Vegard Undheim|[2604.12055](https://arxiv.org/abs/2604.12055)|null|
+|**2026-04-13**|**Strong coupling dynamics of defect RG flows in ABJM**|Marco S. Bianchi, Luigi Castiglioni, Silvia Penati, Marcia Tenser, Diego Trancanelli|[2604.11896](https://arxiv.org/abs/2604.11896)|null|
+|**2026-04-13**|**Generalized symmetries and emergence in axion effective field theories**|Dan Sehayek, Nathaniel Craig|[2604.11877](https://arxiv.org/abs/2604.11877)|null|
 |**2026-04-13**|**Poisson Gauge Theories in Three Dimensions: Exact Solutions and Conservation Laws**|Alexey Sharapov, David Shcherbatov|[2604.11736](https://arxiv.org/abs/2604.11736)|null|
 |**2026-04-13**|**Parent Hamiltonian Construction of Generalized Calogero-Sutherland Models**|Hari Borutta, Andreas Feuerpfeil, Yasir Iqbal|[2604.11074](https://arxiv.org/abs/2604.11074)|null|
 |**2026-04-13**|**Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24**|Jian Zhou|[2604.10914](https://arxiv.org/abs/2604.10914)|null|
@@ -2114,5 +2120,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
 

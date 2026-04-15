@@ -1,7 +1,13 @@
-> Automatically updated on 2026.04.14
+> Automatically updated on 2026.04.15
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-14**|**Torsion-induced confinement and tunable nonlinear optical gain in a mesoscopic electron system**|Carlos Magno O. Pereira, Edilberto O Silva|[2604.12664](https://arxiv.org/abs/2604.12664)|null|
+|**2026-04-14**|**A Quasi-Pentagon Equation for a Heisenberg Double of a Quasi-Hopf Algebra**|Yohei Ota|[2604.12554](https://arxiv.org/abs/2604.12554)|null|
+|**2026-04-14**|**Learning Parameterized Nonlinear Elasticity on Curved Surfaces**|Yankang Liu, Ke Zhang, Maziar Raissi, Roya Zandi|[2604.12170](https://arxiv.org/abs/2604.12170)|null|
+|**2026-04-13**|**On a Deformed Holomorphic Chern-Simons Theory**|Eirik Høgmoe Kjelsnes, Eirik Eik Svanes, Vegard Undheim|[2604.12055](https://arxiv.org/abs/2604.12055)|null|
+|**2026-04-13**|**Strong coupling dynamics of defect RG flows in ABJM**|Marco S. Bianchi, Luigi Castiglioni, Silvia Penati, Marcia Tenser, Diego Trancanelli|[2604.11896](https://arxiv.org/abs/2604.11896)|null|
+|**2026-04-13**|**Generalized symmetries and emergence in axion effective field theories**|Dan Sehayek, Nathaniel Craig|[2604.11877](https://arxiv.org/abs/2604.11877)|null|
 |**2026-04-13**|**Poisson Gauge Theories in Three Dimensions: Exact Solutions and Conservation Laws**|Alexey Sharapov, David Shcherbatov|[2604.11736](https://arxiv.org/abs/2604.11736)|null|
 |**2026-04-13**|**Parent Hamiltonian Construction of Generalized Calogero-Sutherland Models**|Hari Borutta, Andreas Feuerpfeil, Yasir Iqbal|[2604.11074](https://arxiv.org/abs/2604.11074)|null|
 |**2026-04-13**|**Cusp Form Dimensions, Lattice Uniqueness, and LP Sharpness for Sphere Packing in Dimensions 8 and 24**|Jian Zhou|[2604.10914](https://arxiv.org/abs/2604.10914)|null|
