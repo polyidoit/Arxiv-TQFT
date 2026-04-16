@@ -1,7 +1,8 @@
-> Automatically updated on 2026.04.15
+> Automatically updated on 2026.04.16
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-15**|**Emergent topological phase from a one-dimensional network of defects**|Rahul Singh, Ritajit Kundu, Arijit Kundu, Adhip Agarwala|[2604.13532](https://arxiv.org/abs/2604.13532)|null|
 |**2026-04-14**|**Hilbert Space Fragmentation from Generalized Symmetries**|Thea Budde, Marina Kristć Marinković, Joao C. Pinto Barros|[2604.12907](https://arxiv.org/abs/2604.12907)|null|
 |**2026-04-14**|**Torsion-induced confinement and tunable nonlinear optical gain in a mesoscopic electron system**|Carlos Magno O. Pereira, Edilberto O Silva|[2604.12664](https://arxiv.org/abs/2604.12664)|null|
 |**2026-04-14**|**A Quasi-Pentagon Equation for a Heisenberg Double of a Quasi-Hopf Algebra**|Yohei Ota|[2604.12554](https://arxiv.org/abs/2604.12554)|null|

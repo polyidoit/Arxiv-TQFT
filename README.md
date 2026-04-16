@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.04.15
+> Automatically updated on 2026.04.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Emergent topological phase from a one-dimensional network of defects**|Rahul Singh, Ritajit Kundu, Arijit Kundu, Adhip Agarwala|[2604.13532](https://arxiv.org/abs/2604.13532)|null|
 |**2026-04-14**|**Hilbert Space Fragmentation from Generalized Symmetries**|Thea Budde, Marina Kristć Marinković, Joao C. Pinto Barros|[2604.12907](https://arxiv.org/abs/2604.12907)|null|
 |**2026-04-14**|**Torsion-induced confinement and tunable nonlinear optical gain in a mesoscopic electron system**|Carlos Magno O. Pereira, Edilberto O Silva|[2604.12664](https://arxiv.org/abs/2604.12664)|null|
 |**2026-04-14**|**A Quasi-Pentagon Equation for a Heisenberg Double of a Quasi-Hopf Algebra**|Yohei Ota|[2604.12554](https://arxiv.org/abs/2604.12554)|null|
@@ -2121,5 +2122,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
