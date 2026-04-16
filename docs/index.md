@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-15**|**Lagrangian correspondences for moduli spaces of Higgs bundles and holomorphic connections**|Panagiotis Dimakis, Duong Dinh, Shengjing Xu|[2604.14127](https://arxiv.org/abs/2604.14127)|null|
+|**2026-04-15**|**Hybrid quantum-classical algorithms for complex nonlinear partial differential equations with Ginzburg-Landau potential and vortex motion laws**|Shi Jin, Nana Liu, Chuwen Ma|[2604.14079](https://arxiv.org/abs/2604.14079)|null|
 |**2026-04-15**|**Emergent topological phase from a one-dimensional network of defects**|Rahul Singh, Ritajit Kundu, Arijit Kundu, Adhip Agarwala|[2604.13532](https://arxiv.org/abs/2604.13532)|null|
 |**2026-04-14**|**Hilbert Space Fragmentation from Generalized Symmetries**|Thea Budde, Marina Kristć Marinković, Joao C. Pinto Barros|[2604.12907](https://arxiv.org/abs/2604.12907)|null|
 |**2026-04-14**|**Torsion-induced confinement and tunable nonlinear optical gain in a mesoscopic electron system**|Carlos Magno O. Pereira, Edilberto O Silva|[2604.12664](https://arxiv.org/abs/2604.12664)|null|
