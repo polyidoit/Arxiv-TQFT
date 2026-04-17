@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.16
+> Automatically updated on 2026.04.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-16, **Renormalised two-point functions of CLE $_4$ gaskets**, Juhan Aru, Titus Lupu, Paper: [https://arxiv.org/abs/2604.15146](https://arxiv.org/abs/2604.15146), 74 pages, beautiful figures are missing
+- 2026-04-16, **Monodromy Defects for Electric-Magnetic Duality, Hyperbolic Space, and Lines**, Vladimir Bashmakov, Paper: [https://arxiv.org/abs/2604.15117](https://arxiv.org/abs/2604.15117)
+- 2026-04-16, **Floquet dynamical quantum phase transitions in periodically flux-quenched systems**, Wen-Hui Nie, Mei-Yu Zhang, Lin-Cheng Wang, Chong Li, Paper: [https://arxiv.org/abs/2604.14946](https://arxiv.org/abs/2604.14946)
+- 2026-04-16, **Correlators in $T\bar{T}$ and Root-$T\bar{T}$ Deformed CFTs**, Bo-Rui Li, Song He, Yu-Xiao Liu, Paper: [https://arxiv.org/abs/2604.14939](https://arxiv.org/abs/2604.14939), 24 pages, 1 figure
+- 2026-04-16, **Braided quantum $\mathrm{SU}(2)$ group - a case study**, Jacek Krajczok, Piotr. M. Sołtan, Paper: [https://arxiv.org/abs/2604.14937](https://arxiv.org/abs/2604.14937), 40 pages
+- 2026-04-15, **Emergent States and Algebras from the Double-Scaling limit of Pure States in SYK**, Harshit Rajgadia, Jiuci Xu, Paper: [https://arxiv.org/abs/2604.14387](https://arxiv.org/abs/2604.14387)
+- 2026-04-15, **Generalized Complexity Distances and Non-Invertible Symmetries**, Jonathan J. Heckman, Rebecca J. Hicks, Chitraang Murdia, Paper: [https://arxiv.org/abs/2604.14275](https://arxiv.org/abs/2604.14275), 33 pages + references, 8 figures
+- 2026-04-15, **Magic and Non-Clifford Gates in Topological Quantum Field Theory**, William Munizzi, Howard J. Schnitzer, Paper: [https://arxiv.org/abs/2604.14271](https://arxiv.org/abs/2604.14271), 34 pages, 5 figures, 1 table
 - 2026-04-15, **Lagrangian correspondences for moduli spaces of Higgs bundles and holomorphic connections**, Panagiotis Dimakis, Duong Dinh, Shengjing Xu, Paper: [https://arxiv.org/abs/2604.14127](https://arxiv.org/abs/2604.14127), First draft, to be revised soon. Comments welcome!
 - 2026-04-15, **Hybrid quantum-classical algorithms for complex nonlinear partial differential equations with Ginzburg-Landau potential and vortex motion laws**, Shi Jin, Nana Liu, Chuwen Ma, Paper: [https://arxiv.org/abs/2604.14079](https://arxiv.org/abs/2604.14079)
 - 2026-04-15, **Emergent topological phase from a one-dimensional network of defects**, Rahul Singh, Ritajit Kundu, Arijit Kundu, Adhip Agarwala, Paper: [https://arxiv.org/abs/2604.13532](https://arxiv.org/abs/2604.13532), 17 pages, 11 figures
@@ -1325,5 +1333,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 

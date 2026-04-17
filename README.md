@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.04.16
+> Automatically updated on 2026.04.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Renormalised two-point functions of CLE $_4$ gaskets**|Juhan Aru, Titus Lupu|[2604.15146](https://arxiv.org/abs/2604.15146)|null|
+|**2026-04-16**|**Monodromy Defects for Electric-Magnetic Duality, Hyperbolic Space, and Lines**|Vladimir Bashmakov|[2604.15117](https://arxiv.org/abs/2604.15117)|null|
+|**2026-04-16**|**Floquet dynamical quantum phase transitions in periodically flux-quenched systems**|Wen-Hui Nie, Mei-Yu Zhang, Lin-Cheng Wang, Chong Li|[2604.14946](https://arxiv.org/abs/2604.14946)|null|
+|**2026-04-16**|**Correlators in $T\bar{T}$ and Root-$T\bar{T}$ Deformed CFTs**|Bo-Rui Li, Song He, Yu-Xiao Liu|[2604.14939](https://arxiv.org/abs/2604.14939)|null|
+|**2026-04-16**|**Braided quantum $\mathrm{SU}(2)$ group - a case study**|Jacek Krajczok, Piotr. M. Sołtan|[2604.14937](https://arxiv.org/abs/2604.14937)|null|
+|**2026-04-15**|**Emergent States and Algebras from the Double-Scaling limit of Pure States in SYK**|Harshit Rajgadia, Jiuci Xu|[2604.14387](https://arxiv.org/abs/2604.14387)|null|
+|**2026-04-15**|**Generalized Complexity Distances and Non-Invertible Symmetries**|Jonathan J. Heckman, Rebecca J. Hicks, Chitraang Murdia|[2604.14275](https://arxiv.org/abs/2604.14275)|null|
+|**2026-04-15**|**Magic and Non-Clifford Gates in Topological Quantum Field Theory**|William Munizzi, Howard J. Schnitzer|[2604.14271](https://arxiv.org/abs/2604.14271)|null|
 |**2026-04-15**|**Lagrangian correspondences for moduli spaces of Higgs bundles and holomorphic connections**|Panagiotis Dimakis, Duong Dinh, Shengjing Xu|[2604.14127](https://arxiv.org/abs/2604.14127)|null|
 |**2026-04-15**|**Hybrid quantum-classical algorithms for complex nonlinear partial differential equations with Ginzburg-Landau potential and vortex motion laws**|Shi Jin, Nana Liu, Chuwen Ma|[2604.14079](https://arxiv.org/abs/2604.14079)|null|
 |**2026-04-15**|**Emergent topological phase from a one-dimensional network of defects**|Rahul Singh, Ritajit Kundu, Arijit Kundu, Adhip Agarwala|[2604.13532](https://arxiv.org/abs/2604.13532)|null|
@@ -2124,5 +2132,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
