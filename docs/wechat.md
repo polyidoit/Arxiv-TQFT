@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.17
+> Automatically updated on 2026.04.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-16, **Assembling Extensive Quantum Fisher Information in Stabilizer Systems**, Arnau Lira-Solanilla, Sreemayee Aditya, Xhek Turkeshi, Silvia Pappalardi, Paper: [https://arxiv.org/abs/2604.15268](https://arxiv.org/abs/2604.15268), This work contains 5 pages and 6 figures
 - 2026-04-16, **Renormalised two-point functions of CLE $_4$ gaskets**, Juhan Aru, Titus Lupu, Paper: [https://arxiv.org/abs/2604.15146](https://arxiv.org/abs/2604.15146), 74 pages, beautiful figures are missing
 - 2026-04-16, **Monodromy Defects for Electric-Magnetic Duality, Hyperbolic Space, and Lines**, Vladimir Bashmakov, Paper: [https://arxiv.org/abs/2604.15117](https://arxiv.org/abs/2604.15117)
 - 2026-04-16, **Floquet dynamical quantum phase transitions in periodically flux-quenched systems**, Wen-Hui Nie, Mei-Yu Zhang, Lin-Cheng Wang, Chong Li, Paper: [https://arxiv.org/abs/2604.14946](https://arxiv.org/abs/2604.14946)
@@ -1333,5 +1334,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260418>back to top</a>)</p>
 

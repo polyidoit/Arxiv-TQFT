@@ -1,7 +1,8 @@
-> Automatically updated on 2026.04.17
+> Automatically updated on 2026.04.18
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-16**|**Assembling Extensive Quantum Fisher Information in Stabilizer Systems**|Arnau Lira-Solanilla, Sreemayee Aditya, Xhek Turkeshi, Silvia Pappalardi|[2604.15268](https://arxiv.org/abs/2604.15268)|null|
 |**2026-04-16**|**Renormalised two-point functions of CLE $_4$ gaskets**|Juhan Aru, Titus Lupu|[2604.15146](https://arxiv.org/abs/2604.15146)|null|
 |**2026-04-16**|**Monodromy Defects for Electric-Magnetic Duality, Hyperbolic Space, and Lines**|Vladimir Bashmakov|[2604.15117](https://arxiv.org/abs/2604.15117)|null|
 |**2026-04-16**|**Floquet dynamical quantum phase transitions in periodically flux-quenched systems**|Wen-Hui Nie, Mei-Yu Zhang, Lin-Cheng Wang, Chong Li|[2604.14946](https://arxiv.org/abs/2604.14946)|null|
