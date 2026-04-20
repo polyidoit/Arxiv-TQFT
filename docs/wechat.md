@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.19
+> Automatically updated on 2026.04.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-17, **Chevalley property of module-finite Hopf algebras and discriminant ideals**, Yimin Huang, Tiancheng Qi, Quanshui Wu, Ruipeng Zhu, Paper: [https://arxiv.org/abs/2604.15986](https://arxiv.org/abs/2604.15986), 30 pages
+- 2026-04-17, **Hilbert Space Fragmentation and Gauge Symmetry**, Thea Budde, Marina Kristć Marinković, Joao C. Pinto Barros, Paper: [https://arxiv.org/abs/2604.15820](https://arxiv.org/abs/2604.15820), 10 pages, 2 figures
+- 2026-04-17, **Holographic Stirling engines and the route to Carnot efficiency**, Nikesh Lilani, Manus R. Visser, Paper: [https://arxiv.org/abs/2604.15790](https://arxiv.org/abs/2604.15790), 49 pages, 8 figures
+- 2026-04-17, **Extracting conformal data from finite-size tensor-network flow in critical two-dimensional classical models**, Sing-Hong Chan, Pochung Chen, Paper: [https://arxiv.org/abs/2604.15749](https://arxiv.org/abs/2604.15749)
+- 2026-04-16, **Quantum computation at the edge of chaos**, Tomohiro Hashizume, Zhengjun Wang, Frank Schlawin, Dieter Jaksch, Paper: [https://arxiv.org/abs/2604.15441](https://arxiv.org/abs/2604.15441), 18 pages, 5 figures
+- 2026-04-16, **SymTFT in Superspace**, Federico Ambrosino, Alessandro Duci, Pietro Antonio Grassi, Silvia Penati, Paper: [https://arxiv.org/abs/2604.15424](https://arxiv.org/abs/2604.15424), 20 pages + 4 appendices
 - 2026-04-16, **Assembling Extensive Quantum Fisher Information in Stabilizer Systems**, Arnau Lira-Solanilla, Sreemayee Aditya, Xhek Turkeshi, Silvia Pappalardi, Paper: [https://arxiv.org/abs/2604.15268](https://arxiv.org/abs/2604.15268), This work contains 5 pages and 6 figures
 - 2026-04-16, **Renormalised two-point functions of CLE $_4$ gaskets**, Juhan Aru, Titus Lupu, Paper: [https://arxiv.org/abs/2604.15146](https://arxiv.org/abs/2604.15146), 74 pages, beautiful figures are missing
 - 2026-04-16, **Monodromy Defects for Electric-Magnetic Duality, Hyperbolic Space, and Lines**, Vladimir Bashmakov, Paper: [https://arxiv.org/abs/2604.15117](https://arxiv.org/abs/2604.15117)
@@ -1334,5 +1340,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 

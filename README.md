@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.04.19
+> Automatically updated on 2026.04.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**Chevalley property of module-finite Hopf algebras and discriminant ideals**|Yimin Huang, Tiancheng Qi, Quanshui Wu, Ruipeng Zhu|[2604.15986](https://arxiv.org/abs/2604.15986)|null|
+|**2026-04-17**|**Hilbert Space Fragmentation and Gauge Symmetry**|Thea Budde, Marina Kristć Marinković, Joao C. Pinto Barros|[2604.15820](https://arxiv.org/abs/2604.15820)|null|
+|**2026-04-17**|**Holographic Stirling engines and the route to Carnot efficiency**|Nikesh Lilani, Manus R. Visser|[2604.15790](https://arxiv.org/abs/2604.15790)|null|
+|**2026-04-17**|**Extracting conformal data from finite-size tensor-network flow in critical two-dimensional classical models**|Sing-Hong Chan, Pochung Chen|[2604.15749](https://arxiv.org/abs/2604.15749)|null|
+|**2026-04-16**|**Quantum computation at the edge of chaos**|Tomohiro Hashizume, Zhengjun Wang, Frank Schlawin, Dieter Jaksch|[2604.15441](https://arxiv.org/abs/2604.15441)|null|
+|**2026-04-16**|**SymTFT in Superspace**|Federico Ambrosino, Alessandro Duci, Pietro Antonio Grassi, Silvia Penati|[2604.15424](https://arxiv.org/abs/2604.15424)|null|
 |**2026-04-16**|**Assembling Extensive Quantum Fisher Information in Stabilizer Systems**|Arnau Lira-Solanilla, Sreemayee Aditya, Xhek Turkeshi, Silvia Pappalardi|[2604.15268](https://arxiv.org/abs/2604.15268)|null|
 |**2026-04-16**|**Renormalised two-point functions of CLE $_4$ gaskets**|Juhan Aru, Titus Lupu|[2604.15146](https://arxiv.org/abs/2604.15146)|null|
 |**2026-04-16**|**Monodromy Defects for Electric-Magnetic Duality, Hyperbolic Space, and Lines**|Vladimir Bashmakov|[2604.15117](https://arxiv.org/abs/2604.15117)|null|
@@ -2133,5 +2139,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
