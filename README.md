@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**$C^*$ -simplicity, confined subalgebras, and operator algebraic uniform recurrence**|Tattwamasi Amrutam, Yongle Jiang|[2604.18458](https://arxiv.org/abs/2604.18458)|null|
+|**2026-04-20**|**Large-c BCFT Entanglement Entropy with Deformed Boundaries from Emergent JT Gravity**|Dominik Neuenfeld, Christopher Tellinger|[2604.18405](https://arxiv.org/abs/2604.18405)|null|
+|**2026-04-20**|**Bounding relative entropy for non-unitary excitations in quantum field theory**|Markus B. Fröb, Leonardo Sangaletti|[2604.18383](https://arxiv.org/abs/2604.18383)|null|
+|**2026-04-20**|**Morita equivalence for quantum graphs**|Alexandros Chatzinikolaou, Gage Hoefer, Nikolaos Koutsonikos-Kouloumpis, Ioannis Apollon Paraskevas|[2604.18065](https://arxiv.org/abs/2604.18065)|null|
+|**2026-04-20**|**Crossed-Product von Neumann Algebras for Incompressible Navier--Stokes Flows and Spectral Complexity Indicators**|Gautier-Edouard Edouard Filardo|[2604.17917](https://arxiv.org/abs/2604.17917)|null|
+|**2026-04-20**|**Mutually-commuting von Neumann algebra models of quantum networks and violation of Bell-type inequalities**|Shuyuan Yang, Jinchuan Hou, Kan He|[2604.17765](https://arxiv.org/abs/2604.17765)|null|
+|**2026-04-19**|**Matlas: A Semantic Search Engine for Mathematics**|Haocheng Ju, Leheng Chen, Peihao Wu, Bryan Dai, Bin Dong|[2604.17484](https://arxiv.org/abs/2604.17484)|null|
 |**2026-04-19**|**Bubble dynamics and vortex formation in holographic first-order superfluid phase transitions**|Zhen-han Jin, Yu-ping An, Li Li|[2604.17216](https://arxiv.org/abs/2604.17216)|null|
 |**2026-04-18**|**Takesaki duality for weak* closed $L^p$ -operator crossed products**|Zhen Wang|[2604.16946](https://arxiv.org/abs/2604.16946)|null|
 |**2026-04-18**|**Generalized Scalar Auxiliary Variable Exponential Integrator for A Modified Landau-de Gennes Theory for Smectic Liquid Crystals**|Wenshuai Hu, Guanghua Ji, Xiao Li|[2604.16777](https://arxiv.org/abs/2604.16777)|null|

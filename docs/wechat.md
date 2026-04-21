@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-20, **$C^*$ -simplicity, confined subalgebras, and operator algebraic uniform recurrence**, Tattwamasi Amrutam, Yongle Jiang, Paper: [https://arxiv.org/abs/2604.18458](https://arxiv.org/abs/2604.18458), 24 pages; comments are welcome
+- 2026-04-20, **Large-c BCFT Entanglement Entropy with Deformed Boundaries from Emergent JT Gravity**, Dominik Neuenfeld, Christopher Tellinger, Paper: [https://arxiv.org/abs/2604.18405](https://arxiv.org/abs/2604.18405), 39 pages, 8 figures
+- 2026-04-20, **Bounding relative entropy for non-unitary excitations in quantum field theory**, Markus B. Fröb, Leonardo Sangaletti, Paper: [https://arxiv.org/abs/2604.18383](https://arxiv.org/abs/2604.18383), 32 pages
+- 2026-04-20, **Morita equivalence for quantum graphs**, Alexandros Chatzinikolaou, Gage Hoefer, Nikolaos Koutsonikos-Kouloumpis, Ioannis Apollon Paraskevas, Paper: [https://arxiv.org/abs/2604.18065](https://arxiv.org/abs/2604.18065), 34 pages
+- 2026-04-20, **Crossed-Product von Neumann Algebras for Incompressible Navier--Stokes Flows and Spectral Complexity Indicators**, Gautier-Edouard Edouard Filardo, Paper: [https://arxiv.org/abs/2604.17917](https://arxiv.org/abs/2604.17917)
+- 2026-04-20, **Mutually-commuting von Neumann algebra models of quantum networks and violation of Bell-type inequalities**, Shuyuan Yang, Jinchuan Hou, Kan He, Paper: [https://arxiv.org/abs/2604.17765](https://arxiv.org/abs/2604.17765), 22 pages, 1 fugure
+- 2026-04-19, **Matlas: A Semantic Search Engine for Mathematics**, Haocheng Ju, Leheng Chen, Peihao Wu, Bryan Dai, Bin Dong, Paper: [https://arxiv.org/abs/2604.17484](https://arxiv.org/abs/2604.17484), Web Service: https://matlas.ai/, API Docs: https://matlas.ai/docs
 - 2026-04-19, **Bubble dynamics and vortex formation in holographic first-order superfluid phase transitions**, Zhen-han Jin, Yu-ping An, Li Li, Paper: [https://arxiv.org/abs/2604.17216](https://arxiv.org/abs/2604.17216)
 - 2026-04-18, **Takesaki duality for weak* closed $L^p$ -operator crossed products**, Zhen Wang, Paper: [https://arxiv.org/abs/2604.16946](https://arxiv.org/abs/2604.16946)
 - 2026-04-18, **Generalized Scalar Auxiliary Variable Exponential Integrator for A Modified Landau-de Gennes Theory for Smectic Liquid Crystals**, Wenshuai Hu, Guanghua Ji, Xiao Li, Paper: [https://arxiv.org/abs/2604.16777](https://arxiv.org/abs/2604.16777), 50 pages, 9 figures
