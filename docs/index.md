@@ -1,7 +1,10 @@
-> Automatically updated on 2026.04.20
+> Automatically updated on 2026.04.21
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-19**|**Bubble dynamics and vortex formation in holographic first-order superfluid phase transitions**|Zhen-han Jin, Yu-ping An, Li Li|[2604.17216](https://arxiv.org/abs/2604.17216)|null|
+|**2026-04-18**|**Takesaki duality for weak* closed $L^p$ -operator crossed products**|Zhen Wang|[2604.16946](https://arxiv.org/abs/2604.16946)|null|
+|**2026-04-18**|**Generalized Scalar Auxiliary Variable Exponential Integrator for A Modified Landau-de Gennes Theory for Smectic Liquid Crystals**|Wenshuai Hu, Guanghua Ji, Xiao Li|[2604.16777](https://arxiv.org/abs/2604.16777)|null|
 |**2026-04-17**|**Chevalley property of module-finite Hopf algebras and discriminant ideals**|Yimin Huang, Tiancheng Qi, Quanshui Wu, Ruipeng Zhu|[2604.15986](https://arxiv.org/abs/2604.15986)|null|
 |**2026-04-17**|**Hilbert Space Fragmentation and Gauge Symmetry**|Thea Budde, Marina Kristć Marinković, Joao C. Pinto Barros|[2604.15820](https://arxiv.org/abs/2604.15820)|null|
 |**2026-04-17**|**Holographic Stirling engines and the route to Carnot efficiency**|Nikesh Lilani, Manus R. Visser|[2604.15790](https://arxiv.org/abs/2604.15790)|null|

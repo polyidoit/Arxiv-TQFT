@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.20
+> Automatically updated on 2026.04.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-19, **Bubble dynamics and vortex formation in holographic first-order superfluid phase transitions**, Zhen-han Jin, Yu-ping An, Li Li, Paper: [https://arxiv.org/abs/2604.17216](https://arxiv.org/abs/2604.17216)
+- 2026-04-18, **Takesaki duality for weak* closed $L^p$ -operator crossed products**, Zhen Wang, Paper: [https://arxiv.org/abs/2604.16946](https://arxiv.org/abs/2604.16946)
+- 2026-04-18, **Generalized Scalar Auxiliary Variable Exponential Integrator for A Modified Landau-de Gennes Theory for Smectic Liquid Crystals**, Wenshuai Hu, Guanghua Ji, Xiao Li, Paper: [https://arxiv.org/abs/2604.16777](https://arxiv.org/abs/2604.16777), 50 pages, 9 figures
 - 2026-04-17, **Chevalley property of module-finite Hopf algebras and discriminant ideals**, Yimin Huang, Tiancheng Qi, Quanshui Wu, Ruipeng Zhu, Paper: [https://arxiv.org/abs/2604.15986](https://arxiv.org/abs/2604.15986), 30 pages
 - 2026-04-17, **Hilbert Space Fragmentation and Gauge Symmetry**, Thea Budde, Marina Kristć Marinković, Joao C. Pinto Barros, Paper: [https://arxiv.org/abs/2604.15820](https://arxiv.org/abs/2604.15820), 10 pages, 2 figures
 - 2026-04-17, **Holographic Stirling engines and the route to Carnot efficiency**, Nikesh Lilani, Manus R. Visser, Paper: [https://arxiv.org/abs/2604.15790](https://arxiv.org/abs/2604.15790), 49 pages, 8 figures
@@ -1340,5 +1343,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
