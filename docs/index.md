@@ -1,7 +1,16 @@
-> Automatically updated on 2026.04.21
+> Automatically updated on 2026.04.22
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-21**|**Quantum Decoherence of the Surface Code: A Generalized Caldeira-Leggett Approach**|E. Novais, A. H. Castro-Neto|[2604.18968](https://arxiv.org/abs/2604.18968)|null|
+|**2026-04-21**|**Relaxed Generalized Scalar Auxiliary Variable Exponential Integrator for A Modified Landau-de Gennes Theory for Smectic Liquid Crystals**|Wenshuai Hu, Guanghua Ji, Xiao Li|[2604.18945](https://arxiv.org/abs/2604.18945)|null|
+|**2026-04-21**|**Proximity Magnetism in Mn(Bi,Sb)2Te4-(Bi,Sb)2Te3/MnTe Natural Heterostructures**|Owen A. Vail, Shu-Wei Wang, Yasen Hou, Dinura Hettiarachchi, Jean-Felix Milette, Tim B. Eldred, Wenpei Gao, Wendy Sarney, Haile Ambaye, Jong Keum, Valeria Lauter, George J. de Coster, Matthew J. Gilbert, Don Heiman, Jagadeesh S. Moodera, Hang Chi|[2604.18935](https://arxiv.org/abs/2604.18935)|null|
+|**2026-04-20**|**Gauging in superconductors and other electronic systems**|Marcus Berg, Andrea Cappelli, Riccardo Villa|[2604.18733](https://arxiv.org/abs/2604.18733)|null|
+|**2026-04-20**|**Conformal Data for the $O(2)$ Wilson-Fisher CFT in $(2+1)$ -Dimensional Spacetime from Exact Diagonalization and Matrix Product States on the Fuzzy Sphere**|Arjun Dey, Loic Herviou, Christopher Mudry, Slava Rychkov, Andreas Martin Läuchli|[2604.18705](https://arxiv.org/abs/2604.18705)|null|
+|**2026-04-20**|**Confinement in a finite duality cascade**|Fabrizio Aramini, Riccardo Argurio, Matteo Bertolini, Pietro Moroni, Valdo Tatitscheff|[2604.18702](https://arxiv.org/abs/2604.18702)|null|
+|**2026-04-20**|**Exploring Entropic Orders: High Temperature Continuous Symmetry Breaking, Chiral Topological States and Local Commuting Projector Models**|Po-Shen Hsin, Ryohei Kobayashi|[2604.18694](https://arxiv.org/abs/2604.18694)|null|
+|**2026-04-20**|**Neural Spectral Bias and Conformal Correlators I: Introduction and Applications**|Kausik Ghosh, Sidhaarth Kumar, Vasilis Niarchos, Andreas Stergiou|[2604.18686](https://arxiv.org/abs/2604.18686)|null|
+|**2026-04-20**|**Neural Networks Reveal a Universal Bias in Conformal Correlators**|Kausik Ghosh, Sidhaarth Kumar, Vasilis Niarchos, Andreas Stergiou|[2604.18673](https://arxiv.org/abs/2604.18673)|null|
 |**2026-04-20**|**$C^*$ -simplicity, confined subalgebras, and operator algebraic uniform recurrence**|Tattwamasi Amrutam, Yongle Jiang|[2604.18458](https://arxiv.org/abs/2604.18458)|null|
 |**2026-04-20**|**Large-c BCFT Entanglement Entropy with Deformed Boundaries from Emergent JT Gravity**|Dominik Neuenfeld, Christopher Tellinger|[2604.18405](https://arxiv.org/abs/2604.18405)|null|
 |**2026-04-20**|**Bounding relative entropy for non-unitary excitations in quantum field theory**|Markus B. Fröb, Leonardo Sangaletti|[2604.18383](https://arxiv.org/abs/2604.18383)|null|

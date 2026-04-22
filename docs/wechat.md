@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.21
+> Automatically updated on 2026.04.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-21, **Quantum Decoherence of the Surface Code: A Generalized Caldeira-Leggett Approach**, E. Novais, A. H. Castro-Neto, Paper: [https://arxiv.org/abs/2604.18968](https://arxiv.org/abs/2604.18968), 18 pages, 5 figures, submitted to the special issue "Frontiers in Quantum Mechanics and the 45 Years of the Caldeira-Leggett Model"
+- 2026-04-21, **Relaxed Generalized Scalar Auxiliary Variable Exponential Integrator for A Modified Landau-de Gennes Theory for Smectic Liquid Crystals**, Wenshuai Hu, Guanghua Ji, Xiao Li, Paper: [https://arxiv.org/abs/2604.18945](https://arxiv.org/abs/2604.18945), 30,0
+- 2026-04-21, **Proximity Magnetism in Mn(Bi,Sb)2Te4-(Bi,Sb)2Te3/MnTe Natural Heterostructures**, Owen A. Vail, Shu-Wei Wang, Yasen Hou, Dinura Hettiarachchi, Jean-Felix Milette, Tim B. Eldred, Wenpei Gao, Wendy Sarney, Haile Ambaye, Jong Keum, Valeria Lauter, George J. de Coster, Matthew J. Gilbert, Don Heiman, Jagadeesh S. Moodera, Hang Chi, Paper: [https://arxiv.org/abs/2604.18935](https://arxiv.org/abs/2604.18935)
+- 2026-04-20, **Gauging in superconductors and other electronic systems**, Marcus Berg, Andrea Cappelli, Riccardo Villa, Paper: [https://arxiv.org/abs/2604.18733](https://arxiv.org/abs/2604.18733), 62 pages, 2 figures
+- 2026-04-20, **Conformal Data for the $O(2)$ Wilson-Fisher CFT in $(2+1)$ -Dimensional Spacetime from Exact Diagonalization and Matrix Product States on the Fuzzy Sphere**, Arjun Dey, Loic Herviou, Christopher Mudry, Slava Rychkov, Andreas Martin Läuchli, Paper: [https://arxiv.org/abs/2604.18705](https://arxiv.org/abs/2604.18705)
+- 2026-04-20, **Confinement in a finite duality cascade**, Fabrizio Aramini, Riccardo Argurio, Matteo Bertolini, Pietro Moroni, Valdo Tatitscheff, Paper: [https://arxiv.org/abs/2604.18702](https://arxiv.org/abs/2604.18702), 29 pages, 5 figures
+- 2026-04-20, **Exploring Entropic Orders: High Temperature Continuous Symmetry Breaking, Chiral Topological States and Local Commuting Projector Models**, Po-Shen Hsin, Ryohei Kobayashi, Paper: [https://arxiv.org/abs/2604.18694](https://arxiv.org/abs/2604.18694), 12 pages
+- 2026-04-20, **Neural Spectral Bias and Conformal Correlators I: Introduction and Applications**, Kausik Ghosh, Sidhaarth Kumar, Vasilis Niarchos, Andreas Stergiou, Paper: [https://arxiv.org/abs/2604.18686](https://arxiv.org/abs/2604.18686), 82 pages, 39 figures
+- 2026-04-20, **Neural Networks Reveal a Universal Bias in Conformal Correlators**, Kausik Ghosh, Sidhaarth Kumar, Vasilis Niarchos, Andreas Stergiou, Paper: [https://arxiv.org/abs/2604.18673](https://arxiv.org/abs/2604.18673), 9 pages, 3 figures
 - 2026-04-20, **$C^*$ -simplicity, confined subalgebras, and operator algebraic uniform recurrence**, Tattwamasi Amrutam, Yongle Jiang, Paper: [https://arxiv.org/abs/2604.18458](https://arxiv.org/abs/2604.18458), 24 pages; comments are welcome
 - 2026-04-20, **Large-c BCFT Entanglement Entropy with Deformed Boundaries from Emergent JT Gravity**, Dominik Neuenfeld, Christopher Tellinger, Paper: [https://arxiv.org/abs/2604.18405](https://arxiv.org/abs/2604.18405), 39 pages, 8 figures
 - 2026-04-20, **Bounding relative entropy for non-unitary excitations in quantum field theory**, Markus B. Fröb, Leonardo Sangaletti, Paper: [https://arxiv.org/abs/2604.18383](https://arxiv.org/abs/2604.18383), 32 pages
@@ -1350,5 +1359,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
 
