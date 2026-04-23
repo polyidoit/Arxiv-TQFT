@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Interaction-induced asymmetry in infinite-temperature dynamical correlations of hard-core anyons**|Doru Sticlet, Ovidiu I. Pâţu, Balázs Dóra, Cătălin Paşcu Moca|[2604.20697](https://arxiv.org/abs/2604.20697)|null|
 |**2026-04-22**|**Laddering of a knitted fabric: a topology-induced failure**|Antoine Faulconnier, Laura Michel, Mokhtar Adda-Bedia, Jérôme Crassous, Audrey Steinberger|[2604.20580](https://arxiv.org/abs/2604.20580)|null|
 |**2026-04-22**|**Fluctuation-driven multi-step charge density wave transition in monolayer TiSe $_2$**|Luka Benić, Dino Novko, Ivor Lončarić|[2604.20355](https://arxiv.org/abs/2604.20355)|null|
 |**2026-04-22**|**Symmetry breaking phases and transitions in an Ising fusion category lattice model**|Soumil Roychowdhury, Chenjie Wang|[2604.20201](https://arxiv.org/abs/2604.20201)|null|

@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-22, **Interaction-induced asymmetry in infinite-temperature dynamical correlations of hard-core anyons**, Doru Sticlet, Ovidiu I. Pâţu, Balázs Dóra, Cătălin Paşcu Moca, Paper: [https://arxiv.org/abs/2604.20697](https://arxiv.org/abs/2604.20697), 17 pages
 - 2026-04-22, **Laddering of a knitted fabric: a topology-induced failure**, Antoine Faulconnier, Laura Michel, Mokhtar Adda-Bedia, Jérôme Crassous, Audrey Steinberger, Paper: [https://arxiv.org/abs/2604.20580](https://arxiv.org/abs/2604.20580), 10 pages, 11 figures. Two movies, described in Appendix, are provided as ancillary files
 - 2026-04-22, **Fluctuation-driven multi-step charge density wave transition in monolayer TiSe $_2$**, Luka Benić, Dino Novko, Ivor Lončarić, Paper: [https://arxiv.org/abs/2604.20355](https://arxiv.org/abs/2604.20355)
 - 2026-04-22, **Symmetry breaking phases and transitions in an Ising fusion category lattice model**, Soumil Roychowdhury, Chenjie Wang, Paper: [https://arxiv.org/abs/2604.20201](https://arxiv.org/abs/2604.20201), 22 pages, 7 figures. Comments welcome
