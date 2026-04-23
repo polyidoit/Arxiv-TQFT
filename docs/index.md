@@ -1,7 +1,15 @@
-> Automatically updated on 2026.04.22
+> Automatically updated on 2026.04.23
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-22**|**Laddering of a knitted fabric: a topology-induced failure**|Antoine Faulconnier, Laura Michel, Mokhtar Adda-Bedia, Jérôme Crassous, Audrey Steinberger|[2604.20580](https://arxiv.org/abs/2604.20580)|null|
+|**2026-04-22**|**Fluctuation-driven multi-step charge density wave transition in monolayer TiSe $_2$**|Luka Benić, Dino Novko, Ivor Lončarić|[2604.20355](https://arxiv.org/abs/2604.20355)|null|
+|**2026-04-22**|**Symmetry breaking phases and transitions in an Ising fusion category lattice model**|Soumil Roychowdhury, Chenjie Wang|[2604.20201](https://arxiv.org/abs/2604.20201)|null|
+|**2026-04-22**|**On free components of Artin and Coxeter groups**|Guillaume Dumas, Jingyin Huang, Srivatsav Kunnawalkam Elayavalli, Lizzy Teryoshin|[2604.20184](https://arxiv.org/abs/2604.20184)|null|
+|**2026-04-21**|**Probing bilayer topological order with layer-resolved transport**|Hongquan Liu, J. I. A. Li, D. E. Feldman|[2604.19955](https://arxiv.org/abs/2604.19955)|null|
+|**2026-04-21**|**Crosscap Defects**|Nadav Drukker, Shota Komatsu, Anders Wallberg|[2604.19868](https://arxiv.org/abs/2604.19868)|null|
+|**2026-04-21**|**Mutual Information from Modular Flow in General CFTs**|César A. Agón, Pablo Bueno, Adem Deniz Piskin, Guido van der Velde|[2604.19860](https://arxiv.org/abs/2604.19860)|null|
+|**2026-04-21**|**Quantum $f$ -divergences via Nussbaum-Szkoła Distributions in Semifinite von Neumann Algebras**|Theodoros Anastasiadis, George Androulakis|[2604.19853](https://arxiv.org/abs/2604.19853)|null|
 |**2026-04-21**|**Quantum Decoherence of the Surface Code: A Generalized Caldeira-Leggett Approach**|E. Novais, A. H. Castro-Neto|[2604.18968](https://arxiv.org/abs/2604.18968)|null|
 |**2026-04-21**|**Relaxed Generalized Scalar Auxiliary Variable Exponential Integrator for A Modified Landau-de Gennes Theory for Smectic Liquid Crystals**|Wenshuai Hu, Guanghua Ji, Xiao Li|[2604.18945](https://arxiv.org/abs/2604.18945)|null|
 |**2026-04-21**|**Proximity Magnetism in Mn(Bi,Sb)2Te4-(Bi,Sb)2Te3/MnTe Natural Heterostructures**|Owen A. Vail, Shu-Wei Wang, Yasen Hou, Dinura Hettiarachchi, Jean-Felix Milette, Tim B. Eldred, Wenpei Gao, Wendy Sarney, Haile Ambaye, Jong Keum, Valeria Lauter, George J. de Coster, Matthew J. Gilbert, Don Heiman, Jagadeesh S. Moodera, Hang Chi|[2604.18935](https://arxiv.org/abs/2604.18935)|null|

@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.22
+> Automatically updated on 2026.04.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-22, **Laddering of a knitted fabric: a topology-induced failure**, Antoine Faulconnier, Laura Michel, Mokhtar Adda-Bedia, Jérôme Crassous, Audrey Steinberger, Paper: [https://arxiv.org/abs/2604.20580](https://arxiv.org/abs/2604.20580), 10 pages, 11 figures. Two movies, described in Appendix, are provided as ancillary files
+- 2026-04-22, **Fluctuation-driven multi-step charge density wave transition in monolayer TiSe $_2$**, Luka Benić, Dino Novko, Ivor Lončarić, Paper: [https://arxiv.org/abs/2604.20355](https://arxiv.org/abs/2604.20355)
+- 2026-04-22, **Symmetry breaking phases and transitions in an Ising fusion category lattice model**, Soumil Roychowdhury, Chenjie Wang, Paper: [https://arxiv.org/abs/2604.20201](https://arxiv.org/abs/2604.20201), 22 pages, 7 figures. Comments welcome
+- 2026-04-22, **On free components of Artin and Coxeter groups**, Guillaume Dumas, Jingyin Huang, Srivatsav Kunnawalkam Elayavalli, Lizzy Teryoshin, Paper: [https://arxiv.org/abs/2604.20184](https://arxiv.org/abs/2604.20184), 15 pages
+- 2026-04-21, **Probing bilayer topological order with layer-resolved transport**, Hongquan Liu, J. I. A. Li, D. E. Feldman, Paper: [https://arxiv.org/abs/2604.19955](https://arxiv.org/abs/2604.19955)
+- 2026-04-21, **Crosscap Defects**, Nadav Drukker, Shota Komatsu, Anders Wallberg, Paper: [https://arxiv.org/abs/2604.19868](https://arxiv.org/abs/2604.19868), 50 pages, 9 figures
+- 2026-04-21, **Mutual Information from Modular Flow in General CFTs**, César A. Agón, Pablo Bueno, Adem Deniz Piskin, Guido van der Velde, Paper: [https://arxiv.org/abs/2604.19860](https://arxiv.org/abs/2604.19860), 6 pages (+ Supplementary material), 1 figure
+- 2026-04-21, **Quantum $f$ -divergences via Nussbaum-Szkoła Distributions in Semifinite von Neumann Algebras**, Theodoros Anastasiadis, George Androulakis, Paper: [https://arxiv.org/abs/2604.19853](https://arxiv.org/abs/2604.19853), 30 pages
 - 2026-04-21, **Quantum Decoherence of the Surface Code: A Generalized Caldeira-Leggett Approach**, E. Novais, A. H. Castro-Neto, Paper: [https://arxiv.org/abs/2604.18968](https://arxiv.org/abs/2604.18968), 18 pages, 5 figures, submitted to the special issue "Frontiers in Quantum Mechanics and the 45 Years of the Caldeira-Leggett Model"
 - 2026-04-21, **Relaxed Generalized Scalar Auxiliary Variable Exponential Integrator for A Modified Landau-de Gennes Theory for Smectic Liquid Crystals**, Wenshuai Hu, Guanghua Ji, Xiao Li, Paper: [https://arxiv.org/abs/2604.18945](https://arxiv.org/abs/2604.18945), 30,0
 - 2026-04-21, **Proximity Magnetism in Mn(Bi,Sb)2Te4-(Bi,Sb)2Te3/MnTe Natural Heterostructures**, Owen A. Vail, Shu-Wei Wang, Yasen Hou, Dinura Hettiarachchi, Jean-Felix Milette, Tim B. Eldred, Wenpei Gao, Wendy Sarney, Haile Ambaye, Jong Keum, Valeria Lauter, George J. de Coster, Matthew J. Gilbert, Don Heiman, Jagadeesh S. Moodera, Hang Chi, Paper: [https://arxiv.org/abs/2604.18935](https://arxiv.org/abs/2604.18935)
@@ -1359,5 +1367,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
