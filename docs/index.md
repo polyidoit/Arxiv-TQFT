@@ -2,6 +2,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-23**|**High-performance cellular automaton decoders for quantum repetition and toric code**|Don Winter, Thiago L. M. Guedes, Markus Müller|[2604.21866](https://arxiv.org/abs/2604.21866)|null|
 |**2026-04-23**|**The KMS and GNS Spectral Gap of Quantum Markov Semigroups**|Melchior Wirth|[2604.21630](https://arxiv.org/abs/2604.21630)|null|
 |**2026-04-23**|**The Hopf Algebraic Structure of Finitely Supported Currents on a Lie Group**|Harrison Pugh|[2604.21178](https://arxiv.org/abs/2604.21178)|null|
 |**2026-04-23**|**Higher Covariant Derivative and the Bundle of Atomic Currents**|Harrison Pugh|[2604.21176](https://arxiv.org/abs/2604.21176)|null|
