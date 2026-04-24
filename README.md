@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.04.23
+> Automatically updated on 2026.04.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**The KMS and GNS Spectral Gap of Quantum Markov Semigroups**|Melchior Wirth|[2604.21630](https://arxiv.org/abs/2604.21630)|null|
+|**2026-04-23**|**The Hopf Algebraic Structure of Finitely Supported Currents on a Lie Group**|Harrison Pugh|[2604.21178](https://arxiv.org/abs/2604.21178)|null|
+|**2026-04-23**|**Higher Covariant Derivative and the Bundle of Atomic Currents**|Harrison Pugh|[2604.21176](https://arxiv.org/abs/2604.21176)|null|
+|**2026-04-22**|**Healing of topological defects while crystallizing nanocrystals**|M. I. Dolz, A. B. Kolton, Y. Fasano|[2604.21105](https://arxiv.org/abs/2604.21105)|null|
+|**2026-04-22**|**Studying 3D O(N) Surface CFT on the Fuzzy Sphere**|Jiechao Feng, Taige Wang|[2604.21091](https://arxiv.org/abs/2604.21091)|null|
 |**2026-04-22**|**Interaction-induced asymmetry in infinite-temperature dynamical correlations of hard-core anyons**|Doru Sticlet, Ovidiu I. Pâţu, Balázs Dóra, Cătălin Paşcu Moca|[2604.20697](https://arxiv.org/abs/2604.20697)|null|
 |**2026-04-22**|**Laddering of a knitted fabric: a topology-induced failure**|Antoine Faulconnier, Laura Michel, Mokhtar Adda-Bedia, Jérôme Crassous, Audrey Steinberger|[2604.20580](https://arxiv.org/abs/2604.20580)|null|
 |**2026-04-22**|**Fluctuation-driven multi-step charge density wave transition in monolayer TiSe $_2$**|Luka Benić, Dino Novko, Ivor Lončarić|[2604.20355](https://arxiv.org/abs/2604.20355)|null|
@@ -2167,5 +2172,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 

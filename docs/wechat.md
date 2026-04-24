@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.23
+> Automatically updated on 2026.04.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-23, **The KMS and GNS Spectral Gap of Quantum Markov Semigroups**, Melchior Wirth, Paper: [https://arxiv.org/abs/2604.21630](https://arxiv.org/abs/2604.21630)
+- 2026-04-23, **The Hopf Algebraic Structure of Finitely Supported Currents on a Lie Group**, Harrison Pugh, Paper: [https://arxiv.org/abs/2604.21178](https://arxiv.org/abs/2604.21178)
+- 2026-04-23, **Higher Covariant Derivative and the Bundle of Atomic Currents**, Harrison Pugh, Paper: [https://arxiv.org/abs/2604.21176](https://arxiv.org/abs/2604.21176)
+- 2026-04-22, **Healing of topological defects while crystallizing nanocrystals**, M. I. Dolz, A. B. Kolton, Y. Fasano, Paper: [https://arxiv.org/abs/2604.21105](https://arxiv.org/abs/2604.21105), 10 figures
+- 2026-04-22, **Studying 3D O(N) Surface CFT on the Fuzzy Sphere**, Jiechao Feng, Taige Wang, Paper: [https://arxiv.org/abs/2604.21091](https://arxiv.org/abs/2604.21091), 10 pages, 7 figures
 - 2026-04-22, **Interaction-induced asymmetry in infinite-temperature dynamical correlations of hard-core anyons**, Doru Sticlet, Ovidiu I. Pâţu, Balázs Dóra, Cătălin Paşcu Moca, Paper: [https://arxiv.org/abs/2604.20697](https://arxiv.org/abs/2604.20697), 17 pages
 - 2026-04-22, **Laddering of a knitted fabric: a topology-induced failure**, Antoine Faulconnier, Laura Michel, Mokhtar Adda-Bedia, Jérôme Crassous, Audrey Steinberger, Paper: [https://arxiv.org/abs/2604.20580](https://arxiv.org/abs/2604.20580), 10 pages, 11 figures. Two movies, described in Appendix, are provided as ancillary files
 - 2026-04-22, **Fluctuation-driven multi-step charge density wave transition in monolayer TiSe $_2$**, Luka Benić, Dino Novko, Ivor Lončarić, Paper: [https://arxiv.org/abs/2604.20355](https://arxiv.org/abs/2604.20355)
@@ -1368,5 +1373,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
