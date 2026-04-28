@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.04.27
+> Automatically updated on 2026.04.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Testing the robustness of topological quantities evaluated from the modular Hamiltonian for a given wavefunction**|Sandeep Sharma, Ajit C. Balram|[2604.24058](https://arxiv.org/abs/2604.24058)|null|
+|**2026-04-26**|**Rotating End of the World**|Kyung Kiu Kim, Hawjin Eom, Jung Hun Lee, Yunseok Seo|[2604.23845](https://arxiv.org/abs/2604.23845)|null|
+|**2026-04-25**|**Spectral versus interpolation norms in tracial nonassociative $\mathrm{L}^p$ -spaces**|Cédric Arhancet, Lei Li|[2604.23232](https://arxiv.org/abs/2604.23232)|null|
+|**2026-04-24**|**Generalised Symmetries and Swampland-Type Constraints from Charge Quantisation via Rational Homotopy Theory**|Luigi Alfonsi, Hyungrok Kim, William G. A. Luciani|[2604.22656](https://arxiv.org/abs/2604.22656)|null|
+|**2026-04-24**|**Decohered color code and emerging mixed toric code by anyon proliferation: Topological entanglement negativity perspective**|Keisuke Kataoka, Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose|[2604.22521](https://arxiv.org/abs/2604.22521)|null|
+|**2026-04-24**|**Boundary-Aware Stabilizer Scheduling for Distributed Quantum Error Correction**|Sanidhya Gupta, Sanidhay Bhambay, Narges Alavisamani, Neil Walton, Thirupathaiah Vasantam|[2604.22471](https://arxiv.org/abs/2604.22471)|null|
+|**2026-04-24**|**TabSCM: A practical Framework for Generating Realistic Tabular Data**|Sven Jacob, Bardh Prenkaj, Weijia Shao, Gjergji Kasneci|[2604.22337](https://arxiv.org/abs/2604.22337)|null|
+|**2026-04-23**|**Hydrodynamics and Energy Correlators**|João Barata, Matvey V. Kuzmin, Ian Moult, Andrey V. Sadofyev, João M. Silva|[2604.21971](https://arxiv.org/abs/2604.21971)|null|
 |**2026-04-23**|**High-performance cellular automaton decoders for quantum repetition and toric code**|Don Winter, Thiago L. M. Guedes, Markus Müller|[2604.21866](https://arxiv.org/abs/2604.21866)|null|
 |**2026-04-23**|**The KMS and GNS Spectral Gap of Quantum Markov Semigroups**|Melchior Wirth|[2604.21630](https://arxiv.org/abs/2604.21630)|null|
 |**2026-04-23**|**The Hopf Algebraic Structure of Finitely Supported Currents on a Lie Group**|Harrison Pugh|[2604.21178](https://arxiv.org/abs/2604.21178)|null|
@@ -2173,5 +2181,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 

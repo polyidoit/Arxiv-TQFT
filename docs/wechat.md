@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.27
+> Automatically updated on 2026.04.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-27, **Testing the robustness of topological quantities evaluated from the modular Hamiltonian for a given wavefunction**, Sandeep Sharma, Ajit C. Balram, Paper: [https://arxiv.org/abs/2604.24058](https://arxiv.org/abs/2604.24058), 9 pages, 15 figures
+- 2026-04-26, **Rotating End of the World**, Kyung Kiu Kim, Hawjin Eom, Jung Hun Lee, Yunseok Seo, Paper: [https://arxiv.org/abs/2604.23845](https://arxiv.org/abs/2604.23845), 35 pages, 7 figures
+- 2026-04-25, **Spectral versus interpolation norms in tracial nonassociative $\mathrm{L}^p$ -spaces**, Cédric Arhancet, Lei Li, Paper: [https://arxiv.org/abs/2604.23232](https://arxiv.org/abs/2604.23232), 42 pages
+- 2026-04-24, **Generalised Symmetries and Swampland-Type Constraints from Charge Quantisation via Rational Homotopy Theory**, Luigi Alfonsi, Hyungrok Kim, William G. A. Luciani, Paper: [https://arxiv.org/abs/2604.22656](https://arxiv.org/abs/2604.22656), 42 pages
+- 2026-04-24, **Decohered color code and emerging mixed toric code by anyon proliferation: Topological entanglement negativity perspective**, Keisuke Kataoka, Yoshihito Kuno, Takahiro Orito, Ikuo Ichinose, Paper: [https://arxiv.org/abs/2604.22521](https://arxiv.org/abs/2604.22521), 19 pages, 12 figures
+- 2026-04-24, **Boundary-Aware Stabilizer Scheduling for Distributed Quantum Error Correction**, Sanidhya Gupta, Sanidhay Bhambay, Narges Alavisamani, Neil Walton, Thirupathaiah Vasantam, Paper: [https://arxiv.org/abs/2604.22471](https://arxiv.org/abs/2604.22471)
+- 2026-04-24, **TabSCM: A practical Framework for Generating Realistic Tabular Data**, Sven Jacob, Bardh Prenkaj, Weijia Shao, Gjergji Kasneci, Paper: [https://arxiv.org/abs/2604.22337](https://arxiv.org/abs/2604.22337)
+- 2026-04-23, **Hydrodynamics and Energy Correlators**, João Barata, Matvey V. Kuzmin, Ian Moult, Andrey V. Sadofyev, João M. Silva, Paper: [https://arxiv.org/abs/2604.21971](https://arxiv.org/abs/2604.21971), 33 pages, 6 figures
 - 2026-04-23, **High-performance cellular automaton decoders for quantum repetition and toric code**, Don Winter, Thiago L. M. Guedes, Markus Müller, Paper: [https://arxiv.org/abs/2604.21866](https://arxiv.org/abs/2604.21866), 33 pages, 25 figures
 - 2026-04-23, **The KMS and GNS Spectral Gap of Quantum Markov Semigroups**, Melchior Wirth, Paper: [https://arxiv.org/abs/2604.21630](https://arxiv.org/abs/2604.21630)
 - 2026-04-23, **The Hopf Algebraic Structure of Finitely Supported Currents on a Lie Group**, Harrison Pugh, Paper: [https://arxiv.org/abs/2604.21178](https://arxiv.org/abs/2604.21178)
@@ -1374,5 +1382,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260428>back to top</a>)</p>
 
