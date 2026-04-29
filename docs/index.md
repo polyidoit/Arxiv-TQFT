@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-28**|**Categorical Symmetries via Operator Algebras**|Qiang Jia, Ran Luo, Jiahua Tian, Yi-Nan Wang, Yi Zhang|[2604.25821](https://arxiv.org/abs/2604.25821)|null|
+|**2026-04-28**|**Candidate Gaugings of Categorical Continuous Symmetry**|Qiang Jia, Cheng Ma, Jiahua Tian|[2604.25820](https://arxiv.org/abs/2604.25820)|null|
+|**2026-04-28**|**Graphical Functions by Examples**|Mrigankamauli Chakraborty, Marco Klann, Sven-Olaf Moch, Pooja Mukherjee, Tobias Porsche, Oliver Schnetz, Leonid A. Shumilov|[2604.25739](https://arxiv.org/abs/2604.25739)|null|
+|**2026-04-28**|**Observation and Control of Moiré-Tailored Topological Dirac States**|R. Ganser, M. P. T. Masilamani, B. Geldiyev, M. M. Hirschmann, A. Consiglio, J. Schusser, D. Di Sante, M. Ünzelmann, F. Reinert|[2604.25598](https://arxiv.org/abs/2604.25598)|null|
+|**2026-04-28**|**Optimization-Free Topological Sort for Causal Discovery via the Schur Complement of Score Jacobians**|Rui Wu, Hong Xie|[2604.25295](https://arxiv.org/abs/2604.25295)|null|
+|**2026-04-28**|**Nonlocal Cooper pairs in finite topological superconductors and their relation to Majorana nonlocality**|Hiroto Mizoguchi, Yutaro Nagae, Yasuhiro Asano, Satoshi Ikegaya|[2604.25169](https://arxiv.org/abs/2604.25169)|null|
+|**2026-04-27**|**Pointwise Convergence for Random Ergodic Averages in Non-commutative $L^p$ -spaces**|Christian Le Merdy, Safoura Zadeh|[2604.25029](https://arxiv.org/abs/2604.25029)|null|
+|**2026-04-27**|**Networked Realization of Quantum LDPC Codes**|Swayangprabha Shaw, Narayanan Rengaswamy|[2604.25026](https://arxiv.org/abs/2604.25026)|null|
+|**2026-04-27**|**Symmetry-Protected Topological Phases in the Triangular Majorana-Hubbard Ladder**|Will Holdhusen, Alberto Nocera, Jian-Xin Zhu, Armin Rahmani|[2604.24887](https://arxiv.org/abs/2604.24887)|null|
+|**2026-04-27**|**Prefactorization algebras of superselection sectors**|Marco Benini, Victor Carmona, Alexander Schenkel|[2604.24865](https://arxiv.org/abs/2604.24865)|null|
 |**2026-04-27**|**Testing the robustness of topological quantities evaluated from the modular Hamiltonian for a given wavefunction**|Sandeep Sharma, Ajit C. Balram|[2604.24058](https://arxiv.org/abs/2604.24058)|null|
 |**2026-04-26**|**Rotating End of the World**|Kyung Kiu Kim, Hawjin Eom, Jung Hun Lee, Yunseok Seo|[2604.23845](https://arxiv.org/abs/2604.23845)|null|
 |**2026-04-25**|**Spectral versus interpolation norms in tracial nonassociative $\mathrm{L}^p$ -spaces**|Cédric Arhancet, Lei Li|[2604.23232](https://arxiv.org/abs/2604.23232)|null|
