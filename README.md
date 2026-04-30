@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.04.29
+> Automatically updated on 2026.04.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Entanglement Revivals and Scrambling for Evaporating Black Holes**|Levy B. N. Batista, Nicolò Bragagnolo, Rhys Holmes, S. Prem Kumar|[2604.26600](https://arxiv.org/abs/2604.26600)|null|
+|**2026-04-29**|**Monodromy, Logarithmic Sectors, and Two-Point Functions in Critical Topologically Massive Gravity**|Yannick Mvondo-She|[2604.26493](https://arxiv.org/abs/2604.26493)|null|
+|**2026-04-29**|**Integrable Deformations of the Breitenlohner-Maison Model from 4d Chern-Simons Theory**|Meer Ashwinkumar, Matthias Blau|[2604.26452](https://arxiv.org/abs/2604.26452)|null|
+|**2026-04-29**|**Newton-Cartan limit of Klein-Gordon AQFT and the collapse of Galilean modular structure**|Leonardo A. Pachon|[2604.26287](https://arxiv.org/abs/2604.26287)|null|
+|**2026-04-29**|**Galilean Reeh--Schlieder Obstruction**|Leonardo A. Pachon|[2604.26271](https://arxiv.org/abs/2604.26271)|null|
+|**2026-04-29**|**$T$ -admissible processes and noncommutative weighted ergodic theorems**|Morgan O'Brien|[2604.26224](https://arxiv.org/abs/2604.26224)|null|
+|**2026-04-28**|**Hidden Crossover and Relaxor-Like Response from Emerging Polar Skyrmion Correlations in Ferroelectric Superlattices**|Zhiyang Wang, Fei Yang, Long-Qing Chen|[2604.26100](https://arxiv.org/abs/2604.26100)|null|
+|**2026-04-28**|**Diffusion with conserved marginal distributions and information theory in fracton hydrodynamics**|Vaibhav Mohanty, Sunghan Ro|[2604.26093](https://arxiv.org/abs/2604.26093)|null|
+|**2026-04-28**|**Lattice Topological Defects in Non-Unitary Conformal Field Theories**|Madhav Sinha, Thiago Silva Tavares, Hubert Saleur, Ananda Roy|[2604.25999](https://arxiv.org/abs/2604.25999)|null|
+|**2026-04-28**|**Towards a microscopic model for an electronic quantum charge liquid**|Jacob R. Taylor, Sankar Das Sarma, Seth Musser|[2604.25992](https://arxiv.org/abs/2604.25992)|null|
 |**2026-04-28**|**Categorical Symmetries via Operator Algebras**|Qiang Jia, Ran Luo, Jiahua Tian, Yi-Nan Wang, Yi Zhang|[2604.25821](https://arxiv.org/abs/2604.25821)|null|
 |**2026-04-28**|**Candidate Gaugings of Categorical Continuous Symmetry**|Qiang Jia, Cheng Ma, Jiahua Tian|[2604.25820](https://arxiv.org/abs/2604.25820)|null|
 |**2026-04-28**|**Graphical Functions by Examples**|Mrigankamauli Chakraborty, Marco Klann, Sven-Olaf Moch, Pooja Mukherjee, Tobias Porsche, Oliver Schnetz, Leonid A. Shumilov|[2604.25739](https://arxiv.org/abs/2604.25739)|null|
@@ -2191,5 +2201,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 

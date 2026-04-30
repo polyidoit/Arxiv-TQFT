@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.29
+> Automatically updated on 2026.04.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-29, **Entanglement Revivals and Scrambling for Evaporating Black Holes**, Levy B. N. Batista, Nicolò Bragagnolo, Rhys Holmes, S. Prem Kumar, Paper: [https://arxiv.org/abs/2604.26600](https://arxiv.org/abs/2604.26600), 28 pages, 7 figures
+- 2026-04-29, **Monodromy, Logarithmic Sectors, and Two-Point Functions in Critical Topologically Massive Gravity**, Yannick Mvondo-She, Paper: [https://arxiv.org/abs/2604.26493](https://arxiv.org/abs/2604.26493), 16 pages
+- 2026-04-29, **Integrable Deformations of the Breitenlohner-Maison Model from 4d Chern-Simons Theory**, Meer Ashwinkumar, Matthias Blau, Paper: [https://arxiv.org/abs/2604.26452](https://arxiv.org/abs/2604.26452), 23 pages
+- 2026-04-29, **Newton-Cartan limit of Klein-Gordon AQFT and the collapse of Galilean modular structure**, Leonardo A. Pachon, Paper: [https://arxiv.org/abs/2604.26287](https://arxiv.org/abs/2604.26287), 19 pages, 2 figures
+- 2026-04-29, **Galilean Reeh--Schlieder Obstruction**, Leonardo A. Pachon, Paper: [https://arxiv.org/abs/2604.26271](https://arxiv.org/abs/2604.26271), 16 pages, 3 figures
+- 2026-04-29, **$T$ -admissible processes and noncommutative weighted ergodic theorems**, Morgan O'Brien, Paper: [https://arxiv.org/abs/2604.26224](https://arxiv.org/abs/2604.26224), 27 pages
+- 2026-04-28, **Hidden Crossover and Relaxor-Like Response from Emerging Polar Skyrmion Correlations in Ferroelectric Superlattices**, Zhiyang Wang, Fei Yang, Long-Qing Chen, Paper: [https://arxiv.org/abs/2604.26100](https://arxiv.org/abs/2604.26100)
+- 2026-04-28, **Diffusion with conserved marginal distributions and information theory in fracton hydrodynamics**, Vaibhav Mohanty, Sunghan Ro, Paper: [https://arxiv.org/abs/2604.26093](https://arxiv.org/abs/2604.26093), 16 pages including appendices, 4 figures
+- 2026-04-28, **Lattice Topological Defects in Non-Unitary Conformal Field Theories**, Madhav Sinha, Thiago Silva Tavares, Hubert Saleur, Ananda Roy, Paper: [https://arxiv.org/abs/2604.25999](https://arxiv.org/abs/2604.25999)
+- 2026-04-28, **Towards a microscopic model for an electronic quantum charge liquid**, Jacob R. Taylor, Sankar Das Sarma, Seth Musser, Paper: [https://arxiv.org/abs/2604.25992](https://arxiv.org/abs/2604.25992), 8 pages, 6 figures
 - 2026-04-28, **Categorical Symmetries via Operator Algebras**, Qiang Jia, Ran Luo, Jiahua Tian, Yi-Nan Wang, Yi Zhang, Paper: [https://arxiv.org/abs/2604.25821](https://arxiv.org/abs/2604.25821)
 - 2026-04-28, **Candidate Gaugings of Categorical Continuous Symmetry**, Qiang Jia, Cheng Ma, Jiahua Tian, Paper: [https://arxiv.org/abs/2604.25820](https://arxiv.org/abs/2604.25820)
 - 2026-04-28, **Graphical Functions by Examples**, Mrigankamauli Chakraborty, Marco Klann, Sven-Olaf Moch, Pooja Mukherjee, Tobias Porsche, Oliver Schnetz, Leonid A. Shumilov, Paper: [https://arxiv.org/abs/2604.25739](https://arxiv.org/abs/2604.25739)
@@ -1392,5 +1402,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
