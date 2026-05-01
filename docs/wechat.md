@@ -1,4 +1,4 @@
-> Automatically updated on 2026.04.30
+> Automatically updated on 2026.05.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-04-30, **A theoretical account of tiny multi-Higgs vacuum expectation values from non-invertible symmetry**, Takaaki Nomura, Hiroshi Okada, Paper: [https://arxiv.org/abs/2604.27612](https://arxiv.org/abs/2604.27612), 16 pages, 5 figures
+- 2026-04-30, **Bulk Reconstruction in Bilocal Holography**, Robert de Mello Koch, Animik Ghosh, Minkyoo Kim, Anik Rudra, Paper: [https://arxiv.org/abs/2604.27425](https://arxiv.org/abs/2604.27425), 1+42 pages
+- 2026-04-30, **Constructing Bulk Topological Orders via Layered Gauging**, Shang Liu, Paper: [https://arxiv.org/abs/2604.27363](https://arxiv.org/abs/2604.27363), 20+4 pages, 10 captioned figures
+- 2026-04-30, **Exotic Spin Excitation Continuum in a Weakly Coupled Quantum Chainsaw Antiferromagnet**, Asiri Thennakoon, Prena Chaudhary, Sankha Subhra Bakshi, Tommy Park, Tristen Lowrey, Daniel Pajerowski, Christina Hoffmann, Junghong H. He, Hiroaki Ueda, Collin Broholm, Gia-Wei Chern, Seung-Hun Lee, Paper: [https://arxiv.org/abs/2604.27310](https://arxiv.org/abs/2604.27310), 18 pages, 4 figures, 2 tables
+- 2026-04-29, **Resolving spurious topological entanglement entropy in stabilizer codes**, Peilun Han, Zijian Liang, Yifei Wang, Bowen Yang, Yingfei Gu, Yu-An Chen, Paper: [https://arxiv.org/abs/2604.27053](https://arxiv.org/abs/2604.27053), 7+46 pages, 15 figures, 1 table
 - 2026-04-29, **Entanglement Revivals and Scrambling for Evaporating Black Holes**, Levy B. N. Batista, Nicolò Bragagnolo, Rhys Holmes, S. Prem Kumar, Paper: [https://arxiv.org/abs/2604.26600](https://arxiv.org/abs/2604.26600), 28 pages, 7 figures
 - 2026-04-29, **Monodromy, Logarithmic Sectors, and Two-Point Functions in Critical Topologically Massive Gravity**, Yannick Mvondo-She, Paper: [https://arxiv.org/abs/2604.26493](https://arxiv.org/abs/2604.26493), 16 pages
 - 2026-04-29, **Integrable Deformations of the Breitenlohner-Maison Model from 4d Chern-Simons Theory**, Meer Ashwinkumar, Matthias Blau, Paper: [https://arxiv.org/abs/2604.26452](https://arxiv.org/abs/2604.26452), 23 pages
@@ -1402,5 +1407,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 

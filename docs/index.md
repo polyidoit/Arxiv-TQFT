@@ -1,7 +1,12 @@
-> Automatically updated on 2026.04.30
+> Automatically updated on 2026.05.01
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-04-30**|**A theoretical account of tiny multi-Higgs vacuum expectation values from non-invertible symmetry**|Takaaki Nomura, Hiroshi Okada|[2604.27612](https://arxiv.org/abs/2604.27612)|null|
+|**2026-04-30**|**Bulk Reconstruction in Bilocal Holography**|Robert de Mello Koch, Animik Ghosh, Minkyoo Kim, Anik Rudra|[2604.27425](https://arxiv.org/abs/2604.27425)|null|
+|**2026-04-30**|**Constructing Bulk Topological Orders via Layered Gauging**|Shang Liu|[2604.27363](https://arxiv.org/abs/2604.27363)|null|
+|**2026-04-30**|**Exotic Spin Excitation Continuum in a Weakly Coupled Quantum Chainsaw Antiferromagnet**|Asiri Thennakoon, Prena Chaudhary, Sankha Subhra Bakshi, Tommy Park, Tristen Lowrey, Daniel Pajerowski, Christina Hoffmann, Junghong H. He, Hiroaki Ueda, Collin Broholm, Gia-Wei Chern, Seung-Hun Lee|[2604.27310](https://arxiv.org/abs/2604.27310)|null|
+|**2026-04-29**|**Resolving spurious topological entanglement entropy in stabilizer codes**|Peilun Han, Zijian Liang, Yifei Wang, Bowen Yang, Yingfei Gu, Yu-An Chen|[2604.27053](https://arxiv.org/abs/2604.27053)|null|
 |**2026-04-29**|**Entanglement Revivals and Scrambling for Evaporating Black Holes**|Levy B. N. Batista, Nicolò Bragagnolo, Rhys Holmes, S. Prem Kumar|[2604.26600](https://arxiv.org/abs/2604.26600)|null|
 |**2026-04-29**|**Monodromy, Logarithmic Sectors, and Two-Point Functions in Critical Topologically Massive Gravity**|Yannick Mvondo-She|[2604.26493](https://arxiv.org/abs/2604.26493)|null|
 |**2026-04-29**|**Integrable Deformations of the Breitenlohner-Maison Model from 4d Chern-Simons Theory**|Meer Ashwinkumar, Matthias Blau|[2604.26452](https://arxiv.org/abs/2604.26452)|null|
