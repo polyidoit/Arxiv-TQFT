@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Topological defects in out-of-equilibrium systems**|Ylann Rouzaire|[2605.02482](https://arxiv.org/abs/2605.02482)|null|
+|**2026-05-04**|**Universal Analytical Design for Perfect Chiral Circulation in Arbitrary Rings: Triangular Realizations via Floquet and Anyonic Physics**|Chaorong Guo, Hongzheng Wu, Zenong Zhou, Ai-Xi Chen, Xiaobing Luo|[2605.02166](https://arxiv.org/abs/2605.02166)|null|
+|**2026-05-03**|**Separability from Multipartite Measures**|Chen-Te Ma, Ma-Ke Yuan|[2605.02097](https://arxiv.org/abs/2605.02097)|null|
+|**2026-05-03**|**Lattice Realization of Twist Defects in a $\mathbb{Z}_2\times \mathbb{Z}_2$ Topological Order**|Gustavo M. Yoshitome|[2605.02039](https://arxiv.org/abs/2605.02039)|null|
+|**2026-05-03**|**Higher-derivative $\mathcal{N}=1$ and $\mathcal{N}=2$ supersymmetric Maxwell-Chern-Simons theories at one loop in superspace**|F. S. Gama|[2605.01661](https://arxiv.org/abs/2605.01661)|null|
+|**2026-05-02**|**The Supersymmetric Origin of Chaos and its Hidden Topological Order**|Igor V. Ovchinnikov, Massimiliano Di Ventra|[2605.01622](https://arxiv.org/abs/2605.01622)|null|
+|**2026-05-01**|**Reconstructing conformal field theoretical compositions with Transformers**|Haotian Cao, Garrett Merz, Kyle Cranmer, Gary Shiu|[2605.01072](https://arxiv.org/abs/2605.01072)|null|
+|**2026-05-01**|**Universality of Quantum Gates in Particle and Symmetry Constrained Subspaces**|Andreas Stergiou, Nicolas PD Sawaya|[2605.00979](https://arxiv.org/abs/2605.00979)|null|
+|**2026-05-01**|**Unsupervised Learning of Quantum Phase Transitions for Bose-Hubbard lattice systems**|Bihui Zhu|[2605.00790](https://arxiv.org/abs/2605.00790)|null|
+|**2026-05-01**|**Report on $AS$ -Gorenstein Hopf algebras**|Ken A. Brown|[2605.00774](https://arxiv.org/abs/2605.00774)|null|
 |**2026-04-30**|**A theoretical account of tiny multi-Higgs vacuum expectation values from non-invertible symmetry**|Takaaki Nomura, Hiroshi Okada|[2604.27612](https://arxiv.org/abs/2604.27612)|null|
 |**2026-04-30**|**Bulk Reconstruction in Bilocal Holography**|Robert de Mello Koch, Animik Ghosh, Minkyoo Kim, Anik Rudra|[2604.27425](https://arxiv.org/abs/2604.27425)|null|
 |**2026-04-30**|**Constructing Bulk Topological Orders via Layered Gauging**|Shang Liu|[2604.27363](https://arxiv.org/abs/2604.27363)|null|

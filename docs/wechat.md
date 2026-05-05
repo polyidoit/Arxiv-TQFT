@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-04, **Topological defects in out-of-equilibrium systems**, Ylann Rouzaire, Paper: [https://arxiv.org/abs/2605.02482](https://arxiv.org/abs/2605.02482), Chapter 1: Introduction on Statistical Physics. Chapter 2: Review of the XY model. Chapter 3: Methods. Chapter 4: Steep XY model. Chapters 5 and 6: Kuramoto model. Chapter 7: Non-reciprocal XY model
+- 2026-05-04, **Universal Analytical Design for Perfect Chiral Circulation in Arbitrary Rings: Triangular Realizations via Floquet and Anyonic Physics**, Chaorong Guo, Hongzheng Wu, Zenong Zhou, Ai-Xi Chen, Xiaobing Luo, Paper: [https://arxiv.org/abs/2605.02166](https://arxiv.org/abs/2605.02166), 10 pages, 6 figures
+- 2026-05-03, **Separability from Multipartite Measures**, Chen-Te Ma, Ma-Ke Yuan, Paper: [https://arxiv.org/abs/2605.02097](https://arxiv.org/abs/2605.02097), 46 pages, 1 figure, 2 tables
+- 2026-05-03, **Lattice Realization of Twist Defects in a $\mathbb{Z}_2\times \mathbb{Z}_2$ Topological Order**, Gustavo M. Yoshitome, Paper: [https://arxiv.org/abs/2605.02039](https://arxiv.org/abs/2605.02039), 24 pages, 6 figures
+- 2026-05-03, **Higher-derivative $\mathcal{N}=1$ and $\mathcal{N}=2$ supersymmetric Maxwell-Chern-Simons theories at one loop in superspace**, F. S. Gama, Paper: [https://arxiv.org/abs/2605.01661](https://arxiv.org/abs/2605.01661), 19 pages, no figures
+- 2026-05-02, **The Supersymmetric Origin of Chaos and its Hidden Topological Order**, Igor V. Ovchinnikov, Massimiliano Di Ventra, Paper: [https://arxiv.org/abs/2605.01622](https://arxiv.org/abs/2605.01622)
+- 2026-05-01, **Reconstructing conformal field theoretical compositions with Transformers**, Haotian Cao, Garrett Merz, Kyle Cranmer, Gary Shiu, Paper: [https://arxiv.org/abs/2605.01072](https://arxiv.org/abs/2605.01072)
+- 2026-05-01, **Universality of Quantum Gates in Particle and Symmetry Constrained Subspaces**, Andreas Stergiou, Nicolas PD Sawaya, Paper: [https://arxiv.org/abs/2605.00979](https://arxiv.org/abs/2605.00979), 32 pages, 8 figures. Code used in this work is available at https://github.com/andstergiou/fuzzy-ising-vqe
+- 2026-05-01, **Unsupervised Learning of Quantum Phase Transitions for Bose-Hubbard lattice systems**, Bihui Zhu, Paper: [https://arxiv.org/abs/2605.00790](https://arxiv.org/abs/2605.00790), 11 pages, 6 figures
+- 2026-05-01, **Report on $AS$ -Gorenstein Hopf algebras**, Ken A. Brown, Paper: [https://arxiv.org/abs/2605.00774](https://arxiv.org/abs/2605.00774), 25 pages; preliminary draft of survey article; all comments, corrections, omissions very welcome
 - 2026-04-30, **A theoretical account of tiny multi-Higgs vacuum expectation values from non-invertible symmetry**, Takaaki Nomura, Hiroshi Okada, Paper: [https://arxiv.org/abs/2604.27612](https://arxiv.org/abs/2604.27612), 16 pages, 5 figures
 - 2026-04-30, **Bulk Reconstruction in Bilocal Holography**, Robert de Mello Koch, Animik Ghosh, Minkyoo Kim, Anik Rudra, Paper: [https://arxiv.org/abs/2604.27425](https://arxiv.org/abs/2604.27425), 1+42 pages
 - 2026-04-30, **Constructing Bulk Topological Orders via Layered Gauging**, Shang Liu, Paper: [https://arxiv.org/abs/2604.27363](https://arxiv.org/abs/2604.27363), 20+4 pages, 10 captioned figures
