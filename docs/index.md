@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-05**|**Entangling gates for the SU(N) anyons**|Sergey Mironov, Andrey Morozov|[2605.04016](https://arxiv.org/abs/2605.04016)|null|
+|**2026-05-05**|**Parameterized Families of Toric Code Phase: $em$ -duality family and higher-order anyon pumping**|Shuhei Ohyama, Takamasa Ando, Ryan Thorngren|[2605.03891](https://arxiv.org/abs/2605.03891)|null|
+|**2026-05-05**|**Plasmons in Holographic Ersatz Fermi Liquids**|Eli Ismailov, Ulf Gran, Eric Nilsson|[2605.03865](https://arxiv.org/abs/2605.03865)|null|
+|**2026-05-05**|**Central series of cocommutative Hopf braces**|Maria Bevilacqua, Marino Gran, Andrea Sciandra|[2605.03798](https://arxiv.org/abs/2605.03798)|null|
+|**2026-05-05**|**Modular functors and CFT correlators via double categories**|Jürgen Fuchs, Christoph Schweigert, Yang Yang|[2605.03708](https://arxiv.org/abs/2605.03708)|null|
+|**2026-05-05**|**Algebraic constructions of code lattices in Narain conformal field theories**|E. H Saidi, R. Sammani|[2605.03643](https://arxiv.org/abs/2605.03643)|null|
+|**2026-05-05**|**Quantum Spin Liquid State of a Dual-Species Atomic Array on Kagome Lattice**|Ahmed M. Farouk, Ilya I. Beterov, Ghadeer Suliman, Junxi Chen, Igor I. Ryabtsev|[2605.03579](https://arxiv.org/abs/2605.03579)|null|
+|**2026-05-05**|**Modular flow of Celestial Conformal Field Theory**|Mahdis Ghodrati|[2605.03250](https://arxiv.org/abs/2605.03250)|null|
 |**2026-05-04**|**Topological defects in out-of-equilibrium systems**|Ylann Rouzaire|[2605.02482](https://arxiv.org/abs/2605.02482)|null|
 |**2026-05-04**|**Universal Analytical Design for Perfect Chiral Circulation in Arbitrary Rings: Triangular Realizations via Floquet and Anyonic Physics**|Chaorong Guo, Hongzheng Wu, Zenong Zhou, Ai-Xi Chen, Xiaobing Luo|[2605.02166](https://arxiv.org/abs/2605.02166)|null|
 |**2026-05-03**|**Separability from Multipartite Measures**|Chen-Te Ma, Ma-Ke Yuan|[2605.02097](https://arxiv.org/abs/2605.02097)|null|

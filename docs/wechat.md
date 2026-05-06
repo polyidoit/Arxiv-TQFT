@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-05, **Entangling gates for the SU(N) anyons**, Sergey Mironov, Andrey Morozov, Paper: [https://arxiv.org/abs/2605.04016](https://arxiv.org/abs/2605.04016), 17 pages, 12 figures
+- 2026-05-05, **Parameterized Families of Toric Code Phase: $em$ -duality family and higher-order anyon pumping**, Shuhei Ohyama, Takamasa Ando, Ryan Thorngren, Paper: [https://arxiv.org/abs/2605.03891](https://arxiv.org/abs/2605.03891), 48 pages, 15 figures
+- 2026-05-05, **Plasmons in Holographic Ersatz Fermi Liquids**, Eli Ismailov, Ulf Gran, Eric Nilsson, Paper: [https://arxiv.org/abs/2605.03865](https://arxiv.org/abs/2605.03865), 12 pages, 8 figures
+- 2026-05-05, **Central series of cocommutative Hopf braces**, Maria Bevilacqua, Marino Gran, Andrea Sciandra, Paper: [https://arxiv.org/abs/2605.03798](https://arxiv.org/abs/2605.03798), 14 pages
+- 2026-05-05, **Modular functors and CFT correlators via double categories**, Jürgen Fuchs, Christoph Schweigert, Yang Yang, Paper: [https://arxiv.org/abs/2605.03708](https://arxiv.org/abs/2605.03708)
+- 2026-05-05, **Algebraic constructions of code lattices in Narain conformal field theories**, E. H Saidi, R. Sammani, Paper: [https://arxiv.org/abs/2605.03643](https://arxiv.org/abs/2605.03643)
+- 2026-05-05, **Quantum Spin Liquid State of a Dual-Species Atomic Array on Kagome Lattice**, Ahmed M. Farouk, Ilya I. Beterov, Ghadeer Suliman, Junxi Chen, Igor I. Ryabtsev, Paper: [https://arxiv.org/abs/2605.03579](https://arxiv.org/abs/2605.03579)
+- 2026-05-05, **Modular flow of Celestial Conformal Field Theory**, Mahdis Ghodrati, Paper: [https://arxiv.org/abs/2605.03250](https://arxiv.org/abs/2605.03250), 17 pages, 5 figures
 - 2026-05-04, **Topological defects in out-of-equilibrium systems**, Ylann Rouzaire, Paper: [https://arxiv.org/abs/2605.02482](https://arxiv.org/abs/2605.02482), Chapter 1: Introduction on Statistical Physics. Chapter 2: Review of the XY model. Chapter 3: Methods. Chapter 4: Steep XY model. Chapters 5 and 6: Kuramoto model. Chapter 7: Non-reciprocal XY model
 - 2026-05-04, **Universal Analytical Design for Perfect Chiral Circulation in Arbitrary Rings: Triangular Realizations via Floquet and Anyonic Physics**, Chaorong Guo, Hongzheng Wu, Zenong Zhou, Ai-Xi Chen, Xiaobing Luo, Paper: [https://arxiv.org/abs/2605.02166](https://arxiv.org/abs/2605.02166), 10 pages, 6 figures
 - 2026-05-03, **Separability from Multipartite Measures**, Chen-Te Ma, Ma-Ke Yuan, Paper: [https://arxiv.org/abs/2605.02097](https://arxiv.org/abs/2605.02097), 46 pages, 1 figure, 2 tables
