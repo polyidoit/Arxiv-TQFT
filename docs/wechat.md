@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-06, **Frustrated magnetic order in hybrid Kitaev spin-orbital models**, Ivan Dutta, Aayush Vijayvargia, Anamitra Mukherjee, Onur Erten, Kush Saha, Paper: [https://arxiv.org/abs/2605.05196](https://arxiv.org/abs/2605.05196), 12 pages, 7 figures
+- 2026-05-06, **Kerr/CFT Traversable Wormhole with Fermionic Double-Trace Deformation**, M. Zhahir Djogama, Fitria Khairunnisa, Hadyan Luthfan Prihadi, Freddy Permana Zen, Paper: [https://arxiv.org/abs/2605.05011](https://arxiv.org/abs/2605.05011), 30 pages, 8 figures
+- 2026-05-06, **Kitaev chain in synthetic dimension with cavity-controlled Majorana modes**, Adel Ali, Alexey Belyanin, Paper: [https://arxiv.org/abs/2605.04384](https://arxiv.org/abs/2605.04384), 9 pages, 2 figures
+- 2026-05-05, **Pattern Formation and Stick-Slip Dynamics in Binary Particle Assemblies with Rotating Drives**, C. Reichhardt, C. J. O. Reichhardt, Paper: [https://arxiv.org/abs/2605.04322](https://arxiv.org/abs/2605.04322), 16 pages, 24 postscript figures
 - 2026-05-05, **Entangling gates for the SU(N) anyons**, Sergey Mironov, Andrey Morozov, Paper: [https://arxiv.org/abs/2605.04016](https://arxiv.org/abs/2605.04016), 17 pages, 12 figures
 - 2026-05-05, **Parameterized Families of Toric Code Phase: $em$ -duality family and higher-order anyon pumping**, Shuhei Ohyama, Takamasa Ando, Ryan Thorngren, Paper: [https://arxiv.org/abs/2605.03891](https://arxiv.org/abs/2605.03891), 48 pages, 15 figures
 - 2026-05-05, **Plasmons in Holographic Ersatz Fermi Liquids**, Eli Ismailov, Ulf Gran, Eric Nilsson, Paper: [https://arxiv.org/abs/2605.03865](https://arxiv.org/abs/2605.03865), 12 pages, 8 figures
