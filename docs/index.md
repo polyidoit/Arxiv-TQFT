@@ -2,6 +2,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-07**|**Pro-Tensor Network**|Gen Yue, Ansi Bai, Linqian Wu, Tian Lan|[2605.06661](https://arxiv.org/abs/2605.06661)|null|
+|**2026-05-07**|**Topological spin freezing in frustrated quantum materials**|U. Jena, M. Barman, A. Pradhan, P. Khuntia|[2605.06069](https://arxiv.org/abs/2605.06069)|null|
+|**2026-05-07**|**Geometric Means and Lebesgue-type Decomposition of Completely Positive Maps**|Rui Okayasu|[2605.06019](https://arxiv.org/abs/2605.06019)|null|
+|**2026-05-07**|**Surface-Code Thresholds and Qubit Footprints in Shuttling-Based Spin-Qubit Railways**|Arun John Moncy, Reza Dastbasteh, Josu Etxezarreta Martinez, Ryo Nagai, Pedro M. Crespo, Normann Mertig, Charles Smith, Ruben M. Otxoa|[2605.05881](https://arxiv.org/abs/2605.05881)|null|
+|**2026-05-07**|**Fertility fibres and coproduct coefficients in the LOT Hopf algebra**|Zhicheng Zhu, Jingtao Li, Xing Gao|[2605.05542](https://arxiv.org/abs/2605.05542)|null|
+|**2026-05-06**|**Breakdown of Emergent Chiral Order and Defect Chaos in Nonreciprocal Flocks**|Charlotte Myin, Suropriya Saha, Benoît Mahault|[2605.05448](https://arxiv.org/abs/2605.05448)|null|
+|**2026-05-06**|**Two Layers, No Swaps: Biplanar SPOQC Architecture Improves Runtime of Fermi-Hubbard Simulation**|Boris Bourdoncle, Peter-Jan Derks, Théo Dessertaine, Johannes Frank|[2605.05315](https://arxiv.org/abs/2605.05315)|null|
 |**2026-05-06**|**Frustrated magnetic order in hybrid Kitaev spin-orbital models**|Ivan Dutta, Aayush Vijayvargia, Anamitra Mukherjee, Onur Erten, Kush Saha|[2605.05196](https://arxiv.org/abs/2605.05196)|null|
 |**2026-05-06**|**Kerr/CFT Traversable Wormhole with Fermionic Double-Trace Deformation**|M. Zhahir Djogama, Fitria Khairunnisa, Hadyan Luthfan Prihadi, Freddy Permana Zen|[2605.05011](https://arxiv.org/abs/2605.05011)|null|
 |**2026-05-06**|**Kitaev chain in synthetic dimension with cavity-controlled Majorana modes**|Adel Ali, Alexey Belyanin|[2605.04384](https://arxiv.org/abs/2605.04384)|null|

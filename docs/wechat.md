@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-07, **Pro-Tensor Network**, Gen Yue, Ansi Bai, Linqian Wu, Tian Lan, Paper: [https://arxiv.org/abs/2605.06661](https://arxiv.org/abs/2605.06661), 96 pages, 21 figures
+- 2026-05-07, **Topological spin freezing in frustrated quantum materials**, U. Jena, M. Barman, A. Pradhan, P. Khuntia, Paper: [https://arxiv.org/abs/2605.06069](https://arxiv.org/abs/2605.06069)
+- 2026-05-07, **Geometric Means and Lebesgue-type Decomposition of Completely Positive Maps**, Rui Okayasu, Paper: [https://arxiv.org/abs/2605.06019](https://arxiv.org/abs/2605.06019)
+- 2026-05-07, **Surface-Code Thresholds and Qubit Footprints in Shuttling-Based Spin-Qubit Railways**, Arun John Moncy, Reza Dastbasteh, Josu Etxezarreta Martinez, Ryo Nagai, Pedro M. Crespo, Normann Mertig, Charles Smith, Ruben M. Otxoa, Paper: [https://arxiv.org/abs/2605.05881](https://arxiv.org/abs/2605.05881), 14 pages, 12 figures
+- 2026-05-07, **Fertility fibres and coproduct coefficients in the LOT Hopf algebra**, Zhicheng Zhu, Jingtao Li, Xing Gao, Paper: [https://arxiv.org/abs/2605.05542](https://arxiv.org/abs/2605.05542), 26 pages
+- 2026-05-06, **Breakdown of Emergent Chiral Order and Defect Chaos in Nonreciprocal Flocks**, Charlotte Myin, Suropriya Saha, Benoît Mahault, Paper: [https://arxiv.org/abs/2605.05448](https://arxiv.org/abs/2605.05448), 7 pages, 4 figures
+- 2026-05-06, **Two Layers, No Swaps: Biplanar SPOQC Architecture Improves Runtime of Fermi-Hubbard Simulation**, Boris Bourdoncle, Peter-Jan Derks, Théo Dessertaine, Johannes Frank, Paper: [https://arxiv.org/abs/2605.05315](https://arxiv.org/abs/2605.05315), 44 pages, 22 figures
 - 2026-05-06, **Frustrated magnetic order in hybrid Kitaev spin-orbital models**, Ivan Dutta, Aayush Vijayvargia, Anamitra Mukherjee, Onur Erten, Kush Saha, Paper: [https://arxiv.org/abs/2605.05196](https://arxiv.org/abs/2605.05196), 12 pages, 7 figures
 - 2026-05-06, **Kerr/CFT Traversable Wormhole with Fermionic Double-Trace Deformation**, M. Zhahir Djogama, Fitria Khairunnisa, Hadyan Luthfan Prihadi, Freddy Permana Zen, Paper: [https://arxiv.org/abs/2605.05011](https://arxiv.org/abs/2605.05011), 30 pages, 8 figures
 - 2026-05-06, **Kitaev chain in synthetic dimension with cavity-controlled Majorana modes**, Adel Ali, Alexey Belyanin, Paper: [https://arxiv.org/abs/2605.04384](https://arxiv.org/abs/2605.04384), 9 pages, 2 figures
