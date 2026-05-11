@@ -1,4 +1,4 @@
-> Automatically updated on 2026.05.10
+> Automatically updated on 2026.05.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-08, **Characterizing bulk properties of gapped phases by smeared boundary conformal field theories: Role of duality in unusual ordering**, Yoshiki Fukusumi, Shuma Nakashiba, Paper: [https://arxiv.org/abs/2605.07734](https://arxiv.org/abs/2605.07734), 3 figures, 2 tables
+- 2026-05-08, **Opposite brace triples, Hopf braces and matched pairs of Hopf algebras**, Ramón González Rodríguez, Brais Ramos Pérez, Paper: [https://arxiv.org/abs/2605.07497](https://arxiv.org/abs/2605.07497)
+- 2026-05-08, **Arrow: A Foundation Model for Causal Discovery**, Ryan Thompson, He Zhao, Daniel M. Steinberg, Edwin V. Bonilla, Paper: [https://arxiv.org/abs/2605.07204](https://arxiv.org/abs/2605.07204)
+- 2026-05-07, **Majorana bound states in chiral ferromagnet-superconductor heterostructures revisited**, A. S. Slobodskoi, S. S. Apostoloff, I. S. Burmistrov, Paper: [https://arxiv.org/abs/2605.06828](https://arxiv.org/abs/2605.06828), 24 pages, 10 figures
+- 2026-05-07, **The Conformal Grassmannian: A Symplectic Bi-Grassmannian for $CFT_ 4$ Correlators**, Aswini Bala, Sachin Jain, Dhruva K. S, Paper: [https://arxiv.org/abs/2605.06811](https://arxiv.org/abs/2605.06811), 30 pages main text and 4 pages Appendix
 - 2026-05-07, **Pro-Tensor Network**, Gen Yue, Ansi Bai, Linqian Wu, Tian Lan, Paper: [https://arxiv.org/abs/2605.06661](https://arxiv.org/abs/2605.06661), 96 pages, 21 figures
 - 2026-05-07, **Topological spin freezing in frustrated quantum materials**, U. Jena, M. Barman, A. Pradhan, P. Khuntia, Paper: [https://arxiv.org/abs/2605.06069](https://arxiv.org/abs/2605.06069)
 - 2026-05-07, **Geometric Means and Lebesgue-type Decomposition of Completely Positive Maps**, Rui Okayasu, Paper: [https://arxiv.org/abs/2605.06019](https://arxiv.org/abs/2605.06019)
@@ -1436,5 +1441,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.05.10
+> Automatically updated on 2026.05.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Characterizing bulk properties of gapped phases by smeared boundary conformal field theories: Role of duality in unusual ordering**|Yoshiki Fukusumi, Shuma Nakashiba|[2605.07734](https://arxiv.org/abs/2605.07734)|null|
+|**2026-05-08**|**Opposite brace triples, Hopf braces and matched pairs of Hopf algebras**|Ramón González Rodríguez, Brais Ramos Pérez|[2605.07497](https://arxiv.org/abs/2605.07497)|null|
+|**2026-05-08**|**Arrow: A Foundation Model for Causal Discovery**|Ryan Thompson, He Zhao, Daniel M. Steinberg, Edwin V. Bonilla|[2605.07204](https://arxiv.org/abs/2605.07204)|null|
+|**2026-05-07**|**Majorana bound states in chiral ferromagnet-superconductor heterostructures revisited**|A. S. Slobodskoi, S. S. Apostoloff, I. S. Burmistrov|[2605.06828](https://arxiv.org/abs/2605.06828)|null|
+|**2026-05-07**|**The Conformal Grassmannian: A Symplectic Bi-Grassmannian for $CFT_ 4$ Correlators**|Aswini Bala, Sachin Jain, Dhruva K. S|[2605.06811](https://arxiv.org/abs/2605.06811)|null|
 |**2026-05-07**|**Pro-Tensor Network**|Gen Yue, Ansi Bai, Linqian Wu, Tian Lan|[2605.06661](https://arxiv.org/abs/2605.06661)|null|
 |**2026-05-07**|**Topological spin freezing in frustrated quantum materials**|U. Jena, M. Barman, A. Pradhan, P. Khuntia|[2605.06069](https://arxiv.org/abs/2605.06069)|null|
 |**2026-05-07**|**Geometric Means and Lebesgue-type Decomposition of Completely Positive Maps**|Rui Okayasu|[2605.06019](https://arxiv.org/abs/2605.06019)|null|
@@ -2235,5 +2240,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
