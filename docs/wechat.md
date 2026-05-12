@@ -1,4 +1,4 @@
-> Automatically updated on 2026.05.11
+> Automatically updated on 2026.05.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-11, **Bulk-Edge Correspondence via Higher Gauge Theory**, Hisham Sati, Urs Schreiber, Paper: [https://arxiv.org/abs/2605.10232](https://arxiv.org/abs/2605.10232), 47 pages, 7 figures
+- 2026-05-10, **Cocycle Actions on Hidden Quantum Markov Models: Symmetry Protection and Topological Order**, Abdessatar Souissi, Abdessatar Barhoumi, Paper: [https://arxiv.org/abs/2605.09605](https://arxiv.org/abs/2605.09605)
+- 2026-05-09, **Recoverable states on von-Neumann algebras**, Saptak Bhattacharya, Paper: [https://arxiv.org/abs/2605.08829](https://arxiv.org/abs/2605.08829), 10 pages, 0 figures
+- 2026-05-09, **Bogomol'nyi Equations in Mixed Product Chern-Simons Theories Governing Charged Vortices and Antivortices**, Aonan Xu, Paper: [https://arxiv.org/abs/2605.08822](https://arxiv.org/abs/2605.08822), 27 pages
+- 2026-05-09, **MeshFIM: Local Low-Poly Mesh Editing via Fill-in-the-Middle Autoregressive Generation**, Dingdong Yang, Jian Liu, Biwen Lei, Haohan Weng, Zhuo Chen, Song Guo, Hao Richard Zhang, Ali Mahdavi Amiri, Chunchao Guo, Paper: [https://arxiv.org/abs/2605.08744](https://arxiv.org/abs/2605.08744)
+- 2026-05-09, **High-Precision Variational Quantum SVD via Classical Orthogonality Correction**, Shohei Miyakoshi, Takanori Sugimoto, Tomonori Shirakawa, Seiji Yunoki, Hiroshi Ueda, Paper: [https://arxiv.org/abs/2605.08683](https://arxiv.org/abs/2605.08683), 24 pages, 9 figures
+- 2026-05-08, **Quantum hypergroups arising from ergodic coactions**, Joeri De Ro, Paper: [https://arxiv.org/abs/2605.08459](https://arxiv.org/abs/2605.08459), 25 pages + references. Comments are welcome!
+- 2026-05-08, **Graph Computation Meets Circuit Algebra: A Task-Aligned Analysis of Graph Neural Networks for Electronic Design Automation**, Hyunmog Kim, Paper: [https://arxiv.org/abs/2605.08291](https://arxiv.org/abs/2605.08291)
 - 2026-05-08, **Characterizing bulk properties of gapped phases by smeared boundary conformal field theories: Role of duality in unusual ordering**, Yoshiki Fukusumi, Shuma Nakashiba, Paper: [https://arxiv.org/abs/2605.07734](https://arxiv.org/abs/2605.07734), 3 figures, 2 tables
 - 2026-05-08, **Opposite brace triples, Hopf braces and matched pairs of Hopf algebras**, Ramón González Rodríguez, Brais Ramos Pérez, Paper: [https://arxiv.org/abs/2605.07497](https://arxiv.org/abs/2605.07497)
 - 2026-05-08, **Arrow: A Foundation Model for Causal Discovery**, Ryan Thompson, He Zhao, Daniel M. Steinberg, Edwin V. Bonilla, Paper: [https://arxiv.org/abs/2605.07204](https://arxiv.org/abs/2605.07204)
@@ -1441,5 +1449,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
 

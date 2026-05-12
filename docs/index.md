@@ -1,7 +1,15 @@
-> Automatically updated on 2026.05.11
+> Automatically updated on 2026.05.12
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-11**|**Bulk-Edge Correspondence via Higher Gauge Theory**|Hisham Sati, Urs Schreiber|[2605.10232](https://arxiv.org/abs/2605.10232)|null|
+|**2026-05-10**|**Cocycle Actions on Hidden Quantum Markov Models: Symmetry Protection and Topological Order**|Abdessatar Souissi, Abdessatar Barhoumi|[2605.09605](https://arxiv.org/abs/2605.09605)|null|
+|**2026-05-09**|**Recoverable states on von-Neumann algebras**|Saptak Bhattacharya|[2605.08829](https://arxiv.org/abs/2605.08829)|null|
+|**2026-05-09**|**Bogomol'nyi Equations in Mixed Product Chern-Simons Theories Governing Charged Vortices and Antivortices**|Aonan Xu|[2605.08822](https://arxiv.org/abs/2605.08822)|null|
+|**2026-05-09**|**MeshFIM: Local Low-Poly Mesh Editing via Fill-in-the-Middle Autoregressive Generation**|Dingdong Yang, Jian Liu, Biwen Lei, Haohan Weng, Zhuo Chen, Song Guo, Hao Richard Zhang, Ali Mahdavi Amiri, Chunchao Guo|[2605.08744](https://arxiv.org/abs/2605.08744)|null|
+|**2026-05-09**|**High-Precision Variational Quantum SVD via Classical Orthogonality Correction**|Shohei Miyakoshi, Takanori Sugimoto, Tomonori Shirakawa, Seiji Yunoki, Hiroshi Ueda|[2605.08683](https://arxiv.org/abs/2605.08683)|null|
+|**2026-05-08**|**Quantum hypergroups arising from ergodic coactions**|Joeri De Ro|[2605.08459](https://arxiv.org/abs/2605.08459)|null|
+|**2026-05-08**|**Graph Computation Meets Circuit Algebra: A Task-Aligned Analysis of Graph Neural Networks for Electronic Design Automation**|Hyunmog Kim|[2605.08291](https://arxiv.org/abs/2605.08291)|null|
 |**2026-05-08**|**Characterizing bulk properties of gapped phases by smeared boundary conformal field theories: Role of duality in unusual ordering**|Yoshiki Fukusumi, Shuma Nakashiba|[2605.07734](https://arxiv.org/abs/2605.07734)|null|
 |**2026-05-08**|**Opposite brace triples, Hopf braces and matched pairs of Hopf algebras**|Ramón González Rodríguez, Brais Ramos Pérez|[2605.07497](https://arxiv.org/abs/2605.07497)|null|
 |**2026-05-08**|**Arrow: A Foundation Model for Causal Discovery**|Ryan Thompson, He Zhao, Daniel M. Steinberg, Edwin V. Bonilla|[2605.07204](https://arxiv.org/abs/2605.07204)|null|
