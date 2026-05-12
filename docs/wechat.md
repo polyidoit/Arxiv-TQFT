@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-11, **Emergence of synthetic twist defects in the surface code under local perturbation**, Paul Kairys, Phillip C. Lotshaw, Paper: [https://arxiv.org/abs/2605.10839](https://arxiv.org/abs/2605.10839), 11 pages, 6 figures
+- 2026-05-11, **A Simplicial Approach to Higher Geometric Quantization**, Qian Zhang, Paper: [https://arxiv.org/abs/2605.10695](https://arxiv.org/abs/2605.10695)
+- 2026-05-11, **Local topological order, Haag duality, and reflection positivity**, Pieter Naaijkens, David Penneys, Daniel Wallick, Paper: [https://arxiv.org/abs/2605.10693](https://arxiv.org/abs/2605.10693), 30 pages. Comments welcome!
 - 2026-05-11, **Bulk-Edge Correspondence via Higher Gauge Theory**, Hisham Sati, Urs Schreiber, Paper: [https://arxiv.org/abs/2605.10232](https://arxiv.org/abs/2605.10232), 47 pages, 7 figures
 - 2026-05-10, **Cocycle Actions on Hidden Quantum Markov Models: Symmetry Protection and Topological Order**, Abdessatar Souissi, Abdessatar Barhoumi, Paper: [https://arxiv.org/abs/2605.09605](https://arxiv.org/abs/2605.09605)
 - 2026-05-09, **Recoverable states on von-Neumann algebras**, Saptak Bhattacharya, Paper: [https://arxiv.org/abs/2605.08829](https://arxiv.org/abs/2605.08829), 10 pages, 0 figures
