@@ -1,4 +1,4 @@
-> Automatically updated on 2026.05.12
+> Automatically updated on 2026.05.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-12, **A note on universality in refined Chern-Simons theory**, Andrei Mironov, Ruben Mkrtchyan, Paper: [https://arxiv.org/abs/2605.12469](https://arxiv.org/abs/2605.12469), 8 pages
+- 2026-05-12, **Super-Higher-Form Symmetries**, Pietro Antonio Grassi, Silvia Penati, Paper: [https://arxiv.org/abs/2605.12383](https://arxiv.org/abs/2605.12383), Contribution to the proceedings of Corfu Summer Institute 2025 "School and Workshops on Elementary Particle Physics and Gravity" (CORFU2025) and Cost Action CaLISTA General Meeting 2025, "Cartan, Generalised and Noncommutative Geometries, Lie Theory and Integrable Systems Meet Vision and Physical Models"
+- 2026-05-12, **Relationship between doping-induced in-gap states and spin excitations in Kitaev-Hubbard models**, Si-Qi Hou, Shun-Li Yu, Zhao-Yang Dong, Jian-Xin Li, Paper: [https://arxiv.org/abs/2605.11830](https://arxiv.org/abs/2605.11830)
+- 2026-05-11, **Functional Models of Abelian Locally von Neumann Algebras and Direct Integrals of Locally Hilbert Spaces**, Aurelian Gheondea, Chaitanya J. Kulkarni, Santhosh Kumar Pamula, Paper: [https://arxiv.org/abs/2605.11194](https://arxiv.org/abs/2605.11194), 38 pages
+- 2026-05-11, **Symmetry Guided Band-Gap Opening via Periodic Topological Defects in Graphene**, D. N. Garzon, Leonel Cabrera-Loor, Jacopo Gliozzi, Marco Fronzi, Catherine Stampfl, Henry P. Pinto, Paper: [https://arxiv.org/abs/2605.11183](https://arxiv.org/abs/2605.11183), 14 pages, 7 figures, 2 tables; supporting information: 3 pages, 4 figures
+- 2026-05-11, **Tolerating Device Failure in Distributed Quantum Computing**, Evan Sutcliffe, Coral M. Westoby, Paper: [https://arxiv.org/abs/2605.11088](https://arxiv.org/abs/2605.11088), 9 pages, 7 figures
+- 2026-05-11, **Strain-controlled crossover between Majorana and Andreev bound states in disordered superconductor-semiconductor heterostructures**, Shubhanshu Karoliya, Ekta, Gargee Sharma, Paper: [https://arxiv.org/abs/2605.11066](https://arxiv.org/abs/2605.11066), 20+7 pages, 7+8 figures
 - 2026-05-11, **Emergence of synthetic twist defects in the surface code under local perturbation**, Paul Kairys, Phillip C. Lotshaw, Paper: [https://arxiv.org/abs/2605.10839](https://arxiv.org/abs/2605.10839), 11 pages, 6 figures
 - 2026-05-11, **A Simplicial Approach to Higher Geometric Quantization**, Qian Zhang, Paper: [https://arxiv.org/abs/2605.10695](https://arxiv.org/abs/2605.10695)
 - 2026-05-11, **Local topological order, Haag duality, and reflection positivity**, Pieter Naaijkens, David Penneys, Daniel Wallick, Paper: [https://arxiv.org/abs/2605.10693](https://arxiv.org/abs/2605.10693), 30 pages. Comments welcome!
@@ -1452,5 +1459,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 

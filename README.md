@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.05.12
+> Automatically updated on 2026.05.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**A note on universality in refined Chern-Simons theory**|Andrei Mironov, Ruben Mkrtchyan|[2605.12469](https://arxiv.org/abs/2605.12469)|null|
+|**2026-05-12**|**Super-Higher-Form Symmetries**|Pietro Antonio Grassi, Silvia Penati|[2605.12383](https://arxiv.org/abs/2605.12383)|null|
+|**2026-05-12**|**Relationship between doping-induced in-gap states and spin excitations in Kitaev-Hubbard models**|Si-Qi Hou, Shun-Li Yu, Zhao-Yang Dong, Jian-Xin Li|[2605.11830](https://arxiv.org/abs/2605.11830)|null|
+|**2026-05-11**|**Functional Models of Abelian Locally von Neumann Algebras and Direct Integrals of Locally Hilbert Spaces**|Aurelian Gheondea, Chaitanya J. Kulkarni, Santhosh Kumar Pamula|[2605.11194](https://arxiv.org/abs/2605.11194)|null|
+|**2026-05-11**|**Symmetry Guided Band-Gap Opening via Periodic Topological Defects in Graphene**|D. N. Garzon, Leonel Cabrera-Loor, Jacopo Gliozzi, Marco Fronzi, Catherine Stampfl, Henry P. Pinto|[2605.11183](https://arxiv.org/abs/2605.11183)|null|
+|**2026-05-11**|**Tolerating Device Failure in Distributed Quantum Computing**|Evan Sutcliffe, Coral M. Westoby|[2605.11088](https://arxiv.org/abs/2605.11088)|null|
+|**2026-05-11**|**Strain-controlled crossover between Majorana and Andreev bound states in disordered superconductor-semiconductor heterostructures**|Shubhanshu Karoliya, Ekta, Gargee Sharma|[2605.11066](https://arxiv.org/abs/2605.11066)|null|
 |**2026-05-11**|**Emergence of synthetic twist defects in the surface code under local perturbation**|Paul Kairys, Phillip C. Lotshaw|[2605.10839](https://arxiv.org/abs/2605.10839)|null|
 |**2026-05-11**|**A Simplicial Approach to Higher Geometric Quantization**|Qian Zhang|[2605.10695](https://arxiv.org/abs/2605.10695)|null|
 |**2026-05-11**|**Local topological order, Haag duality, and reflection positivity**|Pieter Naaijkens, David Penneys, Daniel Wallick|[2605.10693](https://arxiv.org/abs/2605.10693)|null|
@@ -2251,5 +2258,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
