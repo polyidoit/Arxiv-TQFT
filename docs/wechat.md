@@ -1,4 +1,4 @@
-> Automatically updated on 2026.05.13
+> Automatically updated on 2026.05.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-13, **Affiliated operators for classical and quantum control**, Dimitrios Giannakis, Gage Hoefer, Paper: [https://arxiv.org/abs/2605.13774](https://arxiv.org/abs/2605.13774), 30 pages, no figures
+- 2026-05-13, **Nodal Topological Superconductivity Driven by Crystalline Antiunitary Symmetry in Altermagnets**, Xiao Xiao, Arun Bansil, Paper: [https://arxiv.org/abs/2605.13656](https://arxiv.org/abs/2605.13656), 7 pages, 5 figures, and 88 references
+- 2026-05-13, **Lieb-Schultz-Mattis theorem from gauge constraints**, Bhandaru Phani Parasar, Paper: [https://arxiv.org/abs/2605.13606](https://arxiv.org/abs/2605.13606), 7 pages, 2 figures + Supplemental material (6 pages, 1 figure)
+- 2026-05-13, **Universal Design and Physical Applications of Non-Uniform Cellular Automata on Translationally Invariant Lattices**, Xiang-You Huang, Jie-Yu Zhang, Peng Ye, Paper: [https://arxiv.org/abs/2605.13379](https://arxiv.org/abs/2605.13379), Due to length limit. full version of Abstract is available in PDF. Cellular Automata series since arXiv:2401.00505 and 2508.13961
+- 2026-05-13, **Invertible Symmetry and Spontaneous Duality Breaking in the Transverse-Field Ising Model**, José Dupont, Jasper van Wezel, Paper: [https://arxiv.org/abs/2605.13363](https://arxiv.org/abs/2605.13363), 7 pages, 1 figure
+- 2026-05-13, **Neural Networks, Dispersion Relations and the Thermal Bootstrap**, Vasilis Niarchos, Constantinos Papageorgakis, Paper: [https://arxiv.org/abs/2605.13183](https://arxiv.org/abs/2605.13183), 21 pages, contribution to the proceedings of the Athens Workshop in Theoretical Physics 2025
+- 2026-05-12, **Model theory and Connes' bicentralizer problem**, Hiroshi Ando, Isaac Goldbring, Paper: [https://arxiv.org/abs/2605.12776](https://arxiv.org/abs/2605.12776), 56 pages; first draft; comments welcome!
+- 2026-05-12, **Butterflies in $\textrm{T}\overline{\textrm{T}}$ deformed anomalous CFT$_2$**, Debarshi Basu, Mingshuai Xu, Paper: [https://arxiv.org/abs/2605.12616](https://arxiv.org/abs/2605.12616), 42 pages, 4 figures and 2 appendices
+- 2026-05-12, **Lattice Gauging Interfaces and Noninvertible Defects in Higher Dimensions**, David Hofmeier, Giovanna Pimenta, Weiguang Cao, Paper: [https://arxiv.org/abs/2605.12601](https://arxiv.org/abs/2605.12601), 45 pages, 15 figures
 - 2026-05-12, **A note on universality in refined Chern-Simons theory**, Andrei Mironov, Ruben Mkrtchyan, Paper: [https://arxiv.org/abs/2605.12469](https://arxiv.org/abs/2605.12469), 8 pages
 - 2026-05-12, **Super-Higher-Form Symmetries**, Pietro Antonio Grassi, Silvia Penati, Paper: [https://arxiv.org/abs/2605.12383](https://arxiv.org/abs/2605.12383), Contribution to the proceedings of Corfu Summer Institute 2025 "School and Workshops on Elementary Particle Physics and Gravity" (CORFU2025) and Cost Action CaLISTA General Meeting 2025, "Cartan, Generalised and Noncommutative Geometries, Lie Theory and Integrable Systems Meet Vision and Physical Models"
 - 2026-05-12, **Relationship between doping-induced in-gap states and spin excitations in Kitaev-Hubbard models**, Si-Qi Hou, Shun-Li Yu, Zhao-Yang Dong, Jian-Xin Li, Paper: [https://arxiv.org/abs/2605.11830](https://arxiv.org/abs/2605.11830)
@@ -1459,5 +1468,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 

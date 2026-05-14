@@ -1,7 +1,16 @@
-> Automatically updated on 2026.05.13
+> Automatically updated on 2026.05.14
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-13**|**Affiliated operators for classical and quantum control**|Dimitrios Giannakis, Gage Hoefer|[2605.13774](https://arxiv.org/abs/2605.13774)|null|
+|**2026-05-13**|**Nodal Topological Superconductivity Driven by Crystalline Antiunitary Symmetry in Altermagnets**|Xiao Xiao, Arun Bansil|[2605.13656](https://arxiv.org/abs/2605.13656)|null|
+|**2026-05-13**|**Lieb-Schultz-Mattis theorem from gauge constraints**|Bhandaru Phani Parasar|[2605.13606](https://arxiv.org/abs/2605.13606)|null|
+|**2026-05-13**|**Universal Design and Physical Applications of Non-Uniform Cellular Automata on Translationally Invariant Lattices**|Xiang-You Huang, Jie-Yu Zhang, Peng Ye|[2605.13379](https://arxiv.org/abs/2605.13379)|null|
+|**2026-05-13**|**Invertible Symmetry and Spontaneous Duality Breaking in the Transverse-Field Ising Model**|José Dupont, Jasper van Wezel|[2605.13363](https://arxiv.org/abs/2605.13363)|null|
+|**2026-05-13**|**Neural Networks, Dispersion Relations and the Thermal Bootstrap**|Vasilis Niarchos, Constantinos Papageorgakis|[2605.13183](https://arxiv.org/abs/2605.13183)|null|
+|**2026-05-12**|**Model theory and Connes' bicentralizer problem**|Hiroshi Ando, Isaac Goldbring|[2605.12776](https://arxiv.org/abs/2605.12776)|null|
+|**2026-05-12**|**Butterflies in $\textrm{T}\overline{\textrm{T}}$ deformed anomalous CFT$_2$**|Debarshi Basu, Mingshuai Xu|[2605.12616](https://arxiv.org/abs/2605.12616)|null|
+|**2026-05-12**|**Lattice Gauging Interfaces and Noninvertible Defects in Higher Dimensions**|David Hofmeier, Giovanna Pimenta, Weiguang Cao|[2605.12601](https://arxiv.org/abs/2605.12601)|null|
 |**2026-05-12**|**A note on universality in refined Chern-Simons theory**|Andrei Mironov, Ruben Mkrtchyan|[2605.12469](https://arxiv.org/abs/2605.12469)|null|
 |**2026-05-12**|**Super-Higher-Form Symmetries**|Pietro Antonio Grassi, Silvia Penati|[2605.12383](https://arxiv.org/abs/2605.12383)|null|
 |**2026-05-12**|**Relationship between doping-induced in-gap states and spin excitations in Kitaev-Hubbard models**|Si-Qi Hou, Shun-Li Yu, Zhao-Yang Dong, Jian-Xin Li|[2605.11830](https://arxiv.org/abs/2605.11830)|null|
