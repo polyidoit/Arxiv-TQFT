@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Non-Invertible Symmetries on Tensor-Product Hilbert Spaces and Quantum Cellular Automata**|Rui Wen, Kansei Inamura, Sakura Schafer-Nameki|[2605.15194](https://arxiv.org/abs/2605.15194)|null|
+|**2026-05-14**|**Extensive long-range magic in non-Abelian topological orders**|Yuzhen Zhang, Isaac H. Kim, Yimu Bao, Sagar Vijay|[2605.15150](https://arxiv.org/abs/2605.15150)|null|
+|**2026-05-14**|**Kadison's problem for trace-vector orthonormal bases in $\mathrm{II}_1$ factors with separable predual**|Yixin He, Quanyu Tang, Teng Zhang|[2605.15006](https://arxiv.org/abs/2605.15006)|null|
+|**2026-05-14**|**On the Symmetries of Anisotropic Spin Interaction Models**|Arist Zhenyuan Yang|[2605.14969](https://arxiv.org/abs/2605.14969)|null|
+|**2026-05-14**|**Holographic interpolations of codimension-2 defect CFTs**|George Georgiou, Dimitrios Zoakos|[2605.14726](https://arxiv.org/abs/2605.14726)|null|
+|**2026-05-13**|**Generalized Model Fractional Quantum Hall States on Lattices**|Guangyue Ji, Jie Wang|[2605.13978](https://arxiv.org/abs/2605.13978)|null|
+|**2026-05-13**|**Protected operators in non-local defect CFTs from AdS**|Jiaxin Qiao|[2605.13975](https://arxiv.org/abs/2605.13975)|null|
+|**2026-05-13**|**Non-Invertible Symmetries and Boundaries for Two-Dimensional Fermions**|Guillermo Arias-Tamargo, Philip Boyle Smith, Rishi Mouland, Maxwell L. Velásquez Cotini Hutt|[2605.13952](https://arxiv.org/abs/2605.13952)|null|
 |**2026-05-13**|**Affiliated operators for classical and quantum control**|Dimitrios Giannakis, Gage Hoefer|[2605.13774](https://arxiv.org/abs/2605.13774)|null|
 |**2026-05-13**|**Nodal Topological Superconductivity Driven by Crystalline Antiunitary Symmetry in Altermagnets**|Xiao Xiao, Arun Bansil|[2605.13656](https://arxiv.org/abs/2605.13656)|null|
 |**2026-05-13**|**Lieb-Schultz-Mattis theorem from gauge constraints**|Bhandaru Phani Parasar|[2605.13606](https://arxiv.org/abs/2605.13606)|null|

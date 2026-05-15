@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-14, **Non-Invertible Symmetries on Tensor-Product Hilbert Spaces and Quantum Cellular Automata**, Rui Wen, Kansei Inamura, Sakura Schafer-Nameki, Paper: [https://arxiv.org/abs/2605.15194](https://arxiv.org/abs/2605.15194), 40 pages
+- 2026-05-14, **Extensive long-range magic in non-Abelian topological orders**, Yuzhen Zhang, Isaac H. Kim, Yimu Bao, Sagar Vijay, Paper: [https://arxiv.org/abs/2605.15150](https://arxiv.org/abs/2605.15150), 51 pages
+- 2026-05-14, **Kadison's problem for trace-vector orthonormal bases in $\mathrm{II}_1$ factors with separable predual**, Yixin He, Quanyu Tang, Teng Zhang, Paper: [https://arxiv.org/abs/2605.15006](https://arxiv.org/abs/2605.15006), 11 pages. All comments are welcome!
+- 2026-05-14, **On the Symmetries of Anisotropic Spin Interaction Models**, Arist Zhenyuan Yang, Paper: [https://arxiv.org/abs/2605.14969](https://arxiv.org/abs/2605.14969), Revised in response to the referees' comments
+- 2026-05-14, **Holographic interpolations of codimension-2 defect CFTs**, George Georgiou, Dimitrios Zoakos, Paper: [https://arxiv.org/abs/2605.14726](https://arxiv.org/abs/2605.14726), 20 pages
+- 2026-05-13, **Generalized Model Fractional Quantum Hall States on Lattices**, Guangyue Ji, Jie Wang, Paper: [https://arxiv.org/abs/2605.13978](https://arxiv.org/abs/2605.13978), 12 pages, 7 figures, Comments are welcome
+- 2026-05-13, **Protected operators in non-local defect CFTs from AdS**, Jiaxin Qiao, Paper: [https://arxiv.org/abs/2605.13975](https://arxiv.org/abs/2605.13975), 22 pages, 3 figures, 1 table
+- 2026-05-13, **Non-Invertible Symmetries and Boundaries for Two-Dimensional Fermions**, Guillermo Arias-Tamargo, Philip Boyle Smith, Rishi Mouland, Maxwell L. Velásquez Cotini Hutt, Paper: [https://arxiv.org/abs/2605.13952](https://arxiv.org/abs/2605.13952), 48 pages + appendices
 - 2026-05-13, **Affiliated operators for classical and quantum control**, Dimitrios Giannakis, Gage Hoefer, Paper: [https://arxiv.org/abs/2605.13774](https://arxiv.org/abs/2605.13774), 30 pages, no figures
 - 2026-05-13, **Nodal Topological Superconductivity Driven by Crystalline Antiunitary Symmetry in Altermagnets**, Xiao Xiao, Arun Bansil, Paper: [https://arxiv.org/abs/2605.13656](https://arxiv.org/abs/2605.13656), 7 pages, 5 figures, and 88 references
 - 2026-05-13, **Lieb-Schultz-Mattis theorem from gauge constraints**, Bhandaru Phani Parasar, Paper: [https://arxiv.org/abs/2605.13606](https://arxiv.org/abs/2605.13606), 7 pages, 2 figures + Supplemental material (6 pages, 1 figure)
