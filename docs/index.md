@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-15**|**Non-Invertible Symmetries in Compactified Supergravities**|Fabián Caro-Pérez, María Pilar García del Moral, Álvaro Restuccia|[2605.16188](https://arxiv.org/abs/2605.16188)|null|
+|**2026-05-15**|**Boundary anomalous dimensions from BCFT: $φ^{3}$ theories with a boundary and higher-derivative generalizations**|Yongwei Guo, Wenliang Li|[2605.16119](https://arxiv.org/abs/2605.16119)|null|
+|**2026-05-15**|**Duality of analytic Hopf algebras and the Amice transform**|Luca Collauto|[2605.16063](https://arxiv.org/abs/2605.16063)|null|
+|**2026-05-15**|**Beyond trace-class and Hilbert-Schmidt -- Interaction between operator ideals and von Neumann algebras in quantum physics**|Frank Oertel|[2605.16025](https://arxiv.org/abs/2605.16025)|null|
+|**2026-05-15**|**Biorthogonal Dynamical Quantum Phase Transitions in a Non-Hermitian Kitaev Chain**|Haoran Gu, Yubo Zhao, Siyuan Cheng, Yuee Xie, Xiaosen Yang, Yuanping Chen|[2605.15982](https://arxiv.org/abs/2605.15982)|null|
+|**2026-05-15**|**Restricted quantum groups as graded Hopf algebras**|Jelena Anić, Giovanni Felder|[2605.15909](https://arxiv.org/abs/2605.15909)|null|
+|**2026-05-14**|**Clifford-deformed zero-rate LDPC codes with 50% biased noise thresholds**|Jagannath Das, Sayandip Dhara, Pedro Medina, Arthur Pesah, Arpit Dua|[2605.15348](https://arxiv.org/abs/2605.15348)|null|
+|**2026-05-14**|**Dimensional reduction of AdS3 Chern-Simons gravity: Schwarzian and affine boundary theories**|Goffredo Chirco, Lucio Vacchiano, Patrizia Vitale|[2605.15293](https://arxiv.org/abs/2605.15293)|null|
+|**2026-05-14**|**A general proof of integer Rényi QNEC**|Tanay Kibe, Pratik Roy|[2605.15272](https://arxiv.org/abs/2605.15272)|null|
+|**2026-05-14**|**Ising anyons in the $SU(2)_2$ Chern--Simons theory**|Artem Belov, Andrey Morozov|[2605.15268](https://arxiv.org/abs/2605.15268)|null|
 |**2026-05-14**|**Non-Invertible Symmetries on Tensor-Product Hilbert Spaces and Quantum Cellular Automata**|Rui Wen, Kansei Inamura, Sakura Schafer-Nameki|[2605.15194](https://arxiv.org/abs/2605.15194)|null|
 |**2026-05-14**|**Extensive long-range magic in non-Abelian topological orders**|Yuzhen Zhang, Isaac H. Kim, Yimu Bao, Sagar Vijay|[2605.15150](https://arxiv.org/abs/2605.15150)|null|
 |**2026-05-14**|**Kadison's problem for trace-vector orthonormal bases in $\mathrm{II}_1$ factors with separable predual**|Yixin He, Quanyu Tang, Teng Zhang|[2605.15006](https://arxiv.org/abs/2605.15006)|null|
