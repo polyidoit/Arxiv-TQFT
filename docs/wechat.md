@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-18, **Modular Lower Bounds on Reeh-Schlieder State Preparation**, Javier Blanco-Romero, Florina Almenares Mendoza, Paper: [https://arxiv.org/abs/2605.18640](https://arxiv.org/abs/2605.18640)
 - 2026-05-18, **Taming the 3D Wilson-Fisher Fixed Point via Nonlocal Effective Action**, Hyeon Jung Kim, Seung-Jong Yoo, Jinmo Bok, Lemuel John Sese, Semin Park, Ki-Seok Kim, Paper: [https://arxiv.org/abs/2605.18148](https://arxiv.org/abs/2605.18148)
 - 2026-05-18, **Chern classes of Laughlin bundles on the quasihole moduli space**, Florent Dupont, Semyon Klevtsov, Paper: [https://arxiv.org/abs/2605.18089](https://arxiv.org/abs/2605.18089), 30 pages. Comments welcome!
 - 2026-05-18, **CelloCut: Constructive Watertight Remeshing via Tetrahedral Cell Cuts**, Xuan Yang, Yuhang Zeng, Dinglong Fang, Guochuan Tang, Jiaju Jiang, Ben Li, Wei Zhou, Xiao-Xiao Long, Cheng Lin, Paper: [https://arxiv.org/abs/2605.17853](https://arxiv.org/abs/2605.17853), 20 pages, 8 figures, including supplementary material. Project page: https://rangeryx-66.github.io/CelloCut/

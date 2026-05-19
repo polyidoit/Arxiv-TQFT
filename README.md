@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**Modular Lower Bounds on Reeh-Schlieder State Preparation**|Javier Blanco-Romero, Florina Almenares Mendoza|[2605.18640](https://arxiv.org/abs/2605.18640)|null|
 |**2026-05-18**|**Taming the 3D Wilson-Fisher Fixed Point via Nonlocal Effective Action**|Hyeon Jung Kim, Seung-Jong Yoo, Jinmo Bok, Lemuel John Sese, Semin Park, Ki-Seok Kim|[2605.18148](https://arxiv.org/abs/2605.18148)|null|
 |**2026-05-18**|**Chern classes of Laughlin bundles on the quasihole moduli space**|Florent Dupont, Semyon Klevtsov|[2605.18089](https://arxiv.org/abs/2605.18089)|null|
 |**2026-05-18**|**CelloCut: Constructive Watertight Remeshing via Tetrahedral Cell Cuts**|Xuan Yang, Yuhang Zeng, Dinglong Fang, Guochuan Tang, Jiaju Jiang, Ben Li, Wei Zhou, Xiao-Xiao Long, Cheng Lin|[2605.17853](https://arxiv.org/abs/2605.17853)|null|
