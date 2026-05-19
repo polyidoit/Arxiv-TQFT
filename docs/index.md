@@ -1,7 +1,15 @@
-> Automatically updated on 2026.05.18
+> Automatically updated on 2026.05.19
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-18**|**Taming the 3D Wilson-Fisher Fixed Point via Nonlocal Effective Action**|Hyeon Jung Kim, Seung-Jong Yoo, Jinmo Bok, Lemuel John Sese, Semin Park, Ki-Seok Kim|[2605.18148](https://arxiv.org/abs/2605.18148)|null|
+|**2026-05-18**|**Chern classes of Laughlin bundles on the quasihole moduli space**|Florent Dupont, Semyon Klevtsov|[2605.18089](https://arxiv.org/abs/2605.18089)|null|
+|**2026-05-18**|**CelloCut: Constructive Watertight Remeshing via Tetrahedral Cell Cuts**|Xuan Yang, Yuhang Zeng, Dinglong Fang, Guochuan Tang, Jiaju Jiang, Ben Li, Wei Zhou, Xiao-Xiao Long, Cheng Lin|[2605.17853](https://arxiv.org/abs/2605.17853)|null|
+|**2026-05-18**|**Quantum Doubly Stochastic Operators on Non-commutative $L_p$ -Spaces**|Emma Sulaver|[2605.17711](https://arxiv.org/abs/2605.17711)|null|
+|**2026-05-17**|**All Quantum Probability viewed in Complex Projective Geometry**|Stephen Bruce Sontz|[2605.17578](https://arxiv.org/abs/2605.17578)|null|
+|**2026-05-17**|**TriOpt: A Scalable Algorithm for Linear Causal Discovery**|Rafat Ashraf Joy, Elena Zheleva|[2605.17465](https://arxiv.org/abs/2605.17465)|null|
+|**2026-05-15**|**On ultraproduct approximations and property (T) factors**|Jesse Peterson|[2605.16669](https://arxiv.org/abs/2605.16669)|null|
+|**2026-05-15**|**When Symmetries Twist: Anomaly Inflow on Monodromy Defects**|Christian Copetti|[2605.16482](https://arxiv.org/abs/2605.16482)|null|
 |**2026-05-15**|**Non-Invertible Symmetries in Compactified Supergravities**|Fabián Caro-Pérez, María Pilar García del Moral, Álvaro Restuccia|[2605.16188](https://arxiv.org/abs/2605.16188)|null|
 |**2026-05-15**|**Boundary anomalous dimensions from BCFT: $φ^{3}$ theories with a boundary and higher-derivative generalizations**|Yongwei Guo, Wenliang Li|[2605.16119](https://arxiv.org/abs/2605.16119)|null|
 |**2026-05-15**|**Duality of analytic Hopf algebras and the Amice transform**|Luca Collauto|[2605.16063](https://arxiv.org/abs/2605.16063)|null|

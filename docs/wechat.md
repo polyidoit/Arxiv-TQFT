@@ -1,4 +1,4 @@
-> Automatically updated on 2026.05.18
+> Automatically updated on 2026.05.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-18, **Taming the 3D Wilson-Fisher Fixed Point via Nonlocal Effective Action**, Hyeon Jung Kim, Seung-Jong Yoo, Jinmo Bok, Lemuel John Sese, Semin Park, Ki-Seok Kim, Paper: [https://arxiv.org/abs/2605.18148](https://arxiv.org/abs/2605.18148)
+- 2026-05-18, **Chern classes of Laughlin bundles on the quasihole moduli space**, Florent Dupont, Semyon Klevtsov, Paper: [https://arxiv.org/abs/2605.18089](https://arxiv.org/abs/2605.18089), 30 pages. Comments welcome!
+- 2026-05-18, **CelloCut: Constructive Watertight Remeshing via Tetrahedral Cell Cuts**, Xuan Yang, Yuhang Zeng, Dinglong Fang, Guochuan Tang, Jiaju Jiang, Ben Li, Wei Zhou, Xiao-Xiao Long, Cheng Lin, Paper: [https://arxiv.org/abs/2605.17853](https://arxiv.org/abs/2605.17853), 20 pages, 8 figures, including supplementary material. Project page: https://rangeryx-66.github.io/CelloCut/
+- 2026-05-18, **Quantum Doubly Stochastic Operators on Non-commutative $L_p$ -Spaces**, Emma Sulaver, Paper: [https://arxiv.org/abs/2605.17711](https://arxiv.org/abs/2605.17711)
+- 2026-05-17, **All Quantum Probability viewed in Complex Projective Geometry**, Stephen Bruce Sontz, Paper: [https://arxiv.org/abs/2605.17578](https://arxiv.org/abs/2605.17578), 12 pages
+- 2026-05-17, **TriOpt: A Scalable Algorithm for Linear Causal Discovery**, Rafat Ashraf Joy, Elena Zheleva, Paper: [https://arxiv.org/abs/2605.17465](https://arxiv.org/abs/2605.17465)
+- 2026-05-15, **On ultraproduct approximations and property (T) factors**, Jesse Peterson, Paper: [https://arxiv.org/abs/2605.16669](https://arxiv.org/abs/2605.16669)
+- 2026-05-15, **When Symmetries Twist: Anomaly Inflow on Monodromy Defects**, Christian Copetti, Paper: [https://arxiv.org/abs/2605.16482](https://arxiv.org/abs/2605.16482), 35 pages + figures and appendices, comments welcome!
 - 2026-05-15, **Non-Invertible Symmetries in Compactified Supergravities**, Fabián Caro-Pérez, María Pilar García del Moral, Álvaro Restuccia, Paper: [https://arxiv.org/abs/2605.16188](https://arxiv.org/abs/2605.16188), Latex,21 pages
 - 2026-05-15, **Boundary anomalous dimensions from BCFT: $φ^{3}$ theories with a boundary and higher-derivative generalizations**, Yongwei Guo, Wenliang Li, Paper: [https://arxiv.org/abs/2605.16119](https://arxiv.org/abs/2605.16119), 29 pages, 1 figure
 - 2026-05-15, **Duality of analytic Hopf algebras and the Amice transform**, Luca Collauto, Paper: [https://arxiv.org/abs/2605.16063](https://arxiv.org/abs/2605.16063), 62 pages
@@ -1486,5 +1494,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
