@@ -1,4 +1,4 @@
-> Automatically updated on 2026.05.19
+> Automatically updated on 2026.05.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-19, **Complex deformations of the circle: Group cohomology and Virasoro uniformization**, Sid Maibach, Eveliina Peltola, Paper: [https://arxiv.org/abs/2605.20175](https://arxiv.org/abs/2605.20175), 48 pages, 8 figures, comments welcome!
+- 2026-05-19, **The Hitchin and Knizhnik-Zamolodchikov connections are projectively equivalent in the genus zero case**, Jørgen Ellegaard Andersen, Tim Henke, Paper: [https://arxiv.org/abs/2605.20097](https://arxiv.org/abs/2605.20097)
+- 2026-05-19, **Stringy T-duality on the lattice and the twisted Villain model**, Coraline Bacq, Alessio Caddeo, Saskia Demulder, Johanna Erdmenger, Paper: [https://arxiv.org/abs/2605.19925](https://arxiv.org/abs/2605.19925), 39 pages, 3 figures
+- 2026-05-19, **Reduction and inverse-reduction functors I: standard $\mathsf{V^k}(\mathfrak{sl}_2)$ -modules**, Justine Fasquel, Ethan Fursman, David Ridout, Paper: [https://arxiv.org/abs/2605.19708](https://arxiv.org/abs/2605.19708)
+- 2026-05-19, **Modified logarithmic Sobolev inequalities for Abelian quantum double models**, Sebastian Stengele, Ángela Capel, Li Gao, Angelo Lucia, David Pérez-García, Antonio Pérez-Hernández, Cambyse Rouzé, Simone Warzel, Paper: [https://arxiv.org/abs/2605.19640](https://arxiv.org/abs/2605.19640), 22 pages, 2 figures
+- 2026-05-19, **Non-invertible Symmetries in Weyl Fermions, and Applications to Fermion-Boundary Scattering Problem**, Pengcheng Wei, Yunqin Zheng, Paper: [https://arxiv.org/abs/2605.19363](https://arxiv.org/abs/2605.19363)
+- 2026-05-18, **Floquet-Engineered Odd-Parity Altermagnetic Higher-Order Topology in a Two-Dimensional Antiferromagnet Cr $_2$CH$_2$**, Xiaorong Zou, Hyeon Suk Shin, Baibiao Huang, Yanmei Zang, Ying Dai, Chengwang Niu, Chang-Jong Kang, Chang Woo Myung, Paper: [https://arxiv.org/abs/2605.19184](https://arxiv.org/abs/2605.19184)
+- 2026-05-18, **Modular Self-Duality, Symmetrized Relative Entropy, and Bogoliubov--Kubo--Mori Susceptibility in Quantum Field Theory**, Rupak Chatterjee, Paper: [https://arxiv.org/abs/2605.19106](https://arxiv.org/abs/2605.19106), 23 pages, 1 table
+- 2026-05-18, **Quasinormal modes of Proca and Maxwell fields in $d$ -dimensional Schwarzschild-AdS black holes**, David C. Lopes, Tiago V. Fernandes, José P. S. Lemos, Paper: [https://arxiv.org/abs/2605.18947](https://arxiv.org/abs/2605.18947), 31 pages, 5 figures
 - 2026-05-18, **Modular Lower Bounds on Reeh-Schlieder State Preparation**, Javier Blanco-Romero, Florina Almenares Mendoza, Paper: [https://arxiv.org/abs/2605.18640](https://arxiv.org/abs/2605.18640)
 - 2026-05-18, **Taming the 3D Wilson-Fisher Fixed Point via Nonlocal Effective Action**, Hyeon Jung Kim, Seung-Jong Yoo, Jinmo Bok, Lemuel John Sese, Semin Park, Ki-Seok Kim, Paper: [https://arxiv.org/abs/2605.18148](https://arxiv.org/abs/2605.18148)
 - 2026-05-18, **Chern classes of Laughlin bundles on the quasihole moduli space**, Florent Dupont, Semyon Klevtsov, Paper: [https://arxiv.org/abs/2605.18089](https://arxiv.org/abs/2605.18089), 30 pages. Comments welcome!
@@ -1495,5 +1504,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
 

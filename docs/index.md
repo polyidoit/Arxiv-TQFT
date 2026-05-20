@@ -1,7 +1,16 @@
-> Automatically updated on 2026.05.19
+> Automatically updated on 2026.05.20
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-19**|**Complex deformations of the circle: Group cohomology and Virasoro uniformization**|Sid Maibach, Eveliina Peltola|[2605.20175](https://arxiv.org/abs/2605.20175)|null|
+|**2026-05-19**|**The Hitchin and Knizhnik-Zamolodchikov connections are projectively equivalent in the genus zero case**|Jørgen Ellegaard Andersen, Tim Henke|[2605.20097](https://arxiv.org/abs/2605.20097)|null|
+|**2026-05-19**|**Stringy T-duality on the lattice and the twisted Villain model**|Coraline Bacq, Alessio Caddeo, Saskia Demulder, Johanna Erdmenger|[2605.19925](https://arxiv.org/abs/2605.19925)|null|
+|**2026-05-19**|**Reduction and inverse-reduction functors I: standard $\mathsf{V^k}(\mathfrak{sl}_2)$ -modules**|Justine Fasquel, Ethan Fursman, David Ridout|[2605.19708](https://arxiv.org/abs/2605.19708)|null|
+|**2026-05-19**|**Modified logarithmic Sobolev inequalities for Abelian quantum double models**|Sebastian Stengele, Ángela Capel, Li Gao, Angelo Lucia, David Pérez-García, Antonio Pérez-Hernández, Cambyse Rouzé, Simone Warzel|[2605.19640](https://arxiv.org/abs/2605.19640)|null|
+|**2026-05-19**|**Non-invertible Symmetries in Weyl Fermions, and Applications to Fermion-Boundary Scattering Problem**|Pengcheng Wei, Yunqin Zheng|[2605.19363](https://arxiv.org/abs/2605.19363)|null|
+|**2026-05-18**|**Floquet-Engineered Odd-Parity Altermagnetic Higher-Order Topology in a Two-Dimensional Antiferromagnet Cr $_2$CH$_2$**|Xiaorong Zou, Hyeon Suk Shin, Baibiao Huang, Yanmei Zang, Ying Dai, Chengwang Niu, Chang-Jong Kang, Chang Woo Myung|[2605.19184](https://arxiv.org/abs/2605.19184)|null|
+|**2026-05-18**|**Modular Self-Duality, Symmetrized Relative Entropy, and Bogoliubov--Kubo--Mori Susceptibility in Quantum Field Theory**|Rupak Chatterjee|[2605.19106](https://arxiv.org/abs/2605.19106)|null|
+|**2026-05-18**|**Quasinormal modes of Proca and Maxwell fields in $d$ -dimensional Schwarzschild-AdS black holes**|David C. Lopes, Tiago V. Fernandes, José P. S. Lemos|[2605.18947](https://arxiv.org/abs/2605.18947)|null|
 |**2026-05-18**|**Modular Lower Bounds on Reeh-Schlieder State Preparation**|Javier Blanco-Romero, Florina Almenares Mendoza|[2605.18640](https://arxiv.org/abs/2605.18640)|null|
 |**2026-05-18**|**Taming the 3D Wilson-Fisher Fixed Point via Nonlocal Effective Action**|Hyeon Jung Kim, Seung-Jong Yoo, Jinmo Bok, Lemuel John Sese, Semin Park, Ki-Seok Kim|[2605.18148](https://arxiv.org/abs/2605.18148)|null|
 |**2026-05-18**|**Chern classes of Laughlin bundles on the quasihole moduli space**|Florent Dupont, Semyon Klevtsov|[2605.18089](https://arxiv.org/abs/2605.18089)|null|
