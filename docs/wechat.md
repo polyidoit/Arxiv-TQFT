@@ -1,4 +1,4 @@
-> Automatically updated on 2026.05.20
+> Automatically updated on 2026.05.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-20, **Universal fusion category symmetries on tensor products of infinite-dimensional Hilbert spaces**, Ian Bunner, Corey Jones, Paper: [https://arxiv.org/abs/2605.21327](https://arxiv.org/abs/2605.21327)
+- 2026-05-20, **Towards transistor-based quantum computing**, Y. -D. Liu, X. Xu, Q. -R. Wang, D. -S. Wang, Paper: [https://arxiv.org/abs/2605.21045](https://arxiv.org/abs/2605.21045)
+- 2026-05-20, **Unifying Plasticity in Ordered and Disordered Matter using Topological and Geometrical Descriptors**, Xin Wang, Yang Xu, Jin Shang, Yi Xing, Jie Zhang, Yujie Wang, Walter Kob, Matteo Baggioli, Paper: [https://arxiv.org/abs/2605.20847](https://arxiv.org/abs/2605.20847), v1: comments welcome
+- 2026-05-20, **Topological Field Theories and the Algebraic Structures of the Two-Sphere**, Chris Li, Paper: [https://arxiv.org/abs/2605.20846](https://arxiv.org/abs/2605.20846), 99 pages
+- 2026-05-20, **Fusion of Integrable Defects and the Defect $g$ -Function**, Yang He, Yunfeng Jiang, Yuxiao Liu, Paper: [https://arxiv.org/abs/2605.20688](https://arxiv.org/abs/2605.20688), 49 pages, 16 figures
+- 2026-05-19, **The Causal Bootstrap: Bounding Smeared Spectral Functions from Non-Perturbative Euclidean Data**, Ryan Abbott, Sarah Fields, William I. Jay, Patrick Oare, Matteo Saccardi, Paper: [https://arxiv.org/abs/2605.20509](https://arxiv.org/abs/2605.20509), 21 pages, 4 Figures
+- 2026-05-19, **Velocity collapse and non-conformal spiral phase in the sawtooth spin chain**, Nai Chao Hu, Paper: [https://arxiv.org/abs/2605.20343](https://arxiv.org/abs/2605.20343), 7 pages, 3 figures
+- 2026-05-19, **Textured phase diagrams of featureless insulators**, Sashank Singam, Nick G. Jones, Abhishodh Prakash, Paper: [https://arxiv.org/abs/2605.20339](https://arxiv.org/abs/2605.20339), 26 pages, 26 figures
 - 2026-05-19, **Complex deformations of the circle: Group cohomology and Virasoro uniformization**, Sid Maibach, Eveliina Peltola, Paper: [https://arxiv.org/abs/2605.20175](https://arxiv.org/abs/2605.20175), 48 pages, 8 figures, comments welcome!
 - 2026-05-19, **The Hitchin and Knizhnik-Zamolodchikov connections are projectively equivalent in the genus zero case**, Jørgen Ellegaard Andersen, Tim Henke, Paper: [https://arxiv.org/abs/2605.20097](https://arxiv.org/abs/2605.20097)
 - 2026-05-19, **Stringy T-duality on the lattice and the twisted Villain model**, Coraline Bacq, Alessio Caddeo, Saskia Demulder, Johanna Erdmenger, Paper: [https://arxiv.org/abs/2605.19925](https://arxiv.org/abs/2605.19925), 39 pages, 3 figures
@@ -1504,5 +1512,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.05.20
+> Automatically updated on 2026.05.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Universal fusion category symmetries on tensor products of infinite-dimensional Hilbert spaces**|Ian Bunner, Corey Jones|[2605.21327](https://arxiv.org/abs/2605.21327)|null|
+|**2026-05-20**|**Towards transistor-based quantum computing**|Y. -D. Liu, X. Xu, Q. -R. Wang, D. -S. Wang|[2605.21045](https://arxiv.org/abs/2605.21045)|null|
+|**2026-05-20**|**Unifying Plasticity in Ordered and Disordered Matter using Topological and Geometrical Descriptors**|Xin Wang, Yang Xu, Jin Shang, Yi Xing, Jie Zhang, Yujie Wang, Walter Kob, Matteo Baggioli|[2605.20847](https://arxiv.org/abs/2605.20847)|null|
+|**2026-05-20**|**Topological Field Theories and the Algebraic Structures of the Two-Sphere**|Chris Li|[2605.20846](https://arxiv.org/abs/2605.20846)|null|
+|**2026-05-20**|**Fusion of Integrable Defects and the Defect $g$ -Function**|Yang He, Yunfeng Jiang, Yuxiao Liu|[2605.20688](https://arxiv.org/abs/2605.20688)|null|
+|**2026-05-19**|**The Causal Bootstrap: Bounding Smeared Spectral Functions from Non-Perturbative Euclidean Data**|Ryan Abbott, Sarah Fields, William I. Jay, Patrick Oare, Matteo Saccardi|[2605.20509](https://arxiv.org/abs/2605.20509)|null|
+|**2026-05-19**|**Velocity collapse and non-conformal spiral phase in the sawtooth spin chain**|Nai Chao Hu|[2605.20343](https://arxiv.org/abs/2605.20343)|null|
+|**2026-05-19**|**Textured phase diagrams of featureless insulators**|Sashank Singam, Nick G. Jones, Abhishodh Prakash|[2605.20339](https://arxiv.org/abs/2605.20339)|null|
 |**2026-05-19**|**Complex deformations of the circle: Group cohomology and Virasoro uniformization**|Sid Maibach, Eveliina Peltola|[2605.20175](https://arxiv.org/abs/2605.20175)|null|
 |**2026-05-19**|**The Hitchin and Knizhnik-Zamolodchikov connections are projectively equivalent in the genus zero case**|Jørgen Ellegaard Andersen, Tim Henke|[2605.20097](https://arxiv.org/abs/2605.20097)|null|
 |**2026-05-19**|**Stringy T-duality on the lattice and the twisted Villain model**|Coraline Bacq, Alessio Caddeo, Saskia Demulder, Johanna Erdmenger|[2605.19925](https://arxiv.org/abs/2605.19925)|null|
@@ -2303,5 +2311,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260521>back to top</a>)</p>
 
