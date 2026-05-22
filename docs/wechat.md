@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-21, **Generation of Quantum Turbulence by Neutrino Cooling in Neutron Stars**, J. A. Sauls, Paper: [https://arxiv.org/abs/2605.22768](https://arxiv.org/abs/2605.22768), 8 pages, 5 figures
+- 2026-05-21, **Self-testing of exact entanglement embezzlement**, Samuel J. Harris, Paper: [https://arxiv.org/abs/2605.22713](https://arxiv.org/abs/2605.22713), 31 pages
+- 2026-05-21, **Topological Thermodynamics of Generalized Bardeen Black Hole**, A. A. M. Silva, M. H. Macedo, R. R. Landim, Paper: [https://arxiv.org/abs/2605.22686](https://arxiv.org/abs/2605.22686), 13 pages, 4 figures
+- 2026-05-21, **Shading A-polynomials via huge representations of $U_q(\mathfrak{su}_N)$**, Dmitry Galakhov, Alexei Morozov, Paper: [https://arxiv.org/abs/2605.22560](https://arxiv.org/abs/2605.22560), 36 pages, 7 figures
+- 2026-05-21, **Current-driven reduction of topological protection in multichannel superconductors**, Alfonso Maiellaro, Paper: [https://arxiv.org/abs/2605.22460](https://arxiv.org/abs/2605.22460), 8 pages, 5 figures
+- 2026-05-21, **A perturbative approach to the Wetterich equation for Bosonic and Fermionic interacting fields**, Beatrice Costeri, Paper: [https://arxiv.org/abs/2605.22436](https://arxiv.org/abs/2605.22436), 58 pages
+- 2026-05-21, **Long-range nonstabilizerness of topologically encoded states from mutual information**, David Aram Korbany, Tyler D. Ellison, David T. Stephen, Lorenzo Piroli, Paper: [https://arxiv.org/abs/2605.22424](https://arxiv.org/abs/2605.22424), 20 pages, 6 figures
+- 2026-05-21, **Entanglement viscosity to entropy density ratio for spin-3/2 theory**, R. V. Khakimov, G. Yu. Prokhorov, O. V. Teryaev, Paper: [https://arxiv.org/abs/2605.22409](https://arxiv.org/abs/2605.22409), 21 pages
+- 2026-05-21, **Quantum invariants of flat 2-bundles over 3-manifolds**, Kursat Sozer, Alexis Virelizier, Paper: [https://arxiv.org/abs/2605.22405](https://arxiv.org/abs/2605.22405), 44 pages
+- 2026-05-21, **dSABRE: A SABRE-Style Router for Multi-Core Distributed Quantum Computers**, Sanjiang Li, Paper: [https://arxiv.org/abs/2605.21960](https://arxiv.org/abs/2605.21960), 12 pages, 4 figures
 - 2026-05-20, **Universal fusion category symmetries on tensor products of infinite-dimensional Hilbert spaces**, Ian Bunner, Corey Jones, Paper: [https://arxiv.org/abs/2605.21327](https://arxiv.org/abs/2605.21327)
 - 2026-05-20, **Towards transistor-based quantum computing**, Y. -D. Liu, X. Xu, Q. -R. Wang, D. -S. Wang, Paper: [https://arxiv.org/abs/2605.21045](https://arxiv.org/abs/2605.21045)
 - 2026-05-20, **Unifying Plasticity in Ordered and Disordered Matter using Topological and Geometrical Descriptors**, Xin Wang, Yang Xu, Jin Shang, Yi Xing, Jie Zhang, Yujie Wang, Walter Kob, Matteo Baggioli, Paper: [https://arxiv.org/abs/2605.20847](https://arxiv.org/abs/2605.20847), v1: comments welcome
