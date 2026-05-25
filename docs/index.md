@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-22**|**A new Ising/tricritical-Ising interface: From ${W}_3$ symmetry to Rydberg atoms**|António Antunes, Junchen Rong|[2605.23848](https://arxiv.org/abs/2605.23848)|null|
+|**2026-05-22**|**Multi-flux Aharonov-Bohm caging with tunable couplings**|Le-Chuan Wang, Sai Li, Jia Liu, Zheng-Yuan Xue|[2605.23546](https://arxiv.org/abs/2605.23546)|null|
+|**2026-05-22**|**Quasi-Poisson varieties from double quasi-Poisson algebras in types $B,C,D$**|Semeon Arthamonov, Maxime Fairon|[2605.23369](https://arxiv.org/abs/2605.23369)|null|
+|**2026-05-22**|**Memory-driven topological ordering during the transition from dormant to migrating epithelia**|Richard Ho, Anna Lång, Emma Lång, Stig Ove Bøe, Luiza Angheluta|[2605.23339](https://arxiv.org/abs/2605.23339)|null|
+|**2026-05-22**|**Local-Observable-Guided Generative Quantum Circuits for Degenerate Ground Spaces**|Yiying Chen, Lingxia Zhang, Yanzheng Zhu, Kaiyan Yang, Xiao Zeng, Zizhu Wang|[2605.23300](https://arxiv.org/abs/2605.23300)|null|
+|**2026-05-21**|**Scale-Invariant Open Quantum Systems**|Carlos Argüelles, Gabriela Barenboim, Gonzalo Herrera, Tanvi Krishnan, Héctor Sanchis|[2605.22919](https://arxiv.org/abs/2605.22919)|null|
 |**2026-05-21**|**Generation of Quantum Turbulence by Neutrino Cooling in Neutron Stars**|J. A. Sauls|[2605.22768](https://arxiv.org/abs/2605.22768)|null|
 |**2026-05-21**|**Self-testing of exact entanglement embezzlement**|Samuel J. Harris|[2605.22713](https://arxiv.org/abs/2605.22713)|null|
 |**2026-05-21**|**Topological Thermodynamics of Generalized Bardeen Black Hole**|A. A. M. Silva, M. H. Macedo, R. R. Landim|[2605.22686](https://arxiv.org/abs/2605.22686)|null|

@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-22, **A new Ising/tricritical-Ising interface: From ${W}_3$ symmetry to Rydberg atoms**, António Antunes, Junchen Rong, Paper: [https://arxiv.org/abs/2605.23848](https://arxiv.org/abs/2605.23848), 6 pages, 6 figures, 4 appendices
+- 2026-05-22, **Multi-flux Aharonov-Bohm caging with tunable couplings**, Le-Chuan Wang, Sai Li, Jia Liu, Zheng-Yuan Xue, Paper: [https://arxiv.org/abs/2605.23546](https://arxiv.org/abs/2605.23546), 9 pages, 8 figures
+- 2026-05-22, **Quasi-Poisson varieties from double quasi-Poisson algebras in types $B,C,D$**, Semeon Arthamonov, Maxime Fairon, Paper: [https://arxiv.org/abs/2605.23369](https://arxiv.org/abs/2605.23369), 43 pages, 1 figure. Comments are more than welcome!
+- 2026-05-22, **Memory-driven topological ordering during the transition from dormant to migrating epithelia**, Richard Ho, Anna Lång, Emma Lång, Stig Ove Bøe, Luiza Angheluta, Paper: [https://arxiv.org/abs/2605.23339](https://arxiv.org/abs/2605.23339)
+- 2026-05-22, **Local-Observable-Guided Generative Quantum Circuits for Degenerate Ground Spaces**, Yiying Chen, Lingxia Zhang, Yanzheng Zhu, Kaiyan Yang, Xiao Zeng, Zizhu Wang, Paper: [https://arxiv.org/abs/2605.23300](https://arxiv.org/abs/2605.23300), 17 pages, 15 figures
+- 2026-05-21, **Scale-Invariant Open Quantum Systems**, Carlos Argüelles, Gabriela Barenboim, Gonzalo Herrera, Tanvi Krishnan, Héctor Sanchis, Paper: [https://arxiv.org/abs/2605.22919](https://arxiv.org/abs/2605.22919), 45 pages, 3 figures
 - 2026-05-21, **Generation of Quantum Turbulence by Neutrino Cooling in Neutron Stars**, J. A. Sauls, Paper: [https://arxiv.org/abs/2605.22768](https://arxiv.org/abs/2605.22768), 8 pages, 5 figures
 - 2026-05-21, **Self-testing of exact entanglement embezzlement**, Samuel J. Harris, Paper: [https://arxiv.org/abs/2605.22713](https://arxiv.org/abs/2605.22713), 31 pages
 - 2026-05-21, **Topological Thermodynamics of Generalized Bardeen Black Hole**, A. A. M. Silva, M. H. Macedo, R. R. Landim, Paper: [https://arxiv.org/abs/2605.22686](https://arxiv.org/abs/2605.22686), 13 pages, 4 figures
