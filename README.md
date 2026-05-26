@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-25**|**Intersecting Surface Operators in 6d Holomorphic Field Theories**|Meer Ashwinkumar|[2605.26080](https://arxiv.org/abs/2605.26080)|null|
+|**2026-05-25**|**Magneto-optic phonon resonances in magnetic topological EuCd2As2 via helical Raman spectroscopy**|Jin Ho Kang, Liangbo Liang, Ioannis Petrides, Kai-Chi Chang, Subhajit Roychowdhury, Chandra Shekhar, Claudia Felser, Prineha Narang, Chee Wei Wong|[2605.26073](https://arxiv.org/abs/2605.26073)|null|
+|**2026-05-25**|**Topology of pulsating active matter: Defect asymmetry controls emergent motility**|Luca Casagrande, Alessandro Manacorda, Etienne Fodor|[2605.25996](https://arxiv.org/abs/2605.25996)|null|
+|**2026-05-25**|**Native topological readout on qubit hardware: a Fibonacci-chain benchmark of measurement-compilation trade-offs**|Babatunde Moses Ayeni|[2605.25913](https://arxiv.org/abs/2605.25913)|null|
+|**2026-05-25**|**Elliptic Generalization of Cherednik-Macdonald-Mehta identities**|Shamil Shakirov|[2605.25908](https://arxiv.org/abs/2605.25908)|null|
+|**2026-05-25**|**On the Relation Between String Order Parameters, Entanglement, and Dynamical Quantum Phase Transitions in Topological Dynamics**|Sirshendu Bhattacharyya, Szczepan Głodzik, Nicholas Sedlmayr|[2605.25611](https://arxiv.org/abs/2605.25611)|null|
+|**2026-05-25**|**A sweeping twist defect as a topological flagellum that drives colloid motion**|Qi Xing Zhang, Claire Dore, Mojtaba Rajabi, Edward B. Steager, Kathleen J. Stebe|[2605.25606](https://arxiv.org/abs/2605.25606)|null|
+|**2026-05-25**|**Compactified imaginary Toda theory**|Yi-An Yao|[2605.25494](https://arxiv.org/abs/2605.25494)|null|
+|**2026-05-25**|**The Diagrammar of Quantum Magnusian**|Li Guo, Joon-Hwi Kim, Jung-Wook Kim, Sungsoo Kim, Sangmin Lee, Jian-Rong Li|[2605.25473](https://arxiv.org/abs/2605.25473)|null|
+|**2026-05-24**|**Defect Conformal Manifolds along RG Domain Walls between $\mathbb Z_N$ -Parafermions and Minimal Models**|Jin-Rui Zhang, Jing-Hao Jin, Ting-Kai Chen, Jin Chen|[2605.24978](https://arxiv.org/abs/2605.24978)|null|
 |**2026-05-22**|**A new Ising/tricritical-Ising interface: From ${W}_3$ symmetry to Rydberg atoms**|António Antunes, Junchen Rong|[2605.23848](https://arxiv.org/abs/2605.23848)|null|
 |**2026-05-22**|**Multi-flux Aharonov-Bohm caging with tunable couplings**|Le-Chuan Wang, Sai Li, Jia Liu, Zheng-Yuan Xue|[2605.23546](https://arxiv.org/abs/2605.23546)|null|
 |**2026-05-22**|**Quasi-Poisson varieties from double quasi-Poisson algebras in types $B,C,D$**|Semeon Arthamonov, Maxime Fairon|[2605.23369](https://arxiv.org/abs/2605.23369)|null|

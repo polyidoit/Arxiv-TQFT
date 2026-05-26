@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-25, **Intersecting Surface Operators in 6d Holomorphic Field Theories**, Meer Ashwinkumar, Paper: [https://arxiv.org/abs/2605.26080](https://arxiv.org/abs/2605.26080), 26 pages, 4 figures
+- 2026-05-25, **Magneto-optic phonon resonances in magnetic topological EuCd2As2 via helical Raman spectroscopy**, Jin Ho Kang, Liangbo Liang, Ioannis Petrides, Kai-Chi Chang, Subhajit Roychowdhury, Chandra Shekhar, Claudia Felser, Prineha Narang, Chee Wei Wong, Paper: [https://arxiv.org/abs/2605.26073](https://arxiv.org/abs/2605.26073), 20 page, 4 figures
+- 2026-05-25, **Topology of pulsating active matter: Defect asymmetry controls emergent motility**, Luca Casagrande, Alessandro Manacorda, Etienne Fodor, Paper: [https://arxiv.org/abs/2605.25996](https://arxiv.org/abs/2605.25996)
+- 2026-05-25, **Native topological readout on qubit hardware: a Fibonacci-chain benchmark of measurement-compilation trade-offs**, Babatunde Moses Ayeni, Paper: [https://arxiv.org/abs/2605.25913](https://arxiv.org/abs/2605.25913), 16 pgs, 8 figs, 3 tabs
+- 2026-05-25, **Elliptic Generalization of Cherednik-Macdonald-Mehta identities**, Shamil Shakirov, Paper: [https://arxiv.org/abs/2605.25908](https://arxiv.org/abs/2605.25908), 14 pages
+- 2026-05-25, **On the Relation Between String Order Parameters, Entanglement, and Dynamical Quantum Phase Transitions in Topological Dynamics**, Sirshendu Bhattacharyya, Szczepan Głodzik, Nicholas Sedlmayr, Paper: [https://arxiv.org/abs/2605.25611](https://arxiv.org/abs/2605.25611)
+- 2026-05-25, **A sweeping twist defect as a topological flagellum that drives colloid motion**, Qi Xing Zhang, Claire Dore, Mojtaba Rajabi, Edward B. Steager, Kathleen J. Stebe, Paper: [https://arxiv.org/abs/2605.25606](https://arxiv.org/abs/2605.25606), 37 pages, 5 figures, Supplementary Information included, 15 supplementary figures, 8 ancillary movies
+- 2026-05-25, **Compactified imaginary Toda theory**, Yi-An Yao, Paper: [https://arxiv.org/abs/2605.25494](https://arxiv.org/abs/2605.25494), 68 pages
+- 2026-05-25, **The Diagrammar of Quantum Magnusian**, Li Guo, Joon-Hwi Kim, Jung-Wook Kim, Sungsoo Kim, Sangmin Lee, Jian-Rong Li, Paper: [https://arxiv.org/abs/2605.25473](https://arxiv.org/abs/2605.25473), 37 pages, 31 figures
+- 2026-05-24, **Defect Conformal Manifolds along RG Domain Walls between $\mathbb Z_N$ -Parafermions and Minimal Models**, Jin-Rui Zhang, Jing-Hao Jin, Ting-Kai Chen, Jin Chen, Paper: [https://arxiv.org/abs/2605.24978](https://arxiv.org/abs/2605.24978), 23 pages plus 4 appendices
 - 2026-05-22, **A new Ising/tricritical-Ising interface: From ${W}_3$ symmetry to Rydberg atoms**, António Antunes, Junchen Rong, Paper: [https://arxiv.org/abs/2605.23848](https://arxiv.org/abs/2605.23848), 6 pages, 6 figures, 4 appendices
 - 2026-05-22, **Multi-flux Aharonov-Bohm caging with tunable couplings**, Le-Chuan Wang, Sai Li, Jia Liu, Zheng-Yuan Xue, Paper: [https://arxiv.org/abs/2605.23546](https://arxiv.org/abs/2605.23546), 9 pages, 8 figures
 - 2026-05-22, **Quasi-Poisson varieties from double quasi-Poisson algebras in types $B,C,D$**, Semeon Arthamonov, Maxime Fairon, Paper: [https://arxiv.org/abs/2605.23369](https://arxiv.org/abs/2605.23369), 43 pages, 1 figure. Comments are more than welcome!
