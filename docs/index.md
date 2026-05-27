@@ -1,9 +1,16 @@
-> Automatically updated on 2026.05.26
+> Automatically updated on 2026.05.27
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-26**|**Algebras of order parameters in one-dimensional spin systems**|Ameya Chavda, Clement Delcamp, Alex Turzillo, Minyoung You|[2605.27193](https://arxiv.org/abs/2605.27193)|null|
+|**2026-05-26**|**Vertex operator algebras, partition functions and Teichmüller modular forms**|Sebastiano Carpi, Giulio Codogni|[2605.26972](https://arxiv.org/abs/2605.26972)|null|
+|**2026-05-26**|**Learning a directed acyclic graph with additive heteroscedastic errors**|Xintao Xia, Li Chen, Yue Hu, Chunlin Li|[2605.26515](https://arxiv.org/abs/2605.26515)|null|
+|**2026-05-25**|**Holographic Thermodynamic Signatures of Simpson--Visser--AdS Black Holes**|Saeed Noori Gashti, Behnam Pourhassan, Izzet Sakalli|[2605.26300](https://arxiv.org/abs/2605.26300)|null|
+|**2026-05-25**|**Krylov Complexity in Periodically Driven CFTs and Critical Fermions**|Ankit Gill, Anurag Sarkar|[2605.26250](https://arxiv.org/abs/2605.26250)|null|
+|**2026-05-25**|**$S$ -duality, boundary states, and higher-form symmetries on ALE spaces**|Mohamed M. Anber|[2605.26224](https://arxiv.org/abs/2605.26224)|null|
+|**2026-05-25**|**Fermion Families and Pontryagin Class: Topological Field Theory via Colour Symmetry Extension**|Zheyan Wan, Juven Wang, Shing-Tung Yau|[2605.26202](https://arxiv.org/abs/2605.26202)|null|
 |**2026-05-25**|**Intersecting Surface Operators in 6d Holomorphic Field Theories**|Meer Ashwinkumar|[2605.26080](https://arxiv.org/abs/2605.26080)|null|
-|**2026-05-25**|**Magneto-optic phonon resonances in magnetic topological EuCd2As2 via helical Raman spectroscopy**|Jin Ho Kang, Liangbo Liang, Ioannis Petrides, Kai-Chi Chang, Subhajit Roychowdhury, Chandra Shekhar, Claudia Felser, Prineha Narang, Chee Wei Wong|[2605.26073](https://arxiv.org/abs/2605.26073)|null|
+|**2026-05-26**|**Magneto-optic phonon resonances in magnetic topological EuCd2As2 via helical Raman spectroscopy**|Jin Ho Kang, Liangbo Liang, Ioannis Petrides, Subhajit Roychowdhury, Kai-Chi Chang, Chandra Shekhar, Claudia Felser, Prineha Narang, Chee Wei Wong|[2605.26073](https://arxiv.org/abs/2605.26073)|null|
 |**2026-05-25**|**Topology of pulsating active matter: Defect asymmetry controls emergent motility**|Luca Casagrande, Alessandro Manacorda, Etienne Fodor|[2605.25996](https://arxiv.org/abs/2605.25996)|null|
 |**2026-05-25**|**Native topological readout on qubit hardware: a Fibonacci-chain benchmark of measurement-compilation trade-offs**|Babatunde Moses Ayeni|[2605.25913](https://arxiv.org/abs/2605.25913)|null|
 |**2026-05-25**|**Elliptic Generalization of Cherednik-Macdonald-Mehta identities**|Shamil Shakirov|[2605.25908](https://arxiv.org/abs/2605.25908)|null|

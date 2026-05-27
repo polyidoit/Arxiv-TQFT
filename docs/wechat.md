@@ -1,4 +1,4 @@
-> Automatically updated on 2026.05.26
+> Automatically updated on 2026.05.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,8 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-26, **Algebras of order parameters in one-dimensional spin systems**, Ameya Chavda, Clement Delcamp, Alex Turzillo, Minyoung You, Paper: [https://arxiv.org/abs/2605.27193](https://arxiv.org/abs/2605.27193)
+- 2026-05-26, **Vertex operator algebras, partition functions and Teichmüller modular forms**, Sebastiano Carpi, Giulio Codogni, Paper: [https://arxiv.org/abs/2605.26972](https://arxiv.org/abs/2605.26972)
+- 2026-05-26, **Learning a directed acyclic graph with additive heteroscedastic errors**, Xintao Xia, Li Chen, Yue Hu, Chunlin Li, Paper: [https://arxiv.org/abs/2605.26515](https://arxiv.org/abs/2605.26515), 33 pages, 4 figures
+- 2026-05-25, **Holographic Thermodynamic Signatures of Simpson--Visser--AdS Black Holes**, Saeed Noori Gashti, Behnam Pourhassan, Izzet Sakalli, Paper: [https://arxiv.org/abs/2605.26300](https://arxiv.org/abs/2605.26300), 27 pages, 13 figures
+- 2026-05-25, **Krylov Complexity in Periodically Driven CFTs and Critical Fermions**, Ankit Gill, Anurag Sarkar, Paper: [https://arxiv.org/abs/2605.26250](https://arxiv.org/abs/2605.26250), 46 pages, 25 figures
+- 2026-05-25, **$S$ -duality, boundary states, and higher-form symmetries on ALE spaces**, Mohamed M. Anber, Paper: [https://arxiv.org/abs/2605.26224](https://arxiv.org/abs/2605.26224), 40 pages+appendices, 4 figures
+- 2026-05-25, **Fermion Families and Pontryagin Class: Topological Field Theory via Colour Symmetry Extension**, Zheyan Wan, Juven Wang, Shing-Tung Yau, Paper: [https://arxiv.org/abs/2605.26202](https://arxiv.org/abs/2605.26202), 40 pages. Sequel to arXiv:2312.14928, arXiv:2502.21319
 - 2026-05-25, **Intersecting Surface Operators in 6d Holomorphic Field Theories**, Meer Ashwinkumar, Paper: [https://arxiv.org/abs/2605.26080](https://arxiv.org/abs/2605.26080), 26 pages, 4 figures
-- 2026-05-25, **Magneto-optic phonon resonances in magnetic topological EuCd2As2 via helical Raman spectroscopy**, Jin Ho Kang, Liangbo Liang, Ioannis Petrides, Kai-Chi Chang, Subhajit Roychowdhury, Chandra Shekhar, Claudia Felser, Prineha Narang, Chee Wei Wong, Paper: [https://arxiv.org/abs/2605.26073](https://arxiv.org/abs/2605.26073), 20 page, 4 figures
+- 2026-05-26, **Magneto-optic phonon resonances in magnetic topological EuCd2As2 via helical Raman spectroscopy**, Jin Ho Kang, Liangbo Liang, Ioannis Petrides, Subhajit Roychowdhury, Kai-Chi Chang, Chandra Shekhar, Claudia Felser, Prineha Narang, Chee Wei Wong, Paper: [https://arxiv.org/abs/2605.26073](https://arxiv.org/abs/2605.26073), 20+9 page, 4+9 figures, 2 tables
 - 2026-05-25, **Topology of pulsating active matter: Defect asymmetry controls emergent motility**, Luca Casagrande, Alessandro Manacorda, Etienne Fodor, Paper: [https://arxiv.org/abs/2605.25996](https://arxiv.org/abs/2605.25996)
 - 2026-05-25, **Native topological readout on qubit hardware: a Fibonacci-chain benchmark of measurement-compilation trade-offs**, Babatunde Moses Ayeni, Paper: [https://arxiv.org/abs/2605.25913](https://arxiv.org/abs/2605.25913), 16 pgs, 8 figs, 3 tabs
 - 2026-05-25, **Elliptic Generalization of Cherednik-Macdonald-Mehta identities**, Shamil Shakirov, Paper: [https://arxiv.org/abs/2605.25908](https://arxiv.org/abs/2605.25908), 14 pages
@@ -1538,5 +1545,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
