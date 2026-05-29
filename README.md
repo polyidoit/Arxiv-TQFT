@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**The Continuum Limit Analysis of Causal Fermion Systems for Curved Spacetimes**|Patrick Fischer, Felix Finster|[2605.30199](https://arxiv.org/abs/2605.30199)|null|
+|**2026-05-28**|**Coupling Higher Form Structures of the EFT of Force Free Electrodynamics to Gravity**|Harsh Anand|[2605.30098](https://arxiv.org/abs/2605.30098)|null|
+|**2026-05-28**|**Differential graded Hopf algebra structure on free symmetric cosimplicial operads**|Calvin Tcheka, Batkam Mbatchou V. Jacky, Guy R. Biyogmam|[2605.29878](https://arxiv.org/abs/2605.29878)|null|
+|**2026-05-28**|**Higher Wess-Zumino-Witten term from semistrict higher Chern-Simons theory**|Mengyao Wu|[2605.29282](https://arxiv.org/abs/2605.29282)|null|
+|**2026-05-28**|**A Lorentzian construction of timelike Liouville field theory on the cylinder**|Sourav Chatterjee|[2605.29203](https://arxiv.org/abs/2605.29203)|null|
+|**2026-05-27**|**Local Strong-to-Weak Spontaneous Symmetry Breaking**|Francisco Divi, Leonardo A. Lessa, Chong Wang|[2605.28967](https://arxiv.org/abs/2605.28967)|null|
+|**2026-05-27**|**Constrained integrability and anyonic chains**|Matthew Blakeney, Luke Corcoran, Marius de Leeuw|[2605.28946](https://arxiv.org/abs/2605.28946)|null|
+|**2026-05-27**|**Dynamical Entanglement Phase Transitions in Holographic CFTs**|Joseph Dominicus Lap, Jad C. Halimeh, David Horn, Lukas Ebner, Clemens Seidl, Berndt Müller, Andreas Schäfer, Jakob Minar|[2605.28939](https://arxiv.org/abs/2605.28939)|null|
+|**2026-05-27**|**Analytic Bootstrap for $O(N)$ Boundary Conformal Field Theories with Interacting Boundaries**|Xinyu Sun, Shao-Kai Jian, Hong Yao|[2605.28933](https://arxiv.org/abs/2605.28933)|null|
+|**2026-05-27**|**Improving CFT Operators Using Machine Learning**|Lior Oppenheim, Snir Gazit, Zohar Ringel|[2605.28929](https://arxiv.org/abs/2605.28929)|null|
 |**2026-05-26**|**Algebras of order parameters in one-dimensional spin systems**|Ameya Chavda, Clement Delcamp, Alex Turzillo, Minyoung You|[2605.27193](https://arxiv.org/abs/2605.27193)|null|
 |**2026-05-26**|**Vertex operator algebras, partition functions and Teichmüller modular forms**|Sebastiano Carpi, Giulio Codogni|[2605.26972](https://arxiv.org/abs/2605.26972)|null|
 |**2026-05-26**|**Learning a directed acyclic graph with additive heteroscedastic errors**|Xintao Xia, Li Chen, Yue Hu, Chunlin Li|[2605.26515](https://arxiv.org/abs/2605.26515)|null|

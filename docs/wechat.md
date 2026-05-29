@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-28, **The Continuum Limit Analysis of Causal Fermion Systems for Curved Spacetimes**, Patrick Fischer, Felix Finster, Paper: [https://arxiv.org/abs/2605.30199](https://arxiv.org/abs/2605.30199), 39 pages
+- 2026-05-28, **Coupling Higher Form Structures of the EFT of Force Free Electrodynamics to Gravity**, Harsh Anand, Paper: [https://arxiv.org/abs/2605.30098](https://arxiv.org/abs/2605.30098)
+- 2026-05-28, **Differential graded Hopf algebra structure on free symmetric cosimplicial operads**, Calvin Tcheka, Batkam Mbatchou V. Jacky, Guy R. Biyogmam, Paper: [https://arxiv.org/abs/2605.29878](https://arxiv.org/abs/2605.29878)
+- 2026-05-28, **Higher Wess-Zumino-Witten term from semistrict higher Chern-Simons theory**, Mengyao Wu, Paper: [https://arxiv.org/abs/2605.29282](https://arxiv.org/abs/2605.29282)
+- 2026-05-28, **A Lorentzian construction of timelike Liouville field theory on the cylinder**, Sourav Chatterjee, Paper: [https://arxiv.org/abs/2605.29203](https://arxiv.org/abs/2605.29203), 119 pages, 2 figures
+- 2026-05-27, **Local Strong-to-Weak Spontaneous Symmetry Breaking**, Francisco Divi, Leonardo A. Lessa, Chong Wang, Paper: [https://arxiv.org/abs/2605.28967](https://arxiv.org/abs/2605.28967), 31 pages, 12 figures
+- 2026-05-27, **Constrained integrability and anyonic chains**, Matthew Blakeney, Luke Corcoran, Marius de Leeuw, Paper: [https://arxiv.org/abs/2605.28946](https://arxiv.org/abs/2605.28946)
+- 2026-05-27, **Dynamical Entanglement Phase Transitions in Holographic CFTs**, Joseph Dominicus Lap, Jad C. Halimeh, David Horn, Lukas Ebner, Clemens Seidl, Berndt Müller, Andreas Schäfer, Jakob Minar, Paper: [https://arxiv.org/abs/2605.28939](https://arxiv.org/abs/2605.28939), 26 pages, 19 figures
+- 2026-05-27, **Analytic Bootstrap for $O(N)$ Boundary Conformal Field Theories with Interacting Boundaries**, Xinyu Sun, Shao-Kai Jian, Hong Yao, Paper: [https://arxiv.org/abs/2605.28933](https://arxiv.org/abs/2605.28933), 25 pages, 6 figures
+- 2026-05-27, **Improving CFT Operators Using Machine Learning**, Lior Oppenheim, Snir Gazit, Zohar Ringel, Paper: [https://arxiv.org/abs/2605.28929](https://arxiv.org/abs/2605.28929)
 - 2026-05-26, **Algebras of order parameters in one-dimensional spin systems**, Ameya Chavda, Clement Delcamp, Alex Turzillo, Minyoung You, Paper: [https://arxiv.org/abs/2605.27193](https://arxiv.org/abs/2605.27193)
 - 2026-05-26, **Vertex operator algebras, partition functions and Teichmüller modular forms**, Sebastiano Carpi, Giulio Codogni, Paper: [https://arxiv.org/abs/2605.26972](https://arxiv.org/abs/2605.26972)
 - 2026-05-26, **Learning a directed acyclic graph with additive heteroscedastic errors**, Xintao Xia, Li Chen, Yue Hu, Chunlin Li, Paper: [https://arxiv.org/abs/2605.26515](https://arxiv.org/abs/2605.26515), 33 pages, 4 figures
