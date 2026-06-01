@@ -1,7 +1,15 @@
-> Automatically updated on 2026.05.31
+> Automatically updated on 2026.06.01
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-05-29**|**Twin Algebras: Condensable Algebras beyond Anyons**|Yuhan Gai, Sakura Schafer-Nameki, Alison Warman|[2605.31602](https://arxiv.org/abs/2605.31602)|null|
+|**2026-05-29**|**Two roles of Alexander in two Kashaev phases**|Dmitry Galakhov, Alexei Morozov|[2605.31588](https://arxiv.org/abs/2605.31588)|null|
+|**2026-05-29**|**Intrinsic locality dimension of quantum codes**|Yimin Lu, Esther Xiaozhen Fu, Zi-Wen Liu|[2605.31441](https://arxiv.org/abs/2605.31441)|null|
+|**2026-05-29**|**Seeded bubble nucleation on the lattice**|Simone Blasi, Andreas Ekstedt, Jaakko Hällfors, Kari Rummukainen|[2605.31194](https://arxiv.org/abs/2605.31194)|null|
+|**2026-05-29**|**Novel energy preserving bijections between affine crystals for $U_q(\widehat{\mathfrak{sl}}_2)$ and integer partitions**|Sota Miyazawa, Taichiro Takagi|[2605.30806](https://arxiv.org/abs/2605.30806)|null|
+|**2026-05-28**|**Attention-based optimizer for symmetry finding**|Shreya Banerjee, Vinodh Raj Rajagopal Muthu, Charlie Nation, Rick P. A. Simon, Francesco Martini, Alessandro Ricottone, Federico Cerisola, Luca Dellantonio|[2605.30429](https://arxiv.org/abs/2605.30429)|null|
+|**2026-05-28**|**Hodge Loci and Complex Multiplication via Generalized Symmetries in Calabi-Yau sigma models**|Roberta Angius, Roberto Volpato|[2605.30418](https://arxiv.org/abs/2605.30418)|null|
+|**2026-05-28**|**Quark-Lepton Color-Flavor Unification**|Antonio Delgado, Seth Koren|[2605.30413](https://arxiv.org/abs/2605.30413)|null|
 |**2026-05-28**|**The Continuum Limit Analysis of Causal Fermion Systems for Curved Spacetimes**|Patrick Fischer, Felix Finster|[2605.30199](https://arxiv.org/abs/2605.30199)|null|
 |**2026-05-28**|**Coupling Higher Form Structures of the EFT of Force Free Electrodynamics to Gravity**|Harsh Anand|[2605.30098](https://arxiv.org/abs/2605.30098)|null|
 |**2026-05-28**|**Differential graded Hopf algebra structure on free symmetric cosimplicial operads**|Calvin Tcheka, Batkam Mbatchou V. Jacky, Guy R. Biyogmam|[2605.29878](https://arxiv.org/abs/2605.29878)|null|

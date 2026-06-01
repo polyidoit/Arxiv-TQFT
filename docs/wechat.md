@@ -1,4 +1,4 @@
-> Automatically updated on 2026.05.31
+> Automatically updated on 2026.06.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-05-29, **Twin Algebras: Condensable Algebras beyond Anyons**, Yuhan Gai, Sakura Schafer-Nameki, Alison Warman, Paper: [https://arxiv.org/abs/2605.31602](https://arxiv.org/abs/2605.31602), 37 pages, 3 ancillary files
+- 2026-05-29, **Two roles of Alexander in two Kashaev phases**, Dmitry Galakhov, Alexei Morozov, Paper: [https://arxiv.org/abs/2605.31588](https://arxiv.org/abs/2605.31588), 20 pages, 3 figures
+- 2026-05-29, **Intrinsic locality dimension of quantum codes**, Yimin Lu, Esther Xiaozhen Fu, Zi-Wen Liu, Paper: [https://arxiv.org/abs/2605.31441](https://arxiv.org/abs/2605.31441), 36 pages, 8 figures
+- 2026-05-29, **Seeded bubble nucleation on the lattice**, Simone Blasi, Andreas Ekstedt, Jaakko Hällfors, Kari Rummukainen, Paper: [https://arxiv.org/abs/2605.31194](https://arxiv.org/abs/2605.31194)
+- 2026-05-29, **Novel energy preserving bijections between affine crystals for $U_q(\widehat{\mathfrak{sl}}_2)$ and integer partitions**, Sota Miyazawa, Taichiro Takagi, Paper: [https://arxiv.org/abs/2605.30806](https://arxiv.org/abs/2605.30806), 20 pages, 7 figures
+- 2026-05-28, **Attention-based optimizer for symmetry finding**, Shreya Banerjee, Vinodh Raj Rajagopal Muthu, Charlie Nation, Rick P. A. Simon, Francesco Martini, Alessandro Ricottone, Federico Cerisola, Luca Dellantonio, Paper: [https://arxiv.org/abs/2605.30429](https://arxiv.org/abs/2605.30429), 9+4 pages, 2 Figures, Comments welcome
+- 2026-05-28, **Hodge Loci and Complex Multiplication via Generalized Symmetries in Calabi-Yau sigma models**, Roberta Angius, Roberto Volpato, Paper: [https://arxiv.org/abs/2605.30418](https://arxiv.org/abs/2605.30418), 34 pages + appendices
+- 2026-05-28, **Quark-Lepton Color-Flavor Unification**, Antonio Delgado, Seth Koren, Paper: [https://arxiv.org/abs/2605.30413](https://arxiv.org/abs/2605.30413), 18 pages, 7 figures, 4 tables
 - 2026-05-28, **The Continuum Limit Analysis of Causal Fermion Systems for Curved Spacetimes**, Patrick Fischer, Felix Finster, Paper: [https://arxiv.org/abs/2605.30199](https://arxiv.org/abs/2605.30199), 39 pages
 - 2026-05-28, **Coupling Higher Form Structures of the EFT of Force Free Electrodynamics to Gravity**, Harsh Anand, Paper: [https://arxiv.org/abs/2605.30098](https://arxiv.org/abs/2605.30098)
 - 2026-05-28, **Differential graded Hopf algebra structure on free symmetric cosimplicial operads**, Calvin Tcheka, Batkam Mbatchou V. Jacky, Guy R. Biyogmam, Paper: [https://arxiv.org/abs/2605.29878](https://arxiv.org/abs/2605.29878)
@@ -1555,5 +1563,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
