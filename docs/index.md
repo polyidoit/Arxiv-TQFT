@@ -1,7 +1,17 @@
-> Automatically updated on 2026.06.05
+> Automatically updated on 2026.06.06
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-04**|**Breakeven demonstration of quantum low-density parity-check codes**|Edwin Tham, Michael L. Goldman, Shantanu Debnath, Ashay N. Patel, Jyothi Saraladevi, Jason Nguyen, Erik Nielsen, Neal Pisenti, Kenneth Wright, John Gamble, Nicolas Delfosse|[2606.06455](https://arxiv.org/abs/2606.06455)|null|
+|**2026-06-04**|**$E_\infty^{1,2}$ -type Lieb-Schultz-Mattis anomalies, deconfined quantum critical points, and non-invertible symmetry breaking**|Hao-Ran Zhang, Hanlin Lin, Shuo Yang, Qing-Rui Wang|[2606.06343](https://arxiv.org/abs/2606.06343)|null|
+|**2026-06-04**|**Spinning bulk-to-boundary correlators in the massless theories with Poincaré symmetry**|Jiang Long, Yu-Xuan Wei, Xin-Hao Zhou|[2606.06326](https://arxiv.org/abs/2606.06326)|null|
+|**2026-06-04**|**Understanding deconfined quantum critical points from crystalline categorical Landau paradigm**|Hiromi Ebisu, Bo Han, Weiguang Cao|[2606.05856](https://arxiv.org/abs/2606.05856)|null|
+|**2026-06-04**|**Gauging the Spacetime Code**|Gideon Lee|[2606.05664](https://arxiv.org/abs/2606.05664)|null|
+|**2026-06-04**|**Charting the different phases of Yang-Mills-Chern-Simons-Higgs theories**|Daniel O. R. Azevedo, Gustavo P. de Brito, Philipe De Fabritiis, Antonio D. Pereira|[2606.05562](https://arxiv.org/abs/2606.05562)|null|
+|**2026-06-04**|**Notes on (-2)-form symmetries**|Pinak Banerjee, Alonso Perez-Lona, Daniel Robbins, Subham Roy, Eric Sharpe, Xingyang Yu|[2606.05543](https://arxiv.org/abs/2606.05543)|null|
+|**2026-06-03**|**Hypergroup Symmetry in Relative Quantum Field Theories and Chiral Algebras**|Terry Gannon, Brandon C. Rayhaun|[2606.05279](https://arxiv.org/abs/2606.05279)|null|
+|**2026-06-03**|**Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations**|Luke Thompson, Dai Shi, Lequan Lin, Junbin Gao, Andi Han|[2606.05272](https://arxiv.org/abs/2606.05272)|null|
+|**2026-06-03**|**Cooper quartets and fractional vortices in frustrated Josephson junction dice arrays**|Erik Lennart Weerda, Olav F. Syljuåsen, Matteo Rizzi, Michele Burrello|[2606.04958](https://arxiv.org/abs/2606.04958)|null|
 |**2026-05-29**|**Twin Algebras: Condensable Algebras beyond Anyons**|Yuhan Gai, Sakura Schafer-Nameki, Alison Warman|[2605.31602](https://arxiv.org/abs/2605.31602)|null|
 |**2026-05-29**|**Two roles of Alexander in two Kashaev phases**|Dmitry Galakhov, Alexei Morozov|[2605.31588](https://arxiv.org/abs/2605.31588)|null|
 |**2026-05-29**|**Intrinsic locality dimension of quantum codes**|Yimin Lu, Esther Xiaozhen Fu, Zi-Wen Liu|[2605.31441](https://arxiv.org/abs/2605.31441)|null|

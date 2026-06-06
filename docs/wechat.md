@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.05
+> Automatically updated on 2026.06.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-04, **Breakeven demonstration of quantum low-density parity-check codes**, Edwin Tham, Michael L. Goldman, Shantanu Debnath, Ashay N. Patel, Jyothi Saraladevi, Jason Nguyen, Erik Nielsen, Neal Pisenti, Kenneth Wright, John Gamble, Nicolas Delfosse, Paper: [https://arxiv.org/abs/2606.06455](https://arxiv.org/abs/2606.06455)
+- 2026-06-04, **$E_\infty^{1,2}$ -type Lieb-Schultz-Mattis anomalies, deconfined quantum critical points, and non-invertible symmetry breaking**, Hao-Ran Zhang, Hanlin Lin, Shuo Yang, Qing-Rui Wang, Paper: [https://arxiv.org/abs/2606.06343](https://arxiv.org/abs/2606.06343), 54 pages, 6 figures, many tables
+- 2026-06-04, **Spinning bulk-to-boundary correlators in the massless theories with Poincaré symmetry**, Jiang Long, Yu-Xuan Wei, Xin-Hao Zhou, Paper: [https://arxiv.org/abs/2606.06326](https://arxiv.org/abs/2606.06326), 62 pages
+- 2026-06-04, **Understanding deconfined quantum critical points from crystalline categorical Landau paradigm**, Hiromi Ebisu, Bo Han, Weiguang Cao, Paper: [https://arxiv.org/abs/2606.05856](https://arxiv.org/abs/2606.05856), 13 pages, 4 figures
+- 2026-06-04, **Gauging the Spacetime Code**, Gideon Lee, Paper: [https://arxiv.org/abs/2606.05664](https://arxiv.org/abs/2606.05664), 40 pages, 17 figures
+- 2026-06-04, **Charting the different phases of Yang-Mills-Chern-Simons-Higgs theories**, Daniel O. R. Azevedo, Gustavo P. de Brito, Philipe De Fabritiis, Antonio D. Pereira, Paper: [https://arxiv.org/abs/2606.05562](https://arxiv.org/abs/2606.05562), 12 pages + references, 9 figures
+- 2026-06-04, **Notes on (-2)-form symmetries**, Pinak Banerjee, Alonso Perez-Lona, Daniel Robbins, Subham Roy, Eric Sharpe, Xingyang Yu, Paper: [https://arxiv.org/abs/2606.05543](https://arxiv.org/abs/2606.05543), 58 pages, 10 figures
+- 2026-06-03, **Hypergroup Symmetry in Relative Quantum Field Theories and Chiral Algebras**, Terry Gannon, Brandon C. Rayhaun, Paper: [https://arxiv.org/abs/2606.05279](https://arxiv.org/abs/2606.05279), 104 pages + appendices, 49 figures, comments welcome
+- 2026-06-03, **Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations**, Luke Thompson, Dai Shi, Lequan Lin, Junbin Gao, Andi Han, Paper: [https://arxiv.org/abs/2606.05272](https://arxiv.org/abs/2606.05272), Accepted at ICML 2026
+- 2026-06-03, **Cooper quartets and fractional vortices in frustrated Josephson junction dice arrays**, Erik Lennart Weerda, Olav F. Syljuåsen, Matteo Rizzi, Michele Burrello, Paper: [https://arxiv.org/abs/2606.04958](https://arxiv.org/abs/2606.04958)
 - 2026-05-29, **Twin Algebras: Condensable Algebras beyond Anyons**, Yuhan Gai, Sakura Schafer-Nameki, Alison Warman, Paper: [https://arxiv.org/abs/2605.31602](https://arxiv.org/abs/2605.31602), 37 pages, 3 ancillary files
 - 2026-05-29, **Two roles of Alexander in two Kashaev phases**, Dmitry Galakhov, Alexei Morozov, Paper: [https://arxiv.org/abs/2605.31588](https://arxiv.org/abs/2605.31588), 20 pages, 3 figures
 - 2026-05-29, **Intrinsic locality dimension of quantum codes**, Yimin Lu, Esther Xiaozhen Fu, Zi-Wen Liu, Paper: [https://arxiv.org/abs/2605.31441](https://arxiv.org/abs/2605.31441), 36 pages, 8 figures
@@ -1563,5 +1573,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260606>back to top</a>)</p>
 
