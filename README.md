@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.06.07
+> Automatically updated on 2026.06.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Boundary criticality in the Gross-Neveu-Yukawa model at higher orders**|Oleksandr Diatlyk, Simone Giombi, Zimo Sun|[2606.07510](https://arxiv.org/abs/2606.07510)|null|
+|**2026-06-05**|**The hyperfinite II $_1$ -factor is Ulam stable**|Vadim Alekseev, Andreas Thom|[2606.07369](https://arxiv.org/abs/2606.07369)|null|
+|**2026-06-05**|**Polyhedral models for K-theory of toric and flag varieties**|Leonid Monin, Evgeny Smirnov|[2606.07142](https://arxiv.org/abs/2606.07142)|null|
+|**2026-06-05**|**Mutual Information Optimization via K-Recursion and Automatic Differentiation for Linear Gaussian Wireless Networks**|Tadashi Wadayama, Na Siqi|[2606.06982](https://arxiv.org/abs/2606.06982)|null|
 |**2026-06-04**|**Breakeven demonstration of quantum low-density parity-check codes**|Edwin Tham, Michael L. Goldman, Shantanu Debnath, Ashay N. Patel, Jyothi Saraladevi, Jason Nguyen, Erik Nielsen, Neal Pisenti, Kenneth Wright, John Gamble, Nicolas Delfosse|[2606.06455](https://arxiv.org/abs/2606.06455)|null|
 |**2026-06-04**|**$E_\infty^{1,2}$ -type Lieb-Schultz-Mattis anomalies, deconfined quantum critical points, and non-invertible symmetry breaking**|Hao-Ran Zhang, Hanlin Lin, Shuo Yang, Qing-Rui Wang|[2606.06343](https://arxiv.org/abs/2606.06343)|null|
 |**2026-06-04**|**Spinning bulk-to-boundary correlators in the massless theories with Poincaré symmetry**|Jiang Long, Yu-Xuan Wei, Xin-Hao Zhou|[2606.06326](https://arxiv.org/abs/2606.06326)|null|
@@ -2372,5 +2376,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 

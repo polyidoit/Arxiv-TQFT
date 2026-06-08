@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.07
+> Automatically updated on 2026.06.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-05, **Boundary criticality in the Gross-Neveu-Yukawa model at higher orders**, Oleksandr Diatlyk, Simone Giombi, Zimo Sun, Paper: [https://arxiv.org/abs/2606.07510](https://arxiv.org/abs/2606.07510), 36+9 pages
+- 2026-06-05, **The hyperfinite II $_1$ -factor is Ulam stable**, Vadim Alekseev, Andreas Thom, Paper: [https://arxiv.org/abs/2606.07369](https://arxiv.org/abs/2606.07369), 32 pages
+- 2026-06-05, **Polyhedral models for K-theory of toric and flag varieties**, Leonid Monin, Evgeny Smirnov, Paper: [https://arxiv.org/abs/2606.07142](https://arxiv.org/abs/2606.07142), 26 pages; comments welcome
+- 2026-06-05, **Mutual Information Optimization via K-Recursion and Automatic Differentiation for Linear Gaussian Wireless Networks**, Tadashi Wadayama, Na Siqi, Paper: [https://arxiv.org/abs/2606.06982](https://arxiv.org/abs/2606.06982)
 - 2026-06-04, **Breakeven demonstration of quantum low-density parity-check codes**, Edwin Tham, Michael L. Goldman, Shantanu Debnath, Ashay N. Patel, Jyothi Saraladevi, Jason Nguyen, Erik Nielsen, Neal Pisenti, Kenneth Wright, John Gamble, Nicolas Delfosse, Paper: [https://arxiv.org/abs/2606.06455](https://arxiv.org/abs/2606.06455)
 - 2026-06-04, **$E_\infty^{1,2}$ -type Lieb-Schultz-Mattis anomalies, deconfined quantum critical points, and non-invertible symmetry breaking**, Hao-Ran Zhang, Hanlin Lin, Shuo Yang, Qing-Rui Wang, Paper: [https://arxiv.org/abs/2606.06343](https://arxiv.org/abs/2606.06343), 54 pages, 6 figures, many tables
 - 2026-06-04, **Spinning bulk-to-boundary correlators in the massless theories with Poincaré symmetry**, Jiang Long, Yu-Xuan Wei, Xin-Hao Zhou, Paper: [https://arxiv.org/abs/2606.06326](https://arxiv.org/abs/2606.06326), 62 pages
@@ -1573,5 +1577,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
