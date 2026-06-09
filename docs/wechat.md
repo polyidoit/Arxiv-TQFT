@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-08, **Persistent currents, whirlpools, and local Chern markers in twisted TMD Chern insulators**, Francesco Cioni, Lorenzo Cavicchi, Nazzareno Africani, Giacomo Mazza, Fabio Taddei, Amir Yacoby, Marco Polini, Paper: [https://arxiv.org/abs/2606.09812](https://arxiv.org/abs/2606.09812), 7 pages, 4 figures + Supplemental Material
+- 2026-06-08, **Topological defects and scalar field modes in warped geometries**, A. A. Saharian, E. L. Karapetyan, G. V. Mirzoyan, Paper: [https://arxiv.org/abs/2606.09781](https://arxiv.org/abs/2606.09781), 16 pages, no figures
+- 2026-06-08, **Codifferential Calculi on Quantum Homogeneous Spaces**, Julius Benner, Paper: [https://arxiv.org/abs/2606.09687](https://arxiv.org/abs/2606.09687), 58 pages, comments welcome!
 - 2026-06-08, **The dynamic 4.8.8 Floquet code**, Aliki A. Capatos, Paper: [https://arxiv.org/abs/2606.09678](https://arxiv.org/abs/2606.09678), 15 pages, 7 figures
 - 2026-06-08, **Uniformly recurrent subalgebras in finite von Neumann algebras**, Tattwamasi Amrutam, Pierre Fima, Yongle Jiang, Paper: [https://arxiv.org/abs/2606.09673](https://arxiv.org/abs/2606.09673), 52 pages; preliminary version. Comments are welcome
 - 2026-06-08, **Experimental observation of hyperbolic spacetime dynamics**, Jonas Himmel, Coraline Bacq, Krishna Chand Maurya, Max Ehrhardt, Matthias Heinrich, Tom A. W. Wolterink, Pablo Basteiro, Rathindra Nath Das, René Meyer, Tobias Huber-Loyola, Andreas Pfenning, Sven Höfling, Johanna Erdmenger, Alexander Szameit, Paper: [https://arxiv.org/abs/2606.09501](https://arxiv.org/abs/2606.09501)

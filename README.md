@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**Persistent currents, whirlpools, and local Chern markers in twisted TMD Chern insulators**|Francesco Cioni, Lorenzo Cavicchi, Nazzareno Africani, Giacomo Mazza, Fabio Taddei, Amir Yacoby, Marco Polini|[2606.09812](https://arxiv.org/abs/2606.09812)|null|
+|**2026-06-08**|**Topological defects and scalar field modes in warped geometries**|A. A. Saharian, E. L. Karapetyan, G. V. Mirzoyan|[2606.09781](https://arxiv.org/abs/2606.09781)|null|
+|**2026-06-08**|**Codifferential Calculi on Quantum Homogeneous Spaces**|Julius Benner|[2606.09687](https://arxiv.org/abs/2606.09687)|null|
 |**2026-06-08**|**The dynamic 4.8.8 Floquet code**|Aliki A. Capatos|[2606.09678](https://arxiv.org/abs/2606.09678)|null|
 |**2026-06-08**|**Uniformly recurrent subalgebras in finite von Neumann algebras**|Tattwamasi Amrutam, Pierre Fima, Yongle Jiang|[2606.09673](https://arxiv.org/abs/2606.09673)|null|
 |**2026-06-08**|**Experimental observation of hyperbolic spacetime dynamics**|Jonas Himmel, Coraline Bacq, Krishna Chand Maurya, Max Ehrhardt, Matthias Heinrich, Tom A. W. Wolterink, Pablo Basteiro, Rathindra Nath Das, René Meyer, Tobias Huber-Loyola, Andreas Pfenning, Sven Höfling, Johanna Erdmenger, Alexander Szameit|[2606.09501](https://arxiv.org/abs/2606.09501)|null|
