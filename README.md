@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.06.08
+> Automatically updated on 2026.06.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**The dynamic 4.8.8 Floquet code**|Aliki A. Capatos|[2606.09678](https://arxiv.org/abs/2606.09678)|null|
+|**2026-06-08**|**Uniformly recurrent subalgebras in finite von Neumann algebras**|Tattwamasi Amrutam, Pierre Fima, Yongle Jiang|[2606.09673](https://arxiv.org/abs/2606.09673)|null|
+|**2026-06-08**|**Experimental observation of hyperbolic spacetime dynamics**|Jonas Himmel, Coraline Bacq, Krishna Chand Maurya, Max Ehrhardt, Matthias Heinrich, Tom A. W. Wolterink, Pablo Basteiro, Rathindra Nath Das, René Meyer, Tobias Huber-Loyola, Andreas Pfenning, Sven Höfling, Johanna Erdmenger, Alexander Szameit|[2606.09501](https://arxiv.org/abs/2606.09501)|null|
+|**2026-06-08**|**Curvature-guided topology and self-assembly in chiral nematics and liquid-crystal colloids**|Ivan I. Smalyukh, Mykola Tasinkevych|[2606.09265](https://arxiv.org/abs/2606.09265)|null|
+|**2026-06-08**|**Braided cohomology of quasi-triangular bialgebras and braided Morita invariance**|Shota Inoue, Ayako Itaba|[2606.09107](https://arxiv.org/abs/2606.09107)|null|
+|**2026-06-08**|**Notes on gamma invariants of finite dimensional Hopf algebras**|Xinru Zhang, Libin Li, Yinhuo Zhang|[2606.09069](https://arxiv.org/abs/2606.09069)|null|
+|**2026-06-08**|**Superconducting diode effect in magnetic superconductors realized by nonreciprocal domain-wall dynamics**|Dong Hui Han, Suk Bum Chung, Se Kwon Kim|[2606.08999](https://arxiv.org/abs/2606.08999)|null|
+|**2026-06-07**|**Semi-universality of conformal higher-derivative and conformal higher-spin fields**|Jyotirmoy Mukherjee, Pabitra Ray|[2606.08461](https://arxiv.org/abs/2606.08461)|null|
+|**2026-06-06**|**Translationally Covariant Modulated Symmetries: Classification and Goldstone**|Bo-Ting Chen, Zihan Zhou, Biao Lian|[2606.07952](https://arxiv.org/abs/2606.07952)|null|
 |**2026-06-05**|**Boundary criticality in the Gross-Neveu-Yukawa model at higher orders**|Oleksandr Diatlyk, Simone Giombi, Zimo Sun|[2606.07510](https://arxiv.org/abs/2606.07510)|null|
 |**2026-06-05**|**The hyperfinite II $_1$ -factor is Ulam stable**|Vadim Alekseev, Andreas Thom|[2606.07369](https://arxiv.org/abs/2606.07369)|null|
 |**2026-06-05**|**Polyhedral models for K-theory of toric and flag varieties**|Leonid Monin, Evgeny Smirnov|[2606.07142](https://arxiv.org/abs/2606.07142)|null|
@@ -2376,5 +2385,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 

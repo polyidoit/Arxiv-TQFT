@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.08
+> Automatically updated on 2026.06.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-08, **The dynamic 4.8.8 Floquet code**, Aliki A. Capatos, Paper: [https://arxiv.org/abs/2606.09678](https://arxiv.org/abs/2606.09678), 15 pages, 7 figures
+- 2026-06-08, **Uniformly recurrent subalgebras in finite von Neumann algebras**, Tattwamasi Amrutam, Pierre Fima, Yongle Jiang, Paper: [https://arxiv.org/abs/2606.09673](https://arxiv.org/abs/2606.09673), 52 pages; preliminary version. Comments are welcome
+- 2026-06-08, **Experimental observation of hyperbolic spacetime dynamics**, Jonas Himmel, Coraline Bacq, Krishna Chand Maurya, Max Ehrhardt, Matthias Heinrich, Tom A. W. Wolterink, Pablo Basteiro, Rathindra Nath Das, René Meyer, Tobias Huber-Loyola, Andreas Pfenning, Sven Höfling, Johanna Erdmenger, Alexander Szameit, Paper: [https://arxiv.org/abs/2606.09501](https://arxiv.org/abs/2606.09501)
+- 2026-06-08, **Curvature-guided topology and self-assembly in chiral nematics and liquid-crystal colloids**, Ivan I. Smalyukh, Mykola Tasinkevych, Paper: [https://arxiv.org/abs/2606.09265](https://arxiv.org/abs/2606.09265), 43 pages, 24 figures
+- 2026-06-08, **Braided cohomology of quasi-triangular bialgebras and braided Morita invariance**, Shota Inoue, Ayako Itaba, Paper: [https://arxiv.org/abs/2606.09107](https://arxiv.org/abs/2606.09107), 36 pages. Comments welcome!
+- 2026-06-08, **Notes on gamma invariants of finite dimensional Hopf algebras**, Xinru Zhang, Libin Li, Yinhuo Zhang, Paper: [https://arxiv.org/abs/2606.09069](https://arxiv.org/abs/2606.09069), 14 pages
+- 2026-06-08, **Superconducting diode effect in magnetic superconductors realized by nonreciprocal domain-wall dynamics**, Dong Hui Han, Suk Bum Chung, Se Kwon Kim, Paper: [https://arxiv.org/abs/2606.08999](https://arxiv.org/abs/2606.08999)
+- 2026-06-07, **Semi-universality of conformal higher-derivative and conformal higher-spin fields**, Jyotirmoy Mukherjee, Pabitra Ray, Paper: [https://arxiv.org/abs/2606.08461](https://arxiv.org/abs/2606.08461), 46 pages, 2 tables
+- 2026-06-06, **Translationally Covariant Modulated Symmetries: Classification and Goldstone**, Bo-Ting Chen, Zihan Zhou, Biao Lian, Paper: [https://arxiv.org/abs/2606.07952](https://arxiv.org/abs/2606.07952)
 - 2026-06-05, **Boundary criticality in the Gross-Neveu-Yukawa model at higher orders**, Oleksandr Diatlyk, Simone Giombi, Zimo Sun, Paper: [https://arxiv.org/abs/2606.07510](https://arxiv.org/abs/2606.07510), 36+9 pages
 - 2026-06-05, **The hyperfinite II $_1$ -factor is Ulam stable**, Vadim Alekseev, Andreas Thom, Paper: [https://arxiv.org/abs/2606.07369](https://arxiv.org/abs/2606.07369), 32 pages
 - 2026-06-05, **Polyhedral models for K-theory of toric and flag varieties**, Leonid Monin, Evgeny Smirnov, Paper: [https://arxiv.org/abs/2606.07142](https://arxiv.org/abs/2606.07142), 26 pages; comments welcome
@@ -1577,5 +1586,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
