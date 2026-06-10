@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.06.09
+> Automatically updated on 2026.06.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**A quiver approach to quasi-quantum groups with the Chevalley property**|Jing Yu|[2606.10946](https://arxiv.org/abs/2606.10946)|null|
+|**2026-06-09**|**Spacetime from Operator Algebras**|Vyshnav Mohan, Larus Thorlacius|[2606.10924](https://arxiv.org/abs/2606.10924)|null|
+|**2026-06-09**|**Chiral Plasma under Strong Magnetic Fields: A Holographic Analysis of Transport Phenomena**|Michael Lublinsky, Hadas Tzarfati|[2606.10689](https://arxiv.org/abs/2606.10689)|null|
+|**2026-06-09**|**Hawking--Page Universality, Thermodynamic Dipoles and Categorical Defects**|Emilio Torrente-Lujan|[2606.10680](https://arxiv.org/abs/2606.10680)|null|
+|**2026-06-08**|**Amenable absorption in von Neumann algebras of hyperbolic groups**|Juan Felipe Ariza Mejia, Ionut Chifan, Adriana Fernandez Quero, Adrian Ioana|[2606.10105](https://arxiv.org/abs/2606.10105)|null|
+|**2026-06-08**|**Distribution of Majorana modes in the extended-range Kitaev chain**|Pedro B. Widniczck, Gerardo Martínez|[2606.10043](https://arxiv.org/abs/2606.10043)|null|
+|**2026-06-08**|**Exactly solvable non-planar $\mathbb{Z}_{2}$ dimer liquids on checkerboard and ruby lattices**|Julia Wildeboer, Zohar Nussinov, Thomas Iadecola, Alexander Seidel|[2606.10003](https://arxiv.org/abs/2606.10003)|null|
+|**2026-06-08**|**Bootstrap Cone of the Multicritical Deconfined Quantum Critical Point**|Zhijin Li, Tinhong Shen|[2606.09985](https://arxiv.org/abs/2606.09985)|null|
 |**2026-06-08**|**Persistent currents, whirlpools, and local Chern markers in twisted TMD Chern insulators**|Francesco Cioni, Lorenzo Cavicchi, Nazzareno Africani, Giacomo Mazza, Fabio Taddei, Amir Yacoby, Marco Polini|[2606.09812](https://arxiv.org/abs/2606.09812)|null|
 |**2026-06-08**|**Topological defects and scalar field modes in warped geometries**|A. A. Saharian, E. L. Karapetyan, G. V. Mirzoyan|[2606.09781](https://arxiv.org/abs/2606.09781)|null|
 |**2026-06-08**|**Codifferential Calculi on Quantum Homogeneous Spaces**|Julius Benner|[2606.09687](https://arxiv.org/abs/2606.09687)|null|
@@ -2388,5 +2396,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 

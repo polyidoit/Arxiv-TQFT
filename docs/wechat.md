@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.09
+> Automatically updated on 2026.06.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-09, **A quiver approach to quasi-quantum groups with the Chevalley property**, Jing Yu, Paper: [https://arxiv.org/abs/2606.10946](https://arxiv.org/abs/2606.10946), 60pages,comments welcome
+- 2026-06-09, **Spacetime from Operator Algebras**, Vyshnav Mohan, Larus Thorlacius, Paper: [https://arxiv.org/abs/2606.10924](https://arxiv.org/abs/2606.10924), 41 pages and 3 figures
+- 2026-06-09, **Chiral Plasma under Strong Magnetic Fields: A Holographic Analysis of Transport Phenomena**, Michael Lublinsky, Hadas Tzarfati, Paper: [https://arxiv.org/abs/2606.10689](https://arxiv.org/abs/2606.10689), 36 pages
+- 2026-06-09, **Hawking--Page Universality, Thermodynamic Dipoles and Categorical Defects**, Emilio Torrente-Lujan, Paper: [https://arxiv.org/abs/2606.10680](https://arxiv.org/abs/2606.10680)
+- 2026-06-08, **Amenable absorption in von Neumann algebras of hyperbolic groups**, Juan Felipe Ariza Mejia, Ionut Chifan, Adriana Fernandez Quero, Adrian Ioana, Paper: [https://arxiv.org/abs/2606.10105](https://arxiv.org/abs/2606.10105), First version. Comments are welcome! 14 pages
+- 2026-06-08, **Distribution of Majorana modes in the extended-range Kitaev chain**, Pedro B. Widniczck, Gerardo Martínez, Paper: [https://arxiv.org/abs/2606.10043](https://arxiv.org/abs/2606.10043)
+- 2026-06-08, **Exactly solvable non-planar $\mathbb{Z}_{2}$ dimer liquids on checkerboard and ruby lattices**, Julia Wildeboer, Zohar Nussinov, Thomas Iadecola, Alexander Seidel, Paper: [https://arxiv.org/abs/2606.10003](https://arxiv.org/abs/2606.10003), 22 pages, 10 figures
+- 2026-06-08, **Bootstrap Cone of the Multicritical Deconfined Quantum Critical Point**, Zhijin Li, Tinhong Shen, Paper: [https://arxiv.org/abs/2606.09985](https://arxiv.org/abs/2606.09985), 16+13 pages, 6 figures
 - 2026-06-08, **Persistent currents, whirlpools, and local Chern markers in twisted TMD Chern insulators**, Francesco Cioni, Lorenzo Cavicchi, Nazzareno Africani, Giacomo Mazza, Fabio Taddei, Amir Yacoby, Marco Polini, Paper: [https://arxiv.org/abs/2606.09812](https://arxiv.org/abs/2606.09812), 7 pages, 4 figures + Supplemental Material
 - 2026-06-08, **Topological defects and scalar field modes in warped geometries**, A. A. Saharian, E. L. Karapetyan, G. V. Mirzoyan, Paper: [https://arxiv.org/abs/2606.09781](https://arxiv.org/abs/2606.09781), 16 pages, no figures
 - 2026-06-08, **Codifferential Calculi on Quantum Homogeneous Spaces**, Julius Benner, Paper: [https://arxiv.org/abs/2606.09687](https://arxiv.org/abs/2606.09687), 58 pages, comments welcome!
@@ -1589,5 +1597,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
 
