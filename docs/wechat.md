@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.10
+> Automatically updated on 2026.06.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-10, **A Pfaffian quantum Hall state of ultracold bosons**, Joyce Kwan, Perrin Segura, Yanfei Li, Tizian Blatz, Annie Zhi, Brice Bakkali-Hassani, Annabelle Bohrdt, Martin Greiter, Fabian Grusdt, Markus Greiner, Paper: [https://arxiv.org/abs/2606.12409](https://arxiv.org/abs/2606.12409), 9+11 pages, 5+9 figures
+- 2026-06-10, **Nonadditivity in Quantum Field Theory: Replica Energies, Scaling Filters, and the Renormalization Group**, Giacomo Santoni, Francesco Scardino, Paper: [https://arxiv.org/abs/2606.12367](https://arxiv.org/abs/2606.12367)
+- 2026-06-10, **An iterative Ising decoder for quantum error correction codes**, Yuanqi Liu, Weilei Zeng, Peixiang Li, Yantong Liu, Guangyao Huang, Yingwen Liu, Dongyang Wang, Junjie Wu, Lingling Lao, Paper: [https://arxiv.org/abs/2606.12301](https://arxiv.org/abs/2606.12301), 12 pages, 8 figures, comments are welcome
+- 2026-06-10, **From Topological Order to Mixed-State Phases: A Ground-State Probe of Fractionalized Excitations**, Yunlong Zang, Yu-Bin Li, Shenghan Jiang, Paper: [https://arxiv.org/abs/2606.12132](https://arxiv.org/abs/2606.12132), 8+18 pages, 2+5 figures
+- 2026-06-10, **Measurement-Free Toric-Code Memory in Array Globally Controlled Rydberg Array**, Han Wang, Yusheng Zhao, Xiuhao Deng, Jinguo Liu, Paper: [https://arxiv.org/abs/2606.12030](https://arxiv.org/abs/2606.12030)
+- 2026-06-10, **Modular quantization and black holes**, Suchetan Das, Paper: [https://arxiv.org/abs/2606.11984](https://arxiv.org/abs/2606.11984), 79 Pages, two appendices
+- 2026-06-10, **Singular Hochschild complex and Cartan matrix**, Yu Wang, Xiaozhuan Liang, Paper: [https://arxiv.org/abs/2606.11641](https://arxiv.org/abs/2606.11641), 11 pages
+- 2026-06-10, **Relative biexactness and mixing in von Neumann algebras**, Srivatsav Kunnawalkam Elayavalli, Zhiyuan Yang, Paper: [https://arxiv.org/abs/2606.11571](https://arxiv.org/abs/2606.11571), 23 pages
+- 2026-06-10, **Invariants of Sequential Circuits and Generalized Non-Abelian Statistics**, Shintaro Sato, Yoshimasa Hidaka, Ryohei Kobayashi, Paper: [https://arxiv.org/abs/2606.11527](https://arxiv.org/abs/2606.11527), 20 pages, 11 figures
+- 2026-06-09, **Lectures on Semiclassical Methods for Composite Operators**, Francesco Sannino, Paper: [https://arxiv.org/abs/2606.11317](https://arxiv.org/abs/2606.11317), LaTeX 166 pages, several figures
 - 2026-06-09, **A quiver approach to quasi-quantum groups with the Chevalley property**, Jing Yu, Paper: [https://arxiv.org/abs/2606.10946](https://arxiv.org/abs/2606.10946), 60pages,comments welcome
 - 2026-06-09, **Spacetime from Operator Algebras**, Vyshnav Mohan, Larus Thorlacius, Paper: [https://arxiv.org/abs/2606.10924](https://arxiv.org/abs/2606.10924), 41 pages and 3 figures
 - 2026-06-09, **Chiral Plasma under Strong Magnetic Fields: A Holographic Analysis of Transport Phenomena**, Michael Lublinsky, Hadas Tzarfati, Paper: [https://arxiv.org/abs/2606.10689](https://arxiv.org/abs/2606.10689), 36 pages
@@ -1597,5 +1607,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 

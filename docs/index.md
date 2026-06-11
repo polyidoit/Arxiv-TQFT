@@ -1,7 +1,17 @@
-> Automatically updated on 2026.06.10
+> Automatically updated on 2026.06.11
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan, Perrin Segura, Yanfei Li, Tizian Blatz, Annie Zhi, Brice Bakkali-Hassani, Annabelle Bohrdt, Martin Greiter, Fabian Grusdt, Markus Greiner|[2606.12409](https://arxiv.org/abs/2606.12409)|null|
+|**2026-06-10**|**Nonadditivity in Quantum Field Theory: Replica Energies, Scaling Filters, and the Renormalization Group**|Giacomo Santoni, Francesco Scardino|[2606.12367](https://arxiv.org/abs/2606.12367)|null|
+|**2026-06-10**|**An iterative Ising decoder for quantum error correction codes**|Yuanqi Liu, Weilei Zeng, Peixiang Li, Yantong Liu, Guangyao Huang, Yingwen Liu, Dongyang Wang, Junjie Wu, Lingling Lao|[2606.12301](https://arxiv.org/abs/2606.12301)|null|
+|**2026-06-10**|**From Topological Order to Mixed-State Phases: A Ground-State Probe of Fractionalized Excitations**|Yunlong Zang, Yu-Bin Li, Shenghan Jiang|[2606.12132](https://arxiv.org/abs/2606.12132)|null|
+|**2026-06-10**|**Measurement-Free Toric-Code Memory in Array Globally Controlled Rydberg Array**|Han Wang, Yusheng Zhao, Xiuhao Deng, Jinguo Liu|[2606.12030](https://arxiv.org/abs/2606.12030)|null|
+|**2026-06-10**|**Modular quantization and black holes**|Suchetan Das|[2606.11984](https://arxiv.org/abs/2606.11984)|null|
+|**2026-06-10**|**Singular Hochschild complex and Cartan matrix**|Yu Wang, Xiaozhuan Liang|[2606.11641](https://arxiv.org/abs/2606.11641)|null|
+|**2026-06-10**|**Relative biexactness and mixing in von Neumann algebras**|Srivatsav Kunnawalkam Elayavalli, Zhiyuan Yang|[2606.11571](https://arxiv.org/abs/2606.11571)|null|
+|**2026-06-10**|**Invariants of Sequential Circuits and Generalized Non-Abelian Statistics**|Shintaro Sato, Yoshimasa Hidaka, Ryohei Kobayashi|[2606.11527](https://arxiv.org/abs/2606.11527)|null|
+|**2026-06-09**|**Lectures on Semiclassical Methods for Composite Operators**|Francesco Sannino|[2606.11317](https://arxiv.org/abs/2606.11317)|null|
 |**2026-06-09**|**A quiver approach to quasi-quantum groups with the Chevalley property**|Jing Yu|[2606.10946](https://arxiv.org/abs/2606.10946)|null|
 |**2026-06-09**|**Spacetime from Operator Algebras**|Vyshnav Mohan, Larus Thorlacius|[2606.10924](https://arxiv.org/abs/2606.10924)|null|
 |**2026-06-09**|**Chiral Plasma under Strong Magnetic Fields: A Holographic Analysis of Transport Phenomena**|Michael Lublinsky, Hadas Tzarfati|[2606.10689](https://arxiv.org/abs/2606.10689)|null|
