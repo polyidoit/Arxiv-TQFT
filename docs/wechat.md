@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.11
+> Automatically updated on 2026.06.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-11, **A ribbon ZX calculus for gauge theory**, Gabriel Wong, Razin A. Shaikh, William Donnelly, Paper: [https://arxiv.org/abs/2606.13551](https://arxiv.org/abs/2606.13551)
+- 2026-06-11, **Quantum Logic Codes: Complete Transversal Logical Clifford Instruction Sets for High-Rate Stabilizer Quantum Error Correcting Codes**, Adam Holmes, Paper: [https://arxiv.org/abs/2606.13521](https://arxiv.org/abs/2606.13521)
+- 2026-06-11, **Twist deformations for Hopf coquasigroups**, Ramón González Rodríguez, Brais Ramos Pérez, Paper: [https://arxiv.org/abs/2606.13212](https://arxiv.org/abs/2606.13212)
+- 2026-06-10, **Multiple Topological Haldane Phases for Symmetry-Protected Quantum Information Processing**, João Pedro Gama D'Elia, Irene D'Amico, Thereza Paiva, Paper: [https://arxiv.org/abs/2606.12685](https://arxiv.org/abs/2606.12685), 15 pages, 8 figures and 3 tables
+- 2026-06-10, **The $μ$ -extension of iterated integrals and nested sums**, J. Blümlein, A. M. Gavrilik, U. Y. Lunga, O. Mykhailiv, Paper: [https://arxiv.org/abs/2606.12584](https://arxiv.org/abs/2606.12584), 37 pages Latex
+- 2026-06-10, **The state/defect correspondence**, Adrien Arbalestrier, Elise Paznokas, Stathis Vitouladitis, Paper: [https://arxiv.org/abs/2606.12560](https://arxiv.org/abs/2606.12560), 31 pages, 2 figures, many defects, just as many states
+- 2026-06-10, **Toward Entanglement Bootstrap for Conformal Field Theory in Any Dimension**, Rolando Ramirez Camasca, Xiang Li, Ting-Chun Lin, John McGreevy, Paper: [https://arxiv.org/abs/2606.12540](https://arxiv.org/abs/2606.12540), 5.5 + 20 pages
+- 2026-06-10, **Statistical Mechanics and Symmetries of Non-Abelian Anyon Proliferation: From Deformation to Decoherence**, Avi Vadali, Robijn Vanhove, Ruben Verresen, Jason Alicea, Pablo Sala, Paper: [https://arxiv.org/abs/2606.12527](https://arxiv.org/abs/2606.12527)
+- 2026-06-10, **Multi-entropy in heavy local quenches**, Kosei Fujiki, Kenya Tasuki, Paper: [https://arxiv.org/abs/2606.12526](https://arxiv.org/abs/2606.12526), 38 pages, 9 figures
+- 2026-06-10, **Infinite-Order Lattice Chiral Anomalies and CPT**, Elijah Lew-Smith, Salvatore D. Pace, Shu-Heng Shao, Paper: [https://arxiv.org/abs/2606.12510](https://arxiv.org/abs/2606.12510), 17 pages
 - 2026-06-10, **A Pfaffian quantum Hall state of ultracold bosons**, Joyce Kwan, Perrin Segura, Yanfei Li, Tizian Blatz, Annie Zhi, Brice Bakkali-Hassani, Annabelle Bohrdt, Martin Greiter, Fabian Grusdt, Markus Greiner, Paper: [https://arxiv.org/abs/2606.12409](https://arxiv.org/abs/2606.12409), 9+11 pages, 5+9 figures
 - 2026-06-10, **Nonadditivity in Quantum Field Theory: Replica Energies, Scaling Filters, and the Renormalization Group**, Giacomo Santoni, Francesco Scardino, Paper: [https://arxiv.org/abs/2606.12367](https://arxiv.org/abs/2606.12367)
 - 2026-06-10, **An iterative Ising decoder for quantum error correction codes**, Yuanqi Liu, Weilei Zeng, Peixiang Li, Yantong Liu, Guangyao Huang, Yingwen Liu, Dongyang Wang, Junjie Wu, Lingling Lao, Paper: [https://arxiv.org/abs/2606.12301](https://arxiv.org/abs/2606.12301), 12 pages, 8 figures, comments are welcome
@@ -1607,5 +1617,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 

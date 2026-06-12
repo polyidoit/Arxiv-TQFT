@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.06.11
+> Automatically updated on 2026.06.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**A ribbon ZX calculus for gauge theory**|Gabriel Wong, Razin A. Shaikh, William Donnelly|[2606.13551](https://arxiv.org/abs/2606.13551)|null|
+|**2026-06-11**|**Quantum Logic Codes: Complete Transversal Logical Clifford Instruction Sets for High-Rate Stabilizer Quantum Error Correcting Codes**|Adam Holmes|[2606.13521](https://arxiv.org/abs/2606.13521)|null|
+|**2026-06-11**|**Twist deformations for Hopf coquasigroups**|Ramón González Rodríguez, Brais Ramos Pérez|[2606.13212](https://arxiv.org/abs/2606.13212)|null|
+|**2026-06-10**|**Multiple Topological Haldane Phases for Symmetry-Protected Quantum Information Processing**|João Pedro Gama D'Elia, Irene D'Amico, Thereza Paiva|[2606.12685](https://arxiv.org/abs/2606.12685)|null|
+|**2026-06-10**|**The $μ$ -extension of iterated integrals and nested sums**|J. Blümlein, A. M. Gavrilik, U. Y. Lunga, O. Mykhailiv|[2606.12584](https://arxiv.org/abs/2606.12584)|null|
+|**2026-06-10**|**The state/defect correspondence**|Adrien Arbalestrier, Elise Paznokas, Stathis Vitouladitis|[2606.12560](https://arxiv.org/abs/2606.12560)|null|
+|**2026-06-10**|**Toward Entanglement Bootstrap for Conformal Field Theory in Any Dimension**|Rolando Ramirez Camasca, Xiang Li, Ting-Chun Lin, John McGreevy|[2606.12540](https://arxiv.org/abs/2606.12540)|null|
+|**2026-06-10**|**Statistical Mechanics and Symmetries of Non-Abelian Anyon Proliferation: From Deformation to Decoherence**|Avi Vadali, Robijn Vanhove, Ruben Verresen, Jason Alicea, Pablo Sala|[2606.12527](https://arxiv.org/abs/2606.12527)|null|
+|**2026-06-10**|**Multi-entropy in heavy local quenches**|Kosei Fujiki, Kenya Tasuki|[2606.12526](https://arxiv.org/abs/2606.12526)|null|
+|**2026-06-10**|**Infinite-Order Lattice Chiral Anomalies and CPT**|Elijah Lew-Smith, Salvatore D. Pace, Shu-Heng Shao|[2606.12510](https://arxiv.org/abs/2606.12510)|null|
 |**2026-06-10**|**A Pfaffian quantum Hall state of ultracold bosons**|Joyce Kwan, Perrin Segura, Yanfei Li, Tizian Blatz, Annie Zhi, Brice Bakkali-Hassani, Annabelle Bohrdt, Martin Greiter, Fabian Grusdt, Markus Greiner|[2606.12409](https://arxiv.org/abs/2606.12409)|null|
 |**2026-06-10**|**Nonadditivity in Quantum Field Theory: Replica Energies, Scaling Filters, and the Renormalization Group**|Giacomo Santoni, Francesco Scardino|[2606.12367](https://arxiv.org/abs/2606.12367)|null|
 |**2026-06-10**|**An iterative Ising decoder for quantum error correction codes**|Yuanqi Liu, Weilei Zeng, Peixiang Li, Yantong Liu, Guangyao Huang, Yingwen Liu, Dongyang Wang, Junjie Wu, Lingling Lao|[2606.12301](https://arxiv.org/abs/2606.12301)|null|
@@ -2406,5 +2416,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260612>back to top</a>)</p>
 
