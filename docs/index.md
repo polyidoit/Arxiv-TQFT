@@ -1,7 +1,10 @@
-> Automatically updated on 2026.06.14
+> Automatically updated on 2026.06.15
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-11**|**AKSZ Construction for Shifted Contact Structures**|Efe İzbudak, Kadri İlker Berktav|[2606.13866](https://arxiv.org/abs/2606.13866)|null|
+|**2026-06-11**|**Bootstrapping Euclidean Lattices**|Francesco Bertucci, James Bonifacio|[2606.13771](https://arxiv.org/abs/2606.13771)|null|
+|**2026-06-11**|**Controlling Defects and Probing Dynamics in Active Nematics with Deep Reinforcement Learning**|Russ Islam, Kyogo Kawaguchi, Yuto Ashida|[2606.13721](https://arxiv.org/abs/2606.13721)|null|
 |**2026-06-11**|**A ribbon ZX calculus for gauge theory**|Gabriel Wong, Razin A. Shaikh, William Donnelly|[2606.13551](https://arxiv.org/abs/2606.13551)|null|
 |**2026-06-11**|**Quantum Logic Codes: Complete Transversal Logical Clifford Instruction Sets for High-Rate Stabilizer Quantum Error Correcting Codes**|Adam Holmes|[2606.13521](https://arxiv.org/abs/2606.13521)|null|
 |**2026-06-11**|**Twist deformations for Hopf coquasigroups**|Ramón González Rodríguez, Brais Ramos Pérez|[2606.13212](https://arxiv.org/abs/2606.13212)|null|
