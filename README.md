@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.06.15
+> Automatically updated on 2026.06.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions**|Yu-Xuan Li, Tao Zhou|[2606.16931](https://arxiv.org/abs/2606.16931)|null|
+|**2026-06-15**|**3D Ising criticality with Platonic lattice superconducting qubits**|Liyang Sui, Hong-Hao Song, Sainan Huai, Yufan Li, Zhiwen Zong, Kunliang Bu, Xiaopei Yang, Xingrui Liu, Wenyan Jin, Bowen Chen, Xutao Zhang, Jianlan Wu, Yicong Zheng, Shengyu Zhang, Gang v. Chen, Yi Yin|[2606.16854](https://arxiv.org/abs/2606.16854)|null|
+|**2026-06-15**|**Extracting Boundary Conformal Data from Periodic Non-Hermitian Critical Chains**|Yifan Liu, Haruki Shimizu, Dongchang Liu, Kohei Kawabata|[2606.16785](https://arxiv.org/abs/2606.16785)|null|
+|**2026-06-15**|**Preparation of Fractional Quantum Hall States on Quantum Computers**|Hao Wu, Lei-Yi-Nan Liu, Zhao-Xin Pei, Yi-Xuan Zhai, Zhen-Xu Luo, Zhao Liu, Jian Cui|[2606.16548](https://arxiv.org/abs/2606.16548)|null|
+|**2026-06-15**|**Maximal Ergodic Theorems for Operators with Finite Peripheral Spectrum**|Subhajit Palai, Samya Kumar Ray|[2606.16506](https://arxiv.org/abs/2606.16506)|null|
+|**2026-06-15**|**Complexified Virasoro Flow and the Logarithmic Graviton at the Chiral Point**|Yannick Mvondo-She|[2606.16444](https://arxiv.org/abs/2606.16444)|null|
+|**2026-06-14**|**Finite-Dimensional Type I von Neumann Algebras in PyTorch: A GPU-Accelerated Framework for Random Block-Diagonal Operators**|Irina Nikolaeva, Andrej Novikov|[2606.15882](https://arxiv.org/abs/2606.15882)|null|
+|**2026-06-14**|**Machine Learning Topological Order from Defect Partition Functions**|Kazem Bitaghsir Fadafan, Wei Cui, Babak Haghighat, Shailesh Lal|[2606.15799](https://arxiv.org/abs/2606.15799)|null|
+|**2026-06-14**|**Flat Gauging of Continuous (Non-invertible) Symmetries and Non-compact BF SymTFT for Compact Boson**|Qiang Jia, Yi Zhang|[2606.15732](https://arxiv.org/abs/2606.15732)|null|
+|**2026-06-14**|**The Coxeter transformation as an automorphism of the Tamarkin--Tsygan calculus**|Marco Armenta|[2606.15595](https://arxiv.org/abs/2606.15595)|null|
 |**2026-06-11**|**AKSZ Construction for Shifted Contact Structures**|Efe İzbudak, Kadri İlker Berktav|[2606.13866](https://arxiv.org/abs/2606.13866)|null|
 |**2026-06-11**|**Bootstrapping Euclidean Lattices**|Francesco Bertucci, James Bonifacio|[2606.13771](https://arxiv.org/abs/2606.13771)|null|
 |**2026-06-11**|**Controlling Defects and Probing Dynamics in Active Nematics with Deep Reinforcement Learning**|Russ Islam, Kyogo Kawaguchi, Yuto Ashida|[2606.13721](https://arxiv.org/abs/2606.13721)|null|
@@ -2419,5 +2429,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 

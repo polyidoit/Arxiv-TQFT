@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.15
+> Automatically updated on 2026.06.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-15, **Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions**, Yu-Xuan Li, Tao Zhou, Paper: [https://arxiv.org/abs/2606.16931](https://arxiv.org/abs/2606.16931), 8 pages, 6 figures
+- 2026-06-15, **3D Ising criticality with Platonic lattice superconducting qubits**, Liyang Sui, Hong-Hao Song, Sainan Huai, Yufan Li, Zhiwen Zong, Kunliang Bu, Xiaopei Yang, Xingrui Liu, Wenyan Jin, Bowen Chen, Xutao Zhang, Jianlan Wu, Yicong Zheng, Shengyu Zhang, Gang v. Chen, Yi Yin, Paper: [https://arxiv.org/abs/2606.16854](https://arxiv.org/abs/2606.16854), 19 pages, 11 figures, 5 tables; supplementary information included
+- 2026-06-15, **Extracting Boundary Conformal Data from Periodic Non-Hermitian Critical Chains**, Yifan Liu, Haruki Shimizu, Dongchang Liu, Kohei Kawabata, Paper: [https://arxiv.org/abs/2606.16785](https://arxiv.org/abs/2606.16785), 9+10 pages, 5 figures, 5 tables
+- 2026-06-15, **Preparation of Fractional Quantum Hall States on Quantum Computers**, Hao Wu, Lei-Yi-Nan Liu, Zhao-Xin Pei, Yi-Xuan Zhai, Zhen-Xu Luo, Zhao Liu, Jian Cui, Paper: [https://arxiv.org/abs/2606.16548](https://arxiv.org/abs/2606.16548), 14 pages, 12 figures
+- 2026-06-15, **Maximal Ergodic Theorems for Operators with Finite Peripheral Spectrum**, Subhajit Palai, Samya Kumar Ray, Paper: [https://arxiv.org/abs/2606.16506](https://arxiv.org/abs/2606.16506), This is a preliminary version. 53 pages
+- 2026-06-15, **Complexified Virasoro Flow and the Logarithmic Graviton at the Chiral Point**, Yannick Mvondo-She, Paper: [https://arxiv.org/abs/2606.16444](https://arxiv.org/abs/2606.16444), 36 pages
+- 2026-06-14, **Finite-Dimensional Type I von Neumann Algebras in PyTorch: A GPU-Accelerated Framework for Random Block-Diagonal Operators**, Irina Nikolaeva, Andrej Novikov, Paper: [https://arxiv.org/abs/2606.15882](https://arxiv.org/abs/2606.15882)
+- 2026-06-14, **Machine Learning Topological Order from Defect Partition Functions**, Kazem Bitaghsir Fadafan, Wei Cui, Babak Haghighat, Shailesh Lal, Paper: [https://arxiv.org/abs/2606.15799](https://arxiv.org/abs/2606.15799)
+- 2026-06-14, **Flat Gauging of Continuous (Non-invertible) Symmetries and Non-compact BF SymTFT for Compact Boson**, Qiang Jia, Yi Zhang, Paper: [https://arxiv.org/abs/2606.15732](https://arxiv.org/abs/2606.15732), 57 pages
+- 2026-06-14, **The Coxeter transformation as an automorphism of the Tamarkin--Tsygan calculus**, Marco Armenta, Paper: [https://arxiv.org/abs/2606.15595](https://arxiv.org/abs/2606.15595), 28 pages
 - 2026-06-11, **AKSZ Construction for Shifted Contact Structures**, Efe İzbudak, Kadri İlker Berktav, Paper: [https://arxiv.org/abs/2606.13866](https://arxiv.org/abs/2606.13866), 17 pages, all comments welcome! :)
 - 2026-06-11, **Bootstrapping Euclidean Lattices**, Francesco Bertucci, James Bonifacio, Paper: [https://arxiv.org/abs/2606.13771](https://arxiv.org/abs/2606.13771), 46 pages
 - 2026-06-11, **Controlling Defects and Probing Dynamics in Active Nematics with Deep Reinforcement Learning**, Russ Islam, Kyogo Kawaguchi, Yuto Ashida, Paper: [https://arxiv.org/abs/2606.13721](https://arxiv.org/abs/2606.13721), 24 pages, 14 figures
@@ -1620,5 +1630,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
