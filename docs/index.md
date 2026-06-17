@@ -1,7 +1,17 @@
-> Automatically updated on 2026.06.16
+> Automatically updated on 2026.06.17
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-16**|**Periodicity, type $II_1$ factors and free Poisson laws in interacting Fock spaces**|Vitonofrio Crismale, Yun Gang Lu, Éric Ricard|[2606.18162](https://arxiv.org/abs/2606.18162)|null|
+|**2026-06-16**|**A polynomial-time approximation scheme for minimum-weight decoding of topological codes**|Shouzhen Gu, Lily Wang, Aleksander Kubica|[2606.18145](https://arxiv.org/abs/2606.18145)|null|
+|**2026-06-16**|**Finite and disordered Kitaev chains: a large deviation study**|Clément Fortin, Kai Wang, Tami Pereg-Barnea|[2606.17881](https://arxiv.org/abs/2606.17881)|null|
+|**2026-06-16**|**Monopoles, Center Vortices, Confinement in (3+1)d, and the Lens-Space Twisted Partition Function**|Yui Hayashi, Yuya Tanizaki|[2606.17708](https://arxiv.org/abs/2606.17708)|null|
+|**2026-06-16**|**Imprints of dynamical phases in semiclassical entanglement entropy in 2D CFT**|Parijat Dey, Semanti Dutta, Bobby Ezhuthachan|[2606.17625](https://arxiv.org/abs/2606.17625)|null|
+|**2026-06-16**|**Distinguishing Majorana zero modes from trivial defect states on the surface of the iron-based superconductor Fe(Te,Se)**|Dongfei Wang, Jon Ortuzar, Freek Massee, Ruidan Zhong, Genda Gu, Wende Xiao, Yugui Yao, Roland Wiesendanger|[2606.17499](https://arxiv.org/abs/2606.17499)|null|
+|**2026-06-16**|**Vorticity Induced by Non-frontal Collisions of Quantum Droplets**|J. E. Alba-Arroyo, Santiago F. Caballero-Benitez, Rocio Jáuregu|[2606.17498](https://arxiv.org/abs/2606.17498)|null|
+|**2026-06-15**|**Thermal One-point Functions and Asymptotic CFT Data: QFT in AdS**|Ilija Burić, Francesco Mangialardi, Francesco Russo, Volker Schomerus, Alessandro Vichi|[2606.17167](https://arxiv.org/abs/2606.17167)|null|
+|**2026-06-15**|**Derivation of height field theory for the two-dimensional classical dimer model from a Grassmann-integral representation**|Stephen Powell|[2606.17154](https://arxiv.org/abs/2606.17154)|null|
+|**2026-06-15**|**Projected logical ensembles in surface codes via the random-matrix theory of quantum dots**|Mircea Bejan, Jan Behrends, Max McGinley, Benjamin Béri|[2606.17140](https://arxiv.org/abs/2606.17140)|null|
 |**2026-06-15**|**Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions**|Yu-Xuan Li, Tao Zhou|[2606.16931](https://arxiv.org/abs/2606.16931)|null|
 |**2026-06-15**|**3D Ising criticality with Platonic lattice superconducting qubits**|Liyang Sui, Hong-Hao Song, Sainan Huai, Yufan Li, Zhiwen Zong, Kunliang Bu, Xiaopei Yang, Xingrui Liu, Wenyan Jin, Bowen Chen, Xutao Zhang, Jianlan Wu, Yicong Zheng, Shengyu Zhang, Gang v. Chen, Yi Yin|[2606.16854](https://arxiv.org/abs/2606.16854)|null|
 |**2026-06-15**|**Extracting Boundary Conformal Data from Periodic Non-Hermitian Critical Chains**|Yifan Liu, Haruki Shimizu, Dongchang Liu, Kohei Kawabata|[2606.16785](https://arxiv.org/abs/2606.16785)|null|
