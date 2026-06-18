@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-17, **Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**, Daniel Harkin, Chun Y. Leung, Amos Chan, Paper: [https://arxiv.org/abs/2606.19331](https://arxiv.org/abs/2606.19331), 9+67 pages, 5+37 figures
+- 2026-06-17, **Bulk-boundary correspondence of (1+1)D symmetric gapped phases**, Yizhou Ma, Gen Yue, Tian Lan, Paper: [https://arxiv.org/abs/2606.19137](https://arxiv.org/abs/2606.19137), 56 pages
+- 2026-06-17, **Higher-Trace Operators and Cut Diagrammatics in the Conformal Block Expansion**, Mohammad Reza Khansari, Paper: [https://arxiv.org/abs/2606.18929](https://arxiv.org/abs/2606.18929), 36 pages
+- 2026-06-17, **ASEP/DSSYK duality and strange correlator**, Kazumi Okuyama, Paper: [https://arxiv.org/abs/2606.18739](https://arxiv.org/abs/2606.18739), 15 pages
+- 2026-06-17, **Non-Perturbative Closure of the 3D $φ^4$ Field Theory via Operator-Valued Stroh Formalism and Barnett-Lothe Invariants**, Yu-Xin Xie, Paper: [https://arxiv.org/abs/2606.18635](https://arxiv.org/abs/2606.18635), 8 pages
+- 2026-06-17, **Holographic Dual of PT Symmetric BCFT**, Ryota Maeda, Nanami Nakamura, Tadashi Takayanagi, Paper: [https://arxiv.org/abs/2606.18629](https://arxiv.org/abs/2606.18629), 5 pages + appendices, 14 figures
+- 2026-06-17, **Separation of Statistical Complexity and Trainability in Variational Quantum Circuits**, Suman Mandal, Maximillian Daughtry, Eduardo R. Mucciolo, Paper: [https://arxiv.org/abs/2606.18580](https://arxiv.org/abs/2606.18580), 16 pages, 12 figures
+- 2026-06-16, **Magnon-dislon hybridization in magnetic insulators**, Carlos Saji, Nicolas Vidal-Silva, Roberto E. Troncoso, Paper: [https://arxiv.org/abs/2606.18513](https://arxiv.org/abs/2606.18513), 5 pages, supplemental material and 3 figures
+- 2026-06-16, **Universal entanglement probes of topological order and locally-achiral manifolds**, Yarden Sheffer, Paper: [https://arxiv.org/abs/2606.18361](https://arxiv.org/abs/2606.18361), 14+4 pages, 10 figures, comments welcome!
 - 2026-06-16, **Periodicity, type $II_1$ factors and free Poisson laws in interacting Fock spaces**, Vitonofrio Crismale, Yun Gang Lu, Éric Ricard, Paper: [https://arxiv.org/abs/2606.18162](https://arxiv.org/abs/2606.18162)
 - 2026-06-16, **A polynomial-time approximation scheme for minimum-weight decoding of topological codes**, Shouzhen Gu, Lily Wang, Aleksander Kubica, Paper: [https://arxiv.org/abs/2606.18145](https://arxiv.org/abs/2606.18145), 18 pages, 5 figures
 - 2026-06-16, **Finite and disordered Kitaev chains: a large deviation study**, Clément Fortin, Kai Wang, Tami Pereg-Barnea, Paper: [https://arxiv.org/abs/2606.17881](https://arxiv.org/abs/2606.17881), 8 pages, 3 figures

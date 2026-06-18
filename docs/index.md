@@ -2,6 +2,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-17**|**Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**|Daniel Harkin, Chun Y. Leung, Amos Chan|[2606.19331](https://arxiv.org/abs/2606.19331)|null|
+|**2026-06-17**|**Bulk-boundary correspondence of (1+1)D symmetric gapped phases**|Yizhou Ma, Gen Yue, Tian Lan|[2606.19137](https://arxiv.org/abs/2606.19137)|null|
+|**2026-06-17**|**Higher-Trace Operators and Cut Diagrammatics in the Conformal Block Expansion**|Mohammad Reza Khansari|[2606.18929](https://arxiv.org/abs/2606.18929)|null|
+|**2026-06-17**|**ASEP/DSSYK duality and strange correlator**|Kazumi Okuyama|[2606.18739](https://arxiv.org/abs/2606.18739)|null|
+|**2026-06-17**|**Non-Perturbative Closure of the 3D $φ^4$ Field Theory via Operator-Valued Stroh Formalism and Barnett-Lothe Invariants**|Yu-Xin Xie|[2606.18635](https://arxiv.org/abs/2606.18635)|null|
+|**2026-06-17**|**Holographic Dual of PT Symmetric BCFT**|Ryota Maeda, Nanami Nakamura, Tadashi Takayanagi|[2606.18629](https://arxiv.org/abs/2606.18629)|null|
+|**2026-06-17**|**Separation of Statistical Complexity and Trainability in Variational Quantum Circuits**|Suman Mandal, Maximillian Daughtry, Eduardo R. Mucciolo|[2606.18580](https://arxiv.org/abs/2606.18580)|null|
+|**2026-06-16**|**Magnon-dislon hybridization in magnetic insulators**|Carlos Saji, Nicolas Vidal-Silva, Roberto E. Troncoso|[2606.18513](https://arxiv.org/abs/2606.18513)|null|
+|**2026-06-16**|**Universal entanglement probes of topological order and locally-achiral manifolds**|Yarden Sheffer|[2606.18361](https://arxiv.org/abs/2606.18361)|null|
 |**2026-06-16**|**Periodicity, type $II_1$ factors and free Poisson laws in interacting Fock spaces**|Vitonofrio Crismale, Yun Gang Lu, Éric Ricard|[2606.18162](https://arxiv.org/abs/2606.18162)|null|
 |**2026-06-16**|**A polynomial-time approximation scheme for minimum-weight decoding of topological codes**|Shouzhen Gu, Lily Wang, Aleksander Kubica|[2606.18145](https://arxiv.org/abs/2606.18145)|null|
 |**2026-06-16**|**Finite and disordered Kitaev chains: a large deviation study**|Clément Fortin, Kai Wang, Tami Pereg-Barnea|[2606.17881](https://arxiv.org/abs/2606.17881)|null|
