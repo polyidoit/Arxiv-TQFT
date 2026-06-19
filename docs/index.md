@@ -1,7 +1,17 @@
-> Automatically updated on 2026.06.18
+> Automatically updated on 2026.06.19
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-18**|**Topological Codes Based on Space Groups**|Chong-Yuan Xu, Ze-Chuan Liu, Yong Xu|[2606.20548](https://arxiv.org/abs/2606.20548)|null|
+|**2026-06-18**|**Superconductivity and non-Fermi liquid metals in a charge-1/3 anyon fluid**|Zhengyan Darius Shi, T. Senthil|[2606.20403](https://arxiv.org/abs/2606.20403)|null|
+|**2026-06-18**|**Fractional excitations in Kitaev quasi-one-dimensional chain**|Ritwika Majumder|[2606.20309](https://arxiv.org/abs/2606.20309)|null|
+|**2026-06-18**|**Norms, overlaps and Yangian descendants for the Haldane--Shastry spin chain**|Yunfeng Jiang, Jules Lamers, Yuan Miao|[2606.20168](https://arxiv.org/abs/2606.20168)|null|
+|**2026-06-18**|**Leading UV Formula for Finite-Volume Vertex Operator Expectation Values in the Sine-Gordon Model from Kink NLIE**|Arpad Hegedus, Apor Roth|[2606.20018](https://arxiv.org/abs/2606.20018)|null|
+|**2026-06-18**|**Epithelia Realize Nematopolar Topological Defect Structures**|Tianxiang Ma, Niels de Graaf Sousa, Valeriia Grudtsyna, Farzan Vafa, Amin Doostmohammadi|[2606.19844](https://arxiv.org/abs/2606.19844)|null|
+|**2026-06-18**|**Robust Generation of Topological Biphoton Mode via Adiabatic Passage**|Jaesung Lim, Jihwan Kim, Dong-Gil Im, Kyungdeuk Park, Dongkyu Kim, Yonggi Jo, Yong Sup Ihn|[2606.19786](https://arxiv.org/abs/2606.19786)|null|
+|**2026-06-18**|**Operational Tube-Sector Theory of Quantum State Distinguishability Under Generalized Symmetries**|Song He|[2606.19678](https://arxiv.org/abs/2606.19678)|null|
+|**2026-06-17**|**Exact operator dynamics in Lindbladian Wess-Zumino-Witten conformal field theories**|Qicheng Tang, Ruhanshi Barad, Xueda Wen|[2606.19465](https://arxiv.org/abs/2606.19465)|null|
+|**2026-06-17**|**Quantum deformations of $\mathcal{U}(\mathfrak{sl}(2, \mathbb{R}))$ . Part I: Fidelity and experimental benchmarking**|V. Mariscal, J. J. Relancio, L. Santamaría-Sanz|[2606.19462](https://arxiv.org/abs/2606.19462)|null|
 |**2026-06-17**|**Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**|Daniel Harkin, Chun Y. Leung, Amos Chan|[2606.19331](https://arxiv.org/abs/2606.19331)|null|
 |**2026-06-17**|**Bulk-boundary correspondence of (1+1)D symmetric gapped phases**|Yizhou Ma, Gen Yue, Tian Lan|[2606.19137](https://arxiv.org/abs/2606.19137)|null|
 |**2026-06-17**|**Higher-Trace Operators and Cut Diagrammatics in the Conformal Block Expansion**|Mohammad Reza Khansari|[2606.18929](https://arxiv.org/abs/2606.18929)|null|

@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.18
+> Automatically updated on 2026.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-18, **Topological Codes Based on Space Groups**, Chong-Yuan Xu, Ze-Chuan Liu, Yong Xu, Paper: [https://arxiv.org/abs/2606.20548](https://arxiv.org/abs/2606.20548), 19 pages, 4 figures
+- 2026-06-18, **Superconductivity and non-Fermi liquid metals in a charge-1/3 anyon fluid**, Zhengyan Darius Shi, T. Senthil, Paper: [https://arxiv.org/abs/2606.20403](https://arxiv.org/abs/2606.20403), 7 pages, 1 figure, 1 table, 4 page appendices
+- 2026-06-18, **Fractional excitations in Kitaev quasi-one-dimensional chain**, Ritwika Majumder, Paper: [https://arxiv.org/abs/2606.20309](https://arxiv.org/abs/2606.20309), 9 pages, 6 figures
+- 2026-06-18, **Norms, overlaps and Yangian descendants for the Haldane--Shastry spin chain**, Yunfeng Jiang, Jules Lamers, Yuan Miao, Paper: [https://arxiv.org/abs/2606.20168](https://arxiv.org/abs/2606.20168), 34 pages, 3 figures
+- 2026-06-18, **Leading UV Formula for Finite-Volume Vertex Operator Expectation Values in the Sine-Gordon Model from Kink NLIE**, Arpad Hegedus, Apor Roth, Paper: [https://arxiv.org/abs/2606.20018](https://arxiv.org/abs/2606.20018)
+- 2026-06-18, **Epithelia Realize Nematopolar Topological Defect Structures**, Tianxiang Ma, Niels de Graaf Sousa, Valeriia Grudtsyna, Farzan Vafa, Amin Doostmohammadi, Paper: [https://arxiv.org/abs/2606.19844](https://arxiv.org/abs/2606.19844), 7 pages, 4 figures
+- 2026-06-18, **Robust Generation of Topological Biphoton Mode via Adiabatic Passage**, Jaesung Lim, Jihwan Kim, Dong-Gil Im, Kyungdeuk Park, Dongkyu Kim, Yonggi Jo, Yong Sup Ihn, Paper: [https://arxiv.org/abs/2606.19786](https://arxiv.org/abs/2606.19786), 9 pages, 5 figures
+- 2026-06-18, **Operational Tube-Sector Theory of Quantum State Distinguishability Under Generalized Symmetries**, Song He, Paper: [https://arxiv.org/abs/2606.19678](https://arxiv.org/abs/2606.19678), 26 pages, 12 figures; comments welcome
+- 2026-06-17, **Exact operator dynamics in Lindbladian Wess-Zumino-Witten conformal field theories**, Qicheng Tang, Ruhanshi Barad, Xueda Wen, Paper: [https://arxiv.org/abs/2606.19465](https://arxiv.org/abs/2606.19465), 15 pages
+- 2026-06-17, **Quantum deformations of $\mathcal{U}(\mathfrak{sl}(2, \mathbb{R}))$ . Part I: Fidelity and experimental benchmarking**, V. Mariscal, J. J. Relancio, L. Santamaría-Sanz, Paper: [https://arxiv.org/abs/2606.19462](https://arxiv.org/abs/2606.19462), 36 pages, 13 figures
 - 2026-06-17, **Topological spectral form factor reveals emergent non-Hermitian single-particle $\mathcal{PT}$ transitions from many-body quantum chaos**, Daniel Harkin, Chun Y. Leung, Amos Chan, Paper: [https://arxiv.org/abs/2606.19331](https://arxiv.org/abs/2606.19331), 9+67 pages, 5+37 figures
 - 2026-06-17, **Bulk-boundary correspondence of (1+1)D symmetric gapped phases**, Yizhou Ma, Gen Yue, Tian Lan, Paper: [https://arxiv.org/abs/2606.19137](https://arxiv.org/abs/2606.19137), 56 pages
 - 2026-06-17, **Higher-Trace Operators and Cut Diagrammatics in the Conformal Block Expansion**, Mohammad Reza Khansari, Paper: [https://arxiv.org/abs/2606.18929](https://arxiv.org/abs/2606.18929), 36 pages
@@ -1649,5 +1659,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
