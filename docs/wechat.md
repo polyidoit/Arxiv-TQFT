@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.22
+> Automatically updated on 2026.06.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-20, **Level lines of the Gaussian free field and $c=1$ degenerate conformal blocks**, Alex Karrila, Eveliina Peltola, Lukas Schoug, Paper: [https://arxiv.org/abs/2606.22228](https://arxiv.org/abs/2606.22228), 39 pages
+- 2026-06-20, **Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**, Yipeng Xu, Paper: [https://arxiv.org/abs/2606.22127](https://arxiv.org/abs/2606.22127), Under review at Letters in Mathematical Physics
+- 2026-06-20, **Holonomies and Boundary Symmetries in the Discrete Warped Chern-Simons Gravity**, H. T. Özer, Aytül Filiz, Paper: [https://arxiv.org/abs/2606.22028](https://arxiv.org/abs/2606.22028), 69 pages
+- 2026-06-19, **Multifractality at the Integer Quantum Hall Transition: Acquittal of the Parabolic Law**, Sen Mu, Abbas Ali Saberi, Martin R. Zirnbauer, Paper: [https://arxiv.org/abs/2606.21679](https://arxiv.org/abs/2606.21679), 7 pages, 2 figures
+- 2026-06-19, **Trial wavefunction for fractional quantum spin Hall insulators**, Omri Lesser, Chao-Ming Jian, Paper: [https://arxiv.org/abs/2606.21652](https://arxiv.org/abs/2606.21652), 8 pages, 1 figure
+- 2026-06-19, **$φ$ -Scene: Physically Grounded Image-to-3D Scene Reconstruction**, Haodong Li, Lulu Shao, Haolin Lu, Yu Fu, Yen-Ru Chen, Seemandhar Jain, Manmohan Chandraker, Paper: [https://arxiv.org/abs/2606.21596](https://arxiv.org/abs/2606.21596), Project page: https://phi-scene.github.io/
+- 2026-06-19, **Exotic topological defects and director fields in free-floating spherical ferroelectric nematic liquid crystal shells**, Churchill B. Agoni, Ema Pilih, Luka Cmok, Calum J. Gibb, Jordan Hobbs, Richard Mandle, Irena Drevensek-Olenik, Jan P. F. Lagerwall, Paper: [https://arxiv.org/abs/2606.21231](https://arxiv.org/abs/2606.21231), 17 pages, 5 figures, Supplemetary information
+- 2026-06-19, **The Entanglement Wedge Polygon**, Kosei Fujiki, Jonathan Harper, Tadashi Takayanagi, Nicolò Zenoni, Paper: [https://arxiv.org/abs/2606.21081](https://arxiv.org/abs/2606.21081), 73 pages, 33 figures
 - 2026-06-18, **Topological Codes Based on Space Groups**, Chong-Yuan Xu, Ze-Chuan Liu, Yong Xu, Paper: [https://arxiv.org/abs/2606.20548](https://arxiv.org/abs/2606.20548), 19 pages, 4 figures
 - 2026-06-18, **Superconductivity and non-Fermi liquid metals in a charge-1/3 anyon fluid**, Zhengyan Darius Shi, T. Senthil, Paper: [https://arxiv.org/abs/2606.20403](https://arxiv.org/abs/2606.20403), 7 pages, 1 figure, 1 table, 4 page appendices
 - 2026-06-18, **Fractional excitations in Kitaev quasi-one-dimensional chain**, Ritwika Majumder, Paper: [https://arxiv.org/abs/2606.20309](https://arxiv.org/abs/2606.20309), 9 pages, 6 figures
@@ -1659,5 +1667,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 

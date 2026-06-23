@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.06.22
+> Automatically updated on 2026.06.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-20**|**Level lines of the Gaussian free field and $c=1$ degenerate conformal blocks**|Alex Karrila, Eveliina Peltola, Lukas Schoug|[2606.22228](https://arxiv.org/abs/2606.22228)|null|
+|**2026-06-20**|**Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**|Yipeng Xu|[2606.22127](https://arxiv.org/abs/2606.22127)|null|
+|**2026-06-20**|**Holonomies and Boundary Symmetries in the Discrete Warped Chern-Simons Gravity**|H. T. Özer, Aytül Filiz|[2606.22028](https://arxiv.org/abs/2606.22028)|null|
+|**2026-06-19**|**Multifractality at the Integer Quantum Hall Transition: Acquittal of the Parabolic Law**|Sen Mu, Abbas Ali Saberi, Martin R. Zirnbauer|[2606.21679](https://arxiv.org/abs/2606.21679)|null|
+|**2026-06-19**|**Trial wavefunction for fractional quantum spin Hall insulators**|Omri Lesser, Chao-Ming Jian|[2606.21652](https://arxiv.org/abs/2606.21652)|null|
+|**2026-06-19**|**$φ$ -Scene: Physically Grounded Image-to-3D Scene Reconstruction**|Haodong Li, Lulu Shao, Haolin Lu, Yu Fu, Yen-Ru Chen, Seemandhar Jain, Manmohan Chandraker|[2606.21596](https://arxiv.org/abs/2606.21596)|null|
+|**2026-06-19**|**Exotic topological defects and director fields in free-floating spherical ferroelectric nematic liquid crystal shells**|Churchill B. Agoni, Ema Pilih, Luka Cmok, Calum J. Gibb, Jordan Hobbs, Richard Mandle, Irena Drevensek-Olenik, Jan P. F. Lagerwall|[2606.21231](https://arxiv.org/abs/2606.21231)|null|
+|**2026-06-19**|**The Entanglement Wedge Polygon**|Kosei Fujiki, Jonathan Harper, Tadashi Takayanagi, Nicolò Zenoni|[2606.21081](https://arxiv.org/abs/2606.21081)|null|
 |**2026-06-18**|**Topological Codes Based on Space Groups**|Chong-Yuan Xu, Ze-Chuan Liu, Yong Xu|[2606.20548](https://arxiv.org/abs/2606.20548)|null|
 |**2026-06-18**|**Superconductivity and non-Fermi liquid metals in a charge-1/3 anyon fluid**|Zhengyan Darius Shi, T. Senthil|[2606.20403](https://arxiv.org/abs/2606.20403)|null|
 |**2026-06-18**|**Fractional excitations in Kitaev quasi-one-dimensional chain**|Ritwika Majumder|[2606.20309](https://arxiv.org/abs/2606.20309)|null|
@@ -2458,5 +2466,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
