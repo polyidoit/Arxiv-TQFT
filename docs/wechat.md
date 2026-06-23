@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-22, **Dissipative preparation of Laughlin-like states**, Tong Liu, Paper: [https://arxiv.org/abs/2606.23451](https://arxiv.org/abs/2606.23451)
+- 2026-06-22, **Affine Rota-Baxter groups and affine skew braces**, Jiayao Ma, Boran Zhang, Jiefeng Liu, Paper: [https://arxiv.org/abs/2606.22954](https://arxiv.org/abs/2606.22954), 22 pages
+- 2026-06-22, **Bunny Codes: Broadening Superconducting Quantum Error Correction Capability through Advanced Control Engineering**, Runshi Zhou, Xingye Yuan, Linghang Kong, Fang Zhang, Kai Zhang, Zhaohui Yang, Jianxin Chen, Paper: [https://arxiv.org/abs/2606.22853](https://arxiv.org/abs/2606.22853), 23 pages, 12 figures
 - 2026-06-20, **Level lines of the Gaussian free field and $c=1$ degenerate conformal blocks**, Alex Karrila, Eveliina Peltola, Lukas Schoug, Paper: [https://arxiv.org/abs/2606.22228](https://arxiv.org/abs/2606.22228), 39 pages
 - 2026-06-20, **Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**, Yipeng Xu, Paper: [https://arxiv.org/abs/2606.22127](https://arxiv.org/abs/2606.22127), Under review at Letters in Mathematical Physics
 - 2026-06-20, **Holonomies and Boundary Symmetries in the Discrete Warped Chern-Simons Gravity**, H. T. Özer, Aytül Filiz, Paper: [https://arxiv.org/abs/2606.22028](https://arxiv.org/abs/2606.22028), 69 pages

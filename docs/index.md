@@ -2,6 +2,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-22**|**Dissipative preparation of Laughlin-like states**|Tong Liu|[2606.23451](https://arxiv.org/abs/2606.23451)|null|
+|**2026-06-22**|**Affine Rota-Baxter groups and affine skew braces**|Jiayao Ma, Boran Zhang, Jiefeng Liu|[2606.22954](https://arxiv.org/abs/2606.22954)|null|
+|**2026-06-22**|**Bunny Codes: Broadening Superconducting Quantum Error Correction Capability through Advanced Control Engineering**|Runshi Zhou, Xingye Yuan, Linghang Kong, Fang Zhang, Kai Zhang, Zhaohui Yang, Jianxin Chen|[2606.22853](https://arxiv.org/abs/2606.22853)|null|
 |**2026-06-20**|**Level lines of the Gaussian free field and $c=1$ degenerate conformal blocks**|Alex Karrila, Eveliina Peltola, Lukas Schoug|[2606.22228](https://arxiv.org/abs/2606.22228)|null|
 |**2026-06-20**|**Emergence of Boolean Facts from Markovian Coarse-Graining in Relational Quantum Causal Processes**|Yipeng Xu|[2606.22127](https://arxiv.org/abs/2606.22127)|null|
 |**2026-06-20**|**Holonomies and Boundary Symmetries in the Discrete Warped Chern-Simons Gravity**|H. T. Özer, Aytül Filiz|[2606.22028](https://arxiv.org/abs/2606.22028)|null|
