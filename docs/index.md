@@ -1,7 +1,15 @@
-> Automatically updated on 2026.06.23
+> Automatically updated on 2026.06.24
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-23**|**Universality beyond the Kibble-Zurek mechanism in the condensation of coherently coupled Bose gases**|Subhadeep Patra, Paolo Comaron, Arko Roy|[2606.24864](https://arxiv.org/abs/2606.24864)|null|
+|**2026-06-23**|**Infinitesimal Causality**|Sridhar Mahadevan|[2606.24621](https://arxiv.org/abs/2606.24621)|null|
+|**2026-06-23**|**Universal two-zero texture in SO(10): implications of JUNO and realization from non-invertible symmetries**|Zi-Qiang Chen, Wen-Hao Jiang, Ye-Ling Zhou|[2606.24571](https://arxiv.org/abs/2606.24571)|null|
+|**2026-06-23**|**Central extensions of mapping class groups of surfaces from stated skein algebras**|Joris Moulai|[2606.24378](https://arxiv.org/abs/2606.24378)|null|
+|**2026-06-23**|**The Physics of Topological Defects in Glasses**|Arabinda Bera, Peter Schall, Timothy W. Sirk, Vijayakumar Chikkadi, Alessio Zaccone|[2606.24376](https://arxiv.org/abs/2606.24376)|null|
+|**2026-06-23**|**Two-Dimensional Phase Transitions in Classical Systems: 60 Years after the Hohenberg-Mermin-Wagner Theorem**|Ruijian Zhu, Yanting Wang|[2606.24091](https://arxiv.org/abs/2606.24091)|null|
+|**2026-06-22**|**Visualizing Symmetry Broken Chern Insulators and their Quantum Melting**|Minhao He, Yen-Chen Tsui, Ran Peng, Kenji Watanabe, Takashi Taniguchi, Oskar Vafek, Ali Yazdani|[2606.23795](https://arxiv.org/abs/2606.23795)|null|
+|**2026-06-22**|**Excitability of Gaussian states with VEVs**|Jacqueline Caminiti, Federico Capeccia, Jonathan Sorce|[2606.23779](https://arxiv.org/abs/2606.23779)|null|
 |**2026-06-22**|**Dissipative preparation of Laughlin-like states**|Tong Liu|[2606.23451](https://arxiv.org/abs/2606.23451)|null|
 |**2026-06-22**|**Affine Rota-Baxter groups and affine skew braces**|Jiayao Ma, Boran Zhang, Jiefeng Liu|[2606.22954](https://arxiv.org/abs/2606.22954)|null|
 |**2026-06-22**|**Bunny Codes: Broadening Superconducting Quantum Error Correction Capability through Advanced Control Engineering**|Runshi Zhou, Xingye Yuan, Linghang Kong, Fang Zhang, Kai Zhang, Zhaohui Yang, Jianxin Chen|[2606.22853](https://arxiv.org/abs/2606.22853)|null|

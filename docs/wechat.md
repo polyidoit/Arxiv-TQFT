@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.23
+> Automatically updated on 2026.06.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-23, **Universality beyond the Kibble-Zurek mechanism in the condensation of coherently coupled Bose gases**, Subhadeep Patra, Paolo Comaron, Arko Roy, Paper: [https://arxiv.org/abs/2606.24864](https://arxiv.org/abs/2606.24864), 17+3 pages, 12+4 figures
+- 2026-06-23, **Infinitesimal Causality**, Sridhar Mahadevan, Paper: [https://arxiv.org/abs/2606.24621](https://arxiv.org/abs/2606.24621), 17 pages
+- 2026-06-23, **Universal two-zero texture in SO(10): implications of JUNO and realization from non-invertible symmetries**, Zi-Qiang Chen, Wen-Hao Jiang, Ye-Ling Zhou, Paper: [https://arxiv.org/abs/2606.24571](https://arxiv.org/abs/2606.24571), 16 pages, 2 figures, 3 tables
+- 2026-06-23, **Central extensions of mapping class groups of surfaces from stated skein algebras**, Joris Moulai, Paper: [https://arxiv.org/abs/2606.24378](https://arxiv.org/abs/2606.24378), 54 pages, 44 figures
+- 2026-06-23, **The Physics of Topological Defects in Glasses**, Arabinda Bera, Peter Schall, Timothy W. Sirk, Vijayakumar Chikkadi, Alessio Zaccone, Paper: [https://arxiv.org/abs/2606.24376](https://arxiv.org/abs/2606.24376), Invited Review
+- 2026-06-23, **Two-Dimensional Phase Transitions in Classical Systems: 60 Years after the Hohenberg-Mermin-Wagner Theorem**, Ruijian Zhu, Yanting Wang, Paper: [https://arxiv.org/abs/2606.24091](https://arxiv.org/abs/2606.24091), This version has been accepted by Chinese Physics B as an invited review paper
+- 2026-06-22, **Visualizing Symmetry Broken Chern Insulators and their Quantum Melting**, Minhao He, Yen-Chen Tsui, Ran Peng, Kenji Watanabe, Takashi Taniguchi, Oskar Vafek, Ali Yazdani, Paper: [https://arxiv.org/abs/2606.23795](https://arxiv.org/abs/2606.23795)
+- 2026-06-22, **Excitability of Gaussian states with VEVs**, Jacqueline Caminiti, Federico Capeccia, Jonathan Sorce, Paper: [https://arxiv.org/abs/2606.23779](https://arxiv.org/abs/2606.23779), 19 pages + appendix
 - 2026-06-22, **Dissipative preparation of Laughlin-like states**, Tong Liu, Paper: [https://arxiv.org/abs/2606.23451](https://arxiv.org/abs/2606.23451)
 - 2026-06-22, **Affine Rota-Baxter groups and affine skew braces**, Jiayao Ma, Boran Zhang, Jiefeng Liu, Paper: [https://arxiv.org/abs/2606.22954](https://arxiv.org/abs/2606.22954), 22 pages
 - 2026-06-22, **Bunny Codes: Broadening Superconducting Quantum Error Correction Capability through Advanced Control Engineering**, Runshi Zhou, Xingye Yuan, Linghang Kong, Fang Zhang, Kai Zhang, Zhaohui Yang, Jianxin Chen, Paper: [https://arxiv.org/abs/2606.22853](https://arxiv.org/abs/2606.22853), 23 pages, 12 figures
@@ -1670,5 +1678,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
 
