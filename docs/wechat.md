@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.24
+> Automatically updated on 2026.06.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-24, **Non-invertible symmetries in the axiverse, and the imaginary wormholes**, Daniele Licciardello, Luca Martucci, Paper: [https://arxiv.org/abs/2606.26004](https://arxiv.org/abs/2606.26004), 47 pages + appendices, 6 figures
+- 2026-06-24, **Lattice non-invertible symmetry from non-commuting transfer matrices**, Eric Vernier, Yuan Miao, Masahito Yamazaki, Paper: [https://arxiv.org/abs/2606.25660](https://arxiv.org/abs/2606.25660), 7+11 pages
+- 2026-06-24, **Two-dimensional Hyperbolic RNN Neural Quantum State**, H. L. Dao, Paper: [https://arxiv.org/abs/2606.25600](https://arxiv.org/abs/2606.25600)
+- 2026-06-24, **Suppression of Active Super-Diffusion: Impact of String Defects and Canted Multi-Domains**, Ritik Rajak, Manish Agarwal, Sanjay Puri, Varsha Banerjee, Paper: [https://arxiv.org/abs/2606.25429](https://arxiv.org/abs/2606.25429), 10 pages, 7 figures
+- 2026-06-23, **A Bargmann transform for translation invariant operators on weighted Bergman spaces of the complex half-plane**, Raul Quiroga-Barranco, Paper: [https://arxiv.org/abs/2606.25209](https://arxiv.org/abs/2606.25209)
+- 2026-06-23, **Beyond Shapley: Efficient Computation of Asymmetric Shapley Values**, Ezequiel Companeetz, Santiago Cifuentes, Sergio Abriola, Paper: [https://arxiv.org/abs/2606.25103](https://arxiv.org/abs/2606.25103), 18 pages, 6 figures
+- 2026-06-23, **Majorana-Pauli stabilizer codes and duality webs of fermionic topological phases**, Meng Sun, Zongyuan Wang, Nathanan Tantivasadakarn, Yu-An Chen, Paper: [https://arxiv.org/abs/2606.25048](https://arxiv.org/abs/2606.25048)
+- 2026-06-23, **Local spectroscopy of anyons bound to charge traps**, Jeong Min Park, Cristian Voinea, Yen-Chen Tsui, Songyang Pu, Kenji Watanabe, Takashi Taniguchi, Nigel R. Cooper, Michael P. Zaletel, Zlatko Papić, Ali Yazdani, Paper: [https://arxiv.org/abs/2606.25024](https://arxiv.org/abs/2606.25024), 17 pages, 4 figures, SI
 - 2026-06-23, **Universality beyond the Kibble-Zurek mechanism in the condensation of coherently coupled Bose gases**, Subhadeep Patra, Paolo Comaron, Arko Roy, Paper: [https://arxiv.org/abs/2606.24864](https://arxiv.org/abs/2606.24864), 17+3 pages, 12+4 figures
 - 2026-06-23, **Infinitesimal Causality**, Sridhar Mahadevan, Paper: [https://arxiv.org/abs/2606.24621](https://arxiv.org/abs/2606.24621), 17 pages
 - 2026-06-23, **Universal two-zero texture in SO(10): implications of JUNO and realization from non-invertible symmetries**, Zi-Qiang Chen, Wen-Hao Jiang, Ye-Ling Zhou, Paper: [https://arxiv.org/abs/2606.24571](https://arxiv.org/abs/2606.24571), 16 pages, 2 figures, 3 tables
@@ -1678,5 +1686,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
