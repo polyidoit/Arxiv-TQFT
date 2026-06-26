@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.25
+> Automatically updated on 2026.06.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-25, **The Effect of Topological Defects and Magnetic Flux on Fully-Heavy Tetraquarks and Mass Spectra of Heavy Quarkonia Using the Analytical Exact Iteration Method**, N. H. Gerish, M. Abu-Shady, E. M. Khokha, Paper: [https://arxiv.org/abs/2606.27363](https://arxiv.org/abs/2606.27363)
+- 2026-06-25, **Local and nonlocal STM transport signatures of spin polarization in second order topological superconductors**, Paweł Szumniak, Daniel Loss, Jelena Klinovaja, Paper: [https://arxiv.org/abs/2606.26992](https://arxiv.org/abs/2606.26992)
+- 2026-06-25, **Central charges $C_J$ and $C_T$ in QED$_d$-GNY model and scalar QED$_d$**, Yongwei Guo, Zhijin Li, Paper: [https://arxiv.org/abs/2606.26623](https://arxiv.org/abs/2606.26623), 21+17 pages, 11 figures
+- 2026-06-24, **Quantum Harish-Chandra bimodules at roots of unity and affine Hecke category**, Trung Vu, Paper: [https://arxiv.org/abs/2606.26331](https://arxiv.org/abs/2606.26331), 76 pages, comments are welcome!
+- 2026-06-24, **Toric code made subsystem: a framework for topological subsystem codes using anticommuting quantum spin liquids**, Vaibhav Sharma, Sumiran Pujari, Paper: [https://arxiv.org/abs/2606.26226](https://arxiv.org/abs/2606.26226), 14 pages, 9 figures ; Comments and suggestions are welcome
 - 2026-06-24, **Non-invertible symmetries in the axiverse, and the imaginary wormholes**, Daniele Licciardello, Luca Martucci, Paper: [https://arxiv.org/abs/2606.26004](https://arxiv.org/abs/2606.26004), 47 pages + appendices, 6 figures
 - 2026-06-24, **Lattice non-invertible symmetry from non-commuting transfer matrices**, Eric Vernier, Yuan Miao, Masahito Yamazaki, Paper: [https://arxiv.org/abs/2606.25660](https://arxiv.org/abs/2606.25660), 7+11 pages
 - 2026-06-24, **Two-dimensional Hyperbolic RNN Neural Quantum State**, H. L. Dao, Paper: [https://arxiv.org/abs/2606.25600](https://arxiv.org/abs/2606.25600)
@@ -1686,5 +1691,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 

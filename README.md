@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.06.25
+> Automatically updated on 2026.06.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**The Effect of Topological Defects and Magnetic Flux on Fully-Heavy Tetraquarks and Mass Spectra of Heavy Quarkonia Using the Analytical Exact Iteration Method**|N. H. Gerish, M. Abu-Shady, E. M. Khokha|[2606.27363](https://arxiv.org/abs/2606.27363)|null|
+|**2026-06-25**|**Local and nonlocal STM transport signatures of spin polarization in second order topological superconductors**|Paweł Szumniak, Daniel Loss, Jelena Klinovaja|[2606.26992](https://arxiv.org/abs/2606.26992)|null|
+|**2026-06-25**|**Central charges $C_J$ and $C_T$ in QED$_d$-GNY model and scalar QED$_d$**|Yongwei Guo, Zhijin Li|[2606.26623](https://arxiv.org/abs/2606.26623)|null|
+|**2026-06-24**|**Quantum Harish-Chandra bimodules at roots of unity and affine Hecke category**|Trung Vu|[2606.26331](https://arxiv.org/abs/2606.26331)|null|
+|**2026-06-24**|**Toric code made subsystem: a framework for topological subsystem codes using anticommuting quantum spin liquids**|Vaibhav Sharma, Sumiran Pujari|[2606.26226](https://arxiv.org/abs/2606.26226)|null|
 |**2026-06-24**|**Non-invertible symmetries in the axiverse, and the imaginary wormholes**|Daniele Licciardello, Luca Martucci|[2606.26004](https://arxiv.org/abs/2606.26004)|null|
 |**2026-06-24**|**Lattice non-invertible symmetry from non-commuting transfer matrices**|Eric Vernier, Yuan Miao, Masahito Yamazaki|[2606.25660](https://arxiv.org/abs/2606.25660)|null|
 |**2026-06-24**|**Two-dimensional Hyperbolic RNN Neural Quantum State**|H. L. Dao|[2606.25600](https://arxiv.org/abs/2606.25600)|null|
@@ -2485,5 +2490,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
 
