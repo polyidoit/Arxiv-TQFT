@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.28
+> Automatically updated on 2026.06.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-26, **Excitation of Collective Modes in a Chiral Superfluid by Thermal Quench**, Noble Gluscevich, J. A. Sauls, Paper: [https://arxiv.org/abs/2606.28306](https://arxiv.org/abs/2606.28306), 9 pages, 6 figures
+- 2026-06-26, **Hybrid quantum-classical neural network for sample-efficient recognition of topological phases**, Markus K. Hoffmann, Leon C. Sander, Colin Scarato, Christoph Hellings, Johannes Knörzer, Michael J. Hartmann, Petr Zapletal, Paper: [https://arxiv.org/abs/2606.28199](https://arxiv.org/abs/2606.28199), 18 pages, 18 figures
+- 2026-06-26, **Rare Events Govern Defect Formation under Weak Symmetry Breaking**, Jiang Liu, Peng Yang, Matteo Baggioli, Paper: [https://arxiv.org/abs/2606.27835](https://arxiv.org/abs/2606.27835), v1: comments are welcome
+- 2026-06-26, **The quantum instrument monad**, Tobias Fritz, Paper: [https://arxiv.org/abs/2606.27805](https://arxiv.org/abs/2606.27805), 28 pages. Independent work by Booth, Leichtle, Rice and Worrall develops a closely related construction in the Heisenberg picture. The two works provide complementary Schrödinger- and Heisenberg-picture formulations
+- 2026-06-26, **Representations of infinite species**, Raphael Bennett-Tennenhaus, Job Daisie Rock, Paper: [https://arxiv.org/abs/2606.27668](https://arxiv.org/abs/2606.27668), 38 page, comments welcome
+- 2026-06-25, **Directed Graph Topology Inference via Graph Filter Identification**, Rasoul Shafipour, Andrei Buciulea, Santiago Segarra, Antonio G. Marques, Gonzalo Mateos, Paper: [https://arxiv.org/abs/2606.27455](https://arxiv.org/abs/2606.27455), 13 pages main body, 2 pages supplementary material. Submitted to the IEEE Transactions on Signal Processing
 - 2026-06-25, **The Effect of Topological Defects and Magnetic Flux on Fully-Heavy Tetraquarks and Mass Spectra of Heavy Quarkonia Using the Analytical Exact Iteration Method**, N. H. Gerish, M. Abu-Shady, E. M. Khokha, Paper: [https://arxiv.org/abs/2606.27363](https://arxiv.org/abs/2606.27363)
 - 2026-06-25, **Local and nonlocal STM transport signatures of spin polarization in second order topological superconductors**, Paweł Szumniak, Daniel Loss, Jelena Klinovaja, Paper: [https://arxiv.org/abs/2606.26992](https://arxiv.org/abs/2606.26992)
 - 2026-06-25, **Central charges $C_J$ and $C_T$ in QED$_d$-GNY model and scalar QED$_d$**, Yongwei Guo, Zhijin Li, Paper: [https://arxiv.org/abs/2606.26623](https://arxiv.org/abs/2606.26623), 21+17 pages, 11 figures
@@ -1691,5 +1697,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 

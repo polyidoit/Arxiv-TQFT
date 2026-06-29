@@ -1,7 +1,13 @@
-> Automatically updated on 2026.06.28
+> Automatically updated on 2026.06.29
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-26**|**Excitation of Collective Modes in a Chiral Superfluid by Thermal Quench**|Noble Gluscevich, J. A. Sauls|[2606.28306](https://arxiv.org/abs/2606.28306)|null|
+|**2026-06-26**|**Hybrid quantum-classical neural network for sample-efficient recognition of topological phases**|Markus K. Hoffmann, Leon C. Sander, Colin Scarato, Christoph Hellings, Johannes Knörzer, Michael J. Hartmann, Petr Zapletal|[2606.28199](https://arxiv.org/abs/2606.28199)|null|
+|**2026-06-26**|**Rare Events Govern Defect Formation under Weak Symmetry Breaking**|Jiang Liu, Peng Yang, Matteo Baggioli|[2606.27835](https://arxiv.org/abs/2606.27835)|null|
+|**2026-06-26**|**The quantum instrument monad**|Tobias Fritz|[2606.27805](https://arxiv.org/abs/2606.27805)|null|
+|**2026-06-26**|**Representations of infinite species**|Raphael Bennett-Tennenhaus, Job Daisie Rock|[2606.27668](https://arxiv.org/abs/2606.27668)|null|
+|**2026-06-25**|**Directed Graph Topology Inference via Graph Filter Identification**|Rasoul Shafipour, Andrei Buciulea, Santiago Segarra, Antonio G. Marques, Gonzalo Mateos|[2606.27455](https://arxiv.org/abs/2606.27455)|null|
 |**2026-06-25**|**The Effect of Topological Defects and Magnetic Flux on Fully-Heavy Tetraquarks and Mass Spectra of Heavy Quarkonia Using the Analytical Exact Iteration Method**|N. H. Gerish, M. Abu-Shady, E. M. Khokha|[2606.27363](https://arxiv.org/abs/2606.27363)|null|
 |**2026-06-25**|**Local and nonlocal STM transport signatures of spin polarization in second order topological superconductors**|Paweł Szumniak, Daniel Loss, Jelena Klinovaja|[2606.26992](https://arxiv.org/abs/2606.26992)|null|
 |**2026-06-25**|**Central charges $C_J$ and $C_T$ in QED$_d$-GNY model and scalar QED$_d$**|Yongwei Guo, Zhijin Li|[2606.26623](https://arxiv.org/abs/2606.26623)|null|
