@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-29, **A Field-Theoretic Framework for Work Statistics and Universal Scaling in Non-equilibrium Phase Transitions**, Yanbo Qiao, Ruohan Xu, H. T. Quan, Paper: [https://arxiv.org/abs/2606.30503](https://arxiv.org/abs/2606.30503)
 - 2026-06-29, **Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**, Carlos Magno O. Pereira, Denise Assafrão, Edilberto O. Silva, Paper: [https://arxiv.org/abs/2606.30245](https://arxiv.org/abs/2606.30245), 14 pages, 12 figures, 1 table. Comments are welcome
 - 2026-06-29, **Non-Commutative Wiener-Wintner theorem for amenable group actions**, Panchugopal Bikram, Sudipta Kundu, Hariharan G, Paper: [https://arxiv.org/abs/2606.30194](https://arxiv.org/abs/2606.30194), 25 pages
 - 2026-06-29, **Braided cogroupoids**, Thi Hoa Nguyen, Paper: [https://arxiv.org/abs/2606.30165](https://arxiv.org/abs/2606.30165)
