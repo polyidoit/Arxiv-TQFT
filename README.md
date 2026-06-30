@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.06.29
+> Automatically updated on 2026.06.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira, Denise Assafrão, Edilberto O. Silva|[2606.30245](https://arxiv.org/abs/2606.30245)|null|
+|**2026-06-29**|**Non-Commutative Wiener-Wintner theorem for amenable group actions**|Panchugopal Bikram, Sudipta Kundu, Hariharan G|[2606.30194](https://arxiv.org/abs/2606.30194)|null|
+|**2026-06-29**|**Braided cogroupoids**|Thi Hoa Nguyen|[2606.30165](https://arxiv.org/abs/2606.30165)|null|
+|**2026-06-29**|**Understanding Color Confinement through Quantum Reference Frames and Relational Observables**|Kei-Ichi Kondo|[2606.29668](https://arxiv.org/abs/2606.29668)|null|
+|**2026-06-28**|**Probing Quantum Geometric Phases via Scanning Tunneling Microscopy**|Chao Yan, Mu-Wei Gao, Yue Zhao, Jia-Xin Yin|[2606.29564](https://arxiv.org/abs/2606.29564)|null|
+|**2026-06-27**|**Cohomological beta function**|Oleksandr Gamayun, Maxim Gritskov, Andrey Losev|[2606.28975](https://arxiv.org/abs/2606.28975)|null|
+|**2026-06-27**|**Sixteen-Fold Way for Fermionic Topological Orders**|Ryohei Kobayashi, Abhinav Prem, Matthew Yu|[2606.28682](https://arxiv.org/abs/2606.28682)|null|
+|**2026-06-26**|**Homotopy Frobenius structures on the cohomology of a manifold**|Florian Naef, Thomas Willwacher|[2606.28466](https://arxiv.org/abs/2606.28466)|null|
 |**2026-06-26**|**Excitation of Collective Modes in a Chiral Superfluid by Thermal Quench**|Noble Gluscevich, J. A. Sauls|[2606.28306](https://arxiv.org/abs/2606.28306)|null|
 |**2026-06-26**|**Hybrid quantum-classical neural network for sample-efficient recognition of topological phases**|Markus K. Hoffmann, Leon C. Sander, Colin Scarato, Christoph Hellings, Johannes Knörzer, Michael J. Hartmann, Petr Zapletal|[2606.28199](https://arxiv.org/abs/2606.28199)|null|
 |**2026-06-26**|**Rare Events Govern Defect Formation under Weak Symmetry Breaking**|Jiang Liu, Peng Yang, Matteo Baggioli|[2606.27835](https://arxiv.org/abs/2606.27835)|null|
@@ -2496,5 +2504,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
 

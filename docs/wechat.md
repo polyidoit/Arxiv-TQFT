@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.29
+> Automatically updated on 2026.06.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-29, **Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**, Carlos Magno O. Pereira, Denise Assafrão, Edilberto O. Silva, Paper: [https://arxiv.org/abs/2606.30245](https://arxiv.org/abs/2606.30245), 14 pages, 12 figures, 1 table. Comments are welcome
+- 2026-06-29, **Non-Commutative Wiener-Wintner theorem for amenable group actions**, Panchugopal Bikram, Sudipta Kundu, Hariharan G, Paper: [https://arxiv.org/abs/2606.30194](https://arxiv.org/abs/2606.30194), 25 pages
+- 2026-06-29, **Braided cogroupoids**, Thi Hoa Nguyen, Paper: [https://arxiv.org/abs/2606.30165](https://arxiv.org/abs/2606.30165)
+- 2026-06-29, **Understanding Color Confinement through Quantum Reference Frames and Relational Observables**, Kei-Ichi Kondo, Paper: [https://arxiv.org/abs/2606.29668](https://arxiv.org/abs/2606.29668), 76 pages, 14 figures,
+- 2026-06-28, **Probing Quantum Geometric Phases via Scanning Tunneling Microscopy**, Chao Yan, Mu-Wei Gao, Yue Zhao, Jia-Xin Yin, Paper: [https://arxiv.org/abs/2606.29564](https://arxiv.org/abs/2606.29564)
+- 2026-06-27, **Cohomological beta function**, Oleksandr Gamayun, Maxim Gritskov, Andrey Losev, Paper: [https://arxiv.org/abs/2606.28975](https://arxiv.org/abs/2606.28975)
+- 2026-06-27, **Sixteen-Fold Way for Fermionic Topological Orders**, Ryohei Kobayashi, Abhinav Prem, Matthew Yu, Paper: [https://arxiv.org/abs/2606.28682](https://arxiv.org/abs/2606.28682), 15 pages, 4 figures
+- 2026-06-26, **Homotopy Frobenius structures on the cohomology of a manifold**, Florian Naef, Thomas Willwacher, Paper: [https://arxiv.org/abs/2606.28466](https://arxiv.org/abs/2606.28466)
 - 2026-06-26, **Excitation of Collective Modes in a Chiral Superfluid by Thermal Quench**, Noble Gluscevich, J. A. Sauls, Paper: [https://arxiv.org/abs/2606.28306](https://arxiv.org/abs/2606.28306), 9 pages, 6 figures
 - 2026-06-26, **Hybrid quantum-classical neural network for sample-efficient recognition of topological phases**, Markus K. Hoffmann, Leon C. Sander, Colin Scarato, Christoph Hellings, Johannes Knörzer, Michael J. Hartmann, Petr Zapletal, Paper: [https://arxiv.org/abs/2606.28199](https://arxiv.org/abs/2606.28199), 18 pages, 18 figures
 - 2026-06-26, **Rare Events Govern Defect Formation under Weak Symmetry Breaking**, Jiang Liu, Peng Yang, Matteo Baggioli, Paper: [https://arxiv.org/abs/2606.27835](https://arxiv.org/abs/2606.27835), v1: comments are welcome
@@ -1697,5 +1705,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
 
