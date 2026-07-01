@@ -1,7 +1,15 @@
-> Automatically updated on 2026.06.30
+> Automatically updated on 2026.07.01
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang, Zixia Wei, Xueda Wen|[2606.32035](https://arxiv.org/abs/2606.32035)|null|
+|**2026-06-30**|**A class of II $_1$ factors without non-trivial crossed product decompositions**|Adriana Fernández Quero, Adrian Ioana, Hui Tan|[2606.31929](https://arxiv.org/abs/2606.31929)|null|
+|**2026-06-30**|**On a family of liftings of the Jordan plane**|Tao Lu|[2606.31788](https://arxiv.org/abs/2606.31788)|null|
+|**2026-06-30**|**Maximizing Parallel Execution of Series-Parallel Task Graphs for Safety-Critical Embedded Control**|Jinghao Sun, Zhenchu Hu, Ye Ma, Bo Tang, Qingxu Deng, Xiuzhen Cheng|[2606.31481](https://arxiv.org/abs/2606.31481)|null|
+|**2026-06-30**|**Non-invertible symmetries and modular invariance in lattice models**|Yacine Ikhlef|[2606.31313](https://arxiv.org/abs/2606.31313)|null|
+|**2026-06-30**|**Investigation of the $J_1$-$J_2$ Heisenberg model on the triangular lattice: A study with projected entangled-pair states**|Litao Ma, Wei-Lin Tu, Didier Poilblanc, Ji-Yao Chen|[2606.31021](https://arxiv.org/abs/2606.31021)|null|
+|**2026-06-29**|**Minkowskian open/closed conformal field theory possibly without vacuum: the Cardy case**|Bin Gui|[2606.30928](https://arxiv.org/abs/2606.30928)|null|
+|**2026-06-29**|**Complex Conformal Manifolds**|Yuma Furuta, Wataru Harada, Yuya Kusuki, Yin Tang|[2606.30720](https://arxiv.org/abs/2606.30720)|null|
 |**2026-06-29**|**A Field-Theoretic Framework for Work Statistics and Universal Scaling in Non-equilibrium Phase Transitions**|Yanbo Qiao, Ruohan Xu, H. T. Quan|[2606.30503](https://arxiv.org/abs/2606.30503)|null|
 |**2026-06-29**|**Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**|Carlos Magno O. Pereira, Denise Assafrão, Edilberto O. Silva|[2606.30245](https://arxiv.org/abs/2606.30245)|null|
 |**2026-06-29**|**Non-Commutative Wiener-Wintner theorem for amenable group actions**|Panchugopal Bikram, Sudipta Kundu, Hariharan G|[2606.30194](https://arxiv.org/abs/2606.30194)|null|

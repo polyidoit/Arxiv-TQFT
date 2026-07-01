@@ -1,4 +1,4 @@
-> Automatically updated on 2026.06.30
+> Automatically updated on 2026.07.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-06-30, **Exactly solvable non-unitary conformal interfaces in unitary CFTs**, Qicheng Tang, Zixia Wei, Xueda Wen, Paper: [https://arxiv.org/abs/2606.32035](https://arxiv.org/abs/2606.32035), 26 pages, 1 figure
+- 2026-06-30, **A class of II $_1$ factors without non-trivial crossed product decompositions**, Adriana Fernández Quero, Adrian Ioana, Hui Tan, Paper: [https://arxiv.org/abs/2606.31929](https://arxiv.org/abs/2606.31929)
+- 2026-06-30, **On a family of liftings of the Jordan plane**, Tao Lu, Paper: [https://arxiv.org/abs/2606.31788](https://arxiv.org/abs/2606.31788)
+- 2026-06-30, **Maximizing Parallel Execution of Series-Parallel Task Graphs for Safety-Critical Embedded Control**, Jinghao Sun, Zhenchu Hu, Ye Ma, Bo Tang, Qingxu Deng, Xiuzhen Cheng, Paper: [https://arxiv.org/abs/2606.31481](https://arxiv.org/abs/2606.31481)
+- 2026-06-30, **Non-invertible symmetries and modular invariance in lattice models**, Yacine Ikhlef, Paper: [https://arxiv.org/abs/2606.31313](https://arxiv.org/abs/2606.31313), 30 pages + Appendix and refs
+- 2026-06-30, **Investigation of the $J_1$-$J_2$ Heisenberg model on the triangular lattice: A study with projected entangled-pair states**, Litao Ma, Wei-Lin Tu, Didier Poilblanc, Ji-Yao Chen, Paper: [https://arxiv.org/abs/2606.31021](https://arxiv.org/abs/2606.31021), 12 pages, 10 figures
+- 2026-06-29, **Minkowskian open/closed conformal field theory possibly without vacuum: the Cardy case**, Bin Gui, Paper: [https://arxiv.org/abs/2606.30928](https://arxiv.org/abs/2606.30928), 92 pages, 5 figures
+- 2026-06-29, **Complex Conformal Manifolds**, Yuma Furuta, Wataru Harada, Yuya Kusuki, Yin Tang, Paper: [https://arxiv.org/abs/2606.30720](https://arxiv.org/abs/2606.30720)
 - 2026-06-29, **A Field-Theoretic Framework for Work Statistics and Universal Scaling in Non-equilibrium Phase Transitions**, Yanbo Qiao, Ruohan Xu, H. T. Quan, Paper: [https://arxiv.org/abs/2606.30503](https://arxiv.org/abs/2606.30503)
 - 2026-06-29, **Topological control of third-harmonic generation in a mesoscopic quantum ring with spiral dislocation**, Carlos Magno O. Pereira, Denise Assafrão, Edilberto O. Silva, Paper: [https://arxiv.org/abs/2606.30245](https://arxiv.org/abs/2606.30245), 14 pages, 12 figures, 1 table. Comments are welcome
 - 2026-06-29, **Non-Commutative Wiener-Wintner theorem for amenable group actions**, Panchugopal Bikram, Sudipta Kundu, Hariharan G, Paper: [https://arxiv.org/abs/2606.30194](https://arxiv.org/abs/2606.30194), 25 pages
@@ -1706,5 +1714,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
