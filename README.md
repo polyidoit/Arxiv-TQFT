@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.07.01
+> Automatically updated on 2026.07.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Hopf algebraic homogeneous spaces interpreted rationally: the Abe-Kanno theorem**|Serge Skryabin|[2607.01195](https://arxiv.org/abs/2607.01195)|null|
+|**2026-07-01**|**Entanglement fingerprint of a non-invertible symmetry: exact Fibonacci cut charges on the lattice**|Yi Liang|[2607.01151](https://arxiv.org/abs/2607.01151)|null|
+|**2026-07-01**|**Entanglement-spectrum fingerprint of a non-invertible symmetry: the Kramers--Wannier duality defect on the lattice**|Yi Liang|[2607.01137](https://arxiv.org/abs/2607.01137)|null|
+|**2026-07-01**|**Soft Algebras via Bulk Double Soft Limits**|Sruthi A. Narayanan|[2607.00864](https://arxiv.org/abs/2607.00864)|null|
+|**2026-06-30**|**Hilbert transforms on graph products of finite von Neumann algebras**|Xiao-Qi Lu, Runlian Xia|[2607.00194](https://arxiv.org/abs/2607.00194)|null|
+|**2026-06-30**|**Phase distinction of Gibbs states without symmetry breaking: topological invariants of the 3D toric code**|Haruki Watanabe|[2607.00134](https://arxiv.org/abs/2607.00134)|null|
+|**2026-06-30**|**Toward Hamiltonian simulations of Maxwell-Chern-Simons theory: constant modes and gauge field truncation**|Andrea Bulgarelli, Maria Cristina Diamantini, Nico Dichter, Lena Funcke, Tobias Hartung, Karl Jansen, Enrique Rico Ortega, Simran Singh, Lorenzo Spera|[2607.00082](https://arxiv.org/abs/2607.00082)|null|
 |**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang, Zixia Wei, Xueda Wen|[2606.32035](https://arxiv.org/abs/2606.32035)|null|
 |**2026-06-30**|**A class of II $_1$ factors without non-trivial crossed product decompositions**|Adriana Fernández Quero, Adrian Ioana, Hui Tan|[2606.31929](https://arxiv.org/abs/2606.31929)|null|
 |**2026-06-30**|**On a family of liftings of the Jordan plane**|Tao Lu|[2606.31788](https://arxiv.org/abs/2606.31788)|null|
@@ -2513,5 +2520,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
 

@@ -1,7 +1,14 @@
-> Automatically updated on 2026.07.01
+> Automatically updated on 2026.07.02
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-07-01**|**Hopf algebraic homogeneous spaces interpreted rationally: the Abe-Kanno theorem**|Serge Skryabin|[2607.01195](https://arxiv.org/abs/2607.01195)|null|
+|**2026-07-01**|**Entanglement fingerprint of a non-invertible symmetry: exact Fibonacci cut charges on the lattice**|Yi Liang|[2607.01151](https://arxiv.org/abs/2607.01151)|null|
+|**2026-07-01**|**Entanglement-spectrum fingerprint of a non-invertible symmetry: the Kramers--Wannier duality defect on the lattice**|Yi Liang|[2607.01137](https://arxiv.org/abs/2607.01137)|null|
+|**2026-07-01**|**Soft Algebras via Bulk Double Soft Limits**|Sruthi A. Narayanan|[2607.00864](https://arxiv.org/abs/2607.00864)|null|
+|**2026-06-30**|**Hilbert transforms on graph products of finite von Neumann algebras**|Xiao-Qi Lu, Runlian Xia|[2607.00194](https://arxiv.org/abs/2607.00194)|null|
+|**2026-06-30**|**Phase distinction of Gibbs states without symmetry breaking: topological invariants of the 3D toric code**|Haruki Watanabe|[2607.00134](https://arxiv.org/abs/2607.00134)|null|
+|**2026-06-30**|**Toward Hamiltonian simulations of Maxwell-Chern-Simons theory: constant modes and gauge field truncation**|Andrea Bulgarelli, Maria Cristina Diamantini, Nico Dichter, Lena Funcke, Tobias Hartung, Karl Jansen, Enrique Rico Ortega, Simran Singh, Lorenzo Spera|[2607.00082](https://arxiv.org/abs/2607.00082)|null|
 |**2026-06-30**|**Exactly solvable non-unitary conformal interfaces in unitary CFTs**|Qicheng Tang, Zixia Wei, Xueda Wen|[2606.32035](https://arxiv.org/abs/2606.32035)|null|
 |**2026-06-30**|**A class of II $_1$ factors without non-trivial crossed product decompositions**|Adriana Fernández Quero, Adrian Ioana, Hui Tan|[2606.31929](https://arxiv.org/abs/2606.31929)|null|
 |**2026-06-30**|**On a family of liftings of the Jordan plane**|Tao Lu|[2606.31788](https://arxiv.org/abs/2606.31788)|null|

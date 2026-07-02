@@ -1,4 +1,4 @@
-> Automatically updated on 2026.07.01
+> Automatically updated on 2026.07.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-01, **Hopf algebraic homogeneous spaces interpreted rationally: the Abe-Kanno theorem**, Serge Skryabin, Paper: [https://arxiv.org/abs/2607.01195](https://arxiv.org/abs/2607.01195), plain tex, 78 pages
+- 2026-07-01, **Entanglement fingerprint of a non-invertible symmetry: exact Fibonacci cut charges on the lattice**, Yi Liang, Paper: [https://arxiv.org/abs/2607.01151](https://arxiv.org/abs/2607.01151), 7 pages, 1 figure; includes Supplemental Material
+- 2026-07-01, **Entanglement-spectrum fingerprint of a non-invertible symmetry: the Kramers--Wannier duality defect on the lattice**, Yi Liang, Paper: [https://arxiv.org/abs/2607.01137](https://arxiv.org/abs/2607.01137), 7 pages, 1 figure; includes Supplemental Material
+- 2026-07-01, **Soft Algebras via Bulk Double Soft Limits**, Sruthi A. Narayanan, Paper: [https://arxiv.org/abs/2607.00864](https://arxiv.org/abs/2607.00864), 17 pages, 2 appendices
+- 2026-06-30, **Hilbert transforms on graph products of finite von Neumann algebras**, Xiao-Qi Lu, Runlian Xia, Paper: [https://arxiv.org/abs/2607.00194](https://arxiv.org/abs/2607.00194)
+- 2026-06-30, **Phase distinction of Gibbs states without symmetry breaking: topological invariants of the 3D toric code**, Haruki Watanabe, Paper: [https://arxiv.org/abs/2607.00134](https://arxiv.org/abs/2607.00134), 21+18 pages, 11 figures
+- 2026-06-30, **Toward Hamiltonian simulations of Maxwell-Chern-Simons theory: constant modes and gauge field truncation**, Andrea Bulgarelli, Maria Cristina Diamantini, Nico Dichter, Lena Funcke, Tobias Hartung, Karl Jansen, Enrique Rico Ortega, Simran Singh, Lorenzo Spera, Paper: [https://arxiv.org/abs/2607.00082](https://arxiv.org/abs/2607.00082), 1+43 pages, 13 figures
 - 2026-06-30, **Exactly solvable non-unitary conformal interfaces in unitary CFTs**, Qicheng Tang, Zixia Wei, Xueda Wen, Paper: [https://arxiv.org/abs/2606.32035](https://arxiv.org/abs/2606.32035), 26 pages, 1 figure
 - 2026-06-30, **A class of II $_1$ factors without non-trivial crossed product decompositions**, Adriana Fernández Quero, Adrian Ioana, Hui Tan, Paper: [https://arxiv.org/abs/2606.31929](https://arxiv.org/abs/2606.31929)
 - 2026-06-30, **On a family of liftings of the Jordan plane**, Tao Lu, Paper: [https://arxiv.org/abs/2606.31788](https://arxiv.org/abs/2606.31788)
@@ -1714,5 +1721,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
 
