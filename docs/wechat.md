@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-02, **Black Holes and Random Variables**, Eric Perlmutter, Paper: [https://arxiv.org/abs/2607.02233](https://arxiv.org/abs/2607.02233), 35 pages
+- 2026-07-02, **Pore-scale distribution and transport of active particles in a two-dimensional lattice**, Akhil Varma, David Saintillan, Paper: [https://arxiv.org/abs/2607.02143](https://arxiv.org/abs/2607.02143), 23 pages
+- 2026-07-02, **Lubkin-Page typicality bounds for Type~II von~Neumann factors**, Zhi-Wei Wang, Samuel L. Braunstein, Paper: [https://arxiv.org/abs/2607.01873](https://arxiv.org/abs/2607.01873), 6 pages, 0 figure
+- 2026-07-01, **Decohered toric code under quantum damping noise and its mapping to a classical spin model**, Nihar Ranjan Dash, Sanjoy Dutta, R. Srikanth, Subhashish Banerjee, Paper: [https://arxiv.org/abs/2607.01364](https://arxiv.org/abs/2607.01364), 11 pages, 6 figures
+- 2026-07-01, **A Fuzzy Sphere Journey in Critical Phenomena**, Yin-Chen He, W. Zhu, Paper: [https://arxiv.org/abs/2607.01310](https://arxiv.org/abs/2607.01310), Invited review. Submitted May 2025; revised September 2025; published March 2026
 - 2026-07-01, **Hopf algebraic homogeneous spaces interpreted rationally: the Abe-Kanno theorem**, Serge Skryabin, Paper: [https://arxiv.org/abs/2607.01195](https://arxiv.org/abs/2607.01195), plain tex, 78 pages
 - 2026-07-01, **Entanglement fingerprint of a non-invertible symmetry: exact Fibonacci cut charges on the lattice**, Yi Liang, Paper: [https://arxiv.org/abs/2607.01151](https://arxiv.org/abs/2607.01151), 7 pages, 1 figure; includes Supplemental Material
 - 2026-07-01, **Entanglement-spectrum fingerprint of a non-invertible symmetry: the Kramers--Wannier duality defect on the lattice**, Yi Liang, Paper: [https://arxiv.org/abs/2607.01137](https://arxiv.org/abs/2607.01137), 7 pages, 1 figure; includes Supplemental Material
