@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-06, **Quantum Computational Resources and Conformal Field Theory: Unifying Spins, Bosons, and Fermions**, Ryota Matsuda, Masahiro Hoshino, Yuto Ashida, Paper: [https://arxiv.org/abs/2607.05343](https://arxiv.org/abs/2607.05343), 39 pages, 8 figures
+- 2026-07-06, **Integral representations of $f$ -divergences for general von Neumann algebras**, Ricardo Correa da Silva, Markus B. Fröb, Gandalf Lechner, Leonardo Sangaletti, Paper: [https://arxiv.org/abs/2607.05195](https://arxiv.org/abs/2607.05195), 55 pages, comments welcome. See also the concurrent independent work by Koßmann, Schwonnek, Liu, and Cheng, which is being released simultaneously
+- 2026-07-06, **Spectral-topology-induced criticality in non-Hermitian fermionic metals**, Ayan Banerjee, Julius T. Gohsrich, Flore K. Kunst, Paper: [https://arxiv.org/abs/2607.05190](https://arxiv.org/abs/2607.05190), 9 pages, 4 figures, SI with 8 pages with 4 figures
+- 2026-07-06, **On the Cartan Graphs of Nichols Algebras over Coquasi-Hopf Algebras**, Bowen Li, Paper: [https://arxiv.org/abs/2607.05065](https://arxiv.org/abs/2607.05065), 46pages, comments welcome
+- 2026-07-06, **Local Defects and the Topology of the Haldane Model**, Vishesh Makwana, Eric Akkermans, Paper: [https://arxiv.org/abs/2607.04771](https://arxiv.org/abs/2607.04771), 8 pages, 8 figures
+- 2026-07-05, **$G$ -finite von Neumann algebras and weakly almost periodic functions**, Paul Jolissaint, Paper: [https://arxiv.org/abs/2607.04473](https://arxiv.org/abs/2607.04473), 7 pages; comments are welcome
+- 2026-07-05, **Quasi-two-dimensional Majorana zero modes from finite-size-coupled chiral hinge states**, Wenhao Liang, Xun-Jiang Luo, Paper: [https://arxiv.org/abs/2607.04358](https://arxiv.org/abs/2607.04358)
+- 2026-07-05, **Entanglement of excited states after measurements in conformal field theory**, Hui-Huang Chen, Paper: [https://arxiv.org/abs/2607.04268](https://arxiv.org/abs/2607.04268), 33 pages, 3 figures
+- 2026-07-04, **From OPE Associativity to Gravitational Wave Signatures: Critical Dimensions and AdS/dS Transition**, Tetiana Obikhod, Paper: [https://arxiv.org/abs/2607.03969](https://arxiv.org/abs/2607.03969), 13 pages
+- 2026-07-04, **Disentangling Haldane Phase by Generalized Clifford Circuits**, Minsoo Kim, Changhun Oh, Donghoon Kim, Paper: [https://arxiv.org/abs/2607.03939](https://arxiv.org/abs/2607.03939)
 - 2026-07-02, **Black Holes and Random Variables**, Eric Perlmutter, Paper: [https://arxiv.org/abs/2607.02233](https://arxiv.org/abs/2607.02233), 35 pages
 - 2026-07-02, **Pore-scale distribution and transport of active particles in a two-dimensional lattice**, Akhil Varma, David Saintillan, Paper: [https://arxiv.org/abs/2607.02143](https://arxiv.org/abs/2607.02143), 23 pages
 - 2026-07-02, **Lubkin-Page typicality bounds for Type~II von~Neumann factors**, Zhi-Wei Wang, Samuel L. Braunstein, Paper: [https://arxiv.org/abs/2607.01873](https://arxiv.org/abs/2607.01873), 6 pages, 0 figure

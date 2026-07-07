@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-07-06**|**Quantum Computational Resources and Conformal Field Theory: Unifying Spins, Bosons, and Fermions**|Ryota Matsuda, Masahiro Hoshino, Yuto Ashida|[2607.05343](https://arxiv.org/abs/2607.05343)|null|
+|**2026-07-06**|**Integral representations of $f$ -divergences for general von Neumann algebras**|Ricardo Correa da Silva, Markus B. Fröb, Gandalf Lechner, Leonardo Sangaletti|[2607.05195](https://arxiv.org/abs/2607.05195)|null|
+|**2026-07-06**|**Spectral-topology-induced criticality in non-Hermitian fermionic metals**|Ayan Banerjee, Julius T. Gohsrich, Flore K. Kunst|[2607.05190](https://arxiv.org/abs/2607.05190)|null|
+|**2026-07-06**|**On the Cartan Graphs of Nichols Algebras over Coquasi-Hopf Algebras**|Bowen Li|[2607.05065](https://arxiv.org/abs/2607.05065)|null|
+|**2026-07-06**|**Local Defects and the Topology of the Haldane Model**|Vishesh Makwana, Eric Akkermans|[2607.04771](https://arxiv.org/abs/2607.04771)|null|
+|**2026-07-05**|**$G$ -finite von Neumann algebras and weakly almost periodic functions**|Paul Jolissaint|[2607.04473](https://arxiv.org/abs/2607.04473)|null|
+|**2026-07-05**|**Quasi-two-dimensional Majorana zero modes from finite-size-coupled chiral hinge states**|Wenhao Liang, Xun-Jiang Luo|[2607.04358](https://arxiv.org/abs/2607.04358)|null|
+|**2026-07-05**|**Entanglement of excited states after measurements in conformal field theory**|Hui-Huang Chen|[2607.04268](https://arxiv.org/abs/2607.04268)|null|
+|**2026-07-04**|**From OPE Associativity to Gravitational Wave Signatures: Critical Dimensions and AdS/dS Transition**|Tetiana Obikhod|[2607.03969](https://arxiv.org/abs/2607.03969)|null|
+|**2026-07-04**|**Disentangling Haldane Phase by Generalized Clifford Circuits**|Minsoo Kim, Changhun Oh, Donghoon Kim|[2607.03939](https://arxiv.org/abs/2607.03939)|null|
 |**2026-07-02**|**Black Holes and Random Variables**|Eric Perlmutter|[2607.02233](https://arxiv.org/abs/2607.02233)|null|
 |**2026-07-02**|**Pore-scale distribution and transport of active particles in a two-dimensional lattice**|Akhil Varma, David Saintillan|[2607.02143](https://arxiv.org/abs/2607.02143)|null|
 |**2026-07-02**|**Lubkin-Page typicality bounds for Type~II von~Neumann factors**|Zhi-Wei Wang, Samuel L. Braunstein|[2607.01873](https://arxiv.org/abs/2607.01873)|null|
