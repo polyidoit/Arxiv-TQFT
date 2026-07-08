@@ -1,7 +1,15 @@
-> Automatically updated on 2026.07.07
+> Automatically updated on 2026.07.08
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-07-07**|**Bockstein Braiding Statistics Versus Three-Loop Braiding**|Hanyu Xue|[2607.06279](https://arxiv.org/abs/2607.06279)|null|
+|**2026-07-07**|**Stabilization of Stone-Wales Defects in Metal-supported Graphene**|Rob H. Mason, Manuka M. S. Sinharage, Hansika I. Sirikumara, Sabrina Nilufar, Thushari Jayasekera|[2607.06057](https://arxiv.org/abs/2607.06057)|null|
+|**2026-07-07**|**Genuine Multi-Entropy in the Toric Code**|Sriram Akella, Norihiro Iizuka, Akihiro Miyata|[2607.06050](https://arxiv.org/abs/2607.06050)|null|
+|**2026-07-07**|**Dipole ghosts and spontaneous symmetry breaking in higher-order Chern-Simons theory**|Carlos M. Reyes, César Riquelme, Angel Sanchez|[2607.05788](https://arxiv.org/abs/2607.05788)|null|
+|**2026-07-07**|**Equivalence between the Axion Invariant and the $S_4$ Symmetry Indicator**|Mengyao Zhang|[2607.05719](https://arxiv.org/abs/2607.05719)|null|
+|**2026-07-06**|**Electric Field Induced Multi-Space Topological Phase Transitions in Janus Monolayer MnBi2Se2Te2**|Kefan Zhang, Jian Wu, Weiyi Pan|[2607.05631](https://arxiv.org/abs/2607.05631)|null|
+|**2026-07-06**|**Exact sequences of rt-categories**|Menggao Li, Gongxiang Liu|[2607.05532](https://arxiv.org/abs/2607.05532)|null|
+|**2026-07-06**|**Constant Scaling Fails for Global Monopole Networks**|Wakutaka Nakano, Wen Yin|[2607.05517](https://arxiv.org/abs/2607.05517)|null|
 |**2026-07-06**|**Quantum Computational Resources and Conformal Field Theory: Unifying Spins, Bosons, and Fermions**|Ryota Matsuda, Masahiro Hoshino, Yuto Ashida|[2607.05343](https://arxiv.org/abs/2607.05343)|null|
 |**2026-07-06**|**Integral representations of $f$ -divergences for general von Neumann algebras**|Ricardo Correa da Silva, Markus B. Fröb, Gandalf Lechner, Leonardo Sangaletti|[2607.05195](https://arxiv.org/abs/2607.05195)|null|
 |**2026-07-06**|**Spectral-topology-induced criticality in non-Hermitian fermionic metals**|Ayan Banerjee, Julius T. Gohsrich, Flore K. Kunst|[2607.05190](https://arxiv.org/abs/2607.05190)|null|

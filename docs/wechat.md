@@ -1,4 +1,4 @@
-> Automatically updated on 2026.07.07
+> Automatically updated on 2026.07.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-07, **Bockstein Braiding Statistics Versus Three-Loop Braiding**, Hanyu Xue, Paper: [https://arxiv.org/abs/2607.06279](https://arxiv.org/abs/2607.06279), 20 pages, 2 figures
+- 2026-07-07, **Stabilization of Stone-Wales Defects in Metal-supported Graphene**, Rob H. Mason, Manuka M. S. Sinharage, Hansika I. Sirikumara, Sabrina Nilufar, Thushari Jayasekera, Paper: [https://arxiv.org/abs/2607.06057](https://arxiv.org/abs/2607.06057), 6 pages, 6 figures
+- 2026-07-07, **Genuine Multi-Entropy in the Toric Code**, Sriram Akella, Norihiro Iizuka, Akihiro Miyata, Paper: [https://arxiv.org/abs/2607.06050](https://arxiv.org/abs/2607.06050), 17 pages, 19 figures. Comments are welcome!
+- 2026-07-07, **Dipole ghosts and spontaneous symmetry breaking in higher-order Chern-Simons theory**, Carlos M. Reyes, César Riquelme, Angel Sanchez, Paper: [https://arxiv.org/abs/2607.05788](https://arxiv.org/abs/2607.05788), 18 pages, 4 figures
+- 2026-07-07, **Equivalence between the Axion Invariant and the $S_4$ Symmetry Indicator**, Mengyao Zhang, Paper: [https://arxiv.org/abs/2607.05719](https://arxiv.org/abs/2607.05719)
+- 2026-07-06, **Electric Field Induced Multi-Space Topological Phase Transitions in Janus Monolayer MnBi2Se2Te2**, Kefan Zhang, Jian Wu, Weiyi Pan, Paper: [https://arxiv.org/abs/2607.05631](https://arxiv.org/abs/2607.05631)
+- 2026-07-06, **Exact sequences of rt-categories**, Menggao Li, Gongxiang Liu, Paper: [https://arxiv.org/abs/2607.05532](https://arxiv.org/abs/2607.05532), 11 pages
+- 2026-07-06, **Constant Scaling Fails for Global Monopole Networks**, Wakutaka Nakano, Wen Yin, Paper: [https://arxiv.org/abs/2607.05517](https://arxiv.org/abs/2607.05517), 22pages, 15figures, 4tables
 - 2026-07-06, **Quantum Computational Resources and Conformal Field Theory: Unifying Spins, Bosons, and Fermions**, Ryota Matsuda, Masahiro Hoshino, Yuto Ashida, Paper: [https://arxiv.org/abs/2607.05343](https://arxiv.org/abs/2607.05343), 39 pages, 8 figures
 - 2026-07-06, **Integral representations of $f$ -divergences for general von Neumann algebras**, Ricardo Correa da Silva, Markus B. Fröb, Gandalf Lechner, Leonardo Sangaletti, Paper: [https://arxiv.org/abs/2607.05195](https://arxiv.org/abs/2607.05195), 55 pages, comments welcome. See also the concurrent independent work by Koßmann, Schwonnek, Liu, and Cheng, which is being released simultaneously
 - 2026-07-06, **Spectral-topology-induced criticality in non-Hermitian fermionic metals**, Ayan Banerjee, Julius T. Gohsrich, Flore K. Kunst, Paper: [https://arxiv.org/abs/2607.05190](https://arxiv.org/abs/2607.05190), 9 pages, 4 figures, SI with 8 pages with 4 figures
@@ -1736,5 +1744,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
 
