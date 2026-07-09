@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-08, **On Equivalences of Derived Exponential Functors**, Alexander Zakharov, Paper: [https://arxiv.org/abs/2607.07536](https://arxiv.org/abs/2607.07536), 21 pages, comments welcome
+- 2026-07-08, **Scalar and Electromagnetic Perturbations around a Black Hole with a Topological Defect: Quasinormal Modes and Quasi-bound States in a Plasma Medium**, Dilmurod Umarov, Farruh Atamurotov, Ahmadjon Abdujabbarov, Chengxun Yuan, G. Mustafa, Paper: [https://arxiv.org/abs/2607.07487](https://arxiv.org/abs/2607.07487), 16 pages, 8 figures, 4 tables
+- 2026-07-08, **Inverse Scattering from Conformal Infinity for Totally Geodesic Defects in Hyperbolic Space**, Lu Chen, Hongyu Liu, Longyue Tao, Paper: [https://arxiv.org/abs/2607.07393](https://arxiv.org/abs/2607.07393), 81 pages
+- 2026-07-08, **Noncommutative vector field calculi**, Rita Fioresi, Emanuele Latini, Thomas Weber, Paper: [https://arxiv.org/abs/2607.07243](https://arxiv.org/abs/2607.07243), 40 pages, comments are welcome
+- 2026-07-08, **Anyon-induced non-Hermitian topological phases**, Yi-An Wang, Kun Ding, Linhu Li, Paper: [https://arxiv.org/abs/2607.06934](https://arxiv.org/abs/2607.06934), 21 pages, 7 figures. Comments are welcome
+- 2026-07-07, **Cocentral Split Abelian Hopf Algebra Extensions from Crossed Cocycles**, César Galindo, Giovanny Mora, Paper: [https://arxiv.org/abs/2607.06865](https://arxiv.org/abs/2607.06865), 26 pages
+- 2026-07-07, **Monodromy defects in Chern-Simons theory and Holography**, Federico Ambrosino, Jaume Gomis, Suriyah Rajalingam Kannagi, Paper: [https://arxiv.org/abs/2607.06669](https://arxiv.org/abs/2607.06669), 64 pages + 40 pages Appendix
+- 2026-07-07, **Generalised global symmetries in 5d $\mathcal{N}=1$ theories from the blow-up equations**, William Harding, Noppadol Mekareeya, Paper: [https://arxiv.org/abs/2607.06663](https://arxiv.org/abs/2607.06663), 61 pages, plus appendices
 - 2026-07-07, **Bockstein Braiding Statistics Versus Three-Loop Braiding**, Hanyu Xue, Paper: [https://arxiv.org/abs/2607.06279](https://arxiv.org/abs/2607.06279), 20 pages, 2 figures
 - 2026-07-07, **Stabilization of Stone-Wales Defects in Metal-supported Graphene**, Rob H. Mason, Manuka M. S. Sinharage, Hansika I. Sirikumara, Sabrina Nilufar, Thushari Jayasekera, Paper: [https://arxiv.org/abs/2607.06057](https://arxiv.org/abs/2607.06057), 6 pages, 6 figures
 - 2026-07-07, **Genuine Multi-Entropy in the Toric Code**, Sriram Akella, Norihiro Iizuka, Akihiro Miyata, Paper: [https://arxiv.org/abs/2607.06050](https://arxiv.org/abs/2607.06050), 17 pages, 19 figures. Comments are welcome!
