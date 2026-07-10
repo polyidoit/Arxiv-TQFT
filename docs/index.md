@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-07-09**|**Hockey stick $f$ -divergences**|Fumio Hiai, Milán Mosonyi, Marco Tomamichel|[2607.08760](https://arxiv.org/abs/2607.08760)|null|
+|**2026-07-09**|**Extracting conformal data from Loschmidt echoes after critical quenches**|Aleix Bou-Comas, Stefano Carignano, Sergio Cerezo-Roquebrún, Esperanza Lopez, Luca Tagliacozzo|[2607.08649](https://arxiv.org/abs/2607.08649)|null|
+|**2026-07-09**|**Renormalization flows for 1D mixed states and a quantum Goursat lemma**|Léo Le-Nestour, David Pérez-García, Alberto Ruiz-de-Alarcón|[2607.08568](https://arxiv.org/abs/2607.08568)|null|
+|**2026-07-09**|**Bayesian DAG Structure Learning with Simultaneous Shrinkage Covariance Estimation under Scale-Mixture Error Distributions in the Proportional High-Dimensional Regime**|Samaneh Nazari, Mohammad Arashi, Abdolnasser Sadeghkhani|[2607.08428](https://arxiv.org/abs/2607.08428)|null|
+|**2026-07-09**|**Smoothing Exponents and Decoupling in Semifinite von Neumann Algebras**|Zhiwen Lin, Hongsen Qiu, Xinyu Zhang|[2607.07997](https://arxiv.org/abs/2607.07997)|null|
+|**2026-07-08**|**Multi-agent Autoformalization of Tensor Network Theory**|Sirui Lu, Erickson Tjoa, J. Ignacio Cirac|[2607.07857](https://arxiv.org/abs/2607.07857)|null|
+|**2026-07-08**|**Chiral Tube Algebras I: Topological Defect Lines, Twisted Modules, and Finite Gauging**|Nathan Benjamin, Ho Tat Lam, Conghuan Luo|[2607.07786](https://arxiv.org/abs/2607.07786)|null|
+|**2026-07-08**|**Seven- and eight-loop critical exponents of the three-dimensional Ising model**|D. Shapoval, Yu. Honchar, B. Delamotte, M. Dudka, Yu. Holovatch|[2607.07776](https://arxiv.org/abs/2607.07776)|null|
 |**2026-07-08**|**On Equivalences of Derived Exponential Functors**|Alexander Zakharov|[2607.07536](https://arxiv.org/abs/2607.07536)|null|
 |**2026-07-08**|**Scalar and Electromagnetic Perturbations around a Black Hole with a Topological Defect: Quasinormal Modes and Quasi-bound States in a Plasma Medium**|Dilmurod Umarov, Farruh Atamurotov, Ahmadjon Abdujabbarov, Chengxun Yuan, G. Mustafa|[2607.07487](https://arxiv.org/abs/2607.07487)|null|
 |**2026-07-08**|**Inverse Scattering from Conformal Infinity for Totally Geodesic Defects in Hyperbolic Space**|Lu Chen, Hongyu Liu, Longyue Tao|[2607.07393](https://arxiv.org/abs/2607.07393)|null|
