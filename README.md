@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.07.12
+> Automatically updated on 2026.07.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**A complete ultrametric on von Neumann's incomplete tensor products**|Andrew Lesniewski|[2607.09627](https://arxiv.org/abs/2607.09627)|null|
+|**2026-07-10**|**Homological Topological Quantum Field Theories**|Aleksei Andreev|[2607.09601](https://arxiv.org/abs/2607.09601)|null|
+|**2026-07-10**|**Monodromy and geometry of heavy-light Virasoro blocks**|Mikhail Belakovskiy, Vladimir Belavin|[2607.09500](https://arxiv.org/abs/2607.09500)|null|
+|**2026-07-10**|**Factorization Algebras and Quantum Groups from Generalized Poisson Sigma Models**|Keyou Zeng|[2607.09486](https://arxiv.org/abs/2607.09486)|null|
+|**2026-07-10**|**The Young Tableaux Hopf algebra and multiple Schur series**|Jinbo Yu|[2607.09157](https://arxiv.org/abs/2607.09157)|null|
+|**2026-07-09**|**A diagrammatic field theory of quantum error correction**|Steven Rayan|[2607.08911](https://arxiv.org/abs/2607.08911)|null|
+|**2026-07-09**|**Exact Lindbladian Dynamics from Conformal Embeddings and Topological Defects in Conformal Field Theory**|Chen Bai|[2607.08827](https://arxiv.org/abs/2607.08827)|null|
+|**2026-07-09**|**Energetics of fractional anomalous Hall crystals in rhombohedral graphene**|Félix Desrochers, Ashvin Vishwanath|[2607.08822](https://arxiv.org/abs/2607.08822)|null|
+|**2026-07-09**|**Higgsless Lagrangian SCFTs and Strongly Finite VOAs**|Siqi Chen, Anirudh Deb, Leonardo Rastelli|[2607.08813](https://arxiv.org/abs/2607.08813)|null|
 |**2026-07-09**|**Hockey stick $f$ -divergences**|Fumio Hiai, Milán Mosonyi, Marco Tomamichel|[2607.08760](https://arxiv.org/abs/2607.08760)|null|
 |**2026-07-09**|**Extracting conformal data from Loschmidt echoes after critical quenches**|Aleix Bou-Comas, Stefano Carignano, Sergio Cerezo-Roquebrún, Esperanza Lopez, Luca Tagliacozzo|[2607.08649](https://arxiv.org/abs/2607.08649)|null|
 |**2026-07-09**|**Renormalization flows for 1D mixed states and a quantum Goursat lemma**|Léo Le-Nestour, David Pérez-García, Alberto Ruiz-de-Alarcón|[2607.08568](https://arxiv.org/abs/2607.08568)|null|
@@ -2559,5 +2568,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-> Automatically updated on 2026.07.12
+> Automatically updated on 2026.07.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-10, **A complete ultrametric on von Neumann's incomplete tensor products**, Andrew Lesniewski, Paper: [https://arxiv.org/abs/2607.09627](https://arxiv.org/abs/2607.09627), 34 pages
+- 2026-07-10, **Homological Topological Quantum Field Theories**, Aleksei Andreev, Paper: [https://arxiv.org/abs/2607.09601](https://arxiv.org/abs/2607.09601), 53 pages
+- 2026-07-10, **Monodromy and geometry of heavy-light Virasoro blocks**, Mikhail Belakovskiy, Vladimir Belavin, Paper: [https://arxiv.org/abs/2607.09500](https://arxiv.org/abs/2607.09500), 15 pages
+- 2026-07-10, **Factorization Algebras and Quantum Groups from Generalized Poisson Sigma Models**, Keyou Zeng, Paper: [https://arxiv.org/abs/2607.09486](https://arxiv.org/abs/2607.09486), 132 pages, 28 figures
+- 2026-07-10, **The Young Tableaux Hopf algebra and multiple Schur series**, Jinbo Yu, Paper: [https://arxiv.org/abs/2607.09157](https://arxiv.org/abs/2607.09157), 50 pages
+- 2026-07-09, **A diagrammatic field theory of quantum error correction**, Steven Rayan, Paper: [https://arxiv.org/abs/2607.08911](https://arxiv.org/abs/2607.08911), 69 pages, 6 figures, 4 tables
+- 2026-07-09, **Exact Lindbladian Dynamics from Conformal Embeddings and Topological Defects in Conformal Field Theory**, Chen Bai, Paper: [https://arxiv.org/abs/2607.08827](https://arxiv.org/abs/2607.08827), 8+22 pages
+- 2026-07-09, **Energetics of fractional anomalous Hall crystals in rhombohedral graphene**, Félix Desrochers, Ashvin Vishwanath, Paper: [https://arxiv.org/abs/2607.08822](https://arxiv.org/abs/2607.08822), 16 + 39 pages, 8 + 8 figures
+- 2026-07-09, **Higgsless Lagrangian SCFTs and Strongly Finite VOAs**, Siqi Chen, Anirudh Deb, Leonardo Rastelli, Paper: [https://arxiv.org/abs/2607.08813](https://arxiv.org/abs/2607.08813), 57 pages, 11 tables, 10 figures
 - 2026-07-09, **Hockey stick $f$-divergences**, Fumio Hiai, Milán Mosonyi, Marco Tomamichel, Paper: [https://arxiv.org/abs/2607.08760](https://arxiv.org/abs/2607.08760), See the concurrent and independent work https://doi.org/10.48550/arXiv.2607.05195 for the extension of hockey stick $f$ -divergences to von Neumann algebras
 - 2026-07-09, **Extracting conformal data from Loschmidt echoes after critical quenches**, Aleix Bou-Comas, Stefano Carignano, Sergio Cerezo-Roquebrún, Esperanza Lopez, Luca Tagliacozzo, Paper: [https://arxiv.org/abs/2607.08649](https://arxiv.org/abs/2607.08649), 24 pages, 12 figures
 - 2026-07-09, **Renormalization flows for 1D mixed states and a quantum Goursat lemma**, Léo Le-Nestour, David Pérez-García, Alberto Ruiz-de-Alarcón, Paper: [https://arxiv.org/abs/2607.08568](https://arxiv.org/abs/2607.08568), 49 pages, 6 figures
@@ -1760,5 +1769,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260713>back to top</a>)</p>
 
