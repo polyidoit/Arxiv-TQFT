@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-13, **Effective dynamics and quantum information in de Sitter wedge holography**, Sabyasachi Maulik, Soumen Pari, Paper: [https://arxiv.org/abs/2607.11848](https://arxiv.org/abs/2607.11848), 50 pages, 13 figures
+- 2026-07-13, **Conformal Nature of Quantum Phase Transitions via Fuzzy Three-Sphere Regularization**, Xue Meng, Liangdong Hu, Wei Zhu, Paper: [https://arxiv.org/abs/2607.11371](https://arxiv.org/abs/2607.11371)
+- 2026-07-13, **Large $N$ conformal bootstrap and chirality**, J. A. Gracey, Paper: [https://arxiv.org/abs/2607.11332](https://arxiv.org/abs/2607.11332), 8 latex pages, proceedings of Loops and Legs 2026
+- 2026-07-13, **A TQFT perspective on satellite constructions and toral decompositions**, Nikolaos Angelinos, Paper: [https://arxiv.org/abs/2607.11108](https://arxiv.org/abs/2607.11108), 50 pages, 12 figures
+- 2026-07-12, **Dimensional and Spin Interpolation for the O $(n)$ Model: From Exact Anchors to RG-Improved Critical Exponents**, Kumar Ghosh, Paper: [https://arxiv.org/abs/2607.10865](https://arxiv.org/abs/2607.10865), 19 pages, 4 figures
+- 2026-07-12, **The planar Hopf algebra of noncommutative multi-indices**, Yong Yu, Xing Gao, Dominique Manchon, Paper: [https://arxiv.org/abs/2607.10696](https://arxiv.org/abs/2607.10696), page 33
+- 2026-07-12, **Fiber Functors of Equivariantizations of Finite Tensor Categories**, César Galindo, Claudia Gallego, Yiby Morales, Paper: [https://arxiv.org/abs/2607.10525](https://arxiv.org/abs/2607.10525), 34 pages
+- 2026-07-11, **From local weight selection to Zeno slowdown in an open Su-Schrieffer-Heeger chain with a single local loss**, Y. T. Wang, X. Z. Zhang, Paper: [https://arxiv.org/abs/2607.10218](https://arxiv.org/abs/2607.10218), 23 pages, 5 figures (accepted by Physical Review A)
+- 2026-07-11, **Anyons and Inherently Complex F-symbols**, Matthew Buican, Peter Huston, Jiannis K. Pachos, Paper: [https://arxiv.org/abs/2607.10181](https://arxiv.org/abs/2607.10181), 25 pages; 1 figure;
 - 2026-07-10, **A complete ultrametric on von Neumann's incomplete tensor products**, Andrew Lesniewski, Paper: [https://arxiv.org/abs/2607.09627](https://arxiv.org/abs/2607.09627), 34 pages
 - 2026-07-10, **Homological Topological Quantum Field Theories**, Aleksei Andreev, Paper: [https://arxiv.org/abs/2607.09601](https://arxiv.org/abs/2607.09601), 53 pages
 - 2026-07-10, **Monodromy and geometry of heavy-light Virasoro blocks**, Mikhail Belakovskiy, Vladimir Belavin, Paper: [https://arxiv.org/abs/2607.09500](https://arxiv.org/abs/2607.09500), 15 pages
