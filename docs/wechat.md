@@ -1,4 +1,4 @@
-> Automatically updated on 2026.07.14
+> Automatically updated on 2026.07.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-14, **Timelike Entanglement First Law and Linearized Field Equations in Higher Curvature Gravity**, Mei-Hui Xiao, Guo-Ying Li, Song He, Jia-Rui Sun, Paper: [https://arxiv.org/abs/2607.12834](https://arxiv.org/abs/2607.12834)
+- 2026-07-14, **Algebraic Maximal Numerical Range and its preservers of Triple Products on $C^*$ -Algebras**, Yongqi Fan, Xiaofei Qi, Jinchuan Hou, Paper: [https://arxiv.org/abs/2607.12623](https://arxiv.org/abs/2607.12623), 18 pages
+- 2026-07-14, **Non-Abelian $A_4$ vortices in $SO(3)$ gauge theory and non-invertible symmetries**, Yoshihiko Abe, Tetsutaro Higaki, Kazuya Murakami, Muneto Nitta, Ryo Yokokura, Paper: [https://arxiv.org/abs/2607.12366](https://arxiv.org/abs/2607.12366), 14 pages, 4 figures, 2 tables
+- 2026-07-13, **Computational homological methods for integrable field theories**, Marco Benini, Ryan A. Cullinan, Alexander Schenkel, Benoit Vicedo, Paper: [https://arxiv.org/abs/2607.12142](https://arxiv.org/abs/2607.12142)
+- 2026-07-13, **Liouville strings in AdS $_3$ : the worldsheet story**, Gaston Giribet, Pedro Schmied, Paper: [https://arxiv.org/abs/2607.12103](https://arxiv.org/abs/2607.12103), 28 pages
+- 2026-07-13, **Observation of gravity-like signatures in holographic codes on a quantum computer**, Debopriyo Biswas, Gong Cheng, Krishnanand Karthikeyan, Diana Muñoz-Valencia, Vincent P. Su, Hrant Gharibyan, Daiwei Zhu, Grant Salton, Evgeny Epifanovsky, Martin Roetteler, Christopher Monroe, John Preskill, Norbert M. Linke, ChunJun Cao, Crystal Noel, Paper: [https://arxiv.org/abs/2607.12047](https://arxiv.org/abs/2607.12047), 32 pages, 26 figures, 7 tables
+- 2026-07-13, **Mapping vortices to anyons in toric code phases of generalized Kitaev models**, Li Ern Chern, Roderich Moessner, Claudio Castelnovo, Paper: [https://arxiv.org/abs/2607.12027](https://arxiv.org/abs/2607.12027), 20+16 pages, 10+9 figures, 2+0 tables
+- 2026-07-13, **Symmetry-Twisted Multi-Entropies: Order Parameters for 2D SPT Phases**, Ramanjit Sohal, Michael Levin, Ruben Verresen, Paper: [https://arxiv.org/abs/2607.12023](https://arxiv.org/abs/2607.12023), 14+18 pages, 11+6 figures
 - 2026-07-13, **Effective dynamics and quantum information in de Sitter wedge holography**, Sabyasachi Maulik, Soumen Pari, Paper: [https://arxiv.org/abs/2607.11848](https://arxiv.org/abs/2607.11848), 50 pages, 13 figures
 - 2026-07-13, **Conformal Nature of Quantum Phase Transitions via Fuzzy Three-Sphere Regularization**, Xue Meng, Liangdong Hu, Wei Zhu, Paper: [https://arxiv.org/abs/2607.11371](https://arxiv.org/abs/2607.11371)
 - 2026-07-13, **Large $N$ conformal bootstrap and chirality**, J. A. Gracey, Paper: [https://arxiv.org/abs/2607.11332](https://arxiv.org/abs/2607.11332), 8 latex pages, proceedings of Loops and Legs 2026
@@ -1778,5 +1786,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 

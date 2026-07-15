@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.07.14
+> Automatically updated on 2026.07.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**Timelike Entanglement First Law and Linearized Field Equations in Higher Curvature Gravity**|Mei-Hui Xiao, Guo-Ying Li, Song He, Jia-Rui Sun|[2607.12834](https://arxiv.org/abs/2607.12834)|null|
+|**2026-07-14**|**Algebraic Maximal Numerical Range and its preservers of Triple Products on $C^*$ -Algebras**|Yongqi Fan, Xiaofei Qi, Jinchuan Hou|[2607.12623](https://arxiv.org/abs/2607.12623)|null|
+|**2026-07-14**|**Non-Abelian $A_4$ vortices in $SO(3)$ gauge theory and non-invertible symmetries**|Yoshihiko Abe, Tetsutaro Higaki, Kazuya Murakami, Muneto Nitta, Ryo Yokokura|[2607.12366](https://arxiv.org/abs/2607.12366)|null|
+|**2026-07-13**|**Computational homological methods for integrable field theories**|Marco Benini, Ryan A. Cullinan, Alexander Schenkel, Benoit Vicedo|[2607.12142](https://arxiv.org/abs/2607.12142)|null|
+|**2026-07-13**|**Liouville strings in AdS $_3$ : the worldsheet story**|Gaston Giribet, Pedro Schmied|[2607.12103](https://arxiv.org/abs/2607.12103)|null|
+|**2026-07-13**|**Observation of gravity-like signatures in holographic codes on a quantum computer**|Debopriyo Biswas, Gong Cheng, Krishnanand Karthikeyan, Diana Muñoz-Valencia, Vincent P. Su, Hrant Gharibyan, Daiwei Zhu, Grant Salton, Evgeny Epifanovsky, Martin Roetteler, Christopher Monroe, John Preskill, Norbert M. Linke, ChunJun Cao, Crystal Noel|[2607.12047](https://arxiv.org/abs/2607.12047)|null|
+|**2026-07-13**|**Mapping vortices to anyons in toric code phases of generalized Kitaev models**|Li Ern Chern, Roderich Moessner, Claudio Castelnovo|[2607.12027](https://arxiv.org/abs/2607.12027)|null|
+|**2026-07-13**|**Symmetry-Twisted Multi-Entropies: Order Parameters for 2D SPT Phases**|Ramanjit Sohal, Michael Levin, Ruben Verresen|[2607.12023](https://arxiv.org/abs/2607.12023)|null|
 |**2026-07-13**|**Effective dynamics and quantum information in de Sitter wedge holography**|Sabyasachi Maulik, Soumen Pari|[2607.11848](https://arxiv.org/abs/2607.11848)|null|
 |**2026-07-13**|**Conformal Nature of Quantum Phase Transitions via Fuzzy Three-Sphere Regularization**|Xue Meng, Liangdong Hu, Wei Zhu|[2607.11371](https://arxiv.org/abs/2607.11371)|null|
 |**2026-07-13**|**Large $N$ conformal bootstrap and chirality**|J. A. Gracey|[2607.11332](https://arxiv.org/abs/2607.11332)|null|
@@ -2577,5 +2585,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
