@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**Active Quantum Nematics: The First Quantization**|Ghansham Chandel, Siddhartha Das|[2607.12961](https://arxiv.org/abs/2607.12961)|null|
 |**2026-07-14**|**Timelike Entanglement First Law and Linearized Field Equations in Higher Curvature Gravity**|Mei-Hui Xiao, Guo-Ying Li, Song He, Jia-Rui Sun|[2607.12834](https://arxiv.org/abs/2607.12834)|null|
 |**2026-07-14**|**Algebraic Maximal Numerical Range and its preservers of Triple Products on $C^*$ -Algebras**|Yongqi Fan, Xiaofei Qi, Jinchuan Hou|[2607.12623](https://arxiv.org/abs/2607.12623)|null|
 |**2026-07-14**|**Non-Abelian $A_4$ vortices in $SO(3)$ gauge theory and non-invertible symmetries**|Yoshihiko Abe, Tetsutaro Higaki, Kazuya Murakami, Muneto Nitta, Ryo Yokokura|[2607.12366](https://arxiv.org/abs/2607.12366)|null|

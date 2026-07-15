@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-14, **Active Quantum Nematics: The First Quantization**, Ghansham Chandel, Siddhartha Das, Paper: [https://arxiv.org/abs/2607.12961](https://arxiv.org/abs/2607.12961), 21 Pages, Double Spaced, 4 figures. Towards PhD thesis work of Ghansham Chandel, under the guidance of Dr Siddhartha Das
 - 2026-07-14, **Timelike Entanglement First Law and Linearized Field Equations in Higher Curvature Gravity**, Mei-Hui Xiao, Guo-Ying Li, Song He, Jia-Rui Sun, Paper: [https://arxiv.org/abs/2607.12834](https://arxiv.org/abs/2607.12834)
 - 2026-07-14, **Algebraic Maximal Numerical Range and its preservers of Triple Products on $C^*$ -Algebras**, Yongqi Fan, Xiaofei Qi, Jinchuan Hou, Paper: [https://arxiv.org/abs/2607.12623](https://arxiv.org/abs/2607.12623), 18 pages
 - 2026-07-14, **Non-Abelian $A_4$ vortices in $SO(3)$ gauge theory and non-invertible symmetries**, Yoshihiko Abe, Tetsutaro Higaki, Kazuya Murakami, Muneto Nitta, Ryo Yokokura, Paper: [https://arxiv.org/abs/2607.12366](https://arxiv.org/abs/2607.12366), 14 pages, 4 figures, 2 tables
