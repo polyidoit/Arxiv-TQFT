@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-15, **Temporal Entanglement from Twist Correlators in 2d Conformal Field Theory and Holography**, Alice Bernamonti, Federico Galli, Michal P. Heller, Fabio Ori, Alexandre Serantes, Paper: [https://arxiv.org/abs/2607.14012](https://arxiv.org/abs/2607.14012), 42 pages + appendices, 5+6 figures
+- 2026-07-15, **Foliated Quantum Error Correction for Qudits**, Gözde Üstün, Simon J. Devitt, Jason Saied, Paper: [https://arxiv.org/abs/2607.13784](https://arxiv.org/abs/2607.13784), 15 Figures in total (5 in the main text and appendices, 10 in Supplementary Material.) and 1 table
+- 2026-07-15, **Perturbative algebraic quantum field theory with smoothened boundary**, Kasia Rejzner, Michele Schiavina, Paper: [https://arxiv.org/abs/2607.13765](https://arxiv.org/abs/2607.13765), 62pp + refs
+- 2026-07-15, **Rotation topological states: theory and material realization**, Chun-Xue Liu, Yilin Han, Runze Li, Yulong Liu, Zhi-Ming Yu, Paper: [https://arxiv.org/abs/2607.13575](https://arxiv.org/abs/2607.13575)
+- 2026-07-14, **Three-Dimensional Non-Foliated Fractional Quantum Hall Phases with Irrational Anyons in Twisted van der Waals Multilayers**, Seyoung Jin, Hyeonseo Lim, Youngwook Kim, Gil Young Cho, Paper: [https://arxiv.org/abs/2607.13127](https://arxiv.org/abs/2607.13127), 8+23 pages, 3+6 figures, 0+9 tables
 - 2026-07-14, **Active Quantum Nematics: The First Quantization**, Ghansham Chandel, Siddhartha Das, Paper: [https://arxiv.org/abs/2607.12961](https://arxiv.org/abs/2607.12961), 21 Pages, Double Spaced, 4 figures. Towards PhD thesis work of Ghansham Chandel, under the guidance of Dr Siddhartha Das
 - 2026-07-14, **Timelike Entanglement First Law and Linearized Field Equations in Higher Curvature Gravity**, Mei-Hui Xiao, Guo-Ying Li, Song He, Jia-Rui Sun, Paper: [https://arxiv.org/abs/2607.12834](https://arxiv.org/abs/2607.12834)
 - 2026-07-14, **Algebraic Maximal Numerical Range and its preservers of Triple Products on $C^*$ -Algebras**, Yongqi Fan, Xiaofei Qi, Jinchuan Hou, Paper: [https://arxiv.org/abs/2607.12623](https://arxiv.org/abs/2607.12623), 18 pages

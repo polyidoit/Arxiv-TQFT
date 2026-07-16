@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Temporal Entanglement from Twist Correlators in 2d Conformal Field Theory and Holography**|Alice Bernamonti, Federico Galli, Michal P. Heller, Fabio Ori, Alexandre Serantes|[2607.14012](https://arxiv.org/abs/2607.14012)|null|
+|**2026-07-15**|**Foliated Quantum Error Correction for Qudits**|Gözde Üstün, Simon J. Devitt, Jason Saied|[2607.13784](https://arxiv.org/abs/2607.13784)|null|
+|**2026-07-15**|**Perturbative algebraic quantum field theory with smoothened boundary**|Kasia Rejzner, Michele Schiavina|[2607.13765](https://arxiv.org/abs/2607.13765)|null|
+|**2026-07-15**|**Rotation topological states: theory and material realization**|Chun-Xue Liu, Yilin Han, Runze Li, Yulong Liu, Zhi-Ming Yu|[2607.13575](https://arxiv.org/abs/2607.13575)|null|
+|**2026-07-14**|**Three-Dimensional Non-Foliated Fractional Quantum Hall Phases with Irrational Anyons in Twisted van der Waals Multilayers**|Seyoung Jin, Hyeonseo Lim, Youngwook Kim, Gil Young Cho|[2607.13127](https://arxiv.org/abs/2607.13127)|null|
 |**2026-07-14**|**Active Quantum Nematics: The First Quantization**|Ghansham Chandel, Siddhartha Das|[2607.12961](https://arxiv.org/abs/2607.12961)|null|
 |**2026-07-14**|**Timelike Entanglement First Law and Linearized Field Equations in Higher Curvature Gravity**|Mei-Hui Xiao, Guo-Ying Li, Song He, Jia-Rui Sun|[2607.12834](https://arxiv.org/abs/2607.12834)|null|
 |**2026-07-14**|**Algebraic Maximal Numerical Range and its preservers of Triple Products on $C^*$ -Algebras**|Yongqi Fan, Xiaofei Qi, Jinchuan Hou|[2607.12623](https://arxiv.org/abs/2607.12623)|null|
