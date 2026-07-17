@@ -9,6 +9,7 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-16, **Single-component twisted $\mathbb{Z}_3$ orthogonal metal in an $e/3$ -anyon fluid**, Zhaoyu Han, Ashvin Vishwanath, Eslam Khalaf, Paper: [https://arxiv.org/abs/2607.15274](https://arxiv.org/abs/2607.15274)
 - 2026-07-16, **On the origin of finite entanglement scaling**, Luke Hodgkiss, Laurens Lootens, Atsushi Ueda, Bram Vanhecke, Frank Verstraete, Paper: [https://arxiv.org/abs/2607.15124](https://arxiv.org/abs/2607.15124), 5 pages
 - 2026-07-16, **Defects extremal surfaces and interface CFTs**, Ankur Dey, Paper: [https://arxiv.org/abs/2607.15083](https://arxiv.org/abs/2607.15083), 30 pages, 10 figures
 - 2026-07-16, **Observers, local measurements, and topology**, Michele Cirafici, Paper: [https://arxiv.org/abs/2607.15007](https://arxiv.org/abs/2607.15007), 30 pages, 4 figures
