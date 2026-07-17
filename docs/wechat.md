@@ -1,4 +1,4 @@
-> Automatically updated on 2026.07.16
+> Automatically updated on 2026.07.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-16, **On the origin of finite entanglement scaling**, Luke Hodgkiss, Laurens Lootens, Atsushi Ueda, Bram Vanhecke, Frank Verstraete, Paper: [https://arxiv.org/abs/2607.15124](https://arxiv.org/abs/2607.15124), 5 pages
+- 2026-07-16, **Defects extremal surfaces and interface CFTs**, Ankur Dey, Paper: [https://arxiv.org/abs/2607.15083](https://arxiv.org/abs/2607.15083), 30 pages, 10 figures
+- 2026-07-16, **Observers, local measurements, and topology**, Michele Cirafici, Paper: [https://arxiv.org/abs/2607.15007](https://arxiv.org/abs/2607.15007), 30 pages, 4 figures
+- 2026-07-16, **Quantum XYZ Stabilizer Codes**, Alessio Baldelli, Davide Orsucci, Francisco Lázaro, Massimo Battaglioni, Paper: [https://arxiv.org/abs/2607.14988](https://arxiv.org/abs/2607.14988)
+- 2026-07-16, **Imaging and characterization of spontaneous vortices in a proximity-induced superconductor**, Iku Nakaaki, Kotaro Taki, Mio Nomura, Haruna Ishimaru, Minagi Yono, Jun Chen, Hiroyo Segawa, Akiko Nakamura, Taku Moronaga, Minoru Tachiki, Shuuichi Ooi, Shunichi Arisawa, Tsutomu Nojima, Takashi Uchino, Paper: [https://arxiv.org/abs/2607.14697](https://arxiv.org/abs/2607.14697), 11 pages, 5 figures
+- 2026-07-15, **Quotients of strongly graded quasi-Hopf algebras**, Fabio Calderón, César Galindo, Paper: [https://arxiv.org/abs/2607.14381](https://arxiv.org/abs/2607.14381), v1: 38 pages; comments welcome
+- 2026-07-15, **Spaces of UCP maps and subalgebras of von Neumann algebras**, Pierre Fima, François Le Maître, Kunal Mukherjee, Issan Patri, Paper: [https://arxiv.org/abs/2607.14358](https://arxiv.org/abs/2607.14358), 23 pages
+- 2026-07-15, **Shuffle-compatibility for combinatorial statistics on words, parking functions, and set partitions**, Spencer Daugherty, Jinting Liang, Paper: [https://arxiv.org/abs/2607.14255](https://arxiv.org/abs/2607.14255), 29 pages
 - 2026-07-15, **Temporal Entanglement from Twist Correlators in 2d Conformal Field Theory and Holography**, Alice Bernamonti, Federico Galli, Michal P. Heller, Fabio Ori, Alexandre Serantes, Paper: [https://arxiv.org/abs/2607.14012](https://arxiv.org/abs/2607.14012), 42 pages + appendices, 5+6 figures
 - 2026-07-15, **Foliated Quantum Error Correction for Qudits**, Gözde Üstün, Simon J. Devitt, Jason Saied, Paper: [https://arxiv.org/abs/2607.13784](https://arxiv.org/abs/2607.13784), 15 Figures in total (5 in the main text and appendices, 10 in Supplementary Material.) and 1 table
 - 2026-07-15, **Perturbative algebraic quantum field theory with smoothened boundary**, Kasia Rejzner, Michele Schiavina, Paper: [https://arxiv.org/abs/2607.13765](https://arxiv.org/abs/2607.13765), 62pp + refs
@@ -1792,5 +1800,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
 

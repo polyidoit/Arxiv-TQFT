@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.07.16
+> Automatically updated on 2026.07.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**On the origin of finite entanglement scaling**|Luke Hodgkiss, Laurens Lootens, Atsushi Ueda, Bram Vanhecke, Frank Verstraete|[2607.15124](https://arxiv.org/abs/2607.15124)|null|
+|**2026-07-16**|**Defects extremal surfaces and interface CFTs**|Ankur Dey|[2607.15083](https://arxiv.org/abs/2607.15083)|null|
+|**2026-07-16**|**Observers, local measurements, and topology**|Michele Cirafici|[2607.15007](https://arxiv.org/abs/2607.15007)|null|
+|**2026-07-16**|**Quantum XYZ Stabilizer Codes**|Alessio Baldelli, Davide Orsucci, Francisco Lázaro, Massimo Battaglioni|[2607.14988](https://arxiv.org/abs/2607.14988)|null|
+|**2026-07-16**|**Imaging and characterization of spontaneous vortices in a proximity-induced superconductor**|Iku Nakaaki, Kotaro Taki, Mio Nomura, Haruna Ishimaru, Minagi Yono, Jun Chen, Hiroyo Segawa, Akiko Nakamura, Taku Moronaga, Minoru Tachiki, Shuuichi Ooi, Shunichi Arisawa, Tsutomu Nojima, Takashi Uchino|[2607.14697](https://arxiv.org/abs/2607.14697)|null|
+|**2026-07-15**|**Quotients of strongly graded quasi-Hopf algebras**|Fabio Calderón, César Galindo|[2607.14381](https://arxiv.org/abs/2607.14381)|null|
+|**2026-07-15**|**Spaces of UCP maps and subalgebras of von Neumann algebras**|Pierre Fima, François Le Maître, Kunal Mukherjee, Issan Patri|[2607.14358](https://arxiv.org/abs/2607.14358)|null|
+|**2026-07-15**|**Shuffle-compatibility for combinatorial statistics on words, parking functions, and set partitions**|Spencer Daugherty, Jinting Liang|[2607.14255](https://arxiv.org/abs/2607.14255)|null|
 |**2026-07-15**|**Temporal Entanglement from Twist Correlators in 2d Conformal Field Theory and Holography**|Alice Bernamonti, Federico Galli, Michal P. Heller, Fabio Ori, Alexandre Serantes|[2607.14012](https://arxiv.org/abs/2607.14012)|null|
 |**2026-07-15**|**Foliated Quantum Error Correction for Qudits**|Gözde Üstün, Simon J. Devitt, Jason Saied|[2607.13784](https://arxiv.org/abs/2607.13784)|null|
 |**2026-07-15**|**Perturbative algebraic quantum field theory with smoothened boundary**|Kasia Rejzner, Michele Schiavina|[2607.13765](https://arxiv.org/abs/2607.13765)|null|
@@ -2591,5 +2599,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
 
