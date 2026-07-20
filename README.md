@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Elastic stiffness of three-dimensional black holes and wormholes from Liouville line defects**|Jeevan Chandra, Boris Post|[2607.16155](https://arxiv.org/abs/2607.16155)|null|
+|**2026-07-17**|**Magnons reveal topology and dynamics of a skyrmion crystal**|Raphael Ayache, Nilotpal Chakraborty, Manabendra Kuiri, Quentin Benichou, Antonio Lacerda-Santos, Lilian Seyve, Himadri Chakraborti, Leo Pugliese, Kenji Watanabe, Takashi Taniguchi, Cosimo Gorini, Roderich Moessner, Benoit Doucot, Preden Roulleau|[2607.16023](https://arxiv.org/abs/2607.16023)|null|
+|**2026-07-17**|**Long range spatial correlations in the periodically driven transverse field Ising model**|Lazar Paroski, Ivan Iorsh|[2607.15665](https://arxiv.org/abs/2607.15665)|null|
 |**2026-07-16**|**Single-component twisted $\mathbb{Z}_3$ orthogonal metal in an $e/3$ -anyon fluid**|Zhaoyu Han, Ashvin Vishwanath, Eslam Khalaf|[2607.15274](https://arxiv.org/abs/2607.15274)|null|
 |**2026-07-16**|**On the origin of finite entanglement scaling**|Luke Hodgkiss, Laurens Lootens, Atsushi Ueda, Bram Vanhecke, Frank Verstraete|[2607.15124](https://arxiv.org/abs/2607.15124)|null|
 |**2026-07-16**|**Defects extremal surfaces and interface CFTs**|Ankur Dey|[2607.15083](https://arxiv.org/abs/2607.15083)|null|
