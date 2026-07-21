@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-20, **Universal Dynamic Scaling of 2D Quantum Ising Transition on the Fuzzy Sphere**, Meng Zeng, Shuai Yin, Roderich Moessner, Paper: [https://arxiv.org/abs/2607.18028](https://arxiv.org/abs/2607.18028), 4.5 pages with 4 figures in main text + 1.5 pages of appendix
+- 2026-07-17, **Integrability-breaking phase transitions in stadium-like billiards**, Anne Kétri P. da Fonseca, Edson D. Leonel, Paper: [https://arxiv.org/abs/2607.16482](https://arxiv.org/abs/2607.16482)
+- 2026-07-17, **Universality of Magic in Local Quantum Field Theory**, Valentin Benedetti, Atish Dabholkar, Marcello Dalmonte, Paper: [https://arxiv.org/abs/2607.16403](https://arxiv.org/abs/2607.16403), 27 pages, 7 figures
 - 2026-07-17, **Elastic stiffness of three-dimensional black holes and wormholes from Liouville line defects**, Jeevan Chandra, Boris Post, Paper: [https://arxiv.org/abs/2607.16155](https://arxiv.org/abs/2607.16155), 76 pages + 2 Appendices
 - 2026-07-17, **Magnons reveal topology and dynamics of a skyrmion crystal**, Raphael Ayache, Nilotpal Chakraborty, Manabendra Kuiri, Quentin Benichou, Antonio Lacerda-Santos, Lilian Seyve, Himadri Chakraborti, Leo Pugliese, Kenji Watanabe, Takashi Taniguchi, Cosimo Gorini, Roderich Moessner, Benoit Doucot, Preden Roulleau, Paper: [https://arxiv.org/abs/2607.16023](https://arxiv.org/abs/2607.16023)
 - 2026-07-17, **Long range spatial correlations in the periodically driven transverse field Ising model**, Lazar Paroski, Ivan Iorsh, Paper: [https://arxiv.org/abs/2607.15665](https://arxiv.org/abs/2607.15665)

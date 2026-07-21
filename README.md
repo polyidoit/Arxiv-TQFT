@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Universal Dynamic Scaling of 2D Quantum Ising Transition on the Fuzzy Sphere**|Meng Zeng, Shuai Yin, Roderich Moessner|[2607.18028](https://arxiv.org/abs/2607.18028)|null|
+|**2026-07-17**|**Integrability-breaking phase transitions in stadium-like billiards**|Anne Kétri P. da Fonseca, Edson D. Leonel|[2607.16482](https://arxiv.org/abs/2607.16482)|null|
+|**2026-07-17**|**Universality of Magic in Local Quantum Field Theory**|Valentin Benedetti, Atish Dabholkar, Marcello Dalmonte|[2607.16403](https://arxiv.org/abs/2607.16403)|null|
 |**2026-07-17**|**Elastic stiffness of three-dimensional black holes and wormholes from Liouville line defects**|Jeevan Chandra, Boris Post|[2607.16155](https://arxiv.org/abs/2607.16155)|null|
 |**2026-07-17**|**Magnons reveal topology and dynamics of a skyrmion crystal**|Raphael Ayache, Nilotpal Chakraborty, Manabendra Kuiri, Quentin Benichou, Antonio Lacerda-Santos, Lilian Seyve, Himadri Chakraborti, Leo Pugliese, Kenji Watanabe, Takashi Taniguchi, Cosimo Gorini, Roderich Moessner, Benoit Doucot, Preden Roulleau|[2607.16023](https://arxiv.org/abs/2607.16023)|null|
 |**2026-07-17**|**Long range spatial correlations in the periodically driven transverse field Ising model**|Lazar Paroski, Ivan Iorsh|[2607.15665](https://arxiv.org/abs/2607.15665)|null|
