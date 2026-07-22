@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-07-21**|**Boundary quenches in (1+1)-dimensional conformal field theory**|Michele Fossati, Colin Rylands, Eytan Grosfeld, Eran Sela, Pasquale Calabrese|[2607.19166](https://arxiv.org/abs/2607.19166)|null|
+|**2026-07-21**|**Cartan-preserving *-automorphism groups: realization and obstructions for compact abelian groups**|Fuyuta Komura|[2607.18844](https://arxiv.org/abs/2607.18844)|null|
+|**2026-07-20**|**Detection of cosmic strings by gravitational wave lensing. Predictions for Einstein Telescope**|Jakub Szyndler, Tomasz Bulik|[2607.18441](https://arxiv.org/abs/2607.18441)|null|
+|**2026-07-20**|**Unlocking the Wronskian Tower: A Simplification of the Holomorphic Modular Bootstrap**|Arpit Das, Sunil Mukhi|[2607.18375](https://arxiv.org/abs/2607.18375)|null|
+|**2026-07-20**|**Nishimori Threshold Estimation for Bayesian Inference and $\mathbb{Z}_q$ Surface Code Decoding**|Rohit Mukherjee, Simon Trebst|[2607.18374](https://arxiv.org/abs/2607.18374)|null|
 |**2026-07-20**|**Universal Dynamic Scaling of 2D Quantum Ising Transition on the Fuzzy Sphere**|Meng Zeng, Shuai Yin, Roderich Moessner|[2607.18028](https://arxiv.org/abs/2607.18028)|null|
 |**2026-07-17**|**Integrability-breaking phase transitions in stadium-like billiards**|Anne Kétri P. da Fonseca, Edson D. Leonel|[2607.16482](https://arxiv.org/abs/2607.16482)|null|
 |**2026-07-17**|**Universality of Magic in Local Quantum Field Theory**|Valentin Benedetti, Atish Dabholkar, Marcello Dalmonte|[2607.16403](https://arxiv.org/abs/2607.16403)|null|
