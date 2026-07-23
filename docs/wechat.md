@@ -9,9 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-21, **Coloring in anyon superconductivity**, Umang Mehta, Yuto Nakajima, Hart Goldman, Paper: [https://arxiv.org/abs/2607.19470](https://arxiv.org/abs/2607.19470), 70 pages, 4 figures, 2 tables, 6 appendices
+- 2026-07-21, **Conformal QED in AdS as a BCFT**, Fabiana De Cesare, Simone Giombi, Paper: [https://arxiv.org/abs/2607.19464](https://arxiv.org/abs/2607.19464), 33 pages, 5 figures
 - 2026-07-21, **Boundary quenches in (1+1)-dimensional conformal field theory**, Michele Fossati, Colin Rylands, Eytan Grosfeld, Eran Sela, Pasquale Calabrese, Paper: [https://arxiv.org/abs/2607.19166](https://arxiv.org/abs/2607.19166), 20 pages, 6 figures
 - 2026-07-21, **Cartan-preserving *-automorphism groups: realization and obstructions for compact abelian groups**, Fuyuta Komura, Paper: [https://arxiv.org/abs/2607.18844](https://arxiv.org/abs/2607.18844), 38 pages
-- 2026-07-20, **Detection of cosmic strings by gravitational wave lensing. Predictions for Einstein Telescope**, Jakub Szyndler, Tomasz Bulik, Paper: [https://arxiv.org/abs/2607.18441](https://arxiv.org/abs/2607.18441), 11 pages. 9 figures. Submitted to A&A
+- 2026-07-22, **Detection of cosmic strings by gravitational wave lensing. Predictions for Einstein Telescope**, Jakub Szyndler, Tomasz Bulik, Paper: [https://arxiv.org/abs/2607.18441](https://arxiv.org/abs/2607.18441), 11 pages. 9 figures. Submitted to A&A
 - 2026-07-20, **Unlocking the Wronskian Tower: A Simplification of the Holomorphic Modular Bootstrap**, Arpit Das, Sunil Mukhi, Paper: [https://arxiv.org/abs/2607.18375](https://arxiv.org/abs/2607.18375), 47 pages (including references)
 - 2026-07-20, **Nishimori Threshold Estimation for Bayesian Inference and $\mathbb{Z}_q$ Surface Code Decoding**, Rohit Mukherjee, Simon Trebst, Paper: [https://arxiv.org/abs/2607.18374](https://arxiv.org/abs/2607.18374), 22 pages, 5 figures
 - 2026-07-20, **Universal Dynamic Scaling of 2D Quantum Ising Transition on the Fuzzy Sphere**, Meng Zeng, Shuai Yin, Roderich Moessner, Paper: [https://arxiv.org/abs/2607.18028](https://arxiv.org/abs/2607.18028), 4.5 pages with 4 figures in main text + 1.5 pages of appendix
