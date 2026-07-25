@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.07.24
+> Automatically updated on 2026.07.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Entanglement asymmetry and quantum Mpemba effect for Kramers-Wannier duality**|Milo Vescovo, Pasquale Calabrese, Filiberto Ares|[2607.21226](https://arxiv.org/abs/2607.21226)|null|
+|**2026-07-22**|**Sp(4,Z) actions on 3d U(1)^2 symmetric theories: Order-five duality and bilayer quantum Hall hierarchies**|Yasin F. Alam, Andreas Karch, Da-Chuan Lu, Ryan C. Spieler|[2607.20622](https://arxiv.org/abs/2607.20622)|null|
+|**2026-07-22**|**Kaplansky's second test problem in operator algebras**|Chunlan Jiang, Minghui Ma, Rui Shi, Yuanhang Zhang|[2607.20593](https://arxiv.org/abs/2607.20593)|null|
 |**2026-07-21**|**Coloring in anyon superconductivity**|Umang Mehta, Yuto Nakajima, Hart Goldman|[2607.19470](https://arxiv.org/abs/2607.19470)|null|
 |**2026-07-21**|**Conformal QED in AdS as a BCFT**|Fabiana De Cesare, Simone Giombi|[2607.19464](https://arxiv.org/abs/2607.19464)|null|
 |**2026-07-21**|**Boundary quenches in (1+1)-dimensional conformal field theory**|Michele Fossati, Colin Rylands, Eytan Grosfeld, Eran Sela, Pasquale Calabrese|[2607.19166](https://arxiv.org/abs/2607.19166)|null|
@@ -2613,5 +2616,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
 

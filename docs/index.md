@@ -1,7 +1,10 @@
-> Automatically updated on 2026.07.24
+> Automatically updated on 2026.07.25
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-07-23**|**Entanglement asymmetry and quantum Mpemba effect for Kramers-Wannier duality**|Milo Vescovo, Pasquale Calabrese, Filiberto Ares|[2607.21226](https://arxiv.org/abs/2607.21226)|null|
+|**2026-07-22**|**Sp(4,Z) actions on 3d U(1)^2 symmetric theories: Order-five duality and bilayer quantum Hall hierarchies**|Yasin F. Alam, Andreas Karch, Da-Chuan Lu, Ryan C. Spieler|[2607.20622](https://arxiv.org/abs/2607.20622)|null|
+|**2026-07-22**|**Kaplansky's second test problem in operator algebras**|Chunlan Jiang, Minghui Ma, Rui Shi, Yuanhang Zhang|[2607.20593](https://arxiv.org/abs/2607.20593)|null|
 |**2026-07-21**|**Coloring in anyon superconductivity**|Umang Mehta, Yuto Nakajima, Hart Goldman|[2607.19470](https://arxiv.org/abs/2607.19470)|null|
 |**2026-07-21**|**Conformal QED in AdS as a BCFT**|Fabiana De Cesare, Simone Giombi|[2607.19464](https://arxiv.org/abs/2607.19464)|null|
 |**2026-07-21**|**Boundary quenches in (1+1)-dimensional conformal field theory**|Michele Fossati, Colin Rylands, Eytan Grosfeld, Eran Sela, Pasquale Calabrese|[2607.19166](https://arxiv.org/abs/2607.19166)|null|

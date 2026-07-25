@@ -1,4 +1,4 @@
-> Automatically updated on 2026.07.24
+> Automatically updated on 2026.07.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-23, **Entanglement asymmetry and quantum Mpemba effect for Kramers-Wannier duality**, Milo Vescovo, Pasquale Calabrese, Filiberto Ares, Paper: [https://arxiv.org/abs/2607.21226](https://arxiv.org/abs/2607.21226), 27 pages, 5 figures
+- 2026-07-22, **Sp(4,Z) actions on 3d U(1)^2 symmetric theories: Order-five duality and bilayer quantum Hall hierarchies**, Yasin F. Alam, Andreas Karch, Da-Chuan Lu, Ryan C. Spieler, Paper: [https://arxiv.org/abs/2607.20622](https://arxiv.org/abs/2607.20622), 34 pages, 2 figures
+- 2026-07-22, **Kaplansky's second test problem in operator algebras**, Chunlan Jiang, Minghui Ma, Rui Shi, Yuanhang Zhang, Paper: [https://arxiv.org/abs/2607.20593](https://arxiv.org/abs/2607.20593), 54 pages
 - 2026-07-21, **Coloring in anyon superconductivity**, Umang Mehta, Yuto Nakajima, Hart Goldman, Paper: [https://arxiv.org/abs/2607.19470](https://arxiv.org/abs/2607.19470), 70 pages, 4 figures, 2 tables, 6 appendices
 - 2026-07-21, **Conformal QED in AdS as a BCFT**, Fabiana De Cesare, Simone Giombi, Paper: [https://arxiv.org/abs/2607.19464](https://arxiv.org/abs/2607.19464), 33 pages, 5 figures
 - 2026-07-21, **Boundary quenches in (1+1)-dimensional conformal field theory**, Michele Fossati, Colin Rylands, Eytan Grosfeld, Eran Sela, Pasquale Calabrese, Paper: [https://arxiv.org/abs/2607.19166](https://arxiv.org/abs/2607.19166), 20 pages, 6 figures
@@ -1814,5 +1817,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260725>back to top</a>)</p>
 
