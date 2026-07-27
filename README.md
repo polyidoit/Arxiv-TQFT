@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Entanglement in Presence of Topological Interfaces and Dualities**|Christian Northe, Riccardo Poletti, Paolo Rossi|[2607.22451](https://arxiv.org/abs/2607.22451)|null|
+|**2026-07-24**|**Les Houches lectures on Spinfoam Path Integrals**|Oleksandra Hrytseniak, Etera R. Livine, Valentine Maris|[2607.22412](https://arxiv.org/abs/2607.22412)|null|
+|**2026-07-24**|**Unconventional $\mathbb{Z}_2\times\mathbb{Z}_2\times\mathbb{Z}_2$ topological order in the kagome XY toric code**|C. Kölbl, M. Vieweg, K. P. Schmidt|[2607.22296](https://arxiv.org/abs/2607.22296)|null|
+|**2026-07-24**|**Lifts of partial cohomological field theories and examples of bi-Hamiltonian structures in the non-semisimple case**|Guido Carlet, Dimitrios Makris, Sergey Shadrin|[2607.22084](https://arxiv.org/abs/2607.22084)|null|
+|**2026-07-24**|**Phenomenological geometric ordering in fractional quantum Hall systems**|M. A. Hidalgo|[2607.22058](https://arxiv.org/abs/2607.22058)|null|
+|**2026-07-24**|**Current-induced creation and dynamics of embedded magnetic skyrmion bags**|Yaodong Wu, Jialiang Jiang, Lingyao Kong, Meng Shi, Shouguo Wang, Mingliang Tian, Haifeng Du, Jin Tang|[2607.21889](https://arxiv.org/abs/2607.21889)|null|
+|**2026-07-23**|**Quantum-Corrected Thermodynamics, Dirac Perturbations, Geodesic Structure, and Topological Phases of Black Holes with Non-Minimal Logarithmic Coupling**|İzzet Sakallı, Özcan Sert, Erdem Sucu, Yusuf Sucu|[2607.21783](https://arxiv.org/abs/2607.21783)|null|
+|**2026-07-23**|**Quantum Cellular Automata from Kramers-Wannier Dualities and Modular Relations**|Carolyn Zhang, Po-Shen Hsin|[2607.21728](https://arxiv.org/abs/2607.21728)|null|
+|**2026-07-23**|**Resolving topological order crossovers on NISQ hardware**|Ruizhe Shen, Yin Zhong, Ching Hua Lee|[2607.21707](https://arxiv.org/abs/2607.21707)|null|
+|**2026-07-23**|**Mixed-state topological order and error-correction thresholds in non-Abelian codes: rigorous results**|Sun Woo P. Kim, Max McGinley|[2607.21706](https://arxiv.org/abs/2607.21706)|null|
 |**2026-07-23**|**Entanglement asymmetry and quantum Mpemba effect for Kramers-Wannier duality**|Milo Vescovo, Pasquale Calabrese, Filiberto Ares|[2607.21226](https://arxiv.org/abs/2607.21226)|null|
 |**2026-07-22**|**Sp(4,Z) actions on 3d U(1)^2 symmetric theories: Order-five duality and bilayer quantum Hall hierarchies**|Yasin F. Alam, Andreas Karch, Da-Chuan Lu, Ryan C. Spieler|[2607.20622](https://arxiv.org/abs/2607.20622)|null|
 |**2026-07-22**|**Kaplansky's second test problem in operator algebras**|Chunlan Jiang, Minghui Ma, Rui Shi, Yuanhang Zhang|[2607.20593](https://arxiv.org/abs/2607.20593)|null|
