@@ -1,4 +1,4 @@
-> Automatically updated on 2026.07.27
+> Automatically updated on 2026.07.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-26, **Engineering two-body interaction for the Moore-Read State**, Yi Yang, Xin Wan, Zi-Xiang Hu, Paper: [https://arxiv.org/abs/2607.23695](https://arxiv.org/abs/2607.23695), 9 pages, 10 figures
+- 2026-07-25, **A Hopf algebra on permutations with a coupling product**, Huilan Li, Yishuo Yang, Nantel Bergeron, Paper: [https://arxiv.org/abs/2607.23345](https://arxiv.org/abs/2607.23345), 14 pages
+- 2026-07-25, **Effects of Curvature-Scalar Coupling on Vacuum Energy in Flat (3+1)-Dimensional Space-Time**, Volodymyr Gorkavenko, Oleh Barabash, Pavlo Nakaznyi, Mariia Tsarenkova, Nazar Yakovenko, Andrii Zaporozhchenko, Paper: [https://arxiv.org/abs/2607.23331](https://arxiv.org/abs/2607.23331), 12 pages, 3 figures
+- 2026-07-24, **New class of exactly flat topological bands - compact localised states protected by local graph topology**, Tamaghna Hazra, Paper: [https://arxiv.org/abs/2607.22831](https://arxiv.org/abs/2607.22831), 19 pages main text, 8 figures, 1 appendix. Comments welcome and will be gratefully acknowledged upon submission
 - 2026-07-24, **Entanglement in Presence of Topological Interfaces and Dualities**, Christian Northe, Riccardo Poletti, Paolo Rossi, Paper: [https://arxiv.org/abs/2607.22451](https://arxiv.org/abs/2607.22451), 41 Pages plus appendices, several figures
 - 2026-07-24, **Les Houches lectures on Spinfoam Path Integrals**, Oleksandra Hrytseniak, Etera R. Livine, Valentine Maris, Paper: [https://arxiv.org/abs/2607.22412](https://arxiv.org/abs/2607.22412), 49 pages; Lecture notes prepared for the Les Houches School on Loop Quantum Gravity 2025, https://sites.google.com/cstq.org/2025-lqg-blaumann-school; Slides on a brief history of spinfoams as Supplementary material
 - 2026-07-24, **Unconventional $\mathbb{Z}_2\times\mathbb{Z}_2\times\mathbb{Z}_2$ topological order in the kagome XY toric code**, C. Kölbl, M. Vieweg, K. P. Schmidt, Paper: [https://arxiv.org/abs/2607.22296](https://arxiv.org/abs/2607.22296), 11 pages, 6 figures
@@ -1827,5 +1831,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 

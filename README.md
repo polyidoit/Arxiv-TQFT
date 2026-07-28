@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.07.27
+> Automatically updated on 2026.07.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-26**|**Engineering two-body interaction for the Moore-Read State**|Yi Yang, Xin Wan, Zi-Xiang Hu|[2607.23695](https://arxiv.org/abs/2607.23695)|null|
+|**2026-07-25**|**A Hopf algebra on permutations with a coupling product**|Huilan Li, Yishuo Yang, Nantel Bergeron|[2607.23345](https://arxiv.org/abs/2607.23345)|null|
+|**2026-07-25**|**Effects of Curvature-Scalar Coupling on Vacuum Energy in Flat (3+1)-Dimensional Space-Time**|Volodymyr Gorkavenko, Oleh Barabash, Pavlo Nakaznyi, Mariia Tsarenkova, Nazar Yakovenko, Andrii Zaporozhchenko|[2607.23331](https://arxiv.org/abs/2607.23331)|null|
+|**2026-07-24**|**New class of exactly flat topological bands - compact localised states protected by local graph topology**|Tamaghna Hazra|[2607.22831](https://arxiv.org/abs/2607.22831)|null|
 |**2026-07-24**|**Entanglement in Presence of Topological Interfaces and Dualities**|Christian Northe, Riccardo Poletti, Paolo Rossi|[2607.22451](https://arxiv.org/abs/2607.22451)|null|
 |**2026-07-24**|**Les Houches lectures on Spinfoam Path Integrals**|Oleksandra Hrytseniak, Etera R. Livine, Valentine Maris|[2607.22412](https://arxiv.org/abs/2607.22412)|null|
 |**2026-07-24**|**Unconventional $\mathbb{Z}_2\times\mathbb{Z}_2\times\mathbb{Z}_2$ topological order in the kagome XY toric code**|C. Kölbl, M. Vieweg, K. P. Schmidt|[2607.22296](https://arxiv.org/abs/2607.22296)|null|
@@ -2626,5 +2630,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
