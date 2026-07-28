@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Anyon Condensation In Symmetry-Enriched Topological Phases: $G$ -Grading of Multifusion Categories**|Nianrui Fu, Siyuan Wang, Yu Zhao, Yidun Wan|[2607.24740](https://arxiv.org/abs/2607.24740)|null|
+|**2026-07-27**|**Finite-Precision Algebraic Quantum Field Theory**|Abbas Edalat|[2607.24445](https://arxiv.org/abs/2607.24445)|null|
+|**2026-07-27**|**Light-like retarded correlators and the horizon**|Justin R. David, Leonard Schwarze|[2607.24242](https://arxiv.org/abs/2607.24242)|null|
+|**2026-07-27**|**Freeness and divisibility for right $H$-simple left $H$-comodule algebras over a pointed Hopf algebra $H$**|Daisuke Nakamura|[2607.24039](https://arxiv.org/abs/2607.24039)|null|
 |**2026-07-26**|**Engineering two-body interaction for the Moore-Read State**|Yi Yang, Xin Wan, Zi-Xiang Hu|[2607.23695](https://arxiv.org/abs/2607.23695)|null|
 |**2026-07-25**|**A Hopf algebra on permutations with a coupling product**|Huilan Li, Yishuo Yang, Nantel Bergeron|[2607.23345](https://arxiv.org/abs/2607.23345)|null|
 |**2026-07-25**|**Effects of Curvature-Scalar Coupling on Vacuum Energy in Flat (3+1)-Dimensional Space-Time**|Volodymyr Gorkavenko, Oleh Barabash, Pavlo Nakaznyi, Mariia Tsarenkova, Nazar Yakovenko, Andrii Zaporozhchenko|[2607.23331](https://arxiv.org/abs/2607.23331)|null|

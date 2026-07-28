@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-27, **Anyon Condensation In Symmetry-Enriched Topological Phases: $G$ -Grading of Multifusion Categories**, Nianrui Fu, Siyuan Wang, Yu Zhao, Yidun Wan, Paper: [https://arxiv.org/abs/2607.24740](https://arxiv.org/abs/2607.24740), 28 pages, 3 Figures
+- 2026-07-27, **Finite-Precision Algebraic Quantum Field Theory**, Abbas Edalat, Paper: [https://arxiv.org/abs/2607.24445](https://arxiv.org/abs/2607.24445)
+- 2026-07-27, **Light-like retarded correlators and the horizon**, Justin R. David, Leonard Schwarze, Paper: [https://arxiv.org/abs/2607.24242](https://arxiv.org/abs/2607.24242), 38 pages main text, 5 pages Appendix, 1 figure
+- 2026-07-27, **Freeness and divisibility for right $H$-simple left $H$-comodule algebras over a pointed Hopf algebra $H$**, Daisuke Nakamura, Paper: [https://arxiv.org/abs/2607.24039](https://arxiv.org/abs/2607.24039), 26 pages
 - 2026-07-26, **Engineering two-body interaction for the Moore-Read State**, Yi Yang, Xin Wan, Zi-Xiang Hu, Paper: [https://arxiv.org/abs/2607.23695](https://arxiv.org/abs/2607.23695), 9 pages, 10 figures
 - 2026-07-25, **A Hopf algebra on permutations with a coupling product**, Huilan Li, Yishuo Yang, Nantel Bergeron, Paper: [https://arxiv.org/abs/2607.23345](https://arxiv.org/abs/2607.23345), 14 pages
 - 2026-07-25, **Effects of Curvature-Scalar Coupling on Vacuum Energy in Flat (3+1)-Dimensional Space-Time**, Volodymyr Gorkavenko, Oleh Barabash, Pavlo Nakaznyi, Mariia Tsarenkova, Nazar Yakovenko, Andrii Zaporozhchenko, Paper: [https://arxiv.org/abs/2607.23331](https://arxiv.org/abs/2607.23331), 12 pages, 3 figures
