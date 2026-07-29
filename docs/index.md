@@ -2,6 +2,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-07-28**|**Charge-6e superconductivity from doping SU(3) spin liquids**|Yan-Qi Wang, Boran Zhou, Hui Yang, Zhi-Qiang Gao|[2607.25909](https://arxiv.org/abs/2607.25909)|null|
+|**2026-07-28**|**Protomodularity of cocommutative Hopf monoids in duoidal categories and quasitriangular Hopf algebras**|Alessandro Ardizzoni, Lucrezia Bottegoni, Alan Cigoli, Andrea Sciandra|[2607.25512](https://arxiv.org/abs/2607.25512)|null|
+|**2026-07-28**|**$\mathrm{SL}(2,\mathbb{Z})$ Theta Subgroup Structure of Maxwell theory in the Lattice Villain Hamiltonian Formulation**|Shoto Aoki, Yoshio Kikukawa, Toshinari Takemoto|[2607.25332](https://arxiv.org/abs/2607.25332)|null|
+|**2026-07-28**|**Monodromy, Hidden Conformal Symmetry and Soft Hair in Kerr-MOG Black Hole**|Parthapratim Pradhan|[2607.25205](https://arxiv.org/abs/2607.25205)|null|
+|**2026-07-27**|**Neural Spectral Bias and Conformal Correlators II: Modular and Annulus Bootstrap**|Kausik Ghosh, Sidhaarth Kumar, Vasilis Niarchos, Andreas Stergiou|[2607.24913](https://arxiv.org/abs/2607.24913)|null|
+|**2026-07-27**|**Wald-like entropy and Islands in Dimensionally Reduced Einstein-Hilbert Gravity**|Krishna Jalan|[2607.24883](https://arxiv.org/abs/2607.24883)|null|
 |**2026-07-27**|**Anyon Condensation In Symmetry-Enriched Topological Phases: $G$ -Grading of Multifusion Categories**|Nianrui Fu, Siyuan Wang, Yu Zhao, Yidun Wan|[2607.24740](https://arxiv.org/abs/2607.24740)|null|
 |**2026-07-27**|**Finite-Precision Algebraic Quantum Field Theory**|Abbas Edalat|[2607.24445](https://arxiv.org/abs/2607.24445)|null|
 |**2026-07-27**|**Light-like retarded correlators and the horizon**|Justin R. David, Leonard Schwarze|[2607.24242](https://arxiv.org/abs/2607.24242)|null|
