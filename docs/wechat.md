@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-29, **Microscopic study of topological phase transitions: Percolation point of view**, Keisuke Kataoka, Ikuo Ichinose, Paper: [https://arxiv.org/abs/2607.26707](https://arxiv.org/abs/2607.26707), 21 pages, 19 main figures and 2 figures in Appendix
+- 2026-07-29, **Disjointness-preserving mappings on Calkin operator spaces and positive isometries**, Kai Fang, Jinghao Huang, Karimbergen Kudaybergenov, Ran Xu, Paper: [https://arxiv.org/abs/2607.26563](https://arxiv.org/abs/2607.26563)
+- 2026-07-29, **BiHom-L-R-smash biproduct and BiHom-Yetter-Drinfel'd-Long category**, Dongdong Yan, Xiaoqian Liu, Paper: [https://arxiv.org/abs/2607.26510](https://arxiv.org/abs/2607.26510)
+- 2026-07-29, **Towards First Quantisation Formalism for AKSZ Theories**, Leon Menger, Pavel Mnev, Paper: [https://arxiv.org/abs/2607.26394](https://arxiv.org/abs/2607.26394), 51 pages, 7 figures
+- 2026-07-28, **MEDA: Measurement-Efficient Disorder-Aware Majorana Zero Mode Detection in Realistic Devices**, Nathan Jones, Binayyak Roy, Valentine Mohaugen, Ian Lewis, Toby Cox, Sumanta Tewari, Rong Ge, Paper: [https://arxiv.org/abs/2607.26208](https://arxiv.org/abs/2607.26208), Accepted to 2026 IEEE International Conference on Quantum Computing and Engineering
 - 2026-07-28, **Charge-6e superconductivity from doping SU(3) spin liquids**, Yan-Qi Wang, Boran Zhou, Hui Yang, Zhi-Qiang Gao, Paper: [https://arxiv.org/abs/2607.25909](https://arxiv.org/abs/2607.25909), 11.5 pages, 1 figure
 - 2026-07-28, **Protomodularity of cocommutative Hopf monoids in duoidal categories and quasitriangular Hopf algebras**, Alessandro Ardizzoni, Lucrezia Bottegoni, Alan Cigoli, Andrea Sciandra, Paper: [https://arxiv.org/abs/2607.25512](https://arxiv.org/abs/2607.25512)
 - 2026-07-28, **$\mathrm{SL}(2,\mathbb{Z})$ Theta Subgroup Structure of Maxwell theory in the Lattice Villain Hamiltonian Formulation**, Shoto Aoki, Yoshio Kikukawa, Toshinari Takemoto, Paper: [https://arxiv.org/abs/2607.25332](https://arxiv.org/abs/2607.25332), 44 pages, 1 figure

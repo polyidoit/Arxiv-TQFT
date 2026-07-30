@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Microscopic study of topological phase transitions: Percolation point of view**|Keisuke Kataoka, Ikuo Ichinose|[2607.26707](https://arxiv.org/abs/2607.26707)|null|
+|**2026-07-29**|**Disjointness-preserving mappings on Calkin operator spaces and positive isometries**|Kai Fang, Jinghao Huang, Karimbergen Kudaybergenov, Ran Xu|[2607.26563](https://arxiv.org/abs/2607.26563)|null|
+|**2026-07-29**|**BiHom-L-R-smash biproduct and BiHom-Yetter-Drinfel'd-Long category**|Dongdong Yan, Xiaoqian Liu|[2607.26510](https://arxiv.org/abs/2607.26510)|null|
+|**2026-07-29**|**Towards First Quantisation Formalism for AKSZ Theories**|Leon Menger, Pavel Mnev|[2607.26394](https://arxiv.org/abs/2607.26394)|null|
+|**2026-07-28**|**MEDA: Measurement-Efficient Disorder-Aware Majorana Zero Mode Detection in Realistic Devices**|Nathan Jones, Binayyak Roy, Valentine Mohaugen, Ian Lewis, Toby Cox, Sumanta Tewari, Rong Ge|[2607.26208](https://arxiv.org/abs/2607.26208)|null|
 |**2026-07-28**|**Charge-6e superconductivity from doping SU(3) spin liquids**|Yan-Qi Wang, Boran Zhou, Hui Yang, Zhi-Qiang Gao|[2607.25909](https://arxiv.org/abs/2607.25909)|null|
 |**2026-07-28**|**Protomodularity of cocommutative Hopf monoids in duoidal categories and quasitriangular Hopf algebras**|Alessandro Ardizzoni, Lucrezia Bottegoni, Alan Cigoli, Andrea Sciandra|[2607.25512](https://arxiv.org/abs/2607.25512)|null|
 |**2026-07-28**|**$\mathrm{SL}(2,\mathbb{Z})$ Theta Subgroup Structure of Maxwell theory in the Lattice Villain Hamiltonian Formulation**|Shoto Aoki, Yoshio Kikukawa, Toshinari Takemoto|[2607.25332](https://arxiv.org/abs/2607.25332)|null|
