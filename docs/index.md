@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-07-30**|**The Complexity of Kemeny Aggregation with Three Rankings**|Péter Madarasi|[2607.28588](https://arxiv.org/abs/2607.28588)|null|
+|**2026-07-30**|**Spacetime Layout and Logical Compilation of Color Code**|Qinjing Yu, Ke Liu|[2607.28504](https://arxiv.org/abs/2607.28504)|null|
+|**2026-07-30**|**The structure of iterated Hopf Ore extensions**|B. -F. Yu, G. -S. Zhou|[2607.28234](https://arxiv.org/abs/2607.28234)|null|
+|**2026-07-30**|**Double shuffle relations imply the infinitesimal hexagon equation**|Muze Ren|[2607.28163](https://arxiv.org/abs/2607.28163)|null|
+|**2026-07-30**|**An infinitesimal deformation of the post-Lie and post-Hopf algebra correspondence**|Andrea Rivezzi, Andrea Sciandra, Thomas Weber|[2607.28009](https://arxiv.org/abs/2607.28009)|null|
+|**2026-07-30**|**Bayesian Networks of Density Operators**|Steffen Lauritzen, Piotr Zwiernik|[2607.27876](https://arxiv.org/abs/2607.27876)|null|
+|**2026-07-30**|**Gabi-Monads**|Sebastian Halbig, Paolo Saracco, Tony Zorman|[2607.27846](https://arxiv.org/abs/2607.27846)|null|
+|**2026-07-30**|**Schur Eisenstein series and Schur MacMahon series**|Henrik Bachmann, Jinbo Yu|[2607.27702](https://arxiv.org/abs/2607.27702)|null|
+|**2026-07-30**|**Non-relativistic Floquet Conformal Field Theory**|Diptarka Das, Sumit R. Das, Arnab Kundu, Krishnendu Sengupta|[2607.27668](https://arxiv.org/abs/2607.27668)|null|
+|**2026-07-29**|**Floquet Abelian Multicycle Codes**|Alexey A. Kovalev|[2607.27521](https://arxiv.org/abs/2607.27521)|null|
 |**2026-07-29**|**Microscopic study of topological phase transitions: Percolation point of view**|Keisuke Kataoka, Ikuo Ichinose|[2607.26707](https://arxiv.org/abs/2607.26707)|null|
 |**2026-07-29**|**Disjointness-preserving mappings on Calkin operator spaces and positive isometries**|Kai Fang, Jinghao Huang, Karimbergen Kudaybergenov, Ran Xu|[2607.26563](https://arxiv.org/abs/2607.26563)|null|
 |**2026-07-29**|**BiHom-L-R-smash biproduct and BiHom-Yetter-Drinfel'd-Long category**|Dongdong Yan, Xiaoqian Liu|[2607.26510](https://arxiv.org/abs/2607.26510)|null|

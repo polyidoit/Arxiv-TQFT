@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-30, **The Complexity of Kemeny Aggregation with Three Rankings**, Péter Madarasi, Paper: [https://arxiv.org/abs/2607.28588](https://arxiv.org/abs/2607.28588)
+- 2026-07-30, **Spacetime Layout and Logical Compilation of Color Code**, Qinjing Yu, Ke Liu, Paper: [https://arxiv.org/abs/2607.28504](https://arxiv.org/abs/2607.28504)
+- 2026-07-30, **The structure of iterated Hopf Ore extensions**, B. -F. Yu, G. -S. Zhou, Paper: [https://arxiv.org/abs/2607.28234](https://arxiv.org/abs/2607.28234), 39 pages, comments are welcome!
+- 2026-07-30, **Double shuffle relations imply the infinitesimal hexagon equation**, Muze Ren, Paper: [https://arxiv.org/abs/2607.28163](https://arxiv.org/abs/2607.28163), 7 pages, comments are welcome
+- 2026-07-30, **An infinitesimal deformation of the post-Lie and post-Hopf algebra correspondence**, Andrea Rivezzi, Andrea Sciandra, Thomas Weber, Paper: [https://arxiv.org/abs/2607.28009](https://arxiv.org/abs/2607.28009), 31 pages, comments are welcome
+- 2026-07-30, **Bayesian Networks of Density Operators**, Steffen Lauritzen, Piotr Zwiernik, Paper: [https://arxiv.org/abs/2607.27876](https://arxiv.org/abs/2607.27876)
+- 2026-07-30, **Gabi-Monads**, Sebastian Halbig, Paolo Saracco, Tony Zorman, Paper: [https://arxiv.org/abs/2607.27846](https://arxiv.org/abs/2607.27846), 61 pages, lots of figures; comments very welcome!
+- 2026-07-30, **Schur Eisenstein series and Schur MacMahon series**, Henrik Bachmann, Jinbo Yu, Paper: [https://arxiv.org/abs/2607.27702](https://arxiv.org/abs/2607.27702), 37 pages. Make Schur to leave a comment
+- 2026-07-30, **Non-relativistic Floquet Conformal Field Theory**, Diptarka Das, Sumit R. Das, Arnab Kundu, Krishnendu Sengupta, Paper: [https://arxiv.org/abs/2607.27668](https://arxiv.org/abs/2607.27668), 10+15 pages, 4+5 figures
+- 2026-07-29, **Floquet Abelian Multicycle Codes**, Alexey A. Kovalev, Paper: [https://arxiv.org/abs/2607.27521](https://arxiv.org/abs/2607.27521), 17 pages, 7 figures
 - 2026-07-29, **Microscopic study of topological phase transitions: Percolation point of view**, Keisuke Kataoka, Ikuo Ichinose, Paper: [https://arxiv.org/abs/2607.26707](https://arxiv.org/abs/2607.26707), 21 pages, 19 main figures and 2 figures in Appendix
 - 2026-07-29, **Disjointness-preserving mappings on Calkin operator spaces and positive isometries**, Kai Fang, Jinghao Huang, Karimbergen Kudaybergenov, Ran Xu, Paper: [https://arxiv.org/abs/2607.26563](https://arxiv.org/abs/2607.26563)
 - 2026-07-29, **BiHom-L-R-smash biproduct and BiHom-Yetter-Drinfel'd-Long category**, Dongdong Yan, Xiaoqian Liu, Paper: [https://arxiv.org/abs/2607.26510](https://arxiv.org/abs/2607.26510)
