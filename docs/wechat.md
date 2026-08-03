@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-07-30, **Statistical Gauge Theory of Structural Glasses: Equilibrium Scenarios and Glass-Forming Ability**, L. D. Son, M. G. Vasin, Paper: [https://arxiv.org/abs/2607.28786](https://arxiv.org/abs/2607.28786), 26 pages, 2 figures
+- 2026-07-30, **Gapped Parent Hamiltonians for the Strongly Deformed Toric Code**, Nandagopal Manoj, Zack Weinstein, Jason Alicea, Paper: [https://arxiv.org/abs/2607.28740](https://arxiv.org/abs/2607.28740), 7 + 25 pages, 1 + 2 figures
+- 2026-07-30, **Infinite Symmetry Algebras in Four-Dimensional Conformal Field Theories**, Elizabeth Himwich, Monica Pate, Paper: [https://arxiv.org/abs/2607.28718](https://arxiv.org/abs/2607.28718), 62 pages + appendices
 - 2026-07-30, **The Complexity of Kemeny Aggregation with Three Rankings**, Péter Madarasi, Paper: [https://arxiv.org/abs/2607.28588](https://arxiv.org/abs/2607.28588)
 - 2026-07-30, **Spacetime Layout and Logical Compilation of Color Code**, Qinjing Yu, Ke Liu, Paper: [https://arxiv.org/abs/2607.28504](https://arxiv.org/abs/2607.28504)
 - 2026-07-30, **The structure of iterated Hopf Ore extensions**, B. -F. Yu, G. -S. Zhou, Paper: [https://arxiv.org/abs/2607.28234](https://arxiv.org/abs/2607.28234), 39 pages, comments are welcome!

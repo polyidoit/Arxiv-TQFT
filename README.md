@@ -15,6 +15,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**Statistical Gauge Theory of Structural Glasses: Equilibrium Scenarios and Glass-Forming Ability**|L. D. Son, M. G. Vasin|[2607.28786](https://arxiv.org/abs/2607.28786)|null|
+|**2026-07-30**|**Gapped Parent Hamiltonians for the Strongly Deformed Toric Code**|Nandagopal Manoj, Zack Weinstein, Jason Alicea|[2607.28740](https://arxiv.org/abs/2607.28740)|null|
+|**2026-07-30**|**Infinite Symmetry Algebras in Four-Dimensional Conformal Field Theories**|Elizabeth Himwich, Monica Pate|[2607.28718](https://arxiv.org/abs/2607.28718)|null|
 |**2026-07-30**|**The Complexity of Kemeny Aggregation with Three Rankings**|Péter Madarasi|[2607.28588](https://arxiv.org/abs/2607.28588)|null|
 |**2026-07-30**|**Spacetime Layout and Logical Compilation of Color Code**|Qinjing Yu, Ke Liu|[2607.28504](https://arxiv.org/abs/2607.28504)|null|
 |**2026-07-30**|**The structure of iterated Hopf Ore extensions**|B. -F. Yu, G. -S. Zhou|[2607.28234](https://arxiv.org/abs/2607.28234)|null|
