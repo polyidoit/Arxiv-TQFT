@@ -1,13 +1,17 @@
-> Automatically updated on 2026.08.03
+> Automatically updated on 2026.08.04
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-08-01**|**Spin Quantum Hall Effect: the Critical Exponents**|Hrant Topchyan, Win Nuding, Andreas Klümper, Ara Sedrakyan|[2608.00849](https://arxiv.org/abs/2608.00849)|null|
+|**2026-08-01**|**Tracing the Cascade: A Topology-Aware Evaluation Framework for Scientific Agent Hallucinations**|Xinshun Feng, Ziqi Miao, Lijun Li, Jing Shao|[2608.00711](https://arxiv.org/abs/2608.00711)|null|
+|**2026-08-01**|**On Separable and Frobenius Cowreaths of type $(A \otimes H^{\mathrm{op}}, H,ψ)$**|Fabio Renda|[2608.00676](https://arxiv.org/abs/2608.00676)|null|
+|**2026-07-31**|**Minimal Massive Gravity Coupled to Higher Spins**|Franz Ciceri, Nihat Sadik Deger, Bastien Duboeuf, Henning Samtleben|[2608.00185](https://arxiv.org/abs/2608.00185)|null|
 |**2026-07-30**|**Statistical Gauge Theory of Structural Glasses: Equilibrium Scenarios and Glass-Forming Ability**|L. D. Son, M. G. Vasin|[2607.28786](https://arxiv.org/abs/2607.28786)|null|
 |**2026-07-30**|**Gapped Parent Hamiltonians for the Strongly Deformed Toric Code**|Nandagopal Manoj, Zack Weinstein, Jason Alicea|[2607.28740](https://arxiv.org/abs/2607.28740)|null|
 |**2026-07-30**|**Infinite Symmetry Algebras in Four-Dimensional Conformal Field Theories**|Elizabeth Himwich, Monica Pate|[2607.28718](https://arxiv.org/abs/2607.28718)|null|
 |**2026-07-30**|**The Complexity of Kemeny Aggregation with Three Rankings**|Péter Madarasi|[2607.28588](https://arxiv.org/abs/2607.28588)|null|
 |**2026-07-30**|**Spacetime Layout and Logical Compilation of Color Code**|Qinjing Yu, Ke Liu|[2607.28504](https://arxiv.org/abs/2607.28504)|null|
-|**2026-07-30**|**The structure of iterated Hopf Ore extensions**|B. -F. Yu, G. -S. Zhou|[2607.28234](https://arxiv.org/abs/2607.28234)|null|
+|**2026-08-02**|**The structure of iterated Hopf Ore extensions**|Bofan Yu, Guisong Zhou|[2607.28234](https://arxiv.org/abs/2607.28234)|null|
 |**2026-07-30**|**Double shuffle relations imply the infinitesimal hexagon equation**|Muze Ren|[2607.28163](https://arxiv.org/abs/2607.28163)|null|
 |**2026-07-30**|**An infinitesimal deformation of the post-Lie and post-Hopf algebra correspondence**|Andrea Rivezzi, Andrea Sciandra, Thomas Weber|[2607.28009](https://arxiv.org/abs/2607.28009)|null|
 |**2026-07-30**|**Bayesian Networks of Density Operators**|Steffen Lauritzen, Piotr Zwiernik|[2607.27876](https://arxiv.org/abs/2607.27876)|null|
