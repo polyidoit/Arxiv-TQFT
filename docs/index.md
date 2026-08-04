@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-08-03**|**On the local conformal structure of Imaginary Liouville theory**|Baptiste Cerclé, Romain Usciati|[2608.02543](https://arxiv.org/abs/2608.02543)|null|
+|**2026-08-03**|**ICC property(T) groups without W $^*$ -superrigidity**|Shuoxing Zhou|[2608.02327](https://arxiv.org/abs/2608.02327)|null|
+|**2026-08-03**|**Charged Black Holes with a Lorentz--Violating Kalb--Ramond Background**|Jia-Hui Yang, Xin-Yu Guo, Jia-Zhou Liu, Yu-Xiao Liu|[2608.02196](https://arxiv.org/abs/2608.02196)|null|
+|**2026-08-03**|**Trace maps on chiral Clifford algebras for the rank two fermionic vertex operator superalgebra**|A. Zuevsky|[2608.02065](https://arxiv.org/abs/2608.02065)|null|
+|**2026-08-03**|**The Pangaea Architecture: Fault-Tolerant Heterogeneous Topological Codes via a Quantum Bus**|Sheir Yarkoni, Chen Scheim, Daniel Hakshuri, Nadav Katz|[2608.01887](https://arxiv.org/abs/2608.01887)|null|
+|**2026-08-03**|**Topological Defects in Triple- $Q$ Magnetic Orders: A Fixed-Lattice Homotopy Classification**|Jin-Tao Jin, Yi Zhou|[2608.01838](https://arxiv.org/abs/2608.01838)|null|
+|**2026-08-03**|**de Sitter holography from a Lorentzian torus**|Kosei Fujiki, Michitaka Kohara, Javier Moreno, Kotaro Shinmyo, Tadashi Takayanagi|[2608.01729](https://arxiv.org/abs/2608.01729)|null|
+|**2026-08-03**|**Chevalley-Eilenberg cohomology of linearly reductive Lie algebras in the Verlinde category**|Pavel Etingof, Serina Hu|[2608.01576](https://arxiv.org/abs/2608.01576)|null|
 |**2026-08-01**|**Spin Quantum Hall Effect: the Critical Exponents**|Hrant Topchyan, Win Nuding, Andreas Klümper, Ara Sedrakyan|[2608.00849](https://arxiv.org/abs/2608.00849)|null|
 |**2026-08-01**|**Tracing the Cascade: A Topology-Aware Evaluation Framework for Scientific Agent Hallucinations**|Xinshun Feng, Ziqi Miao, Lijun Li, Jing Shao|[2608.00711](https://arxiv.org/abs/2608.00711)|null|
 |**2026-08-01**|**On Separable and Frobenius Cowreaths of type $(A \otimes H^{\mathrm{op}}, H,ψ)$**|Fabio Renda|[2608.00676](https://arxiv.org/abs/2608.00676)|null|

@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-03, **On the local conformal structure of Imaginary Liouville theory**, Baptiste Cerclé, Romain Usciati, Paper: [https://arxiv.org/abs/2608.02543](https://arxiv.org/abs/2608.02543)
+- 2026-08-03, **ICC property(T) groups without W $^*$ -superrigidity**, Shuoxing Zhou, Paper: [https://arxiv.org/abs/2608.02327](https://arxiv.org/abs/2608.02327), 21 pages
+- 2026-08-03, **Charged Black Holes with a Lorentz--Violating Kalb--Ramond Background**, Jia-Hui Yang, Xin-Yu Guo, Jia-Zhou Liu, Yu-Xiao Liu, Paper: [https://arxiv.org/abs/2608.02196](https://arxiv.org/abs/2608.02196), 27 pages
+- 2026-08-03, **Trace maps on chiral Clifford algebras for the rank two fermionic vertex operator superalgebra**, A. Zuevsky, Paper: [https://arxiv.org/abs/2608.02065](https://arxiv.org/abs/2608.02065)
+- 2026-08-03, **The Pangaea Architecture: Fault-Tolerant Heterogeneous Topological Codes via a Quantum Bus**, Sheir Yarkoni, Chen Scheim, Daniel Hakshuri, Nadav Katz, Paper: [https://arxiv.org/abs/2608.01887](https://arxiv.org/abs/2608.01887), 17 pages, 10 figures
+- 2026-08-03, **Topological Defects in Triple- $Q$ Magnetic Orders: A Fixed-Lattice Homotopy Classification**, Jin-Tao Jin, Yi Zhou, Paper: [https://arxiv.org/abs/2608.01838](https://arxiv.org/abs/2608.01838)
+- 2026-08-03, **de Sitter holography from a Lorentzian torus**, Kosei Fujiki, Michitaka Kohara, Javier Moreno, Kotaro Shinmyo, Tadashi Takayanagi, Paper: [https://arxiv.org/abs/2608.01729](https://arxiv.org/abs/2608.01729), 7 pages, 2 figures
+- 2026-08-03, **Chevalley-Eilenberg cohomology of linearly reductive Lie algebras in the Verlinde category**, Pavel Etingof, Serina Hu, Paper: [https://arxiv.org/abs/2608.01576](https://arxiv.org/abs/2608.01576), 14 pages, latex
 - 2026-08-01, **Spin Quantum Hall Effect: the Critical Exponents**, Hrant Topchyan, Win Nuding, Andreas Klümper, Ara Sedrakyan, Paper: [https://arxiv.org/abs/2608.00849](https://arxiv.org/abs/2608.00849)
 - 2026-08-01, **Tracing the Cascade: A Topology-Aware Evaluation Framework for Scientific Agent Hallucinations**, Xinshun Feng, Ziqi Miao, Lijun Li, Jing Shao, Paper: [https://arxiv.org/abs/2608.00711](https://arxiv.org/abs/2608.00711), 36 pages, 7 figures and 5 tables
 - 2026-08-01, **On Separable and Frobenius Cowreaths of type $(A \otimes H^{\mathrm{op}}, H,ψ)$**, Fabio Renda, Paper: [https://arxiv.org/abs/2608.00676](https://arxiv.org/abs/2608.00676), 44 pages
