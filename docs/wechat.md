@@ -1,4 +1,4 @@
-> Automatically updated on 2026.08.04
+> Automatically updated on 2026.08.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-04, **Harvest: Resource-Aware Quantum Compilation for Magic State Protocols**, Jannik Pflieger, Aleksandra Świerkowska, Emmanouil Giortamis, Pramod Bhatotia, Paper: [https://arxiv.org/abs/2608.03315](https://arxiv.org/abs/2608.03315)
+- 2026-08-04, **Fluctuations of topological charges in two-dimensional classical Heisenberg model through high-temperature and low-temperature expansions**, Shan-Chang Tang, Paper: [https://arxiv.org/abs/2608.03195](https://arxiv.org/abs/2608.03195), 16 pages, 8 figures
+- 2026-08-03, **Two dimensional inhomogeneous classical systems at criticality**, Jean-Marie Stéphan, Paper: [https://arxiv.org/abs/2608.02903](https://arxiv.org/abs/2608.02903), 38 pages, 14 figures
+- 2026-08-03, **Zesting and the relative complexity of Reshetikhin-Turaev invariants**, Colleen Delaney, Calvin McPhail-Snyder, Paper: [https://arxiv.org/abs/2608.02795](https://arxiv.org/abs/2608.02795), 44 pages, many figures
+- 2026-08-03, **Spin-charge separation in the triangular-lattice Hofstadter-Hubbard model**, Yuntian Gu, Hui Yang, Zhehao Dai, Yantao Wu, Paper: [https://arxiv.org/abs/2608.02727](https://arxiv.org/abs/2608.02727), 6 pages, 5 figures. 1 supplement
+- 2026-08-03, **Structure of matrix product locally purifiable density operators**, Yale Yauk, Yuhan Liu, Ignacio Cirac, Paper: [https://arxiv.org/abs/2608.02724](https://arxiv.org/abs/2608.02724), 12+5 pages
+- 2026-08-03, **$\mathcal{N}=2$ RG flows, Non-Invertible Symmetries and Matrix Factorisations**, Federico Ambrosino, Matthias R. Gaberdiel, Yu Nakayama, Paper: [https://arxiv.org/abs/2608.02717](https://arxiv.org/abs/2608.02717), 22 pages + Appendix
 - 2026-08-03, **On the local conformal structure of Imaginary Liouville theory**, Baptiste Cerclé, Romain Usciati, Paper: [https://arxiv.org/abs/2608.02543](https://arxiv.org/abs/2608.02543)
 - 2026-08-03, **ICC property(T) groups without W $^*$ -superrigidity**, Shuoxing Zhou, Paper: [https://arxiv.org/abs/2608.02327](https://arxiv.org/abs/2608.02327), 21 pages
 - 2026-08-03, **Charged Black Holes with a Lorentz--Violating Kalb--Ramond Background**, Jia-Hui Yang, Xin-Yu Guo, Jia-Zhou Liu, Yu-Xiao Liu, Paper: [https://arxiv.org/abs/2608.02196](https://arxiv.org/abs/2608.02196), 27 pages
@@ -1871,5 +1878,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 

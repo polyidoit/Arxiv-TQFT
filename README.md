@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.08.04
+> Automatically updated on 2026.08.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Harvest: Resource-Aware Quantum Compilation for Magic State Protocols**|Jannik Pflieger, Aleksandra Świerkowska, Emmanouil Giortamis, Pramod Bhatotia|[2608.03315](https://arxiv.org/abs/2608.03315)|null|
+|**2026-08-04**|**Fluctuations of topological charges in two-dimensional classical Heisenberg model through high-temperature and low-temperature expansions**|Shan-Chang Tang|[2608.03195](https://arxiv.org/abs/2608.03195)|null|
+|**2026-08-03**|**Two dimensional inhomogeneous classical systems at criticality**|Jean-Marie Stéphan|[2608.02903](https://arxiv.org/abs/2608.02903)|null|
+|**2026-08-03**|**Zesting and the relative complexity of Reshetikhin-Turaev invariants**|Colleen Delaney, Calvin McPhail-Snyder|[2608.02795](https://arxiv.org/abs/2608.02795)|null|
+|**2026-08-03**|**Spin-charge separation in the triangular-lattice Hofstadter-Hubbard model**|Yuntian Gu, Hui Yang, Zhehao Dai, Yantao Wu|[2608.02727](https://arxiv.org/abs/2608.02727)|null|
+|**2026-08-03**|**Structure of matrix product locally purifiable density operators**|Yale Yauk, Yuhan Liu, Ignacio Cirac|[2608.02724](https://arxiv.org/abs/2608.02724)|null|
+|**2026-08-03**|**$\mathcal{N}=2$ RG flows, Non-Invertible Symmetries and Matrix Factorisations**|Federico Ambrosino, Matthias R. Gaberdiel, Yu Nakayama|[2608.02717](https://arxiv.org/abs/2608.02717)|null|
 |**2026-08-03**|**On the local conformal structure of Imaginary Liouville theory**|Baptiste Cerclé, Romain Usciati|[2608.02543](https://arxiv.org/abs/2608.02543)|null|
 |**2026-08-03**|**ICC property(T) groups without W $^*$ -superrigidity**|Shuoxing Zhou|[2608.02327](https://arxiv.org/abs/2608.02327)|null|
 |**2026-08-03**|**Charged Black Holes with a Lorentz--Violating Kalb--Ramond Background**|Jia-Hui Yang, Xin-Yu Guo, Jia-Zhou Liu, Yu-Xiao Liu|[2608.02196](https://arxiv.org/abs/2608.02196)|null|
@@ -2670,5 +2677,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260805>back to top</a>)</p>
 
