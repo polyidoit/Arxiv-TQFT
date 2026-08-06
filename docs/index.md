@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-08-05**|**Generalized comodule tube algebras for boundary and domain wall defects of (2+1)D topological order**|Zhian Jia, Sheng Tan|[2608.05071](https://arxiv.org/abs/2608.05071)|null|
+|**2026-08-05**|**Neutral Atom Quantum Computing: Principles, Routes, Progress, and Challenges**|Junchao Wang, Zeyuan Wang, Lei Li, Feng Wang, Shibo Liang, Keduo Yan|[2608.05010](https://arxiv.org/abs/2608.05010)|null|
+|**2026-08-05**|**Associative/Lie radical (co)invariance under tracial (co)actions**|Alexandru Chirvasitu|[2608.04851](https://arxiv.org/abs/2608.04851)|null|
+|**2026-08-05**|**BiHom-four-angle Hopf modules and BiHom-Yetter-Drinfel'd modules**|Dongdong Yan, Xiaoqian Liu|[2608.04538](https://arxiv.org/abs/2608.04538)|null|
+|**2026-08-04**|**Measurement-based simulation of lattice gauge theory dynamics with adaptive quantum circuits on a trapped-ion processor**|Hiroki Sukeno, Enrico Rinaldi, Takuya Okuda|[2608.04290](https://arxiv.org/abs/2608.04290)|null|
+|**2026-08-04**|**Reconstructing non-Abelian braiding and fusion without anyon transport**|Lucy Byles, Matthew D. Horner, Benjamin T. H. Varcoe, Jiannis K. Pachos|[2608.04103](https://arxiv.org/abs/2608.04103)|null|
+|**2026-08-04**|**Entanglement entropy of fermions in a strange metal**|Santanu Singh, Surajit Bera, Chenyuan Li, Subir Sachdev, Sumilan Banerjee|[2608.04098](https://arxiv.org/abs/2608.04098)|null|
+|**2026-08-04**|**Breakdown of Monotonic Impurity Entropy Flow in $\mathscr{PT}$ -Symmetric Multichannel Kondo Systems**|Pradip Kattel, Abay Zhakenov, Natan Andrei|[2608.04083](https://arxiv.org/abs/2608.04083)|null|
 |**2026-08-04**|**Harvest: Resource-Aware Quantum Compilation for Magic State Protocols**|Jannik Pflieger, Aleksandra Świerkowska, Emmanouil Giortamis, Pramod Bhatotia|[2608.03315](https://arxiv.org/abs/2608.03315)|null|
 |**2026-08-04**|**Fluctuations of topological charges in two-dimensional classical Heisenberg model through high-temperature and low-temperature expansions**|Shan-Chang Tang|[2608.03195](https://arxiv.org/abs/2608.03195)|null|
 |**2026-08-03**|**Two dimensional inhomogeneous classical systems at criticality**|Jean-Marie Stéphan|[2608.02903](https://arxiv.org/abs/2608.02903)|null|
