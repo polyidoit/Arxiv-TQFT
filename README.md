@@ -15,6 +15,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**Approximate Quantum Error Correction at Chiral Topological Edges**|Yuntai Song, Zejun Liu, Zhencheng Wang, Jong Yeon Lee, Bowen Shi|[2608.06258](https://arxiv.org/abs/2608.06258)|null|
+|**2026-08-06**|**Emergent gravitational action from non-local $T\bar T$ -like deformations**|Yun-Ze Li, Bo-Rui Li, Yu-Xiao Liu, Song He|[2608.05913](https://arxiv.org/abs/2608.05913)|null|
+|**2026-08-06**|**From chiral to conformal anomalies: a double copy perspective for CFT correlators**|Claudio Corianò, Stefano Lionetti|[2608.05731](https://arxiv.org/abs/2608.05731)|null|
+|**2026-08-05**|**Stochasticity Is Not the Hard Part: Reduction and Complexity in Instructional Sequencing over Prerequisite DAGs**|Zonglin Han, Yichen Chen, Jiawen Jiang, Tongan Shi, Kristian A. Stevens|[2608.05455](https://arxiv.org/abs/2608.05455)|null|
+|**2026-08-05**|**Self-dual $S_3$ gauge theory in 2+1d: lattice model and topological phase transitions**|Da-Chuan Lu, Chong Wang, Ashvin Vishwanath|[2608.05294](https://arxiv.org/abs/2608.05294)|null|
+|**2026-08-05**|**Theory of Measurement-Altered Criticality**|Kabir Khanna, Sara Murciano, Romain Vasseur|[2608.05289](https://arxiv.org/abs/2608.05289)|null|
+|**2026-08-05**|**Moduli Bounds from Spin-2 Sum Rules**|Francesco Bertucci, James Bonifacio, Kurt Hinterbichler|[2608.05273](https://arxiv.org/abs/2608.05273)|null|
 |**2026-08-05**|**Generalized comodule tube algebras for boundary and domain wall defects of (2+1)D topological order**|Zhian Jia, Sheng Tan|[2608.05071](https://arxiv.org/abs/2608.05071)|null|
 |**2026-08-05**|**Neutral Atom Quantum Computing: Principles, Routes, Progress, and Challenges**|Junchao Wang, Zeyuan Wang, Lei Li, Feng Wang, Shibo Liang, Keduo Yan|[2608.05010](https://arxiv.org/abs/2608.05010)|null|
 |**2026-08-05**|**Associative/Lie radical (co)invariance under tracial (co)actions**|Alexandru Chirvasitu|[2608.04851](https://arxiv.org/abs/2608.04851)|null|
