@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-07, **Quantum de Sitter and Analytically Continued Chern Simons Theory**, Stephon Alexander, Kenneth Blakey, Paper: [https://arxiv.org/abs/2608.07467](https://arxiv.org/abs/2608.07467), 30 pages
+- 2026-08-07, **The two-sided Bogoliubov inequality in von Neumann algebras conceptualizes the free energy--quantum correlations link**, Benedikt M. Reible, Albert Much, Rainer Verch, Christof Schütte, Luigi Delle Site, Paper: [https://arxiv.org/abs/2608.07246](https://arxiv.org/abs/2608.07246), 39 pages, 1 figure. Based on the thesis arXiv:2501.04564
+- 2026-08-07, **Topological defects in reflection positive topological field theories**, Lukas Müller, Paper: [https://arxiv.org/abs/2608.07217](https://arxiv.org/abs/2608.07217), 22 pages, 10 figures, comments welcome
+- 2026-08-07, **The spectral gap of the ABJM model: A holographic perspective from uplifted higher-dimensional geometries**, Mahdis Ghodrati, Paper: [https://arxiv.org/abs/2608.06887](https://arxiv.org/abs/2608.06887), 36 pages, 7 figures
+- 2026-08-06, **Bootstrapping 3D Conformal Field Theories with Product Analytic Functionals**, Kausik Ghosh, Zechuan Zheng, Paper: [https://arxiv.org/abs/2608.06497](https://arxiv.org/abs/2608.06497), 12 figures, 12 tables
 - 2026-08-06, **Approximate Quantum Error Correction at Chiral Topological Edges**, Yuntai Song, Zejun Liu, Zhencheng Wang, Jong Yeon Lee, Bowen Shi, Paper: [https://arxiv.org/abs/2608.06258](https://arxiv.org/abs/2608.06258), 35 pages, 20 figures, 3 tables
 - 2026-08-06, **Emergent gravitational action from non-local $T\bar T$ -like deformations**, Yun-Ze Li, Bo-Rui Li, Yu-Xiao Liu, Song He, Paper: [https://arxiv.org/abs/2608.05913](https://arxiv.org/abs/2608.05913), 43 pages, no figures
 - 2026-08-06, **From chiral to conformal anomalies: a double copy perspective for CFT correlators**, Claudio Corianò, Stefano Lionetti, Paper: [https://arxiv.org/abs/2608.05731](https://arxiv.org/abs/2608.05731)

@@ -15,6 +15,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Quantum de Sitter and Analytically Continued Chern Simons Theory**|Stephon Alexander, Kenneth Blakey|[2608.07467](https://arxiv.org/abs/2608.07467)|null|
+|**2026-08-07**|**The two-sided Bogoliubov inequality in von Neumann algebras conceptualizes the free energy--quantum correlations link**|Benedikt M. Reible, Albert Much, Rainer Verch, Christof Schütte, Luigi Delle Site|[2608.07246](https://arxiv.org/abs/2608.07246)|null|
+|**2026-08-07**|**Topological defects in reflection positive topological field theories**|Lukas Müller|[2608.07217](https://arxiv.org/abs/2608.07217)|null|
+|**2026-08-07**|**The spectral gap of the ABJM model: A holographic perspective from uplifted higher-dimensional geometries**|Mahdis Ghodrati|[2608.06887](https://arxiv.org/abs/2608.06887)|null|
+|**2026-08-06**|**Bootstrapping 3D Conformal Field Theories with Product Analytic Functionals**|Kausik Ghosh, Zechuan Zheng|[2608.06497](https://arxiv.org/abs/2608.06497)|null|
 |**2026-08-06**|**Approximate Quantum Error Correction at Chiral Topological Edges**|Yuntai Song, Zejun Liu, Zhencheng Wang, Jong Yeon Lee, Bowen Shi|[2608.06258](https://arxiv.org/abs/2608.06258)|null|
 |**2026-08-06**|**Emergent gravitational action from non-local $T\bar T$ -like deformations**|Yun-Ze Li, Bo-Rui Li, Yu-Xiao Liu, Song He|[2608.05913](https://arxiv.org/abs/2608.05913)|null|
 |**2026-08-06**|**From chiral to conformal anomalies: a double copy perspective for CFT correlators**|Claudio Corianò, Stefano Lionetti|[2608.05731](https://arxiv.org/abs/2608.05731)|null|
