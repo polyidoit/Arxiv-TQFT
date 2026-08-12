@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**Hochschild Cohomology, Modular Tensor Categories, and Mapping Class Groups II**|Simon Lentner, Svea Nora Mierach, Christoph Schweigert, Yorck Sommerhaeuser|[2608.11193](https://arxiv.org/abs/2608.11193)|null|
+|**2026-08-11**|**Sum rules and density-wave modes in spin-singlet fractional quantum Hall fluids**|Ritajit Kundu, Rakesh K. Dora, Dung Xuan Nguyen, Ajit C. Balram|[2608.11133](https://arxiv.org/abs/2608.11133)|null|
+|**2026-08-11**|**Quantum steering is equivalent to state-preserving conditional expectations**|Lauritz van Luijk, Amine Marrakchi, Tobias Osborne, Alexander Stottmeister, Henrik Wilming|[2608.10783](https://arxiv.org/abs/2608.10783)|null|
+|**2026-08-10**|**3-dimensional TQFTs from derived categories of quantum group representations**|Cris Negron|[2608.10285](https://arxiv.org/abs/2608.10285)|null|
+|**2026-08-10**|**Coupled-Layer Codes: Beyond Quantum Product Constructions**|Shuyu Zhang, Tzu-Chieh Wei, Nathanan Tantivasadakarn|[2608.10069](https://arxiv.org/abs/2608.10069)|null|
+|**2026-08-10**|**The quadratic growth of Krylov spread complexity in the BTZ black hole**|Aranya Bhattacharya, Mario Flory, Michal P. Heller, Emiliano Rizza, Tim Schuhmann|[2608.09922](https://arxiv.org/abs/2608.09922)|null|
+|**2026-08-10**|**Decoupling 2D translation-invariant topological CSS codes**|Yifei Wang, Zhongyi Ni, Mingxin He, Jinguo Liu, Yingfei Gu|[2608.09915](https://arxiv.org/abs/2608.09915)|null|
+|**2026-08-10**|**From Koszul-Complex Stabilizer Models to Superselection Profiles: Topological Rigidity and Nonsplit Extensions**|Hao Song|[2608.09913](https://arxiv.org/abs/2608.09913)|null|
+|**2026-08-10**|**Tunable Multiband Geometry and Fractional Phases in Higher Vortexable Systems**|Xiaohan Wan, Siddhartha Sarkar, Ting Cao, Mark Rudner, Di Xiao, Kai Sun|[2608.09911](https://arxiv.org/abs/2608.09911)|null|
+|**2026-08-10**|**Noisy Braiding of Majorana Modes: A Comparison of Nanowire Trijunction and Quantum-Dot-Assisted Architectures**|Dibyajyoti Sahu, Suhas Gangadharaiah|[2608.09416](https://arxiv.org/abs/2608.09416)|null|
 |**2026-08-07**|**Quantum de Sitter and Analytically Continued Chern Simons Theory**|Stephon Alexander, Kenneth Blakey|[2608.07467](https://arxiv.org/abs/2608.07467)|null|
 |**2026-08-07**|**The two-sided Bogoliubov inequality in von Neumann algebras conceptualizes the free energy--quantum correlations link**|Benedikt M. Reible, Albert Much, Rainer Verch, Christof Schütte, Luigi Delle Site|[2608.07246](https://arxiv.org/abs/2608.07246)|null|
 |**2026-08-07**|**Topological defects in reflection positive topological field theories**|Lukas Müller|[2608.07217](https://arxiv.org/abs/2608.07217)|null|
