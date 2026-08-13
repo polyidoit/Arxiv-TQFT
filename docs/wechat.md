@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-12, **Proliferation Transitions for Non-Abelian Anyons**, Sakura Schafer-Nameki, Yunqin Zheng, Andrea Antinucci, Paper: [https://arxiv.org/abs/2608.12303](https://arxiv.org/abs/2608.12303), 24 pages
+- 2026-08-12, **Wormhole Geometry from a Magnetic Vortex**, Dušan Đorđ ević, Fabián Molina, Vladimir Juričić, Paper: [https://arxiv.org/abs/2608.12285](https://arxiv.org/abs/2608.12285), 6 pages + 6 pages of supplementary material
+- 2026-08-12, **Aspects of Carrollian field theory from holography**, Hare Krishna, Vaishnavi Patil, Paper: [https://arxiv.org/abs/2608.12241](https://arxiv.org/abs/2608.12241)
+- 2026-08-12, **Lectures on ultrathin film ferromagnetism**, D. Pescia, Paper: [https://arxiv.org/abs/2608.12189](https://arxiv.org/abs/2608.12189)
+- 2026-08-12, **Connecting the tensor-categorical formulation of anyon condensation with operator algebras and entropic order parameters**, Hua-Chen Zhang, Paper: [https://arxiv.org/abs/2608.12157](https://arxiv.org/abs/2608.12157), 20 pages
+- 2026-08-12, **Non-unitary Haagerup-like TQFTs and RCFTs from generalized S-fold SCFTs**, Kibok Jeong, Huijoon Sohn, Paper: [https://arxiv.org/abs/2608.11946](https://arxiv.org/abs/2608.11946), 22+14 pages, 3 figures
+- 2026-08-12, **Guided Table Retrieval for Structured Data Search**, Alekh Jindal, Jyoti Pandey, Christina Pavlopoulou, Ronith PR, Sharath Prakash, Shi Qiao, Shivani Tripathi, Wangda Zhang, Paper: [https://arxiv.org/abs/2608.11644](https://arxiv.org/abs/2608.11644)
+- 2026-08-11, **The motivic Selmer scheme of the thrice-punctured line**, Martin Lüdtke, Paper: [https://arxiv.org/abs/2608.11509](https://arxiv.org/abs/2608.11509), 39 pages; comments welcome
+- 2026-08-11, **Exact Defect Correlation Functions in Chern-Simons Matter Theories**, Gwenaël Ferrando, Elior Urisman, Paper: [https://arxiv.org/abs/2608.11313](https://arxiv.org/abs/2608.11313), 55 pages, 6 figures
+- 2026-08-11, **A Comment On Topological Degeneracy In Gauged WZW Models**, Gregory W. Moore, Eliezer Rabinovici, Ranveer Kumar Singh, Paper: [https://arxiv.org/abs/2608.11308](https://arxiv.org/abs/2608.11308), 37 pages
 - 2026-08-11, **Hochschild Cohomology, Modular Tensor Categories, and Mapping Class Groups II**, Simon Lentner, Svea Nora Mierach, Christoph Schweigert, Yorck Sommerhaeuser, Paper: [https://arxiv.org/abs/2608.11193](https://arxiv.org/abs/2608.11193), 105 pages, uses tikz-cd package
 - 2026-08-11, **Sum rules and density-wave modes in spin-singlet fractional quantum Hall fluids**, Ritajit Kundu, Rakesh K. Dora, Dung Xuan Nguyen, Ajit C. Balram, Paper: [https://arxiv.org/abs/2608.11133](https://arxiv.org/abs/2608.11133), 27 pages, 8 figures
 - 2026-08-11, **Quantum steering is equivalent to state-preserving conditional expectations**, Lauritz van Luijk, Amine Marrakchi, Tobias Osborne, Alexander Stottmeister, Henrik Wilming, Paper: [https://arxiv.org/abs/2608.10783](https://arxiv.org/abs/2608.10783), 26 pages, 2 figures, comments welcome!
