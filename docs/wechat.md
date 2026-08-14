@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-13, **3d $\mathcal{N}=$ 4 rank-0 SCFT from punctured lens space**, Sungjoon Kim, Paper: [https://arxiv.org/abs/2608.13300](https://arxiv.org/abs/2608.13300), 18 pages,6 figures
+- 2026-08-13, **Emergent Symmetry-Protected Topological Phases via Polyakov Confinement in Quantum Spin Systems**, Li-Wei He, Shun-Li Yu, Jian-Xin Li, Paper: [https://arxiv.org/abs/2608.13238](https://arxiv.org/abs/2608.13238)
+- 2026-08-13, **Lee-Yang paradigm of phase transition in eigenstate thermalized systems**, Yongjiang Xu, Weixin Sun, Chushun Tian, Huajia Wang, Paper: [https://arxiv.org/abs/2608.13174](https://arxiv.org/abs/2608.13174), 6 pages, 2 figures
+- 2026-08-13, **Observation of Time-Domain Braiding of Non-Abelian Anyons at $ν= 5/2$ State**, Tomer Alkalay, Jinhong Park, Minseong Oh, Changki Hong, Jun-Young M. Lee, Priya Tiwari, Tapas Senapati, Vladimir Umansky, Moty Heiblum, H. -S. Sim, Paper: [https://arxiv.org/abs/2608.12897](https://arxiv.org/abs/2608.12897), 15 pages, 3 figures
+- 2026-08-13, **Correlation versus Causation in Quantum Criticality**, Conrad Wichmann, Ryan Thorngren, Ruben Verresen, Paper: [https://arxiv.org/abs/2608.12770](https://arxiv.org/abs/2608.12770), main text: 5 pages, 3 figures; end matter: 2 pages
+- 2026-08-12, **Edge physics and the Casimir interaction in Maxwell--Chern--Simons theory on a strip**, Nicola Maggiore, Paper: [https://arxiv.org/abs/2608.12622](https://arxiv.org/abs/2608.12622), 41 pages, 2 figures
+- 2026-08-12, **Type III von Neumann Algebras are Magical**, Mudassir Moosa, Paper: [https://arxiv.org/abs/2608.12512](https://arxiv.org/abs/2608.12512)
+- 2026-08-12, **Emergent trans-moiré orbitals and topology in rhombohedral graphene**, Yuqin Wang, Jian Xie, Yi-Jie Wang, Jiajun Zhang, Yiting Gao, Zaizhe Zhang, Da Yi, Yan Xie, Jingjing Shi, Guanqin Zhao, Chengyu Xiong, Kenji Watanabe, Takashi Taniguchi, Zhi-Da Song, Xiaobo Lu, Yi Chen, Paper: [https://arxiv.org/abs/2608.12478](https://arxiv.org/abs/2608.12478)
+- 2026-08-12, **Boundary phases and thermodynamics of the Kondo spin- $s$ chain: from overscreened Kondo to boundary-bound states**, Abay Zhakenov, Pradip Kattel, Andreas Gleis, Natan Andrei, Paper: [https://arxiv.org/abs/2608.12453](https://arxiv.org/abs/2608.12453), 36 pages, 10 figures
 - 2026-08-12, **Proliferation Transitions for Non-Abelian Anyons**, Sakura Schafer-Nameki, Yunqin Zheng, Andrea Antinucci, Paper: [https://arxiv.org/abs/2608.12303](https://arxiv.org/abs/2608.12303), 24 pages
 - 2026-08-12, **Wormhole Geometry from a Magnetic Vortex**, Dušan Đorđ ević, Fabián Molina, Vladimir Juričić, Paper: [https://arxiv.org/abs/2608.12285](https://arxiv.org/abs/2608.12285), 6 pages + 6 pages of supplementary material
 - 2026-08-12, **Aspects of Carrollian field theory from holography**, Hare Krishna, Vaishnavi Patil, Paper: [https://arxiv.org/abs/2608.12241](https://arxiv.org/abs/2608.12241)

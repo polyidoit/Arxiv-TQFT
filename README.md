@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**3d $\mathcal{N}=$ 4 rank-0 SCFT from punctured lens space**|Sungjoon Kim|[2608.13300](https://arxiv.org/abs/2608.13300)|null|
+|**2026-08-13**|**Emergent Symmetry-Protected Topological Phases via Polyakov Confinement in Quantum Spin Systems**|Li-Wei He, Shun-Li Yu, Jian-Xin Li|[2608.13238](https://arxiv.org/abs/2608.13238)|null|
+|**2026-08-13**|**Lee-Yang paradigm of phase transition in eigenstate thermalized systems**|Yongjiang Xu, Weixin Sun, Chushun Tian, Huajia Wang|[2608.13174](https://arxiv.org/abs/2608.13174)|null|
+|**2026-08-13**|**Observation of Time-Domain Braiding of Non-Abelian Anyons at $ν= 5/2$ State**|Tomer Alkalay, Jinhong Park, Minseong Oh, Changki Hong, Jun-Young M. Lee, Priya Tiwari, Tapas Senapati, Vladimir Umansky, Moty Heiblum, H. -S. Sim|[2608.12897](https://arxiv.org/abs/2608.12897)|null|
+|**2026-08-13**|**Correlation versus Causation in Quantum Criticality**|Conrad Wichmann, Ryan Thorngren, Ruben Verresen|[2608.12770](https://arxiv.org/abs/2608.12770)|null|
+|**2026-08-12**|**Edge physics and the Casimir interaction in Maxwell--Chern--Simons theory on a strip**|Nicola Maggiore|[2608.12622](https://arxiv.org/abs/2608.12622)|null|
+|**2026-08-12**|**Type III von Neumann Algebras are Magical**|Mudassir Moosa|[2608.12512](https://arxiv.org/abs/2608.12512)|null|
+|**2026-08-12**|**Emergent trans-moiré orbitals and topology in rhombohedral graphene**|Yuqin Wang, Jian Xie, Yi-Jie Wang, Jiajun Zhang, Yiting Gao, Zaizhe Zhang, Da Yi, Yan Xie, Jingjing Shi, Guanqin Zhao, Chengyu Xiong, Kenji Watanabe, Takashi Taniguchi, Zhi-Da Song, Xiaobo Lu, Yi Chen|[2608.12478](https://arxiv.org/abs/2608.12478)|null|
+|**2026-08-12**|**Boundary phases and thermodynamics of the Kondo spin- $s$ chain: from overscreened Kondo to boundary-bound states**|Abay Zhakenov, Pradip Kattel, Andreas Gleis, Natan Andrei|[2608.12453](https://arxiv.org/abs/2608.12453)|null|
 |**2026-08-12**|**Proliferation Transitions for Non-Abelian Anyons**|Sakura Schafer-Nameki, Yunqin Zheng, Andrea Antinucci|[2608.12303](https://arxiv.org/abs/2608.12303)|null|
 |**2026-08-12**|**Wormhole Geometry from a Magnetic Vortex**|Dušan Đorđ ević, Fabián Molina, Vladimir Juričić|[2608.12285](https://arxiv.org/abs/2608.12285)|null|
 |**2026-08-12**|**Aspects of Carrollian field theory from holography**|Hare Krishna, Vaishnavi Patil|[2608.12241](https://arxiv.org/abs/2608.12241)|null|
