@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-14, **Building a Quantum Black Hole Microstate: A Bulk Path Integral for a Heavy Virasoro Primary**, Chethan Krishnan, Rajdeep Mitra, Paper: [https://arxiv.org/abs/2608.14541](https://arxiv.org/abs/2608.14541), 49+9 pages
+- 2026-08-14, **The Okinawa Lectures on Entropy**, Klaas Landsman, Paper: [https://arxiv.org/abs/2608.14523](https://arxiv.org/abs/2608.14523), 259 pages, 8 figures
+- 2026-08-14, **Flattening and asymptotic orthogonalization of completely positive maps**, Yoonje Jeong, Paper: [https://arxiv.org/abs/2608.14487](https://arxiv.org/abs/2608.14487), 15 pages
+- 2026-08-14, **Four-point functions, Twistors and Supersymmetry in the Symplectic Bi-Grassmannian for CFT $_4$ and AdS$_5$**, Dhruva K. S, Paper: [https://arxiv.org/abs/2608.14451](https://arxiv.org/abs/2608.14451), 37 pages main text+13 pages appendices, 1 table
+- 2026-08-14, **Topological phases and quantum criticality from $SU(2)$ Chern-Simons-matter theories**, Yunchao Hao, Yingcheng Li, Kangle Li, Liujun Zou, Paper: [https://arxiv.org/abs/2608.14180](https://arxiv.org/abs/2608.14180)
+- 2026-08-13, **Dependence of Critical Exponents Accuracy on the Number of Fields in the O(N) -Invariant φ^4 Model**, Abouzeid M. Shalaby, Paper: [https://arxiv.org/abs/2608.13776](https://arxiv.org/abs/2608.13776), 17 pages, 1 figure
+- 2026-08-13, **Choi--Jamiołkowski-type isomorphisms for von Neumann algebras**, Marcin Marciniak, Michał Cholewiak, Paper: [https://arxiv.org/abs/2608.13750](https://arxiv.org/abs/2608.13750), 15 pages
+- 2026-08-13, **Far-from-equilibrium scaling of non-abelian Goldstone modes**, Carl Philipp Zelle, Gustav John, Orla Supple, Romain Daviet, Sebastian Diehl, Paper: [https://arxiv.org/abs/2608.13666](https://arxiv.org/abs/2608.13666)
 - 2026-08-13, **3d $\mathcal{N}=$ 4 rank-0 SCFT from punctured lens space**, Sungjoon Kim, Paper: [https://arxiv.org/abs/2608.13300](https://arxiv.org/abs/2608.13300), 18 pages,6 figures
 - 2026-08-13, **Emergent Symmetry-Protected Topological Phases via Polyakov Confinement in Quantum Spin Systems**, Li-Wei He, Shun-Li Yu, Jian-Xin Li, Paper: [https://arxiv.org/abs/2608.13238](https://arxiv.org/abs/2608.13238)
 - 2026-08-13, **Lee-Yang paradigm of phase transition in eigenstate thermalized systems**, Yongjiang Xu, Weixin Sun, Chushun Tian, Huajia Wang, Paper: [https://arxiv.org/abs/2608.13174](https://arxiv.org/abs/2608.13174), 6 pages, 2 figures

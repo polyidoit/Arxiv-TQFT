@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-14**|**Building a Quantum Black Hole Microstate: A Bulk Path Integral for a Heavy Virasoro Primary**|Chethan Krishnan, Rajdeep Mitra|[2608.14541](https://arxiv.org/abs/2608.14541)|null|
+|**2026-08-14**|**The Okinawa Lectures on Entropy**|Klaas Landsman|[2608.14523](https://arxiv.org/abs/2608.14523)|null|
+|**2026-08-14**|**Flattening and asymptotic orthogonalization of completely positive maps**|Yoonje Jeong|[2608.14487](https://arxiv.org/abs/2608.14487)|null|
+|**2026-08-14**|**Four-point functions, Twistors and Supersymmetry in the Symplectic Bi-Grassmannian for CFT $_4$ and AdS$_5$**|Dhruva K. S|[2608.14451](https://arxiv.org/abs/2608.14451)|null|
+|**2026-08-14**|**Topological phases and quantum criticality from $SU(2)$ Chern-Simons-matter theories**|Yunchao Hao, Yingcheng Li, Kangle Li, Liujun Zou|[2608.14180](https://arxiv.org/abs/2608.14180)|null|
+|**2026-08-13**|**Dependence of Critical Exponents Accuracy on the Number of Fields in the O(N) -Invariant φ^4 Model**|Abouzeid M. Shalaby|[2608.13776](https://arxiv.org/abs/2608.13776)|null|
+|**2026-08-13**|**Choi--Jamiołkowski-type isomorphisms for von Neumann algebras**|Marcin Marciniak, Michał Cholewiak|[2608.13750](https://arxiv.org/abs/2608.13750)|null|
+|**2026-08-13**|**Far-from-equilibrium scaling of non-abelian Goldstone modes**|Carl Philipp Zelle, Gustav John, Orla Supple, Romain Daviet, Sebastian Diehl|[2608.13666](https://arxiv.org/abs/2608.13666)|null|
 |**2026-08-13**|**3d $\mathcal{N}=$ 4 rank-0 SCFT from punctured lens space**|Sungjoon Kim|[2608.13300](https://arxiv.org/abs/2608.13300)|null|
 |**2026-08-13**|**Emergent Symmetry-Protected Topological Phases via Polyakov Confinement in Quantum Spin Systems**|Li-Wei He, Shun-Li Yu, Jian-Xin Li|[2608.13238](https://arxiv.org/abs/2608.13238)|null|
 |**2026-08-13**|**Lee-Yang paradigm of phase transition in eigenstate thermalized systems**|Yongjiang Xu, Weixin Sun, Chushun Tian, Huajia Wang|[2608.13174](https://arxiv.org/abs/2608.13174)|null|
