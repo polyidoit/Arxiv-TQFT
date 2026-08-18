@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-08-17**|**Unitary Yang--Baxter Operators: Towards a Classification**|Cesar Galindo, Eric C. Rowell|[2608.16865](https://arxiv.org/abs/2608.16865)|null|
+|**2026-08-17**|**The linear dilaton in cosmology and particle physics**|Eugenio Megias, Mariano Quiros|[2608.16772](https://arxiv.org/abs/2608.16772)|null|
+|**2026-08-17**|**Krylov complexity of anyons**|Ya-Nan Wang, Qing-Min Hu, Wen-Long You, Gaoyong Sun|[2608.16595](https://arxiv.org/abs/2608.16595)|null|
+|**2026-08-17**|**Non-invertible Lattice 1-Form Symmetries for Non-Abelian Topological Order**|Rafael Flores-Calderón, Frank Pollmann, Michael Knap|[2608.16520](https://arxiv.org/abs/2608.16520)|null|
+|**2026-08-16**|**Holographic Entanglement and Emergent Gravity**|Mohammad Ali-Akbari|[2608.15862](https://arxiv.org/abs/2608.15862)|null|
+|**2026-08-16**|**On Noetherian pointed Hopf algebras**|N. Andruskiewitsch, I. Heckenberger, L. Vendramin|[2608.15856](https://arxiv.org/abs/2608.15856)|null|
+|**2026-08-16**|**Machine Learning Approaches to Decoding Topological Quantum Codes**|Changwon Lee, Tak Hur, Jeongwoo Jae, Daniel K. Park|[2608.15760](https://arxiv.org/abs/2608.15760)|null|
+|**2026-08-16**|**Modified induction and a torsion-theoretic equivalence for relative BiHom-Hopf modules**|Qihao Jin|[2608.15615](https://arxiv.org/abs/2608.15615)|null|
+|**2026-08-16**|**Quantum Information in SYK Model**|Chen-Te Ma, Jeff Murugan, Masaki Tezuka|[2608.15589](https://arxiv.org/abs/2608.15589)|null|
+|**2026-08-16**|**Postselection-Free Reconstruction of Monitored SPT Flux-Charge Responses**|Shuai Zeng|[2608.15477](https://arxiv.org/abs/2608.15477)|null|
 |**2026-08-14**|**Building a Quantum Black Hole Microstate: A Bulk Path Integral for a Heavy Virasoro Primary**|Chethan Krishnan, Rajdeep Mitra|[2608.14541](https://arxiv.org/abs/2608.14541)|null|
 |**2026-08-14**|**The Okinawa Lectures on Entropy**|Klaas Landsman|[2608.14523](https://arxiv.org/abs/2608.14523)|null|
 |**2026-08-14**|**Flattening and asymptotic orthogonalization of completely positive maps**|Yoonje Jeong|[2608.14487](https://arxiv.org/abs/2608.14487)|null|

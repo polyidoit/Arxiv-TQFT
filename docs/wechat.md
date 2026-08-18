@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-17, **Unitary Yang--Baxter Operators: Towards a Classification**, Cesar Galindo, Eric C. Rowell, Paper: [https://arxiv.org/abs/2608.16865](https://arxiv.org/abs/2608.16865), Preliminary version for expedited posting
+- 2026-08-17, **The linear dilaton in cosmology and particle physics**, Eugenio Megias, Mariano Quiros, Paper: [https://arxiv.org/abs/2608.16772](https://arxiv.org/abs/2608.16772), 37 pages, 5 figures, 2 tables
+- 2026-08-17, **Krylov complexity of anyons**, Ya-Nan Wang, Qing-Min Hu, Wen-Long You, Gaoyong Sun, Paper: [https://arxiv.org/abs/2608.16595](https://arxiv.org/abs/2608.16595), 8 pages, 6 figures
+- 2026-08-17, **Non-invertible Lattice 1-Form Symmetries for Non-Abelian Topological Order**, Rafael Flores-Calderón, Frank Pollmann, Michael Knap, Paper: [https://arxiv.org/abs/2608.16520](https://arxiv.org/abs/2608.16520)
+- 2026-08-16, **Holographic Entanglement and Emergent Gravity**, Mohammad Ali-Akbari, Paper: [https://arxiv.org/abs/2608.15862](https://arxiv.org/abs/2608.15862), 10 pages
+- 2026-08-16, **On Noetherian pointed Hopf algebras**, N. Andruskiewitsch, I. Heckenberger, L. Vendramin, Paper: [https://arxiv.org/abs/2608.15856](https://arxiv.org/abs/2608.15856), 23 pages
+- 2026-08-16, **Machine Learning Approaches to Decoding Topological Quantum Codes**, Changwon Lee, Tak Hur, Jeongwoo Jae, Daniel K. Park, Paper: [https://arxiv.org/abs/2608.15760](https://arxiv.org/abs/2608.15760), 42 pages, 5 figures. To appear as a book chapter in Quantum Error Decoding, Springer Quantum Science and Technology series
+- 2026-08-16, **Modified induction and a torsion-theoretic equivalence for relative BiHom-Hopf modules**, Qihao Jin, Paper: [https://arxiv.org/abs/2608.15615](https://arxiv.org/abs/2608.15615)
+- 2026-08-16, **Quantum Information in SYK Model**, Chen-Te Ma, Jeff Murugan, Masaki Tezuka, Paper: [https://arxiv.org/abs/2608.15589](https://arxiv.org/abs/2608.15589), 71 pages, 1 figure
+- 2026-08-16, **Postselection-Free Reconstruction of Monitored SPT Flux-Charge Responses**, Shuai Zeng, Paper: [https://arxiv.org/abs/2608.15477](https://arxiv.org/abs/2608.15477)
 - 2026-08-14, **Building a Quantum Black Hole Microstate: A Bulk Path Integral for a Heavy Virasoro Primary**, Chethan Krishnan, Rajdeep Mitra, Paper: [https://arxiv.org/abs/2608.14541](https://arxiv.org/abs/2608.14541), 49+9 pages
 - 2026-08-14, **The Okinawa Lectures on Entropy**, Klaas Landsman, Paper: [https://arxiv.org/abs/2608.14523](https://arxiv.org/abs/2608.14523), 259 pages, 8 figures
 - 2026-08-14, **Flattening and asymptotic orthogonalization of completely positive maps**, Yoonje Jeong, Paper: [https://arxiv.org/abs/2608.14487](https://arxiv.org/abs/2608.14487), 15 pages
