@@ -15,6 +15,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Hardness of approximation for minimum-weight decoding of two-dimensional topological quantum codes**|Louay Bazzi, Georges Khater|[2608.17109](https://arxiv.org/abs/2608.17109)|null|
+|**2026-08-17**|**Statistically Steady Holographic Quantum Turbulence: Hyperuniform Vortex Matter and Crossover**|Yu-Ping An, Peng-Bo Ding, Zhen-Han Jin, Li Li|[2608.17012](https://arxiv.org/abs/2608.17012)|null|
+|**2026-08-17**|**Computing the Critical Temperature of the Affine-Transformed $D=3$ Ising Model Using Masked Autoregressive Flow**|Kai Svenson, George T. Fleming, Richard C. Brower, Nobuyuki Matsumoto, Rohan Misra|[2608.17006](https://arxiv.org/abs/2608.17006)|null|
+|**2026-08-17**|**Pure gravity OPE density for genus-two handlebody in $\text{AdS}_3$**|Saptaswa Ghosh, Sounak Pal|[2608.16985](https://arxiv.org/abs/2608.16985)|null|
 |**2026-08-17**|**Unitary Yang--Baxter Operators: Towards a Classification**|Cesar Galindo, Eric C. Rowell|[2608.16865](https://arxiv.org/abs/2608.16865)|null|
 |**2026-08-17**|**The linear dilaton in cosmology and particle physics**|Eugenio Megias, Mariano Quiros|[2608.16772](https://arxiv.org/abs/2608.16772)|null|
 |**2026-08-17**|**Krylov complexity of anyons**|Ya-Nan Wang, Qing-Min Hu, Wen-Long You, Gaoyong Sun|[2608.16595](https://arxiv.org/abs/2608.16595)|null|

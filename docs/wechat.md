@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-17, **Hardness of approximation for minimum-weight decoding of two-dimensional topological quantum codes**, Louay Bazzi, Georges Khater, Paper: [https://arxiv.org/abs/2608.17109](https://arxiv.org/abs/2608.17109)
+- 2026-08-17, **Statistically Steady Holographic Quantum Turbulence: Hyperuniform Vortex Matter and Crossover**, Yu-Ping An, Peng-Bo Ding, Zhen-Han Jin, Li Li, Paper: [https://arxiv.org/abs/2608.17012](https://arxiv.org/abs/2608.17012), 6 pages, 3 figures, and supplementary information
+- 2026-08-17, **Computing the Critical Temperature of the Affine-Transformed $D=3$ Ising Model Using Masked Autoregressive Flow**, Kai Svenson, George T. Fleming, Richard C. Brower, Nobuyuki Matsumoto, Rohan Misra, Paper: [https://arxiv.org/abs/2608.17006](https://arxiv.org/abs/2608.17006), 11 pages, 7 figures
+- 2026-08-17, **Pure gravity OPE density for genus-two handlebody in $\text{AdS}_3$**, Saptaswa Ghosh, Sounak Pal, Paper: [https://arxiv.org/abs/2608.16985](https://arxiv.org/abs/2608.16985), 52 pages, 10 figures, 3 tables
 - 2026-08-17, **Unitary Yang--Baxter Operators: Towards a Classification**, Cesar Galindo, Eric C. Rowell, Paper: [https://arxiv.org/abs/2608.16865](https://arxiv.org/abs/2608.16865), Preliminary version for expedited posting
 - 2026-08-17, **The linear dilaton in cosmology and particle physics**, Eugenio Megias, Mariano Quiros, Paper: [https://arxiv.org/abs/2608.16772](https://arxiv.org/abs/2608.16772), 37 pages, 5 figures, 2 tables
 - 2026-08-17, **Krylov complexity of anyons**, Ya-Nan Wang, Qing-Min Hu, Wen-Long You, Gaoyong Sun, Paper: [https://arxiv.org/abs/2608.16595](https://arxiv.org/abs/2608.16595), 8 pages, 6 figures
