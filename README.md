@@ -15,7 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-17**|**Hardness of approximation for minimum-weight decoding of two-dimensional topological quantum codes**|Louay Bazzi, Georges Khater|[2608.17109](https://arxiv.org/abs/2608.17109)|null|
+|**2026-08-19**|**Subsystem Symmetries and Fracton Models in Quantum Error Correction**|Giovanni Canossa|[2608.18961](https://arxiv.org/abs/2608.18961)|null|
+|**2026-08-19**|**Non-invertible symmetry and vertex operator algebra outer-automorphism**|Kazunobu Maruyoshi, Hyejung Moon, Jaewon Song|[2608.18926](https://arxiv.org/abs/2608.18926)|null|
+|**2026-08-19**|**Integer Linear Programming Decoder for Abelian and Non-Abelian Topological Codes**|Dian Jing, Aubrey Zhang, Liang Jiang, Ruben Verresen|[2608.18512](https://arxiv.org/abs/2608.18512)|null|
+|**2026-08-19**|**Isomorphisms between symmetric spaces over infinite and finite von Neumann algebras**|Jinghao Huang, Fedor Sukochev, Dmitriy Zanin|[2608.18460](https://arxiv.org/abs/2608.18460)|null|
+|**2026-08-19**|**Decomposability and Norm Convergence Property of Operators in Type $\mathrm{I}_k$ von Neumann Algebras**|Ajay Kumar Karri|[2608.18447](https://arxiv.org/abs/2608.18447)|null|
+|**2026-08-19**|**Entropic Rigidity in Quantum Memories: How Geometry and Algebra Control the Onset of Degeneracy Corrections**|Yixin Zhao, Fei Yan|[2608.18420](https://arxiv.org/abs/2608.18420)|null|
+|**2026-08-18**|**Searching for symmetric mass generation with staggered fermions in four dimensions**|Nouman Butt, Simon Catterall, Gwen Hartshaw, Anna Hasenfratz|[2608.18239](https://arxiv.org/abs/2608.18239)|null|
+|**2026-08-18**|**Nonrelativistic Conformal Collider Physics of Multiparticle Point Production**|Cyuan-Han Chang, Subham Dutta Chowdhury, Ian Moult, Dam Thanh Son|[2608.18202](https://arxiv.org/abs/2608.18202)|null|
+|**2026-08-18**|**Chern insulator boundary criticality**|Benjamin Moy, Eduardo Fradkin|[2608.18199](https://arxiv.org/abs/2608.18199)|null|
+|**2026-08-19**|**Hardness of approximation for minimum-weight decoding of two-dimensional topological quantum codes**|Louay Bazzi, Georges Khater|[2608.17109](https://arxiv.org/abs/2608.17109)|null|
 |**2026-08-17**|**Statistically Steady Holographic Quantum Turbulence: Hyperuniform Vortex Matter and Crossover**|Yu-Ping An, Peng-Bo Ding, Zhen-Han Jin, Li Li|[2608.17012](https://arxiv.org/abs/2608.17012)|null|
 |**2026-08-17**|**Computing the Critical Temperature of the Affine-Transformed $D=3$ Ising Model Using Masked Autoregressive Flow**|Kai Svenson, George T. Fleming, Richard C. Brower, Nobuyuki Matsumoto, Rohan Misra|[2608.17006](https://arxiv.org/abs/2608.17006)|null|
 |**2026-08-17**|**Pure gravity OPE density for genus-two handlebody in $\text{AdS}_3$**|Saptaswa Ghosh, Sounak Pal|[2608.16985](https://arxiv.org/abs/2608.16985)|null|

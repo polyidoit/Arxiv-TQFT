@@ -9,7 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
-- 2026-08-17, **Hardness of approximation for minimum-weight decoding of two-dimensional topological quantum codes**, Louay Bazzi, Georges Khater, Paper: [https://arxiv.org/abs/2608.17109](https://arxiv.org/abs/2608.17109)
+- 2026-08-19, **Subsystem Symmetries and Fracton Models in Quantum Error Correction**, Giovanni Canossa, Paper: [https://arxiv.org/abs/2608.18961](https://arxiv.org/abs/2608.18961), 160 pages,16 figures
+- 2026-08-19, **Non-invertible symmetry and vertex operator algebra outer-automorphism**, Kazunobu Maruyoshi, Hyejung Moon, Jaewon Song, Paper: [https://arxiv.org/abs/2608.18926](https://arxiv.org/abs/2608.18926), 26 pages
+- 2026-08-19, **Integer Linear Programming Decoder for Abelian and Non-Abelian Topological Codes**, Dian Jing, Aubrey Zhang, Liang Jiang, Ruben Verresen, Paper: [https://arxiv.org/abs/2608.18512](https://arxiv.org/abs/2608.18512)
+- 2026-08-19, **Isomorphisms between symmetric spaces over infinite and finite von Neumann algebras**, Jinghao Huang, Fedor Sukochev, Dmitriy Zanin, Paper: [https://arxiv.org/abs/2608.18460](https://arxiv.org/abs/2608.18460)
+- 2026-08-19, **Decomposability and Norm Convergence Property of Operators in Type $\mathrm{I}_k$ von Neumann Algebras**, Ajay Kumar Karri, Paper: [https://arxiv.org/abs/2608.18447](https://arxiv.org/abs/2608.18447)
+- 2026-08-19, **Entropic Rigidity in Quantum Memories: How Geometry and Algebra Control the Onset of Degeneracy Corrections**, Yixin Zhao, Fei Yan, Paper: [https://arxiv.org/abs/2608.18420](https://arxiv.org/abs/2608.18420), 36 pages, 6 figures. Supplemental Material included
+- 2026-08-18, **Searching for symmetric mass generation with staggered fermions in four dimensions**, Nouman Butt, Simon Catterall, Gwen Hartshaw, Anna Hasenfratz, Paper: [https://arxiv.org/abs/2608.18239](https://arxiv.org/abs/2608.18239)
+- 2026-08-18, **Nonrelativistic Conformal Collider Physics of Multiparticle Point Production**, Cyuan-Han Chang, Subham Dutta Chowdhury, Ian Moult, Dam Thanh Son, Paper: [https://arxiv.org/abs/2608.18202](https://arxiv.org/abs/2608.18202), 8 pages, 2 figures, 1 table
+- 2026-08-18, **Chern insulator boundary criticality**, Benjamin Moy, Eduardo Fradkin, Paper: [https://arxiv.org/abs/2608.18199](https://arxiv.org/abs/2608.18199), 34+17 pages, 3 figures
+- 2026-08-19, **Hardness of approximation for minimum-weight decoding of two-dimensional topological quantum codes**, Louay Bazzi, Georges Khater, Paper: [https://arxiv.org/abs/2608.17109](https://arxiv.org/abs/2608.17109), Minor correction to the statement of the approximation bound in the abstract
 - 2026-08-17, **Statistically Steady Holographic Quantum Turbulence: Hyperuniform Vortex Matter and Crossover**, Yu-Ping An, Peng-Bo Ding, Zhen-Han Jin, Li Li, Paper: [https://arxiv.org/abs/2608.17012](https://arxiv.org/abs/2608.17012), 6 pages, 3 figures, and supplementary information
 - 2026-08-17, **Computing the Critical Temperature of the Affine-Transformed $D=3$ Ising Model Using Masked Autoregressive Flow**, Kai Svenson, George T. Fleming, Richard C. Brower, Nobuyuki Matsumoto, Rohan Misra, Paper: [https://arxiv.org/abs/2608.17006](https://arxiv.org/abs/2608.17006), 11 pages, 7 figures
 - 2026-08-17, **Pure gravity OPE density for genus-two handlebody in $\text{AdS}_3$**, Saptaswa Ghosh, Sounak Pal, Paper: [https://arxiv.org/abs/2608.16985](https://arxiv.org/abs/2608.16985), 52 pages, 10 figures, 3 tables
