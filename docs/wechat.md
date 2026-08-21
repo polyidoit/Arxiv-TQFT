@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-20, **Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy**, Ce Shen, Paper: [https://arxiv.org/abs/2608.20333](https://arxiv.org/abs/2608.20333)
+- 2026-08-20, **Torus Berry Data Determine All-Genus Abelian Topological Orders**, Daniel Galviz, Paper: [https://arxiv.org/abs/2608.20330](https://arxiv.org/abs/2608.20330)
+- 2026-08-20, **Learning Potts Models and $Z_3$ Toric Codes: Higher and Ordinary Nishimori Criticality**, Rushikesh A. Patil, Malte Pütz, Rohit Mukherjee, Guo-Yi Zhu, Simon Trebst, Andreas W. W. Ludwig, Paper: [https://arxiv.org/abs/2608.20268](https://arxiv.org/abs/2608.20268), 22 pages, 10 figures
+- 2026-08-20, **Anyon condensates of dipoles in triangular ladders**, Arjo Dasgupta, Luis Santos, Paper: [https://arxiv.org/abs/2608.20173](https://arxiv.org/abs/2608.20173), 8 pages, 4 figures
+- 2026-08-20, **Biorthogonal Conformal Dynamics in Non-Hermitian Quantum Quenches**, Yifan Liu, Paper: [https://arxiv.org/abs/2608.20156](https://arxiv.org/abs/2608.20156), 24 pages, 8 figures
+- 2026-08-20, **Bayesian inference and retrodiction for faithful states on von Neumann algebras**, Pradyut Karmakar, Arthur J. Parzygnat, Paper: [https://arxiv.org/abs/2608.20001](https://arxiv.org/abs/2608.20001), Comments are welcome! 30 pages + appendix + bibliography
+- 2026-08-20, **Moore--Read construction and explicit monodromies of Laughlin states on Riemann surfaces**, Kiyoon Eum, Paper: [https://arxiv.org/abs/2608.19619](https://arxiv.org/abs/2608.19619), 24 pages
+- 2026-08-20, **Higher Chern--Simons Theory in $2n+2$ Dimensions for Balanced 2-term $L_\infty$ -Algebras**, Danhua Song, Yibo Wang, Paper: [https://arxiv.org/abs/2608.19539](https://arxiv.org/abs/2608.19539)
+- 2026-08-19, **The EEC-Hedron: Positivity Bounds on Energy Correlators**, Bianka Meçaj, Ian Moult, Hidde Stoffels, Matthew T. Walters, Yuan Xin, Paper: [https://arxiv.org/abs/2608.19322](https://arxiv.org/abs/2608.19322), 28 pages + appendices, 15 figures
+- 2026-08-19, **Holographic Local Operator Quenches with Conserved Momentum and Spin**, Pawel Caputa, Pedro Castellini Grand, Justin R. David, Rahul Metya, Paper: [https://arxiv.org/abs/2608.19305](https://arxiv.org/abs/2608.19305), 51 pages, 7 figures
 - 2026-08-19, **Subsystem Symmetries and Fracton Models in Quantum Error Correction**, Giovanni Canossa, Paper: [https://arxiv.org/abs/2608.18961](https://arxiv.org/abs/2608.18961), 160 pages,16 figures
 - 2026-08-19, **Non-invertible symmetry and vertex operator algebra outer-automorphism**, Kazunobu Maruyoshi, Hyejung Moon, Jaewon Song, Paper: [https://arxiv.org/abs/2608.18926](https://arxiv.org/abs/2608.18926), 26 pages
 - 2026-08-19, **Integer Linear Programming Decoder for Abelian and Non-Abelian Topological Codes**, Dian Jing, Aubrey Zhang, Liang Jiang, Ruben Verresen, Paper: [https://arxiv.org/abs/2608.18512](https://arxiv.org/abs/2608.18512)

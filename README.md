@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy**|Ce Shen|[2608.20333](https://arxiv.org/abs/2608.20333)|null|
+|**2026-08-20**|**Torus Berry Data Determine All-Genus Abelian Topological Orders**|Daniel Galviz|[2608.20330](https://arxiv.org/abs/2608.20330)|null|
+|**2026-08-20**|**Learning Potts Models and $Z_3$ Toric Codes: Higher and Ordinary Nishimori Criticality**|Rushikesh A. Patil, Malte Pütz, Rohit Mukherjee, Guo-Yi Zhu, Simon Trebst, Andreas W. W. Ludwig|[2608.20268](https://arxiv.org/abs/2608.20268)|null|
+|**2026-08-20**|**Anyon condensates of dipoles in triangular ladders**|Arjo Dasgupta, Luis Santos|[2608.20173](https://arxiv.org/abs/2608.20173)|null|
+|**2026-08-20**|**Biorthogonal Conformal Dynamics in Non-Hermitian Quantum Quenches**|Yifan Liu|[2608.20156](https://arxiv.org/abs/2608.20156)|null|
+|**2026-08-20**|**Bayesian inference and retrodiction for faithful states on von Neumann algebras**|Pradyut Karmakar, Arthur J. Parzygnat|[2608.20001](https://arxiv.org/abs/2608.20001)|null|
+|**2026-08-20**|**Moore--Read construction and explicit monodromies of Laughlin states on Riemann surfaces**|Kiyoon Eum|[2608.19619](https://arxiv.org/abs/2608.19619)|null|
+|**2026-08-20**|**Higher Chern--Simons Theory in $2n+2$ Dimensions for Balanced 2-term $L_\infty$ -Algebras**|Danhua Song, Yibo Wang|[2608.19539](https://arxiv.org/abs/2608.19539)|null|
+|**2026-08-19**|**The EEC-Hedron: Positivity Bounds on Energy Correlators**|Bianka Meçaj, Ian Moult, Hidde Stoffels, Matthew T. Walters, Yuan Xin|[2608.19322](https://arxiv.org/abs/2608.19322)|null|
+|**2026-08-19**|**Holographic Local Operator Quenches with Conserved Momentum and Spin**|Pawel Caputa, Pedro Castellini Grand, Justin R. David, Rahul Metya|[2608.19305](https://arxiv.org/abs/2608.19305)|null|
 |**2026-08-19**|**Subsystem Symmetries and Fracton Models in Quantum Error Correction**|Giovanni Canossa|[2608.18961](https://arxiv.org/abs/2608.18961)|null|
 |**2026-08-19**|**Non-invertible symmetry and vertex operator algebra outer-automorphism**|Kazunobu Maruyoshi, Hyejung Moon, Jaewon Song|[2608.18926](https://arxiv.org/abs/2608.18926)|null|
 |**2026-08-19**|**Integer Linear Programming Decoder for Abelian and Non-Abelian Topological Codes**|Dian Jing, Aubrey Zhang, Liang Jiang, Ruben Verresen|[2608.18512](https://arxiv.org/abs/2608.18512)|null|
