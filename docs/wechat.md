@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-21, **A Variational Principle for the Vorticity Equation**, Ahmed Farooq, Paper: [https://arxiv.org/abs/2608.21279](https://arxiv.org/abs/2608.21279)
+- 2026-08-21, **Irreducibility and weak spectral gap in free product von Neumann algebras**, Aldo Garcia Guinto, Fehmi Ekin Giritlioglu, Rahul Kumar R., Yoonkyeong Lee, Brent Nelson, Paper: [https://arxiv.org/abs/2608.21270](https://arxiv.org/abs/2608.21270), 16 pages
+- 2026-08-21, **Fixed-ray escort representations of sandwiched and $α$--$z$ Rényi divergences on von Neumann algebras**, Tanay Kibe, Pratik Roy, Paper: [https://arxiv.org/abs/2608.21214](https://arxiv.org/abs/2608.21214), 40 pages
+- 2026-08-21, **Target-space fusion of classical topological defects**, Saskia Demulder, Chuying Wang, Paper: [https://arxiv.org/abs/2608.21121](https://arxiv.org/abs/2608.21121), 47 pages, several illustrations
+- 2026-08-21, **Axiomatization of the Levin--Wen Wave Function**, Zhengwei Liu, Zishuo Zhao, Paper: [https://arxiv.org/abs/2608.21109](https://arxiv.org/abs/2608.21109), 37 pages, comments welcome
+- 2026-08-21, **A Classification of Translation-Invariant Quantum Codes in Any Dimension**, Andrew Li, Dominic J. Williamson, Paper: [https://arxiv.org/abs/2608.20981](https://arxiv.org/abs/2608.20981), 6 + 1 pages, 1 figure
+- 2026-08-21, **Ştefan spectral sequence for faithfully flat Hopf Galois extensions is multiplicative**, Liyu Liu, Hongguang Nie, Guodong Zhou, Ruipeng Zhu, Paper: [https://arxiv.org/abs/2608.20900](https://arxiv.org/abs/2608.20900)
+- 2026-08-21, **The four-dimensional Chamon code**, Zhipeng Liang, Xuan Wang, Paper: [https://arxiv.org/abs/2608.20775](https://arxiv.org/abs/2608.20775)
+- 2026-08-20, **Note on proliferation transitions of non-Abelian anyons**, Meng Cheng, Paper: [https://arxiv.org/abs/2608.20604](https://arxiv.org/abs/2608.20604)
 - 2026-08-20, **Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy**, Ce Shen, Paper: [https://arxiv.org/abs/2608.20333](https://arxiv.org/abs/2608.20333)
 - 2026-08-20, **Torus Berry Data Determine All-Genus Abelian Topological Orders**, Daniel Galviz, Paper: [https://arxiv.org/abs/2608.20330](https://arxiv.org/abs/2608.20330)
 - 2026-08-20, **Learning Potts Models and $Z_3$ Toric Codes: Higher and Ordinary Nishimori Criticality**, Rushikesh A. Patil, Malte Pütz, Rohit Mukherjee, Guo-Yi Zhu, Simon Trebst, Andreas W. W. Ludwig, Paper: [https://arxiv.org/abs/2608.20268](https://arxiv.org/abs/2608.20268), 22 pages, 10 figures

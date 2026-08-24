@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**A Variational Principle for the Vorticity Equation**|Ahmed Farooq|[2608.21279](https://arxiv.org/abs/2608.21279)|null|
+|**2026-08-21**|**Irreducibility and weak spectral gap in free product von Neumann algebras**|Aldo Garcia Guinto, Fehmi Ekin Giritlioglu, Rahul Kumar R., Yoonkyeong Lee, Brent Nelson|[2608.21270](https://arxiv.org/abs/2608.21270)|null|
+|**2026-08-21**|**Fixed-ray escort representations of sandwiched and $α$--$z$ Rényi divergences on von Neumann algebras**|Tanay Kibe, Pratik Roy|[2608.21214](https://arxiv.org/abs/2608.21214)|null|
+|**2026-08-21**|**Target-space fusion of classical topological defects**|Saskia Demulder, Chuying Wang|[2608.21121](https://arxiv.org/abs/2608.21121)|null|
+|**2026-08-21**|**Axiomatization of the Levin--Wen Wave Function**|Zhengwei Liu, Zishuo Zhao|[2608.21109](https://arxiv.org/abs/2608.21109)|null|
+|**2026-08-21**|**A Classification of Translation-Invariant Quantum Codes in Any Dimension**|Andrew Li, Dominic J. Williamson|[2608.20981](https://arxiv.org/abs/2608.20981)|null|
+|**2026-08-21**|**Ştefan spectral sequence for faithfully flat Hopf Galois extensions is multiplicative**|Liyu Liu, Hongguang Nie, Guodong Zhou, Ruipeng Zhu|[2608.20900](https://arxiv.org/abs/2608.20900)|null|
+|**2026-08-21**|**The four-dimensional Chamon code**|Zhipeng Liang, Xuan Wang|[2608.20775](https://arxiv.org/abs/2608.20775)|null|
+|**2026-08-20**|**Note on proliferation transitions of non-Abelian anyons**|Meng Cheng|[2608.20604](https://arxiv.org/abs/2608.20604)|null|
 |**2026-08-20**|**Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy**|Ce Shen|[2608.20333](https://arxiv.org/abs/2608.20333)|null|
 |**2026-08-20**|**Torus Berry Data Determine All-Genus Abelian Topological Orders**|Daniel Galviz|[2608.20330](https://arxiv.org/abs/2608.20330)|null|
 |**2026-08-20**|**Learning Potts Models and $Z_3$ Toric Codes: Higher and Ordinary Nishimori Criticality**|Rushikesh A. Patil, Malte Pütz, Rohit Mukherjee, Guo-Yi Zhu, Simon Trebst, Andreas W. W. Ludwig|[2608.20268](https://arxiv.org/abs/2608.20268)|null|
