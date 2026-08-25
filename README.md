@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Interaction-mediated Co-existence of Altermagnetism and Topology**|Jasmin Bedow, Nitin Kaushal, Marcel Franz|[2608.23442](https://arxiv.org/abs/2608.23442)|null|
+|**2026-08-24**|**Universality of the conformal anomaly**|Sid Maibach, Eveliina Peltola|[2608.23201](https://arxiv.org/abs/2608.23201)|null|
+|**2026-08-24**|**Energy scaling laws for thin elastic sheets with topological defects**|Raz Kupferman, Cy Maor, David Padilla-Garza|[2608.23134](https://arxiv.org/abs/2608.23134)|null|
+|**2026-08-24**|**Parity-dependent coupling of molecular spin chains to a superconductor**|Katerina Vaxevani, Jon Ortuzar, Stefano Trivini, Georg Monninger, Dongfei Wang,  Vilas-Varela, Lucía Gómez-Rodrigo, Diego Peña, Jose Ignacio Pascual|[2608.22736](https://arxiv.org/abs/2608.22736)|null|
+|**2026-08-23**|**$K$ -Theoretic Comparison of Roe and Quasi-Local Algebras via Projections**|Kang Li, Jiawen Zhang, Jingming Zhu|[2608.22439](https://arxiv.org/abs/2608.22439)|null|
+|**2026-08-23**|**Hochschild cohomology and AS-Gorenstein property of weak Hopf Galois extensions**|Daowei Lu, Dingguo Wang|[2608.22195](https://arxiv.org/abs/2608.22195)|null|
 |**2026-08-21**|**A Variational Principle for the Vorticity Equation**|Ahmed Farooq|[2608.21279](https://arxiv.org/abs/2608.21279)|null|
 |**2026-08-21**|**Irreducibility and weak spectral gap in free product von Neumann algebras**|Aldo Garcia Guinto, Fehmi Ekin Giritlioglu, Rahul Kumar R., Yoonkyeong Lee, Brent Nelson|[2608.21270](https://arxiv.org/abs/2608.21270)|null|
 |**2026-08-21**|**Fixed-ray escort representations of sandwiched and $α$--$z$ Rényi divergences on von Neumann algebras**|Tanay Kibe, Pratik Roy|[2608.21214](https://arxiv.org/abs/2608.21214)|null|

@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-24, **Interaction-mediated Co-existence of Altermagnetism and Topology**, Jasmin Bedow, Nitin Kaushal, Marcel Franz, Paper: [https://arxiv.org/abs/2608.23442](https://arxiv.org/abs/2608.23442)
+- 2026-08-24, **Universality of the conformal anomaly**, Sid Maibach, Eveliina Peltola, Paper: [https://arxiv.org/abs/2608.23201](https://arxiv.org/abs/2608.23201), 69 pages, 3 figures, comments welcome!
+- 2026-08-24, **Energy scaling laws for thin elastic sheets with topological defects**, Raz Kupferman, Cy Maor, David Padilla-Garza, Paper: [https://arxiv.org/abs/2608.23134](https://arxiv.org/abs/2608.23134)
+- 2026-08-24, **Parity-dependent coupling of molecular spin chains to a superconductor**, Katerina Vaxevani, Jon Ortuzar, Stefano Trivini, Georg Monninger, Dongfei Wang,  Vilas-Varela, Lucía Gómez-Rodrigo, Diego Peña, Jose Ignacio Pascual, Paper: [https://arxiv.org/abs/2608.22736](https://arxiv.org/abs/2608.22736), 12 pages, 4 figures, Supplementary Information included
+- 2026-08-23, **$K$ -Theoretic Comparison of Roe and Quasi-Local Algebras via Projections**, Kang Li, Jiawen Zhang, Jingming Zhu, Paper: [https://arxiv.org/abs/2608.22439](https://arxiv.org/abs/2608.22439)
+- 2026-08-23, **Hochschild cohomology and AS-Gorenstein property of weak Hopf Galois extensions**, Daowei Lu, Dingguo Wang, Paper: [https://arxiv.org/abs/2608.22195](https://arxiv.org/abs/2608.22195)
 - 2026-08-21, **A Variational Principle for the Vorticity Equation**, Ahmed Farooq, Paper: [https://arxiv.org/abs/2608.21279](https://arxiv.org/abs/2608.21279)
 - 2026-08-21, **Irreducibility and weak spectral gap in free product von Neumann algebras**, Aldo Garcia Guinto, Fehmi Ekin Giritlioglu, Rahul Kumar R., Yoonkyeong Lee, Brent Nelson, Paper: [https://arxiv.org/abs/2608.21270](https://arxiv.org/abs/2608.21270), 16 pages
 - 2026-08-21, **Fixed-ray escort representations of sandwiched and $α$--$z$ Rényi divergences on von Neumann algebras**, Tanay Kibe, Pratik Roy, Paper: [https://arxiv.org/abs/2608.21214](https://arxiv.org/abs/2608.21214), 40 pages
