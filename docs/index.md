@@ -2,6 +2,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-08-25**|**Hagedorn temperature from holography: rotating and charged systems**|Francesco Bigazzi, Tommaso Canneti, Federico Castellani, Aldo L. Cotrone|[2608.24706](https://arxiv.org/abs/2608.24706)|null|
+|**2026-08-25**|**Visualizing flat-band spatial renormalization in rhombohedral graphene superlattices**|Peng-Cheng Pan, Shihao Zhang, Yang Zhang, Ji Huang, Ling-Hui Tong, Chen-Chen Xu, Yuan Tian, Li Zhang, Lijie Zhang, Yuanyuan Hu, Wen-Xiao Wang, Zhihui Qin, Long-Jing Yin|[2608.24684](https://arxiv.org/abs/2608.24684)|null|
+|**2026-08-25**|**Long-Range Order and Composite Boson Condensation in Lattice Quantum Hall States**|Fabian J. Pauw, Nathan Goldman, Felix A. Palm|[2608.24628](https://arxiv.org/abs/2608.24628)|null|
+|**2026-08-25**|**Characterization of surjective isometries: the real case**|Tianbao Guo, Jinghao Huang|[2608.24567](https://arxiv.org/abs/2608.24567)|null|
+|**2026-08-25**|**Bianchi identities in noncommutative geometry**|Paolo Aschieri|[2608.24536](https://arxiv.org/abs/2608.24536)|null|
+|**2026-08-25**|**A genus zero functorial CFT associated to the vacuum sector of a conformal net**|André G. Henriques, James E. Tener|[2608.24437](https://arxiv.org/abs/2608.24437)|null|
+|**2026-08-25**|**Partial Identification under Causal Orders by Linear Programming**|Eric Rossetto, Alessandro Antonucci|[2608.24427](https://arxiv.org/abs/2608.24427)|null|
+|**2026-08-25**|**Relative Biexactness for Relative Hyperbolic Groups and Some Applications**|Ionuţ Chifan, Kai Toyosawa, Zhiyuan Yang|[2608.23991](https://arxiv.org/abs/2608.23991)|null|
+|**2026-08-24**|**Reality and Complexity of $F$-symbols in $2+1$ d Topological Phases**|Matthew Buican, Peter Huston, Jiannis K. Pachos|[2608.23693](https://arxiv.org/abs/2608.23693)|null|
 |**2026-08-24**|**Interaction-mediated Co-existence of Altermagnetism and Topology**|Jasmin Bedow, Nitin Kaushal, Marcel Franz|[2608.23442](https://arxiv.org/abs/2608.23442)|null|
 |**2026-08-24**|**Universality of the conformal anomaly**|Sid Maibach, Eveliina Peltola|[2608.23201](https://arxiv.org/abs/2608.23201)|null|
 |**2026-08-24**|**Energy scaling laws for thin elastic sheets with topological defects**|Raz Kupferman, Cy Maor, David Padilla-Garza|[2608.23134](https://arxiv.org/abs/2608.23134)|null|

@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-25, **Hagedorn temperature from holography: rotating and charged systems**, Francesco Bigazzi, Tommaso Canneti, Federico Castellani, Aldo L. Cotrone, Paper: [https://arxiv.org/abs/2608.24706](https://arxiv.org/abs/2608.24706), LaTeX, 51 pages, 1 table;
+- 2026-08-25, **Visualizing flat-band spatial renormalization in rhombohedral graphene superlattices**, Peng-Cheng Pan, Shihao Zhang, Yang Zhang, Ji Huang, Ling-Hui Tong, Chen-Chen Xu, Yuan Tian, Li Zhang, Lijie Zhang, Yuanyuan Hu, Wen-Xiao Wang, Zhihui Qin, Long-Jing Yin, Paper: [https://arxiv.org/abs/2608.24684](https://arxiv.org/abs/2608.24684), 17 pages, 5 figures
+- 2026-08-25, **Long-Range Order and Composite Boson Condensation in Lattice Quantum Hall States**, Fabian J. Pauw, Nathan Goldman, Felix A. Palm, Paper: [https://arxiv.org/abs/2608.24628](https://arxiv.org/abs/2608.24628), 12 pages, 7 figures
+- 2026-08-25, **Characterization of surjective isometries: the real case**, Tianbao Guo, Jinghao Huang, Paper: [https://arxiv.org/abs/2608.24567](https://arxiv.org/abs/2608.24567), preliminary version
+- 2026-08-25, **Bianchi identities in noncommutative geometry**, Paolo Aschieri, Paper: [https://arxiv.org/abs/2608.24536](https://arxiv.org/abs/2608.24536), 22 pages
+- 2026-08-25, **A genus zero functorial CFT associated to the vacuum sector of a conformal net**, André G. Henriques, James E. Tener, Paper: [https://arxiv.org/abs/2608.24437](https://arxiv.org/abs/2608.24437), 27 pages
+- 2026-08-25, **Partial Identification under Causal Orders by Linear Programming**, Eric Rossetto, Alessandro Antonucci, Paper: [https://arxiv.org/abs/2608.24427](https://arxiv.org/abs/2608.24427), 15 pages, 3 figures, 3 tables, 3 appendices
+- 2026-08-25, **Relative Biexactness for Relative Hyperbolic Groups and Some Applications**, Ionuţ Chifan, Kai Toyosawa, Zhiyuan Yang, Paper: [https://arxiv.org/abs/2608.23991](https://arxiv.org/abs/2608.23991), 21 pages, comments welcome!
+- 2026-08-24, **Reality and Complexity of $F$-symbols in $2+1$ d Topological Phases**, Matthew Buican, Peter Huston, Jiannis K. Pachos, Paper: [https://arxiv.org/abs/2608.23693](https://arxiv.org/abs/2608.23693), 104 pages, 2 appendices;
 - 2026-08-24, **Interaction-mediated Co-existence of Altermagnetism and Topology**, Jasmin Bedow, Nitin Kaushal, Marcel Franz, Paper: [https://arxiv.org/abs/2608.23442](https://arxiv.org/abs/2608.23442)
 - 2026-08-24, **Universality of the conformal anomaly**, Sid Maibach, Eveliina Peltola, Paper: [https://arxiv.org/abs/2608.23201](https://arxiv.org/abs/2608.23201), 69 pages, 3 figures, comments welcome!
 - 2026-08-24, **Energy scaling laws for thin elastic sheets with topological defects**, Raz Kupferman, Cy Maor, David Padilla-Garza, Paper: [https://arxiv.org/abs/2608.23134](https://arxiv.org/abs/2608.23134)
