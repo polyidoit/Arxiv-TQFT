@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-26, **Parity Anomaly as Modular Commutator with Massless Dirac Fermion**, Meng Zeng, Paper: [https://arxiv.org/abs/2608.26078](https://arxiv.org/abs/2608.26078), 5 pages with 4 figures in main text + 2 pages with 4 figures in appendix
+- 2026-08-26, **The half-signature extension of the 3D bordism bicategory and its representations**, Glen Lim, Paper: [https://arxiv.org/abs/2608.25680](https://arxiv.org/abs/2608.25680), 52 pages, many diagrams, comments welcome
+- 2026-08-26, **Neural-Bayesian Structure Learning for Discrete Choice Modeling**, Hyunsoo Yun, Eun Hak Lee, Jiaru Zhang, Ziran Wang, Eui-Jin Kim, Paper: [https://arxiv.org/abs/2608.25258](https://arxiv.org/abs/2608.25258), 45 pages
+- 2026-08-25, **Dynamical splitting and a nodal Bose liquid in 2d chiral XYZ model**, Tarun Grover, Paper: [https://arxiv.org/abs/2608.25224](https://arxiv.org/abs/2608.25224), 20 pages + Appendices, 8 figures
+- 2026-08-25, **Mixed-State Symmetry-Protected Topology and Strong-to-Weak Spontaneous Symmetry Breaking in a Superconducting Qubit Array**, Qian Cao, Zhen Bi, Kater W. Murch, Paper: [https://arxiv.org/abs/2608.24993](https://arxiv.org/abs/2608.24993), 9 pages, 3 figures
 - 2026-08-25, **Hagedorn temperature from holography: rotating and charged systems**, Francesco Bigazzi, Tommaso Canneti, Federico Castellani, Aldo L. Cotrone, Paper: [https://arxiv.org/abs/2608.24706](https://arxiv.org/abs/2608.24706), LaTeX, 51 pages, 1 table;
 - 2026-08-25, **Visualizing flat-band spatial renormalization in rhombohedral graphene superlattices**, Peng-Cheng Pan, Shihao Zhang, Yang Zhang, Ji Huang, Ling-Hui Tong, Chen-Chen Xu, Yuan Tian, Li Zhang, Lijie Zhang, Yuanyuan Hu, Wen-Xiao Wang, Zhihui Qin, Long-Jing Yin, Paper: [https://arxiv.org/abs/2608.24684](https://arxiv.org/abs/2608.24684), 17 pages, 5 figures
 - 2026-08-25, **Long-Range Order and Composite Boson Condensation in Lattice Quantum Hall States**, Fabian J. Pauw, Nathan Goldman, Felix A. Palm, Paper: [https://arxiv.org/abs/2608.24628](https://arxiv.org/abs/2608.24628), 12 pages, 7 figures

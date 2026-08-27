@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-08-26**|**Parity Anomaly as Modular Commutator with Massless Dirac Fermion**|Meng Zeng|[2608.26078](https://arxiv.org/abs/2608.26078)|null|
+|**2026-08-26**|**The half-signature extension of the 3D bordism bicategory and its representations**|Glen Lim|[2608.25680](https://arxiv.org/abs/2608.25680)|null|
+|**2026-08-26**|**Neural-Bayesian Structure Learning for Discrete Choice Modeling**|Hyunsoo Yun, Eun Hak Lee, Jiaru Zhang, Ziran Wang, Eui-Jin Kim|[2608.25258](https://arxiv.org/abs/2608.25258)|null|
+|**2026-08-25**|**Dynamical splitting and a nodal Bose liquid in 2d chiral XYZ model**|Tarun Grover|[2608.25224](https://arxiv.org/abs/2608.25224)|null|
+|**2026-08-25**|**Mixed-State Symmetry-Protected Topology and Strong-to-Weak Spontaneous Symmetry Breaking in a Superconducting Qubit Array**|Qian Cao, Zhen Bi, Kater W. Murch|[2608.24993](https://arxiv.org/abs/2608.24993)|null|
 |**2026-08-25**|**Hagedorn temperature from holography: rotating and charged systems**|Francesco Bigazzi, Tommaso Canneti, Federico Castellani, Aldo L. Cotrone|[2608.24706](https://arxiv.org/abs/2608.24706)|null|
 |**2026-08-25**|**Visualizing flat-band spatial renormalization in rhombohedral graphene superlattices**|Peng-Cheng Pan, Shihao Zhang, Yang Zhang, Ji Huang, Ling-Hui Tong, Chen-Chen Xu, Yuan Tian, Li Zhang, Lijie Zhang, Yuanyuan Hu, Wen-Xiao Wang, Zhihui Qin, Long-Jing Yin|[2608.24684](https://arxiv.org/abs/2608.24684)|null|
 |**2026-08-25**|**Long-Range Order and Composite Boson Condensation in Lattice Quantum Hall States**|Fabian J. Pauw, Nathan Goldman, Felix A. Palm|[2608.24628](https://arxiv.org/abs/2608.24628)|null|
