@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases**|Zhengyan Darius Shi|[2608.27453](https://arxiv.org/abs/2608.27453)|null|
+|**2026-08-27**|**Trapping $e/4$ quasiparticles in bilayer graphene**|Mario Di Luca, Emily Hajigeorgiou, Ning Ma, Alexandra Waldherr, Kenji Watanabe, Takashi Taniguchi, Mitali Banerjee|[2608.27444](https://arxiv.org/abs/2608.27444)|null|
+|**2026-08-27**|**Doubly-scaled planar ${\cal N} = 4$ SYM \& Carroll Holography**|Arjun Bagchi, Prateksh Dhivakar, Alok Laddha, Partha Paul|[2608.27410](https://arxiv.org/abs/2608.27410)|null|
+|**2026-08-27**|**2-Morita Theory of $E_2$ -Algebras and Module Categories**|Rongge Xu, Holiverse Yang|[2608.27228](https://arxiv.org/abs/2608.27228)|null|
+|**2026-08-27**|**Graph-based causal variance decompositions: When "variance explained" means causation**|Olli Saarela, Juha Karvanen|[2608.27140](https://arxiv.org/abs/2608.27140)|null|
+|**2026-08-27**|**Size Bounds for CQs Under Acyclic Constraints**|Stefan Mengel, Andrei Romashchenko|[2608.26775](https://arxiv.org/abs/2608.26775)|null|
+|**2026-08-26**|**Quantum cellular automata and invertible phases of matter**|Corey Jones, Nikita Sopenko, Ryan Thorngren|[2608.26456](https://arxiv.org/abs/2608.26456)|null|
+|**2026-08-26**|**Positivity in energy correlators and the event distribution formula**|Alexandre Belin, Nathan Borak, Johan Henriksson, Romain Piron, Alexander Zhiboedov|[2608.26246](https://arxiv.org/abs/2608.26246)|null|
 |**2026-08-26**|**Parity Anomaly as Modular Commutator with Massless Dirac Fermion**|Meng Zeng|[2608.26078](https://arxiv.org/abs/2608.26078)|null|
 |**2026-08-26**|**The half-signature extension of the 3D bordism bicategory and its representations**|Glen Lim|[2608.25680](https://arxiv.org/abs/2608.25680)|null|
 |**2026-08-26**|**Neural-Bayesian Structure Learning for Discrete Choice Modeling**|Hyunsoo Yun, Eun Hak Lee, Jiaru Zhang, Ziran Wang, Eui-Jin Kim|[2608.25258](https://arxiv.org/abs/2608.25258)|null|

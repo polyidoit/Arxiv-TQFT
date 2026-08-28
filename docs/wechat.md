@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-27, **Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases**, Zhengyan Darius Shi, Paper: [https://arxiv.org/abs/2608.27453](https://arxiv.org/abs/2608.27453), 8 pages, 3 figures, 13 pages of appendices
+- 2026-08-27, **Trapping $e/4$ quasiparticles in bilayer graphene**, Mario Di Luca, Emily Hajigeorgiou, Ning Ma, Alexandra Waldherr, Kenji Watanabe, Takashi Taniguchi, Mitali Banerjee, Paper: [https://arxiv.org/abs/2608.27444](https://arxiv.org/abs/2608.27444)
+- 2026-08-27, **Doubly-scaled planar ${\cal N} = 4$ SYM \& Carroll Holography**, Arjun Bagchi, Prateksh Dhivakar, Alok Laddha, Partha Paul, Paper: [https://arxiv.org/abs/2608.27410](https://arxiv.org/abs/2608.27410), 46 pages, 1 figure
+- 2026-08-27, **2-Morita Theory of $E_2$ -Algebras and Module Categories**, Rongge Xu, Holiverse Yang, Paper: [https://arxiv.org/abs/2608.27228](https://arxiv.org/abs/2608.27228), 51 pages, 11 figures
+- 2026-08-27, **Graph-based causal variance decompositions: When "variance explained" means causation**, Olli Saarela, Juha Karvanen, Paper: [https://arxiv.org/abs/2608.27140](https://arxiv.org/abs/2608.27140)
+- 2026-08-27, **Size Bounds for CQs Under Acyclic Constraints**, Stefan Mengel, Andrei Romashchenko, Paper: [https://arxiv.org/abs/2608.26775](https://arxiv.org/abs/2608.26775)
+- 2026-08-26, **Quantum cellular automata and invertible phases of matter**, Corey Jones, Nikita Sopenko, Ryan Thorngren, Paper: [https://arxiv.org/abs/2608.26456](https://arxiv.org/abs/2608.26456)
+- 2026-08-26, **Positivity in energy correlators and the event distribution formula**, Alexandre Belin, Nathan Borak, Johan Henriksson, Romain Piron, Alexander Zhiboedov, Paper: [https://arxiv.org/abs/2608.26246](https://arxiv.org/abs/2608.26246), 59 pages + appendices, 18 figures, 1 ancillary file
 - 2026-08-26, **Parity Anomaly as Modular Commutator with Massless Dirac Fermion**, Meng Zeng, Paper: [https://arxiv.org/abs/2608.26078](https://arxiv.org/abs/2608.26078), 5 pages with 4 figures in main text + 2 pages with 4 figures in appendix
 - 2026-08-26, **The half-signature extension of the 3D bordism bicategory and its representations**, Glen Lim, Paper: [https://arxiv.org/abs/2608.25680](https://arxiv.org/abs/2608.25680), 52 pages, many diagrams, comments welcome
 - 2026-08-26, **Neural-Bayesian Structure Learning for Discrete Choice Modeling**, Hyunsoo Yun, Eun Hak Lee, Jiaru Zhang, Ziran Wang, Eui-Jin Kim, Paper: [https://arxiv.org/abs/2608.25258](https://arxiv.org/abs/2608.25258), 45 pages
