@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-08-28**|**Sufficient positive maps between von Neumann algebras: Rényi divergences**|Anna Jenčová, Lauritz van Luijk|[2608.28510](https://arxiv.org/abs/2608.28510)|null|
+|**2026-08-28**|**Associativity of operator convolutions for group actions on von Neumann algebras**|Hannes Wendt|[2608.28445](https://arxiv.org/abs/2608.28445)|null|
+|**2026-08-28**|**Group actions on von Neumann algebras with compact open subgroups**|Takumi Nishihara|[2608.27827](https://arxiv.org/abs/2608.27827)|null|
+|**2026-08-27**|**Error-Adaptive Quasi-local Decoding of the Toric Code**|Hossein Dehghani, Sarang Gopalakrishnan, Michael Gullans|[2608.27740](https://arxiv.org/abs/2608.27740)|null|
+|**2026-08-27**|**Quantifying the Dual-isotope Advantage for Ytterbium-array Surface Codes using Realistic Noise Models**|Fumiyoshi Kobayashi, Toshi Kusano, Nicholas Fazio, Yuma Nakamura|[2608.27568](https://arxiv.org/abs/2608.27568)|null|
 |**2026-08-27**|**Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases**|Zhengyan Darius Shi|[2608.27453](https://arxiv.org/abs/2608.27453)|null|
 |**2026-08-27**|**Trapping $e/4$ quasiparticles in bilayer graphene**|Mario Di Luca, Emily Hajigeorgiou, Ning Ma, Alexandra Waldherr, Kenji Watanabe, Takashi Taniguchi, Mitali Banerjee|[2608.27444](https://arxiv.org/abs/2608.27444)|null|
 |**2026-08-27**|**Doubly-scaled planar ${\cal N} = 4$ SYM \& Carroll Holography**|Arjun Bagchi, Prateksh Dhivakar, Alok Laddha, Partha Paul|[2608.27410](https://arxiv.org/abs/2608.27410)|null|

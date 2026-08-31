@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-28, **Sufficient positive maps between von Neumann algebras: Rényi divergences**, Anna Jenčová, Lauritz van Luijk, Paper: [https://arxiv.org/abs/2608.28510](https://arxiv.org/abs/2608.28510), 21 pages, comments welcome
+- 2026-08-28, **Associativity of operator convolutions for group actions on von Neumann algebras**, Hannes Wendt, Paper: [https://arxiv.org/abs/2608.28445](https://arxiv.org/abs/2608.28445), 15 pages
+- 2026-08-28, **Group actions on von Neumann algebras with compact open subgroups**, Takumi Nishihara, Paper: [https://arxiv.org/abs/2608.27827](https://arxiv.org/abs/2608.27827), 28 pages
+- 2026-08-27, **Error-Adaptive Quasi-local Decoding of the Toric Code**, Hossein Dehghani, Sarang Gopalakrishnan, Michael Gullans, Paper: [https://arxiv.org/abs/2608.27740](https://arxiv.org/abs/2608.27740), 14 pages, 8 figures. Extended version of a poster presented at QEC25: Fast Quasi-local Decoders for Topological Codes (https://qec25.yalepages.org/assets/images/QEC25-Posters.pdf)
+- 2026-08-27, **Quantifying the Dual-isotope Advantage for Ytterbium-array Surface Codes using Realistic Noise Models**, Fumiyoshi Kobayashi, Toshi Kusano, Nicholas Fazio, Yuma Nakamura, Paper: [https://arxiv.org/abs/2608.27568](https://arxiv.org/abs/2608.27568), 31 pages, 9 figures, comments welcome
 - 2026-08-27, **Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases**, Zhengyan Darius Shi, Paper: [https://arxiv.org/abs/2608.27453](https://arxiv.org/abs/2608.27453), 8 pages, 3 figures, 13 pages of appendices
 - 2026-08-27, **Trapping $e/4$ quasiparticles in bilayer graphene**, Mario Di Luca, Emily Hajigeorgiou, Ning Ma, Alexandra Waldherr, Kenji Watanabe, Takashi Taniguchi, Mitali Banerjee, Paper: [https://arxiv.org/abs/2608.27444](https://arxiv.org/abs/2608.27444)
 - 2026-08-27, **Doubly-scaled planar ${\cal N} = 4$ SYM \& Carroll Holography**, Arjun Bagchi, Prateksh Dhivakar, Alok Laddha, Partha Paul, Paper: [https://arxiv.org/abs/2608.27410](https://arxiv.org/abs/2608.27410), 46 pages, 1 figure
