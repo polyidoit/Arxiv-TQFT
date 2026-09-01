@@ -2,6 +2,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-08-31**|**Prime ideals and representations of the bosonization of the super Jordan plane**|Tao Lu|[2608.31012](https://arxiv.org/abs/2608.31012)|null|
+|**2026-08-31**|**Protected Logical Qudits in Kitaev Quantum Double Models via Stable Representations**|Naihong Hu, Futao Wang|[2608.31011](https://arxiv.org/abs/2608.31011)|null|
+|**2026-08-31**|**Particle-Mediated Tuning of Defect Stability in Lamellar Block Copolymer Systems**|Le Qiao, Daniel A. Vega, Friederike Schmid|[2608.30981](https://arxiv.org/abs/2608.30981)|null|
+|**2026-08-31**|**Exact Factorizations of Rank-One Pointed Hopf Algebras in Positive Characteristic, I**|Rongchuan Xiong|[2608.30947](https://arxiv.org/abs/2608.30947)|null|
+|**2026-08-31**|**Breakdown of Charge-Conjugation Symmetry of Disclinations in 2D Crystals**|Ruslan Yamaletdinov, Mikhail I. Katsnelson, Oleg V. Yazyev|[2608.30921](https://arxiv.org/abs/2608.30921)|null|
 |**2026-08-31**|**Emergence and suppression of phonon vortices in two-dimensional crystals: Interplay of lattice symmetry, heavy impurities, and shear**|Yu-Tian Zhang, Deng Pan, Yuliang Jin|[2608.30645](https://arxiv.org/abs/2608.30645)|null|
 |**2026-08-31**|**Quantum non-local games: Quantum relations, projection lattices and rule operators**|Alexandros Chatzinikolaou|[2608.30507](https://arxiv.org/abs/2608.30507)|null|
 |**2026-08-31**|**The Daugavet property in symmetric operator spaces**|Jinghao Huang, Yerlan Nessipbayev, Fedor Sukochev, Ran Xu|[2608.30491](https://arxiv.org/abs/2608.30491)|null|

@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-31, **Prime ideals and representations of the bosonization of the super Jordan plane**, Tao Lu, Paper: [https://arxiv.org/abs/2608.31012](https://arxiv.org/abs/2608.31012)
+- 2026-08-31, **Protected Logical Qudits in Kitaev Quantum Double Models via Stable Representations**, Naihong Hu, Futao Wang, Paper: [https://arxiv.org/abs/2608.31011](https://arxiv.org/abs/2608.31011), 27 pages
+- 2026-08-31, **Particle-Mediated Tuning of Defect Stability in Lamellar Block Copolymer Systems**, Le Qiao, Daniel A. Vega, Friederike Schmid, Paper: [https://arxiv.org/abs/2608.30981](https://arxiv.org/abs/2608.30981)
+- 2026-08-31, **Exact Factorizations of Rank-One Pointed Hopf Algebras in Positive Characteristic, I**, Rongchuan Xiong, Paper: [https://arxiv.org/abs/2608.30947](https://arxiv.org/abs/2608.30947)
+- 2026-08-31, **Breakdown of Charge-Conjugation Symmetry of Disclinations in 2D Crystals**, Ruslan Yamaletdinov, Mikhail I. Katsnelson, Oleg V. Yazyev, Paper: [https://arxiv.org/abs/2608.30921](https://arxiv.org/abs/2608.30921)
 - 2026-08-31, **Emergence and suppression of phonon vortices in two-dimensional crystals: Interplay of lattice symmetry, heavy impurities, and shear**, Yu-Tian Zhang, Deng Pan, Yuliang Jin, Paper: [https://arxiv.org/abs/2608.30645](https://arxiv.org/abs/2608.30645), 13 pages
 - 2026-08-31, **Quantum non-local games: Quantum relations, projection lattices and rule operators**, Alexandros Chatzinikolaou, Paper: [https://arxiv.org/abs/2608.30507](https://arxiv.org/abs/2608.30507), 41 pages, comments welcome
 - 2026-08-31, **The Daugavet property in symmetric operator spaces**, Jinghao Huang, Yerlan Nessipbayev, Fedor Sukochev, Ran Xu, Paper: [https://arxiv.org/abs/2608.30491](https://arxiv.org/abs/2608.30491)
