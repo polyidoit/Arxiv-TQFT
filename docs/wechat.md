@@ -1,4 +1,4 @@
-> Automatically updated on 2026.08.31
+> Automatically updated on 2026.09.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-08-31, **Emergence and suppression of phonon vortices in two-dimensional crystals: Interplay of lattice symmetry, heavy impurities, and shear**, Yu-Tian Zhang, Deng Pan, Yuliang Jin, Paper: [https://arxiv.org/abs/2608.30645](https://arxiv.org/abs/2608.30645), 13 pages
+- 2026-08-31, **Quantum non-local games: Quantum relations, projection lattices and rule operators**, Alexandros Chatzinikolaou, Paper: [https://arxiv.org/abs/2608.30507](https://arxiv.org/abs/2608.30507), 41 pages, comments welcome
+- 2026-08-31, **The Daugavet property in symmetric operator spaces**, Jinghao Huang, Yerlan Nessipbayev, Fedor Sukochev, Ran Xu, Paper: [https://arxiv.org/abs/2608.30491](https://arxiv.org/abs/2608.30491)
+- 2026-08-31, **Pointwise convergence of noncommutative ergodic averages along the primes**, Guixiang Hong, Liang Wang, Paper: [https://arxiv.org/abs/2608.30339](https://arxiv.org/abs/2608.30339), 32 pages
+- 2026-08-31, **Jensen' s trace inequality with equality condition and noncommutative Lamperti's theorem**, Kai Fang, Xin He, Jinghao Huang, Paper: [https://arxiv.org/abs/2608.30172](https://arxiv.org/abs/2608.30172)
+- 2026-08-30, **Chiral cellulose fibril organization in a plant cell wall as liquid crystal confined in a cylindrical boundary**, Jieh-Wen Tsung, Bo-Hsien Wu, Li-Yan Hung, Yu-Chieh Huang, Yueh-Ching Huang, Shao-Chun Hsieh, Paper: [https://arxiv.org/abs/2608.29859](https://arxiv.org/abs/2608.29859)
+- 2026-08-30, **Poisson bialgebras by deformations-to-quasiclassical limits**, Siyuan Chen, Chengming Bai, Paper: [https://arxiv.org/abs/2608.29782](https://arxiv.org/abs/2608.29782), 30 pages
+- 2026-08-30, **Genuine Multi-Entropy in Abelian Chern--Simons Theory: Exact Key-Ring Collapse and Its Breakdown for Generic Link States**, Yen-Cheng Chang, Kaberi Goswami, Norihiro Iizuka, Akihiro Miyata, Paper: [https://arxiv.org/abs/2608.29627](https://arxiv.org/abs/2608.29627), 64 pages, 3 figures
+- 2026-08-30, **Bicrossed products of generalized Taft algebras and Radford algebras**, Rongchuan Xiong, Paper: [https://arxiv.org/abs/2608.29536](https://arxiv.org/abs/2608.29536)
+- 2026-08-29, **Inequalities and Positivity in Modular Flowed Entanglement Entropy**, Liangyu Chen, Paper: [https://arxiv.org/abs/2608.29329](https://arxiv.org/abs/2608.29329), 9 pages, 1 figure
 - 2026-08-28, **Sufficient positive maps between von Neumann algebras: Rényi divergences**, Anna Jenčová, Lauritz van Luijk, Paper: [https://arxiv.org/abs/2608.28510](https://arxiv.org/abs/2608.28510), 21 pages, comments welcome
 - 2026-08-28, **Associativity of operator convolutions for group actions on von Neumann algebras**, Hannes Wendt, Paper: [https://arxiv.org/abs/2608.28445](https://arxiv.org/abs/2608.28445), 15 pages
 - 2026-08-28, **Group actions on von Neumann algebras with compact open subgroups**, Takumi Nishihara, Paper: [https://arxiv.org/abs/2608.27827](https://arxiv.org/abs/2608.27827), 28 pages
@@ -2010,5 +2020,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 

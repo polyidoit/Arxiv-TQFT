@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.08.31
+> Automatically updated on 2026.09.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Emergence and suppression of phonon vortices in two-dimensional crystals: Interplay of lattice symmetry, heavy impurities, and shear**|Yu-Tian Zhang, Deng Pan, Yuliang Jin|[2608.30645](https://arxiv.org/abs/2608.30645)|null|
+|**2026-08-31**|**Quantum non-local games: Quantum relations, projection lattices and rule operators**|Alexandros Chatzinikolaou|[2608.30507](https://arxiv.org/abs/2608.30507)|null|
+|**2026-08-31**|**The Daugavet property in symmetric operator spaces**|Jinghao Huang, Yerlan Nessipbayev, Fedor Sukochev, Ran Xu|[2608.30491](https://arxiv.org/abs/2608.30491)|null|
+|**2026-08-31**|**Pointwise convergence of noncommutative ergodic averages along the primes**|Guixiang Hong, Liang Wang|[2608.30339](https://arxiv.org/abs/2608.30339)|null|
+|**2026-08-31**|**Jensen' s trace inequality with equality condition and noncommutative Lamperti's theorem**|Kai Fang, Xin He, Jinghao Huang|[2608.30172](https://arxiv.org/abs/2608.30172)|null|
+|**2026-08-30**|**Chiral cellulose fibril organization in a plant cell wall as liquid crystal confined in a cylindrical boundary**|Jieh-Wen Tsung, Bo-Hsien Wu, Li-Yan Hung, Yu-Chieh Huang, Yueh-Ching Huang, Shao-Chun Hsieh|[2608.29859](https://arxiv.org/abs/2608.29859)|null|
+|**2026-08-30**|**Poisson bialgebras by deformations-to-quasiclassical limits**|Siyuan Chen, Chengming Bai|[2608.29782](https://arxiv.org/abs/2608.29782)|null|
+|**2026-08-30**|**Genuine Multi-Entropy in Abelian Chern--Simons Theory: Exact Key-Ring Collapse and Its Breakdown for Generic Link States**|Yen-Cheng Chang, Kaberi Goswami, Norihiro Iizuka, Akihiro Miyata|[2608.29627](https://arxiv.org/abs/2608.29627)|null|
+|**2026-08-30**|**Bicrossed products of generalized Taft algebras and Radford algebras**|Rongchuan Xiong|[2608.29536](https://arxiv.org/abs/2608.29536)|null|
+|**2026-08-29**|**Inequalities and Positivity in Modular Flowed Entanglement Entropy**|Liangyu Chen|[2608.29329](https://arxiv.org/abs/2608.29329)|null|
 |**2026-08-28**|**Sufficient positive maps between von Neumann algebras: Rényi divergences**|Anna Jenčová, Lauritz van Luijk|[2608.28510](https://arxiv.org/abs/2608.28510)|null|
 |**2026-08-28**|**Associativity of operator convolutions for group actions on von Neumann algebras**|Hannes Wendt|[2608.28445](https://arxiv.org/abs/2608.28445)|null|
 |**2026-08-28**|**Group actions on von Neumann algebras with compact open subgroups**|Takumi Nishihara|[2608.27827](https://arxiv.org/abs/2608.27827)|null|
@@ -2809,5 +2819,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
