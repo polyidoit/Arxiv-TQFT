@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Quantum Hopf rigidity in symmetric monoidal categories**|Alexandru Chirvasitu|[2609.01541](https://arxiv.org/abs/2609.01541)|null|
+|**2026-09-01**|**Modular properties of affine \(\SLA{sl}{2}\) torus \(n\)-point functions**|A. Zuevsky|[2609.01496](https://arxiv.org/abs/2609.01496)|null|
+|**2026-09-01**|**On Braided Differential Calculi and Quantum G-structures**|Antonio Del Donno, Giovanni Gava, Emanuele Latini, Thomas Weber|[2609.01401](https://arxiv.org/abs/2609.01401)|null|
+|**2026-09-01**|**A nonabelian anyon violates Haag duality**|Daniel Wallick, Henrik Wilming|[2609.01267](https://arxiv.org/abs/2609.01267)|null|
+|**2026-09-01**|**Properly proximal countable measured groupoids**|Adriana Fernández Quero, Kai Toyosawa|[2609.01253](https://arxiv.org/abs/2609.01253)|null|
+|**2026-09-01**|**Multiple chiral Majorana states in proximitized magnetic topological insulator heterostructures**|Alejandro S. Gómez, Rafael A. Molina, Pablo Burset, Yuriko Baba|[2609.01243](https://arxiv.org/abs/2609.01243)|null|
+|**2026-09-01**|**Interferometry reveals spin-singlet fractional quantum Hall edges in graphene**|R. Ayache, K. Kim, M. Kuiri, Q. Benichou, H. Chakraborti, L. Pugliese, K. Watanabe, T. Taniguchi, H. -S. Sim, P. Roulleau|[2609.01233](https://arxiv.org/abs/2609.01233)|null|
+|**2026-09-01**|**Rough differential equations on manifolds via natural bundles**|Ivan Bělohlávek, Petr Čoupek|[2609.01190](https://arxiv.org/abs/2609.01190)|null|
+|**2026-09-01**|**Superfluidity and Vortex Dynamics in Neutron Stars**|Bennett Link, Armen Sedrakian|[2609.01022](https://arxiv.org/abs/2609.01022)|null|
+|**2026-09-01**|**Operator-valued maximal $f$ -divergences for completely positive maps**|Rui Okayasu|[2609.00554](https://arxiv.org/abs/2609.00554)|null|
 |**2026-08-31**|**Prime ideals and representations of the bosonization of the super Jordan plane**|Tao Lu|[2608.31012](https://arxiv.org/abs/2608.31012)|null|
 |**2026-08-31**|**Protected Logical Qudits in Kitaev Quantum Double Models via Stable Representations**|Naihong Hu, Futao Wang|[2608.31011](https://arxiv.org/abs/2608.31011)|null|
 |**2026-08-31**|**Particle-Mediated Tuning of Defect Stability in Lamellar Block Copolymer Systems**|Le Qiao, Daniel A. Vega, Friederike Schmid|[2608.30981](https://arxiv.org/abs/2608.30981)|null|
