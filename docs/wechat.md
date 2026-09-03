@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-02, **Vector valued continuous function spaces as $C^\ast$ -algebras**, Neha Hotwani, T. S. S. R. K. Rao, Paper: [https://arxiv.org/abs/2609.02680](https://arxiv.org/abs/2609.02680)
+- 2026-09-02, **Dynamical stabilisation of a quantum fluid using a single topological defect**, Deborah Capecchi, Paolo Comaron, Antonio Gianfrate, Milena De Giorgi, Dario Ballarini, Daniele Sanvitto, Franco Dalfovo, Dimitrios Trypogeorgos, Paper: [https://arxiv.org/abs/2609.02643](https://arxiv.org/abs/2609.02643)
+- 2026-09-02, **Memory-driven Topological Defects and Unconventional Long-Range Order**, Ziyang Ding, Zi Cai, Paper: [https://arxiv.org/abs/2609.02586](https://arxiv.org/abs/2609.02586)
+- 2026-09-02, **Universal fingerprint of topological defect cores**, Zi-Qiang Zhao, Nayun Jia, Zhang-Yu Nie, Hua-Bi Zeng, Jing-Fei Zhang, Xin Zhang, Paper: [https://arxiv.org/abs/2609.02521](https://arxiv.org/abs/2609.02521), 14 pages, 13 figures
+- 2026-09-01, **Quantum Representation Learning Beyond Pairwise Fidelity**, Junpeng Hou, Changbin Lu, Paper: [https://arxiv.org/abs/2609.01797](https://arxiv.org/abs/2609.01797), 19 pages, 4 figures
+- 2026-09-01, **Holographic algebras at null infinity**, Chang-Han Chen, Geoff Penington, Gautam Satishchandran, Elisa Tabor, Paper: [https://arxiv.org/abs/2609.01706](https://arxiv.org/abs/2609.01706), 49 pages + appendices, 10 figures
 - 2026-09-01, **Quantum Hopf rigidity in symmetric monoidal categories**, Alexandru Chirvasitu, Paper: [https://arxiv.org/abs/2609.01541](https://arxiv.org/abs/2609.01541), 8 pages + references
 - 2026-09-01, **Modular properties of affine \(\SLA{sl}{2}\) torus \(n\)-point functions**, A. Zuevsky, Paper: [https://arxiv.org/abs/2609.01496](https://arxiv.org/abs/2609.01496)
 - 2026-09-01, **On Braided Differential Calculi and Quantum G-structures**, Antonio Del Donno, Giovanni Gava, Emanuele Latini, Thomas Weber, Paper: [https://arxiv.org/abs/2609.01401](https://arxiv.org/abs/2609.01401), 49 pages, comments are welcome

@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Vector valued continuous function spaces as $C^\ast$ -algebras**|Neha Hotwani, T. S. S. R. K. Rao|[2609.02680](https://arxiv.org/abs/2609.02680)|null|
+|**2026-09-02**|**Dynamical stabilisation of a quantum fluid using a single topological defect**|Deborah Capecchi, Paolo Comaron, Antonio Gianfrate, Milena De Giorgi, Dario Ballarini, Daniele Sanvitto, Franco Dalfovo, Dimitrios Trypogeorgos|[2609.02643](https://arxiv.org/abs/2609.02643)|null|
+|**2026-09-02**|**Memory-driven Topological Defects and Unconventional Long-Range Order**|Ziyang Ding, Zi Cai|[2609.02586](https://arxiv.org/abs/2609.02586)|null|
+|**2026-09-02**|**Universal fingerprint of topological defect cores**|Zi-Qiang Zhao, Nayun Jia, Zhang-Yu Nie, Hua-Bi Zeng, Jing-Fei Zhang, Xin Zhang|[2609.02521](https://arxiv.org/abs/2609.02521)|null|
+|**2026-09-01**|**Quantum Representation Learning Beyond Pairwise Fidelity**|Junpeng Hou, Changbin Lu|[2609.01797](https://arxiv.org/abs/2609.01797)|null|
+|**2026-09-01**|**Holographic algebras at null infinity**|Chang-Han Chen, Geoff Penington, Gautam Satishchandran, Elisa Tabor|[2609.01706](https://arxiv.org/abs/2609.01706)|null|
 |**2026-09-01**|**Quantum Hopf rigidity in symmetric monoidal categories**|Alexandru Chirvasitu|[2609.01541](https://arxiv.org/abs/2609.01541)|null|
 |**2026-09-01**|**Modular properties of affine \(\SLA{sl}{2}\) torus \(n\)-point functions**|A. Zuevsky|[2609.01496](https://arxiv.org/abs/2609.01496)|null|
 |**2026-09-01**|**On Braided Differential Calculi and Quantum G-structures**|Antonio Del Donno, Giovanni Gava, Emanuele Latini, Thomas Weber|[2609.01401](https://arxiv.org/abs/2609.01401)|null|
