@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-03**|**Wavefunctions for Anyon Superconductors**|Donghae Seo, Taegon Lee, Gil Young Cho|[2609.04187](https://arxiv.org/abs/2609.04187)|null|
+|**2026-09-03**|**HyperDet Wavefunction: A Phase-Agnostic Ansatz for Strongly Correlated Systems**|Xiaodong Hu, Guan-Lin Lin, Ying Ran, Di Xiao|[2609.04146](https://arxiv.org/abs/2609.04146)|null|
+|**2026-09-03**|**A Galois connection between subalgebras and tensor subcategories**|Kenichi Shimizu, Harshit Yadav|[2609.04073](https://arxiv.org/abs/2609.04073)|null|
+|**2026-09-03**|**Cutting corners: exciting and magical bounds from the cusp bootstrap**|Ryan A. Lanzetta, Ian Moult, Yifan Wang|[2609.04041](https://arxiv.org/abs/2609.04041)|null|
+|**2026-09-03**|**Cusped Defects: Cusp Operator Expansion, Conformal Properties and Bootstrap Applications**|Lorenzo Bianchi, Andrea Cavaglià, A. David Gutiérrez, Stefanos R. Kousvos, Marco Meineri|[2609.04035](https://arxiv.org/abs/2609.04035)|null|
+|**2026-09-03**|**Quasi-local form for $α$--$z$ Rényi QNEC from fixed-ray escorts**|Tanay Kibe, Pratik Roy|[2609.04016](https://arxiv.org/abs/2609.04016)|null|
+|**2026-09-03**|**The combinatorial Hopf algebra of signed graphs**|Jean-Christophe Aval, Raquel Melgar|[2609.03959](https://arxiv.org/abs/2609.03959)|null|
+|**2026-09-03**|**Universal Driven Critical Dynamics of Entanglement Entropy**|Chang-Yu Shen, Shuai Yin, Zi-Xiang Li|[2609.03854](https://arxiv.org/abs/2609.03854)|null|
+|**2026-09-03**|**Unravelling the Li-Haldane Conjecture with the Projected Ensemble**|Daniel Spasic-Mlacak, Qi Camm Huang, Wen Wei Ho, Nigel R. Cooper|[2609.03833](https://arxiv.org/abs/2609.03833)|null|
+|**2026-09-03**|**The half-rate linear programming bound for binary codes is $\frac12-\frac1π$**|Andrew Salmon|[2609.03736](https://arxiv.org/abs/2609.03736)|null|
 |**2026-09-02**|**Vector valued continuous function spaces as $C^\ast$ -algebras**|Neha Hotwani, T. S. S. R. K. Rao|[2609.02680](https://arxiv.org/abs/2609.02680)|null|
 |**2026-09-02**|**Dynamical stabilisation of a quantum fluid using a single topological defect**|Deborah Capecchi, Paolo Comaron, Antonio Gianfrate, Milena De Giorgi, Dario Ballarini, Daniele Sanvitto, Franco Dalfovo, Dimitrios Trypogeorgos|[2609.02643](https://arxiv.org/abs/2609.02643)|null|
 |**2026-09-02**|**Memory-driven Topological Defects and Unconventional Long-Range Order**|Ziyang Ding, Zi Cai|[2609.02586](https://arxiv.org/abs/2609.02586)|null|

@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-03, **Wavefunctions for Anyon Superconductors**, Donghae Seo, Taegon Lee, Gil Young Cho, Paper: [https://arxiv.org/abs/2609.04187](https://arxiv.org/abs/2609.04187), 7+18 pages, 0+1 table
+- 2026-09-03, **HyperDet Wavefunction: A Phase-Agnostic Ansatz for Strongly Correlated Systems**, Xiaodong Hu, Guan-Lin Lin, Ying Ran, Di Xiao, Paper: [https://arxiv.org/abs/2609.04146](https://arxiv.org/abs/2609.04146)
+- 2026-09-03, **A Galois connection between subalgebras and tensor subcategories**, Kenichi Shimizu, Harshit Yadav, Paper: [https://arxiv.org/abs/2609.04073](https://arxiv.org/abs/2609.04073), 31 pages, comments welcome
+- 2026-09-03, **Cutting corners: exciting and magical bounds from the cusp bootstrap**, Ryan A. Lanzetta, Ian Moult, Yifan Wang, Paper: [https://arxiv.org/abs/2609.04041](https://arxiv.org/abs/2609.04041), 13 pages, 5 figures
+- 2026-09-03, **Cusped Defects: Cusp Operator Expansion, Conformal Properties and Bootstrap Applications**, Lorenzo Bianchi, Andrea Cavaglià, A. David Gutiérrez, Stefanos R. Kousvos, Marco Meineri, Paper: [https://arxiv.org/abs/2609.04035](https://arxiv.org/abs/2609.04035), 61 pages, 27 figures
+- 2026-09-03, **Quasi-local form for $α$--$z$ Rényi QNEC from fixed-ray escorts**, Tanay Kibe, Pratik Roy, Paper: [https://arxiv.org/abs/2609.04016](https://arxiv.org/abs/2609.04016), 45 pages
+- 2026-09-03, **The combinatorial Hopf algebra of signed graphs**, Jean-Christophe Aval, Raquel Melgar, Paper: [https://arxiv.org/abs/2609.03959](https://arxiv.org/abs/2609.03959), 21 pages, 4 figures
+- 2026-09-03, **Universal Driven Critical Dynamics of Entanglement Entropy**, Chang-Yu Shen, Shuai Yin, Zi-Xiang Li, Paper: [https://arxiv.org/abs/2609.03854](https://arxiv.org/abs/2609.03854), 7+7 pages, 3+1 figures
+- 2026-09-03, **Unravelling the Li-Haldane Conjecture with the Projected Ensemble**, Daniel Spasic-Mlacak, Qi Camm Huang, Wen Wei Ho, Nigel R. Cooper, Paper: [https://arxiv.org/abs/2609.03833](https://arxiv.org/abs/2609.03833), 13 pages, 7 figures
+- 2026-09-03, **The half-rate linear programming bound for binary codes is $\frac12-\frac1π$**, Andrew Salmon, Paper: [https://arxiv.org/abs/2609.03736](https://arxiv.org/abs/2609.03736), 34 pages
 - 2026-09-02, **Vector valued continuous function spaces as $C^\ast$ -algebras**, Neha Hotwani, T. S. S. R. K. Rao, Paper: [https://arxiv.org/abs/2609.02680](https://arxiv.org/abs/2609.02680)
 - 2026-09-02, **Dynamical stabilisation of a quantum fluid using a single topological defect**, Deborah Capecchi, Paolo Comaron, Antonio Gianfrate, Milena De Giorgi, Dario Ballarini, Daniele Sanvitto, Franco Dalfovo, Dimitrios Trypogeorgos, Paper: [https://arxiv.org/abs/2609.02643](https://arxiv.org/abs/2609.02643)
 - 2026-09-02, **Memory-driven Topological Defects and Unconventional Long-Range Order**, Ziyang Ding, Zi Cai, Paper: [https://arxiv.org/abs/2609.02586](https://arxiv.org/abs/2609.02586)
