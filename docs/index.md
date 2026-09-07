@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-03**|**Exact quantum spin liquids with topological order on maple-leaf and trellis lattices**|Li Ern Chern, Roderich Moessner, Claudio Castelnovo|[2609.04319](https://arxiv.org/abs/2609.04319)|null|
+|**2026-09-03**|**Eye-opening bounds on cusps**|Ryan A. Lanzetta, Ian Moult, Yifan Wang|[2609.04302](https://arxiv.org/abs/2609.04302)|null|
 |**2026-09-03**|**Wavefunctions for Anyon Superconductors**|Donghae Seo, Taegon Lee, Gil Young Cho|[2609.04187](https://arxiv.org/abs/2609.04187)|null|
 |**2026-09-03**|**HyperDet Wavefunction: A Phase-Agnostic Ansatz for Strongly Correlated Systems**|Xiaodong Hu, Guan-Lin Lin, Ying Ran, Di Xiao|[2609.04146](https://arxiv.org/abs/2609.04146)|null|
 |**2026-09-03**|**A Galois connection between subalgebras and tensor subcategories**|Kenichi Shimizu, Harshit Yadav|[2609.04073](https://arxiv.org/abs/2609.04073)|null|
