@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-08**|**Few-body bound states in the anyon-Hubbard model**|Isaac Tesfaye, Christina Mascherbauer, Joyce Kwan, Perrin Segura, Yanfei Li, Markus Greiner, Luis Santos, André Eckardt, Brice Bakkali-Hassani|[2609.09125](https://arxiv.org/abs/2609.09125)|null|
+|**2026-09-08**|**Symplectic Chern-Simons theories dual to Abelian rank- $0$ theories**|Tadashi Okazaki, Douglas J. Smith|[2609.08648](https://arxiv.org/abs/2609.08648)|null|
+|**2026-09-08**|**Double cross products with projections and relative Rota-Baxter operators on Hopf algebras**|Yunnan Li|[2609.08400](https://arxiv.org/abs/2609.08400)|null|
+|**2026-09-08**|**Homological properties of quantum groups governed by small quantum groups**|Yimin Huang, Tiancheng Qi, Quanshui Wu, Ruipeng Zhu|[2609.08205](https://arxiv.org/abs/2609.08205)|null|
+|**2026-09-08**|**Successive Phase Transitions from a Composite Fermion Liquid to a Fractional Quantum Hall State at ν=3/2 Driven by In-Plane Magnetic Field**|Xinghao Wang, L. N. Pfeiffer, A. Gupta, K. W. Baldwin, K. W. West, Rui-Rui Du|[2609.08141](https://arxiv.org/abs/2609.08141)|null|
+|**2026-09-07**|**A Non-commutative Individual Ergodic Theorem Along Sparse Random Subsequences**|Léonard Cadilhac, Christian Le Merdy, Safoura Zadeh|[2609.07970](https://arxiv.org/abs/2609.07970)|null|
+|**2026-09-07**|**Truncated Polyakov bootstrap for BCFTs: Neumann-Dirichlet flow and Ising special transition**|Kaushik Kangsabanik, Apratim Kaviraj, Astha Tiwari|[2609.07841](https://arxiv.org/abs/2609.07841)|null|
+|**2026-09-07**|**Realization of decoherence-induced averaged symmetry-protected topological phases on quantum processors**|Ruizhe Shen, Xue-Jia Yu, Ching Hua Lee|[2609.07831](https://arxiv.org/abs/2609.07831)|null|
+|**2026-09-07**|**Exact fermionic dual of the Bose-Hubbard model**|Lei Su, Ivar Martin, Aashish A. Clerk|[2609.07830](https://arxiv.org/abs/2609.07830)|null|
+|**2026-09-07**|**Geometry Dependence of Error Thresholds in Two-Dimensional Toric Codes**|D. Lessing, A. Langheld, C. Krämer, J. A. Koziol, K. P. Schmidt|[2609.07579](https://arxiv.org/abs/2609.07579)|null|
 |**2026-09-03**|**Exact quantum spin liquids with topological order on maple-leaf and trellis lattices**|Li Ern Chern, Roderich Moessner, Claudio Castelnovo|[2609.04319](https://arxiv.org/abs/2609.04319)|null|
 |**2026-09-03**|**Eye-opening bounds on cusps**|Ryan A. Lanzetta, Ian Moult, Yifan Wang|[2609.04302](https://arxiv.org/abs/2609.04302)|null|
 |**2026-09-03**|**Wavefunctions for Anyon Superconductors**|Donghae Seo, Taegon Lee, Gil Young Cho|[2609.04187](https://arxiv.org/abs/2609.04187)|null|
