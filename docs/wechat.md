@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-09, **Local Ocneanu rigidity for separable algebra objects**, Tinhinane Amina Azzouz, Mainak Ghosh, Sebastien Palcoux, Paper: [https://arxiv.org/abs/2609.10440](https://arxiv.org/abs/2609.10440), 32 pages. An expanded internal version with additional explanations and string diagrams is included as supplementary material. Comments are welcome!
+- 2026-09-09, **Deterministic engineering of topological defects in two-dimensional single-species ion Coulomb crystals**, Luca-Amadeus Rüffert, Hemanth Kalathur, Tanja Mehlstäubler, Paper: [https://arxiv.org/abs/2609.10425](https://arxiv.org/abs/2609.10425), 23 pages, 15 figures
+- 2026-09-09, **Amenability of Lie, Group and Hopf algebras**, Laurent Bartholdi, Paper: [https://arxiv.org/abs/2609.10373](https://arxiv.org/abs/2609.10373)
+- 2026-09-09, **Universal correlations in the Abelian sandpile model**, Qiyu Liu, Jan-Niklas Herre, Prajit Baruah, Sebastian Dreizler, Christoph Karrasch, Wioletta Ruszel, Dirk Schuricht, Paper: [https://arxiv.org/abs/2609.10352](https://arxiv.org/abs/2609.10352)
+- 2026-09-09, **Stable, Compact, and Direct Ghost-Cell Reconstruction: A Non-Iterative Approach for Embedded-Boundary Methods**, Narsimha Reddy Rapaka, Pankaj Jagad, Yacine Addad, Mohamed Kamel Riahi, Paper: [https://arxiv.org/abs/2609.10165](https://arxiv.org/abs/2609.10165)
+- 2026-09-09, **Regularity for Subfactors**, Keshab Chandra Bakshi, Indrajit Ghosh, Paper: [https://arxiv.org/abs/2609.10118](https://arxiv.org/abs/2609.10118), Preliminary version, 14 pages, Comments are most welcome!
+- 2026-09-09, **Lifting for N-independent sets in II1 factors**, Gregory Patchell, Austin Shiner, Paper: [https://arxiv.org/abs/2609.10087](https://arxiv.org/abs/2609.10087), 10 pages. Comments welcome
+- 2026-09-09, **On general background of quantum non-invertible symmetry in 2D**, Jin Chen, Qiang Jia, Paper: [https://arxiv.org/abs/2609.09550](https://arxiv.org/abs/2609.09550)
+- 2026-09-08, **Temperature-induced effective topology in many-body ultracold atomic quantum systems**, Nitya Cuzzuol, Michele Miotto, Arianna Montorsi, Giacomo Valtolina, Luca Barbiero, Paper: [https://arxiv.org/abs/2609.09463](https://arxiv.org/abs/2609.09463)
+- 2026-09-08, **Schur tests and estimates for positive semigroups on non commutative $L_p$**, Clément Coine, Mélina Laforge, Éric Ricard, Paper: [https://arxiv.org/abs/2609.09339](https://arxiv.org/abs/2609.09339)
 - 2026-09-08, **Few-body bound states in the anyon-Hubbard model**, Isaac Tesfaye, Christina Mascherbauer, Joyce Kwan, Perrin Segura, Yanfei Li, Markus Greiner, Luis Santos, André Eckardt, Brice Bakkali-Hassani, Paper: [https://arxiv.org/abs/2609.09125](https://arxiv.org/abs/2609.09125), 12 + 32 pages, 9 + 10 figures. Comments are welcome
 - 2026-09-08, **Symplectic Chern-Simons theories dual to Abelian rank- $0$ theories**, Tadashi Okazaki, Douglas J. Smith, Paper: [https://arxiv.org/abs/2609.08648](https://arxiv.org/abs/2609.08648), 73 pages
 - 2026-09-08, **Double cross products with projections and relative Rota-Baxter operators on Hopf algebras**, Yunnan Li, Paper: [https://arxiv.org/abs/2609.08400](https://arxiv.org/abs/2609.08400), 19 pages
