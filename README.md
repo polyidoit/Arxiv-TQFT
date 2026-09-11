@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Certified reduced-basis emulation of conformal field theories on the fuzzy sphere**|Virgil V. Baran|[2609.11675](https://arxiv.org/abs/2609.11675)|null|
+|**2026-09-10**|**Normalized quadratic extensions of pointed Hopf algebras**|Rongchuan Xiong|[2609.11622](https://arxiv.org/abs/2609.11622)|null|
+|**2026-09-10**|**The classification of flows on $\mathrm{II}_1$ factors and Connes' bicentralizer problem**|Cyril Houdayer, Amine Marrakchi|[2609.11462](https://arxiv.org/abs/2609.11462)|null|
+|**2026-09-10**|**Local decoders for fault-tolerant quantum computation and translation-invariant stabilizer codes**|Nathaniel Selub, Aditya Bhardwaj, Ethan Lake|[2609.11457](https://arxiv.org/abs/2609.11457)|null|
+|**2026-09-10**|**Gauss Law, Monodromy Defect, Magnetic Lattice Translation, and Lattice Duality**|Pengcheng Wei, Yunqin Zheng|[2609.11417](https://arxiv.org/abs/2609.11417)|null|
+|**2026-09-10**|**Detecting one-dimensional bosonic SPT phases via twisted entropic order parameter**|Kosei Fujiki, Tsubasa Oishi, Soichiro Shimamori|[2609.11089](https://arxiv.org/abs/2609.11089)|null|
+|**2026-09-10**|**On the II $_{1}$ Factors of Fuchsian Groups**|D. Shlyakhtenko|[2609.11074](https://arxiv.org/abs/2609.11074)|null|
+|**2026-09-10**|**Bar cohomology of links: beyond Milnor invariants**|Greg Friedman, Nir Gadish, Robin Koytcheff, Dev Sinha, Ben Walter|[2609.11009](https://arxiv.org/abs/2609.11009)|null|
+|**2026-09-09**|**Presymplectic BV-AKSZ and constrained DGCAs**|Maxim Grigoriev, Alexander Mamekin, Dmitry Rudinsky|[2609.10859](https://arxiv.org/abs/2609.10859)|null|
+|**2026-09-09**|**Von Neumann algebras as reduced twisted groupoid $C^*$ -algebras**|Alcides Buss, Luiz Felipe Garcia, Tomás Pacheco|[2609.10835](https://arxiv.org/abs/2609.10835)|null|
 |**2026-09-09**|**Local Ocneanu rigidity for separable algebra objects**|Tinhinane Amina Azzouz, Mainak Ghosh, Sebastien Palcoux|[2609.10440](https://arxiv.org/abs/2609.10440)|null|
 |**2026-09-09**|**Deterministic engineering of topological defects in two-dimensional single-species ion Coulomb crystals**|Luca-Amadeus Rüffert, Hemanth Kalathur, Tanja Mehlstäubler|[2609.10425](https://arxiv.org/abs/2609.10425)|null|
 |**2026-09-09**|**Amenability of Lie, Group and Hopf algebras**|Laurent Bartholdi|[2609.10373](https://arxiv.org/abs/2609.10373)|null|

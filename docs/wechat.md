@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-10, **Certified reduced-basis emulation of conformal field theories on the fuzzy sphere**, Virgil V. Baran, Paper: [https://arxiv.org/abs/2609.11675](https://arxiv.org/abs/2609.11675), 12 pages, 7 figures
+- 2026-09-10, **Normalized quadratic extensions of pointed Hopf algebras**, Rongchuan Xiong, Paper: [https://arxiv.org/abs/2609.11622](https://arxiv.org/abs/2609.11622)
+- 2026-09-10, **The classification of flows on $\mathrm{II}_1$ factors and Connes' bicentralizer problem**, Cyril Houdayer, Amine Marrakchi, Paper: [https://arxiv.org/abs/2609.11462](https://arxiv.org/abs/2609.11462), 115 pages. Comments are welcome
+- 2026-09-10, **Local decoders for fault-tolerant quantum computation and translation-invariant stabilizer codes**, Nathaniel Selub, Aditya Bhardwaj, Ethan Lake, Paper: [https://arxiv.org/abs/2609.11457](https://arxiv.org/abs/2609.11457), 118 pages, 19 figures, visualizations available at https://local-decoders.github.io/
+- 2026-09-10, **Gauss Law, Monodromy Defect, Magnetic Lattice Translation, and Lattice Duality**, Pengcheng Wei, Yunqin Zheng, Paper: [https://arxiv.org/abs/2609.11417](https://arxiv.org/abs/2609.11417), 32 pages, 8 figures
+- 2026-09-10, **Detecting one-dimensional bosonic SPT phases via twisted entropic order parameter**, Kosei Fujiki, Tsubasa Oishi, Soichiro Shimamori, Paper: [https://arxiv.org/abs/2609.11089](https://arxiv.org/abs/2609.11089), 42 pages, 4 figures
+- 2026-09-10, **On the II $_{1}$ Factors of Fuchsian Groups**, D. Shlyakhtenko, Paper: [https://arxiv.org/abs/2609.11074](https://arxiv.org/abs/2609.11074)
+- 2026-09-10, **Bar cohomology of links: beyond Milnor invariants**, Greg Friedman, Nir Gadish, Robin Koytcheff, Dev Sinha, Ben Walter, Paper: [https://arxiv.org/abs/2609.11009](https://arxiv.org/abs/2609.11009), 44 pages, 5 figures
+- 2026-09-09, **Presymplectic BV-AKSZ and constrained DGCAs**, Maxim Grigoriev, Alexander Mamekin, Dmitry Rudinsky, Paper: [https://arxiv.org/abs/2609.10859](https://arxiv.org/abs/2609.10859)
+- 2026-09-09, **Von Neumann algebras as reduced twisted groupoid $C^*$ -algebras**, Alcides Buss, Luiz Felipe Garcia, Tomás Pacheco, Paper: [https://arxiv.org/abs/2609.10835](https://arxiv.org/abs/2609.10835), 33 pages
 - 2026-09-09, **Local Ocneanu rigidity for separable algebra objects**, Tinhinane Amina Azzouz, Mainak Ghosh, Sebastien Palcoux, Paper: [https://arxiv.org/abs/2609.10440](https://arxiv.org/abs/2609.10440), 32 pages. An expanded internal version with additional explanations and string diagrams is included as supplementary material. Comments are welcome!
 - 2026-09-09, **Deterministic engineering of topological defects in two-dimensional single-species ion Coulomb crystals**, Luca-Amadeus Rüffert, Hemanth Kalathur, Tanja Mehlstäubler, Paper: [https://arxiv.org/abs/2609.10425](https://arxiv.org/abs/2609.10425), 23 pages, 15 figures
 - 2026-09-09, **Amenability of Lie, Group and Hopf algebras**, Laurent Bartholdi, Paper: [https://arxiv.org/abs/2609.10373](https://arxiv.org/abs/2609.10373)
