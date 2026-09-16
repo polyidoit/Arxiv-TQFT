@@ -1,4 +1,4 @@
-> Automatically updated on 2026.09.15
+> Automatically updated on 2026.09.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-15, **Generalized amenability in quantum groups**, Fouad Naderi, Yong Zhang, Paper: [https://arxiv.org/abs/2609.17451](https://arxiv.org/abs/2609.17451)
+- 2026-09-15, **Exceptional Topology Survives Strong Hermitian Fields in Radiative Atomic Arrays**, Tian-Shu Gou, Yi-Cheng Wang, Ya-Tang Yu, Guin-Dar Lin, Jhih-Shih You, H. H. Jen, Paper: [https://arxiv.org/abs/2609.17313](https://arxiv.org/abs/2609.17313), 4 figures in the main paper, with supplementary materials
+- 2026-09-15, **Sharp logarithmic Sobolev inequalities on free groups by variational comparison**, Gan Yao, Paper: [https://arxiv.org/abs/2609.17303](https://arxiv.org/abs/2609.17303)
+- 2026-09-15, **Cohomological Aspects of Entanglement Entropy: From Information Theory to Noncommutative Geometry**, Radoslav C. Rashkov, Paper: [https://arxiv.org/abs/2609.17195](https://arxiv.org/abs/2609.17195), body+appendices=53 pages
+- 2026-09-15, **A uniform commutator bound in finite von Neumann algebras**, Jiaqi Wang, Paper: [https://arxiv.org/abs/2609.16932](https://arxiv.org/abs/2609.16932), 23 pages, 1 figure
+- 2026-09-14, **On Generators for $W^{*}$ -bundles**, Ben Hayes, Paper: [https://arxiv.org/abs/2609.16428](https://arxiv.org/abs/2609.16428), 40 pages, no figures. No LLM's were used at any stage during this project. Comments welcome!
+- 2026-09-14, **Topological Integer-Winding Dark Matter: Stability from $π_2(\mathrm{SU}(3)/\mathrm{SO}(3)) = \mathbb{Z}$**, Ahmed Ali, Paper: [https://arxiv.org/abs/2609.16383](https://arxiv.org/abs/2609.16383), 5 pages, 2 tables. Supplemental Material (13 pages) available as ancillary file. Submitted to Journal
+- 2026-09-14, **A generalization of the Powers-Størmer-Ogata inequality**, Markus B. Fröb, Paper: [https://arxiv.org/abs/2609.16184](https://arxiv.org/abs/2609.16184), 5 pages
+- 2026-09-14, **The Role of Completeness in Probing Symmetry Breaking**, Yuya Kusuki, Hiroyasu Tajima, Shion Yamashika, Paper: [https://arxiv.org/abs/2609.16153](https://arxiv.org/abs/2609.16153), 42 pages, 7 figures
+- 2026-09-14, **Hyperbolic color codes with constant rate and polynomial distance**, Shun Hasegawa, Hayata Yamasaki, Paper: [https://arxiv.org/abs/2609.16125](https://arxiv.org/abs/2609.16125), 18 pages, 1 figure
 - 2026-09-10, **Certified reduced-basis emulation of conformal field theories on the fuzzy sphere**, Virgil V. Baran, Paper: [https://arxiv.org/abs/2609.11675](https://arxiv.org/abs/2609.11675), 12 pages, 7 figures
 - 2026-09-10, **Normalized quadratic extensions of pointed Hopf algebras**, Rongchuan Xiong, Paper: [https://arxiv.org/abs/2609.11622](https://arxiv.org/abs/2609.11622)
 - 2026-09-10, **The classification of flows on $\mathrm{II}_1$ factors and Connes' bicentralizer problem**, Cyril Houdayer, Amine Marrakchi, Paper: [https://arxiv.org/abs/2609.11462](https://arxiv.org/abs/2609.11462), 115 pages. Comments are welcome
@@ -2083,5 +2093,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 

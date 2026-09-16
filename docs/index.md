@@ -1,7 +1,17 @@
-> Automatically updated on 2026.09.15
+> Automatically updated on 2026.09.16
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-15**|**Generalized amenability in quantum groups**|Fouad Naderi, Yong Zhang|[2609.17451](https://arxiv.org/abs/2609.17451)|null|
+|**2026-09-15**|**Exceptional Topology Survives Strong Hermitian Fields in Radiative Atomic Arrays**|Tian-Shu Gou, Yi-Cheng Wang, Ya-Tang Yu, Guin-Dar Lin, Jhih-Shih You, H. H. Jen|[2609.17313](https://arxiv.org/abs/2609.17313)|null|
+|**2026-09-15**|**Sharp logarithmic Sobolev inequalities on free groups by variational comparison**|Gan Yao|[2609.17303](https://arxiv.org/abs/2609.17303)|null|
+|**2026-09-15**|**Cohomological Aspects of Entanglement Entropy: From Information Theory to Noncommutative Geometry**|Radoslav C. Rashkov|[2609.17195](https://arxiv.org/abs/2609.17195)|null|
+|**2026-09-15**|**A uniform commutator bound in finite von Neumann algebras**|Jiaqi Wang|[2609.16932](https://arxiv.org/abs/2609.16932)|null|
+|**2026-09-14**|**On Generators for $W^{*}$ -bundles**|Ben Hayes|[2609.16428](https://arxiv.org/abs/2609.16428)|null|
+|**2026-09-14**|**Topological Integer-Winding Dark Matter: Stability from $π_2(\mathrm{SU}(3)/\mathrm{SO}(3)) = \mathbb{Z}$**|Ahmed Ali|[2609.16383](https://arxiv.org/abs/2609.16383)|null|
+|**2026-09-14**|**A generalization of the Powers-Størmer-Ogata inequality**|Markus B. Fröb|[2609.16184](https://arxiv.org/abs/2609.16184)|null|
+|**2026-09-14**|**The Role of Completeness in Probing Symmetry Breaking**|Yuya Kusuki, Hiroyasu Tajima, Shion Yamashika|[2609.16153](https://arxiv.org/abs/2609.16153)|null|
+|**2026-09-14**|**Hyperbolic color codes with constant rate and polynomial distance**|Shun Hasegawa, Hayata Yamasaki|[2609.16125](https://arxiv.org/abs/2609.16125)|null|
 |**2026-09-10**|**Certified reduced-basis emulation of conformal field theories on the fuzzy sphere**|Virgil V. Baran|[2609.11675](https://arxiv.org/abs/2609.11675)|null|
 |**2026-09-10**|**Normalized quadratic extensions of pointed Hopf algebras**|Rongchuan Xiong|[2609.11622](https://arxiv.org/abs/2609.11622)|null|
 |**2026-09-10**|**The classification of flows on $\mathrm{II}_1$ factors and Connes' bicentralizer problem**|Cyril Houdayer, Amine Marrakchi|[2609.11462](https://arxiv.org/abs/2609.11462)|null|
