@@ -1,7 +1,14 @@
-> Automatically updated on 2026.09.16
+> Automatically updated on 2026.09.17
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-16**|**Securing quantum error correction against misleading advice from AI agents**|A. Barış Özgüler|[2609.19090](https://arxiv.org/abs/2609.19090)|null|
+|**2026-09-16**|**Vacuum Structure of Maximally Supersymmetric Two-Dimensional Gauge Theories**|Richard Eager|[2609.18074](https://arxiv.org/abs/2609.18074)|null|
+|**2026-09-16**|**The Operator Daugavet Property in Semifinite Noncommutative $L_1$ -Spaces**|Junxiang Qi, Qi Liu, Yongjin Li|[2609.18044](https://arxiv.org/abs/2609.18044)|null|
+|**2026-09-15**|**Fixed Points, Floquet Entanglement Asymmetry, and Quantum Mpemba Effects**|Jayashish Das, Filiberto Ares, Arnab Kundu|[2609.17724](https://arxiv.org/abs/2609.17724)|null|
+|**2026-09-15**|**Structure of Measurement-Induced Entanglement in Infinite-Randomness Critical States**|Oliver Breach|[2609.17670](https://arxiv.org/abs/2609.17670)|null|
+|**2026-09-15**|**Full Eigenstate Thermalization in Quantum Field Theory: Free Cumulants and Gravitational Scrambling**|Ricardo Espíndola, Viktor Jahnke|[2609.17669](https://arxiv.org/abs/2609.17669)|null|
+|**2026-09-15**|**Collider Detector Observables from Lattice Spin Systems**|João Barata, Ying-Ying Li, Bo Wang, Hua Xing Zhu|[2609.17664](https://arxiv.org/abs/2609.17664)|null|
 |**2026-09-15**|**Generalized amenability in quantum groups**|Fouad Naderi, Yong Zhang|[2609.17451](https://arxiv.org/abs/2609.17451)|null|
 |**2026-09-15**|**Exceptional Topology Survives Strong Hermitian Fields in Radiative Atomic Arrays**|Tian-Shu Gou, Yi-Cheng Wang, Ya-Tang Yu, Guin-Dar Lin, Jhih-Shih You, H. H. Jen|[2609.17313](https://arxiv.org/abs/2609.17313)|null|
 |**2026-09-15**|**Sharp logarithmic Sobolev inequalities on free groups by variational comparison**|Gan Yao|[2609.17303](https://arxiv.org/abs/2609.17303)|null|

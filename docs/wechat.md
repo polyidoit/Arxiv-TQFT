@@ -1,4 +1,4 @@
-> Automatically updated on 2026.09.16
+> Automatically updated on 2026.09.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-16, **Securing quantum error correction against misleading advice from AI agents**, A. Barış Özgüler, Paper: [https://arxiv.org/abs/2609.19090](https://arxiv.org/abs/2609.19090), 74 pages, 32 figures (10-page main text, 62 pages of Supplemental Material, and 2 pages of references)
+- 2026-09-16, **Vacuum Structure of Maximally Supersymmetric Two-Dimensional Gauge Theories**, Richard Eager, Paper: [https://arxiv.org/abs/2609.18074](https://arxiv.org/abs/2609.18074), 17 pages, 4 tables. Comments are welcome!
+- 2026-09-16, **The Operator Daugavet Property in Semifinite Noncommutative $L_1$ -Spaces**, Junxiang Qi, Qi Liu, Yongjin Li, Paper: [https://arxiv.org/abs/2609.18044](https://arxiv.org/abs/2609.18044)
+- 2026-09-15, **Fixed Points, Floquet Entanglement Asymmetry, and Quantum Mpemba Effects**, Jayashish Das, Filiberto Ares, Arnab Kundu, Paper: [https://arxiv.org/abs/2609.17724](https://arxiv.org/abs/2609.17724), 9 pages, 2 figures
+- 2026-09-15, **Structure of Measurement-Induced Entanglement in Infinite-Randomness Critical States**, Oliver Breach, Paper: [https://arxiv.org/abs/2609.17670](https://arxiv.org/abs/2609.17670), 11+4 pages, 7+0 figures
+- 2026-09-15, **Full Eigenstate Thermalization in Quantum Field Theory: Free Cumulants and Gravitational Scrambling**, Ricardo Espíndola, Viktor Jahnke, Paper: [https://arxiv.org/abs/2609.17669](https://arxiv.org/abs/2609.17669), 53 pages, 6 figures
+- 2026-09-15, **Collider Detector Observables from Lattice Spin Systems**, João Barata, Ying-Ying Li, Bo Wang, Hua Xing Zhu, Paper: [https://arxiv.org/abs/2609.17664](https://arxiv.org/abs/2609.17664), 9 pages, 4 figures
 - 2026-09-15, **Generalized amenability in quantum groups**, Fouad Naderi, Yong Zhang, Paper: [https://arxiv.org/abs/2609.17451](https://arxiv.org/abs/2609.17451)
 - 2026-09-15, **Exceptional Topology Survives Strong Hermitian Fields in Radiative Atomic Arrays**, Tian-Shu Gou, Yi-Cheng Wang, Ya-Tang Yu, Guin-Dar Lin, Jhih-Shih You, H. H. Jen, Paper: [https://arxiv.org/abs/2609.17313](https://arxiv.org/abs/2609.17313), 4 figures in the main paper, with supplementary materials
 - 2026-09-15, **Sharp logarithmic Sobolev inequalities on free groups by variational comparison**, Gan Yao, Paper: [https://arxiv.org/abs/2609.17303](https://arxiv.org/abs/2609.17303)
@@ -2093,5 +2100,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
 
