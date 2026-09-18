@@ -1,4 +1,4 @@
-> Automatically updated on 2026.09.17
+> Automatically updated on 2026.09.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-17, **Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts**, Hanyu Xue, Paper: [https://arxiv.org/abs/2609.20813](https://arxiv.org/abs/2609.20813), 50 pages
+- 2026-09-17, **Superselection theory for 2D braided quantum spin systems via Connes fusion**, Gregory Faurot, Charlton Li, David Penneys, Emeline Sherman, Paper: [https://arxiv.org/abs/2609.20725](https://arxiv.org/abs/2609.20725), 27 pages, 11 figures. No LLM's were used at any stage during this project. Comments welcome!
+- 2026-09-17, **Proof of a positive coherent-error threshold for topological quantum codes**, Shiro Tamiya, Masato Koashi, Paper: [https://arxiv.org/abs/2609.20708](https://arxiv.org/abs/2609.20708), 21 pages, 1 figure
+- 2026-09-17, **Toward a Unique Filter for the Gravitational Path Integral**, Marc S. Klinger, Paper: [https://arxiv.org/abs/2609.20697](https://arxiv.org/abs/2609.20697), 11 pages + References, 4 figures
+- 2026-09-17, **Hopf Images of Hopf algebra Coactions**, Arnab Bhattacharjee, Paper: [https://arxiv.org/abs/2609.20118](https://arxiv.org/abs/2609.20118), Preprint, 17 pages, Comments are welcome
+- 2026-09-17, **Corner entanglement scaling with projected entangled pair states**, Chloé Van Bastelaere, Rui-Zhen Huang, Laurens Vanderstraeten, Paper: [https://arxiv.org/abs/2609.20020](https://arxiv.org/abs/2609.20020)
+- 2026-09-17, **Vortex-mediated spin current injection into two-dimensional superconductor NbSe2**, Meng Yang, Xiaolong Yin, Jingjing Liu, Yifeng Chen, Qinwu Gao, Hongxing Zhu, Danni Huang, Lang Chen, Shuo-Ying Yang, Junxue Li, Paper: [https://arxiv.org/abs/2609.19727](https://arxiv.org/abs/2609.19727), 20 pages, 4 figures
+- 2026-09-17, **Braided Hopf algebroids and Lie algebroids**, Xiao Han, Paper: [https://arxiv.org/abs/2609.19563](https://arxiv.org/abs/2609.19563)
+- 2026-09-16, **Displacement field stabilizes even-denominator and partonic fractional quantum Hall states in the $\mathcal{N}{=}2$ Landau levels of Bernal-stacked bilayer graphene**, Rakesh K. Dora, Udit Khanna, Ajit C. Balram, Paper: [https://arxiv.org/abs/2609.19379](https://arxiv.org/abs/2609.19379), 18 + 10 pages
+- 2026-09-16, **Non-Abelian Anyon Condensation: a Path-Integral Monte Carlo Approach**, Rafael Flores-Calderón, Frank Pollmann, Michael Knap, Paper: [https://arxiv.org/abs/2609.19282](https://arxiv.org/abs/2609.19282)
 - 2026-09-16, **Securing quantum error correction against misleading advice from AI agents**, A. Barış Özgüler, Paper: [https://arxiv.org/abs/2609.19090](https://arxiv.org/abs/2609.19090), 74 pages, 32 figures (10-page main text, 62 pages of Supplemental Material, and 2 pages of references)
 - 2026-09-16, **Vacuum Structure of Maximally Supersymmetric Two-Dimensional Gauge Theories**, Richard Eager, Paper: [https://arxiv.org/abs/2609.18074](https://arxiv.org/abs/2609.18074), 17 pages, 4 tables. Comments are welcome!
 - 2026-09-16, **The Operator Daugavet Property in Semifinite Noncommutative $L_1$ -Spaces**, Junxiang Qi, Qi Liu, Yongjin Li, Paper: [https://arxiv.org/abs/2609.18044](https://arxiv.org/abs/2609.18044)
@@ -2100,5 +2110,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260918>back to top</a>)</p>
 

@@ -1,7 +1,17 @@
-> Automatically updated on 2026.09.17
+> Automatically updated on 2026.09.18
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-17**|**Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts**|Hanyu Xue|[2609.20813](https://arxiv.org/abs/2609.20813)|null|
+|**2026-09-17**|**Superselection theory for 2D braided quantum spin systems via Connes fusion**|Gregory Faurot, Charlton Li, David Penneys, Emeline Sherman|[2609.20725](https://arxiv.org/abs/2609.20725)|null|
+|**2026-09-17**|**Proof of a positive coherent-error threshold for topological quantum codes**|Shiro Tamiya, Masato Koashi|[2609.20708](https://arxiv.org/abs/2609.20708)|null|
+|**2026-09-17**|**Toward a Unique Filter for the Gravitational Path Integral**|Marc S. Klinger|[2609.20697](https://arxiv.org/abs/2609.20697)|null|
+|**2026-09-17**|**Hopf Images of Hopf algebra Coactions**|Arnab Bhattacharjee|[2609.20118](https://arxiv.org/abs/2609.20118)|null|
+|**2026-09-17**|**Corner entanglement scaling with projected entangled pair states**|Chloé Van Bastelaere, Rui-Zhen Huang, Laurens Vanderstraeten|[2609.20020](https://arxiv.org/abs/2609.20020)|null|
+|**2026-09-17**|**Vortex-mediated spin current injection into two-dimensional superconductor NbSe2**|Meng Yang, Xiaolong Yin, Jingjing Liu, Yifeng Chen, Qinwu Gao, Hongxing Zhu, Danni Huang, Lang Chen, Shuo-Ying Yang, Junxue Li|[2609.19727](https://arxiv.org/abs/2609.19727)|null|
+|**2026-09-17**|**Braided Hopf algebroids and Lie algebroids**|Xiao Han|[2609.19563](https://arxiv.org/abs/2609.19563)|null|
+|**2026-09-16**|**Displacement field stabilizes even-denominator and partonic fractional quantum Hall states in the $\mathcal{N}{=}2$ Landau levels of Bernal-stacked bilayer graphene**|Rakesh K. Dora, Udit Khanna, Ajit C. Balram|[2609.19379](https://arxiv.org/abs/2609.19379)|null|
+|**2026-09-16**|**Non-Abelian Anyon Condensation: a Path-Integral Monte Carlo Approach**|Rafael Flores-Calderón, Frank Pollmann, Michael Knap|[2609.19282](https://arxiv.org/abs/2609.19282)|null|
 |**2026-09-16**|**Securing quantum error correction against misleading advice from AI agents**|A. Barış Özgüler|[2609.19090](https://arxiv.org/abs/2609.19090)|null|
 |**2026-09-16**|**Vacuum Structure of Maximally Supersymmetric Two-Dimensional Gauge Theories**|Richard Eager|[2609.18074](https://arxiv.org/abs/2609.18074)|null|
 |**2026-09-16**|**The Operator Daugavet Property in Semifinite Noncommutative $L_1$ -Spaces**|Junxiang Qi, Qi Liu, Yongjin Li|[2609.18044](https://arxiv.org/abs/2609.18044)|null|
