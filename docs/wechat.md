@@ -1,4 +1,4 @@
-> Automatically updated on 2026.09.20
+> Automatically updated on 2026.09.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,9 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-18, **A Functorial Theory of Defects in Abelian Chern-Simons Theory**, Daniel Galviz, Paper: [https://arxiv.org/abs/2609.21414](https://arxiv.org/abs/2609.21414)
+- 2026-09-18, **Entanglement entropy in holographic CFTs with generic boundaries**, Fabio Ori, Peng-Xiang Hao, Paper: [https://arxiv.org/abs/2609.21370](https://arxiv.org/abs/2609.21370), 7 + 8 pages, 7 figures
+- 2026-09-18, **Strict Total Positivity of a Gauss Hypergeometric Kernel, and the Sharp Threshold for the One-Dimensional $SL(2,\mathbb{R})$ Conformal Block**, Frédéric Ouimet, Donald Richards, Paper: [https://arxiv.org/abs/2609.21210](https://arxiv.org/abs/2609.21210), 40 pages, 0 figures
 - 2026-09-17, **Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts**, Hanyu Xue, Paper: [https://arxiv.org/abs/2609.20813](https://arxiv.org/abs/2609.20813), 50 pages
 - 2026-09-17, **Superselection theory for 2D braided quantum spin systems via Connes fusion**, Gregory Faurot, Charlton Li, David Penneys, Emeline Sherman, Paper: [https://arxiv.org/abs/2609.20725](https://arxiv.org/abs/2609.20725), 27 pages, 11 figures. No LLM's were used at any stage during this project. Comments welcome!
 - 2026-09-17, **Proof of a positive coherent-error threshold for topological quantum codes**, Shiro Tamiya, Masato Koashi, Paper: [https://arxiv.org/abs/2609.20708](https://arxiv.org/abs/2609.20708), 21 pages, 1 figure
@@ -2110,5 +2113,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 

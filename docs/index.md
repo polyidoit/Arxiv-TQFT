@@ -1,7 +1,10 @@
-> Automatically updated on 2026.09.20
+> Automatically updated on 2026.09.21
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-18**|**A Functorial Theory of Defects in Abelian Chern-Simons Theory**|Daniel Galviz|[2609.21414](https://arxiv.org/abs/2609.21414)|null|
+|**2026-09-18**|**Entanglement entropy in holographic CFTs with generic boundaries**|Fabio Ori, Peng-Xiang Hao|[2609.21370](https://arxiv.org/abs/2609.21370)|null|
+|**2026-09-18**|**Strict Total Positivity of a Gauss Hypergeometric Kernel, and the Sharp Threshold for the One-Dimensional $SL(2,\mathbb{R})$ Conformal Block**|Frédéric Ouimet, Donald Richards|[2609.21210](https://arxiv.org/abs/2609.21210)|null|
 |**2026-09-17**|**Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts**|Hanyu Xue|[2609.20813](https://arxiv.org/abs/2609.20813)|null|
 |**2026-09-17**|**Superselection theory for 2D braided quantum spin systems via Connes fusion**|Gregory Faurot, Charlton Li, David Penneys, Emeline Sherman|[2609.20725](https://arxiv.org/abs/2609.20725)|null|
 |**2026-09-17**|**Proof of a positive coherent-error threshold for topological quantum codes**|Shiro Tamiya, Masato Koashi|[2609.20708](https://arxiv.org/abs/2609.20708)|null|
