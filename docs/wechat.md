@@ -1,4 +1,4 @@
-> Automatically updated on 2026.09.21
+> Automatically updated on 2026.09.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-21, **Gauge invariants raised from commutators of unimodular Hopf algebras**, Zhihua Wang, Libin Li, Paper: [https://arxiv.org/abs/2609.24523](https://arxiv.org/abs/2609.24523)
+- 2026-09-20, **Weak $^*$ polynomial density, diffuseness and proper infinitude**, Alexandru Chirvasitu, Paper: [https://arxiv.org/abs/2609.23724](https://arxiv.org/abs/2609.23724), 5 pages + references
+- 2026-09-20, **Noncommutative Maximal Ergodic Theorems for Modulated $(C,α)$ -Averages with Operator-Valued Weights**, Arup Chattopadhyay, Debabrata De, Disha Shaw, Paper: [https://arxiv.org/abs/2609.23616](https://arxiv.org/abs/2609.23616), Preliminary Version, Comments are welcome
+- 2026-09-20, **The Identity as a Single Commutator of Affiliated Operators**, Jiaqi Wang, Paper: [https://arxiv.org/abs/2609.23510](https://arxiv.org/abs/2609.23510), 13 pages
+- 2026-09-20, **Spin density from second order transport in fluids**, Domingo Gallegos, Roi Klein, Amos Yarom, Paper: [https://arxiv.org/abs/2609.23399](https://arxiv.org/abs/2609.23399), 16 pages + 3 appendices
+- 2026-09-19, **Quantitative decomposition and approximation for quasi-local operators**, Jiawen Zhang, Jingming Zhu, Paper: [https://arxiv.org/abs/2609.23004](https://arxiv.org/abs/2609.23004)
+- 2026-09-19, **Local Representatives and Shortest Completions for Next-to-Shortest Paths in Directed Graphs**, Shisheng Li, Paper: [https://arxiv.org/abs/2609.22940](https://arxiv.org/abs/2609.22940), 15 pages
+- 2026-09-19, **Campanato spaces via quantum semigroups**, Guixiang Hong, Yuanyuan Jing, Ping Li, Paper: [https://arxiv.org/abs/2609.22898](https://arxiv.org/abs/2609.22898)
+- 2026-09-19, **$C^*$-extreme maps and $*$-homomorphisms from $C(X)$ to finite von Neumann algebras**, Dimitrios Giannakis, Michael Montgomery, Travis Russell, Paper: [https://arxiv.org/abs/2609.22685](https://arxiv.org/abs/2609.22685), 7 pages
+- 2026-09-18, **External Sources in Pseudo-Quantum Electrodynamics**, L. H. C. Borges, A. A. Nogueira, F. A. Barone, Paper: [https://arxiv.org/abs/2609.22526](https://arxiv.org/abs/2609.22526), 12 latex pages, 4 figures
 - 2026-09-18, **A Functorial Theory of Defects in Abelian Chern-Simons Theory**, Daniel Galviz, Paper: [https://arxiv.org/abs/2609.21414](https://arxiv.org/abs/2609.21414)
 - 2026-09-18, **Entanglement entropy in holographic CFTs with generic boundaries**, Fabio Ori, Peng-Xiang Hao, Paper: [https://arxiv.org/abs/2609.21370](https://arxiv.org/abs/2609.21370), 7 + 8 pages, 7 figures
 - 2026-09-18, **Strict Total Positivity of a Gauss Hypergeometric Kernel, and the Sharp Threshold for the One-Dimensional $SL(2,\mathbb{R})$ Conformal Block**, Frédéric Ouimet, Donald Richards, Paper: [https://arxiv.org/abs/2609.21210](https://arxiv.org/abs/2609.21210), 40 pages, 0 figures
@@ -2113,5 +2123,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 

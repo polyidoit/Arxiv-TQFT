@@ -1,7 +1,17 @@
-> Automatically updated on 2026.09.21
+> Automatically updated on 2026.09.22
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-21**|**Gauge invariants raised from commutators of unimodular Hopf algebras**|Zhihua Wang, Libin Li|[2609.24523](https://arxiv.org/abs/2609.24523)|null|
+|**2026-09-20**|**Weak $^*$ polynomial density, diffuseness and proper infinitude**|Alexandru Chirvasitu|[2609.23724](https://arxiv.org/abs/2609.23724)|null|
+|**2026-09-20**|**Noncommutative Maximal Ergodic Theorems for Modulated $(C,α)$ -Averages with Operator-Valued Weights**|Arup Chattopadhyay, Debabrata De, Disha Shaw|[2609.23616](https://arxiv.org/abs/2609.23616)|null|
+|**2026-09-20**|**The Identity as a Single Commutator of Affiliated Operators**|Jiaqi Wang|[2609.23510](https://arxiv.org/abs/2609.23510)|null|
+|**2026-09-20**|**Spin density from second order transport in fluids**|Domingo Gallegos, Roi Klein, Amos Yarom|[2609.23399](https://arxiv.org/abs/2609.23399)|null|
+|**2026-09-19**|**Quantitative decomposition and approximation for quasi-local operators**|Jiawen Zhang, Jingming Zhu|[2609.23004](https://arxiv.org/abs/2609.23004)|null|
+|**2026-09-19**|**Local Representatives and Shortest Completions for Next-to-Shortest Paths in Directed Graphs**|Shisheng Li|[2609.22940](https://arxiv.org/abs/2609.22940)|null|
+|**2026-09-19**|**Campanato spaces via quantum semigroups**|Guixiang Hong, Yuanyuan Jing, Ping Li|[2609.22898](https://arxiv.org/abs/2609.22898)|null|
+|**2026-09-19**|**$C^*$-extreme maps and $*$-homomorphisms from $C(X)$ to finite von Neumann algebras**|Dimitrios Giannakis, Michael Montgomery, Travis Russell|[2609.22685](https://arxiv.org/abs/2609.22685)|null|
+|**2026-09-18**|**External Sources in Pseudo-Quantum Electrodynamics**|L. H. C. Borges, A. A. Nogueira, F. A. Barone|[2609.22526](https://arxiv.org/abs/2609.22526)|null|
 |**2026-09-18**|**A Functorial Theory of Defects in Abelian Chern-Simons Theory**|Daniel Galviz|[2609.21414](https://arxiv.org/abs/2609.21414)|null|
 |**2026-09-18**|**Entanglement entropy in holographic CFTs with generic boundaries**|Fabio Ori, Peng-Xiang Hao|[2609.21370](https://arxiv.org/abs/2609.21370)|null|
 |**2026-09-18**|**Strict Total Positivity of a Gauss Hypergeometric Kernel, and the Sharp Threshold for the One-Dimensional $SL(2,\mathbb{R})$ Conformal Block**|Frédéric Ouimet, Donald Richards|[2609.21210](https://arxiv.org/abs/2609.21210)|null|
