@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-21**|**A thermal microwave bus for neutral atom quantum computing**|Matthew J. H. Kendall, Christopher J. Watson, Michael Ben Shem, Jonathan D. Breeze|[2609.24933](https://arxiv.org/abs/2609.24933)|null|
+|**2026-09-21**|**Bi-exact Wreath-like Product Groups**|Ionuţ Chifan, Zhiyuan Yang|[2609.24923](https://arxiv.org/abs/2609.24923)|null|
+|**2026-09-21**|**Channel concentration of critical quantum geometry**|Qian-Rui Lee, Daw-Wei Wang|[2609.24905](https://arxiv.org/abs/2609.24905)|null|
+|**2026-09-21**|**The Gaiotto-Kim Trace Formula and Line Defects**|Sungjoon Kim, Spencer Stubbs|[2609.24582](https://arxiv.org/abs/2609.24582)|null|
 |**2026-09-21**|**Gauge invariants raised from commutators of unimodular Hopf algebras**|Zhihua Wang, Libin Li|[2609.24523](https://arxiv.org/abs/2609.24523)|null|
 |**2026-09-20**|**Weak $^*$ polynomial density, diffuseness and proper infinitude**|Alexandru Chirvasitu|[2609.23724](https://arxiv.org/abs/2609.23724)|null|
 |**2026-09-20**|**Noncommutative Maximal Ergodic Theorems for Modulated $(C,α)$ -Averages with Operator-Valued Weights**|Arup Chattopadhyay, Debabrata De, Disha Shaw|[2609.23616](https://arxiv.org/abs/2609.23616)|null|

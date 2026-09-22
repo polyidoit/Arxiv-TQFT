@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-21, **A thermal microwave bus for neutral atom quantum computing**, Matthew J. H. Kendall, Christopher J. Watson, Michael Ben Shem, Jonathan D. Breeze, Paper: [https://arxiv.org/abs/2609.24933](https://arxiv.org/abs/2609.24933), 14 pages
+- 2026-09-21, **Bi-exact Wreath-like Product Groups**, Ionuţ Chifan, Zhiyuan Yang, Paper: [https://arxiv.org/abs/2609.24923](https://arxiv.org/abs/2609.24923), 11 pages
+- 2026-09-21, **Channel concentration of critical quantum geometry**, Qian-Rui Lee, Daw-Wei Wang, Paper: [https://arxiv.org/abs/2609.24905](https://arxiv.org/abs/2609.24905), 44 pages, 7 figures (including Supplemental Material); code and data available at https://github.com/ToelUl/channel-concentration/tree/companion-2026-09-21-rc1
+- 2026-09-21, **The Gaiotto-Kim Trace Formula and Line Defects**, Sungjoon Kim, Spencer Stubbs, Paper: [https://arxiv.org/abs/2609.24582](https://arxiv.org/abs/2609.24582), 42 pages
 - 2026-09-21, **Gauge invariants raised from commutators of unimodular Hopf algebras**, Zhihua Wang, Libin Li, Paper: [https://arxiv.org/abs/2609.24523](https://arxiv.org/abs/2609.24523)
 - 2026-09-20, **Weak $^*$ polynomial density, diffuseness and proper infinitude**, Alexandru Chirvasitu, Paper: [https://arxiv.org/abs/2609.23724](https://arxiv.org/abs/2609.23724), 5 pages + references
 - 2026-09-20, **Noncommutative Maximal Ergodic Theorems for Modulated $(C,α)$ -Averages with Operator-Valued Weights**, Arup Chattopadhyay, Debabrata De, Disha Shaw, Paper: [https://arxiv.org/abs/2609.23616](https://arxiv.org/abs/2609.23616), Preliminary Version, Comments are welcome
