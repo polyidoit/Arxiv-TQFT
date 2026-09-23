@@ -1,4 +1,4 @@
-> Automatically updated on 2026.09.22
+> Automatically updated on 2026.09.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,11 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-22, **Coarse rigidity in von Neumann algebras via derivations**, Manish Kumar, Melchior Wirth, Paper: [https://arxiv.org/abs/2609.26496](https://arxiv.org/abs/2609.26496), 75 pages
+- 2026-09-22, **Scaling behavior of eigenspectrum for entanglement from correlation matrices**, Lih-King Lim, Paper: [https://arxiv.org/abs/2609.25608](https://arxiv.org/abs/2609.25608), 9 pages, 5 figures
+- 2026-09-22, **Holographic description of RN-like black hole in bumblebee gravity**, Jian-Peng Zhang, Bin Chen, Jiaju Zhang, Yu Zhang, Paper: [https://arxiv.org/abs/2609.25530](https://arxiv.org/abs/2609.25530), 18 pages
+- 2026-09-21, **Bulk OPE Coefficients of the $E$ -Series Virasoro Minimal Models**, Amaury Lhoste, Jiaxin Qiao, Masahito Yamazaki, Paper: [https://arxiv.org/abs/2609.25215](https://arxiv.org/abs/2609.25215), 41 + 24 pages, 5 figures, 16 tables (including the OPE coefficient tables), ancillary code included
+- 2026-09-21, **Probing quantum spin liquids with multiple quantum coherences**, Lukas Homeier, Simon Linsel, Lode Pollet, Ana Maria Rey, Paper: [https://arxiv.org/abs/2609.25193](https://arxiv.org/abs/2609.25193), 7+3 pages
 - 2026-09-21, **A thermal microwave bus for neutral atom quantum computing**, Matthew J. H. Kendall, Christopher J. Watson, Michael Ben Shem, Jonathan D. Breeze, Paper: [https://arxiv.org/abs/2609.24933](https://arxiv.org/abs/2609.24933), 14 pages
 - 2026-09-21, **Bi-exact Wreath-like Product Groups**, Ionuţ Chifan, Zhiyuan Yang, Paper: [https://arxiv.org/abs/2609.24923](https://arxiv.org/abs/2609.24923), 11 pages
 - 2026-09-21, **Channel concentration of critical quantum geometry**, Qian-Rui Lee, Daw-Wei Wang, Paper: [https://arxiv.org/abs/2609.24905](https://arxiv.org/abs/2609.24905), 44 pages, 7 figures (including Supplemental Material); code and data available at https://github.com/ToelUl/channel-concentration/tree/companion-2026-09-21-rc1
@@ -2127,5 +2132,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
 

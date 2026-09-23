@@ -1,7 +1,12 @@
-> Automatically updated on 2026.09.22
+> Automatically updated on 2026.09.23
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-22**|**Coarse rigidity in von Neumann algebras via derivations**|Manish Kumar, Melchior Wirth|[2609.26496](https://arxiv.org/abs/2609.26496)|null|
+|**2026-09-22**|**Scaling behavior of eigenspectrum for entanglement from correlation matrices**|Lih-King Lim|[2609.25608](https://arxiv.org/abs/2609.25608)|null|
+|**2026-09-22**|**Holographic description of RN-like black hole in bumblebee gravity**|Jian-Peng Zhang, Bin Chen, Jiaju Zhang, Yu Zhang|[2609.25530](https://arxiv.org/abs/2609.25530)|null|
+|**2026-09-21**|**Bulk OPE Coefficients of the $E$ -Series Virasoro Minimal Models**|Amaury Lhoste, Jiaxin Qiao, Masahito Yamazaki|[2609.25215](https://arxiv.org/abs/2609.25215)|null|
+|**2026-09-21**|**Probing quantum spin liquids with multiple quantum coherences**|Lukas Homeier, Simon Linsel, Lode Pollet, Ana Maria Rey|[2609.25193](https://arxiv.org/abs/2609.25193)|null|
 |**2026-09-21**|**A thermal microwave bus for neutral atom quantum computing**|Matthew J. H. Kendall, Christopher J. Watson, Michael Ben Shem, Jonathan D. Breeze|[2609.24933](https://arxiv.org/abs/2609.24933)|null|
 |**2026-09-21**|**Bi-exact Wreath-like Product Groups**|Ionuţ Chifan, Zhiyuan Yang|[2609.24923](https://arxiv.org/abs/2609.24923)|null|
 |**2026-09-21**|**Channel concentration of critical quantum geometry**|Qian-Rui Lee, Daw-Wei Wang|[2609.24905](https://arxiv.org/abs/2609.24905)|null|
