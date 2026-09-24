@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.09.23
+> Automatically updated on 2026.09.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Fermionic cosmic strings in dynamical Chern-Simons gravity**|Stephon Alexander, Heliudson Bernardo, Shengyuan Zhang|[2609.28421](https://arxiv.org/abs/2609.28421)|null|
+|**2026-09-23**|**Stable Cellularity in Hopfological Algebra**|You Qi|[2609.28295](https://arxiv.org/abs/2609.28295)|null|
+|**2026-09-23**|**Geometries of Quantum Field Theories**|Masahito Yamazaki|[2609.28210](https://arxiv.org/abs/2609.28210)|null|
+|**2026-09-23**|**Frustration-Free Models for Topological Holography: Fusion Spin Chains as Boundary Algebras**|Zhengwei Liu, Zishuo Zhao|[2609.28120](https://arxiv.org/abs/2609.28120)|null|
+|**2026-09-23**|**Classical Root Systems Reveal Defect-Junction Data in Stabilizer Renyi Entropy**|M. A. Rajabpour|[2609.27537](https://arxiv.org/abs/2609.27537)|null|
+|**2026-09-23**|**Controlling graded Lie algebras and cohomologies of double Lie algebras**|Zhongyin Xu, Chengming Bai|[2609.27420](https://arxiv.org/abs/2609.27420)|null|
+|**2026-09-23**|**Functional Causal Discovery via Conditional Covariance Ordering**|Keyu Li, Ruoxu Tan|[2609.27256](https://arxiv.org/abs/2609.27256)|null|
+|**2026-09-22**|**Maximal Total Quantum Dimension at Bounded Rank in Dijkgraaf-Witten Theories**|Ce Shen|[2609.26914](https://arxiv.org/abs/2609.26914)|null|
+|**2026-09-22**|**Transparent Domain Walls through Information Convex Sets**|Jintae Kim, Amanda Gatto Lamas, Jacopo Gliozzi, Bowen Shi, Taylor L. Hughes, Jong Yeon Lee|[2609.26892](https://arxiv.org/abs/2609.26892)|null|
 |**2026-09-22**|**Coarse rigidity in von Neumann algebras via derivations**|Manish Kumar, Melchior Wirth|[2609.26496](https://arxiv.org/abs/2609.26496)|null|
 |**2026-09-22**|**Scaling behavior of eigenspectrum for entanglement from correlation matrices**|Lih-King Lim|[2609.25608](https://arxiv.org/abs/2609.25608)|null|
 |**2026-09-22**|**Holographic description of RN-like black hole in bumblebee gravity**|Jian-Peng Zhang, Bin Chen, Jiaju Zhang, Yu Zhang|[2609.25530](https://arxiv.org/abs/2609.25530)|null|
@@ -2931,5 +2940,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 

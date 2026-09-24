@@ -1,4 +1,4 @@
-> Automatically updated on 2026.09.23
+> Automatically updated on 2026.09.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,15 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-23, **Fermionic cosmic strings in dynamical Chern-Simons gravity**, Stephon Alexander, Heliudson Bernardo, Shengyuan Zhang, Paper: [https://arxiv.org/abs/2609.28421](https://arxiv.org/abs/2609.28421), 10 pages
+- 2026-09-23, **Stable Cellularity in Hopfological Algebra**, You Qi, Paper: [https://arxiv.org/abs/2609.28295](https://arxiv.org/abs/2609.28295), 39 pages. Comments welcome
+- 2026-09-23, **Geometries of Quantum Field Theories**, Masahito Yamazaki, Paper: [https://arxiv.org/abs/2609.28210](https://arxiv.org/abs/2609.28210), 241 pages, 52 figures. English translation of a book published in Japanese by Saiensu-sha (SGC Library) in September 2015. Some typos and errors in the original have been corrected
+- 2026-09-23, **Frustration-Free Models for Topological Holography: Fusion Spin Chains as Boundary Algebras**, Zhengwei Liu, Zishuo Zhao, Paper: [https://arxiv.org/abs/2609.28120](https://arxiv.org/abs/2609.28120), 32 pages, 5 figures. Comments welcome!
+- 2026-09-23, **Classical Root Systems Reveal Defect-Junction Data in Stabilizer Renyi Entropy**, M. A. Rajabpour, Paper: [https://arxiv.org/abs/2609.27537](https://arxiv.org/abs/2609.27537), 63 pages 2Figures
+- 2026-09-23, **Controlling graded Lie algebras and cohomologies of double Lie algebras**, Zhongyin Xu, Chengming Bai, Paper: [https://arxiv.org/abs/2609.27420](https://arxiv.org/abs/2609.27420), 30pages
+- 2026-09-23, **Functional Causal Discovery via Conditional Covariance Ordering**, Keyu Li, Ruoxu Tan, Paper: [https://arxiv.org/abs/2609.27256](https://arxiv.org/abs/2609.27256)
+- 2026-09-22, **Maximal Total Quantum Dimension at Bounded Rank in Dijkgraaf-Witten Theories**, Ce Shen, Paper: [https://arxiv.org/abs/2609.26914](https://arxiv.org/abs/2609.26914), 42 pages
+- 2026-09-22, **Transparent Domain Walls through Information Convex Sets**, Jintae Kim, Amanda Gatto Lamas, Jacopo Gliozzi, Bowen Shi, Taylor L. Hughes, Jong Yeon Lee, Paper: [https://arxiv.org/abs/2609.26892](https://arxiv.org/abs/2609.26892), 45 pages, 18 figures
 - 2026-09-22, **Coarse rigidity in von Neumann algebras via derivations**, Manish Kumar, Melchior Wirth, Paper: [https://arxiv.org/abs/2609.26496](https://arxiv.org/abs/2609.26496), 75 pages
 - 2026-09-22, **Scaling behavior of eigenspectrum for entanglement from correlation matrices**, Lih-King Lim, Paper: [https://arxiv.org/abs/2609.25608](https://arxiv.org/abs/2609.25608), 9 pages, 5 figures
 - 2026-09-22, **Holographic description of RN-like black hole in bumblebee gravity**, Jian-Peng Zhang, Bin Chen, Jiaju Zhang, Yu Zhang, Paper: [https://arxiv.org/abs/2609.25530](https://arxiv.org/abs/2609.25530), 18 pages
@@ -2132,5 +2141,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
