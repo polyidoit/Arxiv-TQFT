@@ -1,7 +1,14 @@
-> Automatically updated on 2026.09.24
+> Automatically updated on 2026.09.25
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-24**|**A quasisymmetric analog of Grassmannian Schubert varieties**|Teddy Gonzales, Tuong Le, Chayim Lowen|[2609.30257](https://arxiv.org/abs/2609.30257)|null|
+|**2026-09-24**|**Disorder-induced quantum Fisher information in topological quantum systems**|Advay Burte, Keshav Das Agarwal, Leela Ganesh Chandra Lakkaraju, Aditi Sen De|[2609.30142](https://arxiv.org/abs/2609.30142)|null|
+|**2026-09-24**|**A computable wandering and tracelike vector for modular orbits in the Bergman space**|Luís Daniel Abreu|[2609.30014](https://arxiv.org/abs/2609.30014)|null|
+|**2026-09-24**|**Chromatic word-quasisymmetric functions of matroids**|Raul Penaguiao, Sophie Rehberg|[2609.29927](https://arxiv.org/abs/2609.29927)|null|
+|**2026-09-24**|**A $q$ -Weyl Freeness Principle for Nichols Algebras and Pointed Hopf Algebras of Square-Free Dimension**|Rongchuan Xiong|[2609.29853](https://arxiv.org/abs/2609.29853)|null|
+|**2026-09-24**|**Decoder Model Compatibility Provides Information beyond the Logical Gap under Drifting and Correlated Quantum Noise**|Aaron C. Hoyt, Chunshu Wu, Shuwen Kan, Sean Garner, Avimita Chatterjee, Drew Rebar, Norman M. Tubman, Katherine Klymko, Chenxu Liu, Ang Li, Samuel Stein|[2609.29018](https://arxiv.org/abs/2609.29018)|null|
+|**2026-09-24**|**Exact selection of a toric-code vison crystal in a flux-conditioned Kitaev model**|Jiucai Wang, Chuan Chen|[2609.29004](https://arxiv.org/abs/2609.29004)|null|
 |**2026-09-23**|**Fermionic cosmic strings in dynamical Chern-Simons gravity**|Stephon Alexander, Heliudson Bernardo, Shengyuan Zhang|[2609.28421](https://arxiv.org/abs/2609.28421)|null|
 |**2026-09-23**|**Stable Cellularity in Hopfological Algebra**|You Qi|[2609.28295](https://arxiv.org/abs/2609.28295)|null|
 |**2026-09-23**|**Geometries of Quantum Field Theories**|Masahito Yamazaki|[2609.28210](https://arxiv.org/abs/2609.28210)|null|

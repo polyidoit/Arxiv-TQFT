@@ -1,4 +1,4 @@
-> Automatically updated on 2026.09.24
+> Automatically updated on 2026.09.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-24, **A quasisymmetric analog of Grassmannian Schubert varieties**, Teddy Gonzales, Tuong Le, Chayim Lowen, Paper: [https://arxiv.org/abs/2609.30257](https://arxiv.org/abs/2609.30257), 48 pages, 16 figures, comments are welcome
+- 2026-09-24, **Disorder-induced quantum Fisher information in topological quantum systems**, Advay Burte, Keshav Das Agarwal, Leela Ganesh Chandra Lakkaraju, Aditi Sen De, Paper: [https://arxiv.org/abs/2609.30142](https://arxiv.org/abs/2609.30142), 12 pages, 5 figures
+- 2026-09-24, **A computable wandering and tracelike vector for modular orbits in the Bergman space**, Luís Daniel Abreu, Paper: [https://arxiv.org/abs/2609.30014](https://arxiv.org/abs/2609.30014)
+- 2026-09-24, **Chromatic word-quasisymmetric functions of matroids**, Raul Penaguiao, Sophie Rehberg, Paper: [https://arxiv.org/abs/2609.29927](https://arxiv.org/abs/2609.29927), 53 pages, 10 figures, comments welcome!
+- 2026-09-24, **A $q$ -Weyl Freeness Principle for Nichols Algebras and Pointed Hopf Algebras of Square-Free Dimension**, Rongchuan Xiong, Paper: [https://arxiv.org/abs/2609.29853](https://arxiv.org/abs/2609.29853)
+- 2026-09-24, **Decoder Model Compatibility Provides Information beyond the Logical Gap under Drifting and Correlated Quantum Noise**, Aaron C. Hoyt, Chunshu Wu, Shuwen Kan, Sean Garner, Avimita Chatterjee, Drew Rebar, Norman M. Tubman, Katherine Klymko, Chenxu Liu, Ang Li, Samuel Stein, Paper: [https://arxiv.org/abs/2609.29018](https://arxiv.org/abs/2609.29018)
+- 2026-09-24, **Exact selection of a toric-code vison crystal in a flux-conditioned Kitaev model**, Jiucai Wang, Chuan Chen, Paper: [https://arxiv.org/abs/2609.29004](https://arxiv.org/abs/2609.29004), 22 pages, 6 figures, 4 tables. Comments are welcome!
 - 2026-09-23, **Fermionic cosmic strings in dynamical Chern-Simons gravity**, Stephon Alexander, Heliudson Bernardo, Shengyuan Zhang, Paper: [https://arxiv.org/abs/2609.28421](https://arxiv.org/abs/2609.28421), 10 pages
 - 2026-09-23, **Stable Cellularity in Hopfological Algebra**, You Qi, Paper: [https://arxiv.org/abs/2609.28295](https://arxiv.org/abs/2609.28295), 39 pages. Comments welcome
 - 2026-09-23, **Geometries of Quantum Field Theories**, Masahito Yamazaki, Paper: [https://arxiv.org/abs/2609.28210](https://arxiv.org/abs/2609.28210), 241 pages, 52 figures. English translation of a book published in Japanese by Saiensu-sha (SGC Library) in September 2015. Some typos and errors in the original have been corrected
@@ -2141,5 +2148,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
