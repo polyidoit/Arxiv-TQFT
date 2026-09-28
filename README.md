@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.09.27
+> Automatically updated on 2026.09.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**Bootstrapping Holographic Theories in the Planar Limit**|Shai M. Chester, Daniele R. Pavarini, Alessandro Piazza|[2609.31576](https://arxiv.org/abs/2609.31576)|null|
+|**2026-09-25**|**Sipser-Spielman meets Dijkgraaf-Witten: non-Abelian qLDPC codes via twisted sheaf gauge theory and almost-constant-overhead magic state fountain**|Guanyu Zhu, Shi Jie Samuel Tan, Ryohei Kobayashi, Po-Shen Hsin|[2609.31541](https://arxiv.org/abs/2609.31541)|null|
+|**2026-09-25**|**Categorical spin-networks: state-sum invariants of 4-manifolds from higher-gauge theory**|Hank Chen, Zhian Jia, Ran Luo, Wei Cui|[2609.31365](https://arxiv.org/abs/2609.31365)|null|
+|**2026-09-25**|**Fate of Bouncing Singularities at Finite $G_N$**|Zohar Komargodski|[2609.31309](https://arxiv.org/abs/2609.31309)|null|
+|**2026-09-25**|**Conformal correlator systems**|Sylvain Ribault|[2609.31237](https://arxiv.org/abs/2609.31237)|null|
+|**2026-09-25**|**Rydberg-Atom-Mediated Strong Antisymmetric Spin Exchange in Molecular Arrays**|Yunqing Jiao, Jin-Zhu Jiang, Bo-Wen Guan, Jie Ma, Liantuan Xiao, Chi Zhang, Weibin Li, Feng Mei, Suotang Jia|[2609.31147](https://arxiv.org/abs/2609.31147)|null|
+|**2026-09-25**|**Positivity Rigidity for Grossman-Larson Characters and the Kingman Face of the Hoffman Rooted-Tree Graph**|Shengjun Zhang|[2609.31026](https://arxiv.org/abs/2609.31026)|null|
+|**2026-09-24**|**Planar Contact Structures with Calabi-Yau Fillings and Topological Quantum Computation**|Atsuhide Mori|[2609.30406](https://arxiv.org/abs/2609.30406)|null|
+|**2026-09-24**|**Rényi Phase Transitions and Analytic Continuation to the von Neumann Entropy**|Ayush Raj, Akash Vijay, Hong-Chen Jiang, Laimei Nie|[2609.30386](https://arxiv.org/abs/2609.30386)|null|
+|**2026-09-24**|**Is the fractional Chern insulator-superconductor transition in twisted MoTe $_2$ direct?**|Tevž Lotrič, Steven H. Simon|[2609.30368](https://arxiv.org/abs/2609.30368)|null|
 |**2026-09-24**|**A quasisymmetric analog of Grassmannian Schubert varieties**|Teddy Gonzales, Tuong Le, Chayim Lowen|[2609.30257](https://arxiv.org/abs/2609.30257)|null|
 |**2026-09-24**|**Disorder-induced quantum Fisher information in topological quantum systems**|Advay Burte, Keshav Das Agarwal, Leela Ganesh Chandra Lakkaraju, Aditi Sen De|[2609.30142](https://arxiv.org/abs/2609.30142)|null|
 |**2026-09-24**|**A computable wandering and tracelike vector for modular orbits in the Bergman space**|Luís Daniel Abreu|[2609.30014](https://arxiv.org/abs/2609.30014)|null|
@@ -2947,5 +2957,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 

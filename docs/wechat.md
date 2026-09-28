@@ -1,4 +1,4 @@
-> Automatically updated on 2026.09.27
+> Automatically updated on 2026.09.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-25, **Bootstrapping Holographic Theories in the Planar Limit**, Shai M. Chester, Daniele R. Pavarini, Alessandro Piazza, Paper: [https://arxiv.org/abs/2609.31576](https://arxiv.org/abs/2609.31576), 50 pages, 6 figures
+- 2026-09-25, **Sipser-Spielman meets Dijkgraaf-Witten: non-Abelian qLDPC codes via twisted sheaf gauge theory and almost-constant-overhead magic state fountain**, Guanyu Zhu, Shi Jie Samuel Tan, Ryohei Kobayashi, Po-Shen Hsin, Paper: [https://arxiv.org/abs/2609.31541](https://arxiv.org/abs/2609.31541), 66 pages + 15 figures
+- 2026-09-25, **Categorical spin-networks: state-sum invariants of 4-manifolds from higher-gauge theory**, Hank Chen, Zhian Jia, Ran Luo, Wei Cui, Paper: [https://arxiv.org/abs/2609.31365](https://arxiv.org/abs/2609.31365), 53 pages; 24 figures
+- 2026-09-25, **Fate of Bouncing Singularities at Finite $G_N$**, Zohar Komargodski, Paper: [https://arxiv.org/abs/2609.31309](https://arxiv.org/abs/2609.31309), 11 pages, 4 figures
+- 2026-09-25, **Conformal correlator systems**, Sylvain Ribault, Paper: [https://arxiv.org/abs/2609.31237](https://arxiv.org/abs/2609.31237), 24 pages
+- 2026-09-25, **Rydberg-Atom-Mediated Strong Antisymmetric Spin Exchange in Molecular Arrays**, Yunqing Jiao, Jin-Zhu Jiang, Bo-Wen Guan, Jie Ma, Liantuan Xiao, Chi Zhang, Weibin Li, Feng Mei, Suotang Jia, Paper: [https://arxiv.org/abs/2609.31147](https://arxiv.org/abs/2609.31147)
+- 2026-09-25, **Positivity Rigidity for Grossman-Larson Characters and the Kingman Face of the Hoffman Rooted-Tree Graph**, Shengjun Zhang, Paper: [https://arxiv.org/abs/2609.31026](https://arxiv.org/abs/2609.31026), 26 pages, 2 figures
+- 2026-09-24, **Planar Contact Structures with Calabi-Yau Fillings and Topological Quantum Computation**, Atsuhide Mori, Paper: [https://arxiv.org/abs/2609.30406](https://arxiv.org/abs/2609.30406), 18 pages. Generative AI (ChatGPT, Claude) used for literature search and verification, checking elementary computations, and mathematical discussion; see the declaration before the references
+- 2026-09-24, **Rényi Phase Transitions and Analytic Continuation to the von Neumann Entropy**, Ayush Raj, Akash Vijay, Hong-Chen Jiang, Laimei Nie, Paper: [https://arxiv.org/abs/2609.30386](https://arxiv.org/abs/2609.30386), 30 pages, 13 figures
+- 2026-09-24, **Is the fractional Chern insulator-superconductor transition in twisted MoTe $_2$ direct?**, Tevž Lotrič, Steven H. Simon, Paper: [https://arxiv.org/abs/2609.30368](https://arxiv.org/abs/2609.30368)
 - 2026-09-24, **A quasisymmetric analog of Grassmannian Schubert varieties**, Teddy Gonzales, Tuong Le, Chayim Lowen, Paper: [https://arxiv.org/abs/2609.30257](https://arxiv.org/abs/2609.30257), 48 pages, 16 figures, comments are welcome
 - 2026-09-24, **Disorder-induced quantum Fisher information in topological quantum systems**, Advay Burte, Keshav Das Agarwal, Leela Ganesh Chandra Lakkaraju, Aditi Sen De, Paper: [https://arxiv.org/abs/2609.30142](https://arxiv.org/abs/2609.30142), 12 pages, 5 figures
 - 2026-09-24, **A computable wandering and tracelike vector for modular orbits in the Bergman space**, Luís Daniel Abreu, Paper: [https://arxiv.org/abs/2609.30014](https://arxiv.org/abs/2609.30014)
@@ -2148,5 +2158,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
