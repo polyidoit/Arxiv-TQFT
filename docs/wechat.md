@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-28, **Optimal Networks for Agentic Information Aggregation**, MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz, Shayan Taherijam, Paper: [https://arxiv.org/abs/2609.35537](https://arxiv.org/abs/2609.35537)
+- 2026-09-28, **Regge in Wonderland**, Alessio Miscioscia, Dmitrii Pavshinkin, Fedor K. Popov, Paper: [https://arxiv.org/abs/2609.35455](https://arxiv.org/abs/2609.35455), 28 pages+appendices, 3 Figures
+- 2026-09-28, **An integrated geometric quantification and shape analysis framework for axillary lymph node metastasis in breast cancer patients**, Zixi Yi, Limeng Qu, Gary P. T. Choi, Paper: [https://arxiv.org/abs/2609.35437](https://arxiv.org/abs/2609.35437)
+- 2026-09-28, **Holography for integrable field theories**, Kevin Costello, Joaquin Liniado, Paper: [https://arxiv.org/abs/2609.34909](https://arxiv.org/abs/2609.34909)
+- 2026-09-28, **Noncommutative Maximal Averages over Submanifolds and Variable Hypersurfaces**, Xudong Lai, Siyu Liu, Paper: [https://arxiv.org/abs/2609.34906](https://arxiv.org/abs/2609.34906), 82 pages
+- 2026-09-28, **Experimental Realization and Phase-Space Winding of a Topological Defect State in the Quantum Rabi Model**, Kyungmin Lee, Jiyong Kang, Sunkyu Yu, Jaehun You, Wonhyeong Choi, Taehyun Kim, Paper: [https://arxiv.org/abs/2609.34389](https://arxiv.org/abs/2609.34389)
+- 2026-09-27, **A Hopf Algebraic Theory of the Quantum Magnusian**, Li Guo, Joon-Hwi Kim, Jung-Wook Kim, Sungsoo Kim, Sangmin Lee, Jian-Rong Li, Paper: [https://arxiv.org/abs/2609.33587](https://arxiv.org/abs/2609.33587), 85 pages
+- 2026-09-27, **Kitaev-Heisenberg model on the square-hexagon-dodecagon lattice**, Saeed Barari, Yasir Iqbal, Ganapathy Baskaran, Saeed S. Jahromi, Chunxiao Liu, Julien Vidal, Paper: [https://arxiv.org/abs/2609.33454](https://arxiv.org/abs/2609.33454), 16 pages, 12 figures
+- 2026-09-27, **Inequivalent modular tensor categories with identical $S$, $T$ and $W$**, Ran Luo, Jiahua Tian, Paper: [https://arxiv.org/abs/2609.33231](https://arxiv.org/abs/2609.33231)
+- 2026-09-27, **PHL: Persistent Hyperdigraph Learning for Protein-Protein Binding Affinity Prediction**, Xingjian Xu, Chunmei Wang, Jiahui Chen, Paper: [https://arxiv.org/abs/2609.33122](https://arxiv.org/abs/2609.33122)
 - 2026-09-25, **Bootstrapping Holographic Theories in the Planar Limit**, Shai M. Chester, Daniele R. Pavarini, Alessandro Piazza, Paper: [https://arxiv.org/abs/2609.31576](https://arxiv.org/abs/2609.31576), 50 pages, 6 figures
 - 2026-09-25, **Sipser-Spielman meets Dijkgraaf-Witten: non-Abelian qLDPC codes via twisted sheaf gauge theory and almost-constant-overhead magic state fountain**, Guanyu Zhu, Shi Jie Samuel Tan, Ryohei Kobayashi, Po-Shen Hsin, Paper: [https://arxiv.org/abs/2609.31541](https://arxiv.org/abs/2609.31541), 66 pages + 15 figures
 - 2026-09-25, **Categorical spin-networks: state-sum invariants of 4-manifolds from higher-gauge theory**, Hank Chen, Zhian Jia, Ran Luo, Wei Cui, Paper: [https://arxiv.org/abs/2609.31365](https://arxiv.org/abs/2609.31365), 53 pages; 24 figures
