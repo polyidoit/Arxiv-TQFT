@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-09-30**|**Exact sequences of representation categories of weak Hopf algebras**|Quinn T. Kolt|[2609.40298](https://arxiv.org/abs/2609.40298)|null|
+|**2026-09-30**|**The classical limit of the Magnus expansion**|Andreas Brandhuber, Graham R. Brown, Sebastien MacDonald, Paolo Pichini, Gabriele Travaglini, Pablo Vives Matasan|[2609.40291](https://arxiv.org/abs/2609.40291)|null|
+|**2026-09-30**|**Self-testing the toric code against classical communication**|Gustavo Fróes, Amanda Wei, Carlos de Gois, Denis Rochette, Marc-Olivier Renou|[2609.40259](https://arxiv.org/abs/2609.40259)|null|
+|**2026-09-30**|**Connes-embeddability and twisted group von Neumann algebras**|Soham Chakraborty, Felipe Flores|[2609.40246](https://arxiv.org/abs/2609.40246)|null|
+|**2026-09-30**|**Many-body topology in parity-preserving tensor networks**|Maksimilian Usoltcev, Nguyen Hanh Dung, Carolin Wille, Matteo Rizzi, Alexander Altland|[2609.40004](https://arxiv.org/abs/2609.40004)|null|
+|**2026-09-30**|**Single-shot state preparation threshold: rigorous theorem and statistical mechanical mapping**|Yuanchen Zhao, Yi Yuan, Zhengyi Han, Dong E. Liu|[2609.39965](https://arxiv.org/abs/2609.39965)|null|
+|**2026-09-30**|**Distillation of N-Qubit Stabilizer States on a Star Network Topology**|Theodore M. Mahaffey, Chaohan Cui, Saikat Guha, Murphy Yuezhen Niu|[2609.39916](https://arxiv.org/abs/2609.39916)|null|
+|**2026-09-30**|**On a question of Jones on tracelike vectors, cusp forms, and von Neumann algebras**|Nikolaos Diamantis, Larry Rolen|[2609.39904](https://arxiv.org/abs/2609.39904)|null|
+|**2026-09-30**|**Characterization Results on Generalized Smash Biproduct Hopf Algebras over the Partial Dual Construction**|Kangqiao Li|[2609.39896](https://arxiv.org/abs/2609.39896)|null|
+|**2026-09-30**|**Fault Tolerant Quantum Phases of Matter**|Colin V. Coane, Shouzhen Gu, Aleksander Kubica|[2609.39879](https://arxiv.org/abs/2609.39879)|null|
 |**2026-09-28**|**Optimal Networks for Agentic Information Aggregation**|MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz, Shayan Taherijam|[2609.35537](https://arxiv.org/abs/2609.35537)|null|
 |**2026-09-28**|**Regge in Wonderland**|Alessio Miscioscia, Dmitrii Pavshinkin, Fedor K. Popov|[2609.35455](https://arxiv.org/abs/2609.35455)|null|
 |**2026-09-28**|**An integrated geometric quantification and shape analysis framework for axillary lymph node metastasis in breast cancer patients**|Zixi Yi, Limeng Qu, Gary P. T. Choi|[2609.35437](https://arxiv.org/abs/2609.35437)|null|

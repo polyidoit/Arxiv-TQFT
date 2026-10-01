@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-09-30, **Exact sequences of representation categories of weak Hopf algebras**, Quinn T. Kolt, Paper: [https://arxiv.org/abs/2609.40298](https://arxiv.org/abs/2609.40298), 34 pages, comments very appreciated
+- 2026-09-30, **The classical limit of the Magnus expansion**, Andreas Brandhuber, Graham R. Brown, Sebastien MacDonald, Paolo Pichini, Gabriele Travaglini, Pablo Vives Matasan, Paper: [https://arxiv.org/abs/2609.40291](https://arxiv.org/abs/2609.40291), 72 pages
+- 2026-09-30, **Self-testing the toric code against classical communication**, Gustavo Fróes, Amanda Wei, Carlos de Gois, Denis Rochette, Marc-Olivier Renou, Paper: [https://arxiv.org/abs/2609.40259](https://arxiv.org/abs/2609.40259)
+- 2026-09-30, **Connes-embeddability and twisted group von Neumann algebras**, Soham Chakraborty, Felipe Flores, Paper: [https://arxiv.org/abs/2609.40246](https://arxiv.org/abs/2609.40246), v1: 26 pages; comments welcome!
+- 2026-09-30, **Many-body topology in parity-preserving tensor networks**, Maksimilian Usoltcev, Nguyen Hanh Dung, Carolin Wille, Matteo Rizzi, Alexander Altland, Paper: [https://arxiv.org/abs/2609.40004](https://arxiv.org/abs/2609.40004), 23 pages (35 with appendix), 13 figures
+- 2026-09-30, **Single-shot state preparation threshold: rigorous theorem and statistical mechanical mapping**, Yuanchen Zhao, Yi Yuan, Zhengyi Han, Dong E. Liu, Paper: [https://arxiv.org/abs/2609.39965](https://arxiv.org/abs/2609.39965)
+- 2026-09-30, **Distillation of N-Qubit Stabilizer States on a Star Network Topology**, Theodore M. Mahaffey, Chaohan Cui, Saikat Guha, Murphy Yuezhen Niu, Paper: [https://arxiv.org/abs/2609.39916](https://arxiv.org/abs/2609.39916), 22 pages, 4 figures
+- 2026-09-30, **On a question of Jones on tracelike vectors, cusp forms, and von Neumann algebras**, Nikolaos Diamantis, Larry Rolen, Paper: [https://arxiv.org/abs/2609.39904](https://arxiv.org/abs/2609.39904), 13 pages, use of AI disclosed
+- 2026-09-30, **Characterization Results on Generalized Smash Biproduct Hopf Algebras over the Partial Dual Construction**, Kangqiao Li, Paper: [https://arxiv.org/abs/2609.39896](https://arxiv.org/abs/2609.39896), All comments are welcome
+- 2026-09-30, **Fault Tolerant Quantum Phases of Matter**, Colin V. Coane, Shouzhen Gu, Aleksander Kubica, Paper: [https://arxiv.org/abs/2609.39879](https://arxiv.org/abs/2609.39879), 24 + 24 pages, 8 figures
 - 2026-09-28, **Optimal Networks for Agentic Information Aggregation**, MohammadHossein Bateni, Zahra Hadizadeh, MohammadTaghi Hajiaghayi, Mahdi JafariRaviz, Shayan Taherijam, Paper: [https://arxiv.org/abs/2609.35537](https://arxiv.org/abs/2609.35537)
 - 2026-09-28, **Regge in Wonderland**, Alessio Miscioscia, Dmitrii Pavshinkin, Fedor K. Popov, Paper: [https://arxiv.org/abs/2609.35455](https://arxiv.org/abs/2609.35455), 28 pages+appendices, 3 Figures
 - 2026-09-28, **An integrated geometric quantification and shape analysis framework for axillary lymph node metastasis in breast cancer patients**, Zixi Yi, Limeng Qu, Gary P. T. Choi, Paper: [https://arxiv.org/abs/2609.35437](https://arxiv.org/abs/2609.35437)
