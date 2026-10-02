@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-01, **A Generalized quantum Stein lemma on von Neumann algebras**, Li Gao, Paper: [https://arxiv.org/abs/2610.02134](https://arxiv.org/abs/2610.02134), 11 pages
+- 2026-10-01, **A No-Go Theorem for Order-Two Clifford Electric-Magnetic Duality**, Shunta Takahashi, Zhi Li, Beni Yoshida, Paper: [https://arxiv.org/abs/2610.02097](https://arxiv.org/abs/2610.02097), 36 pages, many figures
+- 2026-10-01, **An Explicit Polynomial Counterexample to Connes' Embedding Conjecture**, Jiaqi Wang, Lihong Zhi, Paper: [https://arxiv.org/abs/2610.01536](https://arxiv.org/abs/2610.01536), 32 pages
+- 2026-10-01, **Parafermions in fractional Chern insulator-superconductor heterostructures: the role of spin polarization**, Aaron Amire, Paper: [https://arxiv.org/abs/2610.01486](https://arxiv.org/abs/2610.01486)
+- 2026-10-01, **Inverted Leakage Radiation Microscopy for measurement of nonreciprocity induced by a plasmonic metasurface with false chirality**, Ahmed Lafeef Ettapuram Naduvilepurayil, Sahil Sahoo, Yuri Gorodetski, Paper: [https://arxiv.org/abs/2610.01374](https://arxiv.org/abs/2610.01374), 19 Pages, 15 figures including Supplementary Materials, Surface Plasmons, False-Chirality, Nonreciprocity, Vortex
+- 2026-10-01, **A celestial viewpoint on infrared divergences in QCD**, Lorenzo Magnea, Enrico Zunino, Paper: [https://arxiv.org/abs/2610.01366](https://arxiv.org/abs/2610.01366), Proceedings of the conference QCD@Work 2026
+- 2026-10-01, **Work fluctuation speed limit in boundary conformal field theories**, Shihao Xia, Ahsan Nazir, Harry J. D. Miller, Paper: [https://arxiv.org/abs/2610.01248](https://arxiv.org/abs/2610.01248)
+- 2026-10-01, **Extreme points of the unit ball and isometries of noncommutative quasi-Banach Marcinkiewicz spaces**, Kai Fang, Yi Gao, Jinghao Huang, Fedor Sukochev, Paper: [https://arxiv.org/abs/2610.01043](https://arxiv.org/abs/2610.01043)
+- 2026-09-30, **Antipodal Self-Duality for Generalized Fishnets from Integrability**, Lance J. Dixon, Claude Duhr, Francesca C. Fernandes, Victor Mishnyakov, Paper: [https://arxiv.org/abs/2610.00803](https://arxiv.org/abs/2610.00803), 28 pages, 3 figures
+- 2026-09-30, **Conditioning on Subalgebras - Entropy Duality and Generalized Quantum Stein's Lemma in von Neumann Algebras**, Bjarne Bergh, Li Gao, Mizanur Rahaman, Paper: [https://arxiv.org/abs/2610.00772](https://arxiv.org/abs/2610.00772), 67 pages, no figures
 - 2026-09-30, **Exact sequences of representation categories of weak Hopf algebras**, Quinn T. Kolt, Paper: [https://arxiv.org/abs/2609.40298](https://arxiv.org/abs/2609.40298), 34 pages, comments very appreciated
 - 2026-09-30, **The classical limit of the Magnus expansion**, Andreas Brandhuber, Graham R. Brown, Sebastien MacDonald, Paolo Pichini, Gabriele Travaglini, Pablo Vives Matasan, Paper: [https://arxiv.org/abs/2609.40291](https://arxiv.org/abs/2609.40291), 72 pages
 - 2026-09-30, **Self-testing the toric code against classical communication**, Gustavo Fróes, Amanda Wei, Carlos de Gois, Denis Rochette, Marc-Olivier Renou, Paper: [https://arxiv.org/abs/2609.40259](https://arxiv.org/abs/2609.40259)

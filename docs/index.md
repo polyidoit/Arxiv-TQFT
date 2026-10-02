@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-10-01**|**A Generalized quantum Stein lemma on von Neumann algebras**|Li Gao|[2610.02134](https://arxiv.org/abs/2610.02134)|null|
+|**2026-10-01**|**A No-Go Theorem for Order-Two Clifford Electric-Magnetic Duality**|Shunta Takahashi, Zhi Li, Beni Yoshida|[2610.02097](https://arxiv.org/abs/2610.02097)|null|
+|**2026-10-01**|**An Explicit Polynomial Counterexample to Connes' Embedding Conjecture**|Jiaqi Wang, Lihong Zhi|[2610.01536](https://arxiv.org/abs/2610.01536)|null|
+|**2026-10-01**|**Parafermions in fractional Chern insulator-superconductor heterostructures: the role of spin polarization**|Aaron Amire|[2610.01486](https://arxiv.org/abs/2610.01486)|null|
+|**2026-10-01**|**Inverted Leakage Radiation Microscopy for measurement of nonreciprocity induced by a plasmonic metasurface with false chirality**|Ahmed Lafeef Ettapuram Naduvilepurayil, Sahil Sahoo, Yuri Gorodetski|[2610.01374](https://arxiv.org/abs/2610.01374)|null|
+|**2026-10-01**|**A celestial viewpoint on infrared divergences in QCD**|Lorenzo Magnea, Enrico Zunino|[2610.01366](https://arxiv.org/abs/2610.01366)|null|
+|**2026-10-01**|**Work fluctuation speed limit in boundary conformal field theories**|Shihao Xia, Ahsan Nazir, Harry J. D. Miller|[2610.01248](https://arxiv.org/abs/2610.01248)|null|
+|**2026-10-01**|**Extreme points of the unit ball and isometries of noncommutative quasi-Banach Marcinkiewicz spaces**|Kai Fang, Yi Gao, Jinghao Huang, Fedor Sukochev|[2610.01043](https://arxiv.org/abs/2610.01043)|null|
+|**2026-09-30**|**Antipodal Self-Duality for Generalized Fishnets from Integrability**|Lance J. Dixon, Claude Duhr, Francesca C. Fernandes, Victor Mishnyakov|[2610.00803](https://arxiv.org/abs/2610.00803)|null|
+|**2026-09-30**|**Conditioning on Subalgebras - Entropy Duality and Generalized Quantum Stein's Lemma in von Neumann Algebras**|Bjarne Bergh, Li Gao, Mizanur Rahaman|[2610.00772](https://arxiv.org/abs/2610.00772)|null|
 |**2026-09-30**|**Exact sequences of representation categories of weak Hopf algebras**|Quinn T. Kolt|[2609.40298](https://arxiv.org/abs/2609.40298)|null|
 |**2026-09-30**|**The classical limit of the Magnus expansion**|Andreas Brandhuber, Graham R. Brown, Sebastien MacDonald, Paolo Pichini, Gabriele Travaglini, Pablo Vives Matasan|[2609.40291](https://arxiv.org/abs/2609.40291)|null|
 |**2026-09-30**|**Self-testing the toric code against classical communication**|Gustavo Fróes, Amanda Wei, Carlos de Gois, Denis Rochette, Marc-Olivier Renou|[2609.40259](https://arxiv.org/abs/2609.40259)|null|
