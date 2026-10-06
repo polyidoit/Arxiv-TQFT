@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-10-05**|**Rewire and reset are all you need: Minimal resources for manipulating non-Abelions**|Chiu Fan Bowen Lo, Rohith Sajith, Anasuya Lyons, Ashvin Vishwanath, Ruben Verresen|[2610.06845](https://arxiv.org/abs/2610.06845)|null|
+|**2026-10-05**|**Engineering logical gates with irrep surface codes**|Yabo Li, Zijian Song, Vieri Mattei, Naren Manjunath, Apoorv Tiwari, Tyler D. Ellison|[2610.06775](https://arxiv.org/abs/2610.06775)|null|
+|**2026-10-05**|**Quantum integrals**|David P. Blecher, Louis E. Labuschagne|[2610.06771](https://arxiv.org/abs/2610.06771)|null|
+|**2026-10-05**|**Climbing the Fusion Tree: Center Ordering and Decoding Hierarchy in Non-Abelian Mixed States**|Pablo Sala, Vlad Temkin, Cenke Xu, Daniel Podolsky, Ehud Altman|[2610.06692](https://arxiv.org/abs/2610.06692)|null|
+|**2026-10-05**|**Noncommutative maximal inequalities for polynomial ergodic averages**|Guixiang Hong, Wenbo Li, Eric Ricard, Liang Wang|[2610.06455](https://arxiv.org/abs/2610.06455)|null|
+|**2026-10-05**|**Combinatorial twisted bialgebras and combinatorial twisted double bialgebras**|Lo{ï}c Foissy|[2610.06256](https://arxiv.org/abs/2610.06256)|null|
+|**2026-10-05**|**Interferometric braiding of non-Abelian anyons**|Francesco Debortoli, Fabian Grusdt|[2610.06203](https://arxiv.org/abs/2610.06203)|null|
+|**2026-10-05**|**Materialised symmetries of 2D translationally invariant codes**|Andrew Li, Stephen D. Bartlett, Andrew C. Doherty, Campbell K. McLauchlan|[2610.06036](https://arxiv.org/abs/2610.06036)|null|
+|**2026-10-05**|**Fusion-assisted decoding of non-Abelian topological order**|Rohith Sajith, Yabo Li, Zijian Song, Tsung-Cheng Lu, Carolyn Zhang|[2610.05901](https://arxiv.org/abs/2610.05901)|null|
+|**2026-10-05**|**An efficient Hamiltonian-based quantum algorithm for characters of the symmetric group**|Dikshant Rathore, Leo Zhou|[2610.05752](https://arxiv.org/abs/2610.05752)|null|
 |**2026-10-01**|**A Generalized quantum Stein lemma on von Neumann algebras**|Li Gao|[2610.02134](https://arxiv.org/abs/2610.02134)|null|
 |**2026-10-01**|**A No-Go Theorem for Order-Two Clifford Electric-Magnetic Duality**|Shunta Takahashi, Zhi Li, Beni Yoshida|[2610.02097](https://arxiv.org/abs/2610.02097)|null|
 |**2026-10-01**|**An Explicit Polynomial Counterexample to Connes' Embedding Conjecture**|Jiaqi Wang, Lihong Zhi|[2610.01536](https://arxiv.org/abs/2610.01536)|null|

@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-05, **Rewire and reset are all you need: Minimal resources for manipulating non-Abelions**, Chiu Fan Bowen Lo, Rohith Sajith, Anasuya Lyons, Ashvin Vishwanath, Ruben Verresen, Paper: [https://arxiv.org/abs/2610.06845](https://arxiv.org/abs/2610.06845), 20 pages; 58 pages total
+- 2026-10-05, **Engineering logical gates with irrep surface codes**, Yabo Li, Zijian Song, Vieri Mattei, Naren Manjunath, Apoorv Tiwari, Tyler D. Ellison, Paper: [https://arxiv.org/abs/2610.06775](https://arxiv.org/abs/2610.06775), 28+32 pages, 5+6 figures
+- 2026-10-05, **Quantum integrals**, David P. Blecher, Louis E. Labuschagne, Paper: [https://arxiv.org/abs/2610.06771](https://arxiv.org/abs/2610.06771)
+- 2026-10-05, **Climbing the Fusion Tree: Center Ordering and Decoding Hierarchy in Non-Abelian Mixed States**, Pablo Sala, Vlad Temkin, Cenke Xu, Daniel Podolsky, Ehud Altman, Paper: [https://arxiv.org/abs/2610.06692](https://arxiv.org/abs/2610.06692), 24 + 15 pages, 10 figures
+- 2026-10-05, **Noncommutative maximal inequalities for polynomial ergodic averages**, Guixiang Hong, Wenbo Li, Eric Ricard, Liang Wang, Paper: [https://arxiv.org/abs/2610.06455](https://arxiv.org/abs/2610.06455), 51pages
+- 2026-10-05, **Combinatorial twisted bialgebras and combinatorial twisted double bialgebras**, Lo{ï}c Foissy, Paper: [https://arxiv.org/abs/2610.06256](https://arxiv.org/abs/2610.06256)
+- 2026-10-05, **Interferometric braiding of non-Abelian anyons**, Francesco Debortoli, Fabian Grusdt, Paper: [https://arxiv.org/abs/2610.06203](https://arxiv.org/abs/2610.06203)
+- 2026-10-05, **Materialised symmetries of 2D translationally invariant codes**, Andrew Li, Stephen D. Bartlett, Andrew C. Doherty, Campbell K. McLauchlan, Paper: [https://arxiv.org/abs/2610.06036](https://arxiv.org/abs/2610.06036), 14 pages, 5 figures, 2 tables, comments welcome
+- 2026-10-05, **Fusion-assisted decoding of non-Abelian topological order**, Rohith Sajith, Yabo Li, Zijian Song, Tsung-Cheng Lu, Carolyn Zhang, Paper: [https://arxiv.org/abs/2610.05901](https://arxiv.org/abs/2610.05901), 29 + 32 pages, 16 + 1 figures
+- 2026-10-05, **An efficient Hamiltonian-based quantum algorithm for characters of the symmetric group**, Dikshant Rathore, Leo Zhou, Paper: [https://arxiv.org/abs/2610.05752](https://arxiv.org/abs/2610.05752), 54 pages, 8 figures
 - 2026-10-01, **A Generalized quantum Stein lemma on von Neumann algebras**, Li Gao, Paper: [https://arxiv.org/abs/2610.02134](https://arxiv.org/abs/2610.02134), 11 pages
 - 2026-10-01, **A No-Go Theorem for Order-Two Clifford Electric-Magnetic Duality**, Shunta Takahashi, Zhi Li, Beni Yoshida, Paper: [https://arxiv.org/abs/2610.02097](https://arxiv.org/abs/2610.02097), 36 pages, many figures
 - 2026-10-01, **An Explicit Polynomial Counterexample to Connes' Embedding Conjecture**, Jiaqi Wang, Lihong Zhi, Paper: [https://arxiv.org/abs/2610.01536](https://arxiv.org/abs/2610.01536), 32 pages
