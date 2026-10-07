@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-06, **Algebraic Tensor Network Renormalization and Holographic duality**, Chenqi Meng, Tian Lan, Zhengcheng Gu, Paper: [https://arxiv.org/abs/2610.08787](https://arxiv.org/abs/2610.08787), 82 pages, 18 figures
+- 2026-10-06, **Top coefficients of ADO invariants are Murasugi-sum multiplicative**, Daniel López Neumann, Roland van der Veen, Paper: [https://arxiv.org/abs/2610.08638](https://arxiv.org/abs/2610.08638), 30 pages
+- 2026-10-06, **Quasi-quantum groups arising from cotensor coquasi-Hopf algebras**, Jing Yu, Xiangjun Zhen, Paper: [https://arxiv.org/abs/2610.08361](https://arxiv.org/abs/2610.08361), 33 pages,comments welcome
+- 2026-10-06, **What a knot sees at a root of unity**, Ya. Kononov, A. Morozov, Paper: [https://arxiv.org/abs/2610.08242](https://arxiv.org/abs/2610.08242), 24 pages
+- 2026-10-06, **Conformal Anomalies and Generalised Energy Conservation in De Sitter Spacetime**, Zong-Zhe Du, Paper: [https://arxiv.org/abs/2610.08113](https://arxiv.org/abs/2610.08113)
+- 2026-10-06, **A noncommutative transfer principle**, Louis E Labuschagne, Claud Steyn, Paper: [https://arxiv.org/abs/2610.08032](https://arxiv.org/abs/2610.08032), 36 pages
+- 2026-10-06, **Spin-1 Bulk Local States in AdS/CFT and Carrollian Holography**, Peng-Xiang Hao, Kotaro Shinmyo, Kenta Suzuki, Yu-ki Suzuki, Shunta Takahashi, Paper: [https://arxiv.org/abs/2610.07548](https://arxiv.org/abs/2610.07548), 43 pages + appendix
+- 2026-10-05, **Gaussian free field with logarithmic singularities and reduced Green's energy**, Mingchang Liu, Titus Lupu, Hao Wu, Paper: [https://arxiv.org/abs/2610.07272](https://arxiv.org/abs/2610.07272), 30 pages, 2 figures
+- 2026-10-05, **Non-invertible SPT phases from fusion rings via Tannaka duality**, Antonio Santaniello, Roberto Valandro, Massimo Zorzenon, Paper: [https://arxiv.org/abs/2610.07165](https://arxiv.org/abs/2610.07165), 69 pages + appendices, 5 figures, Mathematica notebooks included as ancillary files
+- 2026-10-05, **Chiral Parafermions in Floquet $\mathbb{Z}_N$ Topological Order**, Melissa Will, Harald Schmid, Jan Egger, Adam Gammon-Smith, Michael Knap, Frank Pollmann, Paper: [https://arxiv.org/abs/2610.07156](https://arxiv.org/abs/2610.07156), 7+7 pages, 5+3 figures
 - 2026-10-05, **Rewire and reset are all you need: Minimal resources for manipulating non-Abelions**, Chiu Fan Bowen Lo, Rohith Sajith, Anasuya Lyons, Ashvin Vishwanath, Ruben Verresen, Paper: [https://arxiv.org/abs/2610.06845](https://arxiv.org/abs/2610.06845), 20 pages; 58 pages total
 - 2026-10-05, **Engineering logical gates with irrep surface codes**, Yabo Li, Zijian Song, Vieri Mattei, Naren Manjunath, Apoorv Tiwari, Tyler D. Ellison, Paper: [https://arxiv.org/abs/2610.06775](https://arxiv.org/abs/2610.06775), 28+32 pages, 5+6 figures
 - 2026-10-05, **Quantum integrals**, David P. Blecher, Louis E. Labuschagne, Paper: [https://arxiv.org/abs/2610.06771](https://arxiv.org/abs/2610.06771)
