@@ -2,6 +2,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-10-07**|**Black hole radial geometry from a quantum spin chain**|Boris A. Khanikati|[2610.10504](https://arxiv.org/abs/2610.10504)|null|
+|**2026-10-07**|**Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy**|Xinze Yang, Sandra Sajan, Maria N. Gastiasoro, Miguel M. Ugeda, Eduardo H. da Silva Neto|[2610.10255](https://arxiv.org/abs/2610.10255)|null|
+|**2026-10-07**|**A Superfluid at All Temperatures**|Sven Harder, Adar Sharon|[2610.10169](https://arxiv.org/abs/2610.10169)|null|
+|**2026-10-06**|**Zero Mode Operators and Charge-Conjugation Defects in Non-Abelian Fractional Quantum Hall-Superconductor Heterostructures**|Junyi Cao, Eduardo Fradkin|[2610.08907](https://arxiv.org/abs/2610.08907)|null|
 |**2026-10-06**|**Algebraic Tensor Network Renormalization and Holographic duality**|Chenqi Meng, Tian Lan, Zhengcheng Gu|[2610.08787](https://arxiv.org/abs/2610.08787)|null|
 |**2026-10-06**|**Top coefficients of ADO invariants are Murasugi-sum multiplicative**|Daniel López Neumann, Roland van der Veen|[2610.08638](https://arxiv.org/abs/2610.08638)|null|
 |**2026-10-06**|**Quasi-quantum groups arising from cotensor coquasi-Hopf algebras**|Jing Yu, Xiangjun Zhen|[2610.08361](https://arxiv.org/abs/2610.08361)|null|

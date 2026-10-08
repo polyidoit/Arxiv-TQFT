@@ -9,6 +9,10 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-07, **Black hole radial geometry from a quantum spin chain**, Boris A. Khanikati, Paper: [https://arxiv.org/abs/2610.10504](https://arxiv.org/abs/2610.10504), 10 pages, 2 figures
+- 2026-10-07, **Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy**, Xinze Yang, Sandra Sajan, Maria N. Gastiasoro, Miguel M. Ugeda, Eduardo H. da Silva Neto, Paper: [https://arxiv.org/abs/2610.10255](https://arxiv.org/abs/2610.10255)
+- 2026-10-07, **A Superfluid at All Temperatures**, Sven Harder, Adar Sharon, Paper: [https://arxiv.org/abs/2610.10169](https://arxiv.org/abs/2610.10169), 7 pages, 1 figure
+- 2026-10-06, **Zero Mode Operators and Charge-Conjugation Defects in Non-Abelian Fractional Quantum Hall-Superconductor Heterostructures**, Junyi Cao, Eduardo Fradkin, Paper: [https://arxiv.org/abs/2610.08907](https://arxiv.org/abs/2610.08907), 63 pages, 5 figures
 - 2026-10-06, **Algebraic Tensor Network Renormalization and Holographic duality**, Chenqi Meng, Tian Lan, Zhengcheng Gu, Paper: [https://arxiv.org/abs/2610.08787](https://arxiv.org/abs/2610.08787), 82 pages, 18 figures
 - 2026-10-06, **Top coefficients of ADO invariants are Murasugi-sum multiplicative**, Daniel López Neumann, Roland van der Veen, Paper: [https://arxiv.org/abs/2610.08638](https://arxiv.org/abs/2610.08638), 30 pages
 - 2026-10-06, **Quasi-quantum groups arising from cotensor coquasi-Hopf algebras**, Jing Yu, Xiangjun Zhen, Paper: [https://arxiv.org/abs/2610.08361](https://arxiv.org/abs/2610.08361), 33 pages,comments welcome
