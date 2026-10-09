@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-08, **Fiber product of condensable algebras and critical points of boundary phase transitions**, Hanlin Lin, Hao Zheng, Paper: [https://arxiv.org/abs/2610.12079](https://arxiv.org/abs/2610.12079)
+- 2026-10-08, **Banach non-isomorphism of type III and semifinite noncommutative $L_p$ -spaces**, Jinghao Huang, Fedor Sukochev, Paper: [https://arxiv.org/abs/2610.11055](https://arxiv.org/abs/2610.11055), work in progress
+- 2026-10-08, **Three-Point Trace Positivity:Schatten Norm Compression and Interpolating Metrics**, Trung Dung Vuong, Hiroyuki Osaka, Paper: [https://arxiv.org/abs/2610.11021](https://arxiv.org/abs/2610.11021), 33 pages
+- 2026-10-07, **Gauging Modulated Symmetries: Bond Algebras, Higher-Form Symmetries, and Symmetry-Enriched Topological Order**, Gustavo M. Yoshitome, Pedro R. S. Gomes, Guilherme Delfino, Paper: [https://arxiv.org/abs/2610.10764](https://arxiv.org/abs/2610.10764), 50 pages, 5 figures
+- 2026-10-07, **Generalised Gibbs Ensembles from the ODE/IM Correspondence: the Lee--Yang Model**, Sujay K. Ashok, Max Downing, Faisal Karimi, Adarsh Sudhakar, Roberto Tateo, Paper: [https://arxiv.org/abs/2610.10716](https://arxiv.org/abs/2610.10716), 53 pages, 3 figures
+- 2026-10-07, **Competing symmetry breaking and topology in quantum spin chains**, Anthony Rey, Ömer M. Aksoy, Claudio Chamon, Akira Furusaki, Christopher Mudry, Paper: [https://arxiv.org/abs/2610.10694](https://arxiv.org/abs/2610.10694), 97 pages, 37 figures
+- 2026-10-07, **SC $^\sharp$ : superconductivity intertwined with topological order**, Zhi-Qiang Gao, Yan-Qi Wang, Hui Yang, Zhaoyu Han, Ashvin Vishwanath, Paper: [https://arxiv.org/abs/2610.10679](https://arxiv.org/abs/2610.10679), 15+10 pages, 1+0 figures
+- 2026-10-07, **Theory of Topologically Ordered Superfluids in 2+1 Dimensions**, Chao-Ming Jian, Paper: [https://arxiv.org/abs/2610.10668](https://arxiv.org/abs/2610.10668), 12 pages, 1 figure
 - 2026-10-07, **Black hole radial geometry from a quantum spin chain**, Boris A. Khanikati, Paper: [https://arxiv.org/abs/2610.10504](https://arxiv.org/abs/2610.10504), 10 pages, 2 figures
 - 2026-10-07, **Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy**, Xinze Yang, Sandra Sajan, Maria N. Gastiasoro, Miguel M. Ugeda, Eduardo H. da Silva Neto, Paper: [https://arxiv.org/abs/2610.10255](https://arxiv.org/abs/2610.10255)
 - 2026-10-07, **A Superfluid at All Temperatures**, Sven Harder, Adar Sharon, Paper: [https://arxiv.org/abs/2610.10169](https://arxiv.org/abs/2610.10169), 7 pages, 1 figure

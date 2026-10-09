@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Fiber product of condensable algebras and critical points of boundary phase transitions**|Hanlin Lin, Hao Zheng|[2610.12079](https://arxiv.org/abs/2610.12079)|null|
+|**2026-10-08**|**Banach non-isomorphism of type III and semifinite noncommutative $L_p$ -spaces**|Jinghao Huang, Fedor Sukochev|[2610.11055](https://arxiv.org/abs/2610.11055)|null|
+|**2026-10-08**|**Three-Point Trace Positivity:Schatten Norm Compression and Interpolating Metrics**|Trung Dung Vuong, Hiroyuki Osaka|[2610.11021](https://arxiv.org/abs/2610.11021)|null|
+|**2026-10-07**|**Gauging Modulated Symmetries: Bond Algebras, Higher-Form Symmetries, and Symmetry-Enriched Topological Order**|Gustavo M. Yoshitome, Pedro R. S. Gomes, Guilherme Delfino|[2610.10764](https://arxiv.org/abs/2610.10764)|null|
+|**2026-10-07**|**Generalised Gibbs Ensembles from the ODE/IM Correspondence: the Lee--Yang Model**|Sujay K. Ashok, Max Downing, Faisal Karimi, Adarsh Sudhakar, Roberto Tateo|[2610.10716](https://arxiv.org/abs/2610.10716)|null|
+|**2026-10-07**|**Competing symmetry breaking and topology in quantum spin chains**|Anthony Rey, Ömer M. Aksoy, Claudio Chamon, Akira Furusaki, Christopher Mudry|[2610.10694](https://arxiv.org/abs/2610.10694)|null|
+|**2026-10-07**|**SC $^\sharp$ : superconductivity intertwined with topological order**|Zhi-Qiang Gao, Yan-Qi Wang, Hui Yang, Zhaoyu Han, Ashvin Vishwanath|[2610.10679](https://arxiv.org/abs/2610.10679)|null|
+|**2026-10-07**|**Theory of Topologically Ordered Superfluids in 2+1 Dimensions**|Chao-Ming Jian|[2610.10668](https://arxiv.org/abs/2610.10668)|null|
 |**2026-10-07**|**Black hole radial geometry from a quantum spin chain**|Boris A. Khanikati|[2610.10504](https://arxiv.org/abs/2610.10504)|null|
 |**2026-10-07**|**Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy**|Xinze Yang, Sandra Sajan, Maria N. Gastiasoro, Miguel M. Ugeda, Eduardo H. da Silva Neto|[2610.10255](https://arxiv.org/abs/2610.10255)|null|
 |**2026-10-07**|**A Superfluid at All Temperatures**|Sven Harder, Adar Sharon|[2610.10169](https://arxiv.org/abs/2610.10169)|null|
