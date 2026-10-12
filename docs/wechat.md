@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-09, **Replica Transition at Measurement-Altered Ising Criticality**, Kabir Khanna, Sara Murciano, Romain Vasseur, Paper: [https://arxiv.org/abs/2610.13802](https://arxiv.org/abs/2610.13802), 22 pages, 2 figures
+- 2026-10-09, **Critical Ising model as the $M(4,3)$ minimal model of conformal field theory**, Dmitry Chelkak, Konstantin Izyurov, Kalle Kytölä, Paper: [https://arxiv.org/abs/2610.13705](https://arxiv.org/abs/2610.13705), 50 pages
+- 2026-10-09, **The Stone-Wales trefoil: a new topological defect in graphene**, M. V. Kondrin, Y. B. Lebed, V. V. Brazhkin, Paper: [https://arxiv.org/abs/2610.13410](https://arxiv.org/abs/2610.13410)
+- 2026-10-09, **Haar measure for totally positive split real semisimple quantum groups of classical type**, Kenny De Commer, Geoffrey Janssens, Wannes Malfait, Paper: [https://arxiv.org/abs/2610.13213](https://arxiv.org/abs/2610.13213), 52 pages
+- 2026-10-08, **Spectral optimization of spherical lattices and applications to classical and quantum interacting spin systems**, Jonas Völler, Grigorios Makris, Fabian Hassler, Stefan Wessel, Paper: [https://arxiv.org/abs/2610.12663](https://arxiv.org/abs/2610.12663), 30 pages, 18 figures, Submission to SciPost
+- 2026-10-08, **Dissipative Majorana Chain---Anomalies and Non-Invertible Symmetries**, Hung-Hsuan Teh, Tokiro Numasawa, Paper: [https://arxiv.org/abs/2610.12607](https://arxiv.org/abs/2610.12607), 43 pages
 - 2026-10-08, **Fiber product of condensable algebras and critical points of boundary phase transitions**, Hanlin Lin, Hao Zheng, Paper: [https://arxiv.org/abs/2610.12079](https://arxiv.org/abs/2610.12079)
 - 2026-10-08, **Banach non-isomorphism of type III and semifinite noncommutative $L_p$ -spaces**, Jinghao Huang, Fedor Sukochev, Paper: [https://arxiv.org/abs/2610.11055](https://arxiv.org/abs/2610.11055), work in progress
 - 2026-10-08, **Three-Point Trace Positivity:Schatten Norm Compression and Interpolating Metrics**, Trung Dung Vuong, Hiroyuki Osaka, Paper: [https://arxiv.org/abs/2610.11021](https://arxiv.org/abs/2610.11021), 33 pages
