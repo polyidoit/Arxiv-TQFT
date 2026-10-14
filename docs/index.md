@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-10-13**|**Single anyons and anyon binding in a quantum Hall dot**|Marco Valentini, Will Wang, Amir Shapour Mohammadi, Noah Samuelson, Chengxuan Li, Liam Cohen, Mark Zakharyan, Jiechao Feng, Taige Wang, Takashi Taniguchi, Kenji Watanabe, Michael P. Zaletel, Andrea F. Young|[2610.18817](https://arxiv.org/abs/2610.18817)|null|
+|**2026-10-13**|**Non-Hermitian Statistical Geometry**|Xi Hu, Yan-Qiong Ma, Su-Peng Kou|[2610.18175](https://arxiv.org/abs/2610.18175)|null|
+|**2026-10-13**|**The $2$-co-lacunary subsequence principle for arbitrary noncommutative $L_1$ -spaces**|Jinghao Huang, Yunpeng Zhu|[2610.18008](https://arxiv.org/abs/2610.18008)|null|
+|**2026-10-13**|**Observation of stacked vortex structure with number controllable Majorana zero mode in Bi $_{2}$Te$_{3}$ /FeTe heterojunction**|Xinru Han, Zhaokun Luo, Quanxin Hu, Xingjian Zhu, Xiaohong Pan, Dan Mu, Xinyu Liang, Zulin Xu, Qiheng Wang, Ryan L. Kong, Mingyuan Li, Zhengliang Zhang, Fazhi Yang, Mojun Pan, Xin Liu, Qiangqiang Gu, Baiqing Lv, Gan Wang, Hong Ding|[2610.17701](https://arxiv.org/abs/2610.17701)|null|
+|**2026-10-12**|**Model theory of quasitracial $\mathrm{AW}^*$ -algebras and the absoluteness of monotone completeness**|Jananan Arulseelan|[2610.17435](https://arxiv.org/abs/2610.17435)|null|
+|**2026-10-12**|**A characterization of central extensions relative to n-nilpotent objects**|Marino Gran, James R. A. Gray|[2610.17389](https://arxiv.org/abs/2610.17389)|null|
+|**2026-10-12**|**Asymptotic analysis of the confluent Dotsenko-Fateev system**|Shunya Adachi|[2610.16970](https://arxiv.org/abs/2610.16970)|null|
+|**2026-10-12**|**Mutual information across the commensurate--incommensurate crossover and near the Kosterlitz--Thouless point of the spin- $\tfrac12$ $J_1$--$J_2$ Heisenberg chain**|Wuttichai Pankeaw, Pruet Kalasuwan|[2610.16915](https://arxiv.org/abs/2610.16915)|null|
+|**2026-10-12**|**Finite noncommutative coinvariant algebras**|Farid Aliniaeifard, Nantel Bergeron, Huilan Li, Shu Xiao Li|[2610.16873](https://arxiv.org/abs/2610.16873)|null|
+|**2026-10-12**|**Universal Varieties for Signatures of Membranes**|Carlos Améndola, Gabriel Riffo, Leonard Schmitz|[2610.16724](https://arxiv.org/abs/2610.16724)|null|
 |**2026-10-09**|**Replica Transition at Measurement-Altered Ising Criticality**|Kabir Khanna, Sara Murciano, Romain Vasseur|[2610.13802](https://arxiv.org/abs/2610.13802)|null|
 |**2026-10-09**|**Critical Ising model as the $M(4,3)$ minimal model of conformal field theory**|Dmitry Chelkak, Konstantin Izyurov, Kalle Kytölä|[2610.13705](https://arxiv.org/abs/2610.13705)|null|
 |**2026-10-09**|**The Stone-Wales trefoil: a new topological defect in graphene**|M. V. Kondrin, Y. B. Lebed, V. V. Brazhkin|[2610.13410](https://arxiv.org/abs/2610.13410)|null|
