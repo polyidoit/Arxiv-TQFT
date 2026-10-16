@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-10-15**|**Segal's semigroup, Virasoro structure, and Ward identities in Compactified Imaginary Liouville Theory**|Yang Xiao, Yuxiao Xie|[2610.22170](https://arxiv.org/abs/2610.22170)|null|
+|**2026-10-15**|**Double affine Frobenius Hecke algebras**|Niccolò Mattarei|[2610.22156](https://arxiv.org/abs/2610.22156)|null|
+|**2026-10-15**|**Twist-controlled thermodynamic anomalies in bilayer q-state clock models**|Ze-Heng Yu, Liang He|[2610.21949](https://arxiv.org/abs/2610.21949)|null|
+|**2026-10-15**|**Operator space theory from the maximal viewpoint**|Gilles Pisier, Jean Roydor|[2610.21929](https://arxiv.org/abs/2610.21929)|null|
+|**2026-10-15**|**Non-Invertible Froggatt-Nielsen Symmetry**|Hajime Otsuka, Ryo Yokokura|[2610.21688](https://arxiv.org/abs/2610.21688)|null|
+|**2026-10-15**|**Characterisations for coarse embeddability via quasi-locality and Schur multipliers**|Kang Li, Jiawen Zhang, Jingming Zhu|[2610.21632](https://arxiv.org/abs/2610.21632)|null|
+|**2026-10-15**|**Difference between pair creation and anomaly matching: Nontrivial aspects of invertible symmetries and defects in $SU(N)$ models**|Yoshiki Fukusumi, Shuma Nakashiba|[2610.21478](https://arxiv.org/abs/2610.21478)|null|
+|**2026-10-15**|**Thermodynamic-limit bootstrap: Solving fractional quantum Hall ground states**|Qiang Gao, Taige Wang|[2610.21317](https://arxiv.org/abs/2610.21317)|null|
+|**2026-10-15**|**A universal framework for Hopf algebras in combinatorics**|Farid Aliniaeifard, Stephanie van Willigenburg|[2610.21289](https://arxiv.org/abs/2610.21289)|null|
+|**2026-10-14**|**Skew fields of non-commutative meromorphic functions affiliated to finite operator algebras**|Méric L. Augat, Robert T. W. Martin, Maximilian Tornes, Eli Shamovich|[2610.21004](https://arxiv.org/abs/2610.21004)|null|
 |**2026-10-13**|**Single anyons and anyon binding in a quantum Hall dot**|Marco Valentini, Will Wang, Amir Shapour Mohammadi, Noah Samuelson, Chengxuan Li, Liam Cohen, Mark Zakharyan, Jiechao Feng, Taige Wang, Takashi Taniguchi, Kenji Watanabe, Michael P. Zaletel, Andrea F. Young|[2610.18817](https://arxiv.org/abs/2610.18817)|null|
 |**2026-10-13**|**Non-Hermitian Statistical Geometry**|Xi Hu, Yan-Qiong Ma, Su-Peng Kou|[2610.18175](https://arxiv.org/abs/2610.18175)|null|
 |**2026-10-13**|**The $2$-co-lacunary subsequence principle for arbitrary noncommutative $L_1$ -spaces**|Jinghao Huang, Yunpeng Zhu|[2610.18008](https://arxiv.org/abs/2610.18008)|null|
