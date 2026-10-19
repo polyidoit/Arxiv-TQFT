@@ -2,6 +2,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-10-16**|**A Topological Quantum Field Theory for Representation Varieties of Torus Links**|Enrique Aycart-Maldonado, Alejandro Calleja|[2610.23644](https://arxiv.org/abs/2610.23644)|null|
+|**2026-10-16**|**Holographic two-point functions across a PT symmetry-breaking transition**|Zuo Wang, Liang He|[2610.23580](https://arxiv.org/abs/2610.23580)|null|
+|**2026-10-16**|**Renormalization Group Domain Walls from Phantom Symmetries**|Jin Chen|[2610.23529](https://arxiv.org/abs/2610.23529)|null|
+|**2026-10-16**|**Timelike entanglement entropy with gravitational anomaly from complexified geometry**|Minwoo Lim, Himanshu Parihar, Junggi Yoon|[2610.23514](https://arxiv.org/abs/2610.23514)|null|
+|**2026-10-16**|**Topological Defects in Cosmic Shear**|Jiachen Bai, Benjamin Giblin, Andy Taylor|[2610.23401](https://arxiv.org/abs/2610.23401)|null|
+|**2026-10-16**|**Quasi-derivations of the (extended) Schrödinger--Witt algebras**|Ivan Kaygorodov, Abror Khudoyberdiyev, Zarina Shermatova|[2610.23382](https://arxiv.org/abs/2610.23382)|null|
+|**2026-10-16**|**Liouvillian Non-Invertible Symmetry**|Ying-Cheng Yang, Jhen-Dong Lin, Yueh-Nan Chen|[2610.23111](https://arxiv.org/abs/2610.23111)|null|
+|**2026-10-15**|**Topological Aspects of the $c=2$ Model in the Continuum and on the Lattice**|Yichul Choi, Nathan Seiberg, Sahand Seifnashri, Wucheng Zhang|[2610.22485](https://arxiv.org/abs/2610.22485)|null|
 |**2026-10-15**|**Segal's semigroup, Virasoro structure, and Ward identities in Compactified Imaginary Liouville Theory**|Yang Xiao, Yuxiao Xie|[2610.22170](https://arxiv.org/abs/2610.22170)|null|
 |**2026-10-15**|**Double affine Frobenius Hecke algebras**|Niccolò Mattarei|[2610.22156](https://arxiv.org/abs/2610.22156)|null|
 |**2026-10-15**|**Twist-controlled thermodynamic anomalies in bilayer q-state clock models**|Ze-Heng Yu, Liang He|[2610.21949](https://arxiv.org/abs/2610.21949)|null|
