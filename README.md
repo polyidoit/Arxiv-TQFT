@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**On Higher-Form Fracton Hydrodynamics with Momentum Conservation**|Ben Bobell, Rahul Nandkishore, Andrew Lucas|[2610.26862](https://arxiv.org/abs/2610.26862)|null|
+|**2026-10-19**|**Field theory guides Monte Carlo in the one-dimensional long-range Ising model**|António Antunes, José Matos|[2610.26838](https://arxiv.org/abs/2610.26838)|null|
+|**2026-10-19**|**Froggatt-Nielsen mechanism with non-invertible symmetry**|Gui-Jun Ding, Stephen F. King, Bu-Yao Qu|[2610.26761](https://arxiv.org/abs/2610.26761)|null|
+|**2026-10-19**|**Large-Level Limit of Doubled Chern-Simons Theory Part I: Regular Sector, Boundaries and Interfaces**|Shengyi Guan, Qiang Jia, Jiahua Tian, Yi-Nan Wang|[2610.26735](https://arxiv.org/abs/2610.26735)|null|
+|**2026-10-19**|**On Integrable Deformations of CFTs and Integrable Two-Dimensional Sigma Models**|Mikhail Alfimov|[2610.26672](https://arxiv.org/abs/2610.26672)|null|
+|**2026-10-19**|**Local Measurement Theory for Quantum Cellular Automata**|Tommaso Brambilla, Alessandro Tosini, Paolo Perinotti|[2610.26587](https://arxiv.org/abs/2610.26587)|null|
+|**2026-10-19**|**Exploring ground state phase diagrams of Rydberg atom arrays with finite projected entangled-pair states**|Konrad Schröder, Erik Lennart Weerda, Matteo Rizzi|[2610.26520](https://arxiv.org/abs/2610.26520)|null|
+|**2026-10-19**|**Higher-Dimensional Test of the Holographic Dual of Entanglement Cohomology**|R. ~C. ~Rashkov|[2610.25969](https://arxiv.org/abs/2610.25969)|null|
+|**2026-10-19**|**Ferroelastic domain wall driven glassy dynamics and photoresponse in a SrTiO $_3$ (111) two-dimensional electron gas**|Jyotirmay Maity, Manav Beniwal, Pranab Hazra, Sumit Tomar, Srimanta Middey|[2610.25943](https://arxiv.org/abs/2610.25943)|null|
+|**2026-10-19**|**The long-range Ising CFT: perturbative and nonperturbative approaches**|Zechuan Zheng|[2610.25940](https://arxiv.org/abs/2610.25940)|null|
 |**2026-10-16**|**A Topological Quantum Field Theory for Representation Varieties of Torus Links**|Enrique Aycart-Maldonado, Alejandro Calleja|[2610.23644](https://arxiv.org/abs/2610.23644)|null|
 |**2026-10-16**|**Holographic two-point functions across a PT symmetry-breaking transition**|Zuo Wang, Liang He|[2610.23580](https://arxiv.org/abs/2610.23580)|null|
 |**2026-10-16**|**Renormalization Group Domain Walls from Phantom Symmetries**|Jin Chen|[2610.23529](https://arxiv.org/abs/2610.23529)|null|

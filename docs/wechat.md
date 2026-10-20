@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-19, **On Higher-Form Fracton Hydrodynamics with Momentum Conservation**, Ben Bobell, Rahul Nandkishore, Andrew Lucas, Paper: [https://arxiv.org/abs/2610.26862](https://arxiv.org/abs/2610.26862), 46 Pages, 1 Figure, 1 Table
+- 2026-10-19, **Field theory guides Monte Carlo in the one-dimensional long-range Ising model**, António Antunes, José Matos, Paper: [https://arxiv.org/abs/2610.26838](https://arxiv.org/abs/2610.26838), 37 pages, 17 figures
+- 2026-10-19, **Froggatt-Nielsen mechanism with non-invertible symmetry**, Gui-Jun Ding, Stephen F. King, Bu-Yao Qu, Paper: [https://arxiv.org/abs/2610.26761](https://arxiv.org/abs/2610.26761), 36 pages, 7 figures
+- 2026-10-19, **Large-Level Limit of Doubled Chern-Simons Theory Part I: Regular Sector, Boundaries and Interfaces**, Shengyi Guan, Qiang Jia, Jiahua Tian, Yi-Nan Wang, Paper: [https://arxiv.org/abs/2610.26735](https://arxiv.org/abs/2610.26735), 85 pages, 1 figure
+- 2026-10-19, **On Integrable Deformations of CFTs and Integrable Two-Dimensional Sigma Models**, Mikhail Alfimov, Paper: [https://arxiv.org/abs/2610.26672](https://arxiv.org/abs/2610.26672), 24 pages, 37 figures
+- 2026-10-19, **Local Measurement Theory for Quantum Cellular Automata**, Tommaso Brambilla, Alessandro Tosini, Paolo Perinotti, Paper: [https://arxiv.org/abs/2610.26587](https://arxiv.org/abs/2610.26587), 23 pages, revTex4
+- 2026-10-19, **Exploring ground state phase diagrams of Rydberg atom arrays with finite projected entangled-pair states**, Konrad Schröder, Erik Lennart Weerda, Matteo Rizzi, Paper: [https://arxiv.org/abs/2610.26520](https://arxiv.org/abs/2610.26520)
+- 2026-10-19, **Higher-Dimensional Test of the Holographic Dual of Entanglement Cohomology**, R. ~C. ~Rashkov, Paper: [https://arxiv.org/abs/2610.25969](https://arxiv.org/abs/2610.25969), Letter, 4 pages, companion paper arXiv:2609.17195 v3
+- 2026-10-19, **Ferroelastic domain wall driven glassy dynamics and photoresponse in a SrTiO $_3$ (111) two-dimensional electron gas**, Jyotirmay Maity, Manav Beniwal, Pranab Hazra, Sumit Tomar, Srimanta Middey, Paper: [https://arxiv.org/abs/2610.25943](https://arxiv.org/abs/2610.25943), 21 pages, 5 figures
+- 2026-10-19, **The long-range Ising CFT: perturbative and nonperturbative approaches**, Zechuan Zheng, Paper: [https://arxiv.org/abs/2610.25940](https://arxiv.org/abs/2610.25940), 24 pages, 3 figures, 7 tables; Supplemental Material and code at https://github.com/Canonical111/LRI_public
 - 2026-10-16, **A Topological Quantum Field Theory for Representation Varieties of Torus Links**, Enrique Aycart-Maldonado, Alejandro Calleja, Paper: [https://arxiv.org/abs/2610.23644](https://arxiv.org/abs/2610.23644), 32 pages, 5 figures. Comments are welcome
 - 2026-10-16, **Holographic two-point functions across a PT symmetry-breaking transition**, Zuo Wang, Liang He, Paper: [https://arxiv.org/abs/2610.23580](https://arxiv.org/abs/2610.23580), 27 pages, 3 figures
 - 2026-10-16, **Renormalization Group Domain Walls from Phantom Symmetries**, Jin Chen, Paper: [https://arxiv.org/abs/2610.23529](https://arxiv.org/abs/2610.23529), 53 pages+2 app, 9 figures
