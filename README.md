@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Random $C^*$ -subalgebras**|Pierre Fima, Hanna Oppelmayer, Leyan Tao|[2610.28295](https://arxiv.org/abs/2610.28295)|null|
+|**2026-10-20**|**$\mathbb{Z}_3$ and $S_3$ gaugings of $\mathbb{Z}_N\times\mathbb{Z}'_N$ non-invertible symmetries: quark texture zeros and phenomenology**|Zheng Jiang, Bu-Yao Qu, Gui-Jun Ding|[2610.28267](https://arxiv.org/abs/2610.28267)|null|
+|**2026-10-20**|**Proliferation Transitions for Quantum Doubles of Groups**|Yuhan Gai, Sakura Schafer-Nameki|[2610.28253](https://arxiv.org/abs/2610.28253)|null|
+|**2026-10-20**|**Field theories and critical excitations at anyon condensation transitions**|Luisa Eck, Xie Chen|[2610.28148](https://arxiv.org/abs/2610.28148)|null|
+|**2026-10-20**|**Real Nullstellensatz for nilpotent Lie algebras**|Philipp Schmitt, Matthias Schötz|[2610.28113](https://arxiv.org/abs/2610.28113)|null|
+|**2026-10-20**|**Local-Channel Stability of Classical $\mathbb Z_2$ Lattice Gauge Models**|Guanxi Xun, Weiguang Cao, Haruki Watanabe|[2610.27939](https://arxiv.org/abs/2610.27939)|null|
+|**2026-10-20**|**Stabilizer Rényi moments beyond entanglement**|Vishnu Jejjala, Joydeep Naskar|[2610.27596](https://arxiv.org/abs/2610.27596)|null|
+|**2026-10-19**|**Structure and Dynamics of Defects in Two-Dimensional Nematic Liquid Crystals**|Cody D. Schimming, Daniel A. Beller|[2610.27278](https://arxiv.org/abs/2610.27278)|null|
 |**2026-10-19**|**On Higher-Form Fracton Hydrodynamics with Momentum Conservation**|Ben Bobell, Rahul Nandkishore, Andrew Lucas|[2610.26862](https://arxiv.org/abs/2610.26862)|null|
 |**2026-10-19**|**Field theory guides Monte Carlo in the one-dimensional long-range Ising model**|António Antunes, José Matos|[2610.26838](https://arxiv.org/abs/2610.26838)|null|
 |**2026-10-19**|**Froggatt-Nielsen mechanism with non-invertible symmetry**|Gui-Jun Ding, Stephen F. King, Bu-Yao Qu|[2610.26761](https://arxiv.org/abs/2610.26761)|null|

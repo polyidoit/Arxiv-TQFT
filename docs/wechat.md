@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-20, **Random $C^*$ -subalgebras**, Pierre Fima, Hanna Oppelmayer, Leyan Tao, Paper: [https://arxiv.org/abs/2610.28295](https://arxiv.org/abs/2610.28295)
+- 2026-10-20, **$\mathbb{Z}_3$ and $S_3$ gaugings of $\mathbb{Z}_N\times\mathbb{Z}'_N$ non-invertible symmetries: quark texture zeros and phenomenology**, Zheng Jiang, Bu-Yao Qu, Gui-Jun Ding, Paper: [https://arxiv.org/abs/2610.28267](https://arxiv.org/abs/2610.28267), 41 pages, 1 figure
+- 2026-10-20, **Proliferation Transitions for Quantum Doubles of Groups**, Yuhan Gai, Sakura Schafer-Nameki, Paper: [https://arxiv.org/abs/2610.28253](https://arxiv.org/abs/2610.28253), 19 pages + appendices
+- 2026-10-20, **Field theories and critical excitations at anyon condensation transitions**, Luisa Eck, Xie Chen, Paper: [https://arxiv.org/abs/2610.28148](https://arxiv.org/abs/2610.28148)
+- 2026-10-20, **Real Nullstellensatz for nilpotent Lie algebras**, Philipp Schmitt, Matthias Schötz, Paper: [https://arxiv.org/abs/2610.28113](https://arxiv.org/abs/2610.28113), 34 pages
+- 2026-10-20, **Local-Channel Stability of Classical $\mathbb Z_2$ Lattice Gauge Models**, Guanxi Xun, Weiguang Cao, Haruki Watanabe, Paper: [https://arxiv.org/abs/2610.27939](https://arxiv.org/abs/2610.27939), 15+19 pages, 6 figures
+- 2026-10-20, **Stabilizer Rényi moments beyond entanglement**, Vishnu Jejjala, Joydeep Naskar, Paper: [https://arxiv.org/abs/2610.27596](https://arxiv.org/abs/2610.27596), 24 pages, 4 figures + appendices + codes
+- 2026-10-19, **Structure and Dynamics of Defects in Two-Dimensional Nematic Liquid Crystals**, Cody D. Schimming, Daniel A. Beller, Paper: [https://arxiv.org/abs/2610.27278](https://arxiv.org/abs/2610.27278), 28 pages, 16 figures
 - 2026-10-19, **On Higher-Form Fracton Hydrodynamics with Momentum Conservation**, Ben Bobell, Rahul Nandkishore, Andrew Lucas, Paper: [https://arxiv.org/abs/2610.26862](https://arxiv.org/abs/2610.26862), 46 Pages, 1 Figure, 1 Table
 - 2026-10-19, **Field theory guides Monte Carlo in the one-dimensional long-range Ising model**, António Antunes, José Matos, Paper: [https://arxiv.org/abs/2610.26838](https://arxiv.org/abs/2610.26838), 37 pages, 17 figures
 - 2026-10-19, **Froggatt-Nielsen mechanism with non-invertible symmetry**, Gui-Jun Ding, Stephen F. King, Bu-Yao Qu, Paper: [https://arxiv.org/abs/2610.26761](https://arxiv.org/abs/2610.26761), 36 pages, 7 figures
