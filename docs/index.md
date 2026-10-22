@@ -1,7 +1,13 @@
-> Automatically updated on 2026.10.21
+> Automatically updated on 2026.10.22
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-10-21**|**Stabilizing and detecting electron fractionalization in the Hofstadter-Hubbard model**|Jiahao Yang, Zeyu Han, Gang v. Chen|[2610.29916](https://arxiv.org/abs/2610.29916)|null|
+|**2026-10-21**|**Fermion Hierarchies from Fricke Modular Symmetry**|Takafumi Kai, Justin Kaidi, Katsumi Kina, Hajime Otsuka|[2610.29754](https://arxiv.org/abs/2610.29754)|null|
+|**2026-10-21**|**Extending Doi--Takeuchi correspondence to bimodules and noncommutative covers**|Zoran Škoda|[2610.29619](https://arxiv.org/abs/2610.29619)|null|
+|**2026-10-21**|**New matrix-weighted norm inequalities and extrapolation**|Guixiang Hong, Pengfei Yin|[2610.29118](https://arxiv.org/abs/2610.29118)|null|
+|**2026-10-20**|**"Massive" Conformal Field Theories and application to Nambu-Goto string**|Yuri Makeenko|[2610.28888](https://arxiv.org/abs/2610.28888)|null|
+|**2026-10-20**|**Twisted Correlators from Harmonic Superspace**|Dennis le Plat, Torben Skrzypek|[2610.28722](https://arxiv.org/abs/2610.28722)|null|
 |**2026-10-20**|**Random $C^*$ -subalgebras**|Pierre Fima, Hanna Oppelmayer, Leyan Tao|[2610.28295](https://arxiv.org/abs/2610.28295)|null|
 |**2026-10-20**|**$\mathbb{Z}_3$ and $S_3$ gaugings of $\mathbb{Z}_N\times\mathbb{Z}'_N$ non-invertible symmetries: quark texture zeros and phenomenology**|Zheng Jiang, Bu-Yao Qu, Gui-Jun Ding|[2610.28267](https://arxiv.org/abs/2610.28267)|null|
 |**2026-10-20**|**Proliferation Transitions for Quantum Doubles of Groups**|Yuhan Gai, Sakura Schafer-Nameki|[2610.28253](https://arxiv.org/abs/2610.28253)|null|

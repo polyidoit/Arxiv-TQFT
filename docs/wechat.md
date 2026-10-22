@@ -1,4 +1,4 @@
-> Automatically updated on 2026.10.21
+> Automatically updated on 2026.10.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,12 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-21, **Stabilizing and detecting electron fractionalization in the Hofstadter-Hubbard model**, Jiahao Yang, Zeyu Han, Gang v. Chen, Paper: [https://arxiv.org/abs/2610.29916](https://arxiv.org/abs/2610.29916), 14 pages, 7 figures
+- 2026-10-21, **Fermion Hierarchies from Fricke Modular Symmetry**, Takafumi Kai, Justin Kaidi, Katsumi Kina, Hajime Otsuka, Paper: [https://arxiv.org/abs/2610.29754](https://arxiv.org/abs/2610.29754), 30 pages
+- 2026-10-21, **Extending Doi--Takeuchi correspondence to bimodules and noncommutative covers**, Zoran Škoda, Paper: [https://arxiv.org/abs/2610.29619](https://arxiv.org/abs/2610.29619)
+- 2026-10-21, **New matrix-weighted norm inequalities and extrapolation**, Guixiang Hong, Pengfei Yin, Paper: [https://arxiv.org/abs/2610.29118](https://arxiv.org/abs/2610.29118), 27 pages
+- 2026-10-20, **"Massive" Conformal Field Theories and application to Nambu-Goto string**, Yuri Makeenko, Paper: [https://arxiv.org/abs/2610.28888](https://arxiv.org/abs/2610.28888), 16 pages, Talk at Irina Aref'eva Conference
+- 2026-10-20, **Twisted Correlators from Harmonic Superspace**, Dennis le Plat, Torben Skrzypek, Paper: [https://arxiv.org/abs/2610.28722](https://arxiv.org/abs/2610.28722), 9 pages, 10 figures
 - 2026-10-20, **Random $C^*$ -subalgebras**, Pierre Fima, Hanna Oppelmayer, Leyan Tao, Paper: [https://arxiv.org/abs/2610.28295](https://arxiv.org/abs/2610.28295)
 - 2026-10-20, **$\mathbb{Z}_3$ and $S_3$ gaugings of $\mathbb{Z}_N\times\mathbb{Z}'_N$ non-invertible symmetries: quark texture zeros and phenomenology**, Zheng Jiang, Bu-Yao Qu, Gui-Jun Ding, Paper: [https://arxiv.org/abs/2610.28267](https://arxiv.org/abs/2610.28267), 41 pages, 1 figure
 - 2026-10-20, **Proliferation Transitions for Quantum Doubles of Groups**, Yuhan Gai, Sakura Schafer-Nameki, Paper: [https://arxiv.org/abs/2610.28253](https://arxiv.org/abs/2610.28253), 19 pages + appendices
@@ -2272,5 +2278,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
