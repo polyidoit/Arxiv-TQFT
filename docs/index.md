@@ -1,7 +1,17 @@
-> Automatically updated on 2026.10.22
+> Automatically updated on 2026.10.23
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-10-22**|**Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory**|G. Bonelli, S. Lacroix, T. Pedroni, A. Tanzini|[2610.31672](https://arxiv.org/abs/2610.31672)|null|
+|**2026-10-22**|**On the direct SLE-martingale approach to the integrability of Conformal Loop Ensembles**|Jason Miller, Wendelin Werner|[2610.31648](https://arxiv.org/abs/2610.31648)|null|
+|**2026-10-22**|**Quantum gravity on the bulk cone**|Ahmed Almheiri, Matthew Dodelson, Zohar Komargodski|[2610.31610](https://arxiv.org/abs/2610.31610)|null|
+|**2026-10-22**|**Failure of noncommutative Rota's theorem with $L\log L$ endpoint**|Hiranmoy Ghorui, Suman Mondal, Samya Kumar Ray|[2610.31560](https://arxiv.org/abs/2610.31560)|null|
+|**2026-10-22**|**Monodromy Defects of 3D Wilson-Fisher Criticality on the Fuzzy Sphere**|Yin Tang, W. Zhu|[2610.31269](https://arxiv.org/abs/2610.31269)|null|
+|**2026-10-22**|**Quasinormal modes, complex null geodesics and singularity resolution in regular AdS black holes**|Heng-Yu Chen, Yasuaki Hikida, Yasutaka Koga|[2610.30915](https://arxiv.org/abs/2610.30915)|null|
+|**2026-10-21**|**TQFT gravity dual to the orbifold groupoid of Narain code CFTs over $\mathbb{Z}_4$**|Rajae Sammani, Abdellah Sebbar|[2610.30525](https://arxiv.org/abs/2610.30525)|null|
+|**2026-10-21**|**Discrete time liquids**|Zuo Wang, Paul M. Schindler, Marin Bukov, Marios H. Michael|[2610.30266](https://arxiv.org/abs/2610.30266)|null|
+|**2026-10-21**|**Maxwell-Chern-Simons-Matter in AdS $_3$**|Dean Carmi, Riccardo Ciccone|[2610.30260](https://arxiv.org/abs/2610.30260)|null|
+|**2026-10-21**|**Defect flows from functional relations in the asymptotic semiring**|Federico Ambrosino, Anatoly Konechny, Ingo Runkel, Gérard M. T. Watts|[2610.30242](https://arxiv.org/abs/2610.30242)|null|
 |**2026-10-21**|**Stabilizing and detecting electron fractionalization in the Hofstadter-Hubbard model**|Jiahao Yang, Zeyu Han, Gang v. Chen|[2610.29916](https://arxiv.org/abs/2610.29916)|null|
 |**2026-10-21**|**Fermion Hierarchies from Fricke Modular Symmetry**|Takafumi Kai, Justin Kaidi, Katsumi Kina, Hajime Otsuka|[2610.29754](https://arxiv.org/abs/2610.29754)|null|
 |**2026-10-21**|**Extending Doi--Takeuchi correspondence to bimodules and noncommutative covers**|Zoran Škoda|[2610.29619](https://arxiv.org/abs/2610.29619)|null|

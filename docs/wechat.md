@@ -1,4 +1,4 @@
-> Automatically updated on 2026.10.22
+> Automatically updated on 2026.10.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-22, **Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory**, G. Bonelli, S. Lacroix, T. Pedroni, A. Tanzini, Paper: [https://arxiv.org/abs/2610.31672](https://arxiv.org/abs/2610.31672), 7+5 pages, 1 figure
+- 2026-10-22, **On the direct SLE-martingale approach to the integrability of Conformal Loop Ensembles**, Jason Miller, Wendelin Werner, Paper: [https://arxiv.org/abs/2610.31648](https://arxiv.org/abs/2610.31648), Main text is 11 pages
+- 2026-10-22, **Quantum gravity on the bulk cone**, Ahmed Almheiri, Matthew Dodelson, Zohar Komargodski, Paper: [https://arxiv.org/abs/2610.31610](https://arxiv.org/abs/2610.31610)
+- 2026-10-22, **Failure of noncommutative Rota's theorem with $L\log L$ endpoint**, Hiranmoy Ghorui, Suman Mondal, Samya Kumar Ray, Paper: [https://arxiv.org/abs/2610.31560](https://arxiv.org/abs/2610.31560), 16 pages
+- 2026-10-22, **Monodromy Defects of 3D Wilson-Fisher Criticality on the Fuzzy Sphere**, Yin Tang, W. Zhu, Paper: [https://arxiv.org/abs/2610.31269](https://arxiv.org/abs/2610.31269), 11+8 pages
+- 2026-10-22, **Quasinormal modes, complex null geodesics and singularity resolution in regular AdS black holes**, Heng-Yu Chen, Yasuaki Hikida, Yasutaka Koga, Paper: [https://arxiv.org/abs/2610.30915](https://arxiv.org/abs/2610.30915), 52 pages, 13 figures
+- 2026-10-21, **TQFT gravity dual to the orbifold groupoid of Narain code CFTs over $\mathbb{Z}_4$**, Rajae Sammani, Abdellah Sebbar, Paper: [https://arxiv.org/abs/2610.30525](https://arxiv.org/abs/2610.30525)
+- 2026-10-21, **Discrete time liquids**, Zuo Wang, Paul M. Schindler, Marin Bukov, Marios H. Michael, Paper: [https://arxiv.org/abs/2610.30266](https://arxiv.org/abs/2610.30266), 8 pages main + 9 pages supplement, 4 figures main + 10 figures supplement
+- 2026-10-21, **Maxwell-Chern-Simons-Matter in AdS $_3$**, Dean Carmi, Riccardo Ciccone, Paper: [https://arxiv.org/abs/2610.30260](https://arxiv.org/abs/2610.30260), 44+24 pages, 10 figures
+- 2026-10-21, **Defect flows from functional relations in the asymptotic semiring**, Federico Ambrosino, Anatoly Konechny, Ingo Runkel, Gérard M. T. Watts, Paper: [https://arxiv.org/abs/2610.30242](https://arxiv.org/abs/2610.30242), 81 pages, 34 figures, 1 Mathematica notebook in the ancillary files
 - 2026-10-21, **Stabilizing and detecting electron fractionalization in the Hofstadter-Hubbard model**, Jiahao Yang, Zeyu Han, Gang v. Chen, Paper: [https://arxiv.org/abs/2610.29916](https://arxiv.org/abs/2610.29916), 14 pages, 7 figures
 - 2026-10-21, **Fermion Hierarchies from Fricke Modular Symmetry**, Takafumi Kai, Justin Kaidi, Katsumi Kina, Hajime Otsuka, Paper: [https://arxiv.org/abs/2610.29754](https://arxiv.org/abs/2610.29754), 30 pages
 - 2026-10-21, **Extending Doi--Takeuchi correspondence to bimodules and noncommutative covers**, Zoran Škoda, Paper: [https://arxiv.org/abs/2610.29619](https://arxiv.org/abs/2610.29619)
@@ -2278,5 +2288,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
