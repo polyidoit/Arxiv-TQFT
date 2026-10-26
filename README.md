@@ -15,6 +15,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Ideal interaction dynamics of defects and background fields in condensed matter**|François Gay-Balmaz, Tudor S. Ratiu, Cesare Tronci|[2610.32973](https://arxiv.org/abs/2610.32973)|null|
+|**2026-10-23**|**Majorana Edge-to-bound State Transition in Interferometric Superconductor Rings**|Xiangyu Bi, Aoshen Yang, Hongzi Cao, Ganyu Chen, Yuqiang Fang, Zeya Li, Qizheng Sun, Junwei Huang, Da Wang, Fuqiang Huang, Toshiya Ideue, Qianghua Wang, Yoshihiro Iwasa, Hongtao Yuan|[2610.32767](https://arxiv.org/abs/2610.32767)|null|
+|**2026-10-23**|**Defects in Topological Symmetric Orbifolds and their String Dual**|Jan Troost|[2610.32654](https://arxiv.org/abs/2610.32654)|null|
+|**2026-10-22**|**Positive Planar Measures for Spectral Pinching and the Corrected BMV Conjecture**|Trung Hoa Dinh, Cong Trinh Le, Trung Dung Vuong|[2610.31851](https://arxiv.org/abs/2610.31851)|null|
+|**2026-10-22**|**Prospects of Detecting Cosmological Domain Walls in the Cosmic Microwave Background**|Berkin Gürbüz, Robert Brandenberger, Yitian Sun|[2610.31761](https://arxiv.org/abs/2610.31761)|null|
+|**2026-10-22**|**Gauge It or Break It: Lectures on Global Symmetries and the Cobordism Conjecture**|Matilda Delgado, Corinne Englert, Guillermo Mera Álvarez, Eduardo Velasco-Aja|[2610.31749](https://arxiv.org/abs/2610.31749)|null|
 |**2026-10-22**|**Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory**|G. Bonelli, S. Lacroix, T. Pedroni, A. Tanzini|[2610.31672](https://arxiv.org/abs/2610.31672)|null|
 |**2026-10-22**|**On the direct SLE-martingale approach to the integrability of Conformal Loop Ensembles**|Jason Miller, Wendelin Werner|[2610.31648](https://arxiv.org/abs/2610.31648)|null|
 |**2026-10-22**|**Quantum gravity on the bulk cone**|Ahmed Almheiri, Matthew Dodelson, Zohar Komargodski|[2610.31610](https://arxiv.org/abs/2610.31610)|null|
