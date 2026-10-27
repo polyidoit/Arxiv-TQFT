@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-26, **Wrinkling dynamics of thin crystalline sheets and its dependency on topological defects**, Emma Radice, Ingo Nitschke, Marco Salvalaglio, Axel Voigt, Paper: [https://arxiv.org/abs/2610.35786](https://arxiv.org/abs/2610.35786)
+- 2026-10-26, **A solution to Haagerup's problem: Normality of weights is commutatively determined**, David P. Blecher, Ikhan Choi, Paper: [https://arxiv.org/abs/2610.35774](https://arxiv.org/abs/2610.35774), 9 pages, comments are welcome!
+- 2026-10-26, **Quantitative Analysis of Second-Harmonic Generation in Plasmonic Nanowires: Symmetry Breaking and a Topological Defect**, Qi Lei, Hongyu Liu, Zhi-Qiang Miao, Guang-Hui Zheng, Paper: [https://arxiv.org/abs/2610.35307](https://arxiv.org/abs/2610.35307)
+- 2026-10-26, **The norm reveals projections in the positive unit sphere of an arbitrary C*-algebra**, Antonio M. Peralta, Pedro Saavedra, Paper: [https://arxiv.org/abs/2610.35290](https://arxiv.org/abs/2610.35290), 10 pages
+- 2026-10-26, **Measure Convergence under Weak Domination for Unitarily Invariant Norms on Finite von Neumann Algebras**, Yanni Chen, Don Hadwin, Junhao Shen, Ye Zhang, Paper: [https://arxiv.org/abs/2610.34776](https://arxiv.org/abs/2610.34776), 19 pages
+- 2026-10-25, **QQLink: A Declarative Framework for Multi-QPU Quantum Workflow Orchestration**, Vicente Leyton Ortega, Narasinga Rao Miniskar, Thomas Naughton, Travis S. Humble, Paper: [https://arxiv.org/abs/2610.34486](https://arxiv.org/abs/2610.34486), 41 pages, 9 figures
+- 2026-10-25, **How characterisations of traces and central elements fail: sharp violation constants via michelson contrast and noncentrality**, Sami Abdullah Abed, Irina Nikolaeva, Andrej Novikov, Paper: [https://arxiv.org/abs/2610.34388](https://arxiv.org/abs/2610.34388)
+- 2026-10-25, **Automatic cocommutativity for the quantum-group comonad**, Alexandru Chirvasitu, Paper: [https://arxiv.org/abs/2610.34332](https://arxiv.org/abs/2610.34332), 3 pages + references
+- 2026-10-25, **Virtual defect mediated quantum melting in supersolids**, Lazaros Tsaloukidis, Matheus Grossklags, Luca Salasnich, Alejandro Mendoza-Coto, Paper: [https://arxiv.org/abs/2610.34299](https://arxiv.org/abs/2610.34299), 8 pages, 3 figures
+- 2026-10-25, **Crossed modularity of twisted VOA modules**, Shun Xu, Paper: [https://arxiv.org/abs/2610.34193](https://arxiv.org/abs/2610.34193)
 - 2026-10-23, **Ideal interaction dynamics of defects and background fields in condensed matter**, François Gay-Balmaz, Tudor S. Ratiu, Cesare Tronci, Paper: [https://arxiv.org/abs/2610.32973](https://arxiv.org/abs/2610.32973), First version. Comments welcome
 - 2026-10-23, **Majorana Edge-to-bound State Transition in Interferometric Superconductor Rings**, Xiangyu Bi, Aoshen Yang, Hongzi Cao, Ganyu Chen, Yuqiang Fang, Zeya Li, Qizheng Sun, Junwei Huang, Da Wang, Fuqiang Huang, Toshiya Ideue, Qianghua Wang, Yoshihiro Iwasa, Hongtao Yuan, Paper: [https://arxiv.org/abs/2610.32767](https://arxiv.org/abs/2610.32767)
 - 2026-10-23, **Defects in Topological Symmetric Orbifolds and their String Dual**, Jan Troost, Paper: [https://arxiv.org/abs/2610.32654](https://arxiv.org/abs/2610.32654), 35 pages, 15 figures

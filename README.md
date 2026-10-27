@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Wrinkling dynamics of thin crystalline sheets and its dependency on topological defects**|Emma Radice, Ingo Nitschke, Marco Salvalaglio, Axel Voigt|[2610.35786](https://arxiv.org/abs/2610.35786)|null|
+|**2026-10-26**|**A solution to Haagerup's problem: Normality of weights is commutatively determined**|David P. Blecher, Ikhan Choi|[2610.35774](https://arxiv.org/abs/2610.35774)|null|
+|**2026-10-26**|**Quantitative Analysis of Second-Harmonic Generation in Plasmonic Nanowires: Symmetry Breaking and a Topological Defect**|Qi Lei, Hongyu Liu, Zhi-Qiang Miao, Guang-Hui Zheng|[2610.35307](https://arxiv.org/abs/2610.35307)|null|
+|**2026-10-26**|**The norm reveals projections in the positive unit sphere of an arbitrary C*-algebra**|Antonio M. Peralta, Pedro Saavedra|[2610.35290](https://arxiv.org/abs/2610.35290)|null|
+|**2026-10-26**|**Measure Convergence under Weak Domination for Unitarily Invariant Norms on Finite von Neumann Algebras**|Yanni Chen, Don Hadwin, Junhao Shen, Ye Zhang|[2610.34776](https://arxiv.org/abs/2610.34776)|null|
+|**2026-10-25**|**QQLink: A Declarative Framework for Multi-QPU Quantum Workflow Orchestration**|Vicente Leyton Ortega, Narasinga Rao Miniskar, Thomas Naughton, Travis S. Humble|[2610.34486](https://arxiv.org/abs/2610.34486)|null|
+|**2026-10-25**|**How characterisations of traces and central elements fail: sharp violation constants via michelson contrast and noncentrality**|Sami Abdullah Abed, Irina Nikolaeva, Andrej Novikov|[2610.34388](https://arxiv.org/abs/2610.34388)|null|
+|**2026-10-25**|**Automatic cocommutativity for the quantum-group comonad**|Alexandru Chirvasitu|[2610.34332](https://arxiv.org/abs/2610.34332)|null|
+|**2026-10-25**|**Virtual defect mediated quantum melting in supersolids**|Lazaros Tsaloukidis, Matheus Grossklags, Luca Salasnich, Alejandro Mendoza-Coto|[2610.34299](https://arxiv.org/abs/2610.34299)|null|
+|**2026-10-25**|**Crossed modularity of twisted VOA modules**|Shun Xu|[2610.34193](https://arxiv.org/abs/2610.34193)|null|
 |**2026-10-23**|**Ideal interaction dynamics of defects and background fields in condensed matter**|François Gay-Balmaz, Tudor S. Ratiu, Cesare Tronci|[2610.32973](https://arxiv.org/abs/2610.32973)|null|
 |**2026-10-23**|**Majorana Edge-to-bound State Transition in Interferometric Superconductor Rings**|Xiangyu Bi, Aoshen Yang, Hongzi Cao, Ganyu Chen, Yuqiang Fang, Zeya Li, Qizheng Sun, Junwei Huang, Da Wang, Fuqiang Huang, Toshiya Ideue, Qianghua Wang, Yoshihiro Iwasa, Hongtao Yuan|[2610.32767](https://arxiv.org/abs/2610.32767)|null|
 |**2026-10-23**|**Defects in Topological Symmetric Orbifolds and their String Dual**|Jan Troost|[2610.32654](https://arxiv.org/abs/2610.32654)|null|
