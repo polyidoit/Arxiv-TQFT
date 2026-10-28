@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Topological Criticality with Charge-\(3e\) Fluctuations in the \(\mathrm{SU}(3)\) Triangular-Lattice Hofstadter--Hubbard Model**|Yang Liu, Ya-Hui Zhang, Xue-Yang Song|[2610.37575](https://arxiv.org/abs/2610.37575)|null|
+|**2026-10-27**|**Entanglement Bounds on Cardy Growth in Higher Dimensions**|Yuya Kusuki, Yin Tang|[2610.37449](https://arxiv.org/abs/2610.37449)|null|
+|**2026-10-27**|**Ergodicity, memory loss, and directional stability on von Neumann algebras**|Abdessatar Souissi, Abdessatar Barhoumi|[2610.37143](https://arxiv.org/abs/2610.37143)|null|
+|**2026-10-27**|**Wilson loops of Chern-Simons-matter Theories with one parameter and Picard-Fuchs equations**|Takao Suyama|[2610.36845](https://arxiv.org/abs/2610.36845)|null|
+|**2026-10-27**|**Novel topological subclasses of a magnetic black hole in causal nonlinear electrodynamics**|Qi-Qi Liang, De-jiang Yin, Yu-Die Wan, Zheng-Wen Long|[2610.36796](https://arxiv.org/abs/2610.36796)|null|
+|**2026-10-27**|**Continuum neural wavefunctions for anyons on a torus**|Ahmed Khalifa, Shubhayu Chatterjee|[2610.36567](https://arxiv.org/abs/2610.36567)|null|
+|**2026-10-27**|**Measurement-induced entanglement phases in hyperbolic gauge-Higgs models**|Cole Kelson-Packer, Hiroki Sukeno, Akimasa Miyake|[2610.36528](https://arxiv.org/abs/2610.36528)|null|
+|**2026-10-26**|**AlgebrasTQD: Computing Algebras and Interfaces in Twisted Quantum Doubles**|Alison Warman|[2610.36029](https://arxiv.org/abs/2610.36029)|null|
 |**2026-10-26**|**Wrinkling dynamics of thin crystalline sheets and its dependency on topological defects**|Emma Radice, Ingo Nitschke, Marco Salvalaglio, Axel Voigt|[2610.35786](https://arxiv.org/abs/2610.35786)|null|
 |**2026-10-26**|**A solution to Haagerup's problem: Normality of weights is commutatively determined**|David P. Blecher, Ikhan Choi|[2610.35774](https://arxiv.org/abs/2610.35774)|null|
 |**2026-10-26**|**Quantitative Analysis of Second-Harmonic Generation in Plasmonic Nanowires: Symmetry Breaking and a Topological Defect**|Qi Lei, Hongyu Liu, Zhi-Qiang Miao, Guang-Hui Zheng|[2610.35307](https://arxiv.org/abs/2610.35307)|null|
