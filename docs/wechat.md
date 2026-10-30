@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-29, **Toric codes all the way down: decoupling translation-invariant topological CSS codes in higher dimensions**, Mingxin He, Yifei Wang, Hao Song, Yingfei Gu, Paper: [https://arxiv.org/abs/2610.40592](https://arxiv.org/abs/2610.40592), 22 pages, 4 figures. Code: https://github.com/hmx21/css-decoupling ; Lean formalization: https://github.com/hmx21/css-decoupling-lean
+- 2026-10-29, **Quasi-Phases of Quantum Matter**, Nick G. Jones, Paul Fendley, Nathanan Tantivasadakarn, Ruben Verresen, Paper: [https://arxiv.org/abs/2610.40526](https://arxiv.org/abs/2610.40526)
+- 2026-10-29, **Exact holographic superfluid at the Bogomolny point: transport, large charge, and Rényi entropies**, Siqing Yu, Paper: [https://arxiv.org/abs/2610.40371](https://arxiv.org/abs/2610.40371), 56 pages, 9 figures, 1 table
+- 2026-10-29, **Three-dimensional QCA that are not stably circuits**, Bowen Yang, Paper: [https://arxiv.org/abs/2610.40235](https://arxiv.org/abs/2610.40235)
+- 2026-10-29, **On stable twist 2-groups of quasi-Hopf algebras**, Siu-Hung Ng, Xingting Wang, Paper: [https://arxiv.org/abs/2610.40228](https://arxiv.org/abs/2610.40228), Latex 91 pp
+- 2026-10-29, **Point-Splitting-Perturbative-Chern-Simons I**, Vito Iacovino, Paper: [https://arxiv.org/abs/2610.40211](https://arxiv.org/abs/2610.40211)
+- 2026-10-29, **Inner $\mathrm{C}^{\ast}$ -Selfless Groups**, Tattwamasi Amrutam, Mario Klisse, Matteo Pagliero, Paper: [https://arxiv.org/abs/2610.40198](https://arxiv.org/abs/2610.40198), 42 pages
+- 2026-10-29, **A density calculus for quantum field theory**, Tanay Kibe, Pratik Roy, Paper: [https://arxiv.org/abs/2610.40174](https://arxiv.org/abs/2610.40174), 43 pages, 1 figure
+- 2026-10-29, **Topological defect trains excited by a boundary discontinuity in the two-dimensional complex Ginzburg-Landau equation**, Alice C. Quillen, Laura Quinonez, Paper: [https://arxiv.org/abs/2610.40103](https://arxiv.org/abs/2610.40103)
+- 2026-10-29, **G-equivariant Alterfold TQFT in any dimension**, Zixuan Feng, Zhengwei Liu, Paper: [https://arxiv.org/abs/2610.40041](https://arxiv.org/abs/2610.40041), 79 pages
 - 2026-10-29, **Ten-loop fixed-dimension renormalization-group functions of the three-dimensional O(N) model from distributed GPU-accelerated parametric integration**, Paolo Ribeca, Paper: [https://arxiv.org/abs/2610.39307](https://arxiv.org/abs/2610.39307), 30 pages, 2 figures. Code, data and reproducibility checks at https://github.com/PaoloRibeca/ReBar, archived at doi:10.5281/zenodo.23750242
 - 2026-10-28, **Nonreciprocity Propels Nematic Defects**, Yunpeng Cao, Yu Du, Yao Li, Paper: [https://arxiv.org/abs/2610.39037](https://arxiv.org/abs/2610.39037)
 - 2026-10-28, **Graftings and cograftings for species**, Pierre Clavier, Yannic Vargas, Paper: [https://arxiv.org/abs/2610.38996](https://arxiv.org/abs/2610.38996), 45 pages, 13 figures

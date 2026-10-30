@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-10-29**|**Toric codes all the way down: decoupling translation-invariant topological CSS codes in higher dimensions**|Mingxin He, Yifei Wang, Hao Song, Yingfei Gu|[2610.40592](https://arxiv.org/abs/2610.40592)|null|
+|**2026-10-29**|**Quasi-Phases of Quantum Matter**|Nick G. Jones, Paul Fendley, Nathanan Tantivasadakarn, Ruben Verresen|[2610.40526](https://arxiv.org/abs/2610.40526)|null|
+|**2026-10-29**|**Exact holographic superfluid at the Bogomolny point: transport, large charge, and Rényi entropies**|Siqing Yu|[2610.40371](https://arxiv.org/abs/2610.40371)|null|
+|**2026-10-29**|**Three-dimensional QCA that are not stably circuits**|Bowen Yang|[2610.40235](https://arxiv.org/abs/2610.40235)|null|
+|**2026-10-29**|**On stable twist 2-groups of quasi-Hopf algebras**|Siu-Hung Ng, Xingting Wang|[2610.40228](https://arxiv.org/abs/2610.40228)|null|
+|**2026-10-29**|**Point-Splitting-Perturbative-Chern-Simons I**|Vito Iacovino|[2610.40211](https://arxiv.org/abs/2610.40211)|null|
+|**2026-10-29**|**Inner $\mathrm{C}^{\ast}$ -Selfless Groups**|Tattwamasi Amrutam, Mario Klisse, Matteo Pagliero|[2610.40198](https://arxiv.org/abs/2610.40198)|null|
+|**2026-10-29**|**A density calculus for quantum field theory**|Tanay Kibe, Pratik Roy|[2610.40174](https://arxiv.org/abs/2610.40174)|null|
+|**2026-10-29**|**Topological defect trains excited by a boundary discontinuity in the two-dimensional complex Ginzburg-Landau equation**|Alice C. Quillen, Laura Quinonez|[2610.40103](https://arxiv.org/abs/2610.40103)|null|
+|**2026-10-29**|**G-equivariant Alterfold TQFT in any dimension**|Zixuan Feng, Zhengwei Liu|[2610.40041](https://arxiv.org/abs/2610.40041)|null|
 |**2026-10-29**|**Ten-loop fixed-dimension renormalization-group functions of the three-dimensional O(N) model from distributed GPU-accelerated parametric integration**|Paolo Ribeca|[2610.39307](https://arxiv.org/abs/2610.39307)|null|
 |**2026-10-28**|**Nonreciprocity Propels Nematic Defects**|Yunpeng Cao, Yu Du, Yao Li|[2610.39037](https://arxiv.org/abs/2610.39037)|null|
 |**2026-10-28**|**Graftings and cograftings for species**|Pierre Clavier, Yannic Vargas|[2610.38996](https://arxiv.org/abs/2610.38996)|null|
