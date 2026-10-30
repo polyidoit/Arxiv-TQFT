@@ -1,4 +1,4 @@
-> Automatically updated on 2026.10.29
+> Automatically updated on 2026.10.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-10-29, **Ten-loop fixed-dimension renormalization-group functions of the three-dimensional O(N) model from distributed GPU-accelerated parametric integration**, Paolo Ribeca, Paper: [https://arxiv.org/abs/2610.39307](https://arxiv.org/abs/2610.39307), 30 pages, 2 figures. Code, data and reproducibility checks at https://github.com/PaoloRibeca/ReBar, archived at doi:10.5281/zenodo.23750242
+- 2026-10-28, **Nonreciprocity Propels Nematic Defects**, Yunpeng Cao, Yu Du, Yao Li, Paper: [https://arxiv.org/abs/2610.39037](https://arxiv.org/abs/2610.39037)
+- 2026-10-28, **Graftings and cograftings for species**, Pierre Clavier, Yannic Vargas, Paper: [https://arxiv.org/abs/2610.38996](https://arxiv.org/abs/2610.38996), 45 pages, 13 figures
+- 2026-10-28, **Generalized Symmetries of QED $_4$ on Non-Spin Manifolds**, Michele Del Zotto, Vivek Saxena, Paper: [https://arxiv.org/abs/2610.38907](https://arxiv.org/abs/2610.38907), 53 pages + appendices = 80 pages, 10 figures
+- 2026-10-28, **Local Quantum Fault Tolerance Without Expansion**, David Ponarovsky, Paper: [https://arxiv.org/abs/2610.38847](https://arxiv.org/abs/2610.38847)
+- 2026-10-28, **From Entanglement Bootstrap to DHR Theory**, Kohtaro Kato, Yoshiko Ogata, Paper: [https://arxiv.org/abs/2610.38821](https://arxiv.org/abs/2610.38821)
+- 2026-10-28, **Mixed-State Topological Transition and Emergent Fractionalized Supersymmetry in the Non-Abelian Kitaev Spin Liquid**, Zhou-Quan Wan, Hong Yao, Shao-Kai Jian, Paper: [https://arxiv.org/abs/2610.38741](https://arxiv.org/abs/2610.38741), 4.3 pages + supplemental material, 3 figures
+- 2026-10-28, **The Effective Field Theory Origin of the Fuzzy Sphere Method**, Mykola Dedushenko, Paper: [https://arxiv.org/abs/2610.38702](https://arxiv.org/abs/2610.38702), 5 pages + references + a page of End Matter + 15 pages of Supplemental Materials; 3 figures
+- 2026-10-28, **Topological interfaces between universes and generalized families of 2d QFTs**, Pinak Banerjee, Yuhan Gai, Alonso Perez-Lona, Daniel Robbins, Subham Roy, Eric Sharpe, with an appendix by Xingyang Yu, Paper: [https://arxiv.org/abs/2610.38680](https://arxiv.org/abs/2610.38680), 24 pages plus appendix. 2 figures
+- 2026-10-28, **Exploring Fractional Quantum Hall States with Deep Learning: From Abelian to Non-Abelian Phases**, Xiangyu Ma, Kehuang Chen, Yuntian Gu, Weiluo Ren, Ji Chen, Di Luo, Fengcheng Wu, Xiang Li, Paper: [https://arxiv.org/abs/2610.38533](https://arxiv.org/abs/2610.38533)
 - 2026-10-27, **Topological Criticality with Charge-\(3e\) Fluctuations in the \(\mathrm{SU}(3)\) Triangular-Lattice Hofstadter--Hubbard Model**, Yang Liu, Ya-Hui Zhang, Xue-Yang Song, Paper: [https://arxiv.org/abs/2610.37575](https://arxiv.org/abs/2610.37575), 10 pages, 6 figures
 - 2026-10-27, **Entanglement Bounds on Cardy Growth in Higher Dimensions**, Yuya Kusuki, Yin Tang, Paper: [https://arxiv.org/abs/2610.37449](https://arxiv.org/abs/2610.37449), 6+15 pages
 - 2026-10-27, **Ergodicity, memory loss, and directional stability on von Neumann algebras**, Abdessatar Souissi, Abdessatar Barhoumi, Paper: [https://arxiv.org/abs/2610.37143](https://arxiv.org/abs/2610.37143)
@@ -2312,5 +2322,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 

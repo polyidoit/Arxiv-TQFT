@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.10.29
+> Automatically updated on 2026.10.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Ten-loop fixed-dimension renormalization-group functions of the three-dimensional O(N) model from distributed GPU-accelerated parametric integration**|Paolo Ribeca|[2610.39307](https://arxiv.org/abs/2610.39307)|null|
+|**2026-10-28**|**Nonreciprocity Propels Nematic Defects**|Yunpeng Cao, Yu Du, Yao Li|[2610.39037](https://arxiv.org/abs/2610.39037)|null|
+|**2026-10-28**|**Graftings and cograftings for species**|Pierre Clavier, Yannic Vargas|[2610.38996](https://arxiv.org/abs/2610.38996)|null|
+|**2026-10-28**|**Generalized Symmetries of QED $_4$ on Non-Spin Manifolds**|Michele Del Zotto, Vivek Saxena|[2610.38907](https://arxiv.org/abs/2610.38907)|null|
+|**2026-10-28**|**Local Quantum Fault Tolerance Without Expansion**|David Ponarovsky|[2610.38847](https://arxiv.org/abs/2610.38847)|null|
+|**2026-10-28**|**From Entanglement Bootstrap to DHR Theory**|Kohtaro Kato, Yoshiko Ogata|[2610.38821](https://arxiv.org/abs/2610.38821)|null|
+|**2026-10-28**|**Mixed-State Topological Transition and Emergent Fractionalized Supersymmetry in the Non-Abelian Kitaev Spin Liquid**|Zhou-Quan Wan, Hong Yao, Shao-Kai Jian|[2610.38741](https://arxiv.org/abs/2610.38741)|null|
+|**2026-10-28**|**The Effective Field Theory Origin of the Fuzzy Sphere Method**|Mykola Dedushenko|[2610.38702](https://arxiv.org/abs/2610.38702)|null|
+|**2026-10-28**|**Topological interfaces between universes and generalized families of 2d QFTs**|Pinak Banerjee, Yuhan Gai, Alonso Perez-Lona, Daniel Robbins, Subham Roy, Eric Sharpe, with an appendix by Xingyang Yu|[2610.38680](https://arxiv.org/abs/2610.38680)|null|
+|**2026-10-28**|**Exploring Fractional Quantum Hall States with Deep Learning: From Abelian to Non-Abelian Phases**|Xiangyu Ma, Kehuang Chen, Yuntian Gu, Weiluo Ren, Ji Chen, Di Luo, Fengcheng Wu, Xiang Li|[2610.38533](https://arxiv.org/abs/2610.38533)|null|
 |**2026-10-27**|**Topological Criticality with Charge-\(3e\) Fluctuations in the \(\mathrm{SU}(3)\) Triangular-Lattice Hofstadter--Hubbard Model**|Yang Liu, Ya-Hui Zhang, Xue-Yang Song|[2610.37575](https://arxiv.org/abs/2610.37575)|null|
 |**2026-10-27**|**Entanglement Bounds on Cardy Growth in Higher Dimensions**|Yuya Kusuki, Yin Tang|[2610.37449](https://arxiv.org/abs/2610.37449)|null|
 |**2026-10-27**|**Ergodicity, memory loss, and directional stability on von Neumann algebras**|Abdessatar Souissi, Abdessatar Barhoumi|[2610.37143](https://arxiv.org/abs/2610.37143)|null|
@@ -3111,5 +3121,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
