@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Anomalies of TQFTs coupled to parameter spaces and constraints on ground-state degeneracies**|Takamasa Ando, Ryan Thorngren|[2610.42007](https://arxiv.org/abs/2610.42007)|null|
+|**2026-10-30**|**Lifting the mixed to the pure: quantum phases of matter from canonical purification**|Xiaoyang Huang, Shengqi Sang, Chong Wang, Yijian Zou|[2610.41926](https://arxiv.org/abs/2610.41926)|null|
+|**2026-10-30**|**Coring morphisms presenting nonaffine noncommutative fibre bundles**|Zoran Škoda|[2610.41774](https://arxiv.org/abs/2610.41774)|null|
+|**2026-10-30**|**A solution to Haagerup's Problem on decomposable maps**|Rui Okayasu|[2610.41746](https://arxiv.org/abs/2610.41746)|null|
+|**2026-10-30**|**Integer defects in active nematics of ellipsoidal Quincke rollers**|Bao Ying Fan, Lin Liu, Jie Wu, Chen Song, Wen-de Tian, Kang Chen, Tian Hui Zhang|[2610.41463](https://arxiv.org/abs/2610.41463)|null|
+|**2026-10-30**|**IRA Rigidity and boomerang subalgebras of group von Neumann algebras**|Tattwamasi Amrutam, Yair Glasner, Yair Hartman, Yongle Jiang|[2610.41417](https://arxiv.org/abs/2610.41417)|null|
+|**2026-10-29**|**Preparation of a Laughlin-like fractional Chern insulator on a superconducting quantum processor**|Kamil Dutkiewicz, Bárbara Andrade, Geza Giedke, Tobias Grass|[2610.41017](https://arxiv.org/abs/2610.41017)|null|
+|**2026-10-29**|**Scaling Limits as Extensions of Continuous Bundles of C*-algebras**|Kade Cicchella, Benjamin H. Feintzeig|[2610.40924](https://arxiv.org/abs/2610.40924)|null|
+|**2026-10-29**|**Proof of the entropic $c$ -theorem**|Jonah Kudler-Flam|[2610.40874](https://arxiv.org/abs/2610.40874)|null|
+|**2026-10-29**|**All Symmetries and Boundaries of the Two-Dimensional Free Scalar from Continuous Flat-Gauging**|Yichul Choi, Ho Tat Lam, Brandon C. Rayhaun|[2610.40818](https://arxiv.org/abs/2610.40818)|null|
 |**2026-10-29**|**Toric codes all the way down: decoupling translation-invariant topological CSS codes in higher dimensions**|Mingxin He, Yifei Wang, Hao Song, Yingfei Gu|[2610.40592](https://arxiv.org/abs/2610.40592)|null|
 |**2026-10-29**|**Quasi-Phases of Quantum Matter**|Nick G. Jones, Paul Fendley, Nathanan Tantivasadakarn, Ruben Verresen|[2610.40526](https://arxiv.org/abs/2610.40526)|null|
 |**2026-10-29**|**Exact holographic superfluid at the Bogomolny point: transport, large charge, and Rényi entropies**|Siqing Yu|[2610.40371](https://arxiv.org/abs/2610.40371)|null|
