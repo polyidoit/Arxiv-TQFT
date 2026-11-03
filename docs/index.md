@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-02**|**Square-Root Pass Semi-Streaming Algorithms for Digraph Problems**|Prantar Ghosh, Amirhossein Janfaza|[2611.03594](https://arxiv.org/abs/2611.03594)|null|
+|**2026-11-02**|**The Virasoro Bootstrap: from the $c\sim1$ desert to coupled Potts**|Stefanos R. Kousvos, Alessandro Piazza, Alessandro Vichi|[2611.03565](https://arxiv.org/abs/2611.03565)|null|
+|**2026-11-02**|**Geometric Aspects of $C^*$ -Extreme Points II**|Neha Hotwani|[2611.03563](https://arxiv.org/abs/2611.03563)|null|
+|**2026-11-02**|**Polariton tweezers**|Nika Gribova, Evgeny Sedov, Alexey Kavokin|[2611.03506](https://arxiv.org/abs/2611.03506)|null|
+|**2026-11-02**|**Agentic Pipelines for Mapping Topological Codes to Quantum Hardware**|Arpit Arora, Adam Holmes, Krysta M. Svore, Taylor L. Patti|[2611.03329](https://arxiv.org/abs/2611.03329)|null|
+|**2026-11-02**|**Functional Dimensional Regularization for the Lee-Yang Model**|Piero Beretta, Carlos A. Sánchez-Villalobos, Alessandro Codello|[2611.03318](https://arxiv.org/abs/2611.03318)|null|
+|**2026-11-02**|**What crossing symmetry forbids just above $c=1$**|Yu Nakayama|[2611.03217](https://arxiv.org/abs/2611.03217)|null|
+|**2026-11-02**|**Enforced Gaplessness by Combining Non-Anomalous Symmetries**|Takamasa Ando, Kantaro Ohmori|[2611.03164](https://arxiv.org/abs/2611.03164)|null|
+|**2026-11-02**|**Hidden variable $\mathbb{Z}_2$ topological order in a bilayer kagomé antiferromagnet**|Hao Tian, Pengwei Zhao, Gang v. Chen|[2611.03073](https://arxiv.org/abs/2611.03073)|null|
+|**2026-11-02**|**Transgression branes in seven dimensions**|Pablo Mora|[2611.03031](https://arxiv.org/abs/2611.03031)|null|
 |**2026-10-30**|**Anomalies of TQFTs coupled to parameter spaces and constraints on ground-state degeneracies**|Takamasa Ando, Ryan Thorngren|[2610.42007](https://arxiv.org/abs/2610.42007)|null|
 |**2026-10-30**|**Lifting the mixed to the pure: quantum phases of matter from canonical purification**|Xiaoyang Huang, Shengqi Sang, Chong Wang, Yijian Zou|[2610.41926](https://arxiv.org/abs/2610.41926)|null|
 |**2026-10-30**|**Coring morphisms presenting nonaffine noncommutative fibre bundles**|Zoran Škoda|[2610.41774](https://arxiv.org/abs/2610.41774)|null|

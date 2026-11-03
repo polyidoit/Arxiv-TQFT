@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-02, **Square-Root Pass Semi-Streaming Algorithms for Digraph Problems**, Prantar Ghosh, Amirhossein Janfaza, Paper: [https://arxiv.org/abs/2611.03594](https://arxiv.org/abs/2611.03594)
+- 2026-11-02, **The Virasoro Bootstrap: from the $c\sim1$ desert to coupled Potts**, Stefanos R. Kousvos, Alessandro Piazza, Alessandro Vichi, Paper: [https://arxiv.org/abs/2611.03565](https://arxiv.org/abs/2611.03565), 48 pages, 8 figures
+- 2026-11-02, **Geometric Aspects of $C^*$ -Extreme Points II**, Neha Hotwani, Paper: [https://arxiv.org/abs/2611.03563](https://arxiv.org/abs/2611.03563), 10 pages. Comments are welcome
+- 2026-11-02, **Polariton tweezers**, Nika Gribova, Evgeny Sedov, Alexey Kavokin, Paper: [https://arxiv.org/abs/2611.03506](https://arxiv.org/abs/2611.03506)
+- 2026-11-02, **Agentic Pipelines for Mapping Topological Codes to Quantum Hardware**, Arpit Arora, Adam Holmes, Krysta M. Svore, Taylor L. Patti, Paper: [https://arxiv.org/abs/2611.03329](https://arxiv.org/abs/2611.03329)
+- 2026-11-02, **Functional Dimensional Regularization for the Lee-Yang Model**, Piero Beretta, Carlos A. Sánchez-Villalobos, Alessandro Codello, Paper: [https://arxiv.org/abs/2611.03318](https://arxiv.org/abs/2611.03318), 8 pages, 4 figures, 1 table
+- 2026-11-02, **What crossing symmetry forbids just above $c=1$**, Yu Nakayama, Paper: [https://arxiv.org/abs/2611.03217](https://arxiv.org/abs/2611.03217), 13 pages, 2 figures, 3 tables
+- 2026-11-02, **Enforced Gaplessness by Combining Non-Anomalous Symmetries**, Takamasa Ando, Kantaro Ohmori, Paper: [https://arxiv.org/abs/2611.03164](https://arxiv.org/abs/2611.03164), 12 pages
+- 2026-11-02, **Hidden variable $\mathbb{Z}_2$ topological order in a bilayer kagomé antiferromagnet**, Hao Tian, Pengwei Zhao, Gang v. Chen, Paper: [https://arxiv.org/abs/2611.03073](https://arxiv.org/abs/2611.03073), 14 pages, 5 figures
+- 2026-11-02, **Transgression branes in seven dimensions**, Pablo Mora, Paper: [https://arxiv.org/abs/2611.03031](https://arxiv.org/abs/2611.03031), 27 pages
 - 2026-10-30, **Anomalies of TQFTs coupled to parameter spaces and constraints on ground-state degeneracies**, Takamasa Ando, Ryan Thorngren, Paper: [https://arxiv.org/abs/2610.42007](https://arxiv.org/abs/2610.42007), 41 pages
 - 2026-10-30, **Lifting the mixed to the pure: quantum phases of matter from canonical purification**, Xiaoyang Huang, Shengqi Sang, Chong Wang, Yijian Zou, Paper: [https://arxiv.org/abs/2610.41926](https://arxiv.org/abs/2610.41926), 5+20 pages
 - 2026-10-30, **Coring morphisms presenting nonaffine noncommutative fibre bundles**, Zoran Škoda, Paper: [https://arxiv.org/abs/2610.41774](https://arxiv.org/abs/2610.41774), 9 pages
