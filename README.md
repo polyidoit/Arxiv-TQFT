@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Boundary $c\leq1$ Liouville CFT from the Bootstrap**|Panos Betzios, Paul Ghiringhelli, Olga Papadoulaki, Ioannis Tsiares|[2611.05378](https://arxiv.org/abs/2611.05378)|null|
+|**2026-11-03**|**Quantum Error Correction in Nearly Critical Toric Codes**|Zack Weinstein, Samuel J. Garratt|[2611.05375](https://arxiv.org/abs/2611.05375)|null|
+|**2026-11-03**|**Crossover duality for the quantum long-range Ising chain: perturbation theory around the short-range endpoint and a DMRG test**|Junchen Rong|[2611.05284](https://arxiv.org/abs/2611.05284)|null|
+|**2026-11-03**|**Hopf algebra polynomial identities in the Sweedler algebra**|Alexey Gordienko, Maria Morozova|[2611.05187](https://arxiv.org/abs/2611.05187)|null|
+|**2026-11-03**|**Factoriality of Mixed $q$ -Gaussian Algebras at the Boundary**|Hang Yang|[2611.05064](https://arxiv.org/abs/2611.05064)|null|
+|**2026-11-03**|**Hecke Relations from Self-Duality**|Justin Kaidi|[2611.05002](https://arxiv.org/abs/2611.05002)|null|
+|**2026-11-03**|**The ultrapower $\mathcal R^ω$ is not a group factor**|Minghui Ma|[2611.04926](https://arxiv.org/abs/2611.04926)|null|
+|**2026-11-03**|**Modular properties of correlators in generalised Gibbs ensembles**|Tanmoy Sengupta|[2611.04636](https://arxiv.org/abs/2611.04636)|null|
+|**2026-11-03**|**Topology Does Not Determine Defect Mobility in Active Polar Matter**|Abhra Puitandy, Shradha Mishra|[2611.04428](https://arxiv.org/abs/2611.04428)|null|
+|**2026-11-03**|**Reflective algebras over factorizable Hopf algebras**|Rei Sugitani|[2611.04326](https://arxiv.org/abs/2611.04326)|null|
 |**2026-11-02**|**Square-Root Pass Semi-Streaming Algorithms for Digraph Problems**|Prantar Ghosh, Amirhossein Janfaza|[2611.03594](https://arxiv.org/abs/2611.03594)|null|
 |**2026-11-02**|**The Virasoro Bootstrap: from the $c\sim1$ desert to coupled Potts**|Stefanos R. Kousvos, Alessandro Piazza, Alessandro Vichi|[2611.03565](https://arxiv.org/abs/2611.03565)|null|
 |**2026-11-02**|**Geometric Aspects of $C^*$ -Extreme Points II**|Neha Hotwani|[2611.03563](https://arxiv.org/abs/2611.03563)|null|
