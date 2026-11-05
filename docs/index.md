@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-04**|**Conformal field theory from automorphic forms on a quantum group**|Dalimil Mazac|[2611.06907](https://arxiv.org/abs/2611.06907)|null|
+|**2026-11-04**|**Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials**|Jyoti Duhan, Anil Kumar B. M., Satya N. Guin, Koushik Pal|[2611.06865](https://arxiv.org/abs/2611.06865)|null|
+|**2026-11-04**|**Anomaly effective actions for 4d $\mathcal{N}=1$ superconformal field theories**|Pantelis Panopoulos, Ioannis Papadimitriou|[2611.06842](https://arxiv.org/abs/2611.06842)|null|
+|**2026-11-04**|**5-brane webs and generalised symmetries**|Mohammad Akhond, Federico Carta, Sung-Soo Kim, Futoshi Yagi|[2611.06794](https://arxiv.org/abs/2611.06794)|null|
+|**2026-11-04**|**Chromatic Spherical and Renormalized Reshetikhin-Turaev Invariants for Drinfeld Centers**|Nicolas Bridges, Shawn Cui, Nathan Geer|[2611.06708](https://arxiv.org/abs/2611.06708)|null|
+|**2026-11-04**|**Stability of energy gap of macroscopic quantum matter**|Kangle Li, Liujun Zou|[2611.06528](https://arxiv.org/abs/2611.06528)|null|
+|**2026-11-04**|**Higher Integrability, Generalized Symmetries, and Partially Topological Field Theories**|Luigi Alfonsi, Leron Borsten, Mehran Jalali Farahani, Hyungrok Kim, Martin Wolf, Charles A. S. Young|[2611.06507](https://arxiv.org/abs/2611.06507)|null|
+|**2026-11-04**|**Quantum Advantage needs Multiple Perspectives**|Jochen Szangolies|[2611.06497](https://arxiv.org/abs/2611.06497)|null|
+|**2026-11-04**|**Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders**|Hiromi Ebisu, Masazumi Honda|[2611.06154](https://arxiv.org/abs/2611.06154)|null|
+|**2026-11-04**|**Compatible Condensation and Generalized Gauging: Marked Transport and Wall Interchange**|Youxuan Wang|[2611.06104](https://arxiv.org/abs/2611.06104)|null|
 |**2026-11-03**|**Boundary $c\leq1$ Liouville CFT from the Bootstrap**|Panos Betzios, Paul Ghiringhelli, Olga Papadoulaki, Ioannis Tsiares|[2611.05378](https://arxiv.org/abs/2611.05378)|null|
 |**2026-11-03**|**Quantum Error Correction in Nearly Critical Toric Codes**|Zack Weinstein, Samuel J. Garratt|[2611.05375](https://arxiv.org/abs/2611.05375)|null|
 |**2026-11-03**|**Crossover duality for the quantum long-range Ising chain: perturbation theory around the short-range endpoint and a DMRG test**|Junchen Rong|[2611.05284](https://arxiv.org/abs/2611.05284)|null|

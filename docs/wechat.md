@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-04, **Conformal field theory from automorphic forms on a quantum group**, Dalimil Mazac, Paper: [https://arxiv.org/abs/2611.06907](https://arxiv.org/abs/2611.06907)
+- 2026-11-04, **Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials**, Jyoti Duhan, Anil Kumar B. M., Satya N. Guin, Koushik Pal, Paper: [https://arxiv.org/abs/2611.06865](https://arxiv.org/abs/2611.06865)
+- 2026-11-04, **Anomaly effective actions for 4d $\mathcal{N}=1$ superconformal field theories**, Pantelis Panopoulos, Ioannis Papadimitriou, Paper: [https://arxiv.org/abs/2611.06842](https://arxiv.org/abs/2611.06842), 102 pages
+- 2026-11-04, **5-brane webs and generalised symmetries**, Mohammad Akhond, Federico Carta, Sung-Soo Kim, Futoshi Yagi, Paper: [https://arxiv.org/abs/2611.06794](https://arxiv.org/abs/2611.06794), 43 pages + appendices
+- 2026-11-04, **Chromatic Spherical and Renormalized Reshetikhin-Turaev Invariants for Drinfeld Centers**, Nicolas Bridges, Shawn Cui, Nathan Geer, Paper: [https://arxiv.org/abs/2611.06708](https://arxiv.org/abs/2611.06708), 34 pages, comments welcome!
+- 2026-11-04, **Stability of energy gap of macroscopic quantum matter**, Kangle Li, Liujun Zou, Paper: [https://arxiv.org/abs/2611.06528](https://arxiv.org/abs/2611.06528), 5 pages + supplemental material
+- 2026-11-04, **Higher Integrability, Generalized Symmetries, and Partially Topological Field Theories**, Luigi Alfonsi, Leron Borsten, Mehran Jalali Farahani, Hyungrok Kim, Martin Wolf, Charles A. S. Young, Paper: [https://arxiv.org/abs/2611.06507](https://arxiv.org/abs/2611.06507), 7 pages
+- 2026-11-04, **Quantum Advantage needs Multiple Perspectives**, Jochen Szangolies, Paper: [https://arxiv.org/abs/2611.06497](https://arxiv.org/abs/2611.06497), 27 pages, 2 figures, comments very welcome!
+- 2026-11-04, **Statistical mechanics and hierarchy of learnability in quantum codes: From generalized symmetries to non-Abelian topological orders**, Hiromi Ebisu, Masazumi Honda, Paper: [https://arxiv.org/abs/2611.06154](https://arxiv.org/abs/2611.06154), 46 pages, 2 figures
+- 2026-11-04, **Compatible Condensation and Generalized Gauging: Marked Transport and Wall Interchange**, Youxuan Wang, Paper: [https://arxiv.org/abs/2611.06104](https://arxiv.org/abs/2611.06104)
 - 2026-11-03, **Boundary $c\leq1$ Liouville CFT from the Bootstrap**, Panos Betzios, Paul Ghiringhelli, Olga Papadoulaki, Ioannis Tsiares, Paper: [https://arxiv.org/abs/2611.05378](https://arxiv.org/abs/2611.05378), prl; 7 pgs supp material
 - 2026-11-03, **Quantum Error Correction in Nearly Critical Toric Codes**, Zack Weinstein, Samuel J. Garratt, Paper: [https://arxiv.org/abs/2611.05375](https://arxiv.org/abs/2611.05375), 56 pages, 20 figures
 - 2026-11-03, **Crossover duality for the quantum long-range Ising chain: perturbation theory around the short-range endpoint and a DMRG test**, Junchen Rong, Paper: [https://arxiv.org/abs/2611.05284](https://arxiv.org/abs/2611.05284), 14 pages, 5 figures
