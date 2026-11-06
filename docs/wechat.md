@@ -1,4 +1,4 @@
-> Automatically updated on 2026.11.05
+> Automatically updated on 2026.11.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-05, **Provable circuit-level thresholds for non-abelian topological phases**, Yuanjie Ren, Margarita Davydova, Shankar Balasubramanian, Andreas Bauer, Paper: [https://arxiv.org/abs/2611.08488](https://arxiv.org/abs/2611.08488), 37 pages, 6 figures
+- 2026-11-05, **Defect Anomalies at a Distance**, Oleksandr Diatlyk, Zimo Sun, Yifan Wang, Paper: [https://arxiv.org/abs/2611.08476](https://arxiv.org/abs/2611.08476), 12 pages, 1 table
+- 2026-11-05, **Dynamical effects induced by synthetic SU(1,1) gauge fields**, Chenwei Lv, Paper: [https://arxiv.org/abs/2611.08447](https://arxiv.org/abs/2611.08447), 13 pages, 5 figures
+- 2026-11-05, **Dualities in one-dimensional quantum lattice models: Lie groups, Schur-Weyl duality and symmetry breaking**, Dante Bosgoed, Frank Verstraete, Laurens Lootens, Paper: [https://arxiv.org/abs/2611.08293](https://arxiv.org/abs/2611.08293)
+- 2026-11-05, **Accessing Fractional Wilson Lines from U(1) Monodromy Defects on the Fuzzy Sphere**, Yin Tang, W. Zhu, Paper: [https://arxiv.org/abs/2611.08102](https://arxiv.org/abs/2611.08102), 8+7 pages
+- 2026-11-05, **A characterization of purely atomic von Neumann algebras**, Debabrata De, Paper: [https://arxiv.org/abs/2611.07978](https://arxiv.org/abs/2611.07978), 12pp. Comments are welcome
+- 2026-11-05, **Extensions of the Haldane gap proof: higher dimensions, near degeneracy, fermions and tensor-network states**, Tarun Grover, Paper: [https://arxiv.org/abs/2611.07400](https://arxiv.org/abs/2611.07400), 15 pages main text + Appendices
+- 2026-11-05, **Frustration-freeness is decidable but unprovable**, Naoto Shiraishi, Paper: [https://arxiv.org/abs/2611.07337](https://arxiv.org/abs/2611.07337), 8 pages + 12 pages, 2 figures
+- 2026-11-05, **Background Effects on Thermal Free Energy in Conformal Field Theories**, Shuichi Yokoyama, Ibuki Yoshida, Hiroki Yunoto, Paper: [https://arxiv.org/abs/2611.07312](https://arxiv.org/abs/2611.07312), 1+13 pages, no figure
+- 2026-11-04, **Noncommutative weak almost periodicity and left uniform continuity over locally compact quantum groups**, Ramin Faal, Amin Allah Khosravi, Hamid Reza Ebrahimi Vishki, Paper: [https://arxiv.org/abs/2611.07168](https://arxiv.org/abs/2611.07168)
 - 2026-11-04, **Conformal field theory from automorphic forms on a quantum group**, Dalimil Mazac, Paper: [https://arxiv.org/abs/2611.06907](https://arxiv.org/abs/2611.06907)
 - 2026-11-04, **Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials**, Jyoti Duhan, Anil Kumar B. M., Satya N. Guin, Koushik Pal, Paper: [https://arxiv.org/abs/2611.06865](https://arxiv.org/abs/2611.06865)
 - 2026-11-04, **Anomaly effective actions for 4d $\mathcal{N}=1$ superconformal field theories**, Pantelis Panopoulos, Ioannis Papadimitriou, Paper: [https://arxiv.org/abs/2611.06842](https://arxiv.org/abs/2611.06842), 102 pages
@@ -2372,5 +2382,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 

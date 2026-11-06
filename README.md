@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.11.05
+> Automatically updated on 2026.11.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Provable circuit-level thresholds for non-abelian topological phases**|Yuanjie Ren, Margarita Davydova, Shankar Balasubramanian, Andreas Bauer|[2611.08488](https://arxiv.org/abs/2611.08488)|null|
+|**2026-11-05**|**Defect Anomalies at a Distance**|Oleksandr Diatlyk, Zimo Sun, Yifan Wang|[2611.08476](https://arxiv.org/abs/2611.08476)|null|
+|**2026-11-05**|**Dynamical effects induced by synthetic SU(1,1) gauge fields**|Chenwei Lv|[2611.08447](https://arxiv.org/abs/2611.08447)|null|
+|**2026-11-05**|**Dualities in one-dimensional quantum lattice models: Lie groups, Schur-Weyl duality and symmetry breaking**|Dante Bosgoed, Frank Verstraete, Laurens Lootens|[2611.08293](https://arxiv.org/abs/2611.08293)|null|
+|**2026-11-05**|**Accessing Fractional Wilson Lines from U(1) Monodromy Defects on the Fuzzy Sphere**|Yin Tang, W. Zhu|[2611.08102](https://arxiv.org/abs/2611.08102)|null|
+|**2026-11-05**|**A characterization of purely atomic von Neumann algebras**|Debabrata De|[2611.07978](https://arxiv.org/abs/2611.07978)|null|
+|**2026-11-05**|**Extensions of the Haldane gap proof: higher dimensions, near degeneracy, fermions and tensor-network states**|Tarun Grover|[2611.07400](https://arxiv.org/abs/2611.07400)|null|
+|**2026-11-05**|**Frustration-freeness is decidable but unprovable**|Naoto Shiraishi|[2611.07337](https://arxiv.org/abs/2611.07337)|null|
+|**2026-11-05**|**Background Effects on Thermal Free Energy in Conformal Field Theories**|Shuichi Yokoyama, Ibuki Yoshida, Hiroki Yunoto|[2611.07312](https://arxiv.org/abs/2611.07312)|null|
+|**2026-11-04**|**Noncommutative weak almost periodicity and left uniform continuity over locally compact quantum groups**|Ramin Faal, Amin Allah Khosravi, Hamid Reza Ebrahimi Vishki|[2611.07168](https://arxiv.org/abs/2611.07168)|null|
 |**2026-11-04**|**Conformal field theory from automorphic forms on a quantum group**|Dalimil Mazac|[2611.06907](https://arxiv.org/abs/2611.06907)|null|
 |**2026-11-04**|**Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials**|Jyoti Duhan, Anil Kumar B. M., Satya N. Guin, Koushik Pal|[2611.06865](https://arxiv.org/abs/2611.06865)|null|
 |**2026-11-04**|**Anomaly effective actions for 4d $\mathcal{N}=1$ superconformal field theories**|Pantelis Panopoulos, Ioannis Papadimitriou|[2611.06842](https://arxiv.org/abs/2611.06842)|null|
@@ -3171,5 +3181,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
