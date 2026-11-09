@@ -9,6 +9,14 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-06, **Existence of extremal solutions in the 1d conformal bootstrap**, Filip Herček, Nat Levine, Paper: [https://arxiv.org/abs/2611.09867](https://arxiv.org/abs/2611.09867), 34 pages
+- 2026-11-06, **Raman anyon-Hubbard model in a 1D Bose lattice gas**, Josep Cabedo, Claudio Iacovelli, Leticia Tarruell, Alessio Celi, Paper: [https://arxiv.org/abs/2611.09855](https://arxiv.org/abs/2611.09855), 10 pages + appendix, 5 figures, 1 table
+- 2026-11-06, **Edge dynamics of covariant higher-rank Chern-Simons theory of fractons**, Erica Bertolini, Matteo Carrega, Nicola Maggiore, Daniel Sacco Shaikh, Maria Florencia Semino, Paper: [https://arxiv.org/abs/2611.09786](https://arxiv.org/abs/2611.09786), 37 pages, no figures
+- 2026-11-06, **Twisted Compactification, Quotient Quantum Codes and Logical Gates**, Po-Shen Hsin, Paper: [https://arxiv.org/abs/2611.09538](https://arxiv.org/abs/2611.09538), 76 pages, 5 figures, 7 tables
+- 2026-11-06, **Property Gamma and McDuff Factors from Shift-Similar and Houghton-like Groups**, Eli Bashwinger, Patrick DeBonis, Paper: [https://arxiv.org/abs/2611.09227](https://arxiv.org/abs/2611.09227), 69 pages, no figures. Comments welcome
+- 2026-11-06, **Type IIB Forms and Scalars from an $\mathrm{SL}(2,\mathbb{R})$ Topological Field Theory with Boundary**, Euihun Joung, J. A. Rosabal, Paper: [https://arxiv.org/abs/2611.08841](https://arxiv.org/abs/2611.08841)
+- 2026-11-05, **Analytic Bounds on Conformal Defect Spectra**, Yuma Furuta, Wataru Harada, Yuya Kusuki, Yin Tang, Paper: [https://arxiv.org/abs/2611.08582](https://arxiv.org/abs/2611.08582)
+- 2026-11-05, **Discreetly Conformal: Higher-Order Chiral Scalars and the Discrete Series**, Calvin Y. -R. Chen, Kurt Hinterbichler, Samanta Saha, Thomas Yan, Paper: [https://arxiv.org/abs/2611.08581](https://arxiv.org/abs/2611.08581), 25 pages, 1 figure
 - 2026-11-05, **Provable circuit-level thresholds for non-abelian topological phases**, Yuanjie Ren, Margarita Davydova, Shankar Balasubramanian, Andreas Bauer, Paper: [https://arxiv.org/abs/2611.08488](https://arxiv.org/abs/2611.08488), 37 pages, 6 figures
 - 2026-11-05, **Defect Anomalies at a Distance**, Oleksandr Diatlyk, Zimo Sun, Yifan Wang, Paper: [https://arxiv.org/abs/2611.08476](https://arxiv.org/abs/2611.08476), 12 pages, 1 table
 - 2026-11-05, **Dynamical effects induced by synthetic SU(1,1) gauge fields**, Chenwei Lv, Paper: [https://arxiv.org/abs/2611.08447](https://arxiv.org/abs/2611.08447), 13 pages, 5 figures

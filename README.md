@@ -15,6 +15,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Existence of extremal solutions in the 1d conformal bootstrap**|Filip Herček, Nat Levine|[2611.09867](https://arxiv.org/abs/2611.09867)|null|
+|**2026-11-06**|**Raman anyon-Hubbard model in a 1D Bose lattice gas**|Josep Cabedo, Claudio Iacovelli, Leticia Tarruell, Alessio Celi|[2611.09855](https://arxiv.org/abs/2611.09855)|null|
+|**2026-11-06**|**Edge dynamics of covariant higher-rank Chern-Simons theory of fractons**|Erica Bertolini, Matteo Carrega, Nicola Maggiore, Daniel Sacco Shaikh, Maria Florencia Semino|[2611.09786](https://arxiv.org/abs/2611.09786)|null|
+|**2026-11-06**|**Twisted Compactification, Quotient Quantum Codes and Logical Gates**|Po-Shen Hsin|[2611.09538](https://arxiv.org/abs/2611.09538)|null|
+|**2026-11-06**|**Property Gamma and McDuff Factors from Shift-Similar and Houghton-like Groups**|Eli Bashwinger, Patrick DeBonis|[2611.09227](https://arxiv.org/abs/2611.09227)|null|
+|**2026-11-06**|**Type IIB Forms and Scalars from an $\mathrm{SL}(2,\mathbb{R})$ Topological Field Theory with Boundary**|Euihun Joung, J. A. Rosabal|[2611.08841](https://arxiv.org/abs/2611.08841)|null|
+|**2026-11-05**|**Analytic Bounds on Conformal Defect Spectra**|Yuma Furuta, Wataru Harada, Yuya Kusuki, Yin Tang|[2611.08582](https://arxiv.org/abs/2611.08582)|null|
+|**2026-11-05**|**Discreetly Conformal: Higher-Order Chiral Scalars and the Discrete Series**|Calvin Y. -R. Chen, Kurt Hinterbichler, Samanta Saha, Thomas Yan|[2611.08581](https://arxiv.org/abs/2611.08581)|null|
 |**2026-11-05**|**Provable circuit-level thresholds for non-abelian topological phases**|Yuanjie Ren, Margarita Davydova, Shankar Balasubramanian, Andreas Bauer|[2611.08488](https://arxiv.org/abs/2611.08488)|null|
 |**2026-11-05**|**Defect Anomalies at a Distance**|Oleksandr Diatlyk, Zimo Sun, Yifan Wang|[2611.08476](https://arxiv.org/abs/2611.08476)|null|
 |**2026-11-05**|**Dynamical effects induced by synthetic SU(1,1) gauge fields**|Chenwei Lv|[2611.08447](https://arxiv.org/abs/2611.08447)|null|
