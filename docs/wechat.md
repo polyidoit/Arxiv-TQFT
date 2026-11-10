@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-09, **Property F implies weak integrality for non-degenerate pivotal braided fusion categories**, Justin Asher, Jonah Berean-Dutcher, Clay Cordova, Julio Parra-Martinez, Richard Tuddenham, Paper: [https://arxiv.org/abs/2611.12836](https://arxiv.org/abs/2611.12836), 11 pages, 2 figures
+- 2026-11-09, **Quality time in extra dimensions: axion quality and radion cosmology**, Falguni Biswas, Yeshan Juberi, Ahmed Rakin Kamal, Paper: [https://arxiv.org/abs/2611.12765](https://arxiv.org/abs/2611.12765), 46 pages + Appendices
+- 2026-11-09, **Fixed-occurrence cases of the shuffle-word-embedding conjecture**, Trung Hoa Dinh, Paper: [https://arxiv.org/abs/2611.12498](https://arxiv.org/abs/2611.12498)
+- 2026-11-09, **Commuting-check gauging for fault-tolerant logical measurements**, Zongyuan Wang, Paper: [https://arxiv.org/abs/2611.12236](https://arxiv.org/abs/2611.12236), 8+26 pages, 2 figures
+- 2026-11-09, **From Frobenius seeds to self-orthogonal modules over symmetric algebras**, Hongxing Chen, Paper: [https://arxiv.org/abs/2611.12176](https://arxiv.org/abs/2611.12176), 50 pages
+- 2026-11-09, **Rotating the Replica: Twisted Rényi Coefficients from CFT Operator Counting**, Jyotirmoy Mukherjee, Paper: [https://arxiv.org/abs/2611.12133](https://arxiv.org/abs/2611.12133), 5 pages of main text, with appendices and Supplemental Material
+- 2026-11-09, **Matrix-vector models for the 3D Ising CFT**, Kaichi Mizohata, Tatsuya Seko, Asato Tsuchiya, Paper: [https://arxiv.org/abs/2611.12071](https://arxiv.org/abs/2611.12071), 46 pages, 15 figures
+- 2026-11-09, **Semiclassical Asymptotics of Entanglement in Torus-Link States**, Vikash Ganwariya, Simran Sain, Siddharth Dwivedi, Paper: [https://arxiv.org/abs/2611.11961](https://arxiv.org/abs/2611.11961), 26 pages, 3 figures
+- 2026-11-09, **Critical Slowing Down and the Crossover to Quantum Scrambling in Holographic CFTs**, Mozib Bin Awal, Prabwal Phukon, Paper: [https://arxiv.org/abs/2611.11889](https://arxiv.org/abs/2611.11889), 35 pages, 12 figures
+- 2026-11-09, **Discretising 2D Fermionic CFTs**, Dazhuo Cheng, Hexuan Li, Gong Cheng, Ling-Yan Hung, Paper: [https://arxiv.org/abs/2611.11807](https://arxiv.org/abs/2611.11807)
 - 2026-11-06, **Existence of extremal solutions in the 1d conformal bootstrap**, Filip Herček, Nat Levine, Paper: [https://arxiv.org/abs/2611.09867](https://arxiv.org/abs/2611.09867), 34 pages
 - 2026-11-06, **Raman anyon-Hubbard model in a 1D Bose lattice gas**, Josep Cabedo, Claudio Iacovelli, Leticia Tarruell, Alessio Celi, Paper: [https://arxiv.org/abs/2611.09855](https://arxiv.org/abs/2611.09855), 10 pages + appendix, 5 figures, 1 table
 - 2026-11-06, **Edge dynamics of covariant higher-rank Chern-Simons theory of fractons**, Erica Bertolini, Matteo Carrega, Nicola Maggiore, Daniel Sacco Shaikh, Maria Florencia Semino, Paper: [https://arxiv.org/abs/2611.09786](https://arxiv.org/abs/2611.09786), 37 pages, no figures

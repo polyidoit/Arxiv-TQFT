@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-09**|**Property F implies weak integrality for non-degenerate pivotal braided fusion categories**|Justin Asher, Jonah Berean-Dutcher, Clay Cordova, Julio Parra-Martinez, Richard Tuddenham|[2611.12836](https://arxiv.org/abs/2611.12836)|null|
+|**2026-11-09**|**Quality time in extra dimensions: axion quality and radion cosmology**|Falguni Biswas, Yeshan Juberi, Ahmed Rakin Kamal|[2611.12765](https://arxiv.org/abs/2611.12765)|null|
+|**2026-11-09**|**Fixed-occurrence cases of the shuffle-word-embedding conjecture**|Trung Hoa Dinh|[2611.12498](https://arxiv.org/abs/2611.12498)|null|
+|**2026-11-09**|**Commuting-check gauging for fault-tolerant logical measurements**|Zongyuan Wang|[2611.12236](https://arxiv.org/abs/2611.12236)|null|
+|**2026-11-09**|**From Frobenius seeds to self-orthogonal modules over symmetric algebras**|Hongxing Chen|[2611.12176](https://arxiv.org/abs/2611.12176)|null|
+|**2026-11-09**|**Rotating the Replica: Twisted Rényi Coefficients from CFT Operator Counting**|Jyotirmoy Mukherjee|[2611.12133](https://arxiv.org/abs/2611.12133)|null|
+|**2026-11-09**|**Matrix-vector models for the 3D Ising CFT**|Kaichi Mizohata, Tatsuya Seko, Asato Tsuchiya|[2611.12071](https://arxiv.org/abs/2611.12071)|null|
+|**2026-11-09**|**Semiclassical Asymptotics of Entanglement in Torus-Link States**|Vikash Ganwariya, Simran Sain, Siddharth Dwivedi|[2611.11961](https://arxiv.org/abs/2611.11961)|null|
+|**2026-11-09**|**Critical Slowing Down and the Crossover to Quantum Scrambling in Holographic CFTs**|Mozib Bin Awal, Prabwal Phukon|[2611.11889](https://arxiv.org/abs/2611.11889)|null|
+|**2026-11-09**|**Discretising 2D Fermionic CFTs**|Dazhuo Cheng, Hexuan Li, Gong Cheng, Ling-Yan Hung|[2611.11807](https://arxiv.org/abs/2611.11807)|null|
 |**2026-11-06**|**Existence of extremal solutions in the 1d conformal bootstrap**|Filip Herček, Nat Levine|[2611.09867](https://arxiv.org/abs/2611.09867)|null|
 |**2026-11-06**|**Raman anyon-Hubbard model in a 1D Bose lattice gas**|Josep Cabedo, Claudio Iacovelli, Leticia Tarruell, Alessio Celi|[2611.09855](https://arxiv.org/abs/2611.09855)|null|
 |**2026-11-06**|**Edge dynamics of covariant higher-rank Chern-Simons theory of fractons**|Erica Bertolini, Matteo Carrega, Nicola Maggiore, Daniel Sacco Shaikh, Maria Florencia Semino|[2611.09786](https://arxiv.org/abs/2611.09786)|null|
