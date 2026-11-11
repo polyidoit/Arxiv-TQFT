@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Automatically updated on 2026.11.10
+> Automatically updated on 2026.11.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**From convolution pi-algebras to Rota-Baxter Hopf pi-algebras**|Xue Tang, Xin Wu, Yalan Zhang, Guodong Shi|[2611.14024](https://arxiv.org/abs/2611.14024)|null|
+|**2026-11-10**|**Maximal Violation of Mermin Inequality for Commuting von Neumann Algebras and Multipartite Vacuum Entanglement in QFT**|Kan He, Jinchuan Hou, Shuyuan Yang, Bingke Zheng|[2611.13981](https://arxiv.org/abs/2611.13981)|null|
+|**2026-11-10**|**Two-parameter versus one-parameter quantum groups: structural differences arising from the type~ $D$ phenomenon**|Naihong Hu, Marc Rosso, Xiao Xu|[2611.13974](https://arxiv.org/abs/2611.13974)|null|
+|**2026-11-10**|**Assessing the expressive power of a gauge-invariant PEPS ansatz across a topological phase transition**|Etsuko Itou, Tsuyoshi Okubo|[2611.13852](https://arxiv.org/abs/2611.13852)|null|
+|**2026-11-10**|**Floquet first- and higher-order topological superconductors: A review**|Debashish Mondal, Arnob Kumar Ghosh, Arijit Saha, Tanay Nag|[2611.13804](https://arxiv.org/abs/2611.13804)|null|
+|**2026-11-10**|**Curriculum proof repair with learned counterexamples**|Yuechun Sun, Jun Yang, Kexin Pei|[2611.13627](https://arxiv.org/abs/2611.13627)|null|
+|**2026-11-10**|**Banach isomorphism between separable \(L_p\)-spaces, \(1\le p\ne2<\infty\), associated with hyperfinite type III von Neumann algebras**|Chenhao Gao, Jinghao Huang, Yunpeng Zhu|[2611.13507](https://arxiv.org/abs/2611.13507)|null|
+|**2026-11-10**|**Boundary dualities of symplectic Chern-Simons theories and minimal models**|Yu Nakayama, Tadashi Okazaki|[2611.13484](https://arxiv.org/abs/2611.13484)|null|
+|**2026-11-09**|**How wide must an eavesdropper be? Leakage of a toric-code logical bit to a strip and the Nishimori point**|Konstantinos Karagiannis|[2611.13174](https://arxiv.org/abs/2611.13174)|null|
+|**2026-11-09**|**Categorical RMT**|Chuanxin Cui, Kristan Jensen, Sridip Pal, Moshe Rozali|[2611.13093](https://arxiv.org/abs/2611.13093)|null|
 |**2026-11-09**|**Property F implies weak integrality for non-degenerate pivotal braided fusion categories**|Justin Asher, Jonah Berean-Dutcher, Clay Cordova, Julio Parra-Martinez, Richard Tuddenham|[2611.12836](https://arxiv.org/abs/2611.12836)|null|
 |**2026-11-09**|**Quality time in extra dimensions: axion quality and radion cosmology**|Falguni Biswas, Yeshan Juberi, Ahmed Rakin Kamal|[2611.12765](https://arxiv.org/abs/2611.12765)|null|
 |**2026-11-09**|**Fixed-occurrence cases of the shuffle-word-embedding conjecture**|Trung Hoa Dinh|[2611.12498](https://arxiv.org/abs/2611.12498)|null|
@@ -3199,5 +3209,5 @@ layout: default
 |**2018-08-06**|**Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**|Kevin Slagle, Yong Baek Kim|[1708.04619](https://arxiv.org/abs/1708.04619)|null|
 |**2020-04-28**|**K3 en route From Geometry to Conformal Field Theory**|Katrin Wendland|[1503.08426](https://arxiv.org/abs/1503.08426)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-> Automatically updated on 2026.11.10
+> Automatically updated on 2026.11.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-10, **From convolution pi-algebras to Rota-Baxter Hopf pi-algebras**, Xue Tang, Xin Wu, Yalan Zhang, Guodong Shi, Paper: [https://arxiv.org/abs/2611.14024](https://arxiv.org/abs/2611.14024)
+- 2026-11-10, **Maximal Violation of Mermin Inequality for Commuting von Neumann Algebras and Multipartite Vacuum Entanglement in QFT**, Kan He, Jinchuan Hou, Shuyuan Yang, Bingke Zheng, Paper: [https://arxiv.org/abs/2611.13981](https://arxiv.org/abs/2611.13981), 20 pages
+- 2026-11-10, **Two-parameter versus one-parameter quantum groups: structural differences arising from the type~ $D$ phenomenon**, Naihong Hu, Marc Rosso, Xiao Xu, Paper: [https://arxiv.org/abs/2611.13974](https://arxiv.org/abs/2611.13974)
+- 2026-11-10, **Assessing the expressive power of a gauge-invariant PEPS ansatz across a topological phase transition**, Etsuko Itou, Tsuyoshi Okubo, Paper: [https://arxiv.org/abs/2611.13852](https://arxiv.org/abs/2611.13852), 52pages, 24 figures
+- 2026-11-10, **Floquet first- and higher-order topological superconductors: A review**, Debashish Mondal, Arnob Kumar Ghosh, Arijit Saha, Tanay Nag, Paper: [https://arxiv.org/abs/2611.13804](https://arxiv.org/abs/2611.13804), 28 pages without references and 16 figures- Invited Topical Review in Journal of Physics: Condensed Matter
+- 2026-11-10, **Curriculum proof repair with learned counterexamples**, Yuechun Sun, Jun Yang, Kexin Pei, Paper: [https://arxiv.org/abs/2611.13627](https://arxiv.org/abs/2611.13627), Accepted at NeurIPS 2026. 28 pages
+- 2026-11-10, **Banach isomorphism between separable \(L_p\)-spaces, \(1\le p\ne2<\infty\), associated with hyperfinite type III von Neumann algebras**, Chenhao Gao, Jinghao Huang, Yunpeng Zhu, Paper: [https://arxiv.org/abs/2611.13507](https://arxiv.org/abs/2611.13507)
+- 2026-11-10, **Boundary dualities of symplectic Chern-Simons theories and minimal models**, Yu Nakayama, Tadashi Okazaki, Paper: [https://arxiv.org/abs/2611.13484](https://arxiv.org/abs/2611.13484), 97 pages
+- 2026-11-09, **How wide must an eavesdropper be? Leakage of a toric-code logical bit to a strip and the Nishimori point**, Konstantinos Karagiannis, Paper: [https://arxiv.org/abs/2611.13174](https://arxiv.org/abs/2611.13174), 19 pages, 4 figures, 11 tables. Code, data, IBM Quantum shot records, transpiled circuits and calibration snapshots in ancillary files. Prepared with AI assistance; see "Use of AI tools"
+- 2026-11-09, **Categorical RMT**, Chuanxin Cui, Kristan Jensen, Sridip Pal, Moshe Rozali, Paper: [https://arxiv.org/abs/2611.13093](https://arxiv.org/abs/2611.13093), 77 pages, 9 figures
 - 2026-11-09, **Property F implies weak integrality for non-degenerate pivotal braided fusion categories**, Justin Asher, Jonah Berean-Dutcher, Clay Cordova, Julio Parra-Martinez, Richard Tuddenham, Paper: [https://arxiv.org/abs/2611.12836](https://arxiv.org/abs/2611.12836), 11 pages, 2 figures
 - 2026-11-09, **Quality time in extra dimensions: axion quality and radion cosmology**, Falguni Biswas, Yeshan Juberi, Ahmed Rakin Kamal, Paper: [https://arxiv.org/abs/2611.12765](https://arxiv.org/abs/2611.12765), 46 pages + Appendices
 - 2026-11-09, **Fixed-occurrence cases of the shuffle-word-embedding conjecture**, Trung Hoa Dinh, Paper: [https://arxiv.org/abs/2611.12498](https://arxiv.org/abs/2611.12498)
@@ -2400,5 +2410,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
