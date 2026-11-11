@@ -2,6 +2,8 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-10**|**Noetherian connected braided Hopf algebras are affine**|Huan Jia, Yinhuo Zhang|[2611.14304](https://arxiv.org/abs/2611.14304)|null|
+|**2026-11-10**|**Representations of the quantum double of the restricted quantum group $\mathbf{\overline{u}}_q(\mathfrak{sl_2})$**|Hua Sun, Huixiang Chen, Xiaoming Li, Huan Jia|[2611.14084](https://arxiv.org/abs/2611.14084)|null|
 |**2026-11-10**|**From convolution pi-algebras to Rota-Baxter Hopf pi-algebras**|Xue Tang, Xin Wu, Yalan Zhang, Guodong Shi|[2611.14024](https://arxiv.org/abs/2611.14024)|null|
 |**2026-11-10**|**Maximal Violation of Mermin Inequality for Commuting von Neumann Algebras and Multipartite Vacuum Entanglement in QFT**|Kan He, Jinchuan Hou, Shuyuan Yang, Bingke Zheng|[2611.13981](https://arxiv.org/abs/2611.13981)|null|
 |**2026-11-10**|**Two-parameter versus one-parameter quantum groups: structural differences arising from the type~ $D$ phenomenon**|Naihong Hu, Marc Rosso, Xiao Xu|[2611.13974](https://arxiv.org/abs/2611.13974)|null|
