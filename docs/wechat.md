@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-12, **Decoupling Dynamics: A Tale of Two Limits**, Andrea Antinucci, Oscar Lewis, Paper: [https://arxiv.org/abs/2611.17327](https://arxiv.org/abs/2611.17327), 30 pages
+- 2026-11-12, **Higher Categorical Bistellar Moves**, Aleksandar Ivanov, Paper: [https://arxiv.org/abs/2611.17244](https://arxiv.org/abs/2611.17244), 37 pages + appendices
+- 2026-11-12, **Circular phonons generate negligible magnetization in insulators**, C-C. Wu, M. Buzzi, A. Iudica, R. Romero, G. De Vecchi, R. Merlin, A. Cavalleri, Paper: [https://arxiv.org/abs/2611.17222](https://arxiv.org/abs/2611.17222), 13 pages, 5 figures, with supplementary material
+- 2026-11-12, **Optimizing Chern Bands for Moore-Read States: A Parent Hamiltonian Approach**, Bishoy M. Kousa, Yung-Chun Chao, Jung-Jung Su, Allan H. MacDonald, Paper: [https://arxiv.org/abs/2611.17188](https://arxiv.org/abs/2611.17188)
+- 2026-11-12, **Lattice response theory for subsystem symmetry-protected topological phases**, Yuki Furukawa, Takuya Okuda, Paper: [https://arxiv.org/abs/2611.17182](https://arxiv.org/abs/2611.17182), 41 pages
+- 2026-11-12, **Quantum loop symmetric pairs and meromorphic abelian K-matrices**, Andrea Appel, Jian-Rong Li, Tomasz Przezdziecki, Bart Vlaar, Paper: [https://arxiv.org/abs/2611.17138](https://arxiv.org/abs/2611.17138), 84p
+- 2026-11-12, **Kac lemma on noncommutative probability spaces**, Tattwamasi Amrutam, Diptesh Saha, Xumin Wang, Paper: [https://arxiv.org/abs/2611.16972](https://arxiv.org/abs/2611.16972), 19 pages; preliminary version. Comments are welcome
+- 2026-11-12, **Higher-Group Statistics on Lattices**, Chen Yang, Yu-An Chen, Paper: [https://arxiv.org/abs/2611.16962](https://arxiv.org/abs/2611.16962), 41 pages, 9 figures
+- 2026-11-12, **Symmetry-Controlled Criticality and Zeno Localization in a Monitored Quasiperiodic Superconductor**, Pinaki Singha, Marcin Szyniszewski, Nilanjan Roy, Auditya Sharma, Paper: [https://arxiv.org/abs/2611.16912](https://arxiv.org/abs/2611.16912), 21 pages, 8 figures
+- 2026-11-12, **Dislocation Arrays Hosting Topological Bound States in Epitaxial Tetragonal FeSe Films**, Huimin Zhang, Basu Oli, Zhengfei Wang, Michael Weinert, Lian Li, Paper: [https://arxiv.org/abs/2611.16681](https://arxiv.org/abs/2611.16681)
 - 2026-11-10, **Noetherian connected braided Hopf algebras are affine**, Huan Jia, Yinhuo Zhang, Paper: [https://arxiv.org/abs/2611.14304](https://arxiv.org/abs/2611.14304), 19 pages
 - 2026-11-10, **Representations of the quantum double of the restricted quantum group $\mathbf{\overline{u}}_q(\mathfrak{sl_2})$**, Hua Sun, Huixiang Chen, Xiaoming Li, Huan Jia, Paper: [https://arxiv.org/abs/2611.14084](https://arxiv.org/abs/2611.14084)
 - 2026-11-10, **From convolution pi-algebras to Rota-Baxter Hopf pi-algebras**, Xue Tang, Xin Wu, Yalan Zhang, Guodong Shi, Paper: [https://arxiv.org/abs/2611.14024](https://arxiv.org/abs/2611.14024)

@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-12**|**Decoupling Dynamics: A Tale of Two Limits**|Andrea Antinucci, Oscar Lewis|[2611.17327](https://arxiv.org/abs/2611.17327)|null|
+|**2026-11-12**|**Higher Categorical Bistellar Moves**|Aleksandar Ivanov|[2611.17244](https://arxiv.org/abs/2611.17244)|null|
+|**2026-11-12**|**Circular phonons generate negligible magnetization in insulators**|C-C. Wu, M. Buzzi, A. Iudica, R. Romero, G. De Vecchi, R. Merlin, A. Cavalleri|[2611.17222](https://arxiv.org/abs/2611.17222)|null|
+|**2026-11-12**|**Optimizing Chern Bands for Moore-Read States: A Parent Hamiltonian Approach**|Bishoy M. Kousa, Yung-Chun Chao, Jung-Jung Su, Allan H. MacDonald|[2611.17188](https://arxiv.org/abs/2611.17188)|null|
+|**2026-11-12**|**Lattice response theory for subsystem symmetry-protected topological phases**|Yuki Furukawa, Takuya Okuda|[2611.17182](https://arxiv.org/abs/2611.17182)|null|
+|**2026-11-12**|**Quantum loop symmetric pairs and meromorphic abelian K-matrices**|Andrea Appel, Jian-Rong Li, Tomasz Przezdziecki, Bart Vlaar|[2611.17138](https://arxiv.org/abs/2611.17138)|null|
+|**2026-11-12**|**Kac lemma on noncommutative probability spaces**|Tattwamasi Amrutam, Diptesh Saha, Xumin Wang|[2611.16972](https://arxiv.org/abs/2611.16972)|null|
+|**2026-11-12**|**Higher-Group Statistics on Lattices**|Chen Yang, Yu-An Chen|[2611.16962](https://arxiv.org/abs/2611.16962)|null|
+|**2026-11-12**|**Symmetry-Controlled Criticality and Zeno Localization in a Monitored Quasiperiodic Superconductor**|Pinaki Singha, Marcin Szyniszewski, Nilanjan Roy, Auditya Sharma|[2611.16912](https://arxiv.org/abs/2611.16912)|null|
+|**2026-11-12**|**Dislocation Arrays Hosting Topological Bound States in Epitaxial Tetragonal FeSe Films**|Huimin Zhang, Basu Oli, Zhengfei Wang, Michael Weinert, Lian Li|[2611.16681](https://arxiv.org/abs/2611.16681)|null|
 |**2026-11-10**|**Noetherian connected braided Hopf algebras are affine**|Huan Jia, Yinhuo Zhang|[2611.14304](https://arxiv.org/abs/2611.14304)|null|
 |**2026-11-10**|**Representations of the quantum double of the restricted quantum group $\mathbf{\overline{u}}_q(\mathfrak{sl_2})$**|Hua Sun, Huixiang Chen, Xiaoming Li, Huan Jia|[2611.14084](https://arxiv.org/abs/2611.14084)|null|
 |**2026-11-10**|**From convolution pi-algebras to Rota-Baxter Hopf pi-algebras**|Xue Tang, Xin Wu, Yalan Zhang, Guodong Shi|[2611.14024](https://arxiv.org/abs/2611.14024)|null|
