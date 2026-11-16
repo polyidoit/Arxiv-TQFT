@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-13, **Towards invertibility of derived categories of sheaf-theoretic line operators**, Claudia Scheimbauer, Jackson Van Dyke, Paper: [https://arxiv.org/abs/2611.18555](https://arxiv.org/abs/2611.18555), 31 pages. Comments welcome!
+- 2026-11-13, **Fibonacci Non-Abelian Quantum Hall States with Pair Structure - a classification of chiral 2-cluster many-body wave-functions**, Abigail Timmel, Xiao-Gang Wen, Paper: [https://arxiv.org/abs/2611.18521](https://arxiv.org/abs/2611.18521), 23 pages
+- 2026-11-13, **Gravitational Corrections to OPE Coefficients**, Ameya Chavda, Alessandro Podo, John Staunton, Paper: [https://arxiv.org/abs/2611.18415](https://arxiv.org/abs/2611.18415), 29 pages
+- 2026-11-13, **Link invariants in nilpotent group gauge theories**, Thomas Nicosanti, Pavel Putrov, Johann Quenta-Raygada, Paper: [https://arxiv.org/abs/2611.18237](https://arxiv.org/abs/2611.18237), 61 pages, 11 figures
+- 2026-11-13, **RiverScan: Learning to Accumulate on River Networks**, He Zhu, Zhiyi Gao, Youhuan Yang, Han Quan, Ming Li, Paper: [https://arxiv.org/abs/2611.18005](https://arxiv.org/abs/2611.18005), 17 pages including references and appendices; 6 figures, 5 tables
+- 2026-11-13, **Local Quantum Metrology: Precision Limits for Observers in QFT**, Markus Fröb, Albert Much, Paper: [https://arxiv.org/abs/2611.17948](https://arxiv.org/abs/2611.17948)
+- 2026-11-13, **Projection of massive and interacting conformal theories to the future null infinity**, Beatrice Costeri, Claudio Dappiaggi, Alberto Ferrari, Paper: [https://arxiv.org/abs/2611.17943](https://arxiv.org/abs/2611.17943), 56 pages, no figures
+- 2026-11-13, **Rigidity for pivotal braided r-categories of moderate growth and applications to vertex operator algebras**, Robert McRae, Paper: [https://arxiv.org/abs/2611.17732](https://arxiv.org/abs/2611.17732), 29 pages
+- 2026-11-13, **Anyon Proliferation at Self-Triality: From a Lattice Model to Adjoint QCD $_3$**, Yuxuan Guo, Paper: [https://arxiv.org/abs/2611.17724](https://arxiv.org/abs/2611.17724), 14 pages, 1 figure, 1 table; includes Supplemental Material
+- 2026-11-12, **Superstars, quantum wormholes and von Neumann algebras**, Vijay Balasubramanian, Ryo Nemoto, Masaki Shigemori, Paper: [https://arxiv.org/abs/2611.17404](https://arxiv.org/abs/2611.17404), 49 pages and appendices
 - 2026-11-12, **Decoupling Dynamics: A Tale of Two Limits**, Andrea Antinucci, Oscar Lewis, Paper: [https://arxiv.org/abs/2611.17327](https://arxiv.org/abs/2611.17327), 30 pages
 - 2026-11-12, **Higher Categorical Bistellar Moves**, Aleksandar Ivanov, Paper: [https://arxiv.org/abs/2611.17244](https://arxiv.org/abs/2611.17244), 37 pages + appendices
 - 2026-11-12, **Circular phonons generate negligible magnetization in insulators**, C-C. Wu, M. Buzzi, A. Iudica, R. Romero, G. De Vecchi, R. Merlin, A. Cavalleri, Paper: [https://arxiv.org/abs/2611.17222](https://arxiv.org/abs/2611.17222), 13 pages, 5 figures, with supplementary material
