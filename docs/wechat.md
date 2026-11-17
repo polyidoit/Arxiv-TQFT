@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-16, **Axioms for relative entropy**, Roberto Longo, Paper: [https://arxiv.org/abs/2611.21549](https://arxiv.org/abs/2611.21549), 27 pages
+- 2026-11-16, **Learning from Duality in Neural Network Field Theories**, Pietro Capuozzo, Brandon Robinson, Benjamin Suzzoni, Paper: [https://arxiv.org/abs/2611.21503](https://arxiv.org/abs/2611.21503), 1+76 pages, 7 figures
+- 2026-11-16, **Quasi-locality and weak containment for Roe algebras**, Benyin Fu, Kang Li, Jiawen Zhang, Paper: [https://arxiv.org/abs/2611.21255](https://arxiv.org/abs/2611.21255)
+- 2026-11-16, **Vortex solitons in spin-orbit-coupled atomic-molecular condensates**, Chao Kong, Jinqing Li, Chunfeng Huang, Yijia Zhu, Zhonghua Li, Jingwen Li, Huiwen Xiang, Yuzhen Tang, Zhenwang Li, Yue Liang, Haiming Deng, Gui-hua Chen, Zhiwei Fan, Paper: [https://arxiv.org/abs/2611.20871](https://arxiv.org/abs/2611.20871)
+- 2026-11-16, **Quantum chaos from time-dependent CFT states at large central charge**, Shaun D. Hampton, Pantelis Panopoulos, Gideon Vos, Paper: [https://arxiv.org/abs/2611.20817](https://arxiv.org/abs/2611.20817), 29 pages, 6 figures, 1 appendix
+- 2026-11-16, **Kadison's open problem and $R^*$ -algebras**, Bing Yang, Chengjun Hou, Xiaochun Fang, Paper: [https://arxiv.org/abs/2611.20690](https://arxiv.org/abs/2611.20690)
+- 2026-11-15, **Hochschild Cocycle and Universality of Merge**, Matilde Marcolli, Elizabeth Xiao, Paper: [https://arxiv.org/abs/2611.20305](https://arxiv.org/abs/2611.20305), 59 pages, LaTeX
+- 2026-11-15, **A notion of pseudo-morphisms with applications to the study of polynomial maps and of link-homotopy groups of 2-string link**, Benjamin Audoux, Paper: [https://arxiv.org/abs/2611.20304](https://arxiv.org/abs/2611.20304), 30 pages, comments are welcome !
+- 2026-11-15, **Decoding SO(5) Deconfined Multicriticality: Conformal Bootstrap and Fuzzy-Sphere Spectroscopy**, Zhijin Li, Tinghong Shen, Paper: [https://arxiv.org/abs/2611.20214](https://arxiv.org/abs/2611.20214), 14+19 pages, 5 figures
+- 2026-11-14, **The $J$ -Homomorphism From Localising The Cobordism Hypothesis**, Amartya Shekhar Dubey, Luuk Stehouwer, Paper: [https://arxiv.org/abs/2611.19615](https://arxiv.org/abs/2611.19615), 22 pages; Comments Welcome!
 - 2026-11-13, **Towards invertibility of derived categories of sheaf-theoretic line operators**, Claudia Scheimbauer, Jackson Van Dyke, Paper: [https://arxiv.org/abs/2611.18555](https://arxiv.org/abs/2611.18555), 31 pages. Comments welcome!
 - 2026-11-13, **Fibonacci Non-Abelian Quantum Hall States with Pair Structure - a classification of chiral 2-cluster many-body wave-functions**, Abigail Timmel, Xiao-Gang Wen, Paper: [https://arxiv.org/abs/2611.18521](https://arxiv.org/abs/2611.18521), 23 pages
 - 2026-11-13, **Gravitational Corrections to OPE Coefficients**, Ameya Chavda, Alessandro Podo, John Staunton, Paper: [https://arxiv.org/abs/2611.18415](https://arxiv.org/abs/2611.18415), 29 pages
