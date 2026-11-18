@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-17**|**CFTs with Large Virasoro Primary Gaps**|Ziming Ji, Jiahua Tian|[2611.23231](https://arxiv.org/abs/2611.23231)|null|
+|**2026-11-17**|**Non-equilibrium topological order from Floquet anyon proliferation in the toric code**|Francesco Petiziol|[2611.23132](https://arxiv.org/abs/2611.23132)|null|
+|**2026-11-17**|**The Bessis Moussa Villani conjecture in finite von Neumann algebras**|Liviu Paunescu, Florin Radulescu, Andreas Thom|[2611.23122](https://arxiv.org/abs/2611.23122)|null|
+|**2026-11-17**|**Spontaneous axis formation through defect fusion in active nematics**|Mathieu Dedenon, Claire A. Dessalles, Aurélien Roux, Karsten Kruse|[2611.23107](https://arxiv.org/abs/2611.23107)|null|
+|**2026-11-17**|**Non-Invertible Quantum Cellular Automata I: Microscopic Definition of Non-Invertible Symmetries**|Sahand Seifnashri, Shu-Heng Shao|[2611.22928](https://arxiv.org/abs/2611.22928)|null|
+|**2026-11-17**|**Coexisting orders and dipolar Luttinger liquids in $\mathbb{Z}_N$ quantum torus chain**|Seunghun Lee, Seungho Lee, Hyun-Yong Lee, Jung Hoon Han|[2611.22046](https://arxiv.org/abs/2611.22046)|null|
+|**2026-11-16**|**Anomaly inflow for simplicial Kähler fermions**|Simon Catterall|[2611.21860](https://arxiv.org/abs/2611.21860)|null|
+|**2026-11-16**|**Structure Constants of Planar N=4 SYM at Any Coupling**|Simon Ekhammar, Alessandro Georgoudis, Nikolay Gromov|[2611.21843](https://arxiv.org/abs/2611.21843)|null|
+|**2026-11-16**|**Actions of quantum groups: the standard implementation and relatively invariant weights**|Jacek Krajczok|[2611.21776](https://arxiv.org/abs/2611.21776)|null|
+|**2026-11-16**|**Robust Passive Quantum Memory in Three Dimensions, Part I: Thermal and Zero-Temperature Perturbative Stability**|Patrick Hayden|[2611.21749](https://arxiv.org/abs/2611.21749)|null|
 |**2026-11-16**|**Axioms for relative entropy**|Roberto Longo|[2611.21549](https://arxiv.org/abs/2611.21549)|null|
 |**2026-11-16**|**Learning from Duality in Neural Network Field Theories**|Pietro Capuozzo, Brandon Robinson, Benjamin Suzzoni|[2611.21503](https://arxiv.org/abs/2611.21503)|null|
 |**2026-11-16**|**Quasi-locality and weak containment for Roe algebras**|Benyin Fu, Kang Li, Jiawen Zhang|[2611.21255](https://arxiv.org/abs/2611.21255)|null|

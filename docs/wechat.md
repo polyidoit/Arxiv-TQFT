@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-17, **CFTs with Large Virasoro Primary Gaps**, Ziming Ji, Jiahua Tian, Paper: [https://arxiv.org/abs/2611.23231](https://arxiv.org/abs/2611.23231), 41 pages, 1 table
+- 2026-11-17, **Non-equilibrium topological order from Floquet anyon proliferation in the toric code**, Francesco Petiziol, Paper: [https://arxiv.org/abs/2611.23132](https://arxiv.org/abs/2611.23132), 5 + 26 pages
+- 2026-11-17, **The Bessis Moussa Villani conjecture in finite von Neumann algebras**, Liviu Paunescu, Florin Radulescu, Andreas Thom, Paper: [https://arxiv.org/abs/2611.23122](https://arxiv.org/abs/2611.23122), 13 pages
+- 2026-11-17, **Spontaneous axis formation through defect fusion in active nematics**, Mathieu Dedenon, Claire A. Dessalles, Aurélien Roux, Karsten Kruse, Paper: [https://arxiv.org/abs/2611.23107](https://arxiv.org/abs/2611.23107)
+- 2026-11-17, **Non-Invertible Quantum Cellular Automata I: Microscopic Definition of Non-Invertible Symmetries**, Sahand Seifnashri, Shu-Heng Shao, Paper: [https://arxiv.org/abs/2611.22928](https://arxiv.org/abs/2611.22928), 82 pages, 6 figures
+- 2026-11-17, **Coexisting orders and dipolar Luttinger liquids in $\mathbb{Z}_N$ quantum torus chain**, Seunghun Lee, Seungho Lee, Hyun-Yong Lee, Jung Hoon Han, Paper: [https://arxiv.org/abs/2611.22046](https://arxiv.org/abs/2611.22046), 18 pages, 7 figures
+- 2026-11-16, **Anomaly inflow for simplicial Kähler fermions**, Simon Catterall, Paper: [https://arxiv.org/abs/2611.21860](https://arxiv.org/abs/2611.21860), 14 pages
+- 2026-11-16, **Structure Constants of Planar N=4 SYM at Any Coupling**, Simon Ekhammar, Alessandro Georgoudis, Nikolay Gromov, Paper: [https://arxiv.org/abs/2611.21843](https://arxiv.org/abs/2611.21843), 7 pages, 1 figure
+- 2026-11-16, **Actions of quantum groups: the standard implementation and relatively invariant weights**, Jacek Krajczok, Paper: [https://arxiv.org/abs/2611.21776](https://arxiv.org/abs/2611.21776), 24 pages, comments welcome
+- 2026-11-16, **Robust Passive Quantum Memory in Three Dimensions, Part I: Thermal and Zero-Temperature Perturbative Stability**, Patrick Hayden, Paper: [https://arxiv.org/abs/2611.21749](https://arxiv.org/abs/2611.21749), 84 pages, 25 figures
 - 2026-11-16, **Axioms for relative entropy**, Roberto Longo, Paper: [https://arxiv.org/abs/2611.21549](https://arxiv.org/abs/2611.21549), 27 pages
 - 2026-11-16, **Learning from Duality in Neural Network Field Theories**, Pietro Capuozzo, Brandon Robinson, Benjamin Suzzoni, Paper: [https://arxiv.org/abs/2611.21503](https://arxiv.org/abs/2611.21503), 1+76 pages, 7 figures
 - 2026-11-16, **Quasi-locality and weak containment for Roe algebras**, Benyin Fu, Kang Li, Jiawen Zhang, Paper: [https://arxiv.org/abs/2611.21255](https://arxiv.org/abs/2611.21255)
