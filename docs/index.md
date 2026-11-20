@@ -2,6 +2,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-19**|**All-Order Linearized Hydrodynamics of Charged Holographic Plasmas**|Karthik R., Shamant Shreedhar Dixit, K. M. Ajith, Kartheek Hegde, Shreyas Punacha, A. Naveena Kumara|[2611.26279](https://arxiv.org/abs/2611.26279)|null|
+|**2026-11-19**|**Fast extraction of universal data from temporal spectrum: Applications to Haagerup CFT and monopole scattering**|Tokiro Numasawa, Boris De Vos, Masataka Watanabe, Atsushi Ueda|[2611.26257](https://arxiv.org/abs/2611.26257)|null|
+|**2026-11-19**|**Spectral localizers in phase space: $\mathbb{Z}$ and $\mathbb{Z}_2$ invariants for higher-order, semimetal, and valley modes**|Lucien Jezequel, Christophe Mora|[2611.26160](https://arxiv.org/abs/2611.26160)|null|
+|**2026-11-19**|**Soft biological and bio-inspired materials**|Livio Nicola Carenza, Giuseppe Negro, Adriano Tiribocchi|[2611.25959](https://arxiv.org/abs/2611.25959)|null|
+|**2026-11-19**|**On the trajectories of the ID algorithm**|Ivano Lodato, Simran Hiranandani, Aditya Varna Iyer|[2611.25877](https://arxiv.org/abs/2611.25877)|null|
+|**2026-11-19**|**On quasi-triangular Hopf algebras of square-free dimensions**|Jiacheng Bao, Zhiqiang Yu, Ying Zheng|[2611.25676](https://arxiv.org/abs/2611.25676)|null|
+|**2026-11-19**|**Interaction-driven phase transition between bosonic Moore-Read and Laughlin states in a multiple flat-band model**|Licheng Wang, Jia-Yuan Wu, Dong-Hao Guan, Ai-Lei He, Yuan Zhou|[2611.25633](https://arxiv.org/abs/2611.25633)|null|
+|**2026-11-19**|**Subfactor symmetries of real Hadamard matrices**|Dietmar Bisch, Remus Nicoara|[2611.25616](https://arxiv.org/abs/2611.25616)|null|
+|**2026-11-18**|**A Hopf algebra action on the cohomology of moduli of abelian varieties**|Urshita Pal, Sam Payne|[2611.25187](https://arxiv.org/abs/2611.25187)|null|
+|**2026-11-18**|**$C_T$ and $C_J$ of general scalar--fermion conformal field theories in $d=4-ε$**|Shiroman Prakash, Shubham Kumar Sinha|[2611.25055](https://arxiv.org/abs/2611.25055)|null|
 |**2026-11-18**|**Exact Parent Hamiltonians for Partially Magnetized Chiral Spin Liquids**|Xin Shen, Guangyue Ji, Jie Wang|[2611.24935](https://arxiv.org/abs/2611.24935)|null|
 |**2026-11-18**|**A Poisson boundary solution to Connes' bicentralizer conjecture and Kadison's problem on MASA**|Shuoxing Zhou|[2611.24787](https://arxiv.org/abs/2611.24787)|null|
 |**2026-11-18**|**Learning the Anyon Atlas**|Jonah Berean-Dutcher, Clay Cordova, Julio Parra-Martinez, Richard Tuddenham, Zekai Zhu|[2611.24752](https://arxiv.org/abs/2611.24752)|null|

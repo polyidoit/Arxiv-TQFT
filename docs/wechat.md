@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-19, **All-Order Linearized Hydrodynamics of Charged Holographic Plasmas**, Karthik R., Shamant Shreedhar Dixit, K. M. Ajith, Kartheek Hegde, Shreyas Punacha, A. Naveena Kumara, Paper: [https://arxiv.org/abs/2611.26279](https://arxiv.org/abs/2611.26279), 53 pages, 18 figures, comments are welcome
+- 2026-11-19, **Fast extraction of universal data from temporal spectrum: Applications to Haagerup CFT and monopole scattering**, Tokiro Numasawa, Boris De Vos, Masataka Watanabe, Atsushi Ueda, Paper: [https://arxiv.org/abs/2611.26257](https://arxiv.org/abs/2611.26257), 10 pages, 6 figures, 2 tables; includes Supplemental Material
+- 2026-11-19, **Spectral localizers in phase space: $\mathbb{Z}$ and $\mathbb{Z}_2$ invariants for higher-order, semimetal, and valley modes**, Lucien Jezequel, Christophe Mora, Paper: [https://arxiv.org/abs/2611.26160](https://arxiv.org/abs/2611.26160), 13 pages, 6 figures, 1 table
+- 2026-11-19, **Soft biological and bio-inspired materials**, Livio Nicola Carenza, Giuseppe Negro, Adriano Tiribocchi, Paper: [https://arxiv.org/abs/2611.25959](https://arxiv.org/abs/2611.25959)
+- 2026-11-19, **On the trajectories of the ID algorithm**, Ivano Lodato, Simran Hiranandani, Aditya Varna Iyer, Paper: [https://arxiv.org/abs/2611.25877](https://arxiv.org/abs/2611.25877), 20 pages
+- 2026-11-19, **On quasi-triangular Hopf algebras of square-free dimensions**, Jiacheng Bao, Zhiqiang Yu, Ying Zheng, Paper: [https://arxiv.org/abs/2611.25676](https://arxiv.org/abs/2611.25676), 8 pages, comments welcome
+- 2026-11-19, **Interaction-driven phase transition between bosonic Moore-Read and Laughlin states in a multiple flat-band model**, Licheng Wang, Jia-Yuan Wu, Dong-Hao Guan, Ai-Lei He, Yuan Zhou, Paper: [https://arxiv.org/abs/2611.25633](https://arxiv.org/abs/2611.25633), 9 pages, 5 figures
+- 2026-11-19, **Subfactor symmetries of real Hadamard matrices**, Dietmar Bisch, Remus Nicoara, Paper: [https://arxiv.org/abs/2611.25616](https://arxiv.org/abs/2611.25616), 14 pages
+- 2026-11-18, **A Hopf algebra action on the cohomology of moduli of abelian varieties**, Urshita Pal, Sam Payne, Paper: [https://arxiv.org/abs/2611.25187](https://arxiv.org/abs/2611.25187), 46 pages
+- 2026-11-18, **$C_T$ and $C_J$ of general scalar--fermion conformal field theories in $d=4-ε$**, Shiroman Prakash, Shubham Kumar Sinha, Paper: [https://arxiv.org/abs/2611.25055](https://arxiv.org/abs/2611.25055), 55 pages, 5 figures. Code available at https://github.com/shubham-kumar-sinha/yukawa-ctcj
 - 2026-11-18, **Exact Parent Hamiltonians for Partially Magnetized Chiral Spin Liquids**, Xin Shen, Guangyue Ji, Jie Wang, Paper: [https://arxiv.org/abs/2611.24935](https://arxiv.org/abs/2611.24935), 28 pages, 6 figures, including appendices
 - 2026-11-18, **A Poisson boundary solution to Connes' bicentralizer conjecture and Kadison's problem on MASA**, Shuoxing Zhou, Paper: [https://arxiv.org/abs/2611.24787](https://arxiv.org/abs/2611.24787), 44 pages
 - 2026-11-18, **Learning the Anyon Atlas**, Jonah Berean-Dutcher, Clay Cordova, Julio Parra-Martinez, Richard Tuddenham, Zekai Zhu, Paper: [https://arxiv.org/abs/2611.24752](https://arxiv.org/abs/2611.24752), 24 pages, 11 figures
