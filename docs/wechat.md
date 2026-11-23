@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-20, **Localization of weakly integral objects in braided fusion categories**, César Galindo, Paper: [https://arxiv.org/abs/2611.27972](https://arxiv.org/abs/2611.27972), 26 pages
+- 2026-11-20, **Critical Ising and Temperley-Lieb-Jones States: Cone Haag Duality and the Trivial Algebra Object**, David E Evans, Paper: [https://arxiv.org/abs/2611.27892](https://arxiv.org/abs/2611.27892), Comments welcome
+- 2026-11-20, **Disk 2-point functions for conformal loop ensemble: a derivation from the SLE loop CFT**, Shengzhi Jin, Xin Sun, Baojun Wu, Paper: [https://arxiv.org/abs/2611.27767](https://arxiv.org/abs/2611.27767), 27 pages, 2 figures. This paper is aimed at theoretical physicists. In particular, not all arguments are mathematically rigorous
+- 2026-11-20, **Pairing and modular: Generalized electrons and quasiholes inside the $\boxtimes$ of topological orders**, Yoshiki Fukusumi, Yuma Furuta, Paper: [https://arxiv.org/abs/2611.27378](https://arxiv.org/abs/2611.27378), 11 pages, 1 figure
+- 2026-11-20, **Simple Yetter-Drinfeld Modules and Extensions over Fractional Infinite-Dimensional Taft Algebras**, Yiwei Zheng, Paper: [https://arxiv.org/abs/2611.27205](https://arxiv.org/abs/2611.27205), 29 pages
+- 2026-11-20, **Rigidity in the Lichnerowicz inequality for word-length semigroups**, Melchior Wirth, Paper: [https://arxiv.org/abs/2611.27204](https://arxiv.org/abs/2611.27204)
+- 2026-11-19, **Onset of quantum chaos in a family of two-dimensional conformal field theories**, Felix M. Haehl, Moshe Rozali, Paper: [https://arxiv.org/abs/2611.26694](https://arxiv.org/abs/2611.26694), 9 pages + appendices
 - 2026-11-19, **All-Order Linearized Hydrodynamics of Charged Holographic Plasmas**, Karthik R., Shamant Shreedhar Dixit, K. M. Ajith, Kartheek Hegde, Shreyas Punacha, A. Naveena Kumara, Paper: [https://arxiv.org/abs/2611.26279](https://arxiv.org/abs/2611.26279), 53 pages, 18 figures, comments are welcome
 - 2026-11-19, **Fast extraction of universal data from temporal spectrum: Applications to Haagerup CFT and monopole scattering**, Tokiro Numasawa, Boris De Vos, Masataka Watanabe, Atsushi Ueda, Paper: [https://arxiv.org/abs/2611.26257](https://arxiv.org/abs/2611.26257), 10 pages, 6 figures, 2 tables; includes Supplemental Material
 - 2026-11-19, **Spectral localizers in phase space: $\mathbb{Z}$ and $\mathbb{Z}_2$ invariants for higher-order, semimetal, and valley modes**, Lucien Jezequel, Christophe Mora, Paper: [https://arxiv.org/abs/2611.26160](https://arxiv.org/abs/2611.26160), 13 pages, 6 figures, 1 table

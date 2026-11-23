@@ -2,6 +2,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-20**|**Localization of weakly integral objects in braided fusion categories**|César Galindo|[2611.27972](https://arxiv.org/abs/2611.27972)|null|
+|**2026-11-20**|**Critical Ising and Temperley-Lieb-Jones States: Cone Haag Duality and the Trivial Algebra Object**|David E Evans|[2611.27892](https://arxiv.org/abs/2611.27892)|null|
+|**2026-11-20**|**Disk 2-point functions for conformal loop ensemble: a derivation from the SLE loop CFT**|Shengzhi Jin, Xin Sun, Baojun Wu|[2611.27767](https://arxiv.org/abs/2611.27767)|null|
+|**2026-11-20**|**Pairing and modular: Generalized electrons and quasiholes inside the $\boxtimes$ of topological orders**|Yoshiki Fukusumi, Yuma Furuta|[2611.27378](https://arxiv.org/abs/2611.27378)|null|
+|**2026-11-20**|**Simple Yetter-Drinfeld Modules and Extensions over Fractional Infinite-Dimensional Taft Algebras**|Yiwei Zheng|[2611.27205](https://arxiv.org/abs/2611.27205)|null|
+|**2026-11-20**|**Rigidity in the Lichnerowicz inequality for word-length semigroups**|Melchior Wirth|[2611.27204](https://arxiv.org/abs/2611.27204)|null|
+|**2026-11-19**|**Onset of quantum chaos in a family of two-dimensional conformal field theories**|Felix M. Haehl, Moshe Rozali|[2611.26694](https://arxiv.org/abs/2611.26694)|null|
 |**2026-11-19**|**All-Order Linearized Hydrodynamics of Charged Holographic Plasmas**|Karthik R., Shamant Shreedhar Dixit, K. M. Ajith, Kartheek Hegde, Shreyas Punacha, A. Naveena Kumara|[2611.26279](https://arxiv.org/abs/2611.26279)|null|
 |**2026-11-19**|**Fast extraction of universal data from temporal spectrum: Applications to Haagerup CFT and monopole scattering**|Tokiro Numasawa, Boris De Vos, Masataka Watanabe, Atsushi Ueda|[2611.26257](https://arxiv.org/abs/2611.26257)|null|
 |**2026-11-19**|**Spectral localizers in phase space: $\mathbb{Z}$ and $\mathbb{Z}_2$ invariants for higher-order, semimetal, and valley modes**|Lucien Jezequel, Christophe Mora|[2611.26160](https://arxiv.org/abs/2611.26160)|null|
