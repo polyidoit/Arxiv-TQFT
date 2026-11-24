@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-23, **A Fractional Chern Semimetal: Exact Wavefunction and Conformal Criticality**, Fa-Jie Wang, Yang Qi, Zhi-Da Song, Paper: [https://arxiv.org/abs/2611.31234](https://arxiv.org/abs/2611.31234), 34 pages, 12 figures, including Supplementary Materials
+- 2026-11-23, **Trace-class perturbations of Voiculescu's free semicircular families**, Minghui Ma, Rui Shi, Tianze Wang, Paper: [https://arxiv.org/abs/2611.30882](https://arxiv.org/abs/2611.30882), 23 pages, Free semicircular family, free group factor, trace-class perturbation, irreducible operator
+- 2026-11-23, **Two-Dimensional Local Smoothing in Noncommutative Spaces and Its Applications**, Xudong Lai, Siyu Liu, Paper: [https://arxiv.org/abs/2611.30520](https://arxiv.org/abs/2611.30520), 112 Pages
+- 2026-11-23, **Non-invertible Duality Defects in Four-Dimensional $\mathbb{Z}_N$ Lattice Gauge Theories**, Satoshi Yamaguchi, Paper: [https://arxiv.org/abs/2611.30489](https://arxiv.org/abs/2611.30489), 42 pages, 9 figures
+- 2026-11-23, **The Fourth-Power Formula for the Antipode in AS-Gorenstein Hopf Algebras**, Quanshui Wu, Ruipeng Zhu, Paper: [https://arxiv.org/abs/2611.30340](https://arxiv.org/abs/2611.30340), 30 pages, comments welcome
+- 2026-11-23, **Projecting Fermions into Exact Scar Towers: Local Protection across Phase Transitions**, Wenjie Wei, Kun Jiang, Hui-Ke Jin, Paper: [https://arxiv.org/abs/2611.30143](https://arxiv.org/abs/2611.30143)
+- 2026-11-23, **On the extension of non-faithful and non-normal traces of von Neumann algebras to their affiliated operators**, Comlan Edmond Koudjinan, Paper: [https://arxiv.org/abs/2611.30036](https://arxiv.org/abs/2611.30036)
+- 2026-11-23, **Frobenius $2$-algebras and $R$ -matrices**, Hibiki Shibuya, Yuji Terashima, Paper: [https://arxiv.org/abs/2611.29898](https://arxiv.org/abs/2611.29898)
+- 2026-11-22, **Local redundancies are necessary for long-lived memories in finite spatial dimensions**, Chao Yin, Yaodong Li, Benedikt Placke, Vedika Khemani, Paper: [https://arxiv.org/abs/2611.29689](https://arxiv.org/abs/2611.29689), 6+23 pages, 5+2 pages
+- 2026-11-22, **A Novel Algebraic Approach to Medium-Range Solvable Models**, Yuan Miao, Kohei Fukai, Paper: [https://arxiv.org/abs/2611.29351](https://arxiv.org/abs/2611.29351), 14 pages, no figures
 - 2026-11-20, **Localization of weakly integral objects in braided fusion categories**, César Galindo, Paper: [https://arxiv.org/abs/2611.27972](https://arxiv.org/abs/2611.27972), 26 pages
 - 2026-11-20, **Critical Ising and Temperley-Lieb-Jones States: Cone Haag Duality and the Trivial Algebra Object**, David E Evans, Paper: [https://arxiv.org/abs/2611.27892](https://arxiv.org/abs/2611.27892), Comments welcome
 - 2026-11-20, **Disk 2-point functions for conformal loop ensemble: a derivation from the SLE loop CFT**, Shengzhi Jin, Xin Sun, Baojun Wu, Paper: [https://arxiv.org/abs/2611.27767](https://arxiv.org/abs/2611.27767), 27 pages, 2 figures. This paper is aimed at theoretical physicists. In particular, not all arguments are mathematically rigorous
