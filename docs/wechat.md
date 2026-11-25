@@ -1,4 +1,4 @@
-> Automatically updated on 2026.11.24
+> Automatically updated on 2026.11.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,16 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-24, **Abelian envelopes and quantum groups in Knop's interpolation categories**, Johannes Flake, Peter Mader, Paper: [https://arxiv.org/abs/2611.33152](https://arxiv.org/abs/2611.33152)
+- 2026-11-24, **Non-formality of prefactorization algebras**, Coline Emprin, Alex Takeda, Paper: [https://arxiv.org/abs/2611.33125](https://arxiv.org/abs/2611.33125), 30 pages, 2 figures. Comments welcome!
+- 2026-11-24, **Correlation functions of 2D critical models via a KPZ relation for conformal blocks**, Gefei Cai, Shengzhi Jin, Xin Sun, Baojun Wu, Paper: [https://arxiv.org/abs/2611.32485](https://arxiv.org/abs/2611.32485), 7 pages, 2 figures. This Letter is aimed at physicists and mathematicians who are primarily interested in the global picture. Full mathematical details will be presented in a forthcoming paper
+- 2026-11-24, **Romans Mass from a $\mathrm{GL}(1,\mathbb{R})$ Topological Field Theory with Boundary**, Euihun Joung, J. A. Rosabal, Paper: [https://arxiv.org/abs/2611.32437](https://arxiv.org/abs/2611.32437), 42 pages, 3 figures
+- 2026-11-24, **The Commutant of the Adjoint Center Need Not Be the Center of the Dual**, Hülya Duru, Arkady Kitover, Mehmet Orhon, Paper: [https://arxiv.org/abs/2611.32262](https://arxiv.org/abs/2611.32262), 23 pages
+- 2026-11-24, **Hochschild operations and other invariants of stable equivalences of Morita type**, Shengyong Pan, Paper: [https://arxiv.org/abs/2611.32253](https://arxiv.org/abs/2611.32253)
+- 2026-11-24, **Holographic Entanglement Entropy of Network CFT**, Zhi-Rong Deng, Jie Yang, Paper: [https://arxiv.org/abs/2611.32224](https://arxiv.org/abs/2611.32224), 21 pages, 12 figures
+- 2026-11-24, **Algebraic derivations and the first \(L^2\)-cohomology of free group factors**, J. Huang, K. Kudaybergenov, F. Sukochev, B. Yan, Paper: [https://arxiv.org/abs/2611.32121](https://arxiv.org/abs/2611.32121), 17 pages
+- 2026-11-23, **Radiation from periods: Bremsstrahlung functions, wound loops, latitudes and integral constraints in ABJM**, Michelangelo Preti, Paper: [https://arxiv.org/abs/2611.31555](https://arxiv.org/abs/2611.31555), 94 pages, 15 figures
+- 2026-11-23, **A spin chain as a deformed conformal field theory: an ODE/IM approach**, Sujay K. Ashok, Nicolò Primi, Roberto Tateo, Paper: [https://arxiv.org/abs/2611.31417](https://arxiv.org/abs/2611.31417), 60 pages
 - 2026-11-23, **A Fractional Chern Semimetal: Exact Wavefunction and Conformal Criticality**, Fa-Jie Wang, Yang Qi, Zhi-Da Song, Paper: [https://arxiv.org/abs/2611.31234](https://arxiv.org/abs/2611.31234), 34 pages, 12 figures, including Supplementary Materials
 - 2026-11-23, **Trace-class perturbations of Voiculescu's free semicircular families**, Minghui Ma, Rui Shi, Tianze Wang, Paper: [https://arxiv.org/abs/2611.30882](https://arxiv.org/abs/2611.30882), 23 pages, Free semicircular family, free group factor, trace-class perturbation, irreducible operator
 - 2026-11-23, **Two-Dimensional Local Smoothing in Noncommutative Spaces and Its Applications**, Xudong Lai, Siyu Liu, Paper: [https://arxiv.org/abs/2611.30520](https://arxiv.org/abs/2611.30520), 112 Pages
@@ -2489,5 +2499,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 

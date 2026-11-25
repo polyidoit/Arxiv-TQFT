@@ -1,7 +1,17 @@
-> Automatically updated on 2026.11.24
+> Automatically updated on 2026.11.25
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-24**|**Abelian envelopes and quantum groups in Knop's interpolation categories**|Johannes Flake, Peter Mader|[2611.33152](https://arxiv.org/abs/2611.33152)|null|
+|**2026-11-24**|**Non-formality of prefactorization algebras**|Coline Emprin, Alex Takeda|[2611.33125](https://arxiv.org/abs/2611.33125)|null|
+|**2026-11-24**|**Correlation functions of 2D critical models via a KPZ relation for conformal blocks**|Gefei Cai, Shengzhi Jin, Xin Sun, Baojun Wu|[2611.32485](https://arxiv.org/abs/2611.32485)|null|
+|**2026-11-24**|**Romans Mass from a $\mathrm{GL}(1,\mathbb{R})$ Topological Field Theory with Boundary**|Euihun Joung, J. A. Rosabal|[2611.32437](https://arxiv.org/abs/2611.32437)|null|
+|**2026-11-24**|**The Commutant of the Adjoint Center Need Not Be the Center of the Dual**|Hülya Duru, Arkady Kitover, Mehmet Orhon|[2611.32262](https://arxiv.org/abs/2611.32262)|null|
+|**2026-11-24**|**Hochschild operations and other invariants of stable equivalences of Morita type**|Shengyong Pan|[2611.32253](https://arxiv.org/abs/2611.32253)|null|
+|**2026-11-24**|**Holographic Entanglement Entropy of Network CFT**|Zhi-Rong Deng, Jie Yang|[2611.32224](https://arxiv.org/abs/2611.32224)|null|
+|**2026-11-24**|**Algebraic derivations and the first \(L^2\)-cohomology of free group factors**|J. Huang, K. Kudaybergenov, F. Sukochev, B. Yan|[2611.32121](https://arxiv.org/abs/2611.32121)|null|
+|**2026-11-23**|**Radiation from periods: Bremsstrahlung functions, wound loops, latitudes and integral constraints in ABJM**|Michelangelo Preti|[2611.31555](https://arxiv.org/abs/2611.31555)|null|
+|**2026-11-23**|**A spin chain as a deformed conformal field theory: an ODE/IM approach**|Sujay K. Ashok, Nicolò Primi, Roberto Tateo|[2611.31417](https://arxiv.org/abs/2611.31417)|null|
 |**2026-11-23**|**A Fractional Chern Semimetal: Exact Wavefunction and Conformal Criticality**|Fa-Jie Wang, Yang Qi, Zhi-Da Song|[2611.31234](https://arxiv.org/abs/2611.31234)|null|
 |**2026-11-23**|**Trace-class perturbations of Voiculescu's free semicircular families**|Minghui Ma, Rui Shi, Tianze Wang|[2611.30882](https://arxiv.org/abs/2611.30882)|null|
 |**2026-11-23**|**Two-Dimensional Local Smoothing in Noncommutative Spaces and Its Applications**|Xudong Lai, Siyu Liu|[2611.30520](https://arxiv.org/abs/2611.30520)|null|
