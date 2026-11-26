@@ -1,7 +1,14 @@
-> Automatically updated on 2026.11.25
+> Automatically updated on 2026.11.26
 
 ## TQFT, Topological order, Generalized symmetry
 
+|**2026-11-25**|**The type I conjecture for locally compact groups acting on trees**|Cyril Houdayer, Basile Morando|[2611.34793](https://arxiv.org/abs/2611.34793)|null|
+|**2026-11-25**|**Rényi multi-entropy from Riemann surfaces**|Kenya Tasuki|[2611.34715](https://arxiv.org/abs/2611.34715)|null|
+|**2026-11-25**|**Reconstructing massive quivers on a defect circle**|Ting-Kai Chen, Jin Chen|[2611.34129](https://arxiv.org/abs/2611.34129)|null|
+|**2026-11-25**|**A Sweedler dual seen as a terminal object in a category of bialgebras**|Lo{ï}c Foissy|[2611.33910](https://arxiv.org/abs/2611.33910)|null|
+|**2026-11-25**|**Late-time OTOCs in Toda conformal field theory**|Giwan Kim, Masahito Yamazaki|[2611.33744](https://arxiv.org/abs/2611.33744)|null|
+|**2026-11-24**|**Chiral Domain-Wall Modes in Topological Adaptive Quantum Dynamics**|Asadullah Bhuiyan, Haining Pan, Chao-Ming Jian|[2611.33328](https://arxiv.org/abs/2611.33328)|null|
+|**2026-11-24**|**Energy plateau cascades from complex-time local quenches in thermal two-dimensional CFTs**|Dmitry S. Ageev, Vladimir A. Bykov|[2611.33283](https://arxiv.org/abs/2611.33283)|null|
 |**2026-11-24**|**Abelian envelopes and quantum groups in Knop's interpolation categories**|Johannes Flake, Peter Mader|[2611.33152](https://arxiv.org/abs/2611.33152)|null|
 |**2026-11-24**|**Non-formality of prefactorization algebras**|Coline Emprin, Alex Takeda|[2611.33125](https://arxiv.org/abs/2611.33125)|null|
 |**2026-11-24**|**Correlation functions of 2D critical models via a KPZ relation for conformal blocks**|Gefei Cai, Shengzhi Jin, Xin Sun, Baojun Wu|[2611.32485](https://arxiv.org/abs/2611.32485)|null|

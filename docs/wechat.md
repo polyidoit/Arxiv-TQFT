@@ -1,4 +1,4 @@
-> Automatically updated on 2026.11.25
+> Automatically updated on 2026.11.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,6 +9,13 @@
 
 ## TQFT, Topological order, Generalized symmetry
 
+- 2026-11-25, **The type I conjecture for locally compact groups acting on trees**, Cyril Houdayer, Basile Morando, Paper: [https://arxiv.org/abs/2611.34793](https://arxiv.org/abs/2611.34793), 38 pages. Comments welcome !
+- 2026-11-25, **Rényi multi-entropy from Riemann surfaces**, Kenya Tasuki, Paper: [https://arxiv.org/abs/2611.34715](https://arxiv.org/abs/2611.34715), 87+43 pages, 8+2 figures
+- 2026-11-25, **Reconstructing massive quivers on a defect circle**, Ting-Kai Chen, Jin Chen, Paper: [https://arxiv.org/abs/2611.34129](https://arxiv.org/abs/2611.34129), 40 pages+4 appendices, 14 figures, 13 tables, ancillary code included
+- 2026-11-25, **A Sweedler dual seen as a terminal object in a category of bialgebras**, Lo{ï}c Foissy, Paper: [https://arxiv.org/abs/2611.33910](https://arxiv.org/abs/2611.33910)
+- 2026-11-25, **Late-time OTOCs in Toda conformal field theory**, Giwan Kim, Masahito Yamazaki, Paper: [https://arxiv.org/abs/2611.33744](https://arxiv.org/abs/2611.33744), 74 pages, 10 figures
+- 2026-11-24, **Chiral Domain-Wall Modes in Topological Adaptive Quantum Dynamics**, Asadullah Bhuiyan, Haining Pan, Chao-Ming Jian, Paper: [https://arxiv.org/abs/2611.33328](https://arxiv.org/abs/2611.33328), 18 pages, 8 figures, including appendices
+- 2026-11-24, **Energy plateau cascades from complex-time local quenches in thermal two-dimensional CFTs**, Dmitry S. Ageev, Vladimir A. Bykov, Paper: [https://arxiv.org/abs/2611.33283](https://arxiv.org/abs/2611.33283), 66 pages + appendices, 19 figures, 1 table; comments and references are welcome
 - 2026-11-24, **Abelian envelopes and quantum groups in Knop's interpolation categories**, Johannes Flake, Peter Mader, Paper: [https://arxiv.org/abs/2611.33152](https://arxiv.org/abs/2611.33152)
 - 2026-11-24, **Non-formality of prefactorization algebras**, Coline Emprin, Alex Takeda, Paper: [https://arxiv.org/abs/2611.33125](https://arxiv.org/abs/2611.33125), 30 pages, 2 figures. Comments welcome!
 - 2026-11-24, **Correlation functions of 2D critical models via a KPZ relation for conformal blocks**, Gefei Cai, Shengzhi Jin, Xin Sun, Baojun Wu, Paper: [https://arxiv.org/abs/2611.32485](https://arxiv.org/abs/2611.32485), 7 pages, 2 figures. This Letter is aimed at physicists and mathematicians who are primarily interested in the global picture. Full mathematical details will be presented in a forthcoming paper
@@ -2499,5 +2506,5 @@
 - 2018-08-06, **Quantum Field Theory of X-Cube Fracton Topological Order and Robust Degeneracy from Geometry**, Kevin Slagle, Yong Baek Kim, Paper: [https://arxiv.org/abs/1708.04619](https://arxiv.org/abs/1708.04619), 14+6 pages, 8+3 figures; v5 fixes errors in eq 44-45; talk: http://www.perimeterinstitute.ca/videos/beyond-topological-order-fractons-and-their-field-theory
 - 2020-04-28, **K3 en route From Geometry to Conformal Field Theory**, Katrin Wendland, Paper: [https://arxiv.org/abs/1503.08426](https://arxiv.org/abs/1503.08426), 39 pages, no figures; lecture notes for the author's contribution to the 2013 Summer School "Geometric, Algebraic and Topological Methods for Quantum Field Theory" in Villa de Leyva, Colombia
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
